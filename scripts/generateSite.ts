@@ -671,10 +671,15 @@ class BastesPocketSiteGenerator {
 
     // Render grouped content in order of importance
     if (recipes.length > 0) {
-      // Smart filtering: only skip ID-less recipes if there are multiple recipes
+      // Smart filtering: only skip ID-less recipes if there are multiple recipes AND some have IDs
       let filteredRecipes = recipes;
       if (recipes.length > 1) {
-        filteredRecipes = recipes.filter(recipe => recipe['@id']);
+        const recipesWithIds = recipes.filter(recipe => recipe['@id']);
+        // Only filter if some recipes have IDs (to avoid duplicates)
+        // If no recipes have IDs, keep all of them
+        if (recipesWithIds.length > 0) {
+          filteredRecipes = recipesWithIds;
+        }
       }
       
       // Resolve comment references for recipes
@@ -723,6 +728,10 @@ class BastesPocketSiteGenerator {
       renderedData += this.renderReviewsData(reviews);
     }
 
+    if (ratings.length > 0) {
+      renderedData += this.renderRatingsData(ratings);
+    }
+
     if (videos.length > 0) {
       renderedData += this.renderVideosData(videos);
     }
@@ -733,7 +742,12 @@ class BastesPocketSiteGenerator {
       // Use filtered recipes for comment resolution
       let filteredRecipes = recipes;
       if (recipes.length > 1) {
-        filteredRecipes = recipes.filter(recipe => recipe['@id']);
+        const recipesWithIds = recipes.filter(recipe => recipe['@id']);
+        // Only filter if some recipes have IDs (to avoid duplicates)
+        // If no recipes have IDs, keep all of them
+        if (recipesWithIds.length > 0) {
+          filteredRecipes = recipesWithIds;
+        }
       }
       
       for (const recipe of filteredRecipes) {
@@ -756,10 +770,6 @@ class BastesPocketSiteGenerator {
 
     if (questions.length > 0 || answers.length > 0) {
       renderedData += this.renderQAData(questions, answers);
-    }
-
-    if (ratings.length > 0) {
-      renderedData += this.renderRatingsData(ratings);
     }
 
     if (nutrition.length > 0) {
@@ -1443,19 +1453,34 @@ class BastesPocketSiteGenerator {
 
             ${article.json_ld_objects && article.json_ld_objects.length > 0 ? `
             <div class="structured-content">
-                <h2>Structured Information</h2>
                 ${this.renderJsonLdData(article.json_ld_objects)}
             </div>
             ` : ''}
 
-            ${article.main_text_content ? `
-            <div class="article-content">
-                <h2>Content Preview</h2>
-                <div class="content-text">
-                    ${article.main_text_content.split('\n').map(p => p.trim() ? `<p>${p}</p>` : '').join('')}
-                </div>
-            </div>
-            ` : ''}
+            ${article.main_text_content ? (() => {
+              // Check if this article has recipe data in JSON-LD
+              const hasRecipeData = article.json_ld_objects && 
+                article.json_ld_objects.some((obj: any) => 
+                  Array.isArray(obj) ? obj.some((item: any) => item['@type'] === 'Recipe') :
+                  obj['@type'] === 'Recipe'
+                );
+              
+              // For articles with structured recipe data, skip content preview entirely
+              if (hasRecipeData) {
+                return '';
+              }
+              
+              // For other articles, show cleaned content preview
+              const cleanedContent = this.cleanContentPreview(article.main_text_content, false);
+              return cleanedContent ? `
+              <div class="article-content">
+                  <h2>Content Preview</h2>
+                  <div class="content-text">
+                      ${cleanedContent.split('\n').map(p => p.trim() ? `<p>${p}</p>` : '').join('')}
+                  </div>
+              </div>
+              ` : '';
+            })() : ''}
 
             ${uniqueTags.length > 0 ? `
             <div class="article-tags">
@@ -1495,6 +1520,48 @@ class BastesPocketSiteGenerator {
     </main>
 </body>
 </html>`;
+  }
+
+  private cleanContentPreview(content: string, hasRecipes: boolean): string {
+    if (!content) return '';
+    
+    // For recipe articles, only show the first few paragraphs before recipe content
+    if (hasRecipes) {
+      // Split into paragraphs and look for recipe indicators
+      const paragraphs = content.split('\n').filter(p => p.trim());
+      const cleanParagraphs: string[] = [];
+      
+      for (const paragraph of paragraphs) {
+        const lowerPara = paragraph.toLowerCase();
+        
+        // Stop if we hit recipe content indicators
+        if (lowerPara.includes('prep ') && lowerPara.includes('min') ||
+            lowerPara.includes('cook ') && lowerPara.includes('min') ||
+            lowerPara.includes('serves ') ||
+            lowerPara.includes('makes ') ||
+            lowerPara.includes('ingredients') ||
+            lowerPara.includes('tbsp ') ||
+            lowerPara.includes('tsp ') ||
+            lowerPara.includes('ml ') ||
+            lowerPara.includes('g ') && (lowerPara.includes('butter') || lowerPara.includes('flour') || lowerPara.includes('sugar')) ||
+            lowerPara.includes('cloves') ||
+            lowerPara.includes('defrosted') ||
+            lowerPara.includes('finely chopped') ||
+            lowerPara.includes('roughly chopped')) {
+          break;
+        }
+        
+        cleanParagraphs.push(paragraph);
+        
+        // Limit to first 3-4 paragraphs for recipe articles
+        if (cleanParagraphs.length >= 3) break;
+      }
+      
+      return cleanParagraphs.join('\n');
+    }
+    
+    // For non-recipe articles, show more content but still limit it
+    return content.split('\n').slice(0, 8).join('\n');
   }
 
   private renderArticleCard(article: ProcessedArticle, relativePath: string = '', maxTags: number = 0): string {
