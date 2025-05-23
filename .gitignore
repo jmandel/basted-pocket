@@ -1,0 +1,60 @@
+# dependencies (bun install)
+node_modules
+
+# build outputs
+out
+dist
+build_output
+*.tgz
+*.tar.gz
+
+# backup directories
+build_output.bak
+*.bak
+
+# data files that can be regenerated
+recipes.json
+recipes.md
+dataset.json
+search-data.json
+
+# code coverage
+coverage
+*.lcov
+
+# logs
+logs
+*.log
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# caches
+.eslintcache
+.cache
+*.tsbuildinfo
+
+# IntelliJ based IDEs
+.idea
+
+# Finder (MacOS) folder config
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Python cache (for local server)
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.temp
+
+# Archive files
+pocket.zip

@@ -1,0 +1,35 @@
+{
+  "name": "basted-pocket",
+  "type": "module",
+  "private": true,
+  "description": "AI-Enhanced Recipe Collection - Your GitOps-powered read-it-later service",
+  "scripts": {
+    "import": "bun run scripts/importPocket.ts",
+    "build": "bun run scripts/scrapeContent.ts && bun run scripts/enrichContent.ts && bun run scripts/generateSite.ts",
+    "scrape": "bun run scripts/scrapeContent.ts",
+    "enrich": "bun run scripts/enrichContent.ts",
+    "scrape:refresh": "bun run scripts/scrapeContent.ts --refresh-since",
+    "enrich:refresh": "bun run scripts/enrichContent.ts --refresh-since",
+    "generate": "bun run scripts/generateSite.ts",
+    "add": "bun run scripts/addLink.ts",
+    "archive": "cd build_output && tar -czf ../data-backup.tar.gz data/",
+    "restore": "tar -xzf data-backup.tar.gz -C build_output/",
+    "serve": "cd dist && python3 -m http.server 8000 || python3 -m http.server 8001 || python3 -m http.server 8002",
+    "deploy": "bun run build && echo 'Site built! Deploy dist/ folder to your hosting service.'",
+    "clean": "rm -rf dist build_output *.tar.gz"
+  },
+  "dependencies": {
+    "csv-parse": "^5.5.2",
+    "commander": "^11.1.0",
+    "chalk": "^5.3.0",
+    "@google/genai": "^1.0.1",
+    "mime": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/node": "^20.10.0"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}

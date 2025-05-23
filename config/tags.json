@@ -1,0 +1,79 @@
+{
+  "tags": [
+    {
+      "name": "breakfast",
+      "description": "Morning meals, cereals, pancakes, eggs, etc.",
+      "keywords_hint": ["breakfast", "morning", "cereal", "pancake", "waffle", "eggs", "omelette", "toast"]
+    },
+    {
+      "name": "lunch",
+      "description": "Midday meals, sandwiches, salads, light meals",
+      "keywords_hint": ["lunch", "sandwich", "salad", "wrap", "soup", "bowl"]
+    },
+    {
+      "name": "dinner",
+      "description": "Evening meals, main courses, hearty dishes",
+      "keywords_hint": ["dinner", "main course", "roast", "steak", "pasta", "casserole"]
+    },
+    {
+      "name": "dessert",
+      "description": "Sweet treats, cakes, cookies, ice cream",
+      "keywords_hint": ["dessert", "cake", "cookie", "pie", "ice cream", "chocolate", "sweet"]
+    },
+    {
+      "name": "vegetarian",
+      "description": "Meat-free recipes",
+      "keywords_hint": ["vegetarian", "veggie", "plant-based", "meatless"]
+    },
+    {
+      "name": "vegan",
+      "description": "Plant-based recipes without any animal products",
+      "keywords_hint": ["vegan", "plant-based", "dairy-free"]
+    },
+    {
+      "name": "gluten-free",
+      "description": "Recipes without gluten",
+      "keywords_hint": ["gluten-free", "celiac", "wheat-free"]
+    },
+    {
+      "name": "quick",
+      "description": "Fast recipes that can be made in 30 minutes or less",
+      "keywords_hint": ["quick", "fast", "30 minutes", "easy", "simple"]
+    },
+    {
+      "name": "healthy",
+      "description": "Nutritious, low-calorie, or health-focused recipes",
+      "keywords_hint": ["healthy", "nutritious", "low-calorie", "diet", "fitness"]
+    },
+    {
+      "name": "comfort-food",
+      "description": "Hearty, satisfying, traditional comfort foods",
+      "keywords_hint": ["comfort", "hearty", "traditional", "homestyle", "classic"]
+    },
+    {
+      "name": "international",
+      "description": "Recipes from various world cuisines",
+      "keywords_hint": ["italian", "mexican", "asian", "indian", "french", "thai", "chinese", "japanese"]
+    },
+    {
+      "name": "baking",
+      "description": "Baked goods, bread, pastries",
+      "keywords_hint": ["baking", "bread", "pastry", "muffin", "scone", "biscuit"]
+    },
+    {
+      "name": "grilling",
+      "description": "Grilled or barbecued foods",
+      "keywords_hint": ["grill", "bbq", "barbecue", "grilled", "outdoor cooking"]
+    },
+    {
+      "name": "slow-cooker",
+      "description": "Slow cooker and crockpot recipes",
+      "keywords_hint": ["slow cooker", "crockpot", "slow cook", "set and forget"]
+    },
+    {
+      "name": "instant-pot",
+      "description": "Pressure cooker and Instant Pot recipes",
+      "keywords_hint": ["instant pot", "pressure cooker", "pressure cook"]
+    }
+  ]
+} 
