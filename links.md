@@ -293,4 +293,3 @@
 - [Mung bean sprouts recipe - Maangchi.com](https://www.maangchi.com/recipe/sukju-namul) #asian #maangchi #recipe #veg @note:Added_to_Pocket_on_2018-01-21
 - [Roasted-Buckwheat Custards (Soba-Cha Puddings) Recipe | Serious Eats](http://www.seriouseats.com/recipes/2017/03/buckwheat-custards-pudding-soba-cha-dessert-recipe.html) #asian #dessert #recipe #tried-and-true @note:Added_to_Pocket_on_2018-01-21
 - [How to Make Creamy Japanese Roasted-Buckwheat Custards | Serious Eats](http://www.seriouseats.com/2017/03/how-to-make-japanese-buckwheat-custards-soba-cha.html) #dessert #recipe @note:Added_to_Pocket_on_2018-01-20
-- [gemini.google.com](https://gemini.google.com/) #brunch #drink #egg
