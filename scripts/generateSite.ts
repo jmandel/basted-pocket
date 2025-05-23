@@ -248,23 +248,25 @@ class BastesPocketSiteGenerator {
     const tags = this.groupByTags(articles);
     const contentTypes = this.groupByContentType(articles);
     
-    // Calculate statistics
+    // Calculate statistics - but only count displayable articles for tag counts
     const processedArticles = articles.filter(a => this.isArticleDisplayable(a));
-    const tagCounts = Object.entries(tags).map(([tag, tagArticles]) => ({
+    
+    // Fix: Calculate tag counts based only on displayable articles to match individual tag pages
+    const displayableTagCounts = Object.entries(tags).map(([tag, tagArticles]) => ({
       tag,
-      count: tagArticles.length
+      count: tagArticles.filter(a => this.isArticleDisplayable(a)).length // Only count displayable articles
     })).sort((a, b) => b.count - a.count);
     
     const contentTypeCounts = Object.entries(contentTypes).map(([type, typeArticles]) => ({
       type,
-      count: typeArticles.length
+      count: typeArticles.filter(a => this.isArticleDisplayable(a)).length // Also fix content type counts
     })).sort((a, b) => b.count - a.count);
     
     const stats = {
       totalArticles: articles.length,
       processedArticles: processedArticles.length,
       totalTags: Object.keys(tags).length,
-      topTags: tagCounts.slice(0, 20),
+      topTags: displayableTagCounts.slice(0, 20),
       contentTypes: contentTypeCounts
     };
     
@@ -1218,12 +1220,12 @@ class BastesPocketSiteGenerator {
           }).filter(Boolean);
           
           return validInstructions.length > 0 ? `
-          <div class="recipe-instructions">
+        <div class="recipe-instructions">
             <h6>Instructions:</h6>
-            <ol>
+          <ol>
               ${validInstructions.join('')}
-            </ol>
-          </div>
+          </ol>
+        </div>
           ` : '';
         })() : ''}
 
@@ -1473,12 +1475,12 @@ class BastesPocketSiteGenerator {
               // For other articles, show cleaned content preview
               const cleanedContent = this.cleanContentPreview(article.main_text_content, false);
               return cleanedContent ? `
-              <div class="article-content">
-                  <h2>Content Preview</h2>
-                  <div class="content-text">
+            <div class="article-content">
+                <h2>Content Preview</h2>
+                <div class="content-text">
                       ${cleanedContent.split('\n').map(p => p.trim() ? `<p>${p}</p>` : '').join('')}
-                  </div>
-              </div>
+                </div>
+            </div>
               ` : '';
             })() : ''}
 

@@ -3,8 +3,7 @@
 ## 2025
 
 - https://cooking.nytimes.com/recipes/1025743-chickpea-noodle-soup #dinner #recipe #soup #veg
-- https://cooking.nytimes.com/recipes/1026167-scallion-oil-fish #dinner #fish #tried-and-true @note:Added_to_Pocket_on_2025-05-23
-- https://cooking.nytimes.com/recipes/1026167-scallion-oil-fish #asian #dinner #fish #fried #newt #noodles @note:Added_to_Pocket_on_2025-05-23
+- https://cooking.nytimes.com/recipes/1026167-scallion-oil-fish #asian #dinner #fish
 - [Spicy Miso Lentil Soup Recipe](https://cooking.nytimes.com/recipes/1026788-spicy-miso-lentil-soup) #dinner #gf #recipe #soup #veg @note:Added_to_Pocket_on_2025-04-26
 - [How to Cook Fish, the French Way - NYT Cooking](https://cooking.nytimes.com/article/dover-sole-meuniere) #dinner #fish #recipe @note:Added_to_Pocket_on_2025-03-29
 - [Caramelized-Scallion Sauce Recipe](https://cooking.nytimes.com/recipes/1019308-caramelized-scallion-sauce) #dinner #recipe @note:Added_to_Pocket_on_2025-03-28
