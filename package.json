@@ -14,7 +14,7 @@
     "add": "bun run scripts/addLink.ts",
     "archive": "cd build_output && tar -czf ../data-backup.tar.gz data/",
     "restore": "tar -xzf data-backup.tar.gz -C build_output/",
-    "serve": "cd dist && python3 -m http.server 8000 || python3 -m http.server 8001 || python3 -m http.server 8002",
+    "serve": "cd dist && bun x http-server -p 8000 -o",
     "deploy": "bun run build && echo 'Site built! Deploy dist/ folder to your hosting service.'",
     "clean": "rm -rf dist build_output *.tar.gz"
   },

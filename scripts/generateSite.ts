@@ -2,34 +2,50 @@
 
 import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'fs';
 import { join } from 'path';
+import { parseLinksMarkdown, type ParsedLink } from './parseLinks.ts';
 
 /**
  * Basted Pocket Static Site Generator
- * Reads enriched data from parseAndScrape.ts and generates static HTML site
+ * Merges fresh data from links.md with scraped content just-in-time
  */
 
-interface ProcessedArticle {
-  id: string;
-  original_url: string;
+interface ScrapedData {
   canonical_url: string;
-  user_title?: string;
-  user_tags: string[];
-  user_notes?: string;
-  time_added_to_links_md?: string;
   fetched_title?: string;
   main_text_content?: string;
   main_html_content?: string;
   publication_date?: string;
   author?: string;
   key_image_url?: string;
+  local_image_path?: string;
   json_ld_objects?: any[];
+  scraping_timestamp?: string;
+  scraping_status?: 'scraped' | 'error_scraping' | 'skipped';
+  error?: string;
+}
+
+interface ProcessedArticle extends ParsedLink {
+  // Scraped data
+  fetched_title?: string;
+  main_text_content?: string;
+  main_html_content?: string;
+  publication_date?: string;
+  author?: string;
+  key_image_url?: string;
+  local_image_path?: string;
+  json_ld_objects?: any[];
+  
+  // AI enriched data
   auto_tags?: string[];
   summary?: string;
   keywords?: string[];
   read_time_minutes?: number;
   content_type?: string;
-  processing_timestamp: string;
-  status: 'processed' | 'error_scraping' | 'error_llm' | 'skipped';
+  processing_timestamp?: string;
+  
+  // Status tracking
+  scraping_status?: 'scraped' | 'error_scraping' | 'skipped';
+  enrichment_status?: 'enriched' | 'error_enrichment' | 'skipped';
   error?: string;
   llm_error?: string;
 }
@@ -56,10 +72,8 @@ class BastesPocketSiteGenerator {
 
   private isArticleDisplayable(article: ProcessedArticle): boolean {
     // Article is displayable if it has been successfully scraped
-    // Check both old format (status) and new format (scraping_status)
-    return article.status === 'processed' || 
-           (article as any).scraping_status === 'scraped' ||
-           (article as any).enrichment_status === 'enriched';
+    return article.scraping_status === 'scraped' || 
+           article.enrichment_status === 'enriched';
   }
 
   private getImageUrl(article: ProcessedArticle, relativePath: string = ''): string | undefined {
@@ -79,68 +93,85 @@ class BastesPocketSiteGenerator {
   }
 
   async generateFromEnrichedData(): Promise<void> {
-    console.log('🔄 Reading data from individual files...');
+    console.log('🔄 Merging fresh data from links.md with scraped content...');
     
-    // Load from individual files in data directories
-    const articles: ProcessedArticle[] = [];
+    // Get fresh data from links.md
+    const linksData = parseLinksMarkdown();
+    console.log(`📖 Loaded ${linksData.length} links from links.md`);
     
-    // Try enriched files first, then scraped files as fallback
-    const dataDirs = [
-      { dir: 'build_output/data/enriched', type: 'enriched' },
-      { dir: 'build_output/enriched', type: 'enriched' },
-      { dir: 'build_output/data/scraped', type: 'scraped' },
-      { dir: 'build_output/scraped', type: 'scraped' }
-    ];
+    // Load scraped data
+    const scrapedData = new Map<string, ScrapedData>();
+    const enrichedData = new Map<string, any>();
     
-    let loadedCount = 0;
-    let dataSource = 'none';
-    
-         for (const { dir, type } of dataDirs) {
-       if (existsSync(dir)) {
-         const articleDirs = require('fs').readdirSync(dir);
-         for (const articleDir of articleDirs) {
-           const articlePath = `${dir}/${articleDir}`;
-           const dataFile = `${articlePath}/data.json`;
-           
-           // Check if it's a directory and has data.json
-           if (require('fs').statSync(articlePath).isDirectory() && existsSync(dataFile)) {
-             try {
-               const article = JSON.parse(readFileSync(dataFile, 'utf-8'));
-               // Avoid duplicates (enriched takes precedence over scraped)
-               if (!articles.find(a => a.id === article.id)) {
-                 articles.push(article);
-                 loadedCount++;
-               }
-             } catch (error) {
-               console.warn(`⚠️  Could not load ${dataFile}:`, error);
-             }
-           }
-           // Also handle old format (direct JSON files) for backward compatibility
-           else if (articleDir.endsWith('.json')) {
-             try {
-               const article = JSON.parse(readFileSync(articlePath, 'utf-8'));
-               // Avoid duplicates (enriched takes precedence over scraped)
-               if (!articles.find(a => a.id === article.id)) {
-                 articles.push(article);
-                 loadedCount++;
-               }
-             } catch (error) {
-               console.warn(`⚠️  Could not load ${articlePath}:`, error);
-             }
-           }
-         }
-         if (loadedCount > 0 && dataSource === 'none') {
-           dataSource = `${dir} (${type})`;
-         }
-       }
-     }
-    
-    if (articles.length === 0) {
-      console.log('⚠️  No processed data found. Generating empty site...');
-      console.log('💡 Run scraping and enrichment first to populate the site with content.');
-    } else {
-      console.log(`✅ Loaded ${articles.length} articles from ${dataSource}`);
+    // Load scraped content
+    const scrapedDirs = ['build_output/data/scraped', 'build_output/scraped'];
+    for (const scrapedDir of scrapedDirs) {
+      if (existsSync(scrapedDir)) {
+        const articleDirs = require('fs').readdirSync(scrapedDir);
+        for (const articleDir of articleDirs) {
+          const articlePath = `${scrapedDir}/${articleDir}`;
+          const dataFile = `${articlePath}/data.json`;
+          
+          if (require('fs').statSync(articlePath).isDirectory() && existsSync(dataFile)) {
+            try {
+              const scraped = JSON.parse(readFileSync(dataFile, 'utf-8'));
+              scrapedData.set(scraped.id, scraped);
+            } catch (error) {
+              console.warn(`⚠️  Could not load ${dataFile}:`, error);
+            }
+          }
+        }
+      }
     }
+    
+    // Load enriched content
+    const enrichedDirs = ['build_output/data/enriched', 'build_output/enriched'];
+    for (const enrichedDir of enrichedDirs) {
+      if (existsSync(enrichedDir)) {
+        const articleDirs = require('fs').readdirSync(enrichedDir);
+        for (const articleDir of articleDirs) {
+          const articlePath = `${enrichedDir}/${articleDir}`;
+          const dataFile = `${articlePath}/data.json`;
+          
+          if (require('fs').statSync(articlePath).isDirectory() && existsSync(dataFile)) {
+            try {
+              const enriched = JSON.parse(readFileSync(dataFile, 'utf-8'));
+              enrichedData.set(enriched.id, enriched);
+            } catch (error) {
+              console.warn(`⚠️  Could not load ${dataFile}:`, error);
+            }
+          }
+        }
+      }
+    }
+    
+    // Merge all data just-in-time
+    const articles: ProcessedArticle[] = linksData.map(link => {
+      const scraped = scrapedData.get(link.id);
+      const enriched = enrichedData.get(link.id);
+      
+      // Merge data but ensure fresh links.md data takes precedence for user fields
+      const merged = {
+        ...scraped, // Scraped web content
+        ...enriched, // AI enriched data
+        ...link, // Fresh data from links.md - takes precedence
+      };
+      
+      // Explicitly ensure user fields from links.md override any cached versions
+      merged.user_tags = link.user_tags;
+      merged.user_title = link.user_title;
+      merged.user_notes = link.user_notes;
+      
+      // For auto_tags, preserve any AI-generated tags from enrichment
+      if (enriched?.auto_tags && enriched.auto_tags.length > 0) {
+        merged.auto_tags = enriched.auto_tags;
+      }
+      
+      return merged;
+    });
+    
+    console.log(`✅ Merged ${articles.length} articles`);
+    console.log(`📊 Scraped: ${scrapedData.size}, Enriched: ${enrichedData.size}`);
     
     // Report on data completeness
     this.reportDataCompleteness(articles);
@@ -382,12 +413,6 @@ class BastesPocketSiteGenerator {
                         `<option value="${tag}">${tag} (${count})</option>`
                     ).join('')}
                 </select>
-                <select id="typeFilter" class="filter-select">
-                    <option value="">All Types</option>
-                    ${data.stats.contentTypes.sort((a, b) => a.type.localeCompare(b.type)).map(({ type, count }) => 
-                        `<option value="${type}">${type} (${count})</option>`
-                    ).join('')}
-                </select>
             </div>
         </div>
 
@@ -408,12 +433,8 @@ class BastesPocketSiteGenerator {
             <div id="articlesContainer" class="articles-grid">
                 ${data.articles
                   .filter(a => this.isArticleDisplayable(a))
-                  .slice(0, 20)
                   .map(article => this.renderArticleCard(article))
                   .join('')}
-            </div>
-            <div class="load-more">
-                <button id="loadMoreBtn" class="btn-secondary">Load More Recipes</button>
             </div>
         </div>
     </main>
@@ -746,9 +767,7 @@ class BastesPocketSiteGenerator {
             <div class="article-tags">
                 <h3>Tags</h3>
                 <div class="tags">
-                    ${uniqueTags.map(tag => 
-                        `<a href="../tags/${tag}.html" class="tag">${tag}</a>`
-                    ).join('')}
+                    ${uniqueTags.map(tag => `<a href="../tags/${tag}.html" class="tag">${tag}</a>`).join('')}
                 </div>
             </div>
             ` : ''}
@@ -784,7 +803,7 @@ class BastesPocketSiteGenerator {
 </html>`;
   }
 
-  private renderArticleCard(article: ProcessedArticle, relativePath: string = ''): string {
+  private renderArticleCard(article: ProcessedArticle, relativePath: string = '', maxTags: number = 0): string {
     const title = article.fetched_title || article.user_title || 'Untitled';
     const allTags = [...(article.user_tags || []), ...(article.auto_tags || [])];
     const uniqueTags = [...new Set(allTags)];
@@ -792,6 +811,10 @@ class BastesPocketSiteGenerator {
     // Use local image if available, fallback to remote
     const imageUrl = this.getImageUrl(article, relativePath);
     const articleUrl = `${relativePath}articles/${article.id}.html`;
+
+    // Handle tag display - show all tags if maxTags is 0, otherwise slice
+    const tagsToShow = maxTags > 0 ? uniqueTags.slice(0, maxTags) : uniqueTags;
+    const hasMoreTags = maxTags > 0 && uniqueTags.length > maxTags;
 
     return `
     <div class="article-card" data-tags="${uniqueTags.join(',')}" data-type="${article.content_type || ''}">
@@ -814,8 +837,8 @@ class BastesPocketSiteGenerator {
                 ${article.summary ? `<p class="summary">${article.summary}</p>` : ''}
                 ${uniqueTags.length > 0 ? `
                 <div class="card-tags">
-                    ${uniqueTags.slice(0, 3).map(tag => `<span class="tag">${tag}</span>`).join('')}
-                    ${uniqueTags.length > 3 ? `<span class="tag-more">+${uniqueTags.length - 3}</span>` : ''}
+                    ${tagsToShow.map(tag => `<a href="${relativePath}tags/${tag}.html" class="tag">${tag}</a>`).join('')}
+                    ${hasMoreTags ? `<span class="tag-more">+${uniqueTags.length - maxTags}</span>` : ''}
                 </div>
                 ` : ''}
             </div>
@@ -894,17 +917,11 @@ class BastesPocketSiteGenerator {
                         `<option value="${t}" ${t === tag ? 'selected' : ''}>${t}</option>`
                     ).join('')}
                 </select>
-                <select id="typeFilter" class="filter-select">
-                    <option value="">All Types</option>
-                    ${sortedTypes.map(type => 
-                        `<option value="${type}">${type}</option>`
-                    ).join('')}
-                </select>
             </div>
         </div>
 
         <div id="articlesContainer" class="articles-grid">
-            ${processedArticles.map(article => this.renderArticleCard(article, '../')).join('')}
+            ${processedArticles.map(article => this.renderArticleCard(article, '../', 3)).join('')}
         </div>
         
         <div id="noResults" class="no-results" style="display: none;">
@@ -992,17 +1009,11 @@ class BastesPocketSiteGenerator {
                         `<option value="${t}">${t}</option>`
                     ).join('')}
                 </select>
-                <select id="typeFilter" class="filter-select">
-                    <option value="">All Types</option>
-                    ${sortedTypes.map(t => 
-                        `<option value="${t}" ${t === type ? 'selected' : ''}>${t}</option>`
-                    ).join('')}
-                </select>
             </div>
         </div>
 
         <div id="articlesContainer" class="articles-grid">
-            ${processedArticles.map(article => this.renderArticleCard(article, '../')).join('')}
+            ${processedArticles.map(article => this.renderArticleCard(article, '../', 3)).join('')}
         </div>
         
         <div id="noResults" class="no-results" style="display: none;">
@@ -1410,19 +1421,13 @@ body {
   position: relative;
 }
 
-.card-thumbnail::after {
-  content: '';
-  position: absolute;
-  inset: 0;
-  border-radius: var(--radius);
-  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.1);
-}
-
 .card-thumbnail img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   transition: transform 0.3s ease;
+  border-radius: var(--radius);
+  border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .article-card:hover .card-thumbnail img {
@@ -2078,7 +2083,7 @@ body {
 }
 `;
 
-    writeFileSync(join(assetsDir, 'style.css'), css);
+    writeFileSync(join(this.outputDir, 'assets/style.css'), css);
 
     // Generate JavaScript
     const js = `
@@ -2087,8 +2092,6 @@ class BastesPocketApp {
   constructor() {
     this.searchData = [];
     this.currentArticles = [];
-    this.articlesPerPage = 20;
-    this.currentPage = 1;
     
     this.init();
   }
@@ -2112,8 +2115,6 @@ class BastesPocketApp {
   setupEventListeners() {
     const searchInput = document.getElementById('searchInput');
     const tagFilter = document.getElementById('tagFilter');
-    const typeFilter = document.getElementById('typeFilter');
-    const loadMoreBtn = document.getElementById('loadMoreBtn');
 
     if (searchInput) {
       searchInput.addEventListener('input', (e) => {
@@ -2124,18 +2125,6 @@ class BastesPocketApp {
     if (tagFilter) {
       tagFilter.addEventListener('change', (e) => {
         this.handleFilter();
-      });
-    }
-
-    if (typeFilter) {
-      typeFilter.addEventListener('change', (e) => {
-        this.handleFilter();
-      });
-    }
-
-    if (loadMoreBtn) {
-      loadMoreBtn.addEventListener('click', () => {
-        this.loadMoreArticles();
       });
     }
   }
@@ -2162,7 +2151,6 @@ class BastesPocketApp {
 
   handleFilter() {
     const tagFilter = document.getElementById('tagFilter');
-    const typeFilter = document.getElementById('typeFilter');
     
     let filtered = [...this.currentArticles];
     
@@ -2172,14 +2160,7 @@ class BastesPocketApp {
       );
     }
     
-    if (typeFilter && typeFilter.value) {
-      filtered = filtered.filter(article => 
-        article.type === typeFilter.value
-      );
-    }
-    
     this.currentArticles = filtered;
-    this.currentPage = 1;
     this.displayArticles();
   }
 
@@ -2187,21 +2168,7 @@ class BastesPocketApp {
     const container = document.getElementById('articlesContainer');
     if (!container) return;
 
-    const startIndex = 0;
-    const endIndex = this.currentPage * this.articlesPerPage;
-    const articlesToShow = this.currentArticles.slice(startIndex, endIndex);
-
-    container.innerHTML = articlesToShow.map(article => this.renderArticleCard(article)).join('');
-    
-    const loadMoreBtn = document.getElementById('loadMoreBtn');
-    if (loadMoreBtn) {
-      loadMoreBtn.style.display = endIndex >= this.currentArticles.length ? 'none' : 'block';
-    }
-  }
-
-  loadMoreArticles() {
-    this.currentPage++;
-    this.displayArticles();
+    container.innerHTML = this.currentArticles.map(article => this.renderArticleCard(article)).join('');
   }
 
   renderArticleCard(article) {
@@ -2216,16 +2183,17 @@ class BastesPocketApp {
         </div>
         \` : ''}
         <div class="card-content">
-          <h3><a href="\${article.url}">\${article.title}</a></h3>
-          \${article.summary ? \`<p class="summary">\${article.summary}</p>\` : ''}
-          <div class="card-meta">
-            \${article.readTime ? \`<span class="read-time">\${article.readTime} min</span>\` : ''}
-            \${article.type ? \`<span class="content-type">\${article.type}</span>\` : ''}
+          <div class="card-header">
+            <h3><a href="\${article.url}">\${article.title}</a></h3>
+            <div class="card-meta">
+              \${article.readTime ? \`<span class="read-time">\${article.readTime} min</span>\` : ''}
+              \${article.type ? \`<span class="content-type">\${article.type}</span>\` : ''}
+            </div>
           </div>
+          \${article.summary ? \`<p class="summary">\${article.summary}</p>\` : ''}
           \${article.tags.length > 0 ? \`
           <div class="card-tags">
-            \${article.tags.slice(0, 3).map(tag => \`<span class="tag">\${tag}</span>\`).join('')}
-            \${article.tags.length > 3 ? \`<span class="tag-more">+\${article.tags.length - 3}</span>\` : ''}
+            \${article.tags.map(tag => \`<a href="tags/\${tag}.html" class="tag">\${tag}</a>\`).join('')}
           </div>
           \` : ''}
         </div>
@@ -2240,7 +2208,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 `;
 
-    writeFileSync(join(assetsDir, 'script.js'), js);
+    writeFileSync(join(this.outputDir, 'assets/script.js'), js);
 
     // Generate page-specific search script
     const pageSearchJs = `
@@ -2261,7 +2229,6 @@ class PageSearch {
   setupEventListeners() {
     const searchInput = document.getElementById('searchInput');
     const tagFilter = document.getElementById('tagFilter');
-    const typeFilter = document.getElementById('typeFilter');
 
     if (searchInput) {
       searchInput.addEventListener('input', (e) => {
@@ -2274,22 +2241,14 @@ class PageSearch {
         this.handleSearch();
       });
     }
-
-    if (typeFilter) {
-      typeFilter.addEventListener('change', (e) => {
-        this.handleSearch();
-      });
-    }
   }
 
   handleSearch() {
     const searchInput = document.getElementById('searchInput');
     const tagFilter = document.getElementById('tagFilter');
-    const typeFilter = document.getElementById('typeFilter');
     
     const searchTerm = searchInput ? searchInput.value.toLowerCase().trim() : '';
     const selectedTag = tagFilter ? tagFilter.value : '';
-    const selectedType = typeFilter ? typeFilter.value : '';
     
     let filtered = [...this.allArticles];
     
@@ -2310,13 +2269,6 @@ class PageSearch {
     if (selectedTag) {
       filtered = filtered.filter(article => 
         article.tags.includes(selectedTag)
-      );
-    }
-    
-    // Apply type filter
-    if (selectedType) {
-      filtered = filtered.filter(article => 
-        article.type === selectedType
       );
     }
     
@@ -2356,15 +2308,17 @@ class PageSearch {
         </div>
         \` : ''}
         <div class="card-content">
-          <h3><a href="\${article.url}">\${article.title}</a></h3>
-          \${article.summary ? \`<p class="summary">\${article.summary}</p>\` : ''}
-          <div class="card-meta">
-            \${article.readTime ? \`<span class="read-time">\${article.readTime} min</span>\` : ''}
-            \${article.type ? \`<span class="content-type">\${article.type}</span>\` : ''}
+          <div class="card-header">
+            <h3><a href="\${article.url}">\${article.title}</a></h3>
+            <div class="card-meta">
+              \${article.readTime ? \`<span class="read-time">\${article.readTime} min</span>\` : ''}
+              \${article.type ? \`<span class="content-type">\${article.type}</span>\` : ''}
+            </div>
           </div>
+          \${article.summary ? \`<p class="summary">\${article.summary}</p>\` : ''}
           \${article.tags.length > 0 ? \`
           <div class="card-tags">
-            \${article.tags.slice(0, 3).map(tag => \`<span class="tag">\${tag}</span>\`).join('')}
+            \${article.tags.slice(0, 3).map(tag => \`<a href="../tags/\${tag}.html" class="tag">\${tag}</a>\`).join('')}
             \${article.tags.length > 3 ? \`<span class="tag-more">+\${article.tags.length - 3}</span>\` : ''}
           </div>
           \` : ''}
@@ -2380,7 +2334,7 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 `;
 
-    writeFileSync(join(assetsDir, 'page-search.js'), pageSearchJs);
+    writeFileSync(join(this.outputDir, 'assets/page-search.js'), pageSearchJs);
   }
 
   private async createDatasetFromCurrentData(): Promise<void> {
@@ -2564,7 +2518,7 @@ document.addEventListener('DOMContentLoaded', () => {
             stdio: 'inherit'
           });
           
-          tar.on('close', (code) => {
+          tar.on('close', (code: number) => {
             if (code === 0) {
               console.log('📦 Created data archive');
               resolve();
@@ -2590,7 +2544,7 @@ document.addEventListener('DOMContentLoaded', () => {
             stdio: 'inherit'
           });
           
-          tar.on('close', (code) => {
+          tar.on('close', (code: number) => {
             if (code === 0) {
               console.log('🖼️  Created images archive');
               resolve();
