@@ -544,41 +544,226 @@ class BastesPocketSiteGenerator {
     // Flatten nested arrays - sometimes JSON-LD data is stored as [[{...}]] instead of [{...}]
     const flattenedObjects = jsonLdObjects.flat();
     
+    // Handle @graph structures and build a lookup map for @id references
+    const allObjects: any[] = [];
+    const idLookup = new Map<string, any>();
+    
+    for (const obj of flattenedObjects) {
+      if (obj && obj['@graph']) {
+        // Extract objects from @graph
+        for (const graphObj of obj['@graph']) {
+          allObjects.push(graphObj);
+          if (graphObj['@id']) {
+            idLookup.set(graphObj['@id'], graphObj);
+          }
+        }
+      } else if (obj) {
+        allObjects.push(obj);
+        if (obj['@id']) {
+          idLookup.set(obj['@id'], obj);
+        }
+      }
+    }
+    
+    // Helper function to resolve @id references
+    const resolveReference = (ref: any): any => {
+      if (typeof ref === 'string') {
+        return idLookup.get(ref);
+      }
+      if (ref && ref['@id']) {
+        return idLookup.get(ref['@id']) || ref;
+      }
+      return ref;
+    };
+    
+    // Helper function to resolve array of references
+    const resolveReferences = (refs: any[]): any[] => {
+      return refs.map(resolveReference).filter(Boolean);
+    };
+    
     // Group objects by type for better presentation
     const recipes: any[] = [];
+    const reviews: any[] = [];
+    const comments: any[] = [];
     const articles: any[] = [];
+    const videos: any[] = [];
+    const images: any[] = [];
+    const howToSteps: any[] = [];
+    const questions: any[] = [];
+    const answers: any[] = [];
+    const ratings: any[] = [];
+    const nutrition: any[] = [];
     const products: any[] = [];
     const entities: any[] = [];
     const events: any[] = [];
+    const breadcrumbs: any[] = [];
     const others: any[] = [];
 
-    for (const obj of flattenedObjects) {
+    // Track video IDs that are part of recipes to avoid duplicates
+    const recipeVideoIds = new Set<string>();
+
+    for (const obj of allObjects) {
       if (obj && obj['@type']) {
         const types = Array.isArray(obj['@type']) ? obj['@type'] : [obj['@type']];
         
+        // Skip low-value QuantitativeValue objects (width/height measurements)
+        if (types.includes('QuantitativeValue')) {
+          const name = obj.name?.toLowerCase() || '';
+          if (name === 'width' || name === 'height') {
+            continue; // Skip these low-value measurements
+          }
+        }
+        
         if (types.includes('Recipe')) {
           recipes.push(obj);
+          // Track video IDs that are part of this recipe
+          if (obj.video) {
+            if (Array.isArray(obj.video)) {
+              obj.video.forEach((v: any) => {
+                if (v['@id']) recipeVideoIds.add(v['@id']);
+                else if (v['@type'] === 'VideoObject' && v['@id']) recipeVideoIds.add(v['@id']);
+              });
+            } else if (obj.video['@id']) {
+              recipeVideoIds.add(obj.video['@id']);
+            } else if (obj.video['@type'] === 'VideoObject' && obj.video['@id']) {
+              recipeVideoIds.add(obj.video['@id']);
+            }
+          }
+        } else if (types.includes('Review')) {
+          reviews.push(obj);
+        } else if (types.includes('Comment')) {
+          comments.push(obj);
         } else if (types.includes('Article') || types.includes('NewsArticle') || types.includes('BlogPosting')) {
           articles.push(obj);
+        } else if (types.includes('VideoObject')) {
+          // Only add standalone videos that are not part of recipes
+          if (!recipeVideoIds.has(obj['@id'])) {
+            videos.push(obj);
+          }
+        } else if (types.includes('ImageObject')) {
+          images.push(obj);
+        } else if (types.includes('HowToStep')) {
+          howToSteps.push(obj);
+        } else if (types.includes('Question')) {
+          questions.push(obj);
+        } else if (types.includes('Answer')) {
+          answers.push(obj);
+        } else if (types.includes('AggregateRating')) {
+          ratings.push(obj);
+        } else if (types.includes('NutritionInformation')) {
+          nutrition.push(obj);
         } else if (types.includes('Product')) {
           products.push(obj);
         } else if (types.includes('Organization') || types.includes('Person')) {
           entities.push(obj);
         } else if (types.includes('Event')) {
           events.push(obj);
+        } else if (types.includes('BreadcrumbList')) {
+          breadcrumbs.push(obj);
         } else {
-          others.push(obj);
+          // Skip QuantitativeValue and other low-value types
+          if (!types.includes('QuantitativeValue')) {
+            others.push(obj);
+          }
         }
       }
     }
 
-    // Render grouped content
+    // Render grouped content in order of importance
     if (recipes.length > 0) {
-      if (recipes.length === 1) {
-        renderedData += this.renderRecipeData(recipes[0]);
-      } else {
-        renderedData += this.renderMultipleRecipes(recipes);
+      // Smart filtering: only skip ID-less recipes if there are multiple recipes
+      let filteredRecipes = recipes;
+      if (recipes.length > 1) {
+        filteredRecipes = recipes.filter(recipe => recipe['@id']);
       }
+      
+      // Resolve comment references for recipes
+      filteredRecipes.forEach(recipe => {
+        if (recipe.comment && Array.isArray(recipe.comment)) {
+          recipe.resolvedComments = resolveReferences(recipe.comment);
+        }
+        
+        // Resolve video references for recipes
+        if (recipe.video) {
+          if (Array.isArray(recipe.video)) {
+            recipe.resolvedVideos = resolveReferences(recipe.video).filter((v: any) => v && v['@type'] === 'VideoObject');
+          } else if (recipe.video['@id']) {
+            const resolvedVideo = resolveReference(recipe.video);
+            if (resolvedVideo && resolvedVideo['@type'] === 'VideoObject') {
+              recipe.resolvedVideos = [resolvedVideo];
+            }
+          } else if (recipe.video['@type'] === 'VideoObject') {
+            recipe.resolvedVideos = [recipe.video];
+          }
+        }
+      });
+      
+      // Group recipes by name to avoid duplicate headers
+      const recipeGroups = new Map<string, any[]>();
+      for (const recipe of filteredRecipes) {
+        const name = recipe.name || 'Unnamed Recipe';
+        if (!recipeGroups.has(name)) {
+          recipeGroups.set(name, []);
+        }
+        recipeGroups.get(name)!.push(recipe);
+      }
+      
+      if (recipeGroups.size === 1 && filteredRecipes.length === 1) {
+        renderedData += this.renderRecipeData(filteredRecipes[0]);
+      } else {
+        renderedData += this.renderGroupedRecipes(recipeGroups);
+      }
+    }
+
+    if (breadcrumbs.length > 0) {
+      renderedData += this.renderBreadcrumbsData(breadcrumbs);
+    }
+
+    if (reviews.length > 0) {
+      renderedData += this.renderReviewsData(reviews);
+    }
+
+    if (videos.length > 0) {
+      renderedData += this.renderVideosData(videos);
+    }
+
+    // Render comments from both standalone comments and resolved recipe comments
+    const allComments = [...comments];
+    if (recipes.length > 0) {
+      // Use filtered recipes for comment resolution
+      let filteredRecipes = recipes;
+      if (recipes.length > 1) {
+        filteredRecipes = recipes.filter(recipe => recipe['@id']);
+      }
+      
+      for (const recipe of filteredRecipes) {
+        if (recipe.resolvedComments) {
+          allComments.push(...recipe.resolvedComments);
+        }
+      }
+    }
+    if (allComments.length > 0) {
+      renderedData += this.renderCommentsData(allComments);
+    }
+
+    if (howToSteps.length > 0) {
+      renderedData += this.renderHowToStepsData(howToSteps);
+    }
+
+    if (images.length > 0 && images.length <= 10) { // Only show if reasonable number
+      renderedData += this.renderImagesData(images);
+    }
+
+    if (questions.length > 0 || answers.length > 0) {
+      renderedData += this.renderQAData(questions, answers);
+    }
+
+    if (ratings.length > 0) {
+      renderedData += this.renderRatingsData(ratings);
+    }
+
+    if (nutrition.length > 0) {
+      renderedData += this.renderNutritionData(nutrition);
     }
 
     // Render other types
@@ -591,16 +776,20 @@ class BastesPocketSiteGenerator {
     return renderedData;
   }
 
-  private renderMultipleRecipes(recipes: any[]): string {
+  private renderGroupedRecipes(recipeGroups: Map<string, any[]>): string {
     return `
     <div class="structured-data recipes-data">
-      <h3>🍳 Recipes (${recipes.length})</h3>
+      <h3>🍳 Recipes (${Array.from(recipeGroups.values()).flat().length})</h3>
       <div class="recipes-container">
-        ${recipes.map((recipe, index) => `
-        <div class="recipe-item">
-          <div class="recipe-details">
-            ${recipe.name ? `<h4>${recipe.name}</h4>` : ''}
+        ${Array.from(recipeGroups.entries()).map(([recipeName, recipeVariants], groupIndex) => `
+        <div class="recipe-group">
+          <h4>${recipeName}</h4>
+          ${recipeVariants.map((recipe, variantIndex) => `
+          <div class="recipe-variant">
+            ${recipeVariants.length > 1 ? `<h5>Variant ${variantIndex + 1}</h5>` : ''}
             ${recipe.description ? `<p class="recipe-description">${recipe.description}</p>` : ''}
+            
+            ${this.renderRecipeVideos(recipe)}
             
             <div class="recipe-meta">
               ${recipe.prepTime ? `<span class="prep-time">⏱️ Prep: ${this.formatDuration(recipe.prepTime)}</span>` : ''}
@@ -611,28 +800,32 @@ class BastesPocketSiteGenerator {
 
             ${recipe.recipeIngredient && recipe.recipeIngredient.length > 0 ? `
             <div class="recipe-ingredients">
-              <h5>Ingredients:</h5>
+              <h6>Ingredients:</h6>
               <ul>
                 ${recipe.recipeIngredient.map((ingredient: string) => `<li>${ingredient}</li>`).join('')}
               </ul>
             </div>
             ` : ''}
 
-            ${recipe.recipeInstructions && recipe.recipeInstructions.length > 0 ? `
-            <div class="recipe-instructions">
-              <h5>Instructions:</h5>
-              <ol>
-                ${recipe.recipeInstructions.map((instruction: any) => {
-                  const text = typeof instruction === 'string' ? instruction : instruction.text || instruction.name || '';
-                  return `<li>${text}</li>`;
-                }).join('')}
-              </ol>
-            </div>
-            ` : ''}
+            ${recipe.recipeInstructions && recipe.recipeInstructions.length > 0 ? (() => {
+              const validInstructions = recipe.recipeInstructions.map((instruction: any) => {
+                const text = typeof instruction === 'string' ? instruction : instruction.text || instruction.name || '';
+                return text.trim() ? `<li>${text}</li>` : '';
+              }).filter(Boolean);
+              
+              return validInstructions.length > 0 ? `
+              <div class="recipe-instructions">
+                <h6>Instructions:</h6>
+                <ol>
+                  ${validInstructions.join('')}
+                </ol>
+              </div>
+              ` : '';
+            })() : ''}
 
             ${recipe.nutrition ? `
             <div class="recipe-nutrition">
-              <h5>Nutrition:</h5>
+              <h6>Nutrition:</h6>
               <div class="nutrition-facts">
                 ${recipe.nutrition.calories ? `<span>Calories: ${recipe.nutrition.calories}</span>` : ''}
                 ${recipe.nutrition.protein ? `<span>Protein: ${recipe.nutrition.protein}</span>` : ''}
@@ -642,8 +835,341 @@ class BastesPocketSiteGenerator {
             </div>
             ` : ''}
           </div>
+          ${variantIndex < recipeVariants.length - 1 ? '<hr class="recipe-variant-separator">' : ''}
+          `).join('')}
         </div>
-        ${index < recipes.length - 1 ? '<hr class="recipe-separator">' : ''}
+        ${groupIndex < recipeGroups.size - 1 ? '<hr class="recipe-separator">' : ''}
+        `).join('')}
+      </div>
+    </div>`;
+  }
+
+  private renderBreadcrumbsData(breadcrumbs: any[]): string {
+    return `
+    <div class="structured-data breadcrumbs-data">
+      <h3>🧭 Navigation</h3>
+      <div class="breadcrumbs-container">
+        ${breadcrumbs.map(breadcrumbList => `
+        <nav class="breadcrumb-nav" aria-label="Breadcrumb">
+          <ol class="breadcrumb-list">
+            ${(breadcrumbList.itemListElement || []).map((item: any, index: number) => `
+            <li class="breadcrumb-item">
+              ${item.item && item.item !== '#' ? `
+              <a href="${item.item}" class="breadcrumb-link" target="_blank">
+                ${item.name || `Step ${item.position || index + 1}`}
+              </a>
+              ` : `
+              <span class="breadcrumb-text">${item.name || `Step ${item.position || index + 1}`}</span>
+              `}
+              ${index < (breadcrumbList.itemListElement || []).length - 1 ? `
+              <span class="breadcrumb-separator" aria-hidden="true">›</span>
+              ` : ''}
+            </li>
+            `).join('')}
+          </ol>
+        </nav>
+        `).join('')}
+      </div>
+    </div>`;
+  }
+
+  private renderReviewsData(reviews: any[]): string {
+    // Sort reviews by date if available
+    const sortedReviews = reviews.sort((a, b) => {
+      const dateA = a.datePublished || a.dateCreated || '';
+      const dateB = b.datePublished || b.dateCreated || '';
+      return dateB.localeCompare(dateA);
+    });
+
+    // Show top 10 reviews
+    const reviewsToShow = sortedReviews.slice(0, 10);
+
+    return `
+    <div class="structured-data reviews-data">
+      <h3>⭐ User Reviews (${reviews.length})</h3>
+      <div class="reviews-container">
+        ${reviewsToShow.map(review => `
+        <div class="review-item">
+          <div class="review-header">
+            <span class="review-author">${this.formatAuthor(review.author)}</span>
+            ${review.datePublished || review.dateCreated ? `
+            <span class="review-date">${new Date(review.datePublished || review.dateCreated).toLocaleDateString()}</span>
+            ` : ''}
+            ${review.reviewRating ? `
+            <span class="review-rating">⭐ ${this.formatRating(review.reviewRating)}</span>
+            ` : ''}
+          </div>
+          <div class="review-body">
+            ${review.reviewBody || review.text || review.description || 'No review text'}
+          </div>
+        </div>
+        `).join('')}
+        ${reviews.length > 10 ? `<p class="more-reviews">... and ${reviews.length - 10} more reviews</p>` : ''}
+      </div>
+    </div>`;
+  }
+
+  private renderCommentsData(comments: any[]): string {
+    // Sort comments by date if available
+    const sortedComments = comments.sort((a, b) => {
+      const dateA = a.dateCreated || a.datePublished || '';
+      const dateB = b.dateCreated || b.datePublished || '';
+      return dateB.localeCompare(dateA);
+    });
+
+    // Show top 8 comments initially
+    const initialCommentsToShow = 8;
+    const commentsToShow = sortedComments.slice(0, initialCommentsToShow);
+    const hasMoreComments = sortedComments.length > initialCommentsToShow;
+
+    return `
+    <div class="structured-data comments-data">
+      <h3>💬 Comments (${comments.length})</h3>
+      <div class="comments-container">
+        <div class="comments-visible">
+          ${commentsToShow.map(comment => `
+          <div class="comment-item">
+            <div class="comment-header">
+              <span class="comment-author">${this.formatAuthor(comment.author)}</span>
+              ${comment.dateCreated || comment.datePublished ? `
+              <span class="comment-date">${new Date(comment.dateCreated || comment.datePublished).toLocaleDateString()}</span>
+              ` : ''}
+            </div>
+            <div class="comment-body">
+              ${comment.text || comment.description || 'No comment text'}
+            </div>
+            ${comment.url ? `<a href="${comment.url}" class="comment-link" target="_blank">View Comment</a>` : ''}
+          </div>
+          `).join('')}
+        </div>
+        ${hasMoreComments ? `
+        <div class="comments-hidden" style="display: none;">
+          ${sortedComments.slice(initialCommentsToShow).map(comment => `
+          <div class="comment-item">
+            <div class="comment-header">
+              <span class="comment-author">${this.formatAuthor(comment.author)}</span>
+              ${comment.dateCreated || comment.datePublished ? `
+              <span class="comment-date">${new Date(comment.dateCreated || comment.datePublished).toLocaleDateString()}</span>
+              ` : ''}
+            </div>
+            <div class="comment-body">
+              ${comment.text || comment.description || 'No comment text'}
+            </div>
+            ${comment.url ? `<a href="${comment.url}" class="comment-link" target="_blank">View Comment</a>` : ''}
+          </div>
+          `).join('')}
+        </div>
+        <button class="expand-comments-btn" onclick="this.parentElement.querySelector('.comments-hidden').style.display='block'; this.style.display='none';">
+          Show ${sortedComments.length - initialCommentsToShow} more comments
+        </button>
+        ` : ''}
+      </div>
+    </div>`;
+  }
+
+  private renderHowToStepsData(steps: any[]): string {
+    // Filter out blank steps
+    const validSteps = steps.filter(step => {
+      const text = step.text || step.name || step.description || '';
+      return text.trim().length > 0;
+    });
+    
+    // If no valid steps, don't render the section
+    if (validSteps.length === 0) {
+      return '';
+    }
+    
+    return `
+    <div class="structured-data howto-steps-data">
+      <h3>📋 Instructions (${validSteps.length} steps)</h3>
+      <div class="steps-container">
+        <ol class="steps-list">
+          ${validSteps.map((step, index) => `
+          <li class="step-item">
+            <div class="step-content">
+              ${step.text || step.name || step.description}
+            </div>
+            ${step.image ? `
+            <div class="step-image">
+              <img src="${typeof step.image === 'string' ? step.image : step.image.url || step.image.contentUrl}" 
+                   alt="Step ${index + 1}" loading="lazy">
+            </div>
+            ` : ''}
+          </li>
+          `).join('')}
+        </ol>
+      </div>
+    </div>`;
+  }
+
+  private renderVideosData(videos: any[]): string {
+    return `
+    <div class="structured-data videos-data">
+      <h3>🎥 Videos (${videos.length})</h3>
+      <div class="videos-container">
+        ${videos.map(video => this.renderSingleVideo(video)).join('')}
+      </div>
+    </div>`;
+  }
+
+  private renderSingleVideo(video: any): string {
+    return `
+    <div class="video-item">
+      <div class="video-info">
+        <h4>${video.name || video.headline || 'Video'}</h4>
+        ${video.description ? `<p class="video-description">${video.description}</p>` : ''}
+        <div class="video-meta">
+          ${video.duration ? `<span class="video-duration">⏱️ ${this.formatDuration(video.duration)}</span>` : ''}
+          ${video.uploadDate ? `<span class="video-date">📅 ${new Date(video.uploadDate).toLocaleDateString()}</span>` : ''}
+        </div>
+      </div>
+      ${video.contentUrl || video.embedUrl ? `
+      <div class="video-player">
+        ${video.embedUrl ? `
+        <iframe src="${video.embedUrl}" frameborder="0" allowfullscreen></iframe>
+        ` : `
+        <video controls>
+          <source src="${video.contentUrl}" type="video/mp4">
+          Your browser does not support the video tag.
+        </video>
+        `}
+      </div>
+      ` : video.thumbnailUrl ? `
+      <div class="video-thumbnail">
+        <img src="${video.thumbnailUrl}" alt="${video.name || 'Video thumbnail'}" loading="lazy">
+      </div>
+      ` : ''}
+    </div>`;
+  }
+
+  private renderImagesData(images: any[]): string {
+    // Filter out very small images (likely icons)
+    const meaningfulImages = images.filter(img => {
+      const width = parseInt(img.width) || 0;
+      const height = parseInt(img.height) || 0;
+      return width >= 200 || height >= 200 || (!img.width && !img.height);
+    });
+
+    if (meaningfulImages.length === 0) return '';
+
+    return `
+    <div class="structured-data images-data">
+      <h3>🖼️ Images (${meaningfulImages.length})</h3>
+      <div class="images-gallery">
+        ${meaningfulImages.map(image => `
+        <div class="image-item">
+          <img src="${image.contentUrl || image.url}" 
+               alt="${image.caption || image.name || 'Image'}" 
+               loading="lazy">
+          ${image.caption ? `<div class="image-caption">${image.caption}</div>` : ''}
+          ${image.creditText ? `<div class="image-credit">${image.creditText}</div>` : ''}
+        </div>
+        `).join('')}
+      </div>
+    </div>`;
+  }
+
+  private renderQAData(questions: any[], answers: any[]): string {
+    // Try to match questions with answers
+    const qaItems: Array<{question: any, answers: any[]}> = [];
+    
+    for (const question of questions) {
+      const matchingAnswers = answers.filter(answer => 
+        answer.parentItem?.['@id'] === question['@id'] ||
+        answer.parentItem === question['@id']
+      );
+      qaItems.push({ question, answers: matchingAnswers });
+    }
+
+    // Add standalone answers
+    const standaloneAnswers = answers.filter(answer => 
+      !questions.some(q => 
+        answer.parentItem?.['@id'] === q['@id'] || 
+        answer.parentItem === q['@id']
+      )
+    );
+
+    return `
+    <div class="structured-data qa-data">
+      <h3>❓ Questions & Answers</h3>
+      <div class="qa-container">
+        ${qaItems.map(({ question, answers }) => `
+        <div class="qa-item">
+          <div class="question">
+            <h4>Q: ${question.name || question.text || 'Question'}</h4>
+            ${question.description ? `<p>${question.description}</p>` : ''}
+          </div>
+          ${answers.length > 0 ? `
+          <div class="answers">
+            ${answers.map(answer => `
+            <div class="answer">
+              <h5>A: ${this.formatAuthor(answer.author)}</h5>
+              <p>${answer.text || answer.description || 'Answer'}</p>
+              ${answer.upvoteCount ? `<span class="upvotes">👍 ${answer.upvoteCount}</span>` : ''}
+            </div>
+            `).join('')}
+          </div>
+          ` : ''}
+        </div>
+        `).join('')}
+        ${standaloneAnswers.length > 0 ? `
+        <div class="standalone-answers">
+          <h4>Additional Answers:</h4>
+          ${standaloneAnswers.map(answer => `
+          <div class="answer">
+            <h5>${this.formatAuthor(answer.author)}</h5>
+            <p>${answer.text || answer.description || 'Answer'}</p>
+          </div>
+          `).join('')}
+        </div>
+        ` : ''}
+      </div>
+    </div>`;
+  }
+
+  private renderRatingsData(ratings: any[]): string {
+    return `
+    <div class="structured-data ratings-data">
+      <h3>⭐ Ratings</h3>
+      <div class="ratings-container">
+        ${ratings.map(rating => `
+        <div class="rating-item">
+          <div class="rating-display">
+            <span class="rating-value">${rating.ratingValue || 'N/A'}</span>
+            ${rating.bestRating ? `<span class="rating-scale">/ ${rating.bestRating}</span>` : ''}
+            ${rating.ratingCount ? `<span class="rating-count">(${rating.ratingCount} reviews)</span>` : ''}
+          </div>
+          ${rating.worstRating && rating.bestRating ? `
+          <div class="rating-bar">
+            <div class="rating-fill" style="width: ${((rating.ratingValue - rating.worstRating) / (rating.bestRating - rating.worstRating)) * 100}%"></div>
+          </div>
+          ` : ''}
+        </div>
+        `).join('')}
+      </div>
+    </div>`;
+  }
+
+  private renderNutritionData(nutritionItems: any[]): string {
+    return `
+    <div class="structured-data nutrition-data">
+      <h3>🥗 Nutrition Information</h3>
+      <div class="nutrition-container">
+        ${nutritionItems.map(nutrition => `
+        <div class="nutrition-item">
+          <div class="nutrition-facts">
+            ${nutrition.calories ? `<div class="nutrition-fact"><span class="label">Calories:</span> <span class="value">${nutrition.calories}</span></div>` : ''}
+            ${nutrition.proteinContent ? `<div class="nutrition-fact"><span class="label">Protein:</span> <span class="value">${nutrition.proteinContent}</span></div>` : ''}
+            ${nutrition.carbohydrateContent ? `<div class="nutrition-fact"><span class="label">Carbs:</span> <span class="value">${nutrition.carbohydrateContent}</span></div>` : ''}
+            ${nutrition.fatContent ? `<div class="nutrition-fact"><span class="label">Fat:</span> <span class="value">${nutrition.fatContent}</span></div>` : ''}
+            ${nutrition.fiberContent ? `<div class="nutrition-fact"><span class="label">Fiber:</span> <span class="value">${nutrition.fiberContent}</span></div>` : ''}
+            ${nutrition.sugarContent ? `<div class="nutrition-fact"><span class="label">Sugar:</span> <span class="value">${nutrition.sugarContent}</span></div>` : ''}
+            ${nutrition.sodiumContent ? `<div class="nutrition-fact"><span class="label">Sodium:</span> <span class="value">${nutrition.sodiumContent}</span></div>` : ''}
+            ${nutrition.saturatedFatContent ? `<div class="nutrition-fact"><span class="label">Saturated Fat:</span> <span class="value">${nutrition.saturatedFatContent}</span></div>` : ''}
+            ${nutrition.unsaturatedFatContent ? `<div class="nutrition-fact"><span class="label">Unsaturated Fat:</span> <span class="value">${nutrition.unsaturatedFatContent}</span></div>` : ''}
+            ${nutrition.transFatContent ? `<div class="nutrition-fact"><span class="label">Trans Fat:</span> <span class="value">${nutrition.transFatContent}</span></div>` : ''}
+          </div>
+        </div>
         `).join('')}
       </div>
     </div>`;
@@ -656,6 +1182,8 @@ class BastesPocketSiteGenerator {
       <div class="recipe-details">
         ${recipe.name ? `<h4>${recipe.name}</h4>` : ''}
         ${recipe.description ? `<p class="recipe-description">${recipe.description}</p>` : ''}
+        
+        ${this.renderRecipeVideos(recipe)}
         
         <div class="recipe-meta">
           ${recipe.prepTime ? `<span class="prep-time">⏱️ Prep: ${this.formatDuration(recipe.prepTime)}</span>` : ''}
@@ -673,17 +1201,21 @@ class BastesPocketSiteGenerator {
         </div>
         ` : ''}
 
-        ${recipe.recipeInstructions && recipe.recipeInstructions.length > 0 ? `
-        <div class="recipe-instructions">
-          <h5>Instructions:</h5>
-          <ol>
-            ${recipe.recipeInstructions.map((instruction: any) => {
-              const text = typeof instruction === 'string' ? instruction : instruction.text || instruction.name || '';
-              return `<li>${text}</li>`;
-            }).join('')}
-          </ol>
-        </div>
-        ` : ''}
+        ${recipe.recipeInstructions && recipe.recipeInstructions.length > 0 ? (() => {
+          const validInstructions = recipe.recipeInstructions.map((instruction: any) => {
+            const text = typeof instruction === 'string' ? instruction : instruction.text || instruction.name || '';
+            return text.trim() ? `<li>${text}</li>` : '';
+          }).filter(Boolean);
+          
+          return validInstructions.length > 0 ? `
+          <div class="recipe-instructions">
+            <h6>Instructions:</h6>
+            <ol>
+              ${validInstructions.join('')}
+            </ol>
+          </div>
+          ` : '';
+        })() : ''}
 
         ${recipe.nutrition ? `
         <div class="recipe-nutrition">
@@ -698,6 +1230,22 @@ class BastesPocketSiteGenerator {
         ` : ''}
       </div>
     </div>`;
+  }
+
+  private renderRecipeVideos(recipe: any): string {
+    if (!recipe.resolvedVideos || recipe.resolvedVideos.length === 0) return '';
+
+    if (recipe.resolvedVideos.length === 1) {
+      return `
+      <div class="recipe-video">
+        ${this.renderSingleVideo(recipe.resolvedVideos[0])}
+      </div>`;
+    } else {
+      return `
+      <div class="recipe-videos">
+        ${recipe.resolvedVideos.map((video: any) => this.renderSingleVideo(video)).join('')}
+      </div>`;
+    }
   }
 
   private renderArticleData(article: any): string {
@@ -850,16 +1398,6 @@ class BastesPocketSiteGenerator {
     // Use local image if available, fallback to remote - use ../ for article pages
     const imageUrl = this.getImageUrl(article, '../');
 
-    // Check if we have structured recipe data to avoid duplication
-    const hasRecipeData = article.json_ld_objects && 
-      article.json_ld_objects.flat().some(obj => 
-        obj && obj['@type'] && 
-        (Array.isArray(obj['@type']) ? obj['@type'] : [obj['@type']]).includes('Recipe')
-      );
-
-    // Only show content preview if we don't have recipe data or if the content is significantly different
-    const shouldShowContentPreview = !hasRecipeData && article.main_text_content;
-
     return `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -910,11 +1448,11 @@ class BastesPocketSiteGenerator {
             </div>
             ` : ''}
 
-            ${shouldShowContentPreview ? `
+            ${article.main_text_content ? `
             <div class="article-content">
                 <h2>Content Preview</h2>
                 <div class="content-text">
-                    ${article.main_text_content?.split('\n').map(p => p.trim() ? `<p>${p}</p>` : '').join('') || ''}
+                    ${article.main_text_content.split('\n').map(p => p.trim() ? `<p>${p}</p>` : '').join('')}
                 </div>
             </div>
             ` : ''}
@@ -968,9 +1506,8 @@ class BastesPocketSiteGenerator {
     const imageUrl = this.getImageUrl(article, relativePath);
     const articleUrl = `${relativePath}articles/${article.id}.html`;
 
-    // Handle tag display - show all tags if maxTags is 0, otherwise slice
-    const tagsToShow = maxTags > 0 ? uniqueTags.slice(0, maxTags) : uniqueTags;
-    const hasMoreTags = maxTags > 0 && uniqueTags.length > maxTags;
+    // Show all tags - no more limiting
+    const tagsToShow = uniqueTags;
 
     return `
     <div class="article-card" data-tags="${uniqueTags.join(',')}" data-type="${article.content_type || ''}">
@@ -994,138 +1531,11 @@ class BastesPocketSiteGenerator {
                 ${uniqueTags.length > 0 ? `
                 <div class="card-tags">
                     ${tagsToShow.map(tag => `<a href="${relativePath}tags/${tag}.html" class="tag">${tag}</a>`).join('')}
-                    ${hasMoreTags ? `<span class="tag-more">+${uniqueTags.length - maxTags}</span>` : ''}
                 </div>
                 ` : ''}
             </div>
         </div>
     </div>`;
-  }
-
-  private generatePageTemplate(data: TemplateData): string {
-    const { config, stats, searchData } = data;
-    const isIndex = config.pageType === 'index';
-    
-    return `<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>${config.title}</title>
-    <link rel="stylesheet" href="${config.relativePath}assets/style.css">
-    ${config.description ? `<meta name="description" content="${config.description}">` : ''}
-</head>
-<body>
-    <header class="header">
-        <div class="container">
-            <a href="${config.relativePath}index.html" class="logo">👨‍🍳 Basted Pocket</a>
-            ${isIndex ? `
-            <nav class="header-nav">
-                <a href="download.html" class="nav-link">📥 Download Dataset</a>
-            </nav>
-            ` : ''}
-        </div>
-    </header>
-
-    <main class="container">
-        ${this.generatePageHeader(config)}
-        ${this.generateSearchSection(config)}
-        ${config.showTagCloud && stats ? this.generateTagCloud(stats, config.relativePath) : ''}
-        ${this.generateArticlesSection(config)}
-    </main>
-
-    ${isIndex && stats ? this.generateFooter(stats) : ''}
-
-    <script>
-        // Page-specific search data
-        window.pageArticles = ${JSON.stringify(searchData)};
-        window.pageConfig = {
-            isIndex: ${isIndex},
-            relativePath: "${config.relativePath}"
-        };
-    </script>
-    <script src="${config.relativePath}assets/${isIndex ? 'script.js' : 'page-search.js'}"></script>
-</body>
-</html>`;
-  }
-
-  private generatePageHeader(config: PageConfig): string {
-    if (config.pageType === 'index') {
-      return ''; // Index page doesn't need a separate header section
-    }
-    
-    return `
-        <div class="page-header">
-            <h1>${config.heading}</h1>
-            <p id="articleCount">${config.articles.length} articles</p>
-            ${config.description ? `<p>${config.description}</p>` : ''}
-        </div>`;
-  }
-
-  private generateSearchSection(config: PageConfig): string {
-    return `
-        <div class="search-section">
-            <input type="text" id="searchInput" placeholder="${config.searchPlaceholder}" class="search-input">
-            <div class="filters">
-                <select id="tagFilter" class="filter-select">
-                    <option value="">All Tags</option>
-                    ${config.allTags.map(tag => 
-                        `<option value="${tag}" ${tag === config.selectedTag ? 'selected' : ''}>${tag}</option>`
-                    ).join('')}
-                </select>
-            </div>
-        </div>`;
-  }
-
-  private generateTagCloud(stats: SiteData['stats'], relativePath: string): string {
-    return `
-        <div class="tag-cloud">
-            <h2>Popular Tags</h2>
-            <div class="tags">
-                ${stats.topTags.slice(0, 15).map(({ tag, count }) => 
-                    `<a href="${relativePath}tags/${tag}.html" class="tag" data-count="${count}">${tag} <span class="count">${count}</span></a>`
-                ).join('')}
-        </div>
-        </div>`;
-  }
-
-  private generateArticlesSection(config: PageConfig): string {
-    const maxTags = config.pageType === 'index' ? 0 : 3;
-    
-    return `
-        <div class="articles-section">
-            ${config.pageType === 'index' ? `
-            <div class="section-header">
-                <h2>Recent Recipes</h2>
-                <p>Discover your latest culinary adventures</p>
-            </div>
-            ` : ''}
-        <div id="articlesContainer" class="articles-grid">
-                ${config.articles.map(article => this.renderArticleCard(article, config.relativePath, maxTags)).join('')}
-        </div>
-        <div id="noResults" class="no-results" style="display: none;">
-                <p>No recipes found matching your search criteria.</p>
-        </div>
-        </div>`;
-  }
-
-  private generateFooter(stats: SiteData['stats']): string {
-    return `
-    <footer class="footer">
-        <div class="container">
-            <div class="footer-content">
-                <div class="footer-stats">
-                    <span class="stat">${stats.totalArticles} Total Articles</span>
-                    <span class="stat">${stats.processedArticles} Processed</span>
-                    <span class="stat">${stats.totalTags} Tags</span>
-                    <span class="stat">${stats.contentTypes.length} Content Types</span>
-                </div>
-                <div class="footer-tagline">
-                    <p>Your AI-Enhanced Recipe Collection</p>
-                </div>
-            </div>
-        </div>
-    </footer>`;
   }
 
   private async generateSearchData(data: SiteData): Promise<void> {
@@ -1362,7 +1772,7 @@ body {
   display: inline-flex;
   align-items: center;
   padding: 0.5rem 0.875rem;
-  background: var(--primary-color);
+  background: var(--secondary-color);
   color: white;
   text-decoration: none;
   border-radius: var(--radius-lg);
@@ -1373,7 +1783,7 @@ body {
 }
 
 .tag:hover {
-  background: var(--primary-dark);
+  background: var(--primary-color);
   transform: translateY(-1px);
   box-shadow: var(--shadow-md);
 }
@@ -1548,8 +1958,8 @@ body {
   font-size: 0.65rem;
   padding: 0.2rem 0.4rem;
   line-height: 1.2;
-  background: var(--primary-light);
-  color: var(--primary-dark);
+  background: var(--secondary-color);
+  color: white;
   border-radius: var(--radius-sm);
   font-weight: 500;
   transition: all 0.2s ease;
@@ -1728,6 +2138,7 @@ body {
   letter-spacing: 0.05em;
 }
 
+/* Recipe Styles */
 .recipe-description {
   color: var(--text-secondary);
   margin-bottom: 1rem;
@@ -1805,11 +2216,483 @@ body {
   margin-bottom: 1.5rem;
 }
 
+.recipe-group {
+  margin-bottom: 2rem;
+}
+
+.recipe-group h4 {
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+  border-bottom: 2px solid var(--primary-light);
+  padding-bottom: 0.5rem;
+}
+
+.recipe-variant {
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background: var(--background);
+  border-radius: var(--radius);
+  border: 1px solid var(--border-light);
+}
+
+.recipe-variant h5 {
+  color: var(--accent-color);
+  margin-bottom: 0.75rem;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.recipe-variant h6 {
+  margin-bottom: 0.5rem;
+  color: var(--text-primary);
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.recipe-variant-separator {
+  border: none;
+  height: 1px;
+  background: var(--border-light);
+  margin: 1rem 0;
+}
+
 .recipe-separator {
   border: none;
   height: 1px;
   background: linear-gradient(90deg, transparent, var(--border), transparent);
   margin: 2rem 0;
+}
+
+/* Reviews Styles */
+.reviews-container {
+  margin-top: 1rem;
+}
+
+.review-item {
+  padding: 1rem;
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius);
+  margin-bottom: 1rem;
+  background: var(--background);
+}
+
+.review-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.review-author {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.review-date {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+}
+
+.review-rating {
+  font-size: 0.875rem;
+  color: var(--primary-color);
+  font-weight: 500;
+}
+
+.review-body {
+  color: var(--text-secondary);
+  line-height: 1.5;
+}
+
+.more-reviews {
+  text-align: center;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-top: 1rem;
+}
+
+/* Comments Styles */
+.comments-container {
+  margin-top: 1rem;
+}
+
+.comment-item {
+  padding: 1rem;
+  border-left: 3px solid var(--primary-color);
+  background: var(--background);
+  margin-bottom: 1rem;
+  border-radius: 0 var(--radius) var(--radius) 0;
+}
+
+.comment-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.comment-author {
+  font-weight: 600;
+  color: var(--text-primary);
+}
+
+.comment-date {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+}
+
+.comment-body {
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin-bottom: 0.5rem;
+}
+
+.comment-link {
+  font-size: 0.875rem;
+  color: var(--primary-color);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.comment-link:hover {
+  text-decoration: underline;
+}
+
+.more-comments {
+  text-align: center;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-top: 1rem;
+}
+
+.expand-comments-btn {
+  display: block;
+  width: 100%;
+  margin-top: 1rem;
+  padding: 0.75rem 1rem;
+  background: var(--primary-color);
+  color: white;
+  border: none;
+  border-radius: var(--radius);
+  font-size: 0.875rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.expand-comments-btn:hover {
+  background: var(--primary-dark);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+/* How-To Steps Styles */
+.steps-container {
+  margin-top: 1rem;
+}
+
+.steps-list {
+  counter-reset: step-counter;
+  list-style: none;
+  margin-left: 0;
+}
+
+.step-item {
+  counter-increment: step-counter;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background: var(--background);
+  border-radius: var(--radius);
+  border: 1px solid var(--border-light);
+  position: relative;
+}
+
+.step-item::before {
+  content: counter(step-counter);
+  position: absolute;
+  left: -0.5rem;
+  top: 1rem;
+  background: var(--primary-color);
+  color: white;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 0.875rem;
+}
+
+.step-content {
+  margin-left: 1rem;
+  line-height: 1.5;
+  color: var(--text-primary);
+}
+
+.step-image {
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+
+.step-image img {
+  max-width: 200px;
+  height: auto;
+  border-radius: var(--radius);
+  border: 1px solid var(--border-light);
+}
+
+/* Videos Styles */
+.videos-container {
+  margin-top: 1rem;
+}
+
+.video-item {
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: var(--background);
+  border-radius: var(--radius);
+  border: 1px solid var(--border-light);
+}
+
+.video-info h4 {
+  margin-bottom: 0.5rem;
+  color: var(--text-primary);
+}
+
+.video-description {
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
+  line-height: 1.5;
+}
+
+.video-meta {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  flex-wrap: wrap;
+}
+
+.video-meta span {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.video-player {
+  margin-bottom: 1rem;
+}
+
+.video-player iframe,
+.video-player video {
+  width: 100%;
+  max-width: 560px;
+  height: 315px;
+  border-radius: var(--radius);
+}
+
+.video-thumbnail img {
+  max-width: 300px;
+  height: auto;
+  border-radius: var(--radius);
+  border: 1px solid var(--border-light);
+}
+
+/* Images Gallery Styles */
+.images-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.image-item {
+  background: var(--background);
+  border-radius: var(--radius);
+  overflow: hidden;
+  border: 1px solid var(--border-light);
+}
+
+.image-item img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.image-caption {
+  padding: 0.75rem;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+
+.image-credit {
+  padding: 0 0.75rem 0.75rem;
+  font-size: 0.75rem;
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* Q&A Styles */
+.qa-container {
+  margin-top: 1rem;
+}
+
+.qa-item {
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  background: var(--background);
+  border-radius: var(--radius);
+  border: 1px solid var(--border-light);
+}
+
+.question h4 {
+  color: var(--primary-color);
+  margin-bottom: 0.5rem;
+}
+
+.question p {
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
+  line-height: 1.5;
+}
+
+.answers {
+  margin-top: 1rem;
+}
+
+.answer {
+  padding: 1rem;
+  background: var(--surface-elevated);
+  border-radius: var(--radius);
+  margin-bottom: 1rem;
+  border-left: 3px solid var(--accent-color);
+}
+
+.answer h5 {
+  color: var(--accent-color);
+  margin-bottom: 0.5rem;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.answer p {
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin-bottom: 0.5rem;
+}
+
+.upvotes {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.standalone-answers h4 {
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+  margin-top: 1.5rem;
+}
+
+/* Ratings Styles */
+.ratings-container {
+  margin-top: 1rem;
+}
+
+.rating-item {
+  padding: 1rem;
+  background: var(--background);
+  border-radius: var(--radius);
+  border: 1px solid var(--border-light);
+  margin-bottom: 1rem;
+}
+
+.rating-display {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.rating-value {
+    font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--primary-color);
+}
+
+.rating-scale {
+  font-size: 1rem;
+  color: var(--text-secondary);
+}
+
+.rating-count {
+    font-size: 0.875rem;
+  color: var(--text-muted);
+}
+
+.rating-bar {
+  width: 100%;
+  height: 8px;
+  background: var(--border-light);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+}
+
+.rating-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--primary-color), var(--primary-light));
+  transition: width 0.3s ease;
+}
+
+/* Nutrition Information Styles */
+.nutrition-container {
+  margin-top: 1rem;
+}
+
+.nutrition-item {
+  padding: 1rem;
+  background: var(--background);
+  border-radius: var(--radius);
+  border: 1px solid var(--border-light);
+  margin-bottom: 1rem;
+}
+
+.nutrition-facts {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.75rem;
+}
+
+.nutrition-fact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  background: var(--surface-elevated);
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-light);
+}
+
+.nutrition-fact .label {
+  font-weight: 500;
+  color: var(--text-primary);
+}
+
+.nutrition-fact .value {
+  font-weight: 600;
+  color: var(--primary-color);
 }
 
 /* Article Data */
@@ -1856,6 +2739,289 @@ body {
   line-height: 1.4;
   margin-top: 0.5rem;
 }
+
+/* Responsive Design for Structured Data */
+@media (max-width: 768px) {
+  .recipe-meta {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+  
+  .images-gallery {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+  
+  .nutrition-facts {
+    grid-template-columns: 1fr;
+  }
+  
+  .video-player iframe,
+  .video-player video {
+    height: 200px;
+  }
+  
+  .step-item::before {
+    position: relative;
+    left: 0;
+    margin-bottom: 0.5rem;
+  }
+  
+  .step-content {
+    margin-left: 0;
+  }
+  
+  .step-image {
+    margin-left: 0;
+  }
+}
+
+/* Article Detail Page Styles */
+.article-detail {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.article-header {
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border-light);
+}
+
+.article-header h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+.article-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.article-meta span {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.article-actions {
+  margin-top: 1rem;
+}
+
+.btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background: var(--primary-color);
+  color: white;
+  text-decoration: none;
+  border-radius: var(--radius);
+  font-weight: 500;
+  transition: all 0.2s ease;
+  box-shadow: var(--shadow-sm);
+}
+
+.btn-primary:hover {
+  background: var(--primary-dark);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md);
+}
+
+.article-image {
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.article-image img {
+  max-width: 100%;
+  max-height: 400px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--border-light);
+}
+
+.article-summary,
+.structured-content,
+.article-content,
+.article-tags,
+.article-keywords,
+.article-notes,
+.raw-structured-data {
+  margin-bottom: 2rem;
+  background: var(--surface-elevated);
+  padding: 1.5rem;
+  border-radius: var(--radius-lg);
+  border: 1px solid var(--border-light);
+  box-shadow: var(--shadow-sm);
+}
+
+.article-summary h2,
+.structured-content h2,
+.article-content h2,
+.article-tags h3,
+.article-keywords h3,
+.article-notes h3,
+.raw-structured-data h3 {
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+.content-text p {
+  margin-bottom: 1rem;
+  line-height: 1.6;
+  color: var(--text-secondary);
+}
+
+.article-tags .tags,
+.article-keywords .keywords {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.article-tags .tag {
+  padding: 0.5rem 0.875rem;
+  background: var(--primary-color);
+  color: white;
+  text-decoration: none;
+  border-radius: var(--radius);
+  font-size: 0.875rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+}
+
+.article-tags .tag:hover {
+  background: var(--primary-dark);
+  transform: translateY(-1px);
+}
+
+.keyword {
+  padding: 0.375rem 0.75rem;
+  background: var(--accent-color);
+  color: white;
+  border-radius: var(--radius-sm);
+  font-size: 0.75rem;
+  font-weight: 500;
+}
+
+.raw-structured-data details {
+  margin-top: 1rem;
+}
+
+.raw-structured-data summary {
+  cursor: pointer;
+  font-weight: 500;
+  color: var(--primary-color);
+  padding: 0.5rem;
+  border-radius: var(--radius-sm);
+  transition: background-color 0.2s ease;
+}
+
+.raw-structured-data summary:hover {
+  background: var(--border-light);
+}
+
+.raw-structured-data pre {
+  background: var(--background);
+  padding: 1rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border-light);
+  overflow-x: auto;
+  font-size: 0.75rem;
+  line-height: 1.4;
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .article-detail {
+    margin: 0;
+  }
+  
+  .article-header h1 {
+    font-size: 1.5rem;
+  }
+  
+  .article-image img {
+    max-height: 300px;
+  }
+  
+  .article-summary,
+  .structured-content,
+  .article-content,
+  .article-tags,
+  .article-keywords,
+  .article-notes,
+  .raw-structured-data {
+    padding: 1rem;
+  }
+}
+
+/* Breadcrumbs Styles */
+.breadcrumbs-container {
+  margin-top: 1rem;
+}
+
+.breadcrumb-nav {
+  margin-bottom: 1rem;
+}
+
+.breadcrumb-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  list-style: none;
+  margin: 0;
+  padding: 1rem;
+  background: var(--background);
+  border-radius: var(--radius);
+  border: 1px solid var(--border-light);
+  gap: 0.5rem;
+}
+
+.breadcrumb-item {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.breadcrumb-link {
+  color: var(--primary-color);
+  text-decoration: none;
+  font-weight: 500;
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--radius-sm);
+  transition: all 0.2s ease;
+}
+
+.breadcrumb-link:hover {
+  background: var(--primary-color);
+  color: white;
+  text-decoration: none;
+}
+
+.breadcrumb-text {
+  color: var(--text-secondary);
+  font-weight: 500;
+  padding: 0.25rem 0.5rem;
+}
+
+.breadcrumb-separator {
+  color: var(--text-muted);
+  font-weight: 600;
+  user-select: none;
+}
 `;
 
     writeFileSync(join(this.outputDir, 'assets/style.css'), css);
@@ -1869,13 +3035,14 @@ class BastesPocketApp {
     this.currentArticles = [];
     this.isIndex = window.pageConfig?.isIndex || false;
     this.relativePath = window.pageConfig?.relativePath || '';
+    this.searchTimeout = null; // Add debouncing
     
     this.init();
   }
 
   async init() {
     if (this.isIndex) {
-    await this.loadSearchData();
+      await this.loadSearchData();
     } else {
       this.searchData = window.pageArticles || [];
       this.currentArticles = [...this.searchData];
@@ -1900,7 +3067,11 @@ class BastesPocketApp {
 
     if (searchInput) {
       searchInput.addEventListener('input', (e) => {
+        // Debounce search to improve performance
+        clearTimeout(this.searchTimeout);
+        this.searchTimeout = setTimeout(() => {
         this.handleSearch();
+        }, 300); // Wait 300ms after user stops typing
       });
     }
 
@@ -1920,16 +3091,21 @@ class BastesPocketApp {
     
     let filtered = [...this.searchData];
     
-    // Apply text search
+    // Apply text search - treat multiple words as AND conditions
     if (searchTerm) {
+      const searchWords = searchTerm.split(/\s+/).filter(word => word.length > 0);
+      
       filtered = filtered.filter(article => {
-        return (
-          article.title.toLowerCase().includes(searchTerm) ||
-          article.summary.toLowerCase().includes(searchTerm) ||
-          article.content.toLowerCase().includes(searchTerm) ||
-          article.tags.some(tag => tag.toLowerCase().includes(searchTerm)) ||
-          article.keywords.some(keyword => keyword.toLowerCase().includes(searchTerm))
-        );
+        const searchableText = [
+          article.title,
+          article.summary,
+          article.content,
+          ...article.tags,
+          ...article.keywords
+        ].join(' ').toLowerCase();
+        
+        // All search words must be found (AND condition)
+        return searchWords.every(word => searchableText.includes(word));
       });
     }
     
@@ -1965,9 +3141,7 @@ class BastesPocketApp {
   }
 
   renderArticleCard(article) {
-    const maxTags = this.isIndex ? 0 : 3;
-    const tagsToShow = maxTags > 0 ? article.tags.slice(0, maxTags) : article.tags;
-    const hasMoreTags = maxTags > 0 && article.tags.length > maxTags;
+    const tagsToShow = article.tags;
     
     return \`
     <div class="article-card" data-tags="\${article.tags.join(',')}" data-type="\${article.type}">
@@ -1991,7 +3165,6 @@ class BastesPocketApp {
           \${article.tags.length > 0 ? \`
           <div class="card-tags">
             \${tagsToShow.map(tag => \`<a href="\${this.relativePath}tags/\${tag}.html" class="tag">\${tag}</a>\`).join('')}
-            \${hasMoreTags ? \`<span class="tag-more">+\${article.tags.length - maxTags}</span>\` : ''}
           </div>
           \` : ''}
         </div>
@@ -2237,6 +3410,130 @@ document.addEventListener('DOMContentLoaded', () => {
         console.warn('⚠️  Could not create images archive:', error);
       }
     }
+  }
+
+  private generatePageTemplate(data: TemplateData): string {
+    const { config, stats, searchData } = data;
+    const isIndex = config.pageType === 'index';
+    
+    return `<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>${config.title}</title>
+    <link rel="stylesheet" href="${config.relativePath}assets/style.css">
+    ${config.description ? `<meta name="description" content="${config.description}">` : ''}
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <a href="${config.relativePath}index.html" class="logo">👨‍🍳 Basted Pocket</a>
+            ${isIndex ? `
+            <nav class="header-nav">
+                <a href="download.html" class="nav-link">📥 Download Dataset</a>
+            </nav>
+            ` : ''}
+        </div>
+    </header>
+
+    <main class="container">
+        ${this.generatePageHeader(config)}
+        ${this.generateSearchSection(config)}
+        ${config.showTagCloud && stats ? this.generateTagCloud(stats, config.relativePath) : ''}
+        ${this.generateArticlesSection(config)}
+    </main>
+
+    ${isIndex && stats ? this.generateFooter(stats) : ''}
+
+    <script>
+        // Page-specific search data
+        window.pageArticles = ${JSON.stringify(searchData)};
+        window.pageConfig = {
+            isIndex: ${isIndex},
+            relativePath: "${config.relativePath}"
+        };
+    </script>
+    <script src="${config.relativePath}assets/${isIndex ? 'script.js' : 'page-search.js'}"></script>
+</body>
+</html>`;
+  }
+
+  private generatePageHeader(config: PageConfig): string {
+    if (config.pageType === 'index') {
+      return ''; // Index page doesn't need a separate header section
+    }
+    
+    return `
+        <div class="page-header">
+            <h1>${config.heading}</h1>
+            <p id="articleCount">${config.articles.length} articles</p>
+            ${config.description ? `<p>${config.description}</p>` : ''}
+        </div>`;
+  }
+
+  private generateSearchSection(config: PageConfig): string {
+    return `
+        <div class="search-section">
+            <input type="text" id="searchInput" placeholder="${config.searchPlaceholder}" class="search-input">
+            <div class="filters">
+                <select id="tagFilter" class="filter-select">
+                    <option value="">All Tags</option>
+                    ${config.allTags.map(tag => 
+                        `<option value="${tag}" ${tag === config.selectedTag ? 'selected' : ''}>${tag}</option>`
+                    ).join('')}
+                </select>
+            </div>
+        </div>`;
+  }
+
+  private generateTagCloud(stats: SiteData['stats'], relativePath: string): string {
+    return `
+        <div class="tag-cloud">
+            <h2>Popular Tags</h2>
+            <div class="tags">
+                ${stats.topTags.slice(0, 15).map(({ tag, count }) => 
+                    `<a href="${relativePath}tags/${tag}.html" class="tag" data-count="${count}">${tag} <span class="count">${count}</span></a>`
+                ).join('')}
+            </div>
+        </div>`;
+  }
+
+  private generateArticlesSection(config: PageConfig): string {
+    return `
+        <div class="articles-section">
+            ${config.pageType === 'index' ? `
+            <div class="section-header">
+                <h2>Recent Recipes</h2>
+                <p>Discover your latest culinary adventures</p>
+            </div>
+            ` : ''}
+            <div id="articlesContainer" class="articles-grid">
+                ${config.articles.map(article => this.renderArticleCard(article, config.relativePath)).join('')}
+            </div>
+            <div id="noResults" class="no-results" style="display: none;">
+                <p>No recipes found matching your search criteria.</p>
+            </div>
+        </div>`;
+  }
+
+  private generateFooter(stats: SiteData['stats']): string {
+    return `
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-stats">
+                    <span class="stat">${stats.totalArticles} Total Articles</span>
+                    <span class="stat">${stats.processedArticles} Processed</span>
+                    <span class="stat">${stats.totalTags} Tags</span>
+                    <span class="stat">${stats.contentTypes.length} Content Types</span>
+                </div>
+                <div class="footer-tagline">
+                    <p>Your AI-Enhanced Recipe Collection</p>
+                </div>
+            </div>
+        </div>
+    </footer>`;
   }
 }
 
