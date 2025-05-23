@@ -365,8 +365,7 @@ class BastesPocketSiteGenerator {
 <body>
     <header class="header">
         <div class="container">
-            <h1 class="logo">👨‍🍳 Basted Pocket</h1>
-            <p class="tagline">Your AI-Enhanced Recipe Collection</p>
+            <a href="index.html" class="logo">👨‍🍳 Basted Pocket</a>
             <nav class="header-nav">
                 <a href="download.html" class="nav-link">📥 Download Dataset</a>
             </nav>
@@ -374,37 +373,18 @@ class BastesPocketSiteGenerator {
     </header>
 
     <main class="container">
-        <div class="stats-grid">
-            <div class="stat-card">
-                <h3>${data.stats.totalArticles}</h3>
-                <p>Total Articles</p>
-            </div>
-            <div class="stat-card">
-                <h3>${data.stats.processedArticles}</h3>
-                <p>Processed</p>
-            </div>
-            <div class="stat-card">
-                <h3>${data.stats.totalTags}</h3>
-                <p>Tags</p>
-            </div>
-            <div class="stat-card">
-                <h3>${data.stats.contentTypes.length}</h3>
-                <p>Content Types</p>
-            </div>
-        </div>
-
         <div class="search-section">
             <input type="text" id="searchInput" placeholder="Search recipes, summaries, tags..." class="search-input">
             <div class="filters">
                 <select id="tagFilter" class="filter-select">
                     <option value="">All Tags</option>
-                    ${data.stats.topTags.map(({ tag, count }) => 
+                    ${data.stats.topTags.sort((a, b) => a.tag.localeCompare(b.tag)).map(({ tag, count }) => 
                         `<option value="${tag}">${tag} (${count})</option>`
                     ).join('')}
                 </select>
                 <select id="typeFilter" class="filter-select">
                     <option value="">All Types</option>
-                    ${data.stats.contentTypes.map(({ type, count }) => 
+                    ${data.stats.contentTypes.sort((a, b) => a.type.localeCompare(b.type)).map(({ type, count }) => 
                         `<option value="${type}">${type} (${count})</option>`
                     ).join('')}
                 </select>
@@ -438,6 +418,22 @@ class BastesPocketSiteGenerator {
         </div>
     </main>
 
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-stats">
+                    <span class="stat">${data.stats.totalArticles} Total Articles</span>
+                    <span class="stat">${data.stats.processedArticles} Processed</span>
+                    <span class="stat">${data.stats.totalTags} Tags</span>
+                    <span class="stat">${data.stats.contentTypes.length} Content Types</span>
+                </div>
+                <div class="footer-tagline">
+                    <p>Your AI-Enhanced Recipe Collection</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
     <script src="assets/script.js"></script>
 </body>
 </html>`;
@@ -464,29 +460,21 @@ class BastesPocketSiteGenerator {
 
     for (const obj of jsonLdObjects) {
       if (obj['@type']) {
-        const type = Array.isArray(obj['@type']) ? obj['@type'][0] : obj['@type'];
+        const types = Array.isArray(obj['@type']) ? obj['@type'] : [obj['@type']];
         
-        switch (type) {
-          case 'Recipe':
-            renderedData += this.renderRecipeData(obj);
-            break;
-          case 'Article':
-          case 'NewsArticle':
-          case 'BlogPosting':
-            renderedData += this.renderArticleData(obj);
-            break;
-          case 'Product':
-            renderedData += this.renderProductData(obj);
-            break;
-          case 'Organization':
-          case 'Person':
-            renderedData += this.renderEntityData(obj);
-            break;
-          case 'Event':
-            renderedData += this.renderEventData(obj);
-            break;
-          default:
-            renderedData += this.renderGenericData(obj);
+        // Prioritize Recipe type if present
+        if (types.includes('Recipe')) {
+          renderedData += this.renderRecipeData(obj);
+        } else if (types.includes('Article') || types.includes('NewsArticle') || types.includes('BlogPosting')) {
+          renderedData += this.renderArticleData(obj);
+        } else if (types.includes('Product')) {
+          renderedData += this.renderProductData(obj);
+        } else if (types.includes('Organization') || types.includes('Person')) {
+          renderedData += this.renderEntityData(obj);
+        } else if (types.includes('Event')) {
+          renderedData += this.renderEventData(obj);
+        } else {
+          renderedData += this.renderGenericData(obj);
         }
       }
     }
@@ -803,18 +791,21 @@ class BastesPocketSiteGenerator {
     
     // Use local image if available, fallback to remote
     const imageUrl = this.getImageUrl(article, relativePath);
+    const articleUrl = `${relativePath}articles/${article.id}.html`;
 
     return `
     <div class="article-card" data-tags="${uniqueTags.join(',')}" data-type="${article.content_type || ''}">
         <div class="card-layout">
             ${imageUrl ? `
             <div class="card-thumbnail">
-                <img src="${imageUrl}" alt="${title}" loading="lazy">
+                <a href="${articleUrl}">
+                    <img src="${imageUrl}" alt="${title}" loading="lazy">
+                </a>
             </div>
             ` : ''}
             <div class="card-content">
                 <div class="card-header">
-                    <h3><a href="${relativePath}articles/${article.id}.html">${title}</a></h3>
+                    <h3><a href="${articleUrl}">${title}</a></h3>
                     <div class="card-meta">
                         ${article.read_time_minutes ? `<span class="read-time">${article.read_time_minutes} min</span>` : ''}
                         ${article.content_type ? `<span class="content-type">${article.content_type}</span>` : ''}
@@ -2016,12 +2007,66 @@ body {
   outline-offset: 2px;
 }
 
+/* Footer */
+.footer {
+  background: var(--surface-elevated);
+  border-top: 1px solid var(--border-light);
+  margin-top: 3rem;
+  padding: 1.5rem 0;
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  align-items: center;
+  text-align: center;
+}
+
+.footer-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+}
+
+.footer-stats .stat {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  padding: 0.25rem 0.75rem;
+  background: var(--background);
+  border-radius: var(--radius-sm);
+  border: 1px solid var(--border-light);
+}
+
+.footer-tagline {
+  color: var(--text-muted);
+  font-size: 0.875rem;
+}
+
+.footer-tagline p {
+  margin: 0;
+}
+
+@media (min-width: 768px) {
+  .footer-content {
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: left;
+  }
+  
+  .footer-stats {
+    justify-content: flex-start;
+  }
+}
+
 /* Print Styles */
 @media print {
   .header-nav,
   .search-section,
   .filters,
-  .load-more {
+  .load-more,
+  .footer {
     display: none;
   }
   
@@ -2165,7 +2210,9 @@ class BastesPocketApp {
       <div class="card-layout">
         \${article.imageUrl ? \`
         <div class="card-thumbnail">
-          <img src="\${article.imageUrl}" alt="\${article.title}" loading="lazy">
+          <a href="\${article.url}">
+            <img src="\${article.imageUrl}" alt="\${article.title}" loading="lazy">
+          </a>
         </div>
         \` : ''}
         <div class="card-content">
@@ -2303,7 +2350,9 @@ class PageSearch {
       <div class="card-layout">
         \${article.imageUrl ? \`
         <div class="card-thumbnail">
-          <img src="\${article.imageUrl}" alt="\${article.title}" loading="lazy">
+          <a href="\${article.url}">
+            <img src="\${article.imageUrl}" alt="\${article.title}" loading="lazy">
+          </a>
         </div>
         \` : ''}
         <div class="card-content">
@@ -2407,43 +2456,21 @@ document.addEventListener('DOMContentLoaded', () => {
           enrichment_timestamp: article.processing_timestamp,
           scraping_status: (article as any).scraping_status,
           enrichment_status: (article as any).enrichment_status,
-          // Include key metadata but not full content to keep size manageable
-          has_content: !!article.main_text_content,
-          has_image: !!article.key_image_url,
-          has_structured_data: !!(article.json_ld_objects && article.json_ld_objects.length > 0)
+          json_ld_objects: article.json_ld_objects
         }))
       };
 
-      // Write dataset as JSON
-      writeFileSync(
-        join(this.outputDir, 'dataset.json'),
-        JSON.stringify(dataset, null, 2)
-      );
-
-      console.log(`📦 Dataset created: ${this.outputDir}/dataset.json (${articles.length} articles)`);
+      // Write dataset
+      writeFileSync(join(this.outputDir, 'dataset.json'), JSON.stringify(dataset, null, 2));
+      console.log(`📊 Created dataset with ${articles.length} articles`);
     } catch (error) {
-      console.error('Failed to create dataset from current data:', error);
+      console.error('❌ Error creating dataset:', error);
     }
   }
 
   private async createDatasetZip(): Promise<void> {
-    try {
-      // Check if dataset.json exists, if not create it from current data
-      const datasetPath = join(this.outputDir, 'dataset.json');
-      if (!existsSync(datasetPath)) {
-        console.log('📦 Creating dataset.json from current data...');
-        await this.createDatasetFromCurrentData();
-      }
-
-      // For now, just copy the JSON file - in a real implementation you'd use a zip library
-      // But since we want to keep dependencies minimal, we'll provide the JSON for download
-      console.log('📦 Dataset available for download at /dataset.json');
-      
-      // Create data archive for GitHub Actions caching
-      await this.createDataArchive();
-      
-      // Also create a simple download page
-      const downloadHtml = `<!DOCTYPE html>
+    // Create download page
+    const downloadHtml = `<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -2460,118 +2487,132 @@ document.addEventListener('DOMContentLoaded', () => {
 
     <main class="container">
         <div class="page-header">
-            <h1>Download Dataset</h1>
-            <p>Download your complete Basted Pocket dataset for backup or migration</p>
+            <h1>📥 Download Dataset</h1>
+            <p>Access your complete recipe collection data</p>
         </div>
 
         <div class="download-section">
             <div class="download-card">
-                <h3>📊 Complete Dataset</h3>
-                <p>Includes all scraped metadata, summaries, tags, and processing information.</p>
+                <h3>📊 Complete Dataset (JSON)</h3>
+                <p>All articles with metadata, tags, summaries, and structured data</p>
                 <a href="dataset.json" download="basted-pocket-dataset.json" class="btn-primary">
-                    📥 Download JSON Dataset
+                    📄 Download JSON Dataset
                 </a>
-                <p class="download-note">
-                    <small>This file contains all your processed recipe metadata and can be used to restore your Basted Pocket collection.</small>
-                </p>
             </div>
-            
+
             <div class="download-card">
-                <h3>📦 Complete Data Archive</h3>
-                <p>All scraped content, enriched data, and images in one convenient package.</p>
-                <a href="data.tar.gz" download="basted-pocket-data.tar.gz" class="btn-secondary">
+                <h3>🗂️ Complete Data Archive</h3>
+                <p>All scraped content, images, and enriched data in organized folders</p>
+                <a href="data.tar.gz" download="basted-pocket-data.tar.gz" class="btn-primary">
                     📦 Download Data Archive
                 </a>
-                <p class="download-note">
-                    <small>Extract this archive to build_output/ to restore all cached data and images.</small>
-                </p>
+            </div>
+
+            <div class="download-card">
+                <h3>🖼️ Images Archive</h3>
+                <p>All downloaded recipe images</p>
+                <a href="images.tar.gz" download="basted-pocket-images.tar.gz" class="btn-primary">
+                    🖼️ Download Images
+                </a>
             </div>
         </div>
 
         <div class="usage-info">
-            <h2>How to Use This Dataset</h2>
-            <h3>🔄 For GitHub Actions (Automatic)</h3>
-            <p>The GitHub Actions workflow automatically downloads and reuses this data on each run to avoid re-processing existing content.</p>
-            
-            <h3>📁 For Manual Backup/Restore</h3>
-            <ol>
-                <li>Download the dataset.json file and data.tar.gz archive</li>
-                <li>In your new Basted Pocket installation, create <code>build_output/</code> directory</li>
-                <li>Extract data.tar.gz to <code>build_output/</code> (creates <code>build_output/data/</code> with all content)</li>
-                <li>Run the build process - only new or updated links will be re-processed</li>
-            </ol>
-            
-            <h3>🚀 Migration Between Repositories</h3>
-            <p>This dataset format allows you to migrate your processed Basted Pocket data between different GitHub repositories while preserving all scraped content and AI enrichments.</p>
+            <h2>📖 Usage Information</h2>
+            <div class="info-grid">
+                <div class="info-card">
+                    <h4>Dataset Format</h4>
+                    <p>The JSON dataset contains structured metadata for all articles including titles, tags, summaries, and JSON-LD structured data.</p>
+                </div>
+                <div class="info-card">
+                    <h4>Data Archive</h4>
+                    <p>Complete backup including raw HTML content, scraped metadata, AI enrichments, and downloaded images organized by article ID.</p>
+                </div>
+                <div class="info-card">
+                    <h4>GitHub Actions Integration</h4>
+                    <p>The data archive can be used to restore state in GitHub Actions workflows, avoiding re-processing of existing content.</p>
+                </div>
+            </div>
         </div>
     </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-tagline">
+                    <p>Your AI-Enhanced Recipe Collection</p>
+                </div>
+            </div>
+        </div>
+    </footer>
 </body>
 </html>`;
 
-      writeFileSync(join(this.outputDir, 'download.html'), downloadHtml);
-      console.log('📄 Download page created at /download.html');
-      
-    } catch (error) {
-      console.error('Failed to create dataset download:', error);
-    }
+    writeFileSync(join(this.outputDir, 'download.html'), downloadHtml);
+    
+    // Create dataset from current data
+    await this.createDatasetFromCurrentData();
   }
 
   private async createDataArchive(): Promise<void> {
-    try {
-      // Create tar.gz archive of entire data directory for GitHub Actions caching
-      const sourceDataDir = 'build_output/data';
-      
-      if (!existsSync(sourceDataDir)) {
-        console.log('📦 No data directory to archive');
-        return;
+    // Create data archive if data directory exists
+    if (existsSync('build_output/data')) {
+      try {
+        await new Promise<void>((resolve, reject) => {
+          const { spawn } = require('child_process');
+          const tar = spawn('tar', ['-czf', join(this.outputDir, 'data.tar.gz'), '-C', 'build_output', 'data'], {
+            stdio: 'inherit'
+          });
+          
+          tar.on('close', (code) => {
+            if (code === 0) {
+              console.log('📦 Created data archive');
+              resolve();
+            } else {
+              reject(new Error(`tar process exited with code ${code}`));
+            }
+          });
+          
+          tar.on('error', reject);
+        });
+      } catch (error) {
+        console.warn('⚠️  Could not create data archive:', error);
       }
+    }
 
-      // Create tar.gz archive of data directory for GitHub Actions caching
-      const { spawn } = require('child_process');
-      
-      console.log('📦 Creating data archive for caching...');
-      
-      const tarProcess = spawn('tar', [
-        '-czf', 
-        join(this.outputDir, 'data.tar.gz'),
-        '-C', 
-        'build_output',
-        'data'
-      ], { stdio: 'inherit' });
-
-      await new Promise<number>((resolve) => {
-        tarProcess.on('close', (code: number | null) => {
-          if (code === 0) {
-            console.log('✅ Data archive created successfully');
-            resolve(code);
-          } else {
-            console.warn(`⚠️  tar process exited with code ${code}`);
-            resolve(code || 1); // Don't fail the build if tar fails
-          }
+    // Create images archive
+    const imagesDir = join(this.outputDir, 'images');
+    if (existsSync(imagesDir)) {
+      try {
+        await new Promise<void>((resolve, reject) => {
+          const { spawn } = require('child_process');
+          const tar = spawn('tar', ['-czf', join(this.outputDir, 'images.tar.gz'), '-C', this.outputDir, 'images'], {
+            stdio: 'inherit'
+          });
+          
+          tar.on('close', (code) => {
+            if (code === 0) {
+              console.log('🖼️  Created images archive');
+              resolve();
+            } else {
+              reject(new Error(`tar process exited with code ${code}`));
+            }
+          });
+          
+          tar.on('error', reject);
         });
-        tarProcess.on('error', (error: Error) => {
-          console.warn('⚠️  Failed to create data archive:', error);
-          resolve(0); // Don't fail the build if tar fails
-        });
-      });
-      
-    } catch (error) {
-      console.warn('Failed to create data archive:', error);
+      } catch (error) {
+        console.warn('⚠️  Could not create images archive:', error);
+      }
     }
   }
 }
 
-// Main execution
 async function main() {
-  try {
-    const generator = new BastesPocketSiteGenerator();
-    await generator.generateFromEnrichedData();
-  } catch (error) {
-    console.error('Fatal error:', error);
-    process.exit(1);
-  }
+  const generator = new BastesPocketSiteGenerator();
+  await generator.generateFromEnrichedData();
 }
 
 if (import.meta.main) {
-  main();
+  main().catch(console.error);
 } 
