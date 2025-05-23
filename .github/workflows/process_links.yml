@@ -41,67 +41,14 @@ jobs:
     - name: Install dependencies
       run: bun install
     
-    - name: Create config directory if it doesn't exist
-      run: mkdir -p config
-    
-    - name: Create default tag definitions if missing
-      run: |
-        if [ ! -f config/tag_definitions.json ]; then
-          cat > config/tag_definitions.json << 'EOF'
-        {
-          "tags": [
-            {
-              "name": "recipe",
-              "description": "Cooking recipes, food preparation instructions, and culinary content",
-              "keywords_hint": ["recipe", "cooking", "ingredients", "preparation", "food"]
-            },
-            {
-              "name": "tech",
-              "description": "Technology articles, software development, programming, and technical tutorials",
-              "keywords_hint": ["programming", "software", "code", "development", "technology"]
-            },
-            {
-              "name": "ai",
-              "description": "Artificial intelligence, machine learning, and related technologies",
-              "keywords_hint": ["AI", "machine learning", "neural network", "LLM", "artificial intelligence"]
-            },
-            {
-              "name": "health",
-              "description": "Health, wellness, medical information, and fitness content",
-              "keywords_hint": ["health", "medical", "wellness", "fitness", "nutrition"]
-            },
-            {
-              "name": "business",
-              "description": "Business strategy, entrepreneurship, finance, and professional development",
-              "keywords_hint": ["business", "strategy", "finance", "entrepreneurship", "management"]
-            },
-            {
-              "name": "science",
-              "description": "Scientific research, discoveries, and educational content",
-              "keywords_hint": ["research", "science", "study", "discovery", "scientific"]
-            },
-            {
-              "name": "tutorial",
-              "description": "How-to guides, tutorials, and educational content",
-              "keywords_hint": ["tutorial", "how-to", "guide", "learn", "instruction"]
-            },
-            {
-              "name": "news",
-              "description": "Current events, news articles, and timely information",
-              "keywords_hint": ["news", "current", "events", "breaking", "update"]
-            }
-          ]
-        }
-        EOF
-        fi
-
-    - name: Download existing metadata from GitHub Pages
+    - name: Download existing metadata from GitHub Pages (non-blocking)
+      continue-on-error: true
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
         echo "🔍 Attempting to download existing metadata from GitHub Pages..."
         
-        # Get the GitHub Pages URL
+        # Get the GitHub Pages URL (non-blocking)
         pages_url=$(gh api "repos/$GITHUB_REPOSITORY/pages" --jq '.html_url' 2>/dev/null || echo "")
         
         if [ -n "$pages_url" ]; then
@@ -110,67 +57,48 @@ jobs:
           # Create build_output directory if it doesn't exist
           mkdir -p build_output/data
           
-          # Try to download existing data archive
+          # Try to download existing data archive (non-blocking)
           data_url="${pages_url}data.tar.gz"
           echo "📦 Attempting to download data archive from: $data_url"
           
-          if curl -f -s -L "$data_url" -o "build_output/data.tar.gz"; then
+          if curl -f -s -L "$data_url" -o "build_output/data.tar.gz" 2>/dev/null; then
             echo "✅ Successfully downloaded existing data archive"
             
             # Extract the complete data archive
-            cd build_output && tar -xzf data.tar.gz 2>/dev/null && rm data.tar.gz && cd ..
-            
-            if [ -d "build_output/data" ]; then
-              echo "📊 Extracted data directory with:"
-              echo "  - $(ls build_output/data/scraped/ 2>/dev/null | wc -l) individual scraped files"
-              echo "  - $(ls build_output/data/enriched/ 2>/dev/null | wc -l) individual enriched files"
-              echo "  - $(ls build_output/data/images/ 2>/dev/null | wc -l) cached images"
-              
-              # Show consolidated data file sizes if they exist
-              if [ -f "build_output/data/scraped_data.json" ]; then
-                scraped_count=$(jq '. | length' build_output/data/scraped_data.json 2>/dev/null || echo "0")
-                echo "  - $scraped_count articles in scraped_data.json"
-              fi
-              
-              if [ -f "build_output/data/enriched_data.json" ]; then
-                enriched_count=$(jq '. | length' build_output/data/enriched_data.json 2>/dev/null || echo "0")
-                echo "  - $enriched_count articles in enriched_data.json"
+            if cd build_output && tar -xzf data.tar.gz 2>/dev/null && rm data.tar.gz && cd ..; then
+              if [ -d "build_output/data" ]; then
+                echo "📊 Extracted data directory with:"
+                echo "  - $(ls build_output/data/scraped/ 2>/dev/null | wc -l) scraped articles"
+                echo "  - $(ls build_output/data/enriched/ 2>/dev/null | wc -l) enriched articles"
               fi
             fi
           else
-            echo "ℹ️  No existing data archive found at $data_url (this is normal for first deployment)"
+            echo "ℹ️  No existing data archive found (this is normal for first deployment)"
             
-            # Try to download just the dataset as fallback
+            # Try to download just the dataset as fallback (non-blocking)
             dataset_url="${pages_url}dataset.json"
             echo "📥 Attempting to download dataset from: $dataset_url"
             
-            if curl -f -s -L "$dataset_url" -o "build_output/existing_dataset.json"; then
-              echo "✅ Successfully downloaded existing dataset"
-              
-              # Create data directory and copy dataset
-              mkdir -p build_output/data
-              cp build_output/existing_dataset.json build_output/data/all_articles_data.json
-              
-              echo "📊 Restored dataset as fallback"
+            if curl -f -s -L "$dataset_url" -o "build_output/existing_dataset.json" 2>/dev/null; then
+              echo "✅ Successfully downloaded existing dataset as fallback"
+            else
+              echo "ℹ️  No existing dataset found (this is normal for first deployment)"
             fi
-          fi
-          else
-            echo "ℹ️  No existing dataset found at $dataset_url (this is normal for first deployment)"
           fi
         else
           echo "ℹ️  GitHub Pages not yet configured or accessible"
         fi
         
         echo "🏁 Metadata download attempt completed"
-    
+
     - name: Restore cached data
       uses: actions/cache@v3
       with:
         path: |
           build_output/data/
-        key: linkharbor-data-${{ hashFiles('links.md') }}
+        key: basted-pocket-data-${{ hashFiles('links.md') }}
         restore-keys: |
-          linkharbor-data-
+          basted-pocket-data-
 
     - name: Scrape content from URLs
       run: |
@@ -178,15 +106,7 @@ jobs:
         REFRESH_DATE=$(date -d '30 days ago' --iso-8601)
         bun run scripts/scrapeContent.ts --refresh-since $REFRESH_DATE
 
-    - name: Enrich content with AI
-      run: |
-        # Only refresh enriched content older than 7 days to save on API costs
-        REFRESH_DATE=$(date -d '7 days ago' --iso-8601)
-        bun run scripts/enrichContent.ts --refresh-since $REFRESH_DATE
-      env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-    
-    - name: Generate static site
+    - name: Generate static site (without enrichment to save API costs)
       run: bun run scripts/generateSite.ts
     
     - name: Setup Pages

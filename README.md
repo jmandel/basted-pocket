@@ -1,17 +1,20 @@
-# 🍽️ Basted Pocket
+# 👨‍🍳 Basted Pocket
 
-A **LinkHarbor**-powered read-it-later service specifically designed for recipe collections and food-related bookmarks. Transform your Pocket export into a beautiful, searchable static website.
+Your AI-Enhanced Recipe Collection - A GitOps-powered read-it-later service specifically designed for recipe collections and food-related bookmarks. Transform your Pocket export into a beautiful, searchable static website with AI-powered content enrichment.
 
 ## ✨ Features
 
-- **📚 Import from Pocket**: Convert your existing Pocket CSV export into LinkHarbor format
+- **📚 Import from Pocket**: Convert your existing Pocket CSV export into markdown format
+- **🤖 AI Content Enrichment**: Automatic tagging, summaries, and keyword extraction using Google Gemini
 - **🏗️ Static Site Generation**: Generate a beautiful, fast static website from your links
 - **🔍 Full-Text Search**: Client-side search across titles, tags, and notes
-- **🏷️ Tag-Based Organization**: Automatic tag pages and tag cloud visualization
+- **🏷️ Smart Tag Organization**: AI-generated tags plus manual tag pages and tag cloud
 - **📊 Analytics & Stats**: View statistics about your collection
 - **📱 Responsive Design**: Works perfectly on desktop and mobile
 - **⚡ Fast & Lightweight**: No database required, just static files
 - **🎨 Beautiful UI**: Modern, clean design optimized for recipe browsing
+- **🖼️ Image Caching**: Downloads and caches article images locally
+- **📋 Structured Data**: Renders recipe cards, nutrition info, and other structured content
 
 ## 🚀 Quick Start
 
@@ -19,6 +22,7 @@ A **LinkHarbor**-powered read-it-later service specifically designed for recipe 
 
 - [Bun](https://bun.sh) JavaScript runtime
 - Your Pocket CSV export file
+- Google Gemini API key (for AI enrichment)
 
 ### Installation
 
@@ -38,8 +42,8 @@ bun install
 First, export your Pocket data as CSV and place it in the project root:
 
 ```bash
-# Convert Pocket CSV to LinkHarbor format
-bun run import pocket.csv
+# Convert Pocket CSV to markdown format
+bun run import
 
 # This creates links.md with all your bookmarks
 ```
@@ -81,29 +85,28 @@ bun run scrape:refresh 2024-01-01
 
 # Re-enrich content older than 7 days (saves on API costs)
 bun run enrich:refresh 2024-01-01
-
-# Or run the individual scripts directly
-bun run scripts/scrapeContent.ts --refresh-since 2024-01-01
-bun run scripts/enrichContent.ts --refresh-since 2024-01-01
 ```
 
 **Dataset Management**: Your processed data is automatically saved and can be downloaded:
 
 ```bash
-# After building, visit your site's /download.html page
-# Download the dataset.json file for backup
+# Create backup archive
+bun run archive
 
-# To restore from a dataset, place dataset.json in dist/ folder
-# The scraper will automatically detect and use existing data
+# Restore from backup
+bun run restore
+
+# Clean all generated files
+bun run clean
 ```
 
 #### 3. View Your Site
 
 ```bash
-# Serve locally for testing
+# Serve locally for testing (auto-finds available port)
 bun run serve
 
-# Open http://localhost:8000 in your browser
+# Open http://localhost:8000 (or 8001/8002) in your browser
 ```
 
 #### 4. Add New Links
@@ -121,22 +124,41 @@ bun run build
 ```
 basted-pocket/
 ├── scripts/
-│   ├── importPocket.ts    # Convert Pocket CSV to links.md
-│   ├── processLinks.ts    # Generate static site from links.md
-│   └── addLink.ts         # Add new links to links.md
-├── src/
-│   ├── types.ts           # TypeScript type definitions
-│   ├── simple-parser.ts   # CSV parsing utilities
-│   ├── analyzer.ts        # Link analysis and statistics
-│   ├── exporter.ts        # Export utilities
-│   └── cli-fixed.ts       # CLI interface
-├── dist/                  # Generated static site
-├── links.md              # Your links in LinkHarbor format
+│   ├── importPocket.ts      # Convert Pocket CSV to links.md
+│   ├── scrapeContent.ts     # Scrape content from URLs
+│   ├── enrichContent.ts     # AI enrichment with Gemini
+│   ├── generateSite.ts      # Generate static site
+│   └── addLink.ts           # Add new links to links.md
+├── config/
+│   └── tags.json           # Tag definitions for AI enrichment
+├── build_output/
+│   └── data/               # Scraped and enriched data
+│       ├── scraped/        # Raw scraped content per article
+│       └── enriched/       # AI-enriched data per article
+├── dist/                   # Generated static site
+├── .github/
+│   └── workflows/          # GitHub Actions for automated deployment
+├── links.md               # Your links in markdown format
 ├── pocket.csv            # Your Pocket export (place here)
 └── package.json
 ```
 
-## 📝 LinkHarbor Format
+## 🤖 GitHub Actions Deployment
+
+The project includes GitHub Actions workflow for automated deployment to GitHub Pages:
+
+1. **Automatic Triggers**: Deploys when you push changes to `links.md` or scripts
+2. **Smart Caching**: Downloads existing data to avoid re-processing
+3. **Cost-Efficient**: Only scrapes content, skips AI enrichment on GitHub Pages to save API costs
+4. **Non-Blocking**: Gracefully handles missing data for first deployment
+
+To set up:
+
+1. Enable GitHub Pages in your repository settings
+2. Add `GEMINI_API_KEY` to repository secrets (optional, for local enrichment)
+3. Push changes to trigger deployment
+
+## 📝 Link Format
 
 Your links are stored in `links.md` using this format:
 
@@ -164,7 +186,7 @@ Your links are stored in `links.md` using this format:
 
 | Script | Command | Description |
 |--------|---------|-------------|
-| Import | `bun run import <csv-file>` | Convert Pocket CSV to links.md |
+| Import | `bun run import` | Convert Pocket CSV to links.md |
 | Build | `bun run build` | Full pipeline: scrape + enrich + generate site |
 | Scrape | `bun run scrape` | Scrape content from URLs (metadata, text, images) |
 | Enrich | `bun run enrich` | Enrich scraped content with AI (tags, summaries) |
@@ -172,8 +194,11 @@ Your links are stored in `links.md` using this format:
 | Enrich (Refresh) | `bun run enrich:refresh YYYY-MM-DD` | Re-enrich articles since date |
 | Generate | `bun run generate` | Generate static site from enriched data |
 | Add Link | `bun run add <url> [options]` | Add new link to collection |
-| Serve | `bun run serve` | Serve site locally on port 8000 |
+| Serve | `bun run serve` | Serve site locally (auto-finds port 8000-8002) |
 | Deploy | `bun run deploy` | Build and prepare for deployment |
+| Archive | `bun run archive` | Create backup of processed data |
+| Restore | `bun run restore` | Restore from backup archive |
+| Clean | `bun run clean` | Remove all generated files |
 
 ### Add Link Options
 
@@ -189,61 +214,78 @@ bun run add "https://example.com" \
 
 ### Styling
 
-Edit the CSS in `scripts/processLinks.ts` in the `generateStaticAssets()` method to customize the appearance.
+The generated site uses a modern, responsive design with:
+- Gradient header with search functionality
+- Card-based layout for articles
+- Tag clouds and statistics
+- Mobile-optimized navigation
 
-### Tags
+### AI Tag Configuration
 
-The system automatically generates:
-- **Tag pages**: Individual pages for each tag
-- **Tag cloud**: Visual representation of popular tags
-- **Tag statistics**: Count and usage analytics
+Edit `config/tags.json` to customize the AI tagging system:
 
-### Search
+```json
+{
+  "tags": [
+    {
+      "name": "breakfast",
+      "description": "Morning meals, cereals, pancakes, eggs, etc.",
+      "keywords_hint": ["breakfast", "morning", "cereal", "pancake"]
+    }
+  ]
+}
+```
 
-Client-side search includes:
-- Title matching
-- Tag matching  
-- Note content matching
-- Section matching
+## 🚀 Deployment Options
 
-## 🚀 Deployment
+### GitHub Pages (Recommended)
 
-The generated `dist/` folder contains a complete static website that can be deployed to:
+1. Push your repository to GitHub
+2. Enable GitHub Pages in repository settings
+3. The included GitHub Actions workflow will automatically deploy your site
 
-- **GitHub Pages**: Push the `dist/` folder to a `gh-pages` branch
-- **Netlify**: Drag and drop the `dist/` folder
-- **Vercel**: Deploy the `dist/` folder
-- **Any static hosting**: Upload the `dist/` folder contents
-
-### GitHub Pages with Actions (Recommended)
-
-The repository includes a GitHub Actions workflow that automatically:
-1. **Downloads existing data** from your GitHub Pages site to avoid re-processing
-2. **Scrapes new content** only for articles older than 30 days
-3. **Enriches content** with AI only for articles older than 7 days (saves API costs)
-4. **Deploys the updated site** to GitHub Pages
-
-To set up:
-
-1. **Enable GitHub Pages** in your repository settings (Source: GitHub Actions)
-2. **Add your Gemini API key** as a repository secret named `GEMINI_API_KEY`
-3. **Push changes to `links.md`** - the workflow runs automatically
-4. **Manual trigger** available via Actions tab for immediate updates
-
-The workflow intelligently caches data between runs:
-- Downloads `dataset.json` and `images.tar.gz` from your live site
-- Only processes new or stale content
-- Preserves all existing scraped data and images
-
-### Manual GitHub Pages Example
+### Manual Deployment
 
 ```bash
 # Build the site
 bun run build
 
-# Deploy to GitHub Pages (if set up manually)
-git subtree push --prefix dist origin gh-pages
+# Deploy the dist/ folder to any static hosting service:
+# - Netlify: Drag and drop dist/ folder
+# - Vercel: Connect repository or upload dist/
+# - AWS S3: Sync dist/ to S3 bucket
+# - Any web server: Copy dist/ contents to web root
 ```
+
+## 📊 Data Management
+
+The system creates a comprehensive dataset that includes:
+
+- **Scraped Content**: Raw HTML, metadata, images
+- **AI Enrichment**: Generated tags, summaries, keywords
+- **Structured Data**: Recipe cards, nutrition info, JSON-LD
+- **Search Index**: Optimized search data for client-side search
+
+All data is automatically cached and can be downloaded from your deployed site's `/download.html` page.
+
+## 🔧 Development
+
+```bash
+# Install dependencies
+bun install
+
+# Run individual scripts for development
+bun run scripts/scrapeContent.ts
+bun run scripts/enrichContent.ts
+bun run scripts/generateSite.ts
+
+# Serve locally with auto-reload
+bun run serve
+```
+
+## 📄 License
+
+MIT License - feel free to use this for your own recipe collections!
 
 ## 🤖 AI Enhancement Features
 
@@ -314,10 +356,6 @@ git subtree push --prefix dist origin gh-pages
 3. Make your changes
 4. Test thoroughly
 5. Submit a pull request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
