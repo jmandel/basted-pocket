@@ -63,6 +63,26 @@ interface SiteData {
   };
 }
 
+interface PageConfig {
+  title: string;
+  heading: string;
+  description?: string;
+  searchPlaceholder: string;
+  relativePath: string;
+  articles: ProcessedArticle[];
+  allTags: string[];
+  selectedTag?: string;
+  showTagCloud?: boolean;
+  showStats?: boolean;
+  pageType: 'index' | 'tag' | 'contentType';
+}
+
+interface TemplateData {
+  config: PageConfig;
+  stats?: SiteData['stats'];
+  searchData: any[];
+}
+
 class BastesPocketSiteGenerator {
   private outputDir: string;
 
@@ -90,6 +110,23 @@ class BastesPocketSiteGenerator {
     
     // Fallback to remote image URL
     return article.key_image_url;
+  }
+
+  private createSearchData(articles: ProcessedArticle[], relativePath: string = ''): any[] {
+    return articles
+      .filter(a => this.isArticleDisplayable(a))
+      .map(article => ({
+        id: article.id,
+        title: article.fetched_title || article.user_title || 'Untitled',
+        summary: article.summary || '',
+        content: article.main_text_content?.substring(0, 500) || '',
+        tags: [...(article.user_tags || []), ...(article.auto_tags || [])],
+        keywords: article.keywords || [],
+        type: article.content_type || '',
+        url: `${relativePath}articles/${article.id}.html`,
+        readTime: article.read_time_minutes || 0,
+        imageUrl: this.getImageUrl(article, relativePath)
+      }));
   }
 
   async generateFromEnrichedData(): Promise<void> {
@@ -385,81 +422,106 @@ class BastesPocketSiteGenerator {
   }
 
   private async generateIndexPage(data: SiteData): Promise<void> {
-    const html = `<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basted Pocket - Your Recipe Collection</title>
-    <link rel="stylesheet" href="assets/style.css">
-</head>
-<body>
-    <header class="header">
-        <div class="container">
-            <a href="index.html" class="logo">👨‍🍳 Basted Pocket</a>
-            <nav class="header-nav">
-                <a href="download.html" class="nav-link">📥 Download Dataset</a>
-            </nav>
-        </div>
-    </header>
+    const displayableArticles = data.articles.filter(a => this.isArticleDisplayable(a));
+    const allTags = data.stats.topTags.map(({ tag }) => tag).sort();
+    
+    const config: PageConfig = {
+      title: 'Basted Pocket - Your Recipe Collection',
+      heading: 'Basted Pocket',
+      searchPlaceholder: 'Search recipes, summaries, tags...',
+      relativePath: '',
+      articles: displayableArticles,
+      allTags,
+      showTagCloud: true,
+      showStats: true,
+      pageType: 'index'
+    };
 
-    <main class="container">
-        <div class="search-section">
-            <input type="text" id="searchInput" placeholder="Search recipes, summaries, tags..." class="search-input">
-            <div class="filters">
-                <select id="tagFilter" class="filter-select">
-                    <option value="">All Tags</option>
-                    ${data.stats.topTags.sort((a, b) => a.tag.localeCompare(b.tag)).map(({ tag, count }) => 
-                        `<option value="${tag}">${tag} (${count})</option>`
-                    ).join('')}
-                </select>
-            </div>
-        </div>
+    const searchData = this.createSearchData(displayableArticles);
+    
+    const templateData: TemplateData = {
+      config,
+      stats: data.stats,
+      searchData
+    };
 
-        <div class="tag-cloud">
-            <h2>Popular Tags</h2>
-            <div class="tags">
-                ${data.stats.topTags.slice(0, 15).map(({ tag, count }) => 
-                    `<a href="tags/${tag}.html" class="tag" data-count="${count}">${tag} <span class="count">${count}</span></a>`
-                ).join('')}
-            </div>
-        </div>
-
-        <div class="articles-section">
-            <div class="section-header">
-                <h2>Recent Recipes</h2>
-                <p>Discover your latest culinary adventures</p>
-            </div>
-            <div id="articlesContainer" class="articles-grid">
-                ${data.articles
-                  .filter(a => this.isArticleDisplayable(a))
-                  .map(article => this.renderArticleCard(article))
-                  .join('')}
-            </div>
-        </div>
-    </main>
-
-    <footer class="footer">
-        <div class="container">
-            <div class="footer-content">
-                <div class="footer-stats">
-                    <span class="stat">${data.stats.totalArticles} Total Articles</span>
-                    <span class="stat">${data.stats.processedArticles} Processed</span>
-                    <span class="stat">${data.stats.totalTags} Tags</span>
-                    <span class="stat">${data.stats.contentTypes.length} Content Types</span>
-                </div>
-                <div class="footer-tagline">
-                    <p>Your AI-Enhanced Recipe Collection</p>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <script src="assets/script.js"></script>
-</body>
-</html>`;
-
+    const html = this.generatePageTemplate(templateData);
     writeFileSync(join(this.outputDir, 'index.html'), html);
+  }
+
+  private async generateTagPages(data: SiteData): Promise<void> {
+    const tagsDir = join(this.outputDir, 'tags');
+    if (!existsSync(tagsDir)) {
+      mkdirSync(tagsDir, { recursive: true });
+    }
+
+    for (const [tag, articles] of Object.entries(data.tags)) {
+      const processedArticles = articles.filter(a => this.isArticleDisplayable(a));
+      
+      // Get all unique tags for filters
+      const allTags = new Set<string>();
+      processedArticles.forEach(article => {
+        [...(article.user_tags || []), ...(article.auto_tags || [])].forEach(t => allTags.add(t));
+      });
+      
+      const config: PageConfig = {
+        title: `Tag: ${tag} - Basted Pocket`,
+        heading: `Tag: ${tag}`,
+        searchPlaceholder: `Search within ${tag} recipes...`,
+        relativePath: '../',
+        articles: processedArticles,
+        allTags: Array.from(allTags).sort(),
+        selectedTag: tag,
+        pageType: 'tag'
+      };
+
+      const searchData = this.createSearchData(processedArticles, '../');
+      
+      const templateData: TemplateData = {
+        config,
+        searchData
+      };
+
+      const html = this.generatePageTemplate(templateData);
+      writeFileSync(join(tagsDir, `${tag}.html`), html);
+    }
+  }
+
+  private async generateContentTypePages(data: SiteData): Promise<void> {
+    const typesDir = join(this.outputDir, 'types');
+    if (!existsSync(typesDir)) {
+      mkdirSync(typesDir, { recursive: true });
+    }
+
+    for (const [type, articles] of Object.entries(data.contentTypes)) {
+      const processedArticles = articles.filter(a => this.isArticleDisplayable(a));
+      
+      // Get all unique tags for filters
+      const allTags = new Set<string>();
+      processedArticles.forEach(article => {
+        [...(article.user_tags || []), ...(article.auto_tags || [])].forEach(t => allTags.add(t));
+      });
+      
+      const config: PageConfig = {
+        title: `Type: ${type} - Basted Pocket`,
+        heading: `Content Type: ${type}`,
+        searchPlaceholder: `Search within ${type} content...`,
+        relativePath: '../',
+        articles: processedArticles,
+        allTags: Array.from(allTags).sort(),
+        pageType: 'contentType'
+      };
+
+      const searchData = this.createSearchData(processedArticles, '../');
+      
+      const templateData: TemplateData = {
+        config,
+        searchData
+      };
+
+      const html = this.generatePageTemplate(templateData);
+      writeFileSync(join(typesDir, `${type}.html`), html);
+    }
   }
 
   private async generateArticlePages(data: SiteData): Promise<void> {
@@ -479,28 +541,112 @@ class BastesPocketSiteGenerator {
 
     let renderedData = '';
 
-    for (const obj of jsonLdObjects) {
-      if (obj['@type']) {
+    // Flatten nested arrays - sometimes JSON-LD data is stored as [[{...}]] instead of [{...}]
+    const flattenedObjects = jsonLdObjects.flat();
+    
+    // Group objects by type for better presentation
+    const recipes: any[] = [];
+    const articles: any[] = [];
+    const products: any[] = [];
+    const entities: any[] = [];
+    const events: any[] = [];
+    const others: any[] = [];
+
+    for (const obj of flattenedObjects) {
+      if (obj && obj['@type']) {
         const types = Array.isArray(obj['@type']) ? obj['@type'] : [obj['@type']];
         
-        // Prioritize Recipe type if present
         if (types.includes('Recipe')) {
-          renderedData += this.renderRecipeData(obj);
+          recipes.push(obj);
         } else if (types.includes('Article') || types.includes('NewsArticle') || types.includes('BlogPosting')) {
-          renderedData += this.renderArticleData(obj);
+          articles.push(obj);
         } else if (types.includes('Product')) {
-          renderedData += this.renderProductData(obj);
+          products.push(obj);
         } else if (types.includes('Organization') || types.includes('Person')) {
-          renderedData += this.renderEntityData(obj);
+          entities.push(obj);
         } else if (types.includes('Event')) {
-          renderedData += this.renderEventData(obj);
+          events.push(obj);
         } else {
-          renderedData += this.renderGenericData(obj);
+          others.push(obj);
         }
       }
     }
 
+    // Render grouped content
+    if (recipes.length > 0) {
+      if (recipes.length === 1) {
+        renderedData += this.renderRecipeData(recipes[0]);
+      } else {
+        renderedData += this.renderMultipleRecipes(recipes);
+      }
+    }
+
+    // Render other types
+    articles.forEach(obj => renderedData += this.renderArticleData(obj));
+    products.forEach(obj => renderedData += this.renderProductData(obj));
+    entities.forEach(obj => renderedData += this.renderEntityData(obj));
+    events.forEach(obj => renderedData += this.renderEventData(obj));
+    others.forEach(obj => renderedData += this.renderGenericData(obj));
+
     return renderedData;
+  }
+
+  private renderMultipleRecipes(recipes: any[]): string {
+    return `
+    <div class="structured-data recipes-data">
+      <h3>🍳 Recipes (${recipes.length})</h3>
+      <div class="recipes-container">
+        ${recipes.map((recipe, index) => `
+        <div class="recipe-item">
+          <div class="recipe-details">
+            ${recipe.name ? `<h4>${recipe.name}</h4>` : ''}
+            ${recipe.description ? `<p class="recipe-description">${recipe.description}</p>` : ''}
+            
+            <div class="recipe-meta">
+              ${recipe.prepTime ? `<span class="prep-time">⏱️ Prep: ${this.formatDuration(recipe.prepTime)}</span>` : ''}
+              ${recipe.cookTime ? `<span class="cook-time">🔥 Cook: ${this.formatDuration(recipe.cookTime)}</span>` : ''}
+              ${recipe.totalTime ? `<span class="total-time">⏰ Total: ${this.formatDuration(recipe.totalTime)}</span>` : ''}
+              ${recipe.recipeYield ? `<span class="servings">👥 Serves: ${recipe.recipeYield}</span>` : ''}
+            </div>
+
+            ${recipe.recipeIngredient && recipe.recipeIngredient.length > 0 ? `
+            <div class="recipe-ingredients">
+              <h5>Ingredients:</h5>
+              <ul>
+                ${recipe.recipeIngredient.map((ingredient: string) => `<li>${ingredient}</li>`).join('')}
+              </ul>
+            </div>
+            ` : ''}
+
+            ${recipe.recipeInstructions && recipe.recipeInstructions.length > 0 ? `
+            <div class="recipe-instructions">
+              <h5>Instructions:</h5>
+              <ol>
+                ${recipe.recipeInstructions.map((instruction: any) => {
+                  const text = typeof instruction === 'string' ? instruction : instruction.text || instruction.name || '';
+                  return `<li>${text}</li>`;
+                }).join('')}
+              </ol>
+            </div>
+            ` : ''}
+
+            ${recipe.nutrition ? `
+            <div class="recipe-nutrition">
+              <h5>Nutrition:</h5>
+              <div class="nutrition-facts">
+                ${recipe.nutrition.calories ? `<span>Calories: ${recipe.nutrition.calories}</span>` : ''}
+                ${recipe.nutrition.protein ? `<span>Protein: ${recipe.nutrition.protein}</span>` : ''}
+                ${recipe.nutrition.carbohydrate ? `<span>Carbs: ${recipe.nutrition.carbohydrate}</span>` : ''}
+                ${recipe.nutrition.fat ? `<span>Fat: ${recipe.nutrition.fat}</span>` : ''}
+              </div>
+            </div>
+            ` : ''}
+          </div>
+        </div>
+        ${index < recipes.length - 1 ? '<hr class="recipe-separator">' : ''}
+        `).join('')}
+      </div>
+    </div>`;
   }
 
   private renderRecipeData(recipe: any): string {
@@ -704,6 +850,16 @@ class BastesPocketSiteGenerator {
     // Use local image if available, fallback to remote - use ../ for article pages
     const imageUrl = this.getImageUrl(article, '../');
 
+    // Check if we have structured recipe data to avoid duplication
+    const hasRecipeData = article.json_ld_objects && 
+      article.json_ld_objects.flat().some(obj => 
+        obj && obj['@type'] && 
+        (Array.isArray(obj['@type']) ? obj['@type'] : [obj['@type']]).includes('Recipe')
+      );
+
+    // Only show content preview if we don't have recipe data or if the content is significantly different
+    const shouldShowContentPreview = !hasRecipeData && article.main_text_content;
+
     return `<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -754,11 +910,11 @@ class BastesPocketSiteGenerator {
             </div>
             ` : ''}
 
-            ${article.main_text_content ? `
+            ${shouldShowContentPreview ? `
             <div class="article-content">
                 <h2>Content Preview</h2>
                 <div class="content-text">
-                    ${article.main_text_content.split('\n').map(p => p.trim() ? `<p>${p}</p>` : '').join('')}
+                    ${article.main_text_content?.split('\n').map(p => p.trim() ? `<p>${p}</p>` : '').join('') || ''}
                 </div>
             </div>
             ` : ''}
@@ -846,188 +1002,130 @@ class BastesPocketSiteGenerator {
     </div>`;
   }
 
-  private async generateTagPages(data: SiteData): Promise<void> {
-    const tagsDir = join(this.outputDir, 'tags');
-    if (!existsSync(tagsDir)) {
-      mkdirSync(tagsDir, { recursive: true });
-    }
-
-    for (const [tag, articles] of Object.entries(data.tags)) {
-      const html = this.generateTagPage(tag, articles);
-      writeFileSync(join(tagsDir, `${tag}.html`), html);
-    }
-  }
-
-  private generateTagPage(tag: string, articles: ProcessedArticle[]): string {
-    const processedArticles = articles.filter(a => this.isArticleDisplayable(a));
-    
-    // Get all unique tags and content types for filters
-    const allTags = new Set<string>();
-    const allTypes = new Set<string>();
-    
-    processedArticles.forEach(article => {
-      [...(article.user_tags || []), ...(article.auto_tags || [])].forEach(t => allTags.add(t));
-      if (article.content_type) allTypes.add(article.content_type);
-    });
-    
-    const sortedTags = Array.from(allTags).sort();
-    const sortedTypes = Array.from(allTypes).sort();
-    
-    // Create search data for this page
-    const pageSearchData = processedArticles.map(article => ({
-      id: article.id,
-      title: article.fetched_title || article.user_title || 'Untitled',
-      summary: article.summary || '',
-      content: article.main_text_content?.substring(0, 500) || '',
-      tags: [...(article.user_tags || []), ...(article.auto_tags || [])],
-      keywords: article.keywords || [],
-      type: article.content_type || '',
-      url: '../articles/' + article.id + '.html',
-      readTime: article.read_time_minutes || 0,
-      imageUrl: this.getImageUrl(article, '../')
-    }));
+  private generatePageTemplate(data: TemplateData): string {
+    const { config, stats, searchData } = data;
+    const isIndex = config.pageType === 'index';
     
     return `<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tag: ${tag} - Basted Pocket</title>
-    <link rel="stylesheet" href="../assets/style.css">
+    <title>${config.title}</title>
+    <link rel="stylesheet" href="${config.relativePath}assets/style.css">
+    ${config.description ? `<meta name="description" content="${config.description}">` : ''}
 </head>
 <body>
     <header class="header">
         <div class="container">
-            <a href="../index.html" class="logo">👨‍🍳 Basted Pocket</a>
+            <a href="${config.relativePath}index.html" class="logo">👨‍🍳 Basted Pocket</a>
+            ${isIndex ? `
+            <nav class="header-nav">
+                <a href="download.html" class="nav-link">📥 Download Dataset</a>
+            </nav>
+            ` : ''}
         </div>
     </header>
 
     <main class="container">
-        <div class="page-header">
-            <h1>Tag: ${tag}</h1>
-            <p id="articleCount">${processedArticles.length} articles</p>
-        </div>
-
-        <div class="search-section">
-            <input type="text" id="searchInput" placeholder="Search within ${tag} recipes..." class="search-input">
-            <div class="filters">
-                <select id="tagFilter" class="filter-select">
-                    <option value="">All Tags</option>
-                    ${sortedTags.map(t => 
-                        `<option value="${t}" ${t === tag ? 'selected' : ''}>${t}</option>`
-                    ).join('')}
-                </select>
-            </div>
-        </div>
-
-        <div id="articlesContainer" class="articles-grid">
-            ${processedArticles.map(article => this.renderArticleCard(article, '../', 3)).join('')}
-        </div>
-        
-        <div id="noResults" class="no-results" style="display: none;">
-            <p>No recipes found matching your search criteria.</p>
-        </div>
+        ${this.generatePageHeader(config)}
+        ${this.generateSearchSection(config)}
+        ${config.showTagCloud && stats ? this.generateTagCloud(stats, config.relativePath) : ''}
+        ${this.generateArticlesSection(config)}
     </main>
+
+    ${isIndex && stats ? this.generateFooter(stats) : ''}
 
     <script>
         // Page-specific search data
-        window.pageArticles = ${JSON.stringify(pageSearchData)};
+        window.pageArticles = ${JSON.stringify(searchData)};
+        window.pageConfig = {
+            isIndex: ${isIndex},
+            relativePath: "${config.relativePath}"
+        };
     </script>
-    <script src="../assets/page-search.js"></script>
+    <script src="${config.relativePath}assets/${isIndex ? 'script.js' : 'page-search.js'}"></script>
 </body>
 </html>`;
   }
 
-  private async generateContentTypePages(data: SiteData): Promise<void> {
-    const typesDir = join(this.outputDir, 'types');
-    if (!existsSync(typesDir)) {
-      mkdirSync(typesDir, { recursive: true });
+  private generatePageHeader(config: PageConfig): string {
+    if (config.pageType === 'index') {
+      return ''; // Index page doesn't need a separate header section
     }
-
-    for (const [type, articles] of Object.entries(data.contentTypes)) {
-      const html = this.generateContentTypePage(type, articles);
-      writeFileSync(join(typesDir, `${type}.html`), html);
-    }
+    
+    return `
+        <div class="page-header">
+            <h1>${config.heading}</h1>
+            <p id="articleCount">${config.articles.length} articles</p>
+            ${config.description ? `<p>${config.description}</p>` : ''}
+        </div>`;
   }
 
-  private generateContentTypePage(type: string, articles: ProcessedArticle[]): string {
-    const processedArticles = articles.filter(a => this.isArticleDisplayable(a));
+  private generateSearchSection(config: PageConfig): string {
+    return `
+        <div class="search-section">
+            <input type="text" id="searchInput" placeholder="${config.searchPlaceholder}" class="search-input">
+            <div class="filters">
+                <select id="tagFilter" class="filter-select">
+                    <option value="">All Tags</option>
+                    ${config.allTags.map(tag => 
+                        `<option value="${tag}" ${tag === config.selectedTag ? 'selected' : ''}>${tag}</option>`
+                    ).join('')}
+                </select>
+            </div>
+        </div>`;
+  }
+
+  private generateTagCloud(stats: SiteData['stats'], relativePath: string): string {
+    return `
+        <div class="tag-cloud">
+            <h2>Popular Tags</h2>
+            <div class="tags">
+                ${stats.topTags.slice(0, 15).map(({ tag, count }) => 
+                    `<a href="${relativePath}tags/${tag}.html" class="tag" data-count="${count}">${tag} <span class="count">${count}</span></a>`
+                ).join('')}
+        </div>
+        </div>`;
+  }
+
+  private generateArticlesSection(config: PageConfig): string {
+    const maxTags = config.pageType === 'index' ? 0 : 3;
     
-    // Get all unique tags and content types for filters
-    const allTags = new Set<string>();
-    const allTypes = new Set<string>();
-    
-    processedArticles.forEach(article => {
-      [...(article.user_tags || []), ...(article.auto_tags || [])].forEach(t => allTags.add(t));
-      if (article.content_type) allTypes.add(article.content_type);
-    });
-    
-    const sortedTags = Array.from(allTags).sort();
-    const sortedTypes = Array.from(allTypes).sort();
-    
-    // Create search data for this page
-    const pageSearchData = processedArticles.map(article => ({
-      id: article.id,
-      title: article.fetched_title || article.user_title || 'Untitled',
-      summary: article.summary || '',
-      content: article.main_text_content?.substring(0, 500) || '',
-      tags: [...(article.user_tags || []), ...(article.auto_tags || [])],
-      keywords: article.keywords || [],
-      type: article.content_type || '',
-      url: '../articles/' + article.id + '.html',
-      readTime: article.read_time_minutes || 0,
-      imageUrl: this.getImageUrl(article, '../')
-    }));
-    
-    return `<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Type: ${type} - Basted Pocket</title>
-    <link rel="stylesheet" href="../assets/style.css">
-</head>
-<body>
-    <header class="header">
+    return `
+        <div class="articles-section">
+            ${config.pageType === 'index' ? `
+            <div class="section-header">
+                <h2>Recent Recipes</h2>
+                <p>Discover your latest culinary adventures</p>
+            </div>
+            ` : ''}
+        <div id="articlesContainer" class="articles-grid">
+                ${config.articles.map(article => this.renderArticleCard(article, config.relativePath, maxTags)).join('')}
+        </div>
+        <div id="noResults" class="no-results" style="display: none;">
+                <p>No recipes found matching your search criteria.</p>
+        </div>
+        </div>`;
+  }
+
+  private generateFooter(stats: SiteData['stats']): string {
+    return `
+    <footer class="footer">
         <div class="container">
-            <a href="../index.html" class="logo">👨‍🍳 Basted Pocket</a>
-        </div>
-    </header>
-
-    <main class="container">
-        <div class="page-header">
-            <h1>Content Type: ${type}</h1>
-            <p id="articleCount">${processedArticles.length} articles</p>
-        </div>
-
-        <div class="search-section">
-            <input type="text" id="searchInput" placeholder="Search within ${type} content..." class="search-input">
-            <div class="filters">
-                <select id="tagFilter" class="filter-select">
-                    <option value="">All Tags</option>
-                    ${sortedTags.map(t => 
-                        `<option value="${t}">${t}</option>`
-                    ).join('')}
-                </select>
+            <div class="footer-content">
+                <div class="footer-stats">
+                    <span class="stat">${stats.totalArticles} Total Articles</span>
+                    <span class="stat">${stats.processedArticles} Processed</span>
+                    <span class="stat">${stats.totalTags} Tags</span>
+                    <span class="stat">${stats.contentTypes.length} Content Types</span>
+                </div>
+                <div class="footer-tagline">
+                    <p>Your AI-Enhanced Recipe Collection</p>
+                </div>
             </div>
         </div>
-
-        <div id="articlesContainer" class="articles-grid">
-            ${processedArticles.map(article => this.renderArticleCard(article, '../', 3)).join('')}
-        </div>
-        
-        <div id="noResults" class="no-results" style="display: none;">
-            <p>No content found matching your search criteria.</p>
-        </div>
-    </main>
-
-    <script>
-        // Page-specific search data
-        window.pageArticles = ${JSON.stringify(pageSearchData)};
-    </script>
-    <script src="../assets/page-search.js"></script>
-</body>
-</html>`;
+    </footer>`;
   }
 
   private async generateSearchData(data: SiteData): Promise<void> {
@@ -1180,59 +1278,6 @@ body {
   border-color: rgba(255, 255, 255, 0.4);
   transform: translateY(-1px);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
-}
-
-/* Stats Grid */
-.stats-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
-  gap: 1rem;
-  margin-bottom: 2rem;
-}
-
-.stat-card {
-  background: var(--surface-elevated);
-  padding: 1.5rem 1rem;
-  border-radius: var(--radius-md);
-  text-align: center;
-  border: 1px solid var(--border-light);
-  box-shadow: var(--shadow-sm);
-  transition: all 0.2s ease;
-  position: relative;
-  overflow: hidden;
-}
-
-.stat-card::before {
-  content: '';
-  position: absolute;
-  top: 0;
-  left: 0;
-  right: 0;
-  height: 3px;
-  background: linear-gradient(90deg, var(--primary-color), var(--primary-light));
-}
-
-.stat-card:hover {
-  transform: translateY(-2px);
-  box-shadow: var(--shadow-md);
-  border-color: var(--border);
-}
-
-.stat-card h3 {
-  font-size: 2rem;
-  font-weight: 700;
-  color: var(--primary-color);
-  margin-bottom: 0.5rem;
-  line-height: 1;
-}
-
-.stat-card p {
-  font-size: 0.875rem;
-  font-weight: 500;
-  color: var(--text-secondary);
-  margin: 0;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
 }
 
 /* Search Section */
@@ -1526,285 +1571,6 @@ body {
   font-weight: 500;
 }
 
-/* Article Detail */
-.article-detail {
-  max-width: 800px;
-  margin: 0 auto;
-}
-
-.article-header {
-  margin-bottom: 2rem;
-  padding-bottom: 1rem;
-  border-bottom: 1px solid var(--border);
-}
-
-.article-header h1 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-  line-height: 1.2;
-}
-
-.article-meta {
-  display: flex;
-  gap: 1rem;
-  margin-bottom: 1rem;
-  color: var(--text-secondary);
-}
-
-.article-actions {
-  margin-top: 1rem;
-}
-
-.btn-primary {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0.875rem 1.75rem;
-  background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
-  color: white;
-  text-decoration: none;
-  border-radius: var(--radius);
-  font-weight: 600;
-  font-size: 0.875rem;
-  transition: all 0.2s ease;
-  box-shadow: var(--shadow-sm);
-  border: none;
-  cursor: pointer;
-}
-
-.btn-primary:hover {
-  background: linear-gradient(135deg, var(--primary-dark), var(--primary-color));
-  transform: translateY(-1px);
-  box-shadow: var(--shadow-md);
-}
-
-.btn-secondary {
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  padding: 0.875rem 1.75rem;
-  background: var(--surface-elevated);
-  color: var(--text-primary);
-  text-decoration: none;
-  border: 2px solid var(--border);
-  border-radius: var(--radius);
-  font-weight: 600;
-  font-size: 0.875rem;
-  transition: all 0.2s ease;
-  cursor: pointer;
-  box-shadow: var(--shadow-sm);
-}
-
-.btn-secondary:hover {
-  background: var(--primary-color);
-  color: white;
-  border-color: var(--primary-color);
-  transform: translateY(-1px);
-  box-shadow: var(--shadow-md);
-}
-
-.article-image {
-  margin-bottom: 2rem;
-}
-
-.article-image img {
-  width: 100%;
-  border-radius: 8px;
-}
-
-.article-summary,
-.article-content,
-.article-tags,
-.article-keywords,
-.article-notes,
-.structured-data {
-  margin-bottom: 2rem;
-}
-
-.article-summary h2,
-.article-content h2 {
-  margin-bottom: 1rem;
-  color: var(--primary-color);
-}
-
-.content-text {
-  line-height: 1.8;
-}
-
-.content-text p {
-  margin-bottom: 1rem;
-}
-
-.keywords {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.keyword {
-  padding: 0.25rem 0.75rem;
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 20px;
-  font-size: 0.875rem;
-}
-
-/* Structured Data Styles */
-.structured-content {
-  margin-bottom: 2rem;
-}
-
-.structured-data {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  padding: 1.5rem;
-  margin-bottom: 1.5rem;
-}
-
-.structured-data h3 {
-  margin-bottom: 1rem;
-  color: var(--primary-color);
-  border-bottom: 2px solid var(--border);
-  padding-bottom: 0.5rem;
-}
-
-.structured-data h4 {
-  margin-bottom: 0.75rem;
-  color: var(--text-primary);
-}
-
-.structured-data h5 {
-  margin-bottom: 0.5rem;
-  margin-top: 1rem;
-  color: var(--text-primary);
-  font-size: 1rem;
-}
-
-/* Recipe-specific styles */
-.recipe-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin: 1rem 0;
-  padding: 1rem;
-  background: rgba(var(--primary-color), 0.05);
-  border-radius: 6px;
-}
-
-.recipe-meta span {
-  display: flex;
-  align-items: center;
-  gap: 0.25rem;
-  font-weight: 500;
-}
-
-.recipe-ingredients ul,
-.recipe-instructions ol {
-  margin: 0.5rem 0;
-  padding-left: 1.5rem;
-}
-
-.recipe-ingredients li,
-.recipe-instructions li {
-  margin-bottom: 0.5rem;
-  line-height: 1.5;
-}
-
-.nutrition-facts {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin-top: 0.5rem;
-}
-
-.nutrition-facts span {
-  background: var(--border);
-  padding: 0.25rem 0.75rem;
-  border-radius: 20px;
-  font-size: 0.875rem;
-}
-
-/* Article data styles */
-.article-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin: 1rem 0;
-  color: var(--text-secondary);
-}
-
-.article-meta span {
-  display: flex;
-  align-items: center;
-  gap: 0.25rem;
-}
-
-/* Product data styles */
-.product-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin: 1rem 0;
-}
-
-.product-meta span {
-  display: flex;
-  align-items: center;
-  gap: 0.25rem;
-  font-weight: 500;
-}
-
-/* Event data styles */
-.event-meta {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-  margin: 1rem 0;
-}
-
-.event-meta span {
-  display: flex;
-  align-items: center;
-  gap: 0.25rem;
-}
-
-/* Generic data styles */
-.generic-details details {
-  margin-top: 1rem;
-}
-
-.generic-details summary {
-  cursor: pointer;
-  padding: 0.5rem;
-  background: var(--border);
-  border-radius: 4px;
-  font-weight: 500;
-}
-
-.generic-details pre {
-  margin-top: 0.5rem;
-  padding: 1rem;
-  background: var(--surface);
-  border-radius: 4px;
-  overflow-x: auto;
-  font-size: 0.875rem;
-}
-
-/* Raw structured data */
-.raw-structured-data details {
-  background: var(--surface);
-  padding: 1rem;
-  border-radius: 6px;
-  border: 1px solid var(--border);
-}
-
-.raw-structured-data pre {
-  margin-top: 1rem;
-  overflow-x: auto;
-  font-size: 0.875rem;
-}
-
 /* Page Header */
 .page-header {
   margin-bottom: 2rem;
@@ -1817,199 +1583,12 @@ body {
   margin-bottom: 0.5rem;
 }
 
-.load-more {
-  text-align: center;
-  margin-top: 2rem;
-}
-
-/* Download Page */
-.download-section {
-  margin-bottom: 2rem;
-}
-
-.download-card {
-  background: var(--surface);
-  padding: 2rem;
-  border-radius: 8px;
-  border: 1px solid var(--border);
-  text-align: center;
-  max-width: 500px;
-  margin: 0 auto;
-}
-
-.download-card h3 {
-  margin-bottom: 1rem;
-  color: var(--primary-color);
-}
-
-.download-card p {
-  margin-bottom: 1.5rem;
-  color: var(--text-secondary);
-}
-
-.download-note {
-  margin-top: 1rem;
-  font-size: 0.875rem;
-}
-
-.usage-info {
-  background: var(--surface);
-  padding: 2rem;
-  border-radius: 8px;
-  border: 1px solid var(--border);
-}
-
-.usage-info h2 {
-  margin-bottom: 1rem;
-  color: var(--primary-color);
-}
-
-.usage-info ol {
-  padding-left: 1.5rem;
-}
-
-.usage-info li {
-  margin-bottom: 0.5rem;
-}
-
-.usage-info code {
-  background: var(--border);
-  padding: 0.125rem 0.25rem;
-  border-radius: 3px;
-  font-family: monospace;
-}
-
 /* No Results */
 .no-results {
   text-align: center;
   padding: 2rem;
   color: var(--text-secondary);
   font-style: italic;
-}
-
-/* Responsive Design */
-@media (max-width: 1024px) {
-  .articles-grid {
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-    gap: 1rem;
-  }
-}
-
-@media (max-width: 768px) {
-  .container {
-    padding: 0 1rem;
-  }
-  
-  .header {
-    padding: 1.25rem 0;
-    margin-bottom: 1.5rem;
-  }
-  
-  .logo {
-    font-size: 1.5rem;
-  }
-  
-  .tagline {
-    font-size: 0.875rem;
-  }
-  
-  .articles-grid {
-    grid-template-columns: 1fr;
-    gap: 1rem;
-  }
-  
-  .filters {
-    flex-direction: column;
-    gap: 0.75rem;
-  }
-  
-  .article-header h1 {
-    font-size: 1.75rem;
-  }
-  
-  .article-meta {
-    flex-direction: column;
-    gap: 0.5rem;
-  }
-  
-  .card-layout {
-    padding: 0.875rem;
-    gap: 0.625rem;
-  }
-  
-  .card-thumbnail {
-    width: 80px;
-    height: 60px;
-  }
-  
-  .card-content h3 {
-    font-size: 1rem;
-  }
-  
-  .stats-grid {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 0.75rem;
-  }
-  
-  .stat-card {
-    padding: 1.25rem 0.75rem;
-  }
-  
-  .stat-card h3 {
-    font-size: 1.75rem;
-  }
-  
-  .search-section {
-    padding: 1.25rem;
-  }
-  
-  .tag-cloud {
-    padding: 1.25rem;
-  }
-}
-
-@media (max-width: 480px) {
-  .container {
-    padding: 0 0.75rem;
-  }
-  
-  .card-layout {
-    flex-direction: column;
-    gap: 0.75rem;
-  }
-  
-  .card-thumbnail {
-    width: 100%;
-    height: 120px;
-    align-self: stretch;
-  }
-  
-  .stats-grid {
-    grid-template-columns: 1fr;
-  }
-  
-  .filters {
-    gap: 0.5rem;
-  }
-  
-  .filter-select {
-    width: 100%;
-  }
-}
-
-/* Loading States */
-.loading {
-  opacity: 0.6;
-  pointer-events: none;
-}
-
-/* Focus Styles for Accessibility */
-.tag:focus,
-.nav-link:focus,
-.btn-primary:focus,
-.btn-secondary:focus {
-  outline: 2px solid var(--primary-color);
-  outline-offset: 2px;
 }
 
 /* Footer */
@@ -2065,39 +1644,242 @@ body {
   }
 }
 
-/* Print Styles */
-@media print {
-  .header-nav,
-  .search-section,
-  .filters,
-  .load-more,
-  .footer {
-    display: none;
+/* Responsive Design */
+@media (max-width: 768px) {
+  .container {
+    padding: 0 1rem;
   }
   
-  .article-card {
-    break-inside: avoid;
-    box-shadow: none;
-    border: 1px solid #ccc;
+  .articles-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
   }
+  
+  .filters {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  
+  .card-layout {
+    padding: 0.875rem;
+    gap: 0.625rem;
+  }
+  
+  .card-thumbnail {
+    width: 80px;
+    height: 60px;
+  }
+}
+
+@media (max-width: 480px) {
+  .container {
+    padding: 0 0.75rem;
+  }
+  
+  .card-layout {
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+  
+  .card-thumbnail {
+    width: 100%;
+    height: 120px;
+    align-self: stretch;
+  }
+  
+  .filter-select {
+    width: 100%;
+  }
+}
+
+/* Structured Data Styles */
+.structured-data {
+  background: var(--surface-elevated);
+  border: 1px solid var(--border-light);
+  border-radius: var(--radius-lg);
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.structured-data h3 {
+  margin-bottom: 1rem;
+  color: var(--text-primary);
+  font-size: 1.125rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.structured-data h4 {
+  margin-bottom: 0.75rem;
+  color: var(--primary-color);
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.structured-data h5 {
+  margin-bottom: 0.5rem;
+  color: var(--text-primary);
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.recipe-description {
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
+  font-style: italic;
+}
+
+.recipe-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1.5rem;
+  padding: 1rem;
+  background: var(--background);
+  border-radius: var(--radius);
+  border: 1px solid var(--border-light);
+}
+
+.recipe-meta span {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
+.recipe-ingredients,
+.recipe-instructions {
+  margin-bottom: 1.5rem;
+}
+
+.recipe-ingredients ul,
+.recipe-instructions ol {
+  margin-left: 1.5rem;
+  margin-top: 0.5rem;
+}
+
+.recipe-ingredients li,
+.recipe-instructions li {
+  margin-bottom: 0.5rem;
+  line-height: 1.5;
+  color: var(--text-primary);
+}
+
+.recipe-instructions li {
+  margin-bottom: 0.75rem;
+}
+
+.recipe-nutrition {
+  background: var(--background);
+  padding: 1rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border-light);
+}
+
+.nutrition-facts {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 0.5rem;
+}
+
+.nutrition-facts span {
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+/* Multiple Recipes Layout */
+.recipes-container {
+  margin-top: 1rem;
+}
+
+.recipe-item {
+  margin-bottom: 1.5rem;
+}
+
+.recipe-separator {
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--border), transparent);
+  margin: 2rem 0;
+}
+
+/* Article Data */
+.article-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 0.75rem;
+}
+
+.article-meta span {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+}
+
+/* Generic Data */
+.generic-details details {
+  margin-top: 1rem;
+}
+
+.generic-details summary {
+  cursor: pointer;
+  font-weight: 500;
+  color: var(--primary-color);
+  padding: 0.5rem;
+  border-radius: var(--radius-sm);
+  transition: background-color 0.2s ease;
+}
+
+.generic-details summary:hover {
+  background: var(--border-light);
+}
+
+.generic-details pre {
+  background: var(--background);
+  padding: 1rem;
+  border-radius: var(--radius);
+  border: 1px solid var(--border-light);
+  overflow-x: auto;
+  font-size: 0.75rem;
+  line-height: 1.4;
+  margin-top: 0.5rem;
 }
 `;
 
     writeFileSync(join(this.outputDir, 'assets/style.css'), css);
 
-    // Generate JavaScript
+    // Generate unified JavaScript
     const js = `
-// Basted Pocket Search and Filter Functionality
+// Unified Basted Pocket Search and Filter Functionality
 class BastesPocketApp {
   constructor() {
     this.searchData = [];
     this.currentArticles = [];
+    this.isIndex = window.pageConfig?.isIndex || false;
+    this.relativePath = window.pageConfig?.relativePath || '';
     
     this.init();
   }
 
   async init() {
+    if (this.isIndex) {
     await this.loadSearchData();
+    } else {
+      this.searchData = window.pageArticles || [];
+      this.currentArticles = [...this.searchData];
+    }
     this.setupEventListeners();
     this.displayArticles();
   }
@@ -2110,120 +1892,6 @@ class BastesPocketApp {
     } catch (error) {
       console.error('Failed to load search data:', error);
     }
-  }
-
-  setupEventListeners() {
-    const searchInput = document.getElementById('searchInput');
-    const tagFilter = document.getElementById('tagFilter');
-
-    if (searchInput) {
-      searchInput.addEventListener('input', (e) => {
-        this.handleSearch(e.target.value);
-      });
-    }
-
-    if (tagFilter) {
-      tagFilter.addEventListener('change', (e) => {
-        this.handleFilter();
-      });
-    }
-  }
-
-  handleSearch(query) {
-    const searchTerm = query.toLowerCase().trim();
-    
-    if (!searchTerm) {
-      this.currentArticles = [...this.searchData];
-    } else {
-      this.currentArticles = this.searchData.filter(article => {
-        return (
-          article.title.toLowerCase().includes(searchTerm) ||
-          article.summary.toLowerCase().includes(searchTerm) ||
-          article.content.toLowerCase().includes(searchTerm) ||
-          article.tags.some(tag => tag.toLowerCase().includes(searchTerm)) ||
-          article.keywords.some(keyword => keyword.toLowerCase().includes(searchTerm))
-        );
-      });
-    }
-    
-    this.handleFilter();
-  }
-
-  handleFilter() {
-    const tagFilter = document.getElementById('tagFilter');
-    
-    let filtered = [...this.currentArticles];
-    
-    if (tagFilter && tagFilter.value) {
-      filtered = filtered.filter(article => 
-        article.tags.includes(tagFilter.value)
-      );
-    }
-    
-    this.currentArticles = filtered;
-    this.displayArticles();
-  }
-
-  displayArticles() {
-    const container = document.getElementById('articlesContainer');
-    if (!container) return;
-
-    container.innerHTML = this.currentArticles.map(article => this.renderArticleCard(article)).join('');
-  }
-
-  renderArticleCard(article) {
-    return \`
-    <div class="article-card" data-tags="\${article.tags.join(',')}" data-type="\${article.type}">
-      <div class="card-layout">
-        \${article.imageUrl ? \`
-        <div class="card-thumbnail">
-          <a href="\${article.url}">
-            <img src="\${article.imageUrl}" alt="\${article.title}" loading="lazy">
-          </a>
-        </div>
-        \` : ''}
-        <div class="card-content">
-          <div class="card-header">
-            <h3><a href="\${article.url}">\${article.title}</a></h3>
-            <div class="card-meta">
-              \${article.readTime ? \`<span class="read-time">\${article.readTime} min</span>\` : ''}
-              \${article.type ? \`<span class="content-type">\${article.type}</span>\` : ''}
-            </div>
-          </div>
-          \${article.summary ? \`<p class="summary">\${article.summary}</p>\` : ''}
-          \${article.tags.length > 0 ? \`
-          <div class="card-tags">
-            \${article.tags.map(tag => \`<a href="tags/\${tag}.html" class="tag">\${tag}</a>\`).join('')}
-          </div>
-          \` : ''}
-        </div>
-      </div>
-    </div>\`;
-  }
-}
-
-// Initialize app when DOM is loaded
-document.addEventListener('DOMContentLoaded', () => {
-  new BastesPocketApp();
-});
-`;
-
-    writeFileSync(join(this.outputDir, 'assets/script.js'), js);
-
-    // Generate page-specific search script
-    const pageSearchJs = `
-// Page-specific search functionality for tag and content type pages
-class PageSearch {
-  constructor() {
-    this.allArticles = window.pageArticles || [];
-    this.currentArticles = [...this.allArticles];
-    
-    this.init();
-  }
-
-  init() {
-    this.setupEventListeners();
-    this.updateDisplay();
   }
 
   setupEventListeners() {
@@ -2250,7 +1918,7 @@ class PageSearch {
     const searchTerm = searchInput ? searchInput.value.toLowerCase().trim() : '';
     const selectedTag = tagFilter ? tagFilter.value : '';
     
-    let filtered = [...this.allArticles];
+    let filtered = [...this.searchData];
     
     // Apply text search
     if (searchTerm) {
@@ -2273,10 +1941,10 @@ class PageSearch {
     }
     
     this.currentArticles = filtered;
-    this.updateDisplay();
+    this.displayArticles();
   }
 
-  updateDisplay() {
+  displayArticles() {
     const container = document.getElementById('articlesContainer');
     const countElement = document.getElementById('articleCount');
     const noResults = document.getElementById('noResults');
@@ -2291,12 +1959,16 @@ class PageSearch {
       if (noResults) noResults.style.display = 'none';
     }
     
-    if (countElement) {
+    if (countElement && !this.isIndex) {
       countElement.textContent = \`\${this.currentArticles.length} articles\`;
     }
   }
 
   renderArticleCard(article) {
+    const maxTags = this.isIndex ? 0 : 3;
+    const tagsToShow = maxTags > 0 ? article.tags.slice(0, maxTags) : article.tags;
+    const hasMoreTags = maxTags > 0 && article.tags.length > maxTags;
+    
     return \`
     <div class="article-card" data-tags="\${article.tags.join(',')}" data-type="\${article.type}">
       <div class="card-layout">
@@ -2318,8 +1990,8 @@ class PageSearch {
           \${article.summary ? \`<p class="summary">\${article.summary}</p>\` : ''}
           \${article.tags.length > 0 ? \`
           <div class="card-tags">
-            \${article.tags.slice(0, 3).map(tag => \`<a href="../tags/\${tag}.html" class="tag">\${tag}</a>\`).join('')}
-            \${article.tags.length > 3 ? \`<span class="tag-more">+\${article.tags.length - 3}</span>\` : ''}
+            \${tagsToShow.map(tag => \`<a href="\${this.relativePath}tags/\${tag}.html" class="tag">\${tag}</a>\`).join('')}
+            \${hasMoreTags ? \`<span class="tag-more">+\${article.tags.length - maxTags}</span>\` : ''}
           </div>
           \` : ''}
         </div>
@@ -2328,13 +2000,16 @@ class PageSearch {
   }
 }
 
-// Initialize page search when DOM is loaded
+// Initialize app when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
-  new PageSearch();
+  new BastesPocketApp();
 });
 `;
 
-    writeFileSync(join(this.outputDir, 'assets/page-search.js'), pageSearchJs);
+    writeFileSync(join(this.outputDir, 'assets/script.js'), js);
+    
+    // Create a symlink for page-search.js to use the same unified script
+    writeFileSync(join(this.outputDir, 'assets/page-search.js'), js);
   }
 
   private async createDatasetFromCurrentData(): Promise<void> {
@@ -2506,6 +2181,9 @@ document.addEventListener('DOMContentLoaded', () => {
     
     // Create dataset from current data
     await this.createDatasetFromCurrentData();
+    
+    // Create data archives for GitHub Actions caching
+    await this.createDataArchive();
   }
 
   private async createDataArchive(): Promise<void> {
@@ -2570,3 +2248,5 @@ async function main() {
 if (import.meta.main) {
   main().catch(console.error);
 } 
+
+
