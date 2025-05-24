@@ -198,7 +198,6 @@
 - [https://afghancooks.com/mashawa-soup/](https://afghancooks.com/mashawa-soup/) #dinner #recipe #soup #tried-and-true #veg @note:Added_to_Pocket_on_2021-06-14
 - [https://www.feastingathome.com/moroccan-eggs/](https://www.feastingathome.com/moroccan-eggs/) #brunch #dinner #egg #recipe @note:Added_to_Pocket_on_2021-06-14
 - [https://www.saveur.com/article/recipes/makhlama-lahm-iraqi-eggs-with-lamb-and-tomatoes/](https://www.saveur.com/article/recipes/makhlama-lahm-iraqi-eggs-with-lamb-and-tomatoes/) #brunch #dinner #egg #recipe @note:Added_to_Pocket_on_2021-06-14
-- [George Packer: The Four Americas - The Atlantic](https://www.theatlantic.com/magazine/archive/2021/07/george-packer-four-americas/619012/) #news @note:Added_to_Pocket_on_2021-06-14
 - [https://www.seriouseats.com/galam-plee-nam-pla-thai-stir-fried-cabbage-with-fish-sauce-and-garlic](https://www.seriouseats.com/galam-plee-nam-pla-thai-stir-fried-cabbage-with-fish-sauce-and-garlic) #asian #recipe #side #veg @note:Added_to_Pocket_on_2021-06-07
 - [https://www.seriouseats.com/yam-khai-do-thai-fried-egg-salad](https://www.seriouseats.com/yam-khai-do-thai-fried-egg-salad) #asian #egg #recipe #salad #veg @note:Added_to_Pocket_on_2021-06-07
 - [The Lab-Leak Theory: Inside the Fight to Uncover COVID-19’s Origins | Vanit](https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins) @note:Added_to_Pocket_on_2021-06-05
