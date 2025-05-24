@@ -35,19 +35,9 @@ interface ProcessedArticle extends ParsedLink {
   local_image_path?: string;
   json_ld_objects?: any[];
   
-  // AI enriched data
-  auto_tags?: string[];
-  summary?: string;
-  keywords?: string[];
-  read_time_minutes?: number;
-  content_type?: string;
-  processing_timestamp?: string;
-  
   // Status tracking
   scraping_status?: 'scraped' | 'error_scraping' | 'skipped';
-  enrichment_status?: 'enriched' | 'error_enrichment' | 'skipped';
   error?: string;
-  llm_error?: string;
 }
 
 interface SiteData {
@@ -92,16 +82,15 @@ class BastesPocketSiteGenerator {
 
   private isArticleDisplayable(article: ProcessedArticle): boolean {
     // Article is displayable if it has been successfully scraped
-    return article.scraping_status === 'scraped' || 
-           article.enrichment_status === 'enriched';
+    return article.scraping_status === 'scraped';
   }
 
   private getImageUrl(article: ProcessedArticle, relativePath: string = ''): string | undefined {
     const localImagePath = (article as any).local_image_path;
     
     if (localImagePath) {
-      // Convert from scraped/articleId/image.jpg to images/articleId_image.jpg
-      const match = localImagePath.match(/scraped\/([^\/]+)\/(.+)/);
+      // Convert from archive/articleId/image.jpg to images/articleId_image.jpg
+      const match = localImagePath.match(/archive\/([^\/]+)\/(.+)/);
       if (match) {
         const [, articleId, filename] = match;
         return `${relativePath}images/${articleId}_${filename}`;
@@ -118,30 +107,33 @@ class BastesPocketSiteGenerator {
       .map(article => ({
         id: article.id,
         title: article.fetched_title || article.user_title || 'Untitled',
-        summary: article.summary || '',
+        summary: article.main_text_content?.substring(0, 200) || '',
         content: article.main_text_content?.substring(0, 500) || '',
-        tags: [...(article.user_tags || []), ...(article.auto_tags || [])],
-        keywords: article.keywords || [],
-        type: article.content_type || '',
+        tags: article.user_tags || [],
+        keywords: [],
+        type: 'article',
         url: `${relativePath}articles/${article.id}.html`,
-        readTime: article.read_time_minutes || 0,
+        readTime: Math.max(1, Math.round((article.main_text_content?.split(/\s+/).length || 0) / 200)),
         imageUrl: this.getImageUrl(article, relativePath)
       }));
   }
 
-  async generateFromEnrichedData(): Promise<void> {
+  async generateFromScrapedData(): Promise<void> {
     console.log('🔄 Merging fresh data from links.md with scraped content...');
     
     // Get fresh data from links.md
     const linksData = parseLinksMarkdown();
     console.log(`📖 Loaded ${linksData.length} links from links.md`);
     
+    // Create a set of valid IDs from links.md for filtering
+    const validIds = new Set(linksData.map(link => link.id));
+    
     // Load scraped data
     const scrapedData = new Map<string, ScrapedData>();
-    const enrichedData = new Map<string, any>();
+    let filteredOutCount = 0;
     
     // Load scraped content
-    const scrapedDirs = ['build_output/data/scraped', 'build_output/scraped'];
+    const scrapedDirs = ['archive'];
     for (const scrapedDir of scrapedDirs) {
       if (existsSync(scrapedDir)) {
         const articleDirs = require('fs').readdirSync(scrapedDir);
@@ -152,7 +144,14 @@ class BastesPocketSiteGenerator {
           if (require('fs').statSync(articlePath).isDirectory() && existsSync(dataFile)) {
             try {
               const scraped = JSON.parse(readFileSync(dataFile, 'utf-8'));
-              scrapedData.set(scraped.id, scraped);
+              
+              // Only include if it's in links.md OR it's marked as resurrected
+              if (validIds.has(scraped.id) || scraped.resurrected) {
+                scrapedData.set(scraped.id, scraped);
+              } else {
+                filteredOutCount++;
+                console.log(`🗑️  Filtered out orphaned article: ${scraped.fetched_title || scraped.original_url || scraped.id}`);
+              }
             } catch (error) {
               console.warn(`⚠️  Could not load ${dataFile}:`, error);
             }
@@ -161,36 +160,17 @@ class BastesPocketSiteGenerator {
       }
     }
     
-    // Load enriched content
-    const enrichedDirs = ['build_output/data/enriched', 'build_output/enriched'];
-    for (const enrichedDir of enrichedDirs) {
-      if (existsSync(enrichedDir)) {
-        const articleDirs = require('fs').readdirSync(enrichedDir);
-        for (const articleDir of articleDirs) {
-          const articlePath = `${enrichedDir}/${articleDir}`;
-          const dataFile = `${articlePath}/data.json`;
-          
-          if (require('fs').statSync(articlePath).isDirectory() && existsSync(dataFile)) {
-            try {
-              const enriched = JSON.parse(readFileSync(dataFile, 'utf-8'));
-              enrichedData.set(enriched.id, enriched);
-            } catch (error) {
-              console.warn(`⚠️  Could not load ${dataFile}:`, error);
-            }
-          }
-        }
-      }
+    if (filteredOutCount > 0) {
+      console.log(`🧹 Filtered out ${filteredOutCount} orphaned archive folders not in links.md`);
     }
     
     // Merge all data just-in-time
     const articles: ProcessedArticle[] = linksData.map(link => {
       const scraped = scrapedData.get(link.id);
-      const enriched = enrichedData.get(link.id);
       
       // Merge data but ensure fresh links.md data takes precedence for user fields
       const merged = {
         ...scraped, // Scraped web content
-        ...enriched, // AI enriched data
         ...link, // Fresh data from links.md - takes precedence
       };
       
@@ -199,16 +179,32 @@ class BastesPocketSiteGenerator {
       merged.user_title = link.user_title;
       merged.user_notes = link.user_notes;
       
-      // For auto_tags, preserve any AI-generated tags from enrichment
-      if (enriched?.auto_tags && enriched.auto_tags.length > 0) {
-        merged.auto_tags = enriched.auto_tags;
-      }
-      
       return merged;
     });
     
-    console.log(`✅ Merged ${articles.length} articles`);
-    console.log(`📊 Scraped: ${scrapedData.size}, Enriched: ${enrichedData.size}`);
+    // Add resurrected articles that aren't in links.md (but only those marked as resurrected)
+    const linksIds = new Set(linksData.map(link => link.id));
+    for (const [scrapedId, scrapedArticle] of scrapedData) {
+      if (!linksIds.has(scrapedId) && (scrapedArticle as any).resurrected) {
+        // This is a resurrected article not in links.md
+        // Cast to any since the actual scraped data has more fields than the interface
+        const fullScrapedArticle = scrapedArticle as any;
+        const resurrectedArticle: ProcessedArticle = {
+          id: fullScrapedArticle.id,
+          original_url: fullScrapedArticle.original_url,
+          canonical_url: fullScrapedArticle.canonical_url,
+          user_tags: [], // No user tags since it's not in links.md
+          user_title: undefined,
+          user_notes: undefined,
+          ...fullScrapedArticle
+        };
+        articles.push(resurrectedArticle);
+        console.log(`🔄 Added resurrected article: ${fullScrapedArticle.fetched_title || fullScrapedArticle.original_url}`);
+      }
+    }
+    
+    console.log(`✅ Merged ${articles.length} articles (${linksData.length} from links.md + ${articles.length - linksData.length} resurrected)`);
+    console.log(`📊 Scraped: ${scrapedData.size}`);
     
     // Report on data completeness
     this.reportDataCompleteness(articles);
@@ -222,24 +218,15 @@ class BastesPocketSiteGenerator {
     if (articles.length === 0) return;
     
     const scraped = articles.filter(a => (a as any).scraping_timestamp).length;
-    const enriched = articles.filter(a => a.processing_timestamp).length;
     const withImages = articles.filter(a => (a as any).local_image_path || a.key_image_url).length;
-    const withSummaries = articles.filter(a => a.summary).length;
-    const withTags = articles.filter(a => a.auto_tags && a.auto_tags.length > 0).length;
     
     console.log('\n📊 Data Completeness Report:');
     console.log(`   Total articles: ${articles.length}`);
     console.log(`   Scraped content: ${scraped}/${articles.length} (${Math.round(scraped/articles.length*100)}%)`);
-    console.log(`   AI enriched: ${enriched}/${articles.length} (${Math.round(enriched/articles.length*100)}%)`);
     console.log(`   With images: ${withImages}/${articles.length} (${Math.round(withImages/articles.length*100)}%)`);
-    console.log(`   With summaries: ${withSummaries}/${articles.length} (${Math.round(withSummaries/articles.length*100)}%)`);
-    console.log(`   With AI tags: ${withTags}/${articles.length} (${Math.round(withTags/articles.length*100)}%)`);
     
     if (scraped < articles.length) {
       console.log(`💡 ${articles.length - scraped} articles need scraping`);
-    }
-    if (enriched < articles.length) {
-      console.log(`💡 ${articles.length - enriched} articles need AI enrichment`);
     }
     console.log('');
   }
@@ -277,11 +264,10 @@ class BastesPocketSiteGenerator {
     const groups: Record<string, ProcessedArticle[]> = {};
     
     for (const article of articles) {
-      // Combine user tags and auto tags
-      const allTags = [...(article.user_tags || []), ...(article.auto_tags || [])];
-      const uniqueTags = [...new Set(allTags)];
+      // Use only user tags since we removed enrichment
+      const allTags = article.user_tags || [];
       
-      for (const tag of uniqueTags) {
+      for (const tag of allTags) {
         if (!groups[tag]) {
           groups[tag] = [];
         }
@@ -296,7 +282,7 @@ class BastesPocketSiteGenerator {
     const groups: Record<string, ProcessedArticle[]> = {};
     
     for (const article of articles) {
-      const type = article.content_type || 'unknown';
+      const type = 'article'; // Default since we removed content type detection
       if (!groups[type]) {
         groups[type] = [];
       }
@@ -314,8 +300,8 @@ class BastesPocketSiteGenerator {
       mkdirSync(this.outputDir, { recursive: true });
     }
     
-    // Copy images from build_output to dist
-    await this.copyImages();
+    // Copy images from build_output to dist (only for included articles)
+    await this.copyImages(data.articles);
     
     // Generate main index page
     await this.generateIndexPage(data);
@@ -339,10 +325,13 @@ class BastesPocketSiteGenerator {
     console.log(`📊 ${data.stats.processedArticles}/${data.stats.totalArticles} articles processed successfully`);
   }
 
-  private async copyImages(): Promise<void> {
+  private async copyImages(articles: ProcessedArticle[]): Promise<void> {
     try {
+      // Create a set of valid article IDs to only copy images for included articles
+      const validArticleIds = new Set(articles.map(article => article.id));
+      
       // Copy images from article directories
-      const sourceDataDirs = ['build_output/data/scraped', 'build_output/scraped'];
+      const sourceDataDirs = ['archive'];
       const destImagesDir = join(this.outputDir, 'images');
       
       if (!existsSync(destImagesDir)) {
@@ -350,6 +339,7 @@ class BastesPocketSiteGenerator {
       }
 
       let copiedCount = 0;
+      let skippedCount = 0;
       const copiedImages = new Set<string>(); // Track copied images to avoid duplicates
 
       for (const sourceDir of sourceDataDirs) {
@@ -357,6 +347,12 @@ class BastesPocketSiteGenerator {
           const articleDirs = require('fs').readdirSync(sourceDir);
           
           for (const articleDir of articleDirs) {
+            // Skip if this article is not included in the site
+            if (!validArticleIds.has(articleDir)) {
+              skippedCount++;
+              continue;
+            }
+            
             const articlePath = `${sourceDir}/${articleDir}`;
             
             // Check if it's a directory
@@ -391,33 +387,10 @@ class BastesPocketSiteGenerator {
         }
       }
 
-      // Also handle old structure for backward compatibility
-      const oldImagesDirs = ['build_output/data/images', 'build_output/images'];
-      for (const oldImagesDir of oldImagesDirs) {
-        if (existsSync(oldImagesDir)) {
-          const files = require('fs').readdirSync(oldImagesDir);
-          for (const file of files) {
-            // Skip if already copied
-            if (copiedImages.has(file)) {
-              continue;
-            }
-            
-            const sourcePath = join(oldImagesDir, file);
-            const destPath = join(destImagesDir, file);
-            
-            try {
-              const sourceContent = readFileSync(sourcePath);
-              writeFileSync(destPath, sourceContent);
-              copiedImages.add(file);
-              copiedCount++;
-            } catch (error) {
-              console.warn(`Failed to copy image ${file}:`, error);
-            }
-          }
-        }
-      }
-
       console.log(`📷 Copied ${copiedCount} images to ${destImagesDir} (${copiedImages.size} unique images)`);
+      if (skippedCount > 0) {
+        console.log(`🗑️  Skipped ${skippedCount} image directories for filtered articles`);
+      }
     } catch (error) {
       console.warn('Failed to copy images:', error);
     }
@@ -463,7 +436,7 @@ class BastesPocketSiteGenerator {
       // Get all unique tags for filters
       const allTags = new Set<string>();
       processedArticles.forEach(article => {
-        [...(article.user_tags || []), ...(article.auto_tags || [])].forEach(t => allTags.add(t));
+        (article.user_tags || []).forEach(t => allTags.add(t));
       });
       
       const config: PageConfig = {
@@ -481,6 +454,7 @@ class BastesPocketSiteGenerator {
       
       const templateData: TemplateData = {
         config,
+        stats: data.stats,
         searchData
       };
 
@@ -501,7 +475,7 @@ class BastesPocketSiteGenerator {
       // Get all unique tags for filters
       const allTags = new Set<string>();
       processedArticles.forEach(article => {
-        [...(article.user_tags || []), ...(article.auto_tags || [])].forEach(t => allTags.add(t));
+        (article.user_tags || []).forEach(t => allTags.add(t));
       });
       
       const config: PageConfig = {
@@ -518,6 +492,7 @@ class BastesPocketSiteGenerator {
       
       const templateData: TemplateData = {
         config,
+        stats: data.stats,
         searchData
       };
 
@@ -536,6 +511,117 @@ class BastesPocketSiteGenerator {
       const html = this.generateArticlePage(article);
       writeFileSync(join(articlesDir, `${article.id}.html`), html);
     }
+  }
+
+  private generateArticlePage(article: ProcessedArticle): string {
+    const title = article.fetched_title || article.user_title || 'Untitled';
+    const allTags = article.user_tags || [];
+    const uniqueTags = [...new Set(allTags)];
+    
+    // Use local image if available, fallback to remote - use ../ for article pages
+    const imageUrl = this.getImageUrl(article, '../');
+
+    return `<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>${title} - Basted Pocket</title>
+    <link rel="stylesheet" href="../assets/style.css">
+    <meta name="description" content="${article.main_text_content?.substring(0, 200) || 'Recipe from Basted Pocket'}">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <a href="../index.html" class="logo">👨‍🍳 Basted Pocket</a>
+        </div>
+    </header>
+
+    <main class="container">
+        <article class="article-detail">
+            <header class="article-header">
+                <h1>${title}</h1>
+                <div class="article-meta">
+                    ${article.author ? `<span class="author">By ${article.author}</span>` : ''}
+                </div>
+                <div class="article-actions">
+                    <a href="${article.canonical_url}" target="_blank" rel="noopener" class="btn-primary">Read Original</a>
+                </div>
+            </header>
+
+            ${imageUrl ? `
+            <div class="article-image">
+                <img src="${imageUrl}" alt="${title}" loading="lazy">
+            </div>
+            ` : ''}
+
+            ${article.main_text_content ? `
+            <div class="article-summary">
+                <h2>Summary</h2>
+                <p>${article.main_text_content.substring(0, 200)}...</p>
+            </div>
+            ` : ''}
+
+            ${article.json_ld_objects && article.json_ld_objects.length > 0 ? `
+            <div class="structured-content">
+                ${this.renderJsonLdData(article.json_ld_objects)}
+            </div>
+            ` : ''}
+
+            ${article.main_html_content ? (() => {
+              // Check if this article has recipe data in JSON-LD
+              const hasRecipeData = article.json_ld_objects && 
+                article.json_ld_objects.some((obj: any) => 
+                  Array.isArray(obj) ? obj.some((item: any) => item['@type'] === 'Recipe') :
+                  obj['@type'] === 'Recipe'
+                );
+              
+              // For articles with structured recipe data, skip content preview entirely
+              if (hasRecipeData) {
+                return '';
+              }
+              
+              // For other articles, show cleaned content preview
+              const cleanedContent = this.cleanContentPreview(article.main_html_content, false);
+              return cleanedContent ? `
+            <div class="article-content">
+                <h2>Content Preview</h2>
+                <div class="content-text">
+                      ${cleanedContent.split('\n').map(p => p.trim() ? `<p>${p}</p>` : '').join('')}
+                </div>
+            </div>
+              ` : '';
+            })() : ''}
+
+            ${uniqueTags.length > 0 ? `
+            <div class="article-tags">
+                <h3>Tags</h3>
+                <div class="tags">
+                    ${uniqueTags.map(tag => `<a href="../tags/${tag}.html" class="tag">${tag}</a>`).join('')}
+                </div>
+            </div>
+            ` : ''}
+
+            ${article.user_notes ? `
+            <div class="article-notes">
+                <h3>Notes</h3>
+                <p>${article.user_notes}</p>
+            </div>
+            ` : ''}
+
+            ${article.json_ld_objects && article.json_ld_objects.length > 0 ? `
+            <div class="raw-structured-data">
+                <h3>Raw Structured Data</h3>
+                <details>
+                    <summary>View JSON-LD Data</summary>
+                    <pre><code>${JSON.stringify(article.json_ld_objects, null, 2)}</code></pre>
+                </details>
+            </div>
+            ` : ''}
+        </article>
+    </main>
+</body>
+</html>`;
   }
 
   private renderJsonLdData(jsonLdObjects: any[]): string {
@@ -854,6 +940,79 @@ class BastesPocketSiteGenerator {
         `).join('')}
       </div>
     </div>`;
+  }
+
+  private renderRecipeData(recipe: any): string {
+    return `
+    <div class="structured-data recipe-data">
+      <h3>🍳 Recipe Information</h3>
+      <div class="recipe-details">
+        ${recipe.name ? `<h4>${recipe.name}</h4>` : ''}
+        ${recipe.description ? `<p class="recipe-description">${recipe.description}</p>` : ''}
+        
+        ${this.renderRecipeVideos(recipe)}
+        
+        <div class="recipe-meta">
+          ${recipe.prepTime ? `<span class="prep-time">⏱️ Prep: ${this.formatDuration(recipe.prepTime)}</span>` : ''}
+          ${recipe.cookTime ? `<span class="cook-time">🔥 Cook: ${this.formatDuration(recipe.cookTime)}</span>` : ''}
+          ${recipe.totalTime ? `<span class="total-time">⏰ Total: ${this.formatDuration(recipe.totalTime)}</span>` : ''}
+          ${recipe.recipeYield ? `<span class="servings">👥 Serves: ${recipe.recipeYield}</span>` : ''}
+        </div>
+
+        ${recipe.recipeIngredient && recipe.recipeIngredient.length > 0 ? `
+        <div class="recipe-ingredients">
+          <h5>Ingredients:</h5>
+          <ul>
+            ${recipe.recipeIngredient.map((ingredient: string) => `<li>${ingredient}</li>`).join('')}
+          </ul>
+        </div>
+        ` : ''}
+
+        ${recipe.recipeInstructions && recipe.recipeInstructions.length > 0 ? (() => {
+          const validInstructions = recipe.recipeInstructions.map((instruction: any) => {
+            const text = typeof instruction === 'string' ? instruction : instruction.text || instruction.name || '';
+            return text.trim() ? `<li>${text}</li>` : '';
+          }).filter(Boolean);
+          
+          return validInstructions.length > 0 ? `
+        <div class="recipe-instructions">
+            <h6>Instructions:</h6>
+          <ol>
+              ${validInstructions.join('')}
+          </ol>
+        </div>
+          ` : '';
+        })() : ''}
+
+        ${recipe.nutrition ? `
+        <div class="recipe-nutrition">
+          <h5>Nutrition:</h5>
+          <div class="nutrition-facts">
+            ${recipe.nutrition.calories ? `<span>Calories: ${recipe.nutrition.calories}</span>` : ''}
+            ${recipe.nutrition.protein ? `<span>Protein: ${recipe.nutrition.protein}</span>` : ''}
+            ${recipe.nutrition.carbohydrate ? `<span>Carbs: ${recipe.nutrition.carbohydrate}</span>` : ''}
+            ${recipe.nutrition.fat ? `<span>Fat: ${recipe.nutrition.fat}</span>` : ''}
+          </div>
+        </div>
+        ` : ''}
+      </div>
+    </div>`;
+  }
+
+  private renderRecipeVideos(recipe: any): string {
+    if (!recipe.resolvedVideos || recipe.resolvedVideos.length === 0) return '';
+
+    if (recipe.resolvedVideos.length === 1) {
+      return `
+      <div class="recipe-video">
+        ${this.renderSingleVideo(recipe.resolvedVideos[0])}
+      </div>`;
+    } else {
+      return `
+      <div class="recipe-videos">
+        ${recipe.resolvedVideos.map((video: any) => this.renderSingleVideo(video)).join('')}
+      </div>`;
+    }
   }
 
   private renderBreadcrumbsData(breadcrumbs: any[]): string {
@@ -1187,79 +1346,6 @@ class BastesPocketSiteGenerator {
     </div>`;
   }
 
-  private renderRecipeData(recipe: any): string {
-    return `
-    <div class="structured-data recipe-data">
-      <h3>🍳 Recipe Information</h3>
-      <div class="recipe-details">
-        ${recipe.name ? `<h4>${recipe.name}</h4>` : ''}
-        ${recipe.description ? `<p class="recipe-description">${recipe.description}</p>` : ''}
-        
-        ${this.renderRecipeVideos(recipe)}
-        
-        <div class="recipe-meta">
-          ${recipe.prepTime ? `<span class="prep-time">⏱️ Prep: ${this.formatDuration(recipe.prepTime)}</span>` : ''}
-          ${recipe.cookTime ? `<span class="cook-time">🔥 Cook: ${this.formatDuration(recipe.cookTime)}</span>` : ''}
-          ${recipe.totalTime ? `<span class="total-time">⏰ Total: ${this.formatDuration(recipe.totalTime)}</span>` : ''}
-          ${recipe.recipeYield ? `<span class="servings">👥 Serves: ${recipe.recipeYield}</span>` : ''}
-        </div>
-
-        ${recipe.recipeIngredient && recipe.recipeIngredient.length > 0 ? `
-        <div class="recipe-ingredients">
-          <h5>Ingredients:</h5>
-          <ul>
-            ${recipe.recipeIngredient.map((ingredient: string) => `<li>${ingredient}</li>`).join('')}
-          </ul>
-        </div>
-        ` : ''}
-
-        ${recipe.recipeInstructions && recipe.recipeInstructions.length > 0 ? (() => {
-          const validInstructions = recipe.recipeInstructions.map((instruction: any) => {
-            const text = typeof instruction === 'string' ? instruction : instruction.text || instruction.name || '';
-            return text.trim() ? `<li>${text}</li>` : '';
-          }).filter(Boolean);
-          
-          return validInstructions.length > 0 ? `
-        <div class="recipe-instructions">
-            <h6>Instructions:</h6>
-          <ol>
-              ${validInstructions.join('')}
-          </ol>
-        </div>
-          ` : '';
-        })() : ''}
-
-        ${recipe.nutrition ? `
-        <div class="recipe-nutrition">
-          <h5>Nutrition:</h5>
-          <div class="nutrition-facts">
-            ${recipe.nutrition.calories ? `<span>Calories: ${recipe.nutrition.calories}</span>` : ''}
-            ${recipe.nutrition.protein ? `<span>Protein: ${recipe.nutrition.protein}</span>` : ''}
-            ${recipe.nutrition.carbohydrate ? `<span>Carbs: ${recipe.nutrition.carbohydrate}</span>` : ''}
-            ${recipe.nutrition.fat ? `<span>Fat: ${recipe.nutrition.fat}</span>` : ''}
-          </div>
-        </div>
-        ` : ''}
-      </div>
-    </div>`;
-  }
-
-  private renderRecipeVideos(recipe: any): string {
-    if (!recipe.resolvedVideos || recipe.resolvedVideos.length === 0) return '';
-
-    if (recipe.resolvedVideos.length === 1) {
-      return `
-      <div class="recipe-video">
-        ${this.renderSingleVideo(recipe.resolvedVideos[0])}
-      </div>`;
-    } else {
-      return `
-      <div class="recipe-videos">
-        ${recipe.resolvedVideos.map((video: any) => this.renderSingleVideo(video)).join('')}
-      </div>`;
-    }
-  }
-
   private renderArticleData(article: any): string {
     return `
     <div class="structured-data article-data">
@@ -1402,126 +1488,173 @@ class BastesPocketSiteGenerator {
     return 'Location available';
   }
 
-  private generateArticlePage(article: ProcessedArticle): string {
-    const title = article.fetched_title || article.user_title || 'Untitled';
-    const allTags = [...(article.user_tags || []), ...(article.auto_tags || [])];
-    const uniqueTags = [...new Set(allTags)];
-    
-    // Use local image if available, fallback to remote - use ../ for article pages
-    const imageUrl = this.getImageUrl(article, '../');
-
+  private generatePageTemplate(data: TemplateData): string {
     return `<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>${title} - Basted Pocket</title>
-    <link rel="stylesheet" href="../assets/style.css">
-    <meta name="description" content="${article.summary || 'Recipe from Basted Pocket'}">
+    <title>${data.config.title}</title>
+    <link rel="stylesheet" href="${data.config.relativePath}assets/style.css">
+    <meta name="description" content="${data.config.description || 'Recipe collection from Basted Pocket'}">
 </head>
 <body>
-    <header class="header">
-        <div class="container">
-            <a href="../index.html" class="logo">👨‍🍳 Basted Pocket</a>
-        </div>
-    </header>
-
+    ${this.generatePageHeader(data.config)}
+    
     <main class="container">
-        <article class="article-detail">
-            <header class="article-header">
-                <h1>${title}</h1>
-                <div class="article-meta">
-                    ${article.author ? `<span class="author">By ${article.author}</span>` : ''}
-                    ${article.read_time_minutes ? `<span class="read-time">${article.read_time_minutes} min read</span>` : ''}
-                    ${article.content_type ? `<span class="content-type">${article.content_type}</span>` : ''}
-                </div>
-                <div class="article-actions">
-                    <a href="${article.canonical_url}" target="_blank" rel="noopener" class="btn-primary">Read Original</a>
-                </div>
-            </header>
-
-            ${imageUrl ? `
-            <div class="article-image">
-                <img src="${imageUrl}" alt="${title}" loading="lazy">
-            </div>
-            ` : ''}
-
-            ${article.summary ? `
-            <div class="article-summary">
-                <h2>Summary</h2>
-                <p>${article.summary}</p>
-            </div>
-            ` : ''}
-
-            ${article.json_ld_objects && article.json_ld_objects.length > 0 ? `
-            <div class="structured-content">
-                ${this.renderJsonLdData(article.json_ld_objects)}
-            </div>
-            ` : ''}
-
-            ${article.main_text_content ? (() => {
-              // Check if this article has recipe data in JSON-LD
-              const hasRecipeData = article.json_ld_objects && 
-                article.json_ld_objects.some((obj: any) => 
-                  Array.isArray(obj) ? obj.some((item: any) => item['@type'] === 'Recipe') :
-                  obj['@type'] === 'Recipe'
-                );
-              
-              // For articles with structured recipe data, skip content preview entirely
-              if (hasRecipeData) {
-                return '';
-              }
-              
-              // For other articles, show cleaned content preview
-              const cleanedContent = this.cleanContentPreview(article.main_text_content, false);
-              return cleanedContent ? `
-            <div class="article-content">
-                <h2>Content Preview</h2>
-                <div class="content-text">
-                      ${cleanedContent.split('\n').map(p => p.trim() ? `<p>${p}</p>` : '').join('')}
-                </div>
-            </div>
-              ` : '';
-            })() : ''}
-
-            ${uniqueTags.length > 0 ? `
-            <div class="article-tags">
-                <h3>Tags</h3>
-                <div class="tags">
-                    ${uniqueTags.map(tag => `<a href="../tags/${tag}.html" class="tag">${tag}</a>`).join('')}
-                </div>
-            </div>
-            ` : ''}
-
-            ${article.keywords && article.keywords.length > 0 ? `
-            <div class="article-keywords">
-                <h3>Keywords</h3>
-                <div class="keywords">
-                    ${article.keywords.map(keyword => `<span class="keyword">${keyword}</span>`).join('')}
-                </div>
-            </div>
-            ` : ''}
-
-            ${article.user_notes ? `
-            <div class="article-notes">
-                <h3>Notes</h3>
-                <p>${article.user_notes}</p>
-            </div>
-            ` : ''}
-
-            ${article.json_ld_objects && article.json_ld_objects.length > 0 ? `
-            <div class="raw-structured-data">
-                <h3>Raw Structured Data</h3>
-                <details>
-                    <summary>View JSON-LD Data</summary>
-                    <pre><code>${JSON.stringify(article.json_ld_objects, null, 2)}</code></pre>
-                </details>
-            </div>
-            ` : ''}
-        </article>
+        ${data.config.showTagCloud && data.stats ? this.generateTagCloud(data.stats, data.config.relativePath) : ''}
+        
+        ${this.generateSearchSection(data.config)}
+        
+        ${this.generateArticlesSection(data.config)}
     </main>
+    
+    ${this.generateFooter(data.stats!)}
+    
+    <script>
+        // Search data
+        const searchData = ${JSON.stringify(data.searchData)};
+        ${this.generateSearchScript()}
+    </script>
 </body>
 </html>`;
+  }
+
+  private generatePageHeader(config: PageConfig): string {
+    return `
+    <header class="header">
+        <div class="container">
+            <a href="${config.relativePath}index.html" class="logo">👨‍🍳 Basted Pocket</a>
+            <p class="tagline">Your Recipe Collection</p>
+        </div>
+    </header>`;
+  }
+
+  private generateSearchSection(config: PageConfig): string {
+    return `
+    <section class="search-section">
+        <input type="text" id="searchInput" class="search-input" placeholder="${config.searchPlaceholder}">
+        <div class="filters">
+            <select id="tagFilter" class="filter-select">
+                <option value="">All Tags</option>
+                ${config.allTags.map(tag => `
+                <option value="${tag}" ${config.selectedTag === tag ? 'selected' : ''}>${tag}</option>
+                `).join('')}
+            </select>
+        </div>
+    </section>`;
+  }
+
+  private generateTagCloud(stats: SiteData['stats'], relativePath: string): string {
+    return `
+    <section class="tag-cloud">
+        <h2>Popular Tags</h2>
+        <div class="tags">
+            ${stats.topTags.slice(0, 20).map(({ tag, count }) => `
+            <a href="${relativePath}tags/${tag}.html" class="tag">
+                ${tag} <span class="count">${count}</span>
+            </a>
+            `).join('')}
+        </div>
+    </section>`;
+  }
+
+  private generateArticlesSection(config: PageConfig): string {
+    const displayableArticles = config.articles.filter(a => this.isArticleDisplayable(a));
+    
+    return `
+    <section class="articles-section">
+        <div class="section-header">
+            <h2>${config.heading}</h2>
+            ${config.description ? `<p>${config.description}</p>` : ''}
+        </div>
+        
+        <div class="articles-grid" id="articlesGrid">
+            ${displayableArticles.length > 0 ? 
+              displayableArticles.map(article => this.renderArticleCard(article, config.relativePath)).join('') :
+              '<div class="no-results">No articles found matching your criteria.</div>'
+            }
+        </div>
+    </section>`;
+  }
+
+  private generateFooter(stats: SiteData['stats']): string {
+    return `
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-stats">
+                    <span class="stat">${stats.totalArticles} Articles</span>
+                    <span class="stat">${stats.topTags.length} Tags</span>
+                    <span class="stat">${stats.contentTypes.length} Content Types</span>
+                </div>
+                <div class="footer-tagline">
+                    <p>Your Recipe Collection</p>
+                </div>
+            </div>
+        </div>
+    </footer>`;
+  }
+
+  private generateSearchScript(): string {
+    return `
+        // Search functionality
+        const searchInput = document.getElementById('searchInput');
+        const tagFilter = document.getElementById('tagFilter');
+        const articlesGrid = document.getElementById('articlesGrid');
+        
+        function filterArticles() {
+            const searchTerm = searchInput.value.toLowerCase();
+            const selectedTag = tagFilter.value;
+            
+            const filteredData = searchData.filter(article => {
+                const matchesSearch = !searchTerm || 
+                    article.title.toLowerCase().includes(searchTerm) ||
+                    article.summary.toLowerCase().includes(searchTerm) ||
+                    article.content.toLowerCase().includes(searchTerm) ||
+                    article.tags.some(tag => tag.toLowerCase().includes(searchTerm));
+                
+                const matchesTag = !selectedTag || article.tags.includes(selectedTag);
+                
+                return matchesSearch && matchesTag;
+            });
+            
+            if (filteredData.length === 0) {
+                articlesGrid.innerHTML = '<div class="no-results">No articles found matching your criteria.</div>';
+                return;
+            }
+            
+            articlesGrid.innerHTML = filteredData.map(article => \`
+                <div class="article-card" data-tags="\${article.tags.join(',')}" data-type="\${article.type}">
+                    <div class="card-layout">
+                        \${article.imageUrl ? \`
+                        <div class="card-thumbnail">
+                            <a href="\${article.url}">
+                                <img src="\${article.imageUrl}" alt="\${article.title}" loading="lazy">
+                            </a>
+                        </div>
+                        \` : ''}
+                        <div class="card-content">
+                            <div class="card-header">
+                                <h3><a href="\${article.url}">\${article.title}</a></h3>
+                                <div class="card-meta">
+                                </div>
+                            </div>
+                            \${article.summary ? \`<p class="summary">\${article.summary}</p>\` : ''}
+                            \${article.tags.length > 0 ? \`
+                            <div class="card-tags">
+                                \${article.tags.map(tag => \`<a href="tags/\${tag}.html" class="tag">\${tag}</a>\`).join('')}
+                            </div>
+                            \` : ''}
+                        </div>
+                    </div>
+                </div>
+            \`).join('');
+        }
+        
+        searchInput.addEventListener('input', filterArticles);
+        tagFilter.addEventListener('change', filterArticles);
+    `;
   }
 
   private cleanContentPreview(content: string, hasRecipes: boolean): string {
@@ -1568,7 +1701,7 @@ class BastesPocketSiteGenerator {
 
   private renderArticleCard(article: ProcessedArticle, relativePath: string = '', maxTags: number = 0): string {
     const title = article.fetched_title || article.user_title || 'Untitled';
-    const allTags = [...(article.user_tags || []), ...(article.auto_tags || [])];
+    const allTags = article.user_tags || [];
     const uniqueTags = [...new Set(allTags)];
     
     // Use local image if available, fallback to remote
@@ -1579,7 +1712,7 @@ class BastesPocketSiteGenerator {
     const tagsToShow = uniqueTags;
 
     return `
-    <div class="article-card" data-tags="${uniqueTags.join(',')}" data-type="${article.content_type || ''}">
+    <div class="article-card" data-tags="${uniqueTags.join(',')}" data-type="article">
         <div class="card-layout">
             ${imageUrl ? `
             <div class="card-thumbnail">
@@ -1592,11 +1725,9 @@ class BastesPocketSiteGenerator {
                 <div class="card-header">
                     <h3><a href="${articleUrl}">${title}</a></h3>
                     <div class="card-meta">
-                        ${article.read_time_minutes ? `<span class="read-time">${article.read_time_minutes} min</span>` : ''}
-                        ${article.content_type ? `<span class="content-type">${article.content_type}</span>` : ''}
                     </div>
                 </div>
-                ${article.summary ? `<p class="summary">${article.summary}</p>` : ''}
+                ${article.main_text_content ? `<p class="summary">${article.main_text_content.substring(0, 200)}...</p>` : ''}
                 ${uniqueTags.length > 0 ? `
                 <div class="card-tags">
                     ${tagsToShow.map(tag => `<a href="${relativePath}tags/${tag}.html" class="tag">${tag}</a>`).join('')}
@@ -1613,13 +1744,13 @@ class BastesPocketSiteGenerator {
       .map(article => ({
         id: article.id,
         title: article.fetched_title || article.user_title || 'Untitled',
-        summary: article.summary || '',
+        summary: article.main_text_content?.substring(0, 200) || '',
         content: article.main_text_content?.substring(0, 500) || '',
-        tags: [...(article.user_tags || []), ...(article.auto_tags || [])],
-        keywords: article.keywords || [],
-        type: article.content_type || '',
+        tags: article.user_tags || [],
+        keywords: [],
+        type: 'article',
         url: `articles/${article.id}.html`,
-        readTime: article.read_time_minutes || 0,
+        readTime: Math.max(1, Math.round((article.main_text_content?.split(/\s+/).length || 0) / 200)),
         imageUrl: this.getImageUrl(article)
       }));
 
@@ -1640,23 +1771,23 @@ class BastesPocketSiteGenerator {
       mkdirSync(assetsDir, { recursive: true });
     }
 
-    // Generate CSS
+    // Generate CSS (same as before but simplified)
     const css = `
 /* Basted Pocket Professional Styles */
 :root {
   --primary-color: #d97706;
+  --primary-light: #f59e0b;
   --primary-dark: #b45309;
-  --primary-light: #fbbf24;
-  --secondary-color: #374151;
-  --accent-color: #059669;
-  --background: #fefefe;
-  --surface: #ffffff;
+  --secondary-color: #059669;
+  --accent-color: #dc2626;
+  --background: #ffffff;
+  --surface: #f9fafb;
   --surface-elevated: #ffffff;
   --text-primary: #111827;
-  --text-secondary: #6b7280;
+  --text-secondary: #4b5563;
   --text-muted: #9ca3af;
-  --border: #e5e7eb;
-  --border-light: #f3f4f6;
+  --border: #d1d5db;
+  --border-light: #e5e7eb;
   --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
   --shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px 0 rgb(0 0 0 / 0.06);
   --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -1px rgb(0 0 0 / 0.06);
@@ -1711,7 +1842,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="25" cy="25" r="1" fill="white" opacity="0.1"/><circle cx="75" cy="75" r="1" fill="white" opacity="0.1"/><circle cx="50" cy="10" r="0.5" fill="white" opacity="0.1"/><circle cx="10" cy="60" r="0.5" fill="white" opacity="0.1"/><circle cx="90" cy="40" r="0.5" fill="white" opacity="0.1"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');
+  background: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><defs><pattern id="grain" width="100" height="100" patternUnits="userSpaceOnUse"><circle cx="25" cy="25" r="1" fill="white" opacity="0.1"/><circle cx="75" cy="75" r="1" fill="white" opacity="0.1"/><circle cx="50" cy="10" r="0.5" fill="white" opacity="0.1"/><circle cx="10" cy="60" r="0.5" fill="white" opacity="0.1"/></pattern></defs><rect width="100" height="100" fill="url(%23grain)"/></svg>');
   pointer-events: none;
 }
 
@@ -2276,583 +2407,18 @@ body {
   font-weight: 500;
 }
 
-/* Multiple Recipes Layout */
-.recipes-container {
-  margin-top: 1rem;
-}
-
-.recipe-item {
-  margin-bottom: 1.5rem;
-}
-
-.recipe-group {
-  margin-bottom: 2rem;
-}
-
-.recipe-group h4 {
-  color: var(--primary-color);
-  margin-bottom: 1rem;
-  font-size: 1.25rem;
-  font-weight: 600;
-  border-bottom: 2px solid var(--primary-light);
-  padding-bottom: 0.5rem;
-}
-
-.recipe-variant {
-  margin-bottom: 1.5rem;
-  padding: 1rem;
-  background: var(--background);
-  border-radius: var(--radius);
-  border: 1px solid var(--border-light);
-}
-
-.recipe-variant h5 {
-  color: var(--accent-color);
-  margin-bottom: 0.75rem;
-  font-size: 1rem;
-  font-weight: 600;
-}
-
-.recipe-variant h6 {
-  margin-bottom: 0.5rem;
-  color: var(--text-primary);
-  font-size: 0.875rem;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-}
-
-.recipe-variant-separator {
-  border: none;
-  height: 1px;
-  background: var(--border-light);
-  margin: 1rem 0;
-}
-
-.recipe-separator {
-  border: none;
-  height: 1px;
-  background: linear-gradient(90deg, transparent, var(--border), transparent);
-  margin: 2rem 0;
-}
-
-/* Reviews Styles */
-.reviews-container {
-  margin-top: 1rem;
-}
-
-.review-item {
-  padding: 1rem;
-  border: 1px solid var(--border-light);
-  border-radius: var(--radius);
-  margin-bottom: 1rem;
-  background: var(--background);
-}
-
-.review-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 0.5rem;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.review-author {
-  font-weight: 600;
-  color: var(--text-primary);
-}
-
-.review-date {
-  font-size: 0.875rem;
-  color: var(--text-muted);
-}
-
-.review-rating {
-  font-size: 0.875rem;
-  color: var(--primary-color);
-  font-weight: 500;
-}
-
-.review-body {
-  color: var(--text-secondary);
-  line-height: 1.5;
-}
-
-.more-reviews {
-  text-align: center;
-  color: var(--text-muted);
-  font-style: italic;
-  margin-top: 1rem;
-}
-
-/* Comments Styles */
-.comments-container {
-  margin-top: 1rem;
-}
-
-.comment-item {
-  padding: 1rem;
-  border-left: 3px solid var(--primary-color);
-  background: var(--background);
-  margin-bottom: 1rem;
-  border-radius: 0 var(--radius) var(--radius) 0;
-}
-
-.comment-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 0.5rem;
-  flex-wrap: wrap;
-  gap: 0.5rem;
-}
-
-.comment-author {
-  font-weight: 600;
-  color: var(--text-primary);
-}
-
-.comment-date {
-  font-size: 0.875rem;
-  color: var(--text-muted);
-}
-
-.comment-body {
-  color: var(--text-secondary);
-  line-height: 1.5;
-  margin-bottom: 0.5rem;
-}
-
-.comment-link {
-  font-size: 0.875rem;
-  color: var(--primary-color);
-  text-decoration: none;
-  font-weight: 500;
-}
-
-.comment-link:hover {
-  text-decoration: underline;
-}
-
-.more-comments {
-  text-align: center;
-  color: var(--text-muted);
-  font-style: italic;
-  margin-top: 1rem;
-}
-
-.expand-comments-btn {
-  display: block;
-  width: 100%;
-  margin-top: 1rem;
-  padding: 0.75rem 1rem;
-  background: var(--primary-color);
-  color: white;
-  border: none;
-  border-radius: var(--radius);
-  font-size: 0.875rem;
-  font-weight: 500;
-  cursor: pointer;
-  transition: all 0.2s ease;
-}
-
-.expand-comments-btn:hover {
-  background: var(--primary-dark);
-  transform: translateY(-1px);
-  box-shadow: var(--shadow-md);
-}
-
-/* How-To Steps Styles */
-.steps-container {
-  margin-top: 1rem;
-}
-
-.steps-list {
-  counter-reset: step-counter;
-  list-style: none;
-  margin-left: 0;
-}
-
-.step-item {
-  counter-increment: step-counter;
-  margin-bottom: 1.5rem;
-  padding: 1rem;
-  background: var(--background);
-  border-radius: var(--radius);
-  border: 1px solid var(--border-light);
-  position: relative;
-}
-
-.step-item::before {
-  content: counter(step-counter);
-  position: absolute;
-  left: -0.5rem;
-  top: 1rem;
-  background: var(--primary-color);
-  color: white;
-  width: 2rem;
-  height: 2rem;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: 600;
-  font-size: 0.875rem;
-}
-
-.step-content {
-  margin-left: 1rem;
-  line-height: 1.5;
-  color: var(--text-primary);
-}
-
-.step-image {
-  margin-top: 1rem;
-  margin-left: 1rem;
-}
-
-.step-image img {
-  max-width: 200px;
-  height: auto;
-  border-radius: var(--radius);
-  border: 1px solid var(--border-light);
-}
-
-/* Videos Styles */
-.videos-container {
-  margin-top: 1rem;
-}
-
-.video-item {
-  margin-bottom: 2rem;
-  padding: 1rem;
-  background: var(--background);
-  border-radius: var(--radius);
-  border: 1px solid var(--border-light);
-}
-
-.video-info h4 {
-  margin-bottom: 0.5rem;
-  color: var(--text-primary);
-}
-
-.video-description {
-  color: var(--text-secondary);
-  margin-bottom: 1rem;
-  line-height: 1.5;
-}
-
-.video-meta {
-  display: flex;
-  gap: 1rem;
-  margin-bottom: 1rem;
-  flex-wrap: wrap;
-}
-
-.video-meta span {
-  font-size: 0.875rem;
-  color: var(--text-muted);
-  display: flex;
-  align-items: center;
-  gap: 0.25rem;
-}
-
-.video-player {
-  margin-bottom: 1rem;
-}
-
-.video-player iframe,
-.video-player video {
-  width: 100%;
-  max-width: 560px;
-  height: 315px;
-  border-radius: var(--radius);
-}
-
-.video-thumbnail img {
-  max-width: 300px;
-  height: auto;
-  border-radius: var(--radius);
-  border: 1px solid var(--border-light);
-}
-
-/* Images Gallery Styles */
-.images-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 1rem;
-  margin-top: 1rem;
-}
-
-.image-item {
-  background: var(--background);
-  border-radius: var(--radius);
-  overflow: hidden;
-  border: 1px solid var(--border-light);
-}
-
-.image-item img {
-  width: 100%;
-  height: 200px;
-  object-fit: cover;
-}
-
-.image-caption {
-  padding: 0.75rem;
-  font-size: 0.875rem;
-  color: var(--text-secondary);
-  line-height: 1.4;
-}
-
-.image-credit {
-  padding: 0 0.75rem 0.75rem;
-  font-size: 0.75rem;
-  color: var(--text-muted);
-  font-style: italic;
-}
-
-/* Q&A Styles */
-.qa-container {
-  margin-top: 1rem;
-}
-
-.qa-item {
-  margin-bottom: 2rem;
-  padding: 1.5rem;
-  background: var(--background);
-  border-radius: var(--radius);
-  border: 1px solid var(--border-light);
-}
-
-.question h4 {
-  color: var(--primary-color);
-  margin-bottom: 0.5rem;
-}
-
-.question p {
-  color: var(--text-secondary);
-  margin-bottom: 1rem;
-  line-height: 1.5;
-}
-
-.answers {
-  margin-top: 1rem;
-}
-
-.answer {
-  padding: 1rem;
-  background: var(--surface-elevated);
-  border-radius: var(--radius);
-  margin-bottom: 1rem;
-  border-left: 3px solid var(--accent-color);
-}
-
-.answer h5 {
-  color: var(--accent-color);
-  margin-bottom: 0.5rem;
-  text-transform: none;
-  letter-spacing: normal;
-}
-
-.answer p {
-  color: var(--text-secondary);
-  line-height: 1.5;
-  margin-bottom: 0.5rem;
-}
-
-.upvotes {
-  font-size: 0.875rem;
-  color: var(--text-muted);
-  display: flex;
-  align-items: center;
-  gap: 0.25rem;
-}
-
-.standalone-answers h4 {
-  color: var(--text-primary);
-  margin-bottom: 1rem;
-  margin-top: 1.5rem;
-}
-
-/* Ratings Styles */
-.ratings-container {
-  margin-top: 1rem;
-}
-
-.rating-item {
-  padding: 1rem;
-  background: var(--background);
-  border-radius: var(--radius);
-  border: 1px solid var(--border-light);
-  margin-bottom: 1rem;
-}
-
-.rating-display {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-  margin-bottom: 0.5rem;
-}
-
-.rating-value {
-    font-size: 1.5rem;
-  font-weight: 700;
-  color: var(--primary-color);
-}
-
-.rating-scale {
-  font-size: 1rem;
-  color: var(--text-secondary);
-}
-
-.rating-count {
-    font-size: 0.875rem;
-  color: var(--text-muted);
-}
-
-.rating-bar {
-  width: 100%;
-  height: 8px;
-  background: var(--border-light);
-  border-radius: var(--radius-sm);
-  overflow: hidden;
-}
-
-.rating-fill {
-  height: 100%;
-  background: linear-gradient(90deg, var(--primary-color), var(--primary-light));
-  transition: width 0.3s ease;
-}
-
-/* Nutrition Information Styles */
-.nutrition-container {
-  margin-top: 1rem;
-}
-
-.nutrition-item {
-  padding: 1rem;
-  background: var(--background);
-  border-radius: var(--radius);
-  border: 1px solid var(--border-light);
-  margin-bottom: 1rem;
-}
-
-.nutrition-facts {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 0.75rem;
-}
-
-.nutrition-fact {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 0.5rem;
-  background: var(--surface-elevated);
-  border-radius: var(--radius-sm);
-  border: 1px solid var(--border-light);
-}
-
-.nutrition-fact .label {
-  font-weight: 500;
-  color: var(--text-primary);
-}
-
-.nutrition-fact .value {
-  font-weight: 600;
-  color: var(--primary-color);
-}
-
-/* Article Data */
-.article-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1rem;
-  margin-top: 0.75rem;
-}
-
-.article-meta span {
-  display: flex;
-  align-items: center;
-  gap: 0.25rem;
-  font-size: 0.875rem;
-  color: var(--text-secondary);
-}
-
-/* Generic Data */
-.generic-details details {
-  margin-top: 1rem;
-}
-
-.generic-details summary {
-  cursor: pointer;
-  font-weight: 500;
-  color: var(--primary-color);
-  padding: 0.5rem;
-  border-radius: var(--radius-sm);
-  transition: background-color 0.2s ease;
-}
-
-.generic-details summary:hover {
-  background: var(--border-light);
-}
-
-.generic-details pre {
-  background: var(--background);
-  padding: 1rem;
-  border-radius: var(--radius);
-  border: 1px solid var(--border-light);
-  overflow-x: auto;
-  font-size: 0.75rem;
-  line-height: 1.4;
-  margin-top: 0.5rem;
-}
-
-/* Responsive Design for Structured Data */
-@media (max-width: 768px) {
-  .recipe-meta {
-    flex-direction: column;
-    gap: 0.5rem;
-  }
-  
-  .images-gallery {
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-  }
-  
-  .nutrition-facts {
-    grid-template-columns: 1fr;
-  }
-  
-  .video-player iframe,
-  .video-player video {
-    height: 200px;
-  }
-  
-  .step-item::before {
-    position: relative;
-    left: 0;
-    margin-bottom: 0.5rem;
-  }
-  
-  .step-content {
-    margin-left: 0;
-  }
-  
-  .step-image {
-    margin-left: 0;
-  }
-}
-
 /* Article Detail Page Styles */
 .article-detail {
   max-width: 800px;
   margin: 0 auto;
+  background: var(--surface-elevated);
+  border-radius: var(--radius-lg);
+  box-shadow: var(--shadow);
+  overflow: hidden;
 }
 
 .article-header {
-  margin-bottom: 2rem;
-  padding-bottom: 1rem;
+  padding: 2rem;
   border-bottom: 1px solid var(--border-light);
 }
 
@@ -2868,7 +2434,8 @@ body {
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
+  color: var(--text-secondary);
 }
 
 .article-meta span {
@@ -2876,12 +2443,11 @@ body {
   align-items: center;
   gap: 0.25rem;
   font-size: 0.875rem;
-  color: var(--text-secondary);
-  font-weight: 500;
 }
 
 .article-actions {
-  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
 }
 
 .btn-primary {
@@ -2905,84 +2471,49 @@ body {
 }
 
 .article-image {
+  padding: 0 2rem;
   margin-bottom: 2rem;
-  text-align: center;
 }
 
 .article-image img {
-  max-width: 100%;
-  max-height: 400px;
-  width: auto;
+  width: 100%;
   height: auto;
-  object-fit: contain;
-  border-radius: var(--radius-lg);
-  box-shadow: var(--shadow-md);
-  border: 1px solid var(--border-light);
-}
-
-.article-summary,
-.structured-content,
-.article-content,
-.article-tags,
-.article-keywords,
-.article-notes,
-.raw-structured-data {
-  margin-bottom: 2rem;
-  background: var(--surface-elevated);
-  padding: 1.5rem;
-  border-radius: var(--radius-lg);
-  border: 1px solid var(--border-light);
+  border-radius: var(--radius);
   box-shadow: var(--shadow-sm);
 }
 
+.article-summary,
+.article-content,
+.structured-content,
+.article-tags,
+.article-notes,
+.raw-structured-data {
+  padding: 0 2rem 2rem;
+}
+
 .article-summary h2,
-.structured-content h2,
 .article-content h2,
 .article-tags h3,
-.article-keywords h3,
 .article-notes h3,
 .raw-structured-data h3 {
-  margin-bottom: 1rem;
   color: var(--text-primary);
+  margin-bottom: 1rem;
   font-weight: 600;
+}
+
+.content-text {
+  line-height: 1.7;
+  color: var(--text-secondary);
 }
 
 .content-text p {
   margin-bottom: 1rem;
-  line-height: 1.6;
-  color: var(--text-secondary);
 }
 
-.article-tags .tags,
-.article-keywords .keywords {
+.article-tags .tags {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
-}
-
-.article-tags .tag {
-  padding: 0.5rem 0.875rem;
-  background: var(--primary-color);
-  color: white;
-  text-decoration: none;
-  border-radius: var(--radius);
-  font-size: 0.875rem;
-  font-weight: 500;
-  transition: all 0.2s ease;
-}
-
-.article-tags .tag:hover {
-  background: var(--primary-dark);
-  transform: translateY(-1px);
-}
-
-.keyword {
-  padding: 0.375rem 0.75rem;
-  background: var(--accent-color);
-  color: white;
-  border-radius: var(--radius-sm);
-  font-size: 0.75rem;
-  font-weight: 500;
 }
 
 .raw-structured-data details {
@@ -3014,329 +2545,21 @@ body {
 }
 
 @media (max-width: 768px) {
-  .article-detail {
-    margin: 0;
-  }
-  
-  .article-header h1 {
-    font-size: 1.5rem;
-  }
-  
-  .article-image img {
-    max-height: 300px;
-  }
-  
+  .article-header,
+  .article-image,
   .article-summary,
-  .structured-content,
   .article-content,
+  .structured-content,
   .article-tags,
-  .article-keywords,
   .article-notes,
   .raw-structured-data {
     padding: 1rem;
   }
 }
-
-/* Breadcrumbs Styles */
-.breadcrumbs-container {
-  margin-top: 1rem;
-}
-
-.breadcrumb-nav {
-  margin-bottom: 1rem;
-}
-
-.breadcrumb-list {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  list-style: none;
-  margin: 0;
-  padding: 1rem;
-  background: var(--background);
-  border-radius: var(--radius);
-  border: 1px solid var(--border-light);
-  gap: 0.5rem;
-}
-
-.breadcrumb-item {
-  display: flex;
-  align-items: center;
-  gap: 0.5rem;
-}
-
-.breadcrumb-link {
-  color: var(--primary-color);
-  text-decoration: none;
-  font-weight: 500;
-  padding: 0.25rem 0.5rem;
-  border-radius: var(--radius-sm);
-  transition: all 0.2s ease;
-}
-
-.breadcrumb-link:hover {
-  background: var(--primary-color);
-  color: white;
-  text-decoration: none;
-}
-
-.breadcrumb-text {
-  color: var(--text-secondary);
-  font-weight: 500;
-  padding: 0.25rem 0.5rem;
-}
-
-.breadcrumb-separator {
-  color: var(--text-muted);
-  font-weight: 600;
-  user-select: none;
-}
 `;
 
     writeFileSync(join(this.outputDir, 'assets/style.css'), css);
-
-    // Generate unified JavaScript
-    const js = `
-// Unified Basted Pocket Search and Filter Functionality
-class BastesPocketApp {
-  constructor() {
-    this.searchData = [];
-    this.currentArticles = [];
-    this.isIndex = window.pageConfig?.isIndex || false;
-    this.relativePath = window.pageConfig?.relativePath || '';
-    this.searchTimeout = null; // Add debouncing
-    
-    this.init();
-  }
-
-  async init() {
-    if (this.isIndex) {
-      await this.loadSearchData();
-    } else {
-      this.searchData = window.pageArticles || [];
-      this.currentArticles = [...this.searchData];
-    }
-    this.setupEventListeners();
-    this.displayArticles();
-  }
-
-  async loadSearchData() {
-    try {
-      const response = await fetch('data/search.json');
-      this.searchData = await response.json();
-      this.currentArticles = [...this.searchData];
-    } catch (error) {
-      console.error('Failed to load search data:', error);
-    }
-  }
-
-  setupEventListeners() {
-    const searchInput = document.getElementById('searchInput');
-    const tagFilter = document.getElementById('tagFilter');
-
-    if (searchInput) {
-      searchInput.addEventListener('input', (e) => {
-        // Debounce search to improve performance
-        clearTimeout(this.searchTimeout);
-        this.searchTimeout = setTimeout(() => {
-        this.handleSearch();
-        }, 300); // Wait 300ms after user stops typing
-      });
-    }
-
-    if (tagFilter) {
-      tagFilter.addEventListener('change', (e) => {
-        this.handleSearch();
-      });
-    }
-  }
-
-  handleSearch() {
-    const searchInput = document.getElementById('searchInput');
-    const tagFilter = document.getElementById('tagFilter');
-    
-    const searchTerm = searchInput ? searchInput.value.toLowerCase().trim() : '';
-    const selectedTag = tagFilter ? tagFilter.value : '';
-    
-    let filtered = [...this.searchData];
-    
-    // Apply text search - treat multiple words as AND conditions
-    if (searchTerm) {
-      const searchWords = searchTerm.split(/\s+/).filter(word => word.length > 0);
-      
-      filtered = filtered.filter(article => {
-        const searchableText = [
-          article.title,
-          article.summary,
-          article.content,
-          ...article.tags,
-          ...article.keywords
-        ].join(' ').toLowerCase();
-        
-        // All search words must be found (AND condition)
-        return searchWords.every(word => searchableText.includes(word));
-      });
-    }
-    
-    // Apply tag filter
-    if (selectedTag) {
-      filtered = filtered.filter(article => 
-        article.tags.includes(selectedTag)
-      );
-    }
-    
-    this.currentArticles = filtered;
-    this.displayArticles();
-  }
-
-  displayArticles() {
-    const container = document.getElementById('articlesContainer');
-    const countElement = document.getElementById('articleCount');
-    const noResults = document.getElementById('noResults');
-    
-    if (!container) return;
-
-    if (this.currentArticles.length === 0) {
-      container.innerHTML = '';
-      if (noResults) noResults.style.display = 'block';
-    } else {
-      container.innerHTML = this.currentArticles.map(article => this.renderArticleCard(article)).join('');
-      if (noResults) noResults.style.display = 'none';
-    }
-    
-    if (countElement && !this.isIndex) {
-      countElement.textContent = \`\${this.currentArticles.length} articles\`;
-    }
-  }
-
-  renderArticleCard(article) {
-    const tagsToShow = article.tags;
-    
-    return \`
-    <div class="article-card" data-tags="\${article.tags.join(',')}" data-type="\${article.type}">
-      <div class="card-layout">
-        \${article.imageUrl ? \`
-        <div class="card-thumbnail">
-          <a href="\${article.url}">
-            <img src="\${article.imageUrl}" alt="\${article.title}" loading="lazy">
-          </a>
-        </div>
-        \` : ''}
-        <div class="card-content">
-          <div class="card-header">
-            <h3><a href="\${article.url}">\${article.title}</a></h3>
-            <div class="card-meta">
-              \${article.readTime ? \`<span class="read-time">\${article.readTime} min</span>\` : ''}
-              \${article.type ? \`<span class="content-type">\${article.type}</span>\` : ''}
-            </div>
-          </div>
-          \${article.summary ? \`<p class="summary">\${article.summary}</p>\` : ''}
-          \${article.tags.length > 0 ? \`
-          <div class="card-tags">
-            \${tagsToShow.map(tag => \`<a href="\${this.relativePath}tags/\${tag}.html" class="tag">\${tag}</a>\`).join('')}
-          </div>
-          \` : ''}
-        </div>
-      </div>
-    </div>\`;
-  }
-}
-
-// Initialize app when DOM is loaded
-document.addEventListener('DOMContentLoaded', () => {
-  new BastesPocketApp();
-});
-`;
-
-    writeFileSync(join(this.outputDir, 'assets/script.js'), js);
-    
-    // Create a symlink for page-search.js to use the same unified script
-    writeFileSync(join(this.outputDir, 'assets/page-search.js'), js);
-  }
-
-  private async createDatasetFromCurrentData(): Promise<void> {
-    try {
-      // Load current articles from data directories
-      const articles: ProcessedArticle[] = [];
-      
-      // Try enriched files first, then scraped files as fallback
-      const dataDirs = [
-        { dir: 'build_output/data/enriched', type: 'enriched' },
-        { dir: 'build_output/enriched', type: 'enriched' },
-        { dir: 'build_output/data/scraped', type: 'scraped' },
-        { dir: 'build_output/scraped', type: 'scraped' }
-      ];
-      
-      for (const { dir, type } of dataDirs) {
-        if (existsSync(dir)) {
-          const articleDirs = require('fs').readdirSync(dir);
-          for (const articleDir of articleDirs) {
-            const articlePath = `${dir}/${articleDir}`;
-            const dataFile = `${articlePath}/data.json`;
-            
-            // Check if it's a directory and has data.json
-            if (require('fs').statSync(articlePath).isDirectory() && existsSync(dataFile)) {
-              try {
-                const article = JSON.parse(readFileSync(dataFile, 'utf-8'));
-                // Avoid duplicates (enriched takes precedence over scraped)
-                if (!articles.find(a => a.id === article.id)) {
-                  articles.push(article);
-                }
-              } catch (error) {
-                console.warn(`⚠️  Could not load ${dataFile}:`, error);
-              }
-            }
-            // Also handle old format (direct JSON files) for backward compatibility
-            else if (articleDir.endsWith('.json')) {
-              try {
-                const article = JSON.parse(readFileSync(articlePath, 'utf-8'));
-                // Avoid duplicates (enriched takes precedence over scraped)
-                if (!articles.find(a => a.id === article.id)) {
-                  articles.push(article);
-                }
-              } catch (error) {
-                console.warn(`⚠️  Could not load ${articlePath}:`, error);
-              }
-            }
-          }
-        }
-      }
-
-      // Create dataset
-      const dataset = {
-        metadata: {
-          exported_at: new Date().toISOString(),
-          total_articles: articles.length,
-          format_version: "1.0",
-          description: "Basted Pocket scraped and enriched recipe dataset"
-        },
-        articles: articles.map(article => ({
-          id: article.id,
-          original_url: article.original_url,
-          canonical_url: article.canonical_url,
-          user_title: article.user_title,
-          user_tags: article.user_tags,
-          user_notes: article.user_notes,
-          fetched_title: article.fetched_title,
-          summary: article.summary,
-          auto_tags: article.auto_tags,
-          keywords: article.keywords,
-          content_type: article.content_type,
-          read_time_minutes: article.read_time_minutes,
-          scraping_timestamp: (article as any).scraping_timestamp,
-          enrichment_timestamp: article.processing_timestamp,
-          scraping_status: (article as any).scraping_status,
-          enrichment_status: (article as any).enrichment_status,
-          json_ld_objects: article.json_ld_objects
-        }))
-      };
-
-      // Write dataset
-      writeFileSync(join(this.outputDir, 'dataset.json'), JSON.stringify(dataset, null, 2));
-      console.log(`📊 Created dataset with ${articles.length} articles`);
-    } catch (error) {
-      console.error('❌ Error creating dataset:', error);
-    }
+    console.log('📄 Generated CSS stylesheet');
   }
 
   private async createDatasetZip(): Promise<void> {
@@ -3359,49 +2582,33 @@ document.addEventListener('DOMContentLoaded', () => {
     <main class="container">
         <div class="page-header">
             <h1>📥 Download Dataset</h1>
-            <p>Access your complete recipe collection data</p>
+            <p>Download the complete recipe dataset in various formats</p>
         </div>
 
         <div class="download-section">
             <div class="download-card">
                 <h3>📊 Complete Dataset (JSON)</h3>
-                <p>All articles with metadata, tags, summaries, and structured data</p>
+                <p>All articles with metadata, tags, and structured data</p>
                 <a href="dataset.json" download="basted-pocket-dataset.json" class="btn-primary">
                     📄 Download JSON Dataset
-                </a>
-            </div>
-
-            <div class="download-card">
-                <h3>🗂️ Complete Data Archive</h3>
-                <p>All scraped content, images, and enriched data in organized folders</p>
-                <a href="data.tar.gz" download="basted-pocket-data.tar.gz" class="btn-primary">
-                    📦 Download Data Archive
-                </a>
-            </div>
-
-            <div class="download-card">
-                <h3>🖼️ Images Archive</h3>
-                <p>All downloaded recipe images</p>
-                <a href="images.tar.gz" download="basted-pocket-images.tar.gz" class="btn-primary">
-                    🖼️ Download Images
                 </a>
             </div>
         </div>
 
         <div class="usage-info">
-            <h2>📖 Usage Information</h2>
+            <h2>Usage Information</h2>
             <div class="info-grid">
                 <div class="info-card">
                     <h4>Dataset Format</h4>
-                    <p>The JSON dataset contains structured metadata for all articles including titles, tags, summaries, and JSON-LD structured data.</p>
+                    <p>The JSON dataset contains structured metadata for all articles including titles, tags, and JSON-LD structured data.</p>
                 </div>
                 <div class="info-card">
-                    <h4>Data Archive</h4>
-                    <p>Complete backup including raw HTML content, scraped metadata, AI enrichments, and downloaded images organized by article ID.</p>
+                    <h4>Source Data</h4>
+                    <p>Complete source data including raw HTML content, scraped metadata, and downloaded images is available in the project's git repository under the archive/ directory.</p>
                 </div>
                 <div class="info-card">
-                    <h4>GitHub Actions Integration</h4>
-                    <p>The data archive can be used to restore state in GitHub Actions workflows, avoiding re-processing of existing content.</p>
+                    <h4>Git Repository</h4>
+                    <p>All data is version controlled and permanently stored in git, ensuring complete history and data integrity.</p>
                 </div>
             </div>
         </div>
@@ -3411,208 +2618,93 @@ document.addEventListener('DOMContentLoaded', () => {
         <div class="container">
             <div class="footer-content">
                 <div class="footer-tagline">
-                    <p>Your AI-Enhanced Recipe Collection</p>
+                    <p>Your Recipe Collection</p>
                 </div>
             </div>
         </div>
     </footer>
 </body>
 </html>`;
-
+    
     writeFileSync(join(this.outputDir, 'download.html'), downloadHtml);
+    console.log('📥 Generated download page');
     
     // Create dataset from current data
     await this.createDatasetFromCurrentData();
-    
-    // Create data archives for GitHub Actions caching
-    await this.createDataArchive();
   }
 
-  private async createDataArchive(): Promise<void> {
-    // Create data archive if data directory exists
-    if (existsSync('build_output/data')) {
-      try {
-        await new Promise<void>((resolve, reject) => {
-          const { spawn } = require('child_process');
-          const tar = spawn('tar', ['-czf', join(this.outputDir, 'data.tar.gz'), '-C', 'build_output', 'data'], {
-            stdio: 'inherit'
-          });
-          
-          tar.on('close', (code: number) => {
-            if (code === 0) {
-              console.log('📦 Created data archive');
-              resolve();
-            } else {
-              reject(new Error(`tar process exited with code ${code}`));
+  private async createDatasetFromCurrentData(): Promise<void> {
+    try {
+      // Load current articles from data directories
+      const articles: ProcessedArticle[] = [];
+      
+      // Only load scraped files since we removed enrichment
+      const dataDirs = [
+        { dir: 'archive', type: 'scraped' }
+      ];
+      
+      for (const { dir, type } of dataDirs) {
+        if (existsSync(dir)) {
+          const articleDirs = require('fs').readdirSync(dir);
+          for (const articleDir of articleDirs) {
+            const articlePath = `${dir}/${articleDir}`;
+            const dataFile = `${articlePath}/data.json`;
+            
+            if (require('fs').statSync(articlePath).isDirectory() && existsSync(dataFile)) {
+              try {
+                const article = JSON.parse(readFileSync(dataFile, 'utf-8'));
+                // Avoid duplicates
+                if (!articles.find(a => a.id === article.id)) {
+                  articles.push(article);
+                }
+              } catch (error) {
+                console.warn(`⚠️  Could not load ${dataFile}:`, error);
+              }
             }
-          });
-          
-          tar.on('error', reject);
-        });
-      } catch (error) {
-        console.warn('⚠️  Could not create data archive:', error);
+          }
+        }
       }
+
+      // Create dataset
+      const dataset = {
+        metadata: {
+          exported_at: new Date().toISOString(),
+          total_articles: articles.length,
+          format_version: "1.0",
+          description: "Basted Pocket scraped recipe dataset"
+        },
+        articles: articles.map(article => ({
+          id: article.id,
+          original_url: article.original_url,
+          canonical_url: article.canonical_url,
+          user_title: article.user_title,
+          user_tags: article.user_tags,
+          user_notes: article.user_notes,
+          fetched_title: article.fetched_title,
+          scraping_timestamp: (article as any).scraping_timestamp,
+          scraping_status: (article as any).scraping_status,
+          json_ld_objects: article.json_ld_objects
+        }))
+      };
+
+      writeFileSync(
+        join(this.outputDir, 'dataset.json'),
+        JSON.stringify(dataset, null, 2)
+      );
+      
+      console.log(`📊 Generated dataset with ${articles.length} articles`);
+    } catch (error) {
+      console.warn('⚠️  Could not create dataset:', error);
     }
-
-    // Create images archive
-    const imagesDir = join(this.outputDir, 'images');
-    if (existsSync(imagesDir)) {
-      try {
-        await new Promise<void>((resolve, reject) => {
-          const { spawn } = require('child_process');
-          const tar = spawn('tar', ['-czf', join(this.outputDir, 'images.tar.gz'), '-C', this.outputDir, 'images'], {
-            stdio: 'inherit'
-          });
-          
-          tar.on('close', (code: number) => {
-            if (code === 0) {
-              console.log('🖼️  Created images archive');
-              resolve();
-            } else {
-              reject(new Error(`tar process exited with code ${code}`));
-            }
-          });
-          
-          tar.on('error', reject);
-        });
-      } catch (error) {
-        console.warn('⚠️  Could not create images archive:', error);
-      }
-    }
-  }
-
-  private generatePageTemplate(data: TemplateData): string {
-    const { config, stats, searchData } = data;
-    const isIndex = config.pageType === 'index';
-    
-    return `<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>${config.title}</title>
-    <link rel="stylesheet" href="${config.relativePath}assets/style.css">
-    ${config.description ? `<meta name="description" content="${config.description}">` : ''}
-</head>
-<body>
-    <header class="header">
-        <div class="container">
-            <a href="${config.relativePath}index.html" class="logo">👨‍🍳 Basted Pocket</a>
-            ${isIndex ? `
-            <nav class="header-nav">
-                <a href="download.html" class="nav-link">📥 Download Dataset</a>
-            </nav>
-            ` : ''}
-        </div>
-    </header>
-
-    <main class="container">
-        ${this.generatePageHeader(config)}
-        ${this.generateSearchSection(config)}
-        ${config.showTagCloud && stats ? this.generateTagCloud(stats, config.relativePath) : ''}
-        ${this.generateArticlesSection(config)}
-    </main>
-
-    ${isIndex && stats ? this.generateFooter(stats) : ''}
-
-    <script>
-        // Page-specific search data
-        window.pageArticles = ${JSON.stringify(searchData)};
-        window.pageConfig = {
-            isIndex: ${isIndex},
-            relativePath: "${config.relativePath}"
-        };
-    </script>
-    <script src="${config.relativePath}assets/${isIndex ? 'script.js' : 'page-search.js'}"></script>
-</body>
-</html>`;
-  }
-
-  private generatePageHeader(config: PageConfig): string {
-    if (config.pageType === 'index') {
-      return ''; // Index page doesn't need a separate header section
-    }
-    
-    return `
-        <div class="page-header">
-            <h1>${config.heading}</h1>
-            <p id="articleCount">${config.articles.length} articles</p>
-            ${config.description ? `<p>${config.description}</p>` : ''}
-        </div>`;
-  }
-
-  private generateSearchSection(config: PageConfig): string {
-    return `
-        <div class="search-section">
-            <input type="text" id="searchInput" placeholder="${config.searchPlaceholder}" class="search-input">
-            <div class="filters">
-                <select id="tagFilter" class="filter-select">
-                    <option value="">All Tags</option>
-                    ${config.allTags.map(tag => 
-                        `<option value="${tag}" ${tag === config.selectedTag ? 'selected' : ''}>${tag}</option>`
-                    ).join('')}
-                </select>
-            </div>
-        </div>`;
-  }
-
-  private generateTagCloud(stats: SiteData['stats'], relativePath: string): string {
-    return `
-        <div class="tag-cloud">
-            <h2>Popular Tags</h2>
-            <div class="tags">
-                ${stats.topTags.slice(0, 15).map(({ tag, count }) => 
-                    `<a href="${relativePath}tags/${tag}.html" class="tag" data-count="${count}">${tag} <span class="count">${count}</span></a>`
-                ).join('')}
-            </div>
-        </div>`;
-  }
-
-  private generateArticlesSection(config: PageConfig): string {
-    return `
-        <div class="articles-section">
-            ${config.pageType === 'index' ? `
-            <div class="section-header">
-                <h2>Recent Recipes</h2>
-                <p>Discover your latest culinary adventures</p>
-            </div>
-            ` : ''}
-            <div id="articlesContainer" class="articles-grid">
-                ${config.articles.map(article => this.renderArticleCard(article, config.relativePath)).join('')}
-            </div>
-            <div id="noResults" class="no-results" style="display: none;">
-                <p>No recipes found matching your search criteria.</p>
-            </div>
-        </div>`;
-  }
-
-  private generateFooter(stats: SiteData['stats']): string {
-    return `
-    <footer class="footer">
-        <div class="container">
-            <div class="footer-content">
-                <div class="footer-stats">
-                    <span class="stat">${stats.totalArticles} Total Articles</span>
-                    <span class="stat">${stats.processedArticles} Processed</span>
-                    <span class="stat">${stats.totalTags} Tags</span>
-                    <span class="stat">${stats.contentTypes.length} Content Types</span>
-                </div>
-                <div class="footer-tagline">
-                    <p>Your AI-Enhanced Recipe Collection</p>
-                </div>
-            </div>
-        </div>
-    </footer>`;
   }
 }
 
 async function main() {
   const generator = new BastesPocketSiteGenerator();
-  await generator.generateFromEnrichedData();
+  await generator.generateFromScrapedData();
 }
 
 if (import.meta.main) {
   main().catch(console.error);
 } 
-
 

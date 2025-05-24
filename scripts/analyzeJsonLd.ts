@@ -21,18 +21,15 @@ class JsonLdAnalyzer {
     const linksData = parseLinksMarkdown();
     console.log(`📖 Found ${linksData.length} articles to analyze\n`);
     
-    // Load scraped data AND enriched data
-    const dataDirs = [
-      'build_output/data/scraped',
-      'build_output/scraped',
-      'build_output/data/enriched',
-      'build_output/enriched'
+    // Load scraped data only since we removed enrichment
+    const scrapedDirs = [
+      'archive'
     ];
     let processedCount = 0;
     let totalJsonLdObjects = 0;
     let structureIssues = 0;
     
-    for (const dataDir of dataDirs) {
+    for (const dataDir of scrapedDirs) {
       if (existsSync(dataDir)) {
         console.log(`📂 Checking ${dataDir}...`);
         const articleDirs = require('fs').readdirSync(dataDir);

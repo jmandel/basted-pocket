@@ -5,7 +5,6 @@ Your AI-Enhanced Recipe Collection - A GitOps-powered read-it-later service spec
 ## ✨ Features
 
 - **📚 Import from Pocket**: Convert your existing Pocket CSV export into markdown format
-- **🤖 AI Content Enrichment**: Automatic tagging, summaries, and keyword extraction using Google Gemini
 - **🏗️ Static Site Generation**: Generate a beautiful, fast static website from your links
 - **🔍 Full-Text Search**: Client-side search across titles, tags, and notes
 - **🏷️ Smart Tag Organization**: AI-generated tags plus manual tag pages and tag cloud
@@ -22,7 +21,6 @@ Your AI-Enhanced Recipe Collection - A GitOps-powered read-it-later service spec
 
 - [Bun](https://bun.sh) JavaScript runtime
 - Your Pocket CSV export file
-- Google Gemini API key (for AI enrichment)
 
 ### Installation
 
@@ -54,10 +52,9 @@ bun run import
 # Build the complete AI-enhanced static site
 bun run build
 
-# This runs three steps:
+# This runs two steps:
 # 1. Scrape content from URLs (metadata, text, images)
-# 2. Enrich content with AI (tags, summaries, keywords)
-# 3. Generate static site with enhanced data
+# 2. Generate static site from scraped data
 ```
 
 You can also run the steps individually:
@@ -66,38 +63,8 @@ You can also run the steps individually:
 # Step 1: Scrape content from URLs
 bun run scrape
 
-# Step 2: Enrich scraped content with AI
-bun run enrich
-
-# Step 3: Generate static site from enriched data  
+# Step 2: Generate static site from scraped data
 bun run generate
-```
-
-**Note**: AI enrichment requires a `GEMINI_API_KEY` environment variable. Get your API key from [Google AI Studio](https://aistudio.google.com/app/apikey).
-
-#### Advanced Usage
-
-**Incremental Processing**: The scraper automatically avoids re-processing existing content. To force refresh of older articles:
-
-```bash
-# Re-scrape content older than 30 days
-bun run scrape:refresh 2024-01-01
-
-# Re-enrich content older than 7 days (saves on API costs)
-bun run enrich:refresh 2024-01-01
-```
-
-**Dataset Management**: Your processed data is automatically saved and can be downloaded:
-
-```bash
-# Create backup archive
-bun run archive
-
-# Restore from backup
-bun run restore
-
-# Clean all generated files
-bun run clean
 ```
 
 #### 3. View Your Site
@@ -115,26 +82,24 @@ bun run serve
 # Add a new link with tags and notes
 bun run add "https://cooking.nytimes.com/recipes/123" --tags "recipe,asian,noodles" --title "Amazing Ramen Recipe" --note "Must try this weekend"
 
-# Rebuild the site with AI enrichment
+# Rebuild the site
 bun run build
 ```
 
-## 📁 Project Structure
+## 🛠 Project Structure
 
 ```
 basted-pocket/
 ├── scripts/
 │   ├── importPocket.ts      # Convert Pocket CSV to links.md
 │   ├── scrapeContent.ts     # Scrape content from URLs
-│   ├── enrichContent.ts     # AI enrichment with Gemini
 │   ├── generateSite.ts      # Generate static site
 │   └── addLink.ts           # Add new links to links.md
 ├── config/
-│   └── tags.json           # Tag definitions for AI enrichment
+│   └── tags.json           # Tag definitions
 ├── build_output/
-│   └── data/               # Scraped and enriched data
-│       ├── scraped/        # Raw scraped content per article
-│       └── enriched/       # AI-enriched data per article
+│   └── data/               # Scraped data
+│       └── scraped/        # Raw scraped content per article
 ├── dist/                   # Generated static site
 ├── .github/
 │   └── workflows/          # GitHub Actions for automated deployment
@@ -149,14 +114,13 @@ The project includes GitHub Actions workflow for automated deployment to GitHub 
 
 1. **Automatic Triggers**: Deploys when you push changes to `links.md` or scripts
 2. **Smart Caching**: Downloads existing data to avoid re-processing
-3. **Cost-Efficient**: Only scrapes content, skips AI enrichment on GitHub Pages to save API costs
+3. **Efficient Processing**: Only scrapes content for fast deployment
 4. **Non-Blocking**: Gracefully handles missing data for first deployment
 
 To set up:
 
 1. Enable GitHub Pages in your repository settings
-2. Add `GEMINI_API_KEY` to repository secrets (optional, for local enrichment)
-3. Push changes to trigger deployment
+2. Push changes to trigger deployment
 
 ## 📝 Link Format
 
@@ -187,18 +151,16 @@ Your links are stored in `links.md` using this format:
 | Script | Command | Description |
 |--------|---------|-------------|
 | Import | `bun run import` | Convert Pocket CSV to links.md |
-| Build | `bun run build` | Full pipeline: scrape + enrich + generate site |
+| Build | `bun run build` | Full pipeline: scrape + generate site |
 | Scrape | `bun run scrape` | Scrape content from URLs (metadata, text, images) |
-| Enrich | `bun run enrich` | Enrich scraped content with AI (tags, summaries) |
-| Scrape (Refresh) | `bun run scrape:refresh YYYY-MM-DD` | Re-scrape articles since date |
-| Enrich (Refresh) | `bun run enrich:refresh YYYY-MM-DD` | Re-enrich articles since date |
-| Generate | `bun run generate` | Generate static site from enriched data |
+| Scrape (Refresh) | `bun run scrape:refresh YYYY-MM-DD` | Re-scrape articles older than date |
+| Generate | `bun run generate` | Generate static site from scraped data |
 | Add Link | `bun run add <url> [options]` | Add new link to collection |
 | Serve | `bun run serve` | Serve site locally (auto-finds port 8000-8002) |
 | Deploy | `bun run deploy` | Build and prepare for deployment |
-| Archive | `bun run archive` | Create backup of processed data |
 | Restore | `bun run restore` | Restore from backup archive |
 | Clean | `bun run clean` | Remove all generated files |
+| Resurrect | `bun run resurrect --url <dead-url>` | Resurrect dead pages using Wayback Machine |
 
 ### Add Link Options
 
@@ -262,7 +224,6 @@ bun run build
 The system creates a comprehensive dataset that includes:
 
 - **Scraped Content**: Raw HTML, metadata, images
-- **AI Enrichment**: Generated tags, summaries, keywords
 - **Structured Data**: Recipe cards, nutrition info, JSON-LD
 - **Search Index**: Optimized search data for client-side search
 
@@ -276,7 +237,6 @@ bun install
 
 # Run individual scripts for development
 bun run scripts/scrapeContent.ts
-bun run scripts/enrichContent.ts
 bun run scripts/generateSite.ts
 
 # Serve locally with auto-reload
@@ -287,21 +247,17 @@ bun run serve
 
 MIT License - feel free to use this for your own recipe collections!
 
-## 🤖 AI Enhancement Features
+## 🤖 Content Processing Features
 
 ### Automatic Content Analysis
 - **Content Scraping**: Extracts full text content from recipe URLs
 - **Image Download**: Automatically downloads and stores key images locally
 - **Metadata Extraction**: Pulls publication dates, authors, and structured data
 - **JSON-LD Processing**: Extracts and renders structured data (recipes, articles, products)
-- **AI-Powered Tagging**: Automatically generates relevant tags using Gemini AI
-- **Smart Summaries**: Creates concise summaries of recipe content
-- **Keyword Extraction**: Identifies key cooking terms and ingredients
+- **PDF Generation**: Creates archive.pdf files for each scraped article
 
 ### Enhanced Search & Display
 - **Full-Text Search**: Search through scraped content, not just titles
-- **Content Summaries**: Preview recipe content before visiting
-- **AI-Generated Tags**: Discover recipes through automatically assigned tags
 - **Rich Metadata**: Enhanced with publication dates, authors, and more
 - **Structured Data Rendering**: Beautiful display of recipe ingredients, instructions, nutrition
 - **Local Image Storage**: Fast loading with downloaded images stored locally
@@ -310,21 +266,12 @@ MIT License - feel free to use this for your own recipe collections!
 - **Smart Caching**: Avoids re-processing already scraped content
 - **Progress Preservation**: Saves each article immediately to prevent data loss
 - **Selective Refresh**: Only re-process articles older than specified date
-- **Cost Optimization**: Minimizes expensive LLM API calls
-- **Separated Stages**: Scraping and AI enrichment run independently
-- **Fault Tolerance**: If enrichment fails, scraped data is preserved
+- **Fault Tolerance**: Robust error handling preserves scraped data
+- **PDF Archives**: Generates PDF versions of articles for offline access
 
 ### Data Portability
 - **Dataset Export**: Download complete processed dataset from your site
 - **Backup & Restore**: Easily migrate between installations
-- **Version Control**: Track processing timestamps and metadata
-- **Incremental Updates**: Import existing datasets to avoid re-processing
-
-### Configuration
-- **Tag Definitions**: Customize AI tagging with `config/tags.json`
-- **Content Processing**: Handles various content types (HTML, JSON-LD, etc.)
-- **Error Handling**: Graceful fallbacks when scraping fails
-- **GitHub Actions Caching**: Automatically downloads and reuses existing data from GitHub Pages to avoid re-processing
 
 ## 📊 Features Overview
 
@@ -369,35 +316,32 @@ MIT License - feel free to use this for your own recipe collections!
 
 ## 🏗️ Data Architecture
 
-LinkHarbor uses a **two-phase architecture** that separates expensive operations from cheap site generation:
+Basted Pocket uses a **git-based architecture** that stores all scraped data permanently in version control:
 
-### Phase 1: Expensive Data Collection (`build_output/data/`)
-- **Web Scraping**: Downloads content, metadata, and images from URLs
-- **AI Enrichment**: Generates tags, summaries, and keywords using LLM APIs
-- **Flat File Storage**: Saves everything as individual JSON files + consolidated data
-- **Archival**: Creates `data.tar.gz` for preservation and reuse
+### Git-Based Data Storage (`archive/`)
+- **Permanent Storage**: All scraped data stored in git under `archive/` directory
+- **Version Control**: Complete history of all changes tracked in git
+- **Atomic Operations**: Prevents data corruption during scraping interruptions
+- **No External Dependencies**: No need to download or cache data from external sources
 
-### Phase 2: Cheap Site Generation (`dist/`)
-- **Fast Processing**: Reads from cached data files
+### Fast Site Generation (`dist/`)
+- **Fast Processing**: Reads from local git-tracked data files
 - **Static Site**: Generates HTML, CSS, JS from processed data
 - **No External Calls**: Pure file processing, runs in seconds
 
 ### Data Structure
 ```
-build_output/data/
-├── scraped/
-│   └── articleId/
-│       ├── data.json      # Scraped metadata and content
-│       ├── content.html   # Raw HTML content
-│       └── image.jpg      # Downloaded image
-└── enriched/
-    └── articleId/
-        └── data.json      # Enriched data with AI tags/summaries
+archive/
+└── articleId/
+    ├── data.json      # Scraped metadata and content
+    ├── content.html   # Raw HTML content
+    ├── image.jpg      # Downloaded image
+    └── archive.pdf    # PDF archive (optional)
 ```
 
 ### Workflow Benefits
-- **💰 Cost Efficient**: Reuse expensive LLM calls across runs
+- **🔒 Data Integrity**: All data permanently stored in git history
 - **⚡ Fast Rebuilds**: Site generation takes seconds, not minutes
 - **🔄 Incremental**: Only process new/stale content
-- **📦 Portable**: Archive and restore entire datasets
-- **🚀 CI/CD Friendly**: GitHub Actions downloads existing data automatically
+- **📦 Portable**: Clone repository to get complete dataset
+- **🚀 CI/CD Friendly**: GitHub Actions uses data directly from git

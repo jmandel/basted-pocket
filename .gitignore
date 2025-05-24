@@ -1,9 +1,32 @@
-# dependencies (bun install)
-node_modules
+# Dependencies
+node_modules/
+.bun/
+
+# Generated site files
+dist/
+
+# Environment variables
+.env
+
+# Temporary files
+*.tmp
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test files
+test-*.js
 
 # build outputs
 out
-dist
 build_output
 *.tgz
 *.tar.gz
@@ -23,12 +46,9 @@ coverage
 *.lcov
 
 # logs
-logs
-*.log
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
 # dotenv environment variable files
-.env
 .env.development.local
 .env.test.local
 .env.production.local
@@ -39,22 +59,16 @@ report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 .cache
 *.tsbuildinfo
 
-# IntelliJ based IDEs
-.idea
-
 # Finder (MacOS) folder config
 .DS_Store
-
-# VS Code
-.vscode/
 
 # Python cache (for local server)
 __pycache__/
 *.pyc
 
-# Temporary files
-*.tmp
-*.temp
-
 # Archive files
 pocket.zip
+
+# Prevent legacy wget directories
+**/wget-test/
+**/archives/wget*/

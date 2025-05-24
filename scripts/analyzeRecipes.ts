@@ -26,7 +26,7 @@ function analyzeRecipes(): RecipeAnalysis {
   const scrapedData = new Map<string, any>();
   
   // Load scraped content
-  const scrapedDirs = ['build_output/data/scraped', 'build_output/scraped'];
+  const scrapedDirs = ['archive'];
   for (const scrapedDir of scrapedDirs) {
     if (existsSync(scrapedDir)) {
       const articleDirs = require('fs').readdirSync(scrapedDir);

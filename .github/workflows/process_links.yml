@@ -41,72 +41,18 @@ jobs:
     - name: Install dependencies
       run: bun install
     
-    - name: Download existing metadata from GitHub Pages (non-blocking)
-      continue-on-error: true
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    - name: Install Playwright for PDF generation
       run: |
-        echo "🔍 Attempting to download existing metadata from GitHub Pages..."
-        
-        # Get the GitHub Pages URL (non-blocking)
-        pages_url=$(gh api "repos/$GITHUB_REPOSITORY/pages" --jq '.html_url' 2>/dev/null || echo "")
-        
-        if [ -n "$pages_url" ]; then
-          echo "📡 Found GitHub Pages URL: $pages_url"
-          
-          # Create build_output directory if it doesn't exist
-          mkdir -p build_output/data
-          
-          # Try to download existing data archive (non-blocking)
-          data_url="${pages_url}data.tar.gz"
-          echo "📦 Attempting to download data archive from: $data_url"
-          
-          if curl -f -s -L "$data_url" -o "build_output/data.tar.gz" 2>/dev/null; then
-            echo "✅ Successfully downloaded existing data archive"
-            
-            # Extract the complete data archive
-            if cd build_output && tar -xzf data.tar.gz 2>/dev/null && rm data.tar.gz && cd ..; then
-              if [ -d "build_output/data" ]; then
-                echo "📊 Extracted data directory with:"
-                echo "  - $(ls build_output/data/scraped/ 2>/dev/null | wc -l) scraped articles"
-                echo "  - $(ls build_output/data/enriched/ 2>/dev/null | wc -l) enriched articles"
-              fi
-            fi
-          else
-            echo "ℹ️  No existing data archive found (this is normal for first deployment)"
-            
-            # Try to download just the dataset as fallback (non-blocking)
-            dataset_url="${pages_url}dataset.json"
-            echo "📥 Attempting to download dataset from: $dataset_url"
-            
-            if curl -f -s -L "$dataset_url" -o "build_output/existing_dataset.json" 2>/dev/null; then
-              echo "✅ Successfully downloaded existing dataset as fallback"
-            else
-              echo "ℹ️  No existing dataset found (this is normal for first deployment)"
-            fi
-          fi
-        else
-          echo "ℹ️  GitHub Pages not yet configured or accessible"
-        fi
-        
-        echo "🏁 Metadata download attempt completed"
-
-    - name: Restore cached data
-      uses: actions/cache@v3
-      with:
-        path: |
-          build_output/data/
-        key: basted-pocket-data-${{ hashFiles('links.md') }}
-        restore-keys: |
-          basted-pocket-data-
-
+        bun install
+        bunx playwright install chromium
+    
     - name: Scrape content from URLs
       run: |
         # Only refresh scraped content older than 30 days
         REFRESH_DATE=$(date -d '30 days ago' --iso-8601)
-        bun run scripts/scrapeContent.ts --refresh-since $REFRESH_DATE
+        bun run scripts/scrapeContent.ts --refresh-older-than $REFRESH_DATE
 
-    - name: Generate static site (without enrichment to save API costs)
+    - name: Generate static site
       run: bun run scripts/generateSite.ts
     
     - name: Setup Pages

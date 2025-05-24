@@ -16,14 +16,11 @@ class ExampleExtractor {
   async extractExamples(): Promise<void> {
     console.log('🔍 Extracting examples of each JSON-LD type...\n');
     
-    const dataDirs = [
-      'build_output/data/scraped',
-      'build_output/scraped',
-      'build_output/data/enriched',
-      'build_output/enriched'
+    const scrapedDirs = [
+      'archive'
     ];
     
-    for (const dataDir of dataDirs) {
+    for (const dataDir of scrapedDirs) {
       if (existsSync(dataDir)) {
         const articleDirs = require('fs').readdirSync(dataDir);
         
