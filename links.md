@@ -2,6 +2,7 @@
 
 ## 2025
 
+- https://cooking.nytimes.com/recipes/1018180-perfect-buttermilk-pancakes #brunch
 - https://cooking.nytimes.com/recipes/1025743-chickpea-noodle-soup #dinner #recipe #soup #veg
 - https://cooking.nytimes.com/recipes/1026167-scallion-oil-fish #asian #dinner #fish
 - [Spicy Miso Lentil Soup Recipe](https://cooking.nytimes.com/recipes/1026788-spicy-miso-lentil-soup) #dinner #gf #recipe #soup #veg @note:Added_to_Pocket_on_2025-04-26
