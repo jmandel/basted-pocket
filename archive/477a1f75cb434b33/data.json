@@ -1,0 +1,571 @@
+{
+  "id": "477a1f75cb434b33",
+  "original_url": "https://cooking.nytimes.com/recipes/1025017-lemony-pearl-barley-soup",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025017-lemony-pearl-barley-soup",
+  "fetched_title": "Lemony Pearl Barley Soup Recipe",
+  "main_text_content": "High in comfort, low in fuss, this pearl barley soup answers the question of what to cook when one doesn’t feel like cooking Made with pantry staples, this simple soup beams with vibrancy Lemon transforms this hearty soup into a dish that also feels light and restorative, while dill, used generously, reinforces the citrus flavor while bringing an assertive herbaceous edge",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1021776-lemony-white-bean-soup-with-turkey-and-greens\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"Two white bowls of soup on a gray surface, with metal spoons. The soup is a red broth studded with greens, white beans and bits of ground turkey.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2021/03/21/dining/08Apperex/08Apperex-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2021/03/21/dining/08Apperex/08Apperex-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2021/03/21/dining/08Apperex/08Apperex-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2021/03/21/dining/08Apperex/08Apperex-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2021/03/21/dining/08Apperex/08Apperex-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2021/03/21/dining/08Apperex/08Apperex-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2021/03/21/dining/08Apperex/08Apperex-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2021/03/21/dining/08Apperex/08Apperex-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Lemony White Bean Soup With Turkey and Greens</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/02/22/multimedia/hm-pearl-barley-soup-wcbl/hm-pearl-barley-soup-wcbl-threeByTwoMediumAt2X-v3.jpg",
+  "local_image_path": "scraped/477a1f75cb434b33/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/b4311f06-15f6-5041-8e8b-82767691d0aa",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025017-lemony-pearl-barley-soup",
+        "@type": "WebPage",
+        "name": "Lemony Pearl Barley Soup"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025017-lemony-pearl-barley-soup",
+      "name": "Lemony Pearl Barley Soup",
+      "description": "High in comfort, low in fuss, this pearl barley soup answers the question of what to cook when one doesn’t feel like cooking. Made with pantry staples, this simple soup beams with vibrancy. Lemon transforms this hearty soup into a dish that also feels light and restorative, while dill, used generously, reinforces the citrus flavor while bringing an assertive herbaceous edge. Other herbs could step in for dill; consider parsley, cilantro or chives. Spinach is added right at the end, after the heat is turned off, which ensures that the greens maintain a little bite and stay bright. The soup will thicken over time, so if you are making it ahead or have leftovers, simply loosen it up with more stock or water when reheating.",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/811e7691-6660-584d-9295-0b5603b56bc8#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/22/multimedia/hm-pearl-barley-soup-wcbl/hm-pearl-barley-soup-wcbl-videoSixteenByNineJumbo1600-v3.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-02-27T16:13:10.768Z",
+          "datePublished": "2024-02-22T21:20:54.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-22T21:20:54.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/22/multimedia/hm-pearl-barley-soup-wcbl/hm-pearl-barley-soup-wcbl-videoSixteenByNineJumbo1600-v3.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/811e7691-6660-584d-9295-0b5603b56bc8#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/22/multimedia/hm-pearl-barley-soup-wcbl/hm-pearl-barley-soup-wcbl-googleFourByThree-v3.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-02-27T16:13:10.768Z",
+          "datePublished": "2024-02-22T21:20:54.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-22T21:20:54.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/22/multimedia/hm-pearl-barley-soup-wcbl/hm-pearl-barley-soup-wcbl-googleFourByThree-v3.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/811e7691-6660-584d-9295-0b5603b56bc8#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/22/multimedia/hm-pearl-barley-soup-wcbl/hm-pearl-barley-soup-wcbl-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-02-27T16:13:10.768Z",
+          "datePublished": "2024-02-22T21:20:54.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-22T21:20:54.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/22/multimedia/hm-pearl-barley-soup-wcbl/hm-pearl-barley-soup-wcbl-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT35M",
+      "totalTime": "PT45M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, quick, weeknight, one pot, appetizer, main course",
+      "keywords": "dill, lemon juice, partial-access-ic, pearl barley, soup, spinach, stovetop, fall, spring, winter, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 1838
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 238,
+        "unsaturatedFatContent": "6 grams",
+        "carbohydrateContent": "38 grams",
+        "cholesterolContent": null,
+        "fatContent": "8 grams",
+        "fiberContent": "9 grams",
+        "proteinContent": "7 grams",
+        "saturatedFatContent": "1 gram",
+        "sodiumContent": "1101 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "Extra-virgin olive oil",
+        "1 yellow onion, finely diced",
+        "2 garlic cloves, finely chopped",
+        "2 celery stalks, thinly sliced",
+        "1 cup chopped fresh dill leaves and stalks",
+        "Salt (preferably sea salt) and black pepper",
+        "1 cup/6 ounces pearl barley",
+        "6 cups vegetable stock",
+        "3 to 4 tablespoons lemon juice (from 1 large lemon), plus extra wedges to serve",
+        "2 ounces baby spinach",
+        "Greek yogurt, coconut yogurt or crème fraîche, to serve"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat a large pot over medium-high. Add 1 to 2 tablespoons of olive oil along with the onion and cook, stirring, until softened, 2 to 3 minutes. Add the garlic, celery, half the dill and 1/2 teaspoon salt and stir until fragrant, 1 to 2 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the pearl barley and stock and bring to the boil. Cover, reduce heat to medium and cook, stirring occasionally, until the barley is swollen and tender, 25 to 30 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Turn off the heat. Add the lemon juice, and season with salt and pepper. Taste and make sure the seasonings are to your liking, adjusting salt and lemon as needed."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Stir in the spinach, allowing the residual heat to wilt the leaves."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Ladle the soup into bowls. Top with a dollop of yogurt and the remaining dill and drizzle generously with olive oil."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-02-22T00:00:00.000Z",
+      "dateModified": "2024-02-22T21:22:07.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gina"
+          },
+          "reviewBody": "I made two modifications- I swapped out dill for cilantro, and used farro rather pearled barley. The soup was springy and bright, but neither of us liked it enough to make it again. It was fine but nothing special.",
+          "datePublished": "2025-05-19T23:38:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AllAtOnce"
+          },
+          "reviewBody": "So wonderful! I added carrot and white northen beans. To spice it up, I did add some red pepper flakes and Calabrian pepper inflused oil, in addition to more lemon juice. Truly good and super easy.",
+          "datePublished": "2025-04-17T18:15:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharon"
+          },
+          "reviewBody": "Nice healthy soup that was easy. Used chicken broth and 2/3 barley. Lemon as always makes the soup.",
+          "datePublished": "2025-04-04T19:10:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "krd"
+          },
+          "reviewBody": "This is great! It’s so easy, you could make it with your eyes closed. I used farro because it’s what I always have in the house — highly recommend. I added parsley in with the dill too. And I served it with a lemon squeeze with the rest of the toppings instead of stirring the juice into the pot.",
+          "datePublished": "2025-04-01T01:01:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "dona"
+          },
+          "reviewBody": "@Begum\nIt’s like the Hanukkah oil- no matter how much liquid you add to mushroom barley( or this one I’m sure) soup , by the next day you have to add more and then the next day….the pot of soup just keeps on going!",
+          "datePublished": "2025-04-20T23:19:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Begum"
+          },
+          "reviewBody": "It’s always the same with these grainy/starchy recipes. The proportions are fine when you first make it, and next day, almost all of the liquid has been absorbed. You need way more liquids for this recipe. I’d start with 50% more next time.",
+          "datePublished": "2025-03-31T16:36:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristin Kosmider"
+          },
+          "reviewBody": "Doubled the recipe, add 4 shredded chicken thighs plus 4 additional cups of liquid. Dried dill just doesn't cut it, find fresh as suggested.",
+          "datePublished": "2025-03-02T17:13:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BA"
+          },
+          "reviewBody": "This is a keeper. Added diced potato and sliced carrot as reviewers suggested, and a heaping teaspoon of Better Than Bouillon to soup. Helped spike the flavor. Used a shy 1/4 cup of dried dill in lieu of fresh.",
+          "datePublished": "2025-02-18T02:31:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "bsj40052"
+          },
+          "reviewBody": "Wow! Made this on a snowy, icy day. Used rice (because that is what we had) and followed the suggestions of adding cooked chicken and carrots.   The lemon, Greek yogurt…wonderful flavor. Added large croutons, glass of wine…we will absolutely be making this again.",
+          "datePublished": "2025-02-16T20:05:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JMF"
+          },
+          "reviewBody": "Sooooooo gooood. Great flavors. We loved this soup. On my top 5 list of NYT recipes now.",
+          "datePublished": "2025-02-16T03:48:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennifer"
+          },
+          "reviewBody": "This is really delicious. \nI took an idea from someone else in the comments and used orzo. I also added a shallot and two sliced up chicken apple sausages. Really yummy.",
+          "datePublished": "2025-02-15T22:29:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michelle"
+          },
+          "reviewBody": "Just made this delicious soup that tastes very healthy and satisfying. From reading the comments, I added a chopped carrot and a cubed small Yukon gold potato to the sauté with the onions, celery, and garlic. Also added a shredded rotisserie chicken breast and a drained can of garbanzo beans with the half vegetable broth and half chicken broth. Followed the rest of the recipe as is. Highly recommend! So yummy with hard crust baked rolls. Used nonfat Greek yogurt dollop on top of each serving.",
+          "datePublished": "2025-02-14T03:01:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lucy"
+          },
+          "reviewBody": "I’ve made this several times, and it’s become a favorite for when I want something both cozy and bright. I use farro since that’s what I usually have on hand, I’ll skip the celery if I don’t have it and it’s still great. I tried it with parsley once and it was fine, but dill is definitely where it’s at. My favorite tweak is adding Changing Seas’ roasted, peppered salmon to serve, which gives it some smoky peppery-ness and makes it feel like a full meal.",
+          "datePublished": "2025-02-06T01:05:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amelie Phaine"
+          },
+          "reviewBody": "Very good, added rotisserie chicken to make it into a main. Will make again!",
+          "datePublished": "2025-02-05T00:52:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "noelle"
+          },
+          "reviewBody": "Fantastic as written.  Fresh, filling and making it again. I only used half a cup of dill (I omitted the serving dill and it was perfect).",
+          "datePublished": "2025-02-02T00:06:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "Added a can of artichoke hearts (in water), chopped - and thought it was a great addition!",
+          "datePublished": "2025-01-30T00:06:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Libby"
+          },
+          "reviewBody": "This was yummy! Added 2 carrots simply because I had them. Think it would be really good with orzo in place of the barley, too…",
+          "datePublished": "2024-02-25T23:21:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sag Harbor Kitchen"
+          },
+          "reviewBody": "“Barley” Any Work… feels like such a missed pun opportunity!!\n\nThis was delicious! Will make again… we added a pinch of cayenne (or try some chili flakes) for a little kick, and finished with chopped charred shrimp. Next time we will add some small diced Yukon Gold potatoes to thicken (or blend into the stock ahead of time to make it a bit heartier).",
+          "datePublished": "2024-02-26T16:15:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Outonalimb62"
+          },
+          "reviewBody": "Am I crazy to think a soft poached egg would be good in this? Maybe, but I’ve done crazier things.",
+          "datePublished": "2024-03-01T04:16:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "tinaindenver"
+          },
+          "reviewBody": "Made this tonight exactly as written and it was quite good and relatively quick to make as soups go.",
+          "datePublished": "2024-02-24T02:54:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Abby"
+          },
+          "reviewBody": "I’ve always loved this soup but I make it somewhat differently.  I make it with lamb broth from neck bones and add lots of carrots as well.  Dill and parsley are both good together in this soup. I usually add nearly an entire bunch of parsley as well as the dill called for.  Served with a hunk of sour dough bread, it makes a wonderful dinner all fall and winter.",
+          "datePublished": "2024-02-26T17:01:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vicky Green"
+          },
+          "reviewBody": "This soup is perfect for late winter into spring. The barley is a substantial winter soup base, but the fresh spinach and lemon juice add brightness. I stirred a drizzle of olive oil into the pot before serving -- it always seems to bring flavors together in a vegetable soup or stew. Then served with crusty bread. Delicious.",
+          "datePublished": "2024-02-26T22:08:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chickenfog"
+          },
+          "reviewBody": "I am in the same boat. I'm going to keep the veg separate until the last 1/2 hour of boiling in broth. I'm going to double the time. So 30 mins w/ broth and barley, no veg, then toss the veg in for the last 30. Good luck to us both!",
+          "datePublished": "2024-02-26T16:27:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ResearchDepartment"
+          },
+          "reviewBody": "Not a dill fan myself.  I noted in the headnotes that McKinnon suggests parsley, cilantro, or chives if you don’t go for the dill.",
+          "datePublished": "2024-02-26T16:34:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sabina"
+          },
+          "reviewBody": "I think I will try this with an addition of some sorrel from the garden added at the end with the spinach.",
+          "datePublished": "2024-02-26T17:11:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michelle"
+          },
+          "reviewBody": "I used quick cooking farro because that is what I had on hand. Also used garbanzo beans and some leftover dutch yellow baby potatoes to give this some heft. I think the dill adds something special and I would aim for more lemon!",
+          "datePublished": "2024-02-26T22:09:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily Hillegonds"
+          },
+          "reviewBody": "This was delicious and easy.  About 10 minutes after I added the \"barley\" I realized that I actually added lentils instead!  I was super sad at first, but it turned out awesome anyway!  My husband isn't a huge soup fan, and even he gave this a high rating.  The dill is such a bright, fresh addition, I wouldn't skip it.  I'm making this again tonight with *hopefully* barley this time.  This recipe is a keeper!  Thank you!",
+          "datePublished": "2024-03-09T18:51:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "shugebeck"
+          },
+          "reviewBody": "This soup was very bland so I added fresh garlic, za'tar seasoning and like the other readers, I threw in more veggies because I had them on hand, carrots, a poblano pepper and I added a can of garbanzo beans.  Then it tasted yummy!",
+          "datePublished": "2024-03-02T15:03:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chuck"
+          },
+          "reviewBody": "This may have been mentioned farther down the thread but you can also make the barley portion of this soup (steps 1 & 2) in the Instant Pot. GENERAL rule of thumb is that cooking time in the IP is 1/3 that of stovetop. In this case that would be approximately 8–10 minutes, depending on your cooker. Then add the greens, herbs, and seasoning once the pressure has released, while it is on warm.",
+          "datePublished": "2024-10-23T22:15:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dorothy"
+          },
+          "reviewBody": "I love this light, brothy soup! It has become my new go-to soup. (It helps that I adore dill.) I haven't added or detracted anything - I like it as is.  Have made it 3 times and had lots of compliments.",
+          "datePublished": "2024-11-14T03:30:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "WendyD"
+          },
+          "reviewBody": "Delicious! Added carrots as m.y celery was limited; and used fresh thyme as I was out of other fresh herbs. I can’t have garlic, so substituted fresh chopped ginger. I’ll make this again!",
+          "datePublished": "2024-03-24T00:47:49.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025017-lemony-pearl-barley-soup",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "High in comfort, low in fuss, this pearl barley soup answers the question of what to cook when one doesn’t feel like cooking. Made with pantry staples, this simple soup beams with vibrancy. Lemon transforms this hearty soup into a dish that also feels light and restorative, while dill, used generously, reinforces the citrus flavor while bringing an assertive herbaceous edge. Other herbs could step in for dill; consider parsley, cilantro or chives. Spinach is added right at the end, after the heat is turned off, which ensures that the greens maintain a little bite and stay bright. The soup will thicken over time, so if you are making it ahead or have leftovers, simply loosen it up with more stock or water when reheating.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Lemony Pearl Barley Soup",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/811e7691-6660-584d-9295-0b5603b56bc8#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/22/multimedia/hm-pearl-barley-soup-wcbl/hm-pearl-barley-soup-wcbl-videoSixteenByNineJumbo1600-v3.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-02-27T16:13:10.768Z",
+          "datePublished": "2024-02-22T21:20:54.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-22T21:20:54.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/22/multimedia/hm-pearl-barley-soup-wcbl/hm-pearl-barley-soup-wcbl-videoSixteenByNineJumbo1600-v3.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/811e7691-6660-584d-9295-0b5603b56bc8#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/22/multimedia/hm-pearl-barley-soup-wcbl/hm-pearl-barley-soup-wcbl-googleFourByThree-v3.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-02-27T16:13:10.768Z",
+          "datePublished": "2024-02-22T21:20:54.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-22T21:20:54.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/22/multimedia/hm-pearl-barley-soup-wcbl/hm-pearl-barley-soup-wcbl-googleFourByThree-v3.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/811e7691-6660-584d-9295-0b5603b56bc8#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/22/multimedia/hm-pearl-barley-soup-wcbl/hm-pearl-barley-soup-wcbl-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-02-27T16:13:10.768Z",
+          "datePublished": "2024-02-22T21:20:54.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-22T21:20:54.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/22/multimedia/hm-pearl-barley-soup-wcbl/hm-pearl-barley-soup-wcbl-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025017-lemony-pearl-barley-soup"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:19:15.656Z",
+  "scraping_status": "scraped"
+}

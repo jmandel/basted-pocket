@@ -1,0 +1,540 @@
+{
+  "id": "d10c5cfeffad6cda",
+  "original_url": "https://cooking.nytimes.com/recipes/1020854-rice-cake-soup-with-bok-choy-and-edamame",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1020854-rice-cake-soup-with-bok-choy-and-edamame",
+  "fetched_title": "Rice Cake Soup With Bok Choy and Edamame Recipe",
+  "main_text_content": "This fresh soup is a riff on something that a Chinese or Korean mom might make, with rice cakes added to bulk it up You can find the white, oval disks in most Asian supermarkets; they are made with glutinous rice flour and have a chewy texture They are precooked, but will rehydrate and soak up more liquid in this soup",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/12048-rice-and-egg-soup\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2014/05/21/dining/Rice-and-Egg-Soup/Rice-and-Egg-Soup-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2014/05/21/dining/Rice-and-Egg-Soup/Rice-and-Egg-Soup-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2014/05/21/dining/Rice-and-Egg-Soup/Rice-and-Egg-Soup-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2014/05/21/dining/Rice-and-Egg-Soup/Rice-and-Egg-Soup-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2014/05/21/dining/Rice-and-Egg-Soup/Rice-and-Egg-Soup-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2014/05/21/dining/Rice-and-Egg-Soup/Rice-and-Egg-Soup-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Rice-and-Egg Soup</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Daniel Patterson</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2020/12/13/dining/sl-rice-cake-soup/sl-rice-cake-soup-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/d10c5cfeffad6cda/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/0861282b-ba44-55fc-9f1d-ddd5f5239e57",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1020854-rice-cake-soup-with-bok-choy-and-edamame",
+        "@type": "WebPage",
+        "name": "Rice Cake Soup With Bok Choy and Edamame"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020854-rice-cake-soup-with-bok-choy-and-edamame",
+      "name": "Rice Cake Soup With Bok Choy and Edamame",
+      "description": "This fresh soup is a riff on something that a Chinese or Korean mom might make, with rice cakes added to bulk it up. You can find the white, oval disks in most Asian supermarkets; they are made with glutinous rice flour and have a chewy texture. They are precooked, but will rehydrate and soak up more liquid in this soup. If you find that they have soaked up too much, simply add a little more broth or water to thin out the soup. Substituting one to two cups of cooked rice to the soup in place of the rice cakes works well if you don't have access to an Asian grocery store.",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Li"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/fcdf13ae-310a-5a87-9b54-3fe26ae4f799#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/12/13/dining/sl-rice-cake-soup/sl-rice-cake-soup-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Andrew Purcell for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2020-12-11T17:30:00.508Z",
+          "datePublished": "2020-02-06T15:28:43.000Z",
+          "height": "899",
+          "representativeOfPage": true,
+          "uploadDate": "2020-02-06T15:28:43.000Z",
+          "url": "https://static01.nyt.com/images/2020/12/13/dining/sl-rice-cake-soup/sl-rice-cake-soup-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/fcdf13ae-310a-5a87-9b54-3fe26ae4f799#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/12/13/dining/sl-rice-cake-soup/sl-rice-cake-soup-superJumbo.jpg",
+          "creditText": "Andrew Purcell for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2020-12-11T17:30:00.508Z",
+          "datePublished": "2020-02-06T15:28:43.000Z",
+          "height": "1579",
+          "representativeOfPage": true,
+          "uploadDate": "2020-02-06T15:28:43.000Z",
+          "url": "https://static01.nyt.com/images/2020/12/13/dining/sl-rice-cake-soup/sl-rice-cake-soup-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/fcdf13ae-310a-5a87-9b54-3fe26ae4f799#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/12/13/dining/sl-rice-cake-soup/sl-rice-cake-soup-square640.jpg",
+          "creditText": "Andrew Purcell for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2020-12-11T17:30:00.508Z",
+          "datePublished": "2020-02-06T15:28:43.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2020-02-06T15:28:43.000Z",
+          "url": "https://static01.nyt.com/images/2020/12/13/dining/sl-rice-cake-soup/sl-rice-cake-soup-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, quick, weeknight, noodles, vegetables, main course",
+      "keywords": "bok choy, ginger, leek, partial-access-ic, scallion, soup",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 746
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 620,
+        "unsaturatedFatContent": "19 grams",
+        "carbohydrateContent": "82 grams",
+        "cholesterolContent": null,
+        "fatContent": "24 grams",
+        "fiberContent": "8 grams",
+        "proteinContent": "22 grams",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "1226 milligrams",
+        "sugarContent": "9 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1/4 cup vegetable oil",
+        "2 medium leeks, trimmed, white and light green parts cut into 1/4-inch rounds",
+        "1 bunch scallions (about 6), whites and greens separated, thinly sliced",
+        "1 (1-inch) piece fresh ginger, peeled and thinly sliced",
+        "Kosher salt and black pepper",
+        "4 cups chicken stock",
+        "2 medium heads baby bok choy (about 8 ounces), trimmed, stems and leaves divided, stems cut into bite-size pieces",
+        "2 cups fresh or frozen rice cakes (about 10 ounces)",
+        "1 cup frozen shelled edamame",
+        "2 large eggs, lightly beaten",
+        "1 tablespoon apple cider vinegar"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a pot, heat oil over medium-high. Add leeks, scallion whites and ginger, and season with salt and pepper. Cook, stirring occasionally, until lightly golden at the edges and softened, 7 to 8 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add chicken stock and bok choy stems, and bring to a boil over high. Reduce the heat and simmer and cook until the broth is flavorful, about 10 minutes. Add rice cakes and simmer until plump, about 8 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add edamame and bok choy leaves and stir until bright green, about 1 minute. Swirl in the beaten eggs in a slow, steady stream, stirring gently to make sure the eggs form long ribbons. Stir in the vinegar; season with salt and pepper. Divide among bowls and top with remaining scallion greens."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2020-02-06T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sjv"
+          },
+          "reviewBody": "Our 7yo said, Iit tastes like ramen! My taste buds are like Yay yay yay!!!”[wiggly dance with arm thrown up] \n\nI added garlic at beginning and browned the leeks deeply. At the end, I added fish sauce and sesame oil.",
+          "datePublished": "2025-05-09T23:27:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mindy"
+          },
+          "reviewBody": "Super good. Someone’s suggestion to add sesame oil was excellent. Adding soy sauce after my first taste did wonders to bring it all together. Though here in San Francisco Bay Area, we have a lot of Asian grocery stores, if you don’t, but have Trader Joe’s, you should find all the ingredients.",
+          "datePublished": "2025-03-16T03:03:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kz"
+          },
+          "reviewBody": "The ginger is key to flavor.  I also added pre-cooked shrimp at the end.",
+          "datePublished": "2025-02-19T14:52:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Talia"
+          },
+          "reviewBody": "Super delicious! My one gripe is that there isn’t nearly enough broth—I had to nearly double it for everything to properly fit and still be soup-like. The second time I made this, I threw in some enoki mushrooms and sesame oil, just to shake things up, and it was very tasty as well. Later, I even did a little experiment with chili oil! This soup is lovely after a cold day, and it’s been in my permanent dinner rotation since the first time I made it.",
+          "datePublished": "2024-12-20T01:54:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jourdan"
+          },
+          "reviewBody": "This was great. Much heartier than your average vegetable soup. I did as other commenters suggested and added garlic and sesame oil.",
+          "datePublished": "2024-12-15T20:14:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leslie"
+          },
+          "reviewBody": "I thought rice snack cakes were called for too so I am not guffawing!",
+          "datePublished": "2024-11-25T18:45:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AP"
+          },
+          "reviewBody": "I just made this as written and I think what’s missing is white pepper.",
+          "datePublished": "2024-11-17T00:25:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hyun"
+          },
+          "reviewBody": "The best simple rice cake soup for the midweek dinner on a rainy pnw day. So simple and so delicious! Our kids devour it and ask for more. \n\nRight kind of rice cake is important. There are rice cakes and rice cakes but some aren’t tasty in texture and taste. I recommend “pulmuone”brand from Korea. I rinse my rice cakes under the hot water for a while. Or soak them in a hot tap water before adding them to the soup. They should be nicely soft in texture at the time you put them in the soup.\n\nI love adding little bit of sesame oil with the regular oil at the beginning when sautéing leeks and green onions and ginger (grated!). I usually use Swanson chicken broth but add more water to the soup. \n\nI am uncertain if the vinegar does anything to it for my taste but with eggs, I do use vinegar at the end. If I am not adding eggs, I sometimes leave the vinegar out. \n\nThe broth is not bland. If you would like more flavor, you could get good Korean soup soy sauce to add (a couple tablespoons of it would do).",
+          "datePublished": "2024-11-08T01:36:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "April"
+          },
+          "reviewBody": "Suggestions:\n•Add 6 cloves diced garlic\n•Add 1/4 cup of Julienne ginger\n•Add 2 spoon full of fish sauce when leeks, scallions, and ginger are cooking down\n•No Apple cider vinegar\n•No egg\n•Finish with sesame seeds and Seaweed, side of kimchi \n\n10/10",
+          "datePublished": "2024-11-05T01:35:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NNL"
+          },
+          "reviewBody": "I loved this recipe for how clearly the rice cake texture is celebrated. I almost always make tteokbokki with rice cakes and it was nice to try them in a totally different kind of recipe and open up a slightly different dimension for them. I used chicken broth which gave it that savory comfort food feel and added some pan cooked shitake mushrooms to this to add a little bit more \"meatiness\". Eating a bite with a bit of chile crisp on my spoon to add a bit of a kick where I wanted. Really tasty.",
+          "datePublished": "2024-10-25T13:01:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MZH"
+          },
+          "reviewBody": "I agree with all who called it an excellent recipe.It is a soothing delicately flavored light soup.It doesn't require any changes being perfect as it is and I love the rice cakes.",
+          "datePublished": "2024-08-27T22:38:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol"
+          },
+          "reviewBody": "Made according to the directions, except I couldn’t find rice cakes so I subbed white rice. Soooo delish! It’s crazy how much flavor is developed in such a short cook time. Healthy, quick, easy and delicious! Will add this to the rotation.",
+          "datePublished": "2024-04-24T23:03:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bob Don"
+          },
+          "reviewBody": "This one was really good. I couldn't find rice cakes, but I added some frozen udon noodles and it was delicious.",
+          "datePublished": "2024-04-17T20:56:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Olivia"
+          },
+          "reviewBody": "Delicious! Mine turned out with a porridge-like texture, which was perfect for a rainy day.",
+          "datePublished": "2024-04-15T03:51:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Monique"
+          },
+          "reviewBody": "Delicious, healthful, and comforting. Made a few small mods:\n-Veganized by using veg broth and replacing the eggs with chopped bean curd sticks\n-Used rice vinegar instead of apple cider vinegar\n-Added a dash of soy sauce and finished with chili crisp",
+          "datePublished": "2024-02-19T13:34:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Frances Leftwich"
+          },
+          "reviewBody": "Interesting taste but I got the wrong kind of rice cakes so I can't really judge it until I get the right kind, not rice cake snacks.  Don't you dare laugh!",
+          "datePublished": "2020-11-21T21:25:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Luke Wang"
+          },
+          "reviewBody": "Having cooked rice cakes many times, the texture will never not be chewy. That's one of the beauty of rice cakes and why I love them so much. The texture should remain soft and chewy. If you prefer them to be less rubbery, I actually recommend cooking them less so they remain more toothsome. They release more starch the longer you cook them which at a delicate balance can create a rich creamy broth without any butter or cream.",
+          "datePublished": "2020-02-10T23:06:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ron"
+          },
+          "reviewBody": "What a fantastic recipe! No changes except added garlic with the ginger, and a splash of sesame oil with the vinegar. Try to find the rice cakes! They add a wonderful texture. I get them in 1.5 bags in the Asian grocery store freezer case, clear plastic bag, Sam Hak brand.",
+          "datePublished": "2020-03-11T01:36:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jami_no"
+          },
+          "reviewBody": "As a Korean, we typically use anchovy based broths for this type of dish. This can include dried anchovy, dashima (kelp), or dried shrimp in addition to various veggies and you take it all out when broth is done. Adding this might add flavor for those who have noted this recipe is a bit bland.",
+          "datePublished": "2021-04-29T22:26:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca"
+          },
+          "reviewBody": "With a few tweaks this is SOOOO good. Perfect rainy/sick day soup. I doubled the ginger, added two cloves of garlic, and threw in some sesame oil at the end. Be sure to add plenty of salt or the rice cakes will be bland.",
+          "datePublished": "2022-02-07T22:55:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "deroper"
+          },
+          "reviewBody": "Rice cakes are chewy/rubbery by nature - they don't get soft and pillowy even though they look like should.",
+          "datePublished": "2020-02-10T23:32:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Clara"
+          },
+          "reviewBody": "Idk what people mean by bland. This is delicious—tastes exactly like the one my mom makes. Sorry your palette hasn't broadened past Western cuisine and you require random & broadly Asian ingredients to ! add complexity ! (but not really) your dish.\n\nI used vegetable stock and added in some soy puffs. 10/10. Would make over and over again.",
+          "datePublished": "2021-09-23T23:45:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anna G"
+          },
+          "reviewBody": "Followed the recommendations from other readers and added a healthy amount of garlic, a splash of sesame oil upon finishing, and it was delicious - comparable to an asian riff on a chicken noodle soup in terms of flavour and comfort. Would definitely make again! I really don't get the fuss about it being bland, but it's great for a rainy winter day - a simple but effective recipe.",
+          "datePublished": "2023-01-31T20:32:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tanya"
+          },
+          "reviewBody": "This was much better on the second day than the first for me. This was rather easy to throw together and much heartier than I expected. But I found it kind of bland. It needed more seasoning than just salt and pepper and a splash of vinegar. I wasn't really sure how to \"fix\" it. I also think it was too low in protein to make it super satiating. I wouldn't make it again, but it introduced me rice cakes and bok choy so that was nice.",
+          "datePublished": "2020-12-21T17:29:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sophia"
+          },
+          "reviewBody": "This was really disappointing. I love soups, I love veggies, I love rice cakes, so I was thrilled to come across this recipe. I was into the ingredients list. But.... it was SO bland. I kept tasting and adding salt, then adding fish sauce, then adding sesame oil, then adding chili sauce, just to get some sort of flavor going. Never really got there in the end.",
+          "datePublished": "2021-01-04T03:13:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Izzy"
+          },
+          "reviewBody": "This is one of my favorite soups, however, I do make a few changes to match my taste better. I’m not a fan of the texture of rice cakes, so I add frozen wontons instead. I also like to replace a tablespoon of olive oil with toasted sesame oil. The last adjustment I make is adding soy sauce and Huy Fong garlic chili paste for added flavor.",
+          "datePublished": "2021-11-15T03:34:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marcy"
+          },
+          "reviewBody": "I plan on using tofu instead of rice cakes.",
+          "datePublished": "2020-12-15T19:57:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Endersonline"
+          },
+          "reviewBody": "I love this recipe. Keys for me: brown the leeks well so you get that nice umami. I used a higher-end vegetable broth and added some ground pepper and found the flavor really tasty. It is a perfect recipe for using frozen rice cake noodles from our Asian grocery - highly recommend as a comforting dish, great for vegetarians.",
+          "datePublished": "2022-02-11T21:47:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hyun"
+          },
+          "reviewBody": "The best simple rice cake soup for the midweek dinner on a rainy pnw day. So simple and so delicious! Our kids devour it and ask for more. \n\nRight kind of rice cake is important. There are rice cakes and rice cakes but some aren’t tasty in texture and taste. I recommend “pulmuone”brand from Korea. I rinse my rice cakes under the hot water for a while. Or soak them in a hot tap water before adding them to the soup. They should be nicely soft in texture at the time you put them in the soup.\n\nI love adding little bit of sesame oil with the regular oil at the beginning when sautéing leeks and green onions and ginger (grated!). I usually use Swanson chicken broth but add more water to the soup. \n\nI am uncertain if the vinegar does anything to it for my taste but with eggs, I do use vinegar at the end. If I am not adding eggs, I sometimes leave the vinegar out. \n\nThe broth is not bland. If you would like more flavor, you could get good Korean soup soy sauce to add (a couple tablespoons of it would do).",
+          "datePublished": "2024-11-08T01:36:41.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1020854-rice-cake-soup-with-bok-choy-and-edamame",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Li"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020,
+      "description": "This fresh soup is a riff on something that a Chinese or Korean mom might make, with rice cakes added to bulk it up. You can find the white, oval disks in most Asian supermarkets; they are made with glutinous rice flour and have a chewy texture. They are precooked, but will rehydrate and soak up more liquid in this soup. If you find that they have soaked up too much, simply add a little more broth or water to thin out the soup. Substituting one to two cups of cooked rice to the soup in place of the rice cakes works well if you don't have access to an Asian grocery store.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Rice Cake Soup With Bok Choy and Edamame",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/fcdf13ae-310a-5a87-9b54-3fe26ae4f799#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/12/13/dining/sl-rice-cake-soup/sl-rice-cake-soup-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Andrew Purcell for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2020-12-11T17:30:00.508Z",
+          "datePublished": "2020-02-06T15:28:43.000Z",
+          "height": "899",
+          "representativeOfPage": true,
+          "uploadDate": "2020-02-06T15:28:43.000Z",
+          "url": "https://static01.nyt.com/images/2020/12/13/dining/sl-rice-cake-soup/sl-rice-cake-soup-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/fcdf13ae-310a-5a87-9b54-3fe26ae4f799#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/12/13/dining/sl-rice-cake-soup/sl-rice-cake-soup-superJumbo.jpg",
+          "creditText": "Andrew Purcell for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2020-12-11T17:30:00.508Z",
+          "datePublished": "2020-02-06T15:28:43.000Z",
+          "height": "1579",
+          "representativeOfPage": true,
+          "uploadDate": "2020-02-06T15:28:43.000Z",
+          "url": "https://static01.nyt.com/images/2020/12/13/dining/sl-rice-cake-soup/sl-rice-cake-soup-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/fcdf13ae-310a-5a87-9b54-3fe26ae4f799#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/12/13/dining/sl-rice-cake-soup/sl-rice-cake-soup-square640.jpg",
+          "creditText": "Andrew Purcell for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2020-12-11T17:30:00.508Z",
+          "datePublished": "2020-02-06T15:28:43.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2020-02-06T15:28:43.000Z",
+          "url": "https://static01.nyt.com/images/2020/12/13/dining/sl-rice-cake-soup/sl-rice-cake-soup-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020854-rice-cake-soup-with-bok-choy-and-edamame"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:33:11.484Z",
+  "scraping_status": "scraped"
+}

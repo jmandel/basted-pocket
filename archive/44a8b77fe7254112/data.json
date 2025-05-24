@@ -1,0 +1,560 @@
+{
+  "id": "44a8b77fe7254112",
+  "original_url": "https://cooking.nytimes.com/recipes/1021030-spring-tofu-soup",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021030-spring-tofu-soup",
+  "fetched_title": "Spring Tofu Soup Recipe",
+  "main_text_content": "This versatile (coincidentally vegan) soup can be customized with most quick-cooking vegetables — thinly sliced asparagus could easily be thinly sliced turnips or radishes — and whatever tofu you have access to If tofu isn’t your thing, this soup would also be a great place to add any leftover chicken to warm through or shrimp to cook in the broth The lemon at the end will breathe a lot of much-needed life into this broth built mostly from pantry staples, but a splash of rice wine vinegar would also do the trick.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1023051-spring-barley-soup\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Spring Barley Soup</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Ali Slagle</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2020/04/29/dining/27Romanrex/27Romanrex-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/44a8b77fe7254112/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/9fdf9b95-78a8-5632-bcf6-a29bce783b7b",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021030-spring-tofu-soup",
+        "@type": "WebPage",
+        "name": "Spring Tofu Soup"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021030-spring-tofu-soup",
+      "name": "Spring Tofu Soup",
+      "description": "This versatile (coincidentally vegan) soup can be customized with most quick-cooking vegetables — thinly sliced asparagus could easily be thinly sliced turnips or radishes — and whatever tofu you have access to. If tofu isn’t your thing, this soup would also be a great place to add any leftover chicken to warm through or shrimp to cook in the broth. The lemon at the end will breathe a lot of much-needed life into this broth built mostly from pantry staples, but a splash of rice wine vinegar would also do the trick.",
+      "author": {
+        "@type": "Person",
+        "name": "Alison Roman"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/484ef83e-b9e3-5f61-9821-59e8429e8f6b#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/04/29/dining/27Romanrex/27Romanrex-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Michael Graydon & Nikole Herriott for The New York Times. Prop Stylist: Kalen Kaminski.",
+          "dateModified": "2020-04-27T19:30:35.108Z",
+          "datePublished": "2020-04-27T19:30:35.108Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-04-27T19:30:35.108Z",
+          "url": "https://static01.nyt.com/images/2020/04/29/dining/27Romanrex/27Romanrex-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/484ef83e-b9e3-5f61-9821-59e8429e8f6b#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/04/29/dining/27Romanrex/27Romanrex-superJumbo.jpg",
+          "creditText": "Michael Graydon & Nikole Herriott for The New York Times. Prop Stylist: Kalen Kaminski.",
+          "dateModified": "2020-04-27T19:30:35.108Z",
+          "datePublished": "2020-04-27T19:30:35.108Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2020-04-27T19:30:35.108Z",
+          "url": "https://static01.nyt.com/images/2020/04/29/dining/27Romanrex/27Romanrex-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/484ef83e-b9e3-5f61-9821-59e8429e8f6b#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/04/29/dining/27Romanrex/27Romanrex-mediumSquareAt3X.jpg",
+          "creditText": "Michael Graydon & Nikole Herriott for The New York Times. Prop Stylist: Kalen Kaminski.",
+          "dateModified": "2020-04-27T19:30:35.108Z",
+          "datePublished": "2020-04-27T19:30:35.108Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2020-04-27T19:30:35.108Z",
+          "url": "https://static01.nyt.com/images/2020/04/29/dining/27Romanrex/27Romanrex-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT20M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, weeknight, main course",
+      "keywords": "asparagus, garlic, jalapeño, mushroom, pea, soup, tofu, spring, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 2141
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 395,
+        "unsaturatedFatContent": "15 grams",
+        "carbohydrateContent": "32 grams",
+        "cholesterolContent": null,
+        "fatContent": "20 grams",
+        "fiberContent": "9 grams",
+        "proteinContent": "30 grams",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "1399 milligrams",
+        "sugarContent": "11 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 garlic cloves, finely grated or chopped",
+        "1 jalapeño, finely grated or chopped",
+        "2 lemons",
+        "Kosher salt and freshly ground black pepper",
+        "4 cups vegetable or chicken broth",
+        "1/4 cup soy sauce",
+        "10 ounces mushrooms, such as enoki, white button, cremini or oyster",
+        "1 bunch asparagus, ends trimmed, thinly sliced",
+        "1 1/2 cups peas (fresh or frozen)",
+        "1 (12- to 14-ounce) package soft tofu, drained, or use firm tofu, cut in bite-size pieces",
+        "Olive oil, for drizzling",
+        "4 scallions, very thinly sliced, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Combine garlic and jalapeño in a small bowl. Finely zest the lemons, and add zest to the bowl with the jalapeño mixture. (Reserve the lemons for juicing.) Season heavily with salt and pepper. Set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large pot, bring broth and soy sauce to a simmer, and season with salt and pepper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add mushrooms and simmer until they’re just tender, 3 to 5 minutes. Add asparagus, peas and half the jalapeño mixture, and season the broth again with salt and pepper. Cook vegetables until they’re bright green and starting to float, 2 to 4 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To serve, spoon a large piece of tofu into each bowl. (Alternatively, scoop tofu into the pot, breaking it into large pieces.) Top with more of the jalapeño mixture, and ladle the broth and vegetables over."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Drizzle with olive oil and scatter with scallions before serving."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2020-04-29T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "pnwsnackqueen"
+          },
+          "reviewBody": "I forgot to add any oil, and it was still delish.",
+          "datePublished": "2025-05-02T20:53:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BJ"
+          },
+          "reviewBody": "I have not yet cooked this, but I will soon. However, I will reduce the amount of fat and salt (almost a whole day's worth for me!). That will allow the flavors of the broth and the vegetables to shine through and keep my heart beating longer.",
+          "datePublished": "2025-05-02T16:38:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Will"
+          },
+          "reviewBody": "Really enjoyed this. Added red miso and rice vinegar to the broth. Used bok choy instead of asparagus. Used sesame oil to finish like many other commenter suggested.",
+          "datePublished": "2025-04-19T14:26:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joan Crush"
+          },
+          "reviewBody": "What if we settled with olive oil/sesame oil debate with chili oil?",
+          "datePublished": "2025-01-14T23:03:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Allie"
+          },
+          "reviewBody": "Really great, easy recipe that’s flexible for what veggies you have on hand. Added soba noodles to bulk out a bit more!",
+          "datePublished": "2024-11-24T18:43:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne"
+          },
+          "reviewBody": "This did not work for me. The quantities seem off. Not enough liquid for that much asparagus (a bunch, thinly sliced, yielded about two cups), that many peas, and that much tofu. Also, two lemons' worth of zest is way too much. It overwhelmed the meager volume of liquid and turned the whole thing unpleasantly sour.",
+          "datePublished": "2024-03-03T13:48:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy"
+          },
+          "reviewBody": "Lovely, lovely soup. I didn’t have asparagus, so I used baby broccoli. I also had some leftover corn which I cut off the cob and added. I especially liked the lemon zest/ garlic/jalapeño mixture, which took the soup to he next level.",
+          "datePublished": "2023-10-07T21:51:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Arbee"
+          },
+          "reviewBody": "Simple, nutritious and delicious; win, win.",
+          "datePublished": "2023-05-30T20:19:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katherine"
+          },
+          "reviewBody": "Sesame oil at the end, not olive oil",
+          "datePublished": "2023-05-22T12:56:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MeaganLP"
+          },
+          "reviewBody": "Easy (if you have a nice homemade broth handy), delicious, and healthy. I sliced the mushrooms and used thinly sliced kale in place of asparagus. I hold with those who favored olive oil over sesame for this one, as the recipe directs.",
+          "datePublished": "2023-05-22T16:10:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "domimi"
+          },
+          "reviewBody": "Thought it’d be bland but it was very good! Added lemon juice and fried scallions on sesame oil. My bf cooked salmon in the broth and was also very happy with it",
+          "datePublished": "2023-04-18T01:27:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Health Nut"
+          },
+          "reviewBody": "Great soup, but so much sodium! Your blood pressure will be through the roof if you follow the directions for salt. I added no more salt than what is already in the 1/4 cup of soy sauce and we still found this soup very salty.\n\nI added some freshly grated ginger and also some cilantro garnish. \n\nAdd the peas and asparagus right before serving so they stay bright green. It won't take them long to go olive if you don't do this and the soup will lose it's visual appeal.",
+          "datePublished": "2023-04-14T03:57:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Banshee"
+          },
+          "reviewBody": "Made last night for 2, using full amount of broth (homemade chicken broth   healthy glug of shoyu), fewer veggies - baby shiitakes, asparagus cut in 1” diagonals,   fistful of whole sugar snap peas. Cubed x-firm tofu, and remains of a packet of buckwheat noodles, broken, into the pot, then the fresh veggies, simmered just until crisp tender. That jalapeño gremolata is bomb. EVOO   lemon YES. With the noodles this was a light but complete dinner, thoroughly enjoyed, and will repeat!",
+          "datePublished": "2023-04-12T16:52:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lucas"
+          },
+          "reviewBody": "Good as written, but if you’re looking for something a little heartier, adding miso and a poached egg really levels it up.",
+          "datePublished": "2023-04-10T22:33:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dave"
+          },
+          "reviewBody": "Delighted in the flavors.   Trying to figure out how to store leftovers. I added not salt after the first addition, no more.  Delicious.",
+          "datePublished": "2023-04-10T02:19:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janet"
+          },
+          "reviewBody": "Substitute SESAME OIL for the Olive Oil",
+          "datePublished": "2020-04-28T15:02:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "tina"
+          },
+          "reviewBody": "I would suggest using sesame oil at the end instead of olive oil.",
+          "datePublished": "2020-04-28T17:15:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Prakash Nadkarni"
+          },
+          "reviewBody": "The lemon zest-garlic-pepper-jalapeno combination (a brilliant touch, IMHO) is inspired by gremolata (zest, garlic, parsley). So chili-phobes can skip the jalapeno: substitute any herbs that you have around  - mint, parsley and cilantro come to mind as complementing East Asian flavors. Some minced ginger might be nice.\nWhen Vietnamese serve pho, all condiments are served on the side, to be added according to taste. Follow the same approach here.",
+          "datePublished": "2020-04-28T17:28:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "aisha"
+          },
+          "reviewBody": "I, like every other home cook with a well stocked pantry and corresponding inflated sense of self, worship at the alter of sesame oil. But in this recipe the key flavours are the fresh greens and the jalapeño/lemon/garlic combo. It’s fresh, it’s bright, it’s delicate; the olive oil compliments all of that. Just because you use soy sauce and tofu doesn’t mean you have to use sesame oil. Trust the writer - the olive oil Works here.",
+          "datePublished": "2021-05-02T23:20:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jim"
+          },
+          "reviewBody": "Actually, most asian cooking calls for low sodium soy sauce. That's what I would (and always do) use.",
+          "datePublished": "2020-04-28T15:44:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mrs B"
+          },
+          "reviewBody": "Yeesh folks-the point of this recipe is to give you a template for making a dish with what you have on hand not to make the most authentic version of something. I had shitakes, snap peas, baby greens and used red miso and a little veggie bullion paste instead of soy. I also happened to have the Yuzu Kosho which was at my Trader Joes. It is delicious, especially loved the texture of the soft tofu. Glad I skipped the sesame which some suggested. The delicate citrus flavor would have been lost.",
+          "datePublished": "2020-05-01T02:45:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christopher Fenger"
+          },
+          "reviewBody": "Ms. Roman struck just the right chord with this. Ended up making it immediately for my breakfast as I'm getting pretty tired of eggs, panckakes and french toast. Was lucky to have everything neeeded. Made exactly as described, with the exception of the lemon zest/garlic mixture. Had no jalapeños so subbed-in red szechuan peppercorns, smashed and tossed straight into the broth. Also had frozen wild-caught Maine shrimp (the tiny ones) in the freezer and threw a handful into the pot. Fantastic.",
+          "datePublished": "2020-04-28T16:23:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alan Milner"
+          },
+          "reviewBody": "Seriously? Why not just start off with miso soup base?",
+          "datePublished": "2020-04-28T16:27:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "tanya shaw"
+          },
+          "reviewBody": "I didn’t have asparagus so I substituted it with frozen spinach, it was great. Amazing recipe!",
+          "datePublished": "2020-04-29T22:26:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cadence"
+          },
+          "reviewBody": "Used hondashi/miso/tamari in place of just soy sauce! Used mix of cremini/enoki/shiitake mushrooms! Subbed bias-cut celery and sliced radish for asparagus. Subbed fresh chickpeas for peas! Used green yuzu kosho instead of lemon/jalapeño. Finished with lime juice and rice vinegar. added torn black garlic in bowl with extra firm tofu block. Ladled soup over tofu & black garlic. Drizzled with pistachio oil! Topped with celery leaves, Thai basil, red oxalis. Delicious!",
+          "datePublished": "2020-05-04T23:14:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "K dog"
+          },
+          "reviewBody": "Umm where does the lemon juice go?",
+          "datePublished": "2020-05-28T03:03:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lelia"
+          },
+          "reviewBody": "Thank you, NYT Cooking, for the delicious and inspirational VEGAN recipe.  (Please keep them coming!). I eliminated added salt and used low-sodium broth and soy sauce (as written, the recipe is way too salty).  Didn't have asparagus so used some cabbage instead (chopped up and sauteed with sesame oil).  Added buckwheat noodles for a filling dinner.  Thanks!",
+          "datePublished": "2020-05-04T23:25:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ben"
+          },
+          "reviewBody": "Pretty good dish but I completely agree with some of the other comments. This is too salty and it drowns out the other flavors. I would say get low sodium broth if you're going to make it.",
+          "datePublished": "2020-05-01T12:24:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sandra"
+          },
+          "reviewBody": "sliced carrots would be nice and add a contrasting color.",
+          "datePublished": "2020-04-29T23:45:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "d"
+          },
+          "reviewBody": "Add ramen noodles",
+          "datePublished": "2020-05-11T23:03:41.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021030-spring-tofu-soup",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Alison Roman"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020,
+      "description": "This versatile (coincidentally vegan) soup can be customized with most quick-cooking vegetables — thinly sliced asparagus could easily be thinly sliced turnips or radishes — and whatever tofu you have access to. If tofu isn’t your thing, this soup would also be a great place to add any leftover chicken to warm through or shrimp to cook in the broth. The lemon at the end will breathe a lot of much-needed life into this broth built mostly from pantry staples, but a splash of rice wine vinegar would also do the trick.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Spring Tofu Soup",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/484ef83e-b9e3-5f61-9821-59e8429e8f6b#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/04/29/dining/27Romanrex/27Romanrex-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Michael Graydon & Nikole Herriott for The New York Times. Prop Stylist: Kalen Kaminski.",
+          "dateModified": "2020-04-27T19:30:35.108Z",
+          "datePublished": "2020-04-27T19:30:35.108Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-04-27T19:30:35.108Z",
+          "url": "https://static01.nyt.com/images/2020/04/29/dining/27Romanrex/27Romanrex-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/484ef83e-b9e3-5f61-9821-59e8429e8f6b#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/04/29/dining/27Romanrex/27Romanrex-superJumbo.jpg",
+          "creditText": "Michael Graydon & Nikole Herriott for The New York Times. Prop Stylist: Kalen Kaminski.",
+          "dateModified": "2020-04-27T19:30:35.108Z",
+          "datePublished": "2020-04-27T19:30:35.108Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2020-04-27T19:30:35.108Z",
+          "url": "https://static01.nyt.com/images/2020/04/29/dining/27Romanrex/27Romanrex-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/484ef83e-b9e3-5f61-9821-59e8429e8f6b#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/04/29/dining/27Romanrex/27Romanrex-mediumSquareAt3X.jpg",
+          "creditText": "Michael Graydon & Nikole Herriott for The New York Times. Prop Stylist: Kalen Kaminski.",
+          "dateModified": "2020-04-27T19:30:35.108Z",
+          "datePublished": "2020-04-27T19:30:35.108Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2020-04-27T19:30:35.108Z",
+          "url": "https://static01.nyt.com/images/2020/04/29/dining/27Romanrex/27Romanrex-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021030-spring-tofu-soup"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:31:38.526Z",
+  "scraping_status": "scraped"
+}

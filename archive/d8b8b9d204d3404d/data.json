@@ -1,0 +1,558 @@
+{
+  "id": "d8b8b9d204d3404d",
+  "original_url": "https://cooking.nytimes.com/recipes/1021582-taiwanese-popcorn-chicken-with-fried-basil",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021582-taiwanese-popcorn-chicken-with-fried-basil",
+  "fetched_title": "Taiwanese Popcorn Chicken With Fried Basil Recipe",
+  "main_text_content": "This spiced fried chicken is a staple in the night markets of Taiwan You can order the chicken in cutlet form or small bites like these, which are served in paper bags with wooden skewers This recipe uses a few spices that cannot be skipped: five-spice powder and white pepper",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Spicy Sesame Noodles With Chicken and Peanuts</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Ali Slagle</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2020/11/17/dining/sl-taiwanese-fried-chicken/merlin_179866965_dae18691-ff16-4d53-8d55-965933bbaa5b-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/d8b8b9d204d3404d/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/44eec54f-de4e-5b0f-92fa-833a8814517c",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021582-taiwanese-popcorn-chicken-with-fried-basil",
+        "@type": "WebPage",
+        "name": "Taiwanese Popcorn Chicken With Fried Basil"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021582-taiwanese-popcorn-chicken-with-fried-basil",
+      "name": "Taiwanese Popcorn Chicken With Fried Basil",
+      "description": "This spiced fried chicken is a staple in the night markets of Taiwan. You can order the chicken in cutlet form or small bites like these, which are served in paper bags with wooden skewers. This recipe uses a few spices that cannot be skipped: five-spice powder and white pepper. The Sichuan peppercorns are a bonus, adding a little numbing tingle. If you can’t find Sichuan peppercorns, use black peppercorns instead. You won’t get the same tingly feeling, but the chicken will be just as good. This fried chicken recipe happens to be gluten-free thanks to the tapioca flour, which imparts the dish’s signature crunch.",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Li"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/197da7c2-9acf-5b2d-9f93-942e226e392e#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/11/17/dining/sl-taiwanese-fried-chicken/merlin_179866965_dae18691-ff16-4d53-8d55-965933bbaa5b-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-02-03T22:20:19.127Z",
+          "datePublished": "2020-11-18T02:57:01.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-11-18T02:57:01.000Z",
+          "url": "https://static01.nyt.com/images/2020/11/17/dining/sl-taiwanese-fried-chicken/merlin_179866965_dae18691-ff16-4d53-8d55-965933bbaa5b-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/197da7c2-9acf-5b2d-9f93-942e226e392e#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/11/17/dining/sl-taiwanese-fried-chicken/merlin_179866965_dae18691-ff16-4d53-8d55-965933bbaa5b-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-02-03T22:20:19.127Z",
+          "datePublished": "2020-11-18T02:57:01.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2020-11-18T02:57:01.000Z",
+          "url": "https://static01.nyt.com/images/2020/11/17/dining/sl-taiwanese-fried-chicken/merlin_179866965_dae18691-ff16-4d53-8d55-965933bbaa5b-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/197da7c2-9acf-5b2d-9f93-942e226e392e#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/11/17/dining/sl-taiwanese-fried-chicken/merlin_179866965_dae18691-ff16-4d53-8d55-965933bbaa5b-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-02-03T22:20:19.127Z",
+          "datePublished": "2020-11-18T02:57:01.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2020-11-18T02:57:01.000Z",
+          "url": "https://static01.nyt.com/images/2020/11/17/dining/sl-taiwanese-fried-chicken/merlin_179866965_dae18691-ff16-4d53-8d55-965933bbaa5b-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT2H",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "asian",
+      "recipeCategory": "dinner, snack, finger foods, poultry, appetizer, main course",
+      "keywords": "basil, boneless chicken thighs, chicken, sichuan peppercorn, soy sauce, white pepper",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 1631
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 410,
+        "unsaturatedFatContent": "23 grams",
+        "carbohydrateContent": "19 grams",
+        "cholesterolContent": null,
+        "fatContent": "27 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "23 grams",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "401 milligrams",
+        "sugarContent": "1 gram",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 1/2 pounds boneless, skinless chicken thighs, cut into 1-inch pieces",
+        "2 tablespoons soy sauce",
+        "2 teaspoons granulated sugar",
+        "1 1/2 teaspoons Chinese five-spice powder",
+        "1 teaspoon ground white pepper",
+        "4 teaspoons kosher salt",
+        "6 cups vegetable oil",
+        "1 tablespoon Sichuan peppercorns or whole black peppercorns",
+        "1 cup/115 grams tapioca flour",
+        "1 cup fresh basil leaves"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large bowl, season chicken thighs with soy sauce, sugar, five-spice powder, white pepper and 2 teaspoons salt. Set aside to marinate about 1 hour at room temperature, or refrigerate it overnight."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When ready to cook, fit a medium pot with a cooking thermometer and heat vegetable oil over medium to 350 degrees. Coarsely grind the peppercorns in a spice grinder or mortar and pestle and mix with the remaining 2 teaspoons kosher salt. Set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Wet your hands and toss marinated chicken with tapioca flour and about 1 tablespoon water until the tapioca flour looks like small beads and clings to the chicken. (Adding a little moisture to your chicken helps the tapioca flour form small beads that will also stick to the chicken and give it a very crunchy crust.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Working in batches, add the battered chicken to the hot oil and fry until golden brown and crisp, 5 to 7 minutes. With a slotted spoon or spider, transfer fried chicken to a paper towel-lined plate and season each batch with peppercorn mixture."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Fry basil leaves until translucent and crisp, 1 to 2 minutes, then scatter over the fried chicken. Serve with leftover peppercorn mixture for sprinkling to taste."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2022-06-29T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fuegofan"
+          },
+          "reviewBody": "I find that this is a forgiving and adaptable recipe.  I went with a different flavor palate and it came off great--so that I really enjoyed eating the \"popcorn\" cold.  Coconut aminos instead of the sugar and soy sauce and some thyme instead of the 5-spice powder.",
+          "datePublished": "2025-01-29T04:25:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fuegofan"
+          },
+          "reviewBody": "I find that this is a forgiving and adaptable recipe. I went with a different flavor palate and it came off great--so that I really enjoyed eating the \"popcorn\" cold. Coconut aminos instead of the sugar and soy sauce and some thyme instead of the 5-spice powder.  And I deep fried it.",
+          "datePublished": "2025-01-29T04:27:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Wenling"
+          },
+          "reviewBody": "Made the dish using air fryer, worked out great - tasty with all the spices. We cut the salt in half, but it was still too salty for us, I guess it all depends on how salty the soy sauce you use. We brush the basil leaves with olive oil and baked them at low heat (275F) till they are crispy, they were terrific!",
+          "datePublished": "2024-11-01T04:38:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Wenling"
+          },
+          "reviewBody": "We use sweet potato flour instead of tapioca flour, worked out well.",
+          "datePublished": "2024-11-01T04:41:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ermagerd80"
+          },
+          "reviewBody": "Fry basil first then blend with sichuan and salt.  Air fry chicken for 8 minutes at 400.  Spray when done before sprinkling with seasoning",
+          "datePublished": "2024-05-21T00:41:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joann"
+          },
+          "reviewBody": "I used tapioca starch/potato starch mixture instead of tapioca flour and it worked well. I also cut the salt from the marinade and added a little salt to the peppercorn mix that gets dusted on at the end, to better control the saltiness.",
+          "datePublished": "2024-05-01T15:25:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lizzy"
+          },
+          "reviewBody": "Adding to my earlier comment… I did use a fine mist spray of water after thoroughly covering the chicken with tapioca. Then used the EVO sprayer for the Avocado oil mist. I don’t know if that made a difference to the crisp, but this stuff was CRISPY!",
+          "datePublished": "2024-04-16T03:01:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lizzy"
+          },
+          "reviewBody": "Heretic here. Used air fryer to fry basil - sprayed (EVO oil sprayer) olive oil thinly on basil. 2 min. Crisp and clean, as the commercial once said! \nSince recipe called for sugar and shoyu…I used Sweet, Dark, Soy Sauce, no sugar and 1T. Shoyu.  It was perfect! Didn’t use any salt for marinade or cooking. \nUsed my oven on Convection Roast - 520*, a rack, and thin spray of oil on the tapioca tossed chicken. Fantastico!",
+          "datePublished": "2024-04-16T02:35:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jawminsky"
+          },
+          "reviewBody": "Delicious recipe but way too much salt and too much tapioca flour. Next time I would use 3/4 cup of tapioca flour and half the amount of salt for the marinade. Otherwise it was a great recipe and a hit with my toddler! Watching the video helped a lot to understand what the flour beading should look like.",
+          "datePublished": "2024-03-14T22:50:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rio S"
+          },
+          "reviewBody": "We made this with extra firm tofu to make it veggie. So so so good",
+          "datePublished": "2024-03-04T15:41:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patti"
+          },
+          "reviewBody": "This certainly has the potential to be an easy go-to for my fried chicken cravings. But, last night I made it and it was a disaster. First, way too salty. Yes, maybe I used the wrong salt (and only half), but if I try again I will eliminate it completely. I didn't even add salt on top at the end, and we tossed out most of it. As for the basil, I don't know what frying it could possibly add. Besides exploding and spraying hot oil all over me and the kitchen, it really just became a slimy mess.",
+          "datePublished": "2024-01-30T20:48:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "YHuang from Taiwan"
+          },
+          "reviewBody": "Classic recipe is\nA) not tapioca flour but sweet potato flour (Taiwan doesn't grow tapioca)\nB) just black pepper is good enough, Sichuan peppercorns is more spicy modification\nC) regular salt is juts fine (very limited kosher food in TW, therefore, kosher salt is not a popular choice)\n\nGood choice\nchicken thighs are welcome but chicken breasts are more popular in TW",
+          "datePublished": "2023-12-31T09:04:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gordo"
+          },
+          "reviewBody": "Go easy on salt\nGo easy on tapioca flour….doesn’t need to be fully coated, it will get gummy. Do a test piece. \nOnly need 1-2 cups of oil…do in big wok",
+          "datePublished": "2023-12-15T02:25:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Esme"
+          },
+          "reviewBody": "Watch the video before making - Sue Li wets her hands (rather than adding water to the chicken and tapioca). I did the same, a few times, and it worked great.",
+          "datePublished": "2023-12-04T00:09:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Teresa"
+          },
+          "reviewBody": "In Taiwan, we use Thai or Taiwanese basil. The regular basil in America is not the same.",
+          "datePublished": "2023-12-01T13:43:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JE"
+          },
+          "reviewBody": "substitute for tapioca flour:\n\nCorn starch\nRice flour\nArrowroot\nPotato starch\nCassava flour",
+          "datePublished": "2020-12-11T23:14:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meiyi"
+          },
+          "reviewBody": "Using an air fryer for this recipe:\nI am taiwanese and we used to buy this street food a few times a week. \nI follow the recipe but use the air fryer instead of oil. I must say \n, the flavor is at least 85% correct vs a 70% for french fries on air fryer. The only thing I did differently was that instead of heating the oil, I used oil spray to coat both side of the chicken. Set it to 400° air fry mode and did 13 min in total. Be generous on the tapioca flour, made all the differences.",
+          "datePublished": "2020-12-12T23:44:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "loverofnoodles"
+          },
+          "reviewBody": "We made this recipe with half the salt and did a test of frying and baking the chicken. We sprayed a baking sheet with oil and lightly brushed the chicken again with oil once it was on the sheet. Baked at 425 degrees for roughly 20 minutes flipping pieces half way. It turned out beautifully and we couldn’t be more impressed!",
+          "datePublished": "2020-12-20T01:03:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Turd Ferguson"
+          },
+          "reviewBody": "In order for this dish to be gluten-free, it would have to be made with a gluten-free soy sauce or tamari. Regular soy sauce contains wheat.",
+          "datePublished": "2020-12-10T17:14:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Megan H."
+          },
+          "reviewBody": "For all those suggesting the dish is too salty, I have a suspicion you are using something other than Diamond Crystal kosher salt. Salt is only interchangeable when measured by weight, not volume. Most chefs/recipe creators use Diamond Crystal, so if you substitute Morton kosher salt, you’ll get a much saltier dish because it is more finely ground and you’ll pack more into a unit of measurement.",
+          "datePublished": "2020-12-27T20:18:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leda"
+          },
+          "reviewBody": "Made with tofu and chicken. Tofu had a silky, cheese-like texture with crisp outside. The tapioca made it super crispy. Can’t decide whether I like the tofu or chicken better, but wouldn’t hesitate to recommend the tofu.",
+          "datePublished": "2021-01-27T21:41:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan Nakagaw"
+          },
+          "reviewBody": "I often use a mixture of cornstarch and rice flour and it always works well.",
+          "datePublished": "2020-12-11T23:15:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kendra B"
+          },
+          "reviewBody": "Rice flour worked as a great substitute, you only need 1/2 cup. Made a spicy mayo dipping sauce to go alongside (~1 T sriracha and 3 T Kewpie mayo, thinned with 1 T water). Take it easy on the salt/peppercorn mixture at the end; the marinade is pretty salty as is (due to the 2 T soy sauce + 2 t kosher salt) so I recommend tasting the cooked chicken before dusting with more salt. Skipped grinding the peppercorns and used fresh cracked pepper.",
+          "datePublished": "2020-12-20T17:26:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol"
+          },
+          "reviewBody": "You don’t need ANY water with the tapioca flour. If you watch the video with Chef Li where she makes this recipe, she simply uses the water from her hands to get the flour to form the beads. I used extra water and it was a mess. Still turned out fine but super difficult to handle and definitely less crunchy.",
+          "datePublished": "2021-02-28T18:46:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leslie"
+          },
+          "reviewBody": "Good, worth a 2nd try. Way,way, way to much salt, somehow.  Basil at 2 minutes was overdone and tasteless . 15-30 seconds maybe, or just fresh over the top? Not sure the additional seasoning at the end was needed, plenty of szechuan peppercorn flavor/smell; so much so it was the dominant odor and the salt the dominant taste. But, I do want to try it again.",
+          "datePublished": "2020-12-15T22:51:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Beverly"
+          },
+          "reviewBody": "Loved this! And it was so easy to make. I would definitely recommend cutting the salt down. I could have gotten away with cutting it in half. For the seasoning I did not have any Chinese 5 Spice so I used Garam Malasa and I think the result was pretty similar.",
+          "datePublished": "2020-12-13T16:03:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martin Erskine"
+          },
+          "reviewBody": "This probably only applies to real cooking geeks, or Japanese cooks, but you can substitute sansho for the peppercorns if you have some on hand.",
+          "datePublished": "2020-12-12T21:41:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LilRedGreen"
+          },
+          "reviewBody": "Tried this one with cornstarch. Just ok. Tried it again with Tapioca flour. AMAZING. We dip it in rice wine vinegar then dunk in the salt n pepper mixture. Caution frying the basil. It can pop given the moisture in it so stand back.",
+          "datePublished": "2021-06-29T14:54:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emk"
+          },
+          "reviewBody": "Air fryers and crock pots help people mask bad cooking with over confidence. Cook by the recipe and see how it should be. Then ruin it in an air fryer",
+          "datePublished": "2021-09-26T12:46:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Thomas"
+          },
+          "reviewBody": "Good, though I feel strongly you can reduce the salt in the marinade by half.",
+          "datePublished": "2020-12-20T02:32:40.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021582-taiwanese-popcorn-chicken-with-fried-basil",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Li"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022,
+      "description": "This spiced fried chicken is a staple in the night markets of Taiwan. You can order the chicken in cutlet form or small bites like these, which are served in paper bags with wooden skewers. This recipe uses a few spices that cannot be skipped: five-spice powder and white pepper. The Sichuan peppercorns are a bonus, adding a little numbing tingle. If you can’t find Sichuan peppercorns, use black peppercorns instead. You won’t get the same tingly feeling, but the chicken will be just as good. This fried chicken recipe happens to be gluten-free thanks to the tapioca flour, which imparts the dish’s signature crunch.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Taiwanese Popcorn Chicken With Fried Basil",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/197da7c2-9acf-5b2d-9f93-942e226e392e#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/11/17/dining/sl-taiwanese-fried-chicken/merlin_179866965_dae18691-ff16-4d53-8d55-965933bbaa5b-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-02-03T22:20:19.127Z",
+          "datePublished": "2020-11-18T02:57:01.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-11-18T02:57:01.000Z",
+          "url": "https://static01.nyt.com/images/2020/11/17/dining/sl-taiwanese-fried-chicken/merlin_179866965_dae18691-ff16-4d53-8d55-965933bbaa5b-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/197da7c2-9acf-5b2d-9f93-942e226e392e#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/11/17/dining/sl-taiwanese-fried-chicken/merlin_179866965_dae18691-ff16-4d53-8d55-965933bbaa5b-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-02-03T22:20:19.127Z",
+          "datePublished": "2020-11-18T02:57:01.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2020-11-18T02:57:01.000Z",
+          "url": "https://static01.nyt.com/images/2020/11/17/dining/sl-taiwanese-fried-chicken/merlin_179866965_dae18691-ff16-4d53-8d55-965933bbaa5b-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/197da7c2-9acf-5b2d-9f93-942e226e392e#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/11/17/dining/sl-taiwanese-fried-chicken/merlin_179866965_dae18691-ff16-4d53-8d55-965933bbaa5b-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-02-03T22:20:19.127Z",
+          "datePublished": "2020-11-18T02:57:01.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2020-11-18T02:57:01.000Z",
+          "url": "https://static01.nyt.com/images/2020/11/17/dining/sl-taiwanese-fried-chicken/merlin_179866965_dae18691-ff16-4d53-8d55-965933bbaa5b-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021582-taiwanese-popcorn-chicken-with-fried-basil"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:35:50.644Z",
+  "scraping_status": "scraped"
+}

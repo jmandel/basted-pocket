@@ -1,0 +1,458 @@
+{
+  "id": "4f3a3c3252e97421",
+  "original_url": "https://cooking.nytimes.com/recipes/1026638-ash-reshteh-greens-beans-and-noodle-soup",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026638-ash-reshteh-greens-beans-and-noodle-soup",
+  "fetched_title": "Ash Reshteh (Greens, Beans and Noodle Soup)  Recipe",
+  "main_text_content": "Among ash, a beloved category of thick soups in Iranian cuisine, ash reshteh is the most famous Packed with legumes, a mountain of greens and reshteh, thin, flat noodles similar to linguine, it’s a hearty dish traditionally eaten on Chaharshanbe Suri, the Festival of Fire that falls on the Wednesday before Nowruz, the Persian New Year The soup is finished with sizzled mint, crispy onions and kashk, an Iranian dairy product akin to a funkier sour cream",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026528-mujadara-lentils-and-rice-with-fried-onions\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Mujadara (Lentils and Rice With Fried Onions)</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Naz Deravian</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/03/19/multimedia/19NOWRUZREX-AB-Ash-Reshteh-vchl/14NOWRUZREX-AB-Ash-Reshteh-vchl-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/4f3a3c3252e97421/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/0c23466c-2ad6-5dfc-a69f-83e9fc2dfb67",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026638-ash-reshteh-greens-beans-and-noodle-soup",
+        "@type": "WebPage",
+        "name": "Ash Reshteh (Greens, Beans and Noodle Soup) "
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026638-ash-reshteh-greens-beans-and-noodle-soup",
+      "name": "Ash Reshteh (Greens, Beans and Noodle Soup) ",
+      "description": "Among ash, a beloved category of thick soups in Iranian cuisine, ash reshteh is the most famous. Packed with legumes, a mountain of greens and reshteh, thin, flat noodles similar to linguine, it’s a hearty dish traditionally eaten on Chaharshanbe Suri, the Festival of Fire that falls on the Wednesday before Nowruz, the Persian New Year. The soup is finished with sizzled mint, crispy onions and kashk, an Iranian dairy product akin to a funkier sour cream. Kashk has a bold, umami-rich salty-sour flavor that’s unlike anything else. It’s worth trying to buy at a Middle Eastern market, but since it can be hard to find, a mix of lemon juice and sour cream or Greek yogurt makes a great substitute.",
+      "author": {
+        "@type": "Person",
+        "name": "Andy Baraghani"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/8d2bc1bd-f9b8-5fa7-a8b4-ff2d2c6cb655#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/19/multimedia/19NOWRUZREX-AB-Ash-Reshteh-vchl/14NOWRUZREX-AB-Ash-Reshteh-vchl-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Emma Fishman for The New York Times. Food Stylist: Rebecca Jurkevich. Prop stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-03-15T17:40:38.118Z",
+          "datePublished": "2025-03-12T17:09:14.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-12T17:09:14.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/19/multimedia/19NOWRUZREX-AB-Ash-Reshteh-vchl/14NOWRUZREX-AB-Ash-Reshteh-vchl-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/8d2bc1bd-f9b8-5fa7-a8b4-ff2d2c6cb655#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/19/multimedia/19NOWRUZREX-AB-Ash-Reshteh-vchl/14NOWRUZREX-AB-Ash-Reshteh-vchl-googleFourByThree.jpg",
+          "creditText": "Emma Fishman for The New York Times. Food Stylist: Rebecca Jurkevich. Prop stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-03-15T17:40:38.118Z",
+          "datePublished": "2025-03-12T17:09:14.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-12T17:09:14.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/19/multimedia/19NOWRUZREX-AB-Ash-Reshteh-vchl/14NOWRUZREX-AB-Ash-Reshteh-vchl-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/8d2bc1bd-f9b8-5fa7-a8b4-ff2d2c6cb655#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/19/multimedia/19NOWRUZREX-AB-Ash-Reshteh-vchl/14NOWRUZREX-AB-Ash-Reshteh-vchl-mediumSquareAt3X.jpg",
+          "creditText": "Emma Fishman for The New York Times. Food Stylist: Rebecca Jurkevich. Prop stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-03-15T17:40:38.118Z",
+          "datePublished": "2025-03-12T17:09:14.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-12T17:09:14.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/19/multimedia/19NOWRUZREX-AB-Ash-Reshteh-vchl/14NOWRUZREX-AB-Ash-Reshteh-vchl-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT30M",
+      "cookTime": "PT1H",
+      "totalTime": "PT1H30M",
+      "recipeYield": "6 servings (about 13 cups)",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, beans, noodles, appetizer, main course",
+      "keywords": "brown lentil, chickpea, cranberry bean, dill, ground turmeric, iranian, nowruz, onion, parsley, plan-ahead, soup, stovetop, swiss chard, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 82
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 689,
+        "unsaturatedFatContent": "33 grams",
+        "carbohydrateContent": "67 grams",
+        "cholesterolContent": null,
+        "fatContent": "42 grams",
+        "fiberContent": "8 grams",
+        "proteinContent": "16 grams",
+        "saturatedFatContent": "7 grams",
+        "sodiumContent": "769 milligrams",
+        "sugarContent": "17 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 cup extra-virgin olive oil ",
+        "3 large onions, halved then thinly sliced ",
+        "4 garlic cloves, thinly sliced ",
+        "Salt and freshly ground black pepper ",
+        "1/2 cup brown lentils, rinsed ",
+        "1/2 cup dried chickpeas, soaked overnight and drained (see Tip)",
+        "1/2 cup dried cranberry or navy beans, soaked overnight and drained (see Tip) ",
+        "2 teaspoons ground turmeric ",
+        "8 ounces reshteh or linguine",
+        "2 bunches Swiss chard (about 10 ounces each), stems removed and leaves coarsely chopped ",
+        "1 1/2 cups finely chopped flat-leaf parsley leaves and tender stems (from about 3 bunches)",
+        "1 cup finely chopped dill (from about 2 bunches) ",
+        "2 tablespoons dried ground mint ",
+        "1/2 cup kashk (or 1/2 cup sour cream or Greek yogurt mixed with 2 tablespoons fresh lemon juice; see Tip) "
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat ¼ cup olive oil in a large pot over medium heat. Add a third of the onions and all the garlic, season with salt, and cook, stirring occasionally, until soft and well browned in most spots, 10 to 12 minutes. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the lentils, chickpeas, cranberry beans and turmeric, and stir to coat everything, about 1 minute. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour in 12 cups of water, season generously with salt and pepper, and bring to a boil over high. Reduce heat to medium-low and gently simmer, skimming off any foam that rises to the top, until the beans and chickpeas are almost cooked through but still have a bite to them, 35 to 45 minutes. (This may take longer depending on the age of your beans and how long they were soaked.) If you’d like, you can prep your chard, parsley and dill while the beans simmer."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the reshteh (or the linguine, broken in half) to the pot, along with the Swiss chard, parsley and dill. Cook, stirring occasionally, until the beans are creamy, the noodles are tender and the greens have fully wilted, 20 to 25 minutes. Taste and adjust seasonings with salt and pepper. The greens should have released some liquid, but if the soup is too thick to stir easily, thin it with water."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the soup simmers, heat 1/2 cup olive oil in a medium skillet over medium heat. Add the remaining onions and cook, stirring often, until deeply golden brown and frizzled, 20 to 25 minutes. Transfer to a paper towel to drain and season with salt. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Carefully wipe out the skillet, return it to medium heat, and add the remaining ¼ cup olive oil. Stir in the mint and cook until fragrant and slightly darkened, about 1 minute. Set aside. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide the soup among bowls and top each with some kashk, a drizzle of mint oil and a handful of the crispy onions."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-03-14T00:00:00.000Z",
+      "dateModified": "2025-03-18T16:14:37.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meghann"
+          },
+          "reviewBody": "I’ve made this several times, and we all loved it. I have used dried beans, canned beans, and a mixture of the two and it always turns out great. It truly is worth seeking out the kashk and noodles, as they really make the soup, it’s still worth making though either way.",
+          "datePublished": "2025-04-06T22:16:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ml"
+          },
+          "reviewBody": "Don't skip the mint oil! It's deeply savory, like chile oil but not spicy. It's also good for other dishes - I added some leftover fried mint to a pesto pasta salad and it was a great addition.",
+          "datePublished": "2025-04-05T16:13:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "derrick"
+          },
+          "reviewBody": "This was so much work for a recipe that is ultimately bland. The broth really needs to be pushed by the addition of chicken broth or miso. It’s also next to impossible to caramelize two whole onions in a medium pan in 20-25 minutes. Nowhere near long enough as all the moisture just seeped out and prevented them from browning.",
+          "datePublished": "2025-04-04T02:57:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CiaoGatto"
+          },
+          "reviewBody": "This is one of the most interesting and delicious soups I have ever eaten. I just made it recently in a Persian cooking class celebrating Nowruz. The recipe was identical, so I am assuming this is pretty much a traditional preparation since my instructor was born in Iran. While I don’t mind improvisation, I personally wouldn’t on this one. I am sure you can make something perfectly good, but unless you can’t get an item like reshteh noodles or kashk (which have reasonable replacements), the specific elements are what make it so good. Consider trying it at least once as written!",
+          "datePublished": "2025-03-24T06:40:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nic"
+          },
+          "reviewBody": "I used an Instant Pot to cook this and it turned out great! Soaked the beans for 8 hours instead of overnight. After I added the beans to the sautéed onion and garlic, I added only 6 c of water and then pressure cooked for 11 minutes, then let it naturally release for 10 min. Beans and lentils were perfectly tender but still intact and not disintegrated",
+          "datePublished": "2025-03-23T23:56:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "laura"
+          },
+          "reviewBody": "This is delicious! Don't be put off by the cooking time. You can use a combo of pre-soaked and canned beans if you want and substitute beans as you wish to cut down on time in the kitchen. Definitely don't skimp on the herbs or properlyetting the onions caramelize, they make this dish shine. I did add cumin based on other reviews and think that rounded it out nicely.",
+          "datePublished": "2025-03-20T01:14:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandy"
+          },
+          "reviewBody": "My husband doesn’t care for the taste of turmeric. Is there a good substitute?",
+          "datePublished": "2025-03-17T11:53:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ava"
+          },
+          "reviewBody": "I took a lot of liberties just using what I had (different beans, chicken stock, kale, etc.) and it still turned out so good. Filling, bright, comforting and healthy. I will say that if you’re using canned beans, you’ll probably want to add them at the same time as the pasta, so they don’t over cook and fall apart too much. I used red lentils and canned beans (just what I had on hand) all of which cut down on the cook time. I also just frizzled my onions in the pot first before cooking the rest of the onions and garlic— less dishes to clean up, used less oil, and kinda felt like why not! Seemed to work just fine. Will make again!",
+          "datePublished": "2025-03-16T13:19:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol"
+          },
+          "reviewBody": "I think you could use just 2 TBS of oil to sauté the onion at the beginning of the recipe. Ditto for the mint at the end. To frizzle the 2 onions to top it, might take the full amount. A cup of oil seems like a lot, but if you are serving it to 6 people, especially if you aren't having meat, it adds to the nutrition, flavor and feel of the soup.",
+          "datePublished": "2025-03-18T17:30:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Zeichgeist"
+          },
+          "reviewBody": "a cup of oil? anyone try with less?",
+          "datePublished": "2025-03-16T16:36:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jillian K."
+          },
+          "reviewBody": "This recipe is perfect and flexible. I used canned beans (sorry, Andy) and threw in cilantro that I happened to have. Otherwise followed it and it was amazing. Hearty, healthy, and filling without being heavy. Definitely goes into the regular rotation.",
+          "datePublished": "2025-03-15T13:07:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ava"
+          },
+          "reviewBody": "I took a lot of liberties just using what I had (different beans, chicken stock, kale, etc.) and it still turned out so good. Filling, bright, comforting and healthy. I will say that if you’re using canned beans, you’ll probably want to add them at the same time as the pasta, so they don’t over cook and fall apart too much. I used red lentils and canned beans (just what I had on hand) all of which cut down on the cook time. I also just frizzled my onions in the pot first before cooking the rest of the onions and garlic— less dishes to clean up, used less oil, and kinda felt like why not! Seemed to work just fine. Will make again!",
+          "datePublished": "2025-03-16T13:19:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jillian K."
+          },
+          "reviewBody": "This recipe is perfect and flexible. I used canned beans (sorry, Andy) and threw in cilantro that I happened to have. Otherwise followed it and it was amazing. Hearty, healthy, and filling without being heavy. Definitely goes into the regular rotation.",
+          "datePublished": "2025-03-15T13:07:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol"
+          },
+          "reviewBody": "I think you could use just 2 TBS of oil to sauté the onion at the beginning of the recipe. Ditto for the mint at the end. To frizzle the 2 onions to top it, might take the full amount. A cup of oil seems like a lot, but if you are serving it to 6 people, especially if you aren't having meat, it adds to the nutrition, flavor and feel of the soup.",
+          "datePublished": "2025-03-18T17:30:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nic"
+          },
+          "reviewBody": "I used an Instant Pot to cook this and it turned out great! Soaked the beans for 8 hours instead of overnight. After I added the beans to the sautéed onion and garlic, I added only 6 c of water and then pressure cooked for 11 minutes, then let it naturally release for 10 min. Beans and lentils were perfectly tender but still intact and not disintegrated",
+          "datePublished": "2025-03-23T23:56:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "laura"
+          },
+          "reviewBody": "This is delicious! Don't be put off by the cooking time. You can use a combo of pre-soaked and canned beans if you want and substitute beans as you wish to cut down on time in the kitchen. Definitely don't skimp on the herbs or properlyetting the onions caramelize, they make this dish shine. I did add cumin based on other reviews and think that rounded it out nicely.",
+          "datePublished": "2025-03-20T01:14:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CiaoGatto"
+          },
+          "reviewBody": "This is one of the most interesting and delicious soups I have ever eaten. I just made it recently in a Persian cooking class celebrating Nowruz. The recipe was identical, so I am assuming this is pretty much a traditional preparation since my instructor was born in Iran. While I don’t mind improvisation, I personally wouldn’t on this one. I am sure you can make something perfectly good, but unless you can’t get an item like reshteh noodles or kashk (which have reasonable replacements), the specific elements are what make it so good. Consider trying it at least once as written!",
+          "datePublished": "2025-03-24T06:40:32.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026638-ash-reshteh-greens-beans-and-noodle-soup",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Andy Baraghani"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "Among ash, a beloved category of thick soups in Iranian cuisine, ash reshteh is the most famous. Packed with legumes, a mountain of greens and reshteh, thin, flat noodles similar to linguine, it’s a hearty dish traditionally eaten on Chaharshanbe Suri, the Festival of Fire that falls on the Wednesday before Nowruz, the Persian New Year. The soup is finished with sizzled mint, crispy onions and kashk, an Iranian dairy product akin to a funkier sour cream. Kashk has a bold, umami-rich salty-sour flavor that’s unlike anything else. It’s worth trying to buy at a Middle Eastern market, but since it can be hard to find, a mix of lemon juice and sour cream or Greek yogurt makes a great substitute.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Ash Reshteh (Greens, Beans and Noodle Soup) ",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/8d2bc1bd-f9b8-5fa7-a8b4-ff2d2c6cb655#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/19/multimedia/19NOWRUZREX-AB-Ash-Reshteh-vchl/14NOWRUZREX-AB-Ash-Reshteh-vchl-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Emma Fishman for The New York Times. Food Stylist: Rebecca Jurkevich. Prop stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-03-15T17:40:38.118Z",
+          "datePublished": "2025-03-12T17:09:14.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-12T17:09:14.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/19/multimedia/19NOWRUZREX-AB-Ash-Reshteh-vchl/14NOWRUZREX-AB-Ash-Reshteh-vchl-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/8d2bc1bd-f9b8-5fa7-a8b4-ff2d2c6cb655#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/19/multimedia/19NOWRUZREX-AB-Ash-Reshteh-vchl/14NOWRUZREX-AB-Ash-Reshteh-vchl-googleFourByThree.jpg",
+          "creditText": "Emma Fishman for The New York Times. Food Stylist: Rebecca Jurkevich. Prop stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-03-15T17:40:38.118Z",
+          "datePublished": "2025-03-12T17:09:14.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-12T17:09:14.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/19/multimedia/19NOWRUZREX-AB-Ash-Reshteh-vchl/14NOWRUZREX-AB-Ash-Reshteh-vchl-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/8d2bc1bd-f9b8-5fa7-a8b4-ff2d2c6cb655#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/19/multimedia/19NOWRUZREX-AB-Ash-Reshteh-vchl/14NOWRUZREX-AB-Ash-Reshteh-vchl-mediumSquareAt3X.jpg",
+          "creditText": "Emma Fishman for The New York Times. Food Stylist: Rebecca Jurkevich. Prop stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-03-15T17:40:38.118Z",
+          "datePublished": "2025-03-12T17:09:14.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-12T17:09:14.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/19/multimedia/19NOWRUZREX-AB-Ash-Reshteh-vchl/14NOWRUZREX-AB-Ash-Reshteh-vchl-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026638-ash-reshteh-greens-beans-and-noodle-soup"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:08:23.203Z",
+  "scraping_status": "scraped"
+}

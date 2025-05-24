@@ -1,0 +1,550 @@
+{
+  "id": "55b53039ba3825a1",
+  "original_url": "https://cooking.nytimes.com/recipes/1026585-microwave-sticky-toffee-pudding",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026585-microwave-sticky-toffee-pudding",
+  "fetched_title": "Microwave Sticky Toffee Pudding Recipe",
+  "main_text_content": "You’re just 10 minutes away from a bowl of soft, date-flecked cake draped in a brown sugary sauce This speedy take on sticky toffee pudding is made for one or two people and doesn’t require turning on the oven — just the microwave Topping your warm cake with cold ice cream, whipped cream or sour cream is a welcome contrast and helps temper the sweetness",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1020085-chocolate-mug-cake\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2019/03/30/dining/30mug-cake/30mug-cake-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2019/03/30/dining/30mug-cake/30mug-cake-blogSmallInline-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2019/03/30/dining/30mug-cake/30mug-cake-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2019/03/30/dining/30mug-cake/30mug-cake-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2019/03/30/dining/30mug-cake/30mug-cake-videoSixteenByNine310-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2019/03/30/dining/30mug-cake/30mug-cake-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2019/03/30/dining/30mug-cake/30mug-cake-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2019/03/30/dining/30mug-cake/30mug-cake-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Chocolate Mug Cake</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Margaux Laskey</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/02/19/multimedia/19FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg/13FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/55b53039ba3825a1/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/f8b5b4a8-1022-5d17-a787-5c1bb0f82342",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026585-microwave-sticky-toffee-pudding",
+        "@type": "WebPage",
+        "name": "Microwave Sticky Toffee Pudding"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026585-microwave-sticky-toffee-pudding",
+      "name": "Microwave Sticky Toffee Pudding",
+      "description": "You’re just 10 minutes away from a bowl of soft, date-flecked cake draped in a brown sugary sauce. This speedy take on sticky toffee pudding is made for one or two people and doesn’t require turning on the oven — just the microwave. Topping your warm cake with cold ice cream, whipped cream or sour cream is a welcome contrast and helps temper the sweetness. A few toasted pecans on top would add a nice crunch.",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/3b2ccd37-6990-5c53-8db6-9457051a63b5#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/19/multimedia/19FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg/13FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Kelly Marshall for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-02-17T18:29:27.742Z",
+          "datePublished": "2025-02-13T15:39:17.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-13T15:39:17.000Z",
+          "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg/13FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3b2ccd37-6990-5c53-8db6-9457051a63b5#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/19/multimedia/19FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg/13FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg-googleFourByThree.jpg",
+          "creditText": "Kelly Marshall for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-02-17T18:29:27.742Z",
+          "datePublished": "2025-02-13T15:39:17.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-13T15:39:17.000Z",
+          "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg/13FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/3b2ccd37-6990-5c53-8db6-9457051a63b5#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/19/multimedia/19FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg/13FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg-mediumSquareAt3X.jpg",
+          "creditText": "Kelly Marshall for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-02-17T18:29:27.742Z",
+          "datePublished": "2025-02-13T15:39:17.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-13T15:39:17.000Z",
+          "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg/13FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT5M",
+      "cookTime": "PT5M",
+      "totalTime": "PT10M",
+      "recipeYield": "1 to 2 servings",
+      "recipeCuisine": "british",
+      "recipeCategory": "easy, for one, for two, quick, weeknight, cakes, dessert",
+      "keywords": "dark brown sugar, date, heavy cream, valentine’s day, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 688
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 363,
+        "unsaturatedFatContent": "7 grams",
+        "carbohydrateContent": "43 grams",
+        "cholesterolContent": null,
+        "fatContent": "21 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "3 grams",
+        "saturatedFatContent": "13 grams",
+        "sodiumContent": "224 milligrams",
+        "sugarContent": "30 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 tablespoons unsalted butter",
+        "3 tablespoons dark brown sugar",
+        "3 tablespoons heavy cream",
+        "Salt",
+        "2 Medjool dates, pitted and chopped",
+        "1/4 teaspoon baking soda",
+        "1/4 cup/28 grams all-purpose flour",
+        "1/8 teaspoon ground cinnamon",
+        "Sour cream, vanilla ice cream or whipped cream, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a small bowl or mug, melt 1 tablespoon butter in the microwave, about 30 seconds. Add 2 tablespoons brown sugar, 1 tablespoon heavy cream and a pinch of salt. Microwave in 30-second bursts, stirring between each, until the sugar is melted and the mixture comes together into a sauce, 30 seconds to 1 minute. Set aside; the sauce will thicken as it sits."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a microwave-safe bowl or ramekin that holds at least 12 fluid ounces/1½ cups, combine the dates, remaining 1 tablespoon butter, remaining 2 tablespoons cream and the baking soda. Microwave until the butter has melted, 30 seconds to 1 minute. Mash the dates with a fork until broken down."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the flour, remaining tablespoon brown sugar, cinnamon and pinch of salt and stir just until combined. Spread into an even layer. Microwave until the top is just set, 45 seconds to 1 minute. Dollop with sour cream, vanilla ice cream or whipped cream and drizzle with the caramel sauce. Eat warm."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-02-13T00:00:00.000Z",
+      "dateModified": "2025-02-26T17:19:20.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "R"
+          },
+          "reviewBody": "Made half the recipe with 2% milk (no cream on hand) and half the sugar, excellent excellent 1 serving!\n\nSpecially that caramel sauce on top! Would try with cream next time.",
+          "datePublished": "2025-05-23T01:53:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Adriana M"
+          },
+          "reviewBody": "I have made this 3 times. First time, I followed the recipe to the letter. I found that I needed to microwave the cake about 15 seconds longer and the sauce was an overwhelming amount for the cake — way too sweet. Second time, I made half of the topping. It was near perfect, I wanted the cake itself to be richer. Third time, I still made half the topping but increased the dates to 3, I also added 1/2 tablespoon more of heavy cream to the cake because adding that 1 extra date dried the batter out a bit. This was the winning combination! This is such a genius hack recipe and it is scrumptious (my spouse agrees too.)",
+          "datePublished": "2025-05-22T01:57:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ruben"
+          },
+          "reviewBody": "Family smash hit. Incredibly easy to make. Next time my 9-yo child will make it for us!",
+          "datePublished": "2025-05-22T00:27:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Adventurous Cook"
+          },
+          "reviewBody": "Any way to change ratios so this can be made for 6 people at once instead of individual portions?",
+          "datePublished": "2025-05-18T15:40:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tanya"
+          },
+          "reviewBody": "@Matt in Oregon \"Pudding\" in England is not the same as pudding here in the U.S. I was so confused as a child when I first tried Yorkshire Pudding and asked where the pudding was at the end of the meal. I was laughed at and it was a monumental disappointment.",
+          "datePublished": "2025-05-17T19:11:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tammy"
+          },
+          "reviewBody": "Has anyone tried it with a brown sugar substitute? Want to make it for my dad and he is diabetic.",
+          "datePublished": "2025-05-17T13:53:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leftcoast cook"
+          },
+          "reviewBody": "Sticky toffee pudding was our favorite dessert when eating at pubs in the UK. Made this exactly as written and thought it turned out great, was super easy and just the right size for 2. It was better than the microwave chocolate mug cakes I've tried, probably due to the toffee sauce! The only thing I would change next time would be to leave out the cinnamon, but that's personal preference.",
+          "datePublished": "2025-05-15T17:25:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leo"
+          },
+          "reviewBody": "Wayyyyy too much baking soda. Was totally inedible. Not sure how it's rated so highly",
+          "datePublished": "2025-05-14T18:39:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Samantha"
+          },
+          "reviewBody": "After several grunts, my husband proclaimed “that is stupid good.” Will be making again!",
+          "datePublished": "2025-05-03T01:20:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam strong"
+          },
+          "reviewBody": "This does not serve 2. Just 1, who no longer cares about swimsuit season. One who is happy to have a warm dessert at their fingertips in just five minutes.",
+          "datePublished": "2025-05-03T13:43:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kim"
+          },
+          "reviewBody": "This was absolutely delicious! We ate sticky toffee   pudding from Edinburgh to Portsmouth, and this recipe rivals any we had in the UK!",
+          "datePublished": "2025-04-29T00:13:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Strix"
+          },
+          "reviewBody": "This is soooo good. I used a honeycomb ice cream on top after I let the cake cool just a touch and didn't have all-purpose flour so I used almond flour (1:1). Amazing, well worth keeping a stash of dates on hand for this! Someone mentioned trying with bananas, will have to give that a go next--yum!",
+          "datePublished": "2025-04-28T18:30:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kitchenindenim"
+          },
+          "reviewBody": "pretty darn delicious. stomach ache came on quick, so watch out esp if like us you dont eat dairy much! idk if this would work but id be curious what adding some oats would do to this. would make again.",
+          "datePublished": "2025-04-28T01:45:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rose K."
+          },
+          "reviewBody": "Easiest dessert of all:  \n\nWhip i pint of cream until stiff, fold 8n a jar of lemon curd.  Into parfait glasses or goblets you go! \nOr: Same quantities of whipped cream and Nutella.",
+          "datePublished": "2025-04-25T06:18:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kath"
+          },
+          "reviewBody": "This was way too sweet. Lauren made five of them and none of us ever want it again. March 2025",
+          "datePublished": "2025-04-22T00:04:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janet H."
+          },
+          "reviewBody": "Oh GAWD, my favorite dessert, in a quick-to-make version that one could make in just a few minutes,...this recipe was so easy and so good, that I would call it BAD.   Very bad, in that one can have this dessert anytime.   I made it twice, once as written and once with a previously-frozen mashed banana that I had on hand (thanks for that tip!).   Banana version not authentic in taste but still good.  If any of you love sticky toffee pudding, my advice:  \"Look away!  Nothing to see here!\".  Or else plan on skipping more meals.",
+          "datePublished": "2025-02-17T14:04:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stephanie"
+          },
+          "reviewBody": "Wow! This was unexpectedly delicious.  Very tasty and didn’t taste like a quick mug cake at all.  My husband and I enjoyed sharing an unexpected treat tonight.  Easy to put together and yummy!",
+          "datePublished": "2025-02-14T03:43:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deejay"
+          },
+          "reviewBody": "@Snacker Perhaps another recipe instead? The dates are essential for this dessert, with their natural caramel flavor heightened by the brown sugar. You could substitute prunes but that’s not sticky toffee pudding.",
+          "datePublished": "2025-02-14T10:08:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christina J"
+          },
+          "reviewBody": "Loved this! I made two batches in 14-oz mugs, following the recipe exactly. If your brown sugar is rock hard like mine was, stir it into the hot dates/cream/butter mixture before you add the flour and cinnamon and it will crumble and melt into the cup pretty well. \n\nThe caramel sauce was perfect — sweet and sticky — and it thickened up just right while I followed the rest of the recipe. \n\nI whipped up the rest of a small carton of heavy cream with a splash of vanilla and dolloped it on top.",
+          "datePublished": "2025-02-16T01:53:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bert"
+          },
+          "reviewBody": "Lydia, we're rarely without heavy cream in our house. Here's what you can do with it: a splash in your scrambled egg mixture (makes the best eggs), potatoes dauphinoise, finish potato leek soup w a splash, chicken pot pie, fish pie, really special mashed potatoes, penne vodka, homemade mac n cheese,ice cream!, Julia Thurshen's choc ganache is to die for & easy, choc pudding. It lasts forever in fridge.",
+          "datePublished": "2025-02-18T13:57:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ari"
+          },
+          "reviewBody": "Made this as is, came out pretty amazing! Topped with a nice spoon of crème fraiche",
+          "datePublished": "2025-02-15T01:53:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary Kate K"
+          },
+          "reviewBody": "@Snacker- try a banana. I have a Gordon Ramsey sticky toffee pudding made with a banana and it’s excellent!",
+          "datePublished": "2025-02-16T03:50:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cindy"
+          },
+          "reviewBody": "What a terrific recipe!  I made it last night and was thoroughly impressed.  I didn't have medjool dates so I used 4 of the smaller (deglet noor) ones.  Perfectly sweet, sauce, great texture.  Will definitely make it again.  All I had was plain yogurt so we topped it with that...this gem really deserves vanilla ice cream.",
+          "datePublished": "2025-02-16T06:58:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joe Robbins"
+          },
+          "reviewBody": "My wife is gluten free, so I used the Bob’s Red Mill 1:1 GF flour blend here with good results.  As with any baking recipe, wet/dry ratios almost never work out right converted to GF so just expect to splash another bit of cream in and maybe some more sugar.  It seems like the batter should be something you could pour slowly if you wanted to, like a traditional cake batter would do.  Sadly my dates are old and dry so the mashing didn’t do much to express them - thankfully I have a jar of date syrup that’s been waiting for a nod, so will likely try that next time to make sure the sweetness is there in the batter.  I used coconut sugar but no concerns there, syrup turned out just fine.  I love STP as a dessert, excited to keep playing with this recipe!",
+          "datePublished": "2025-02-16T01:17:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Markus"
+          },
+          "reviewBody": "I like the technique but for me personally this is sickeningly sweet. If I decide to try this again, I'd make half the amount of sauce and use half the amount of sugar in the dough.",
+          "datePublished": "2025-02-16T09:46:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenn J"
+          },
+          "reviewBody": "This recipe is “tha bomb!”  Quick and easy to put together, and tastes way more complex than it is.  We split it between two of us, I could have eaten it all myself, but it’s quite sweet.  We  served with a dollop of crème fraiche, which was a perfect creamy tangy counterpoint to the sweet sauce.  I might have this every week!",
+          "datePublished": "2025-02-20T01:04:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Snacker"
+          },
+          "reviewBody": "Substation for the dates?  Allergy….",
+          "datePublished": "2025-02-14T03:31:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Matt"
+          },
+          "reviewBody": "Is it okay to use a ramekin for this, or are those reserved for chocolate lava cake?",
+          "datePublished": "2025-02-15T16:53:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Lamb"
+          },
+          "reviewBody": "So delicious!!! What a fun, decadent, easy treat for a cold winter's day! I substituted oat milk (Sown unsweetened oat creamer) for the cream, and Bob's Red Mill 1:1 gluten free flour for the flour (using a little less flour than the recipe calls for and a little more milk). Perfectly delicious!! I ate the yummy pudding with plain yogurt, to cut the sweetness a little. I happened to have on hand fresh date palm sugar jaggery fresh from India to use instead of the brown sugar. Yum!!!!!",
+          "datePublished": "2025-02-20T22:31:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katie"
+          },
+          "reviewBody": "Recipe came out perfect with half a mashed banana instead of dates. Sure, it’s not sticky toffee pudding but caramel banana cake is pretty great.",
+          "datePublished": "2025-03-02T16:39:58.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026585-microwave-sticky-toffee-pudding",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "You’re just 10 minutes away from a bowl of soft, date-flecked cake draped in a brown sugary sauce. This speedy take on sticky toffee pudding is made for one or two people and doesn’t require turning on the oven — just the microwave. Topping your warm cake with cold ice cream, whipped cream or sour cream is a welcome contrast and helps temper the sweetness. A few toasted pecans on top would add a nice crunch.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Microwave Sticky Toffee Pudding",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/3b2ccd37-6990-5c53-8db6-9457051a63b5#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/19/multimedia/19FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg/13FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Kelly Marshall for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-02-17T18:29:27.742Z",
+          "datePublished": "2025-02-13T15:39:17.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-13T15:39:17.000Z",
+          "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg/13FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3b2ccd37-6990-5c53-8db6-9457051a63b5#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/19/multimedia/19FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg/13FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg-googleFourByThree.jpg",
+          "creditText": "Kelly Marshall for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-02-17T18:29:27.742Z",
+          "datePublished": "2025-02-13T15:39:17.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-13T15:39:17.000Z",
+          "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg/13FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/3b2ccd37-6990-5c53-8db6-9457051a63b5#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/19/multimedia/19FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg/13FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg-mediumSquareAt3X.jpg",
+          "creditText": "Kelly Marshall for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-02-17T18:29:27.742Z",
+          "datePublished": "2025-02-13T15:39:17.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-13T15:39:17.000Z",
+          "url": "https://static01.nyt.com/images/2025/02/19/multimedia/19FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg/13FAST-TREATS-REX1-AS-Sticky-Toffee-Pudding-fmtg-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026585-microwave-sticky-toffee-pudding"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:08:28.404Z",
+  "scraping_status": "scraped"
+}

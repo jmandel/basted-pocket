@@ -1,0 +1,561 @@
+{
+  "id": "e17da9f0c0a47968",
+  "original_url": "https://cooking.nytimes.com/recipes/1024037-tahini-ramen-salad",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1024037-tahini-ramen-salad",
+  "fetched_title": "Tahini Ramen Salad Recipe",
+  "main_text_content": "A breeze to make on busy weeknights, this fresh, colorful ramen salad is equally tasty at room temperature or chilled — which means it’s particularly picnic-friendly Chickpeas add creamy texture, contrasting the crisp bite of vibrant veggies Use your favorite combination: Yellow bell peppers, cucumbers, snap peas, radishes, celery, asparagus and cabbage are all great options",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026647-citrus-soy-chicken-ramen\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/03/18/multimedia/CR-citrus-soy-chicken-noodle-soup-ltgv/CR-citrus-soy-chicken-noodle-soup-ltgv-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/03/18/multimedia/CR-citrus-soy-chicken-noodle-soup-ltgv/CR-citrus-soy-chicken-noodle-soup-ltgv-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/03/18/multimedia/CR-citrus-soy-chicken-noodle-soup-ltgv/CR-citrus-soy-chicken-noodle-soup-ltgv-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/03/18/multimedia/CR-citrus-soy-chicken-noodle-soup-ltgv/CR-citrus-soy-chicken-noodle-soup-ltgv-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/03/18/multimedia/CR-citrus-soy-chicken-noodle-soup-ltgv/CR-citrus-soy-chicken-noodle-soup-ltgv-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/03/18/multimedia/CR-citrus-soy-chicken-noodle-soup-ltgv/CR-citrus-soy-chicken-noodle-soup-ltgv-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/03/18/multimedia/CR-citrus-soy-chicken-noodle-soup-ltgv/CR-citrus-soy-chicken-noodle-soup-ltgv-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/03/18/multimedia/CR-citrus-soy-chicken-noodle-soup-ltgv/CR-citrus-soy-chicken-noodle-soup-ltgv-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Citrus-Soy Chicken Ramen</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Christian Reynoso</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/04/13/multimedia/kc-tahini-ramen-salad-qflh/kc-tahini-ramen-salad-qflh-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/e17da9f0c0a47968/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/cc21d276-919f-5d13-a0bd-9bfc108925c5",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1024037-tahini-ramen-salad",
+        "@type": "WebPage",
+        "name": "Tahini Ramen Salad"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024037-tahini-ramen-salad",
+      "name": "Tahini Ramen Salad",
+      "description": "A breeze to make on busy weeknights, this fresh, colorful ramen salad is equally tasty at room temperature or chilled — which means it’s particularly picnic-friendly. Chickpeas add creamy texture, contrasting the crisp bite of vibrant veggies. Use your favorite combination: Yellow bell peppers, cucumbers, snap peas, radishes, celery, asparagus and cabbage are all great options. You can make the salad an hour ahead and let the savory tahini-garlic sauce soak into the noodles (at room temperature); just give it a quick toss before serving so that everything is evenly coated in the luscious sauce. If chilled, pull the salad from the refrigerator 10 minutes before serving to allow the sauce to soften, then give it a nice mix. ",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/734fc78e-8ac6-5db7-94ad-16eee9219f8e#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/04/13/multimedia/kc-tahini-ramen-salad-qflh/kc-tahini-ramen-salad-qflh-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Bobbi Lin for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2023-04-14T14:53:21.846Z",
+          "datePublished": "2023-04-14T14:53:21.846Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-04-14T14:53:21.846Z",
+          "url": "https://static01.nyt.com/images/2023/04/13/multimedia/kc-tahini-ramen-salad-qflh/kc-tahini-ramen-salad-qflh-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/734fc78e-8ac6-5db7-94ad-16eee9219f8e#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/04/13/multimedia/kc-tahini-ramen-salad-qflh/kc-tahini-ramen-salad-qflh-superJumbo.jpg",
+          "creditText": "Bobbi Lin for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2023-04-14T14:53:21.846Z",
+          "datePublished": "2023-04-14T14:53:21.846Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2023-04-14T14:53:21.846Z",
+          "url": "https://static01.nyt.com/images/2023/04/13/multimedia/kc-tahini-ramen-salad-qflh/kc-tahini-ramen-salad-qflh-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/734fc78e-8ac6-5db7-94ad-16eee9219f8e#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/04/13/multimedia/kc-tahini-ramen-salad-qflh/kc-tahini-ramen-salad-qflh-mediumSquareAt3X.jpg",
+          "creditText": "Bobbi Lin for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2023-04-14T14:53:21.846Z",
+          "datePublished": "2023-04-14T14:53:21.846Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-04-14T14:53:21.846Z",
+          "url": "https://static01.nyt.com/images/2023/04/13/multimedia/kc-tahini-ramen-salad-qflh/kc-tahini-ramen-salad-qflh-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT20M",
+      "cookTime": "PT10M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, quick, weeknight, noodles, main course, side dish",
+      "keywords": "chickpea, picnic, ramen noodle, salad, tahini, spring, summer, vegan",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 806
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 932,
+        "unsaturatedFatContent": "36 grams",
+        "carbohydrateContent": "97 grams",
+        "cholesterolContent": null,
+        "fatContent": "51 grams",
+        "fiberContent": "16 grams",
+        "proteinContent": "25 grams",
+        "saturatedFatContent": "12 grams",
+        "sodiumContent": "2233 milligrams",
+        "sugarContent": "7 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "12 ounces dry ramen noodles (or four 3-ounce individual packages, seasoning packets discarded or reserved for another use)",
+        "6 tablespoons tahini",
+        "6 tablespoons extra-virgin olive oil",
+        "1/4 cup distilled white vinegar",
+        "2 tablespoons minced ginger",
+        "2 tablespoons sweet miso",
+        "1 tablespoon minced garlic",
+        "Kosher salt and black pepper",
+        "1 (15-ounce) can chickpeas, rinsed",
+        "4 cups thinly sliced vegetables (such as yellow bell pepper, cucumbers, radishes and snap peas)",
+        "1/2 cup thinly sliced scallions"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a medium pot of boiling water, cook the ramen noodles according to package directions until al dente. Drain, rinse under cold water until cool, then drain well; transfer to a large bowl."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a small bowl, combine tahini, oil, vinegar, ginger, miso, garlic and 1/4 cup of water. Season with salt and pepper and whisk until smooth. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add 1/2 cup of the dressing to the noodles, season and toss to coat. Add chickpeas, sliced vegetables, scallions and remaining dressing; season and toss to coat. Serve at room temperature or chilled."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-04-13T00:00:00.000Z",
+      "dateModified": "2023-10-11T21:28:08.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LK"
+          },
+          "reviewBody": "Delicious, fast & easy.  Used 3 packets of Momofuku ramen noodles, and cut dressing ingredients by 1/3 to feed three of us.  For veggies - bag of sugar snap peas and shredded carrots, then used mandoline for thinly sliced cucumber and radish.  \nFinished with lime juice and cilantro.  Topped with salmon.  Perfect weeknight meal.",
+          "datePublished": "2024-09-02T18:28:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "liz"
+          },
+          "reviewBody": "A bland version of sesame noodles.",
+          "datePublished": "2024-08-24T22:32:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jing G"
+          },
+          "reviewBody": "ramen noodles are different than the instant noodles found in instant ramen packs… just like when a pasta recipe calls for pasta they don’t mean the mac & cheese parboiled pasta.",
+          "datePublished": "2024-08-19T10:42:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "VG"
+          },
+          "reviewBody": "To the person asking about Miso - white miso is sweet miso.",
+          "datePublished": "2024-08-18T00:00:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AG"
+          },
+          "reviewBody": "I'm concerned about the calorie count for this dish, but that didn't stop me from thoroughly enjoying it! A great summer meal. Thanks, NYT.",
+          "datePublished": "2024-07-22T22:37:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill"
+          },
+          "reviewBody": "Made it according to the recipe except for the chickpeas. I agree that the prep time goes longer because of slicing the vegetables. But it is delicious and is definitely going into my dinner rotation. With only two of us, it’s going to be a side salad for a few days. The suggestion of adding a bit of fresh lime juice sounds good too.",
+          "datePublished": "2024-06-23T20:54:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Teri"
+          },
+          "reviewBody": "I thought it needed some heat, so I drizzled some chili crisp on top. Next time I might add some chopped chilis instead. Took others suggestions and added lime to dressing and cilantro to salad. It’s a LOT of dressing, will half the recipe in the future.",
+          "datePublished": "2024-06-23T23:26:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol"
+          },
+          "reviewBody": "Followed the recipe exactly and this was fantastic.  The dressing is the key.",
+          "datePublished": "2024-06-20T21:36:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth"
+          },
+          "reviewBody": "This salad was excellent day-of, with bell pepper, radish, cucumber, carrots, shallots and green onion. We made the full dressing recipe, but after tasting found that adding about half the dressing was plenty. I went back for the leftovers 3-4 days later and was disappointed - the noodles sitting in the dressing had gotten a bit soggy. I would try again with fettuccini, maybe, to see if that holds up better as a leftover.",
+          "datePublished": "2024-06-20T17:06:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katie J"
+          },
+          "reviewBody": "SO GOOD! Followed the recipe exactly-ish - for the sliced veggies I used sautéed eggplant and leeks, then raw sliced daikon radishes, cucumbers, and a jalapeño!",
+          "datePublished": "2024-06-20T00:28:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "gail"
+          },
+          "reviewBody": "We did not like this recipe. A gloopy, monotonous, mess.",
+          "datePublished": "2024-06-16T03:12:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "L"
+          },
+          "reviewBody": "In recipes, if the ingredient list says \"sliced X\" or \"chopped X\" or similar, then that prep time is not included in the total time for the recipe -- it's considered that you're starting the recipe with that prep in place. If the ingredient list says \"X\" and a step in the recipe is \"Chop X,\" then that time would be included in the total time. You can quibble about whether the total time is always a helpful metric because of that, but that's standard with all recipes.",
+          "datePublished": "2024-06-08T15:23:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sara"
+          },
+          "reviewBody": "Recipe times are somewhat misleading--the time quoted in the recipe is how long it would take you to make the recipe as it calls for. When the ingredient list says \"4 cups thinly sliced vegetables\" the time it takes you to prepare those vegetables are not counted. It's a weird convention, but not something that is specific to NYT Cooking.",
+          "datePublished": "2024-06-10T20:59:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Berkshires Jim"
+          },
+          "reviewBody": "What I have learned with the timing for these recipes over the years is that they do NOT include the time needed to prepare the veggies.  Looking at the recipe,  it calls for 4 cups of thinly sliced vegetables....and thus, does not include the time necessary to prepare said 4 cups.  Is it misleading?...yes, but over the years I have learned to take that into consideration.",
+          "datePublished": "2024-06-08T20:17:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dave"
+          },
+          "reviewBody": "This was a real disappointment.",
+          "datePublished": "2024-06-09T00:42:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol S."
+          },
+          "reviewBody": "This tasted great but must be eaten same day. If stored , the ramen noodles get mushy. Had to throw my leftovers out.",
+          "datePublished": "2024-06-08T15:49:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "leelee"
+          },
+          "reviewBody": "I love, love, love the New York Times cooking app, truly, I do. Indeed I would call myself a devotee. And I always know when a recipe says it’s going to take 30 minutes or an hour to add time to it. But in this case, I have to protest. 4 cups of thinly sliced vegetables, and all of the other steps at 30 minutes? You have to have some pretty exceptional knife skills to pull that off. Please, be a little bit more realistic for home cooks in the amount of time.",
+          "datePublished": "2023-04-17T23:51:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DemiBree"
+          },
+          "reviewBody": "The first few bites I felt something was missing, but I found myself going back for seconds, so the recipe definitely has potential. I added a little maple syrup, and next time I might experiment with using lime juice or rice vinegar, a little chili, maybe cilantro. I look forward to reading what enhancements others come up with.",
+          "datePublished": "2023-04-16T13:54:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BMN"
+          },
+          "reviewBody": "Shirataki noodles substitute nicely for ramen.  Also can benefit from using rice vinegar, cilantro, and chili crisp.",
+          "datePublished": "2023-04-17T15:24:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JM"
+          },
+          "reviewBody": "Easy short cut if you’re like me and your cooking goals always manage outstrip your weekday energy level: Trader Joe’s Green Goddess Tahini dressing. Worked great on this salad and on a couple other tahini-centric recipes on this app those ingredients would have otherwise languished in my fridge while I clicked take out at the end of yet another exhausting day.",
+          "datePublished": "2023-05-04T18:20:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pam"
+          },
+          "reviewBody": "Good question. I had to look it up. I found this from Spruce Eats.\nWhite or light miso (sometimes called sweet miso) can be light beige to yellow in color and tends to be lighter and sweeter in flavor thanks to a shorter fermentation time. It's made with less soybean content and more grains, like white rice.",
+          "datePublished": "2023-04-17T15:37:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nora Narum"
+          },
+          "reviewBody": "We have been enjoying Momofuku ramen, which has way less fat since the noodles are not fried. 3 packages, which would be about 10.2 ounces, would have only 7.5 grams of fat instead of 55 grams.",
+          "datePublished": "2023-04-17T22:24:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marie Taaffe"
+          },
+          "reviewBody": "Soba noodles with 100% buckwheat flour for a delicious gluten free meal",
+          "datePublished": "2023-04-18T17:24:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol G"
+          },
+          "reviewBody": "Jeri E, The 200 gr of fat in the total recipe (about 50 per each of 4 servings) is as follows: 78 from olive oil, 48 from tahini, 55 from ramen, and 27 from chickpeas.",
+          "datePublished": "2023-04-17T15:56:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jen in Atlanta"
+          },
+          "reviewBody": "Ramen noodles are not pre-fried. I’m not sure why there are so many comments claiming this.",
+          "datePublished": "2023-04-17T20:43:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Momotaro"
+          },
+          "reviewBody": "It's white miso, though I have seen \"sweet miso\" or \"ama miso\" sold in markets.",
+          "datePublished": "2023-04-17T15:31:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "GeoPillow"
+          },
+          "reviewBody": "I thought this would be especially good with those bouncy kind of noodles that are in udon ramen, and I was right.  It was delicious, but I couldn't resist topping it off with some chile crisp, because... well, chile crisp is irresistible.",
+          "datePublished": "2023-04-17T17:29:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kiara"
+          },
+          "reviewBody": "I made this with a 300g package of Chinese wheat noodles. I used asparagus, radish, snow peas, bell pepper, and shredded carrot. I added a little bit of chilli crisp to the dressing. Garnished with cilantro. Very tasty and customizable. My partner ate 3 bowls in one sitting. I will make again.",
+          "datePublished": "2023-04-22T01:35:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth"
+          },
+          "reviewBody": "Big hit! Added a bit of chili paste, lime and cilantro as per notes.",
+          "datePublished": "2023-04-25T04:09:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ConnieConnie"
+          },
+          "reviewBody": "That can't be right, chickpeas have minimal fat.",
+          "datePublished": "2023-04-17T19:09:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "reviewBody": "What is sweet miso? I've seen white and red miso. Is one sweet?",
+          "datePublished": "2023-04-17T15:11:17.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1024037-tahini-ramen-salad",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "A breeze to make on busy weeknights, this fresh, colorful ramen salad is equally tasty at room temperature or chilled — which means it’s particularly picnic-friendly. Chickpeas add creamy texture, contrasting the crisp bite of vibrant veggies. Use your favorite combination: Yellow bell peppers, cucumbers, snap peas, radishes, celery, asparagus and cabbage are all great options. You can make the salad an hour ahead and let the savory tahini-garlic sauce soak into the noodles (at room temperature); just give it a quick toss before serving so that everything is evenly coated in the luscious sauce. If chilled, pull the salad from the refrigerator 10 minutes before serving to allow the sauce to soften, then give it a nice mix. ",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Tahini Ramen Salad",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/734fc78e-8ac6-5db7-94ad-16eee9219f8e#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/04/13/multimedia/kc-tahini-ramen-salad-qflh/kc-tahini-ramen-salad-qflh-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Bobbi Lin for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2023-04-14T14:53:21.846Z",
+          "datePublished": "2023-04-14T14:53:21.846Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-04-14T14:53:21.846Z",
+          "url": "https://static01.nyt.com/images/2023/04/13/multimedia/kc-tahini-ramen-salad-qflh/kc-tahini-ramen-salad-qflh-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/734fc78e-8ac6-5db7-94ad-16eee9219f8e#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/04/13/multimedia/kc-tahini-ramen-salad-qflh/kc-tahini-ramen-salad-qflh-superJumbo.jpg",
+          "creditText": "Bobbi Lin for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2023-04-14T14:53:21.846Z",
+          "datePublished": "2023-04-14T14:53:21.846Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2023-04-14T14:53:21.846Z",
+          "url": "https://static01.nyt.com/images/2023/04/13/multimedia/kc-tahini-ramen-salad-qflh/kc-tahini-ramen-salad-qflh-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/734fc78e-8ac6-5db7-94ad-16eee9219f8e#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/04/13/multimedia/kc-tahini-ramen-salad-qflh/kc-tahini-ramen-salad-qflh-mediumSquareAt3X.jpg",
+          "creditText": "Bobbi Lin for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2023-04-14T14:53:21.846Z",
+          "datePublished": "2023-04-14T14:53:21.846Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-04-14T14:53:21.846Z",
+          "url": "https://static01.nyt.com/images/2023/04/13/multimedia/kc-tahini-ramen-salad-qflh/kc-tahini-ramen-salad-qflh-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024037-tahini-ramen-salad"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:11:34.576Z",
+  "scraping_status": "scraped"
+}

@@ -1,0 +1,477 @@
+{
+  "id": "6bfac3872ed7950d",
+  "original_url": "https://cooking.nytimes.com/recipes/1022681-crispy-salmon-with-mixed-seeds",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1022681-crispy-salmon-with-mixed-seeds",
+  "fetched_title": "Crispy Salmon With Mixed Seeds Recipe",
+  "main_text_content": "This recipe produces not only silky salmon with a crunchy coating of fragrant seeds, but also a shatteringly crisp skin That’s all thanks to yogurt, which secures the seeds to the salmon and caramelizes into a crust when cooked Mix assertive and mild seeds for a balance of textures and flavors, or swap in a ready-made seed mix like everything bagel spice or dukkah",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1024496-baked-salmon\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"Four pieces of salmon are roasted with a simple spice mixture.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Baked Salmon</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Lidey Heuck</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/10/26/dining/as-crispy-salmon-with-mixed-seeds/merlin_189371934_3b038880-f0fc-496c-96fe-048eaaecb898-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/6bfac3872ed7950d/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/6ed95849-ae73-5ae3-8733-e32a378dbbff",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1022681-crispy-salmon-with-mixed-seeds",
+        "@type": "WebPage",
+        "name": "Crispy Salmon With Mixed Seeds"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022681-crispy-salmon-with-mixed-seeds",
+      "name": "Crispy Salmon With Mixed Seeds",
+      "description": "This recipe produces not only silky salmon with a crunchy coating of fragrant seeds, but also a shatteringly crisp skin. That’s all thanks to yogurt, which secures the seeds to the salmon and caramelizes into a crust when cooked. Mix assertive and mild seeds for a balance of textures and flavors, or swap in a ready-made seed mix like everything bagel spice or dukkah. Eat the seared salmon with more yogurt, as well as a squeeze of citrus and tuft of herbs for freshness.",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/1d237d42-81c9-5f0b-82a6-f78e17589da8#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/10/26/dining/as-crispy-salmon-with-mixed-seeds/merlin_189371934_3b038880-f0fc-496c-96fe-048eaaecb898-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-10-26T18:26:22.863Z",
+          "datePublished": "2021-10-26T18:26:22.863Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-10-26T18:26:22.863Z",
+          "url": "https://static01.nyt.com/images/2021/10/26/dining/as-crispy-salmon-with-mixed-seeds/merlin_189371934_3b038880-f0fc-496c-96fe-048eaaecb898-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/1d237d42-81c9-5f0b-82a6-f78e17589da8#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/10/26/dining/as-crispy-salmon-with-mixed-seeds/merlin_189371934_3b038880-f0fc-496c-96fe-048eaaecb898-superJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-10-26T18:26:22.863Z",
+          "datePublished": "2021-10-26T18:26:22.863Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2021-10-26T18:26:22.863Z",
+          "url": "https://static01.nyt.com/images/2021/10/26/dining/as-crispy-salmon-with-mixed-seeds/merlin_189371934_3b038880-f0fc-496c-96fe-048eaaecb898-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/1d237d42-81c9-5f0b-82a6-f78e17589da8#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/10/26/dining/as-crispy-salmon-with-mixed-seeds/merlin_189371934_3b038880-f0fc-496c-96fe-048eaaecb898-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-10-26T18:26:22.863Z",
+          "datePublished": "2021-10-26T18:26:22.863Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-10-26T18:26:22.863Z",
+          "url": "https://static01.nyt.com/images/2021/10/26/dining/as-crispy-salmon-with-mixed-seeds/merlin_189371934_3b038880-f0fc-496c-96fe-048eaaecb898-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, weeknight, seafood, main course",
+      "keywords": "salmon, seeds, yogurt",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 499
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 476,
+        "unsaturatedFatContent": "17 grams",
+        "carbohydrateContent": "8 grams",
+        "cholesterolContent": null,
+        "fatContent": "31 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "42 grams",
+        "saturatedFatContent": "8 grams",
+        "sodiumContent": "704 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 1/2 cups loosely packed soft herb leaves and tender stems (such as mint, dill, cilantro or parsley, or a combination)",
+        "1 lemon or lime",
+        "1 cup full-fat Greek yogurt",
+        "Kosher salt",
+        "1 tablespoon sesame, millet or sunflower seeds",
+        "1 1/2 teaspoons fennel, cumin or coriander seeds",
+        "1/2 teaspoon black pepper",
+        "4 (6-ounce) skin-on salmon fillets",
+        "1 tablespoon neutral oil, such as canola or grapeseed"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Finely chop 2 tablespoons of the herbs, and set aside the remaining herbs in a small bowl or measuring cup. Finely grate 1 1/2 teaspoons lemon zest. In a medium bowl, stir together the chopped herbs, lemon zest and yogurt. Season with salt. Transfer 3 tablespoons of the yogurt to a small bowl. To the small bowl, add the sesame seeds, fennel seeds and black pepper. Stir to combine. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pat the salmon dry. Season both sides lightly with salt. Spread the seeded yogurt evenly over the flesh side of the salmon. (This will be a thin layer; you’ll still be able to see the flesh through the yogurt in spots)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Coat the bottom of a large (12-inch) nonstick skillet with the oil. Add the fish skin side down, then place the skillet over medium heat. Cook until the skin releases easily from the pan and the flesh is opaque 3/4 of the way up the sides, 10 to 12 minutes. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, thin the remaining yogurt with water (about 1 to 2 tablespoons) until it’s saucy and spoonable. Lightly dress the herbs with a squeeze of the lemon, then cut the remaining lemon into wedges for serving. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When the salmon is nearly cooked through, flip the fish, and swirl so the oil goes under the fish. Cook until the seeds are fragrant and the fish releases easily from the pan, 1 to 2 minutes. (Reduce or turn off the heat, if burning). Gently transfer the fish to plates skin side up so it doesn’t get soggy. Eat with the yogurt sauce, herb salad and lemon wedges."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-10-25T00:00:00.000Z",
+      "dateModified": "2021-10-26T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jamie"
+          },
+          "reviewBody": "I have determined the air fryer to be the best way to cook salmon, every time. Skin side up for the crispiest skin. \n\nThis yogurt-seed mixture is a dream!",
+          "datePublished": "2024-09-26T15:23:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Todd Galinko"
+          },
+          "reviewBody": "I've had luck with crispy fish by placing salmon in cold pan, cooking on high with a cover for 7 minutes. Will try this coating with that method",
+          "datePublished": "2024-09-25T17:57:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily"
+          },
+          "reviewBody": "This was so delicious-best salmon recipe I have made from the NYTimes.",
+          "datePublished": "2024-03-11T23:22:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lauren"
+          },
+          "reviewBody": "This was easy. I used the techniques of starting with a cold skillet and finishing in a hot oven, used cardamom and fennel for seeds and dill and parsley for herbs. I had to use two skillets.\nMy only issue was that the crust didn't brown nicely in the oven. I'm wondering if a quick broil would help.",
+          "datePublished": "2023-12-31T13:33:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ron Jamieson"
+          },
+          "reviewBody": "I do a variation on this using only sesame seeds.\n\nI marinate the salmon, cut into individual servings, in a mix of Kikkoman Soy sauce and sesame oil. Then I coat the salmon portions in sesame seeds.\n\nUsually, I cook this on the grill, but it also can be cooked in a frying pan.",
+          "datePublished": "2023-12-07T19:24:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stephanie Knopp"
+          },
+          "reviewBody": "Really good recipe. I used sockeye salmon fillets and a coating of toasted sunflower seeds that were chopped in the blender with cumin powder. The herb blend was fresh parsley, basil, and dill, though I’m interested in trying mint. I’ll also try a seed blend (sesame, sunflower, and poppy) for a stronger flavor. Because the salmon fillets were only 3/4 inch thick, I reduced the cooking time by 2 minutes. I want to experiment with other flavors like coriander next time I cook this.",
+          "datePublished": "2023-06-17T04:32:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "InspireLakeMum"
+          },
+          "reviewBody": "This was ok on taste, but absolutely did not produce crispy skin.  Everyone at my table ended up scraping off the spice mixture. Cast iron salmon beats this hands down every time — for taste and consistency.",
+          "datePublished": "2023-03-26T19:23:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth"
+          },
+          "reviewBody": "I seldom have such a different take from the community notes, but my husband and I thought this was terrible. All we could taste was the seeds, and they overpowered the salmon. Minimally crispy skin, overall a waste of good ingredients. And we did follow the recipe! The gods of cooking are fickle, I guess?",
+          "datePublished": "2023-03-17T17:39:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MC"
+          },
+          "reviewBody": "Cook in the oven, as seeds get pulled off in the skillet.",
+          "datePublished": "2023-03-17T02:35:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa G"
+          },
+          "reviewBody": "Really nice weeknight dish.  The sauce is kind of bland.  Adding some lemon juice and cumin greatly improved it.  I also mixed it with some vinegar and oil and it made a great salad dressing!\n\nThe seeds on the salmon are great but more are needed.  It takes way longer than this recipe says to get the salmon cooked.",
+          "datePublished": "2023-02-28T14:38:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eric Leif Peters"
+          },
+          "reviewBody": "Needs more  seeds and yogurt dressing.",
+          "datePublished": "2023-02-24T02:03:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hannah F"
+          },
+          "reviewBody": "I found this absolutely delicious! It was a quick and easy fix and the flavors worked so well with salmon. I used mint, basil, and parsley for herbs and a seed mix I generally keep on hand (flax, chia, sunflower, black sesame) along with fennel seeds. They are powerful flavors but salmon can stand up to something like that. I had it along with a basic cabbage slaw dressed with the leftover yoghurt and herbs.",
+          "datePublished": "2023-01-07T04:42:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "tammy"
+          },
+          "reviewBody": "Delicious but found the actual getting to temp working from a cold pan very difficult.  we like our fish medium rare. Using the recipe timing - fish was still cold and raw in the center but trying to get to medium rare ended up with medium well fish.  Skin did not get particularly crisp. Coating is delicious and almost makes a sauce on it's own.  Reminded me of a dish my mom used to make by baking a brick of frozen flounder covered in a full container of sour cream and dusted with paprika.",
+          "datePublished": "2022-05-03T00:57:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John F."
+          },
+          "reviewBody": "This...was elegant meal worthy. Thank you, Ali. My first bite, and the rest, were memorable.",
+          "datePublished": "2022-04-28T15:58:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Es"
+          },
+          "reviewBody": "I just did the salmon part of the recipe. For the 2 of us I used .75 lb salmon filet and mixed about 3 TBSP 5% Fage yogurt with some sesame and fennel seeds and lemon zest. Coated the fish and cooked. Took a little longer than I expected but the result was so flavorful and the skin crispy. Quite enjoyable. In the summer when I have an abundance of my own herbs will do the rest of the recipe.",
+          "datePublished": "2022-03-06T16:11:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lucy"
+          },
+          "reviewBody": "I haven’t tried this recipe yet, but a tip for producing that crisp crust on salmon:  Place your cast iron skillet over high heat on an outdoor grill and allow it to get very hot.  Add your well oiled fish, and let all the sizzle, spatter, and smell remain outdoors.  Reduce heat or move your pan to a cooler part of the grill.  Let the crust form and then flip your fish and allow it to finish at lower temp.  I never cook fish indoors anymore.",
+          "datePublished": "2021-10-27T19:57:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eva"
+          },
+          "reviewBody": "This was delicious and quite easy. I enjoyed the simple but effective technique of cooking the salmon from a cold pan—it allows the skin to crisp without shrinking. Plus less spatter. I used cilantro, sesame seeds, and a combo of fennel and cumin.\n\nThe only thing is that you have to decide which side you want to remain crisp, as the one you put on the plate will go a little soggy.",
+          "datePublished": "2021-10-30T04:59:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "alex"
+          },
+          "reviewBody": "Next time I would not flip the fish but rather finish it in a 400 degree oven.  I feel like flipping it messed the beautiful topping up.  I made roasted carrots with turmeric and chili so it would be perfect to finish in the oven.",
+          "datePublished": "2021-11-10T00:29:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NJR"
+          },
+          "reviewBody": "excellent. The positives? Skin was wonderful; flesh with yogurt and herbs was filling and meaty. The seed coating would have been worth eating on its own. Negatives?  It was hard to gauge how much salt to use and there was far more yogurt\\herb mix than I needed for cooking and the sauce. And it smoked up the kitchen substantially. Also, I disturbed the seed crust when flipping the fish. I wonder if there is a way to avoid that.\nThe positives outweighed the negatives by a substantial margin",
+          "datePublished": "2021-11-04T00:40:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hannah F"
+          },
+          "reviewBody": "I found this absolutely delicious! It was a quick and easy fix and the flavors worked so well with salmon. I used mint, basil, and parsley for herbs and a seed mix I generally keep on hand (flax, chia, sunflower, black sesame) along with fennel seeds. They are powerful flavors but salmon can stand up to something like that. I had it along with a basic cabbage slaw dressed with the leftover yoghurt and herbs.",
+          "datePublished": "2023-01-07T04:42:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ron Jamieson"
+          },
+          "reviewBody": "I do something similar with salmon.\n\nI marinate the salmon, pre-sliced into portions, in a mix of Kikkoman soy sauce and sesame oil, then roll in sesame seeds and grill.\n\nKikkoman has the best flavor for this, so don't bother trying with plain old black soya sauce like you'd use for Chinese.",
+          "datePublished": "2021-11-05T18:14:00.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1022681-crispy-salmon-with-mixed-seeds",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "This recipe produces not only silky salmon with a crunchy coating of fragrant seeds, but also a shatteringly crisp skin. That’s all thanks to yogurt, which secures the seeds to the salmon and caramelizes into a crust when cooked. Mix assertive and mild seeds for a balance of textures and flavors, or swap in a ready-made seed mix like everything bagel spice or dukkah. Eat the seared salmon with more yogurt, as well as a squeeze of citrus and tuft of herbs for freshness.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Crispy Salmon With Mixed Seeds",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/1d237d42-81c9-5f0b-82a6-f78e17589da8#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/10/26/dining/as-crispy-salmon-with-mixed-seeds/merlin_189371934_3b038880-f0fc-496c-96fe-048eaaecb898-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-10-26T18:26:22.863Z",
+          "datePublished": "2021-10-26T18:26:22.863Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-10-26T18:26:22.863Z",
+          "url": "https://static01.nyt.com/images/2021/10/26/dining/as-crispy-salmon-with-mixed-seeds/merlin_189371934_3b038880-f0fc-496c-96fe-048eaaecb898-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/1d237d42-81c9-5f0b-82a6-f78e17589da8#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/10/26/dining/as-crispy-salmon-with-mixed-seeds/merlin_189371934_3b038880-f0fc-496c-96fe-048eaaecb898-superJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-10-26T18:26:22.863Z",
+          "datePublished": "2021-10-26T18:26:22.863Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2021-10-26T18:26:22.863Z",
+          "url": "https://static01.nyt.com/images/2021/10/26/dining/as-crispy-salmon-with-mixed-seeds/merlin_189371934_3b038880-f0fc-496c-96fe-048eaaecb898-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/1d237d42-81c9-5f0b-82a6-f78e17589da8#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/10/26/dining/as-crispy-salmon-with-mixed-seeds/merlin_189371934_3b038880-f0fc-496c-96fe-048eaaecb898-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-10-26T18:26:22.863Z",
+          "datePublished": "2021-10-26T18:26:22.863Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-10-26T18:26:22.863Z",
+          "url": "https://static01.nyt.com/images/2021/10/26/dining/as-crispy-salmon-with-mixed-seeds/merlin_189371934_3b038880-f0fc-496c-96fe-048eaaecb898-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022681-crispy-salmon-with-mixed-seeds"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:10:06.511Z",
+  "scraping_status": "scraped"
+}

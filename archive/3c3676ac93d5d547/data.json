@@ -1,0 +1,624 @@
+{
+  "id": "3c3676ac93d5d547",
+  "original_url": "https://cooking.nytimes.com/recipes/1014804-one-pot-mujadara-with-leeks-and-greens",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1014804-one-pot-mujadara-with-leeks-and-greens",
+  "fetched_title": "One-Pot Mujadara With Leeks and Greens Recipe (with Video)",
+  "main_text_content": "Cookbooks will tell you that, in the Middle East, mujadara is the essence of comfort food, a humble dish made from pantry staples To that I will add how easy it is to make The only part that needs some attention is the frying of the onions (or in this case, leeks)",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026528-mujadara-lentils-and-rice-with-fried-onions\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/05/15/multimedia/ND-Mujadara-kzgm/ND-Mujadara-kzgm-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Mujadara (Lentils and Rice With Fried Onions)</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Naz Deravian</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-superJumbo.jpg",
+  "local_image_path": "scraped/3c3676ac93d5d547/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/e87431f2-f2c2-579a-a728-701db0d07392",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1014804-one-pot-mujadara-with-leeks-and-greens",
+        "@type": "WebPage",
+        "name": "One-Pot Mujadara With Leeks and Greens"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1014804-one-pot-mujadara-with-leeks-and-greens",
+      "name": "One-Pot Mujadara With Leeks and Greens",
+      "description": "Cookbooks will tell you that, in the Middle East, mujadara is the essence of comfort food, a humble dish made from pantry staples. To that I will add how easy it is to make.\n\nThe only part that needs some attention is the frying of the onions (or in this case, leeks). To get them crisp, you have to cook them until they are deeply brown and darker than you might be comfortable with. But without the deep color, you don’t get the crunch. Just make sure to take them off the heat before they burn. You want the majority to be mahogany, not black (though a few black strands would be O.K.).",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/68769f5f-db1f-5ac1-8a9e-4443a9ced713#videoSixteenByNine1050",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-videoSixteenByNine1050.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2014-07-31T19:23:00.000Z",
+          "datePublished": "2014-07-31T19:23:15.000Z",
+          "height": "591",
+          "representativeOfPage": true,
+          "uploadDate": "2014-07-31T19:23:15.000Z",
+          "url": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-videoSixteenByNine1050.jpg",
+          "width": "1050"
+        },
+        {
+          "@id": "nyt://image/68769f5f-db1f-5ac1-8a9e-4443a9ced713#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2014-07-31T19:23:00.000Z",
+          "datePublished": "2014-07-31T19:23:15.000Z",
+          "height": "1152",
+          "representativeOfPage": true,
+          "uploadDate": "2014-07-31T19:23:15.000Z",
+          "url": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/68769f5f-db1f-5ac1-8a9e-4443a9ced713#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-square640.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2014-07-31T19:23:00.000Z",
+          "datePublished": "2014-07-31T19:23:15.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2014-07-31T19:23:15.000Z",
+          "url": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT35M",
+      "recipeYield": "6 to 8 servings",
+      "recipeCuisine": "middle eastern",
+      "recipeCategory": "dinner, lunch, one pot, main course",
+      "keywords": "leek, lentil, spring greens, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 2409
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 228,
+        "unsaturatedFatContent": "6 grams",
+        "carbohydrateContent": "34 grams",
+        "cholesterolContent": null,
+        "fatContent": "7 grams",
+        "fiberContent": "4 grams",
+        "proteinContent": "8 grams",
+        "saturatedFatContent": "1 gram",
+        "sodiumContent": "209 milligrams",
+        "sugarContent": "2 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 cup brown or green lentils",
+        "2 leeks, white and light green parts only, roots trimmed",
+        "2 1/4 teaspoons salt, more as needed",
+        "1/4 cup extra-virgin olive oil",
+        "2 garlic cloves, minced",
+        "3/4 cup long-grain rice",
+        "1 1/2 teaspoons ground cumin",
+        "1/2 teaspoon ground allspice",
+        "1/4 teaspoon cayenne",
+        "1 bay leaf",
+        "1 cinnamon stick",
+        "4 cups trimmed and chopped spring greens (chard leaves, spinach, kale, mustard or a combination)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place lentils in a large bowl and add warm tap water to cover by 1 inch. Let soak."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, halve leeks lengthwise; run under warm water to release any grit. Thinly slice leeks crosswise."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oil in a Dutch oven or large pot over medium-high heat. Add leeks and cook, stirring occasionally, until golden brown and crispy, 5 to 10 minutes. Transfer half the leeks to a bowl to use for garnish and sprinkle with 1/4 teaspoon salt."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Stir garlic into the pot with the remaining leeks and cook for 15 seconds until fragrant. Stir in rice and sauté 2 minutes. Stir in cumin, allspice and cayenne; sauté 30 seconds."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Drain lentils and stir into pot. Add 4 1/4 cups water, 2 teaspoons salt, bay leaf and cinnamon stick. Bring to a simmer. Cover and cook over low heat for 15 minutes. Rinse greens in a colander and spread damp leaves over lentil mixture. Cover and cook 5 minutes more, until rice and lentils are tender and greens are wilted. Remove from heat and let stand, covered, for 5 minutes. Serve sprinkled with reserved crispy leeks."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/95c0e9ef-d359-57da-8ff6-aff25f8fd820",
+        "@type": "VideoObject",
+        "author": {
+          "@type": "Person",
+          "name": "David Frank"
+        },
+        "bitrate": "1500000",
+        "contentUrl": "http://vp.nyt.com/video/2013/06/14/21658_1_clarkmujadara_wg_480p.mp4",
+        "dateModified": "2024-10-15T14:45:37.193Z",
+        "datePublished": "2013-06-14T20:17:18.000Z",
+        "description": "Melissa Clark puts her own twist on mujadara, a traditional Middle Eastern dish of lentils and rice, by adding spring greens.",
+        "duration": "PT2M41S",
+        "height": "480",
+        "inLanguage": "en-US",
+        "name": "One-Pot Mujadara",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/68769f5f-db1f-5ac1-8a9e-4443a9ced713#videoSixteenByNine1050",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-videoSixteenByNine1050.jpg",
+            "creditText": "Andrew Scrivani for The New York Times",
+            "dateModified": "2014-07-31T19:23:00.000Z",
+            "datePublished": "2014-07-31T19:23:15.000Z",
+            "height": "591",
+            "uploadDate": "2014-07-31T19:23:15.000Z",
+            "url": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-videoSixteenByNine1050.jpg",
+            "width": "1050"
+          },
+          {
+            "@id": "nyt://image/68769f5f-db1f-5ac1-8a9e-4443a9ced713#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-superJumbo.jpg",
+            "creditText": "Andrew Scrivani for The New York Times",
+            "dateModified": "2014-07-31T19:23:00.000Z",
+            "datePublished": "2014-07-31T19:23:15.000Z",
+            "height": "1152",
+            "uploadDate": "2014-07-31T19:23:15.000Z",
+            "url": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-superJumbo.jpg",
+            "width": "2048"
+          },
+          {
+            "@id": "nyt://image/68769f5f-db1f-5ac1-8a9e-4443a9ced713#square640",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-square640.jpg",
+            "creditText": "Andrew Scrivani for The New York Times",
+            "dateModified": "2014-07-31T19:23:00.000Z",
+            "datePublished": "2014-07-31T19:23:15.000Z",
+            "height": "640",
+            "uploadDate": "2014-07-31T19:23:15.000Z",
+            "url": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-square640.jpg",
+            "width": "640"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-videoSixteenByNine1050.jpg",
+        "transcript": "none",
+        "uploadDate": "2013-06-14T20:17:18.000Z",
+        "url": "https://www.nytimes.com/video/dining/100000002279566/one-pot-mujadara.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liesel"
+          },
+          "reviewBody": "A little meh.  Next time I will add some sliced dried figs and maybe top with toasted nuts.",
+          "datePublished": "2025-03-20T04:21:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Madeleine Foutes"
+          },
+          "reviewBody": "Lentils simply need more time to cook (even with soak time). Rice ended up mushy before lentils even were close to done. Also underwhelmed by flavor — aromatics sounded great in theory but ultimately rather one note. Might also add granulated garlic / onion but not sure I’ll bother making this one again",
+          "datePublished": "2025-02-25T05:07:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KT"
+          },
+          "reviewBody": "Less water more leeks",
+          "datePublished": "2025-02-16T18:45:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pushie"
+          },
+          "reviewBody": "Holy cow that's WAY too much salt! Do 1 tsp, max & adjust at end!",
+          "datePublished": "2025-01-13T01:06:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ivw"
+          },
+          "reviewBody": "I just made this and I think 4 1/2 cups is way too much water. It turned into a massive pot full of slop. Taste good though so I’ll probably give it a try again sometime.",
+          "datePublished": "2025-01-11T23:11:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liam"
+          },
+          "reviewBody": "I’m sure this is a faux pas and/or culinary heresy, but I wanted to add additional protein so I sort of fused this recipe with the NYT’s Hashweh recipe. I browned the ground beef first, took it out, fried the leaks, and then added the beef back in after adding the lentils. Worked out great!\n\nI did think it was missing something despite replacing the water with chicken stock, so I ended up adding a bunch of golden raisins when I steamed the kale, which worked well. I’ll probably add a little lemon juice tonight because the dish could use a bit of acid. As others have noted it was a bit watery.",
+          "datePublished": "2025-01-09T16:14:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Adela"
+          },
+          "reviewBody": "I saw someone else in the comments said theirs turned to mush…I made exactly as stated and mine was almost inedible it was so mushy! Perhaps 4 1/4 cups water is fa",
+          "datePublished": "2025-01-08T12:39:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TigerGirl"
+          },
+          "reviewBody": "We really liked this dish, which we jazzed up a little with sauteed slivers of shitake mushrooms and chicken, but the 35 minute \"total time\" is just a joke -- for us it took two hours total, with two people chopping and cooking.  The leeks alone took forever to thinly slice.  Also, we had the same problem as others who said the leeks never browned, there were far too many so we ended up putting half in a separate pan to get anything approaching crisp.",
+          "datePublished": "2025-01-06T15:31:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gabi"
+          },
+          "reviewBody": "I thought this was pretty bland before adding way more salt, cumin, lemon juice and some garlic & onion powder. Also followed comments and had feta, Kalamata olives, cucumbers and mint available is mix-ins.",
+          "datePublished": "2024-12-23T23:59:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Whitney"
+          },
+          "reviewBody": "I’d use chopped kale for there greens. It’s a hearty dish that requires a hearty green to match.",
+          "datePublished": "2024-12-04T18:52:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carolyn"
+          },
+          "reviewBody": "Delicious! And please keep the leeks: they are sweet and flavorful. One complaint…I’m an experienced home cook and this recipe takes much longer than 25 minutes. Wish the NYTimes would be more realistic.",
+          "datePublished": "2024-10-29T19:08:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "I followed the recipe except for minor adjustments based upon comments:  petite French green lentils (didn’t soak), 1/4 ground cinnamon (no sticks on hand), a splash of red wine vinegar, and no salt, except when plated.  I used chopped Swiss chard. Leeks turned out fine. Followed cooking times. I order this in a Middle East restaurant and now can make it myself.  Thrilled, and my non-vegetarian husband loved it too.",
+          "datePublished": "2024-10-22T22:56:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NancyB"
+          },
+          "reviewBody": "Doubling the recipe worked fine and makes a lot of food. We would have preferred a lower rice to lentil ratio. (Next time, I’ll cut the amount of rice back a bit.)",
+          "datePublished": "2024-10-13T12:28:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brenda WJ"
+          },
+          "reviewBody": "This is so very good (especially the day after, once all the flavors \"swap around,\" as Huck Finn said:):) that I wish I could give it more than five stars. I used brown rice, but next time, I am trying the bulghur or quinoa options. A warm bowl of this, with a little blob of Greek yogurt on top, is a wonderful meal!",
+          "datePublished": "2024-08-22T20:42:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "flank"
+          },
+          "reviewBody": "Max 600ml water",
+          "datePublished": "2024-08-19T15:35:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rosemary"
+          },
+          "reviewBody": "I grew up w/ Lebanese grandparents nearby & this was 1 of our staples. It's a complete protein too. I also often use bulgur wheat instead of rice, & have never used anything but yellow onions cooked dark brown in oil. Some saved for the top. It's meant to be eaten at room temp, after a few hrs on counter, & is often better  next day. We had a gr. salad w/ oil & lem. dressing, & lots of my g'ma's homemade \"Syrian\" bread, as she called it.  So good",
+          "datePublished": "2017-10-24T19:23:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mark"
+          },
+          "reviewBody": "Swap out the rice for bulgar wheat and I find that the texture of the dish is far superior.",
+          "datePublished": "2017-10-30T15:33:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NK"
+          },
+          "reviewBody": "This is a staple dish from my husband's side of the family, but we brown onions not leeks, and do it separately. Therefore we use much less oil for the mujadara itself. My family seasons it as they like at the table, using the onions, Greek yogurt, and/or Siracha Melissa-style.",
+          "datePublished": "2017-10-24T17:52:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kathy"
+          },
+          "reviewBody": "Please be careful where you source your brown rice. Many brands, especially those from TX were shown by Consumers' reports to have high arsenic levels, a holdover from cotton farms. Always rinse your rice several times before cooking.",
+          "datePublished": "2017-10-24T17:55:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deborah K"
+          },
+          "reviewBody": "I'm Lebanese and Armenian and have been making this for years. I cook the rice and lentils in chicken broth. When they're done I let them sit for about 10 minutes. Then I add fresh or frozen spinach, fresh minced garlic, feta cheese and  kalamata olives (pitted and quartered). I finish it off by squeezing the juice of a lemon over it--depending on the size of the lemon.",
+          "datePublished": "2017-10-01T15:42:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Figaro"
+          },
+          "reviewBody": "You need to preheat your pan, then pour in the oil; wait until it begins to shimmer; put a few slivers of leek in. If they immediately begin to sizzle, add the rest. If your oil is not hot enough you are going to soak it all up with the leeks, creating a greasy mess. If the leeks brown too quickly, lower the heat. Be sure to turn frequently, shaking the pan to distribute leeks evenly. I used one huge leek in an 11\" steel skillet. Also, be sure leeks are dry before frying. It took 15 min.",
+          "datePublished": "2017-10-24T23:00:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Luke H"
+          },
+          "reviewBody": "I have made this recipe several times, but today's variation was the best. We didn't have greens, so I used cauliflower and sautéed cherry tomatoes instead. Squeezed juice from half lemon on at end. Most importantly, simmered lentils for five minutes without rice, then added basmati rice! In the past, the rice had always gotten mushy before the lentils were done.",
+          "datePublished": "2017-10-24T23:23:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tracy"
+          },
+          "reviewBody": "My husband grew up eating this dish.  They use onions instead of leeks and usually serve it with a salad of tomatoes and onions dressed with olive oil, lemon juice and minced garlic.  A dollop of yogurt on top and you've got a fantastic meal",
+          "datePublished": "2017-10-02T14:50:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Clive"
+          },
+          "reviewBody": "Typically bright and spicy. Two things; just like Melissa's broccoli salad with the cumin seeds which I've made 5 times always not quite as good as the first time it would be helpful to have an empirical amount of these vegetables; broccoli in the former, leeks in the latter, to have a consistent outcome every time. \"Two\" pounds of broccoli and \"two\" leeks can vary wildly depending on where you shop. My two were big and ended up steaming rather than being crispy. How many CUPS of sliced leeks?",
+          "datePublished": "2017-10-30T14:35:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennifer"
+          },
+          "reviewBody": "I also had trouble w/ the leeks.  Not so crispy - more like soggy.  I spread them on an baking sheet and put them under the broiler on low which helped quite a bit.",
+          "datePublished": "2017-10-24T18:06:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "bob waks"
+          },
+          "reviewBody": "I just made this dish for 40 guests..Check the Jerusalem cookbook for another take on the crispy onions etc Ottelenghi dredges them in flour before frying  ( afterwards you have delicious onion flavored oil to use)",
+          "datePublished": "2017-10-24T18:53:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rory"
+          },
+          "reviewBody": "I simplified: skipped the leeks entirely, substituted for onions. Didn't do the fried garnish thing. Instead I just sauteed minced onion & garlic, and that all went into the pot with the rice and lentils. \n\nI made this in an instant pot: sauteed the onions & garlic on the sautee function, then added water & all the other ingredients and cooked on high pressure for 15 minutes. Slow release of 10 mins. \n\nI plan to serve this with some fried eggs.",
+          "datePublished": "2018-12-03T20:00:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bethany"
+          },
+          "reviewBody": "Also, we used the rice instead of the bulgur wheat and that was great too. I still think the bulgur wheat was better, Rebecca agrees, as bulgur wheat is a newer texture for people. Even so, the rice was fantastic.<br/>Again, we added the red wine vinegar at the end and more salt. Also, what we realized on the first night, and the following nights after that, was that the leeks really take much longer and need their own pan to get crispy.<br/>That's all the notes for now...",
+          "datePublished": "2017-10-24T21:15:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KT"
+          },
+          "reviewBody": "Soaking the lentils should reduce the cooking time.  This is a staple in my family, and when I make it I cook the lentils for 20 minutes prior to adding the rice. I do the onions in a separate pan, add the rice as described, then add all of that to the cooking lentils for the last 20ish minutes.  Watch the water level.  You want it to be a little mushy and a little dry, with the lentils soft.",
+          "datePublished": "2017-10-01T15:34:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Thor Sundberg"
+          },
+          "reviewBody": "1/2019.  Used one large white onion, with \ncooks illustrated suggestion to toss with salt, let stand, squeeze h2o, and fry in less oil.  Used chicken broth instead of water. Used twice as much kale. Added diced calamata olives, drizzled greens with lemon juice, served with crumbled feta and a dollop on plain yogurt.  Avoided any additional salt until serving.  Probably can add a little to rice and green lentils, which were cooked together.",
+          "datePublished": "2019-01-14T13:52:56.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2013
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1014804-one-pot-mujadara-with-leeks-and-greens",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2013,
+      "description": "Cookbooks will tell you that, in the Middle East, mujadara is the essence of comfort food, a humble dish made from pantry staples. To that I will add how easy it is to make.\n\nThe only part that needs some attention is the frying of the onions (or in this case, leeks). To get them crisp, you have to cook them until they are deeply brown and darker than you might be comfortable with. But without the deep color, you don’t get the crunch. Just make sure to take them off the heat before they burn. You want the majority to be mahogany, not black (though a few black strands would be O.K.).",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "One-Pot Mujadara With Leeks and Greens",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/68769f5f-db1f-5ac1-8a9e-4443a9ced713#videoSixteenByNine1050",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-videoSixteenByNine1050.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2014-07-31T19:23:00.000Z",
+          "datePublished": "2014-07-31T19:23:15.000Z",
+          "height": "591",
+          "representativeOfPage": true,
+          "uploadDate": "2014-07-31T19:23:15.000Z",
+          "url": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-videoSixteenByNine1050.jpg",
+          "width": "1050"
+        },
+        {
+          "@id": "nyt://image/68769f5f-db1f-5ac1-8a9e-4443a9ced713#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2014-07-31T19:23:00.000Z",
+          "datePublished": "2014-07-31T19:23:15.000Z",
+          "height": "1152",
+          "representativeOfPage": true,
+          "uploadDate": "2014-07-31T19:23:15.000Z",
+          "url": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/68769f5f-db1f-5ac1-8a9e-4443a9ced713#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-square640.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2014-07-31T19:23:00.000Z",
+          "datePublished": "2014-07-31T19:23:15.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2014-07-31T19:23:15.000Z",
+          "url": "https://static01.nyt.com/images/2014/07/31/dining/mujadaravideo/mujadaravideo-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1014804-one-pot-mujadara-with-leeks-and-greens"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:16:20.558Z",
+  "scraping_status": "scraped"
+}

@@ -1,0 +1,559 @@
+{
+  "id": "eec44594644c8ca8",
+  "original_url": "https://cooking.nytimes.com/recipes/1026305-fragrant-coconut-chicken-and-sweet-potato",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026305-fragrant-coconut-chicken-and-sweet-potato",
+  "fetched_title": "Fragrant Coconut Chicken and Sweet Potato  Recipe",
+  "main_text_content": "This deeply flavored saucy skillet meal comes together quickly thanks to rich coconut milk and fast-cooking ground chicken (though ground pork would also work well) Sweet potatoes get a head start in the skillet, where they’re speedily cooked until golden and tender; the simple act of covering the skillet with a lid expedites the process The meat is browned with plenty of scallions, garlic and ginger, which impart lovely aromatic fragrance and depth to the dish",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1023047-sticky-coconut-chicken-and-rice\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"A Dutch oven holds sticky coconut chicken and rice with a serving scooped out. A small bowl of hot sauce is nearby.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2023/01/08/dining/kc-sticky-coconut-chicken-and-rice/kc-sticky-coconut-chicken-and-rice-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2023/01/08/dining/kc-sticky-coconut-chicken-and-rice/kc-sticky-coconut-chicken-and-rice-blogSmallInline-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2023/01/08/dining/kc-sticky-coconut-chicken-and-rice/kc-sticky-coconut-chicken-and-rice-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2023/01/08/dining/kc-sticky-coconut-chicken-and-rice/kc-sticky-coconut-chicken-and-rice-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2023/01/08/dining/kc-sticky-coconut-chicken-and-rice/kc-sticky-coconut-chicken-and-rice-videoSixteenByNine310-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2023/01/08/dining/kc-sticky-coconut-chicken-and-rice/kc-sticky-coconut-chicken-and-rice-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2023/01/08/dining/kc-sticky-coconut-chicken-and-rice/kc-sticky-coconut-chicken-and-rice-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2023/01/08/dining/kc-sticky-coconut-chicken-and-rice/kc-sticky-coconut-chicken-and-rice-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Sticky Coconut Chicken and Rice</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Kay Chun</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/01/07/multimedia/KC-Coconut-Chicken-Sweet-Potato-hpcz/KC-Coconut-Chicken-Sweet-Potato-hpcz-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/eec44594644c8ca8/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/d095dddc-616e-5453-a689-1d547d2598c8",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026305-fragrant-coconut-chicken-and-sweet-potato",
+        "@type": "WebPage",
+        "name": "Fragrant Coconut Chicken and Sweet Potato "
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026305-fragrant-coconut-chicken-and-sweet-potato",
+      "name": "Fragrant Coconut Chicken and Sweet Potato ",
+      "description": "This deeply flavored saucy skillet meal comes together quickly thanks to rich coconut milk and fast-cooking ground chicken (though ground pork would also work well). Sweet potatoes get a head start in the skillet, where they’re speedily cooked until golden and tender; the simple act of covering the skillet with a lid expedites the process. The meat is browned with plenty of scallions, garlic and ginger, which impart lovely aromatic fragrance and depth to the dish. Coconut milk is added at the end to maintain its creamy texture and fresh flavor, while a finish of lime juice and chopped cilantro brightens and balances the sauce. ",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/882c8609-aa27-568e-a145-6046209320f8#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/07/multimedia/KC-Coconut-Chicken-Sweet-Potato-hpcz/KC-Coconut-Chicken-Sweet-Potato-hpcz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-01-06T16:33:58.805Z",
+          "datePublished": "2025-01-06T16:33:58.805Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-06T16:33:58.805Z",
+          "url": "https://static01.nyt.com/images/2025/01/07/multimedia/KC-Coconut-Chicken-Sweet-Potato-hpcz/KC-Coconut-Chicken-Sweet-Potato-hpcz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/882c8609-aa27-568e-a145-6046209320f8#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/07/multimedia/KC-Coconut-Chicken-Sweet-Potato-hpcz/KC-Coconut-Chicken-Sweet-Potato-hpcz-googleFourByThree.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-01-06T16:33:58.805Z",
+          "datePublished": "2025-01-06T16:33:58.805Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-06T16:33:58.805Z",
+          "url": "https://static01.nyt.com/images/2025/01/07/multimedia/KC-Coconut-Chicken-Sweet-Potato-hpcz/KC-Coconut-Chicken-Sweet-Potato-hpcz-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/882c8609-aa27-568e-a145-6046209320f8#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/07/multimedia/KC-Coconut-Chicken-Sweet-Potato-hpcz/KC-Coconut-Chicken-Sweet-Potato-hpcz-mediumSquareAt3X.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-01-06T16:33:58.805Z",
+          "datePublished": "2025-01-06T16:33:58.805Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-06T16:33:58.805Z",
+          "url": "https://static01.nyt.com/images/2025/01/07/multimedia/KC-Coconut-Chicken-Sweet-Potato-hpcz/KC-Coconut-Chicken-Sweet-Potato-hpcz-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT20M",
+      "cookTime": "PT20M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, quick, weeknight, one pot, poultry, main course",
+      "keywords": "budget, coconut milk, ground chicken, healthy, scallion, skillet, spinach, stovetop, sweet potato",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 1769
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 479,
+        "unsaturatedFatContent": "16 grams",
+        "carbohydrateContent": "27 grams",
+        "cholesterolContent": null,
+        "fatContent": "32 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "24 grams",
+        "saturatedFatContent": "14 grams",
+        "sodiumContent": "741 milligrams",
+        "sugarContent": "2 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 tablespoons neutral oil, such as canola or safflower",
+        "1 medium sweet potato, peeled and diced into 1/4-inch pieces",
+        "Salt and pepper",
+        "1/2 cup thinly sliced scallions, plus more for garnish",
+        "3 garlic cloves, minced",
+        "1 tablespoon minced fresh ginger",
+        "1 pound ground chicken (preferably dark meat) ",
+        "1 cup unsweetened full-fat coconut milk (see Tip)",
+        "4 cups/4 ounces baby spinach",
+        "2 tablespoons lime juice",
+        "1/4 cup coarsely chopped cilantro, plus more for garnish",
+        "Cooked rice (such as jasmine), for serving",
+        "Hot sauce, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a 12-inch nonstick skillet, heat 1 tablespoon of the oil over medium. Add the sweet potato, season with salt and pepper and stir to evenly coat in the oil. Cover and cook, stirring halfway through, until golden and tender, about 8 minutes. Transfer to a plate. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the remaining 2 tablespoons oil plus the scallions, garlic and ginger to the skillet and cook, stirring, until fragrant, 30 seconds. Add chicken, season with salt and pepper, and cook, breaking up the meat until no longer pink, about 5 minutes. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add coconut milk and sweet potato and bring back to a simmer. Cook until liquid is slightly reduced and thickened, 2 to 3 minutes. Stir in spinach just until wilted, then turn off the heat. Stir in lime juice and cilantro and season again with salt and pepper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide the coconut chicken mixture over rice in bowls and garnish with more scallions and cilantro. Serve warm, with hot sauce on the side."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-01-07T00:00:00.000Z",
+      "dateModified": "2025-01-15T15:25:28.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KCCassidy"
+          },
+          "reviewBody": "I never follow exact cooking instructions but did with this one as I was tired and lazy. SOOOO GOOOD!!!  Incredibly flavorful and so easy.  It will be on repeat.  And pretty enough and tasty enough to serve to guests.",
+          "datePublished": "2025-05-19T22:36:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca W"
+          },
+          "reviewBody": "4.5 - very tasty. Added a good hit of sriracha at the end to boost the flavor. Next time will add some Sambal Oelek in right before adding the coconut milk.",
+          "datePublished": "2025-05-12T22:07:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kelcie"
+          },
+          "reviewBody": "Would it come out ok with light coconut milk?",
+          "datePublished": "2025-05-07T16:39:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kaila"
+          },
+          "reviewBody": "OMG SO GOOD. Would do three potatoes next time.",
+          "datePublished": "2025-05-05T23:05:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joy"
+          },
+          "reviewBody": "WHY IS THIS SO DELICIOUS?!?\n\nLove this recipe. Quick, healthy, delicious, cheap. It is more than the sum of its parts. 10/10 make this dish! Extra good with black rice.",
+          "datePublished": "2025-05-04T22:59:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Connie"
+          },
+          "reviewBody": "I used garbanzo beans instead of chicken. It was great!",
+          "datePublished": "2025-05-03T16:52:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Makyla"
+          },
+          "reviewBody": "This wasn’t BAD. But it definitely wasn’t good. It turned out to be very bland, even after doubling the garlic and ginger. We do not stan sweet potato in this household, so used regular potato instead - I always expect the recipe to turn out a little bit worse when there are substitutions. But this was just.. not it.",
+          "datePublished": "2025-05-02T01:05:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Malia"
+          },
+          "reviewBody": "I made this with tempeh instead of chicken as we are a pescatarian household. Added miso and some soy sauce for depth, otherwise followed the recipe and served with sambal oelek on top. Easy, delicious, perfect payoff for time committed. I loved the nuttiness of the tempeh and it made me consider adding a spoonful of tahini or peanut butter in a future remake….",
+          "datePublished": "2025-04-29T02:11:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "leslie"
+          },
+          "reviewBody": "A dash of fish sauce really set it off!!!",
+          "datePublished": "2025-04-26T23:18:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Awesome weeknight dinner"
+          },
+          "reviewBody": "Used ground turkey, turned out great. Could easily add more veggies (carrots, turnips, etc). Suggest topping with some Sambal Olek or similar!",
+          "datePublished": "2025-04-25T01:53:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "aab"
+          },
+          "reviewBody": "This wasn’t terrible but just a bit bland. I would not make it again. Definitely add more sweet potatoes, garlic, ginger and lime to improve the flavor.",
+          "datePublished": "2025-04-22T12:33:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brianne McElhiney Noonan"
+          },
+          "reviewBody": "Simple and delicious. I wouldn't change a thing.",
+          "datePublished": "2025-04-21T05:01:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth Francis"
+          },
+          "reviewBody": "I agree with the recommendations to dice sweet potato in larger cubes and to add more minced ginger, garlic, scallions, and lime juice. I found the full fat coconut milk to be smothering, and I might try with lower fat or even with just some unsweetened coconut flakes sprinkled on top.",
+          "datePublished": "2025-04-19T15:23:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "bee"
+          },
+          "reviewBody": "Made it exactly as written but with ground turkey instead of chicken and it was absolutely delicious. It did probably take closer to an hour from beginning to end to make with all the prep and steps.",
+          "datePublished": "2025-04-15T02:42:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kelly"
+          },
+          "reviewBody": "I substituted duck for chicken and arugula for spinach because that’s what I had. Super tasty!",
+          "datePublished": "2025-04-09T03:12:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JW"
+          },
+          "reviewBody": "I just made this tonight for my wife and I. The recipe was followed exactly as written. The prep and cooking was painless. The taste of the dish, we are still talking about. This is an easy to follow recipe with high reward when served. Give it a try. And, we used ground turkey. My wife Jan’s only comment was next time I should increase the size of sweet potato cubes. We will make this again. I’m already thinking about how I might substitute fresh shrimp for the ground turkey.",
+          "datePublished": "2025-01-10T01:24:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Trevor"
+          },
+          "reviewBody": "No. Straight to jail.",
+          "datePublished": "2025-01-09T18:14:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eve"
+          },
+          "reviewBody": "I made the dish per the recipe and I think it has potential. I think it needs more of a number of ingredients: double the spinach and scallions, increase the garlic and ginger. I think the lime juice needs to be increased but recommend tasting and adding more according to your preference.",
+          "datePublished": "2025-01-10T00:45:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deb Lievens"
+          },
+          "reviewBody": "Can I freeze leftover meal? Want to try this. It looks yummy but I'm a single and like to freeze meals for the future.",
+          "datePublished": "2025-01-09T16:15:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rick L"
+          },
+          "reviewBody": "So many questions already. \nTurkey? Sure. \nCast iron is non stick if properly seasoned. \nTofu? I'd use firm. \nFreeze? I've successfully frozen similar meals.",
+          "datePublished": "2025-01-09T18:14:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lynsey"
+          },
+          "reviewBody": "Would it be possible to make this with tofu or a plant-based meat to make it vegan? Also, if you swap the canola oil for coconut or avocado oil and sub cauliflower rice for the jasmine rice - this is Whole30 compliant.",
+          "datePublished": "2025-01-09T17:06:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne Umphrey"
+          },
+          "reviewBody": "Would it be possible to make this using fish chunks, such as a sturdy fish like cod?",
+          "datePublished": "2025-01-09T16:10:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kurt Geissel"
+          },
+          "reviewBody": "I'm going to try to make this with non-ground chicken. Yum. But there isn't anyone on earth that can make this in twenty minutes. :)",
+          "datePublished": "2025-01-09T18:14:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa LM"
+          },
+          "reviewBody": "I don't see why not. I've had a lot of success in substituting proteins in any number of dishes I've found here. You'll just need to adjust the cooking time and make sure you don't overcook the fish.",
+          "datePublished": "2025-01-09T16:51:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Looseleaf"
+          },
+          "reviewBody": "Followed the recipe exactly except can't find dark meat ground chicken in my area. Added 50% more garlic and ginger, lots of lime and cilantro, and it still felt flat. Would add some red pepper flakes next time. Took me an hour as the sweet potato did not get \"golden and tender\" in eight minutes, more like 25 minutes. Next time I'd put the sweet potato in the air fryer for about 10-12 minutes, while prepping.",
+          "datePublished": "2025-01-10T03:03:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandy Tucker"
+          },
+          "reviewBody": "I dont care for ground chicken and was thinking of making it with diced chicken.  Would any other adjustments be needed?",
+          "datePublished": "2025-01-09T18:38:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily"
+          },
+          "reviewBody": "@Deb Lievens you could probably 1/2 it and have leftovers!",
+          "datePublished": "2025-01-09T16:34:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bonni"
+          },
+          "reviewBody": "Looks like a cast iron skillet in the photo. Does that count as nonstick?",
+          "datePublished": "2025-01-09T17:05:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Weird but really good"
+          },
+          "reviewBody": "Made this with freshly ground chicken breasts, made one and a half times the recipe so that I didn’t have to store the extra coconut milk. Consensus from the family is that it was weird, but at the same time really really good. A keeper.",
+          "datePublished": "2025-01-10T00:33:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sheila Goldman"
+          },
+          "reviewBody": "This looks like a great recipe, but I have never seen ground dark meat chicken sold (and do not own a meat grinder). Could chopped up chicken thighs be substituted, if cooked a bit longer?",
+          "datePublished": "2025-01-09T19:01:49.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026305-fragrant-coconut-chicken-and-sweet-potato",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "This deeply flavored saucy skillet meal comes together quickly thanks to rich coconut milk and fast-cooking ground chicken (though ground pork would also work well). Sweet potatoes get a head start in the skillet, where they’re speedily cooked until golden and tender; the simple act of covering the skillet with a lid expedites the process. The meat is browned with plenty of scallions, garlic and ginger, which impart lovely aromatic fragrance and depth to the dish. Coconut milk is added at the end to maintain its creamy texture and fresh flavor, while a finish of lime juice and chopped cilantro brightens and balances the sauce. ",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Fragrant Coconut Chicken and Sweet Potato ",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/882c8609-aa27-568e-a145-6046209320f8#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/07/multimedia/KC-Coconut-Chicken-Sweet-Potato-hpcz/KC-Coconut-Chicken-Sweet-Potato-hpcz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-01-06T16:33:58.805Z",
+          "datePublished": "2025-01-06T16:33:58.805Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-06T16:33:58.805Z",
+          "url": "https://static01.nyt.com/images/2025/01/07/multimedia/KC-Coconut-Chicken-Sweet-Potato-hpcz/KC-Coconut-Chicken-Sweet-Potato-hpcz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/882c8609-aa27-568e-a145-6046209320f8#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/07/multimedia/KC-Coconut-Chicken-Sweet-Potato-hpcz/KC-Coconut-Chicken-Sweet-Potato-hpcz-googleFourByThree.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-01-06T16:33:58.805Z",
+          "datePublished": "2025-01-06T16:33:58.805Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-06T16:33:58.805Z",
+          "url": "https://static01.nyt.com/images/2025/01/07/multimedia/KC-Coconut-Chicken-Sweet-Potato-hpcz/KC-Coconut-Chicken-Sweet-Potato-hpcz-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/882c8609-aa27-568e-a145-6046209320f8#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/07/multimedia/KC-Coconut-Chicken-Sweet-Potato-hpcz/KC-Coconut-Chicken-Sweet-Potato-hpcz-mediumSquareAt3X.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-01-06T16:33:58.805Z",
+          "datePublished": "2025-01-06T16:33:58.805Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-06T16:33:58.805Z",
+          "url": "https://static01.nyt.com/images/2025/01/07/multimedia/KC-Coconut-Chicken-Sweet-Potato-hpcz/KC-Coconut-Chicken-Sweet-Potato-hpcz-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026305-fragrant-coconut-chicken-and-sweet-potato"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:05:01.417Z",
+  "scraping_status": "scraped"
+}

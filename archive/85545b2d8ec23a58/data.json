@@ -1,0 +1,564 @@
+{
+  "id": "85545b2d8ec23a58",
+  "original_url": "https://cooking.nytimes.com/recipes/1026308-stir-fried-cabbage-and-pork-in-fish-sauce-butter",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026308-stir-fried-cabbage-and-pork-in-fish-sauce-butter",
+  "fetched_title": "Stir-Fried Cabbage and Pork in Fish Sauce Butter Recipe",
+  "main_text_content": "This quick, weeknight cabbage and pork stir-fry is humble in ingredients yet packed with flavor, thanks to briny fish sauce, rich brown butter and potent aromatics (ginger, garlic and red-pepper flakes) Chopped cabbage gets a nice char in butter that browns as it cooks, adding richness to the lean vegetable Fast-cooking ground pork is infused with garlic, ginger and scallions, and the final addition of salty fish sauce, bright lime juice and chopped fresh cilantro creates a punchy sauce",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1013335-spicy-stir-fried-cabbage\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2010/11/03/science/02recipehealth/02recipehealth-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2010/11/03/science/02recipehealth/02recipehealth-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2010/11/03/science/02recipehealth/02recipehealth-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2010/11/03/science/02recipehealth/02recipehealth-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2010/11/03/science/02recipehealth/02recipehealth-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2010/11/03/science/02recipehealth/02recipehealth-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Spicy Stir-Fried Cabbage</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Martha Rose Shulman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/03/11/multimedia/KC-Stir-Fried-Cabbage-Pork-zmwf/KC-Stir-Fried-Cabbage-Pork-zmwf-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/85545b2d8ec23a58/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/e44faaac-acb5-5859-a084-32b21d1cc361",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026308-stir-fried-cabbage-and-pork-in-fish-sauce-butter",
+        "@type": "WebPage",
+        "name": "Stir-Fried Cabbage and Pork in Fish Sauce Butter"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026308-stir-fried-cabbage-and-pork-in-fish-sauce-butter",
+      "name": "Stir-Fried Cabbage and Pork in Fish Sauce Butter",
+      "description": "This quick, weeknight cabbage and pork stir-fry is humble in ingredients yet packed with flavor, thanks to briny fish sauce, rich brown butter and potent aromatics (ginger, garlic and red-pepper flakes). Chopped cabbage gets a nice char in butter that browns as it cooks, adding richness to the lean vegetable. Fast-cooking ground pork is infused with garlic, ginger and scallions, and the final addition of salty fish sauce, bright lime juice and chopped fresh cilantro creates a punchy sauce. If you like a jolt of heat, use a thinly sliced bird’s-eye chile in place of the crushed red pepper.",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/65d6217f-2de5-5bcc-87b6-a4084cbe3d86#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/11/multimedia/KC-Stir-Fried-Cabbage-Pork-zmwf/KC-Stir-Fried-Cabbage-Pork-zmwf-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-11T15:12:54.666Z",
+          "datePublished": "2025-03-11T15:12:54.666Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-11T15:12:54.666Z",
+          "url": "https://static01.nyt.com/images/2025/03/11/multimedia/KC-Stir-Fried-Cabbage-Pork-zmwf/KC-Stir-Fried-Cabbage-Pork-zmwf-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/65d6217f-2de5-5bcc-87b6-a4084cbe3d86#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/11/multimedia/KC-Stir-Fried-Cabbage-Pork-zmwf/KC-Stir-Fried-Cabbage-Pork-zmwf-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-11T15:12:54.666Z",
+          "datePublished": "2025-03-11T15:12:54.666Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-11T15:12:54.666Z",
+          "url": "https://static01.nyt.com/images/2025/03/11/multimedia/KC-Stir-Fried-Cabbage-Pork-zmwf/KC-Stir-Fried-Cabbage-Pork-zmwf-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/65d6217f-2de5-5bcc-87b6-a4084cbe3d86#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/11/multimedia/KC-Stir-Fried-Cabbage-Pork-zmwf/KC-Stir-Fried-Cabbage-Pork-zmwf-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-11T15:12:54.666Z",
+          "datePublished": "2025-03-11T15:12:54.666Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-11T15:12:54.666Z",
+          "url": "https://static01.nyt.com/images/2025/03/11/multimedia/KC-Stir-Fried-Cabbage-Pork-zmwf/KC-Stir-Fried-Cabbage-Pork-zmwf-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, quick, weeknight, one pot, main course",
+      "keywords": "brown butter, budget, cabbage, fish sauce, ground pork, stovetop, gluten-free",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 1016
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 519,
+        "unsaturatedFatContent": "19 grams",
+        "carbohydrateContent": "25 grams",
+        "cholesterolContent": null,
+        "fatContent": "37 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "23 grams",
+        "saturatedFatContent": "15 grams",
+        "sodiumContent": "736 milligrams",
+        "sugarContent": "5 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 tablespoon neutral oil, such as canola or safflower",
+        "1 pound ground pork",
+        "Salt and pepper ",
+        "3 scallions, thinly sliced",
+        "3 garlic cloves, minced",
+        "1 tablespoon minced fresh ginger",
+        "3 tablespoons unsalted butter",
+        "1 pound green or red cabbage, chopped into 1-inch pieces (about 5 cups)",
+        "1 tablespoon fish sauce",
+        "1 tablespoon lime juice, plus wedges for serving",
+        "1/4 teaspoon crushed red pepper",
+        "1/2 cup coarsely chopped cilantro, plus more for garnish",
+        "Cooked rice (such as short-grain white or brown rice), for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a 12-inch nonstick skillet, heat oil over medium-high. Add pork, season with salt and pepper and cook, stirring occasionally and breaking up the meat until no longer pink, about 5 minutes. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add scallions, garlic and ginger, and stir until fragrant, 30 seconds. Transfer the pork mixture to a plate. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add 2 tablespoons of the butter to the skillet and stir until melted. Add cabbage, season with salt and pepper, and cook, stirring occasionally, until crisp-tender and golden in spots, 5 minutes. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Stir in the pork mixture (and any accumulated juices), then add fish sauce, lime juice, crushed red pepper and the remaining 1 tablespoon butter, and mix well. Turn off the heat. Season with salt and pepper and stir in cilantro."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide pork and cabbage mixture over rice in bowls. Top with more cilantro and serve with lime wedges for squeezing over."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-03-11T00:00:00.000Z",
+      "dateModified": "2025-03-11T17:28:12.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jaimee"
+          },
+          "reviewBody": "10/10... I did it with marinated pork chops (soy sauce/ fish sauce/ garlic) and added furkaki to the rice. TOO good. yuuuum!",
+          "datePublished": "2025-05-22T12:24:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "bocaboy"
+          },
+          "reviewBody": "I loved this recipe. The pork was perfect and the cabbage was delicious. There’s a lot of prep here to start cooking, but once everything is in place, it comes together quickly. The fish sauce and the lime juice add great flavor to the final dish!\n\nOne note: I used parsley in place of cilantro. I didn’t have any in the house, and the parsley worked perfectly.",
+          "datePublished": "2025-05-22T11:05:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brett"
+          },
+          "reviewBody": "this is REALLY good. I think 3 tbs of butter would have been too rich, i just did the 2 with the cabbage. I drained the pork so it wasnt so greasy too.",
+          "datePublished": "2025-05-18T20:07:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jake H"
+          },
+          "reviewBody": "In my opinion, this dish needs a great deal more seasoning. I'd suggest doubling the fish sauce, and maybe adding a healthy dose of hoisin as well. And as others have said, you might need a good deal more salt, which I found to be true even with a sprinkle of MSG, but that can be remedied at dinner time with a splash of soy sauce.",
+          "datePublished": "2025-05-15T02:10:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stacey"
+          },
+          "reviewBody": "OK, this was bonkers good. I didn't have scallions or cilantro so I added extra garlic/ginger. It was amazing, flavorful, and easy to cook on a weeknight. I used a large enameled Dutch oven to get maximum sear/flavor.",
+          "datePublished": "2025-05-14T23:43:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gary"
+          },
+          "reviewBody": "I made a double batch because it is ideal for a quick reheating and lunch. The flavor profile was surprisingly umami-goodness. The proportions are quite good. We used 1/2 tsp Aleppo pepper instead of red pepper. You might want to add a sprinkle of chow mein noodles for crunchiness but it is a solid quick recipe. Use a big wok.",
+          "datePublished": "2025-05-13T12:43:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stephanie"
+          },
+          "reviewBody": "Also good with rice noodles",
+          "datePublished": "2025-05-13T10:24:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vanessa"
+          },
+          "reviewBody": "I've been making something similar to this for years, only I use a mandolin for finely shredded cabbage and noodles instead of rice.",
+          "datePublished": "2025-05-10T17:19:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Colin"
+          },
+          "reviewBody": "Quick and easy, and pretty delicious as written.  Next time, I might add a bit more heat (maybe some thinly sliced fresh chili pepper).",
+          "datePublished": "2025-05-09T16:51:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Arglebarglor"
+          },
+          "reviewBody": "Oh lord this was good. Easy, fast, tasty. Butter and fish sauce is even better than butter and miso. I probably used more ginger than was called for but whatever. Will try it with gojuchang or gojucharu next time as someone suggested. This goes in the “Go-To” recipe box!",
+          "datePublished": "2025-05-08T00:43:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CM"
+          },
+          "reviewBody": "4 out of 5 as written. Followed it closely with the exception of gochujang subbed for red pepper flakes, which I would def recommend. My two additions/alterations for next time will be\n\n- use a wok or heavy bottom skillet as cabbage really needs to be done at a blazing heat so the internal sugars can char and caramelize without it getting soggy\n- add light brown sugar (or palm sugar if you have it) when adding the cabbage or at the end to balance the flavor. It was desperately needing a sweet note. \n\nOverall, a very nice, straightforward, low effort, minimal cleanup dish. Perfect for a weeknight. Will report back when I try the updates. Happy cooking!",
+          "datePublished": "2025-05-08T00:13:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Xanadu Brown"
+          },
+          "reviewBody": "Not bad…the cabbage came out a smidge firmer than I’d like, but I’d make it again.",
+          "datePublished": "2025-05-05T16:11:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "James"
+          },
+          "reviewBody": "Made a second time, this time with ground lamb, and loved it even more. A sprinkle of lemon zest adds some extra brightness.",
+          "datePublished": "2025-05-04T16:39:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "live your life"
+          },
+          "reviewBody": "Very tasty weeknight meal. I subbed a block of crumbled tofu for pork and it worked out well w additional oil and seasoning (soy sauce and salt) to taste.",
+          "datePublished": "2025-05-04T15:19:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deb"
+          },
+          "reviewBody": "Love the dish.  Don't think I would change a thing although I used kosher salt.  I would suggest that some seasoning (salt and pepper) is good as you cook the dish, but then just adjust at the end. And you definitely want to use the fish sauce as it adds a lovely tang to the dish.",
+          "datePublished": "2025-05-02T00:17:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen"
+          },
+          "reviewBody": "Perfect combination of tasty, quick, cheap, and relatively healthy. When I make it again (which I’m sure I will) I’ll use a wok or a Dutch oven instead of a large frying pan, as it was a little too full to comfortably stir. Great recipe.",
+          "datePublished": "2025-03-16T01:00:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeanette R"
+          },
+          "reviewBody": "@Carly Fish sauce is quite salty, and varies according to brand. This will determine thee need for additional salt.",
+          "datePublished": "2025-03-14T12:50:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carly"
+          },
+          "reviewBody": "Very good weeknight dinner! It definitely needs a good bit of salt- 1 lb of cabbage   1 lb of pork requires a lot. I wish NYT recipes would recommend at least a base amount of salt to start with. “Season with salt” implies a sprinkling (to non-chefs), which is definitely nowhere near enough for most dishes.",
+          "datePublished": "2025-03-14T00:27:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shana"
+          },
+          "reviewBody": "Just made this for dinner with ground chicken instead of pork and really enjoyed it. I also used gochugaru instead of red pepper. Hubby and I think we may use it as a bibimbap-like base for leftovers.",
+          "datePublished": "2025-03-15T23:17:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy"
+          },
+          "reviewBody": "Yes! Fish Sauce is brand dependent. One can be so much saltier than the other. My preference is to go light on the salt and check.\nPersonally, peanuts will be an addition to the recipe the next time I make it.",
+          "datePublished": "2025-03-19T00:22:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Doug"
+          },
+          "reviewBody": "Such a tasty and easy dish using a Dutch Oven.    I added 1 diced Jalapeno with the garlic, ginger, and green onions for the second step (no crush red pepper).    I used Napa Cabbage (better flavor IMO), followed by additional salt and pepper before adding the pork mixture back.  Juiced one whole lime and more salt + pepper.  I used Squid Brand Fish Sauce (available at H-Mart).  Great one-pot recipe!",
+          "datePublished": "2025-03-16T19:48:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AA"
+          },
+          "reviewBody": "Splendid, exactly as written.",
+          "datePublished": "2025-03-17T14:28:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "François Dionne"
+          },
+          "reviewBody": "This was excellent. I used a Taiwanese cabbage, and a leftover jalapeno instead of the chili flakes. Served over brown jasmine rice. A single tablespoon of fish sauce is very salty, but it is  not enough for the whole dish, so it is important to add a bit of salt at the other stages as indicated. Next time I might try using oil only instead of butter, whose flavour might have been overwhelmed by the jalapeno.",
+          "datePublished": "2025-03-14T12:32:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael L"
+          },
+          "reviewBody": "This is a killer recipe. It's inexpensive, it's fast, it uses easy-to-grab-on-the-way-home ingredients, and it's bursting with Southeast Asian flavors that elevate it well beyond the usual weeknight meal. Sensing it would make good leftovers, I doubled it, cooking the pork and aromatics in two batches but managing the do a double qty of cabbage in a single wok. Tip: don't be shy about the lime juice and fish sauce - they really sing here, and blend nicely with the buttery sauteed cabbage. 5/5",
+          "datePublished": "2025-03-26T16:24:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "This was good - I added chopped red bell pepper and used already prepared coleslaw (already had a bag in the refrigerator - no dressing😊).  Made for a very easy, healthy and delicious dinner.",
+          "datePublished": "2025-03-19T20:59:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David Pierce"
+          },
+          "reviewBody": "I used a wok and that let me build a good char on the cabbage which added another layer of flavor and prevents over-crowding.",
+          "datePublished": "2025-03-21T02:40:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MaryBretired"
+          },
+          "reviewBody": "As others have commented, fish sauce can vary greatly in its saltiness.  Most grocery store fish sauces are heavily diluted with water and then loaded with salt to make up the difference making their flavor almost all salt.  “Good” i.e. not diluted- fish sauce adds a lot of funk and some saltiness.  I love Thai food so require good Thai fish sauce - best brand I’ve found is Red Boat-ingredients  “anchovy, sea salt.”   \nGreat recipe for a variety of proteins.",
+          "datePublished": "2025-03-24T18:24:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AA"
+          },
+          "reviewBody": "Try this precisely as written before making changes. It’s easy, tasty, and satisfying exactly as is—a perfect example of the right kind of fusion cooking.",
+          "datePublished": "2025-03-17T14:33:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rachael"
+          },
+          "reviewBody": "I used a bit of soy sauce and Worcestershire sauce, since I didn't have any fish sauce on hand.",
+          "datePublished": "2025-03-22T22:43:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate"
+          },
+          "reviewBody": "I didn't have any ground pork, so I made this with ground turkey with some bacon fat in addition to the butter to give it some extra fat.  It turned out great!  Super quick and easy.  I also added some onions in addition to the scallions, used a dried bird's eye chili, and threw some fresh basil in there as well, since I had it on hand.  I'd love to try this another time with vermicelli noodles instead of rice and make it as a cold salad for lunch.",
+          "datePublished": "2025-03-17T22:59:45.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026308-stir-fried-cabbage-and-pork-in-fish-sauce-butter",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "This quick, weeknight cabbage and pork stir-fry is humble in ingredients yet packed with flavor, thanks to briny fish sauce, rich brown butter and potent aromatics (ginger, garlic and red-pepper flakes). Chopped cabbage gets a nice char in butter that browns as it cooks, adding richness to the lean vegetable. Fast-cooking ground pork is infused with garlic, ginger and scallions, and the final addition of salty fish sauce, bright lime juice and chopped fresh cilantro creates a punchy sauce. If you like a jolt of heat, use a thinly sliced bird’s-eye chile in place of the crushed red pepper.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Stir-Fried Cabbage and Pork in Fish Sauce Butter",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/65d6217f-2de5-5bcc-87b6-a4084cbe3d86#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/11/multimedia/KC-Stir-Fried-Cabbage-Pork-zmwf/KC-Stir-Fried-Cabbage-Pork-zmwf-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-11T15:12:54.666Z",
+          "datePublished": "2025-03-11T15:12:54.666Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-11T15:12:54.666Z",
+          "url": "https://static01.nyt.com/images/2025/03/11/multimedia/KC-Stir-Fried-Cabbage-Pork-zmwf/KC-Stir-Fried-Cabbage-Pork-zmwf-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/65d6217f-2de5-5bcc-87b6-a4084cbe3d86#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/11/multimedia/KC-Stir-Fried-Cabbage-Pork-zmwf/KC-Stir-Fried-Cabbage-Pork-zmwf-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-11T15:12:54.666Z",
+          "datePublished": "2025-03-11T15:12:54.666Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-11T15:12:54.666Z",
+          "url": "https://static01.nyt.com/images/2025/03/11/multimedia/KC-Stir-Fried-Cabbage-Pork-zmwf/KC-Stir-Fried-Cabbage-Pork-zmwf-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/65d6217f-2de5-5bcc-87b6-a4084cbe3d86#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/11/multimedia/KC-Stir-Fried-Cabbage-Pork-zmwf/KC-Stir-Fried-Cabbage-Pork-zmwf-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-11T15:12:54.666Z",
+          "datePublished": "2025-03-11T15:12:54.666Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-11T15:12:54.666Z",
+          "url": "https://static01.nyt.com/images/2025/03/11/multimedia/KC-Stir-Fried-Cabbage-Pork-zmwf/KC-Stir-Fried-Cabbage-Pork-zmwf-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026308-stir-fried-cabbage-and-pork-in-fish-sauce-butter"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:04:53.210Z",
+  "scraping_status": "scraped"
+}

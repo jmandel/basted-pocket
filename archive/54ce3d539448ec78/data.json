@@ -1,0 +1,567 @@
+{
+  "id": "54ce3d539448ec78",
+  "original_url": "https://cooking.nytimes.com/recipes/1018404-mapo-ragu",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1018404-mapo-ragu",
+  "fetched_title": "Mapo Ragù Recipe",
+  "main_text_content": "This is my simple, everyday take on a dish developed at Momofuku Ssam Bar in Manhattan many years ago by the chefs David Chang and Tien Ho and their band of collaborators It is almost literally a mashup: a meal that is kind of Korean, kind of Chinese, kind of Italian If you don’t like spicy food, use miso instead of the gochujang and don’t use Sichuan peppercorns, which add a numbing, tingly pop to the fire",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025975-zha-jiang-mian\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2024/09/13/multimedia/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2024/09/13/multimedia/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/09/13/multimedia/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/09/13/multimedia/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/09/13/multimedia/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/09/13/multimedia/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/09/13/multimedia/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/09/13/multimedia/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj/SUE-LI-Ground-Pork-Ja-Jiang-Mienrex-hlzj-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Zha Jiang Mian</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Sue Li</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/11/22/multimedia/mapo-ragu-jpgt/mapo-ragu-jpgt-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/54ce3d539448ec78/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/2e4520f9-b4a1-5fb8-a566-96f42cc4698a",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1018404-mapo-ragu",
+        "@type": "WebPage",
+        "name": "Mapo Ragù"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1018404-mapo-ragu",
+      "name": "Mapo Ragù",
+      "description": "This is my simple, everyday take on a dish developed at Momofuku Ssam Bar in Manhattan many years ago by the chefs David Chang and Tien Ho and their band of collaborators. It is almost literally a mashup: a meal that is kind of Korean, kind of Chinese, kind of Italian. If you don’t like spicy food, use miso instead of the gochujang and don’t use Sichuan peppercorns, which add a numbing, tingly pop to the fire. (If you like really spicy food, add dried chiles or hot pepper flakes to the recipe at the point you add the gochujang.) And if you want to make it even more luxe than it is already, follow the lead of Chang’s crew and stir 6 ounces of silken tofu into the sauce at the end.",
+      "author": {
+        "@type": "Person",
+        "name": "Sam Sifton"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/853de2ba-9ec2-5bf8-909d-20ec2f7f0ddf#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/22/multimedia/mapo-ragu-jpgt/mapo-ragu-jpgt-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-11-22T20:02:11.340Z",
+          "datePublished": "2024-11-22T20:02:11.340Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-22T20:02:11.340Z",
+          "url": "https://static01.nyt.com/images/2024/11/22/multimedia/mapo-ragu-jpgt/mapo-ragu-jpgt-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/853de2ba-9ec2-5bf8-909d-20ec2f7f0ddf#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/22/multimedia/mapo-ragu-jpgt/mapo-ragu-jpgt-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-11-22T20:02:11.340Z",
+          "datePublished": "2024-11-22T20:02:11.340Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-22T20:02:11.340Z",
+          "url": "https://static01.nyt.com/images/2024/11/22/multimedia/mapo-ragu-jpgt/mapo-ragu-jpgt-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/853de2ba-9ec2-5bf8-909d-20ec2f7f0ddf#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/22/multimedia/mapo-ragu-jpgt/mapo-ragu-jpgt-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-11-22T20:02:11.340Z",
+          "datePublished": "2024-11-22T20:02:11.340Z",
+          "height": "1799",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-22T20:02:11.340Z",
+          "url": "https://static01.nyt.com/images/2024/11/22/multimedia/mapo-ragu-jpgt/mapo-ragu-jpgt-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT1H",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "chinese, italian, korean",
+      "recipeCategory": "main course",
+      "keywords": "kale, pork, rice cakes, sichuan peppercorn",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 4157
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 510,
+        "unsaturatedFatContent": "16 grams",
+        "carbohydrateContent": "53 grams",
+        "cholesterolContent": null,
+        "fatContent": "24 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "19 grams",
+        "saturatedFatContent": "7 grams",
+        "sodiumContent": "491 milligrams",
+        "sugarContent": "5 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 tablespoons neutral oil, like canola",
+        "2 large onions, peeled and sliced",
+        "Pinch of kosher salt, or to taste",
+        "1 pound ground pork",
+        "4 cloves garlic, peeled and chopped",
+        "10-15 frozen cylindrical rice cakes (optional), or rice noodles, or pasta, or steamed rice",
+        "1 inch fresh ginger, peeled and chopped",
+        "3 tablespoons gochujang (Korean chili-bean paste)",
+        "1 tablespoon low-sodium soy sauce",
+        "1 tablespoon brown sugar",
+        "2 teaspoons Sichuan peppercorns (optional)",
+        "1 bunch kale or any hearty cooking greens, roughly chopped",
+        "4 scallions, thinly sliced, for garnish"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oil in a wok set over medium-high heat. When it shimmers, add the onions and the pinch of salt. Cook, stirring occasionally, until the onions have released their moisture and are starting to brown, approximately 10 minutes. Then turn the heat down to low, and continue to cook, stirring every few minutes, until they have turned golden brown and sweet, an additional 20 minutes or so."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Tip the onions into a bowl, and return the wok to high heat over the stove. Add remaining tablespoon of oil, then the pork, and cook, breaking the meat up with a spoon, until it is just cooked, but not yet browning, approximately 10 minutes. Add the cooked meat to the reserved onions."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "If using the rice cakes, put a large pot of salted water over high heat, and bring to a boil."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Return wok to stove over medium heat and cook the garlic and ginger in fat remaining from pork (add an extra splash of neutral oil if necessary). When the garlic and ginger soften, add gochujang, soy sauce, brown sugar and, if using, the Sichuan peppercorns. Add 1/2 cup to 1 cup of water, enough to loosen the gochujang and make a sauce, then return pork and onions to the wok and stir to combine. Adjust seasonings."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bring sauce to a simmer, and add the chopped greens, then stir to combine and cook until they have started to soften, approximately 5 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "If using rice cakes, place them in the boiling water for 3 to 5 minutes to soften, then drain and add to the sauce. (If not, serve the ragù with steamed rice, rice noodles or pasta.) Garnish with the sliced scallions."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2016-11-06T00:00:00.000Z",
+      "dateModified": "2024-11-22T20:03:12.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul"
+          },
+          "reviewBody": "A weelky favourite in our house. Tonight I made a springtime version with sliced asparagus added at the same time as the ginger and garlic. Also threw in a few large handfuls of fresh baby spinach towards the end. Absolutely would do that again.",
+          "datePublished": "2025-05-19T23:14:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Edward Blau"
+          },
+          "reviewBody": "I toast the peppercorns and then grind them in a mortar and pestle before starting to cook the rest of the recipe.",
+          "datePublished": "2025-05-11T03:05:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "I love Korean rice cakes, but I always pan-fry them in a little oil rather than boiling them, so they are crispy on the outside and chewy on the inside (which I picked up from David Chang). It adds a nice bit of texture.",
+          "datePublished": "2025-04-25T10:15:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marianne"
+          },
+          "reviewBody": "I never have fresh ginger when I need it so I've taken to using crystalized ginger. I just chop it finely and add. Great flavor and I don't need extra sugar. This is an outstanding recipe as is though.",
+          "datePublished": "2025-04-17T16:25:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AH"
+          },
+          "reviewBody": "This recipe has been in my regular rotation since it was first published. I find the caramelized onions and the gochujang sweet enough, so I replace the brown sugar with miso paste. And I typically serve over a sweet potato instead of rice. Freezes really well, and makes for great meal prep. I've also used ground chicken and ground turkey in place of the pork, and recommend both.",
+          "datePublished": "2025-04-07T17:05:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennie"
+          },
+          "reviewBody": "I didn't have gochujang, but I did have ssamjang. I have no idea if they are similar in taste, but I put in some ssamjang, and spiced it up with a bunch of Cholula hot sauce. I also added about 12-15 oz of rice cakes. It was not sweet at all. I learned that I don't like the flavor of Szechwan peppercorns. This is a pleasant dish. It could have used even more rice cakes. Probably would have been better with gochujang though!",
+          "datePublished": "2025-04-03T00:13:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DesignerCook"
+          },
+          "reviewBody": "This has become one of my FAVORITE dishes to cook. \nI have made it as written with pork, but also with tofu, and with veggie ground beef substitute. All dang delish! I have always omitted the sugar and Szechuan peppercorns. Otherwise I make it exactly as written. From the first time I diced the onions instead of sliced and I’ve stuck with that. I have once added the silken tofu as Sam suggested in the sauce at the end, and to be honest I couldn’t detect it….neither taste wise or texture wise. I’ll probably keep adding it for its nutritional value and doesn’t really ramp up the calories. Win-Win. \nSometimes I have been known to splash a bit of toasted sesame oil AND broad bean paste with chili oil to the sauce. I feel it amps up the umami quite a bit, especially because I never use the peppercorns. \nAnyway…thanks Sam for one of the best recipes I’ve ever had!",
+          "datePublished": "2025-03-21T10:54:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CA Mel"
+          },
+          "reviewBody": "I have celiac so used gluten free soy sauce (tamari), and my husband is vegetarian so I subed impossible savory sausage for pork. It was delicious and came out great.",
+          "datePublished": "2025-03-19T02:06:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Greg TheC"
+          },
+          "reviewBody": "The rice sticks or rods or whatevs had the texture of gummi bears so I opted for rice white rice  as a base. Didn’t have Sichuan peppercorns so added a half tsp of pepper flakes. No need to add brown sugar, this dish defaults to a natural sweetness. Use the ENTIRE bunch of kale, it will shrink to the right size. Turned out perfect, will be a staple.",
+          "datePublished": "2025-03-07T04:30:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Todd"
+          },
+          "reviewBody": "We love this dish. When it comes to rice cakes we prefer to fry them briefly in the pork fat rather than boiling in water which tends to make them mushy instead of crispy tender.",
+          "datePublished": "2025-02-08T02:14:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AmLucero"
+          },
+          "reviewBody": "I appreciate the simplicity of this take on mapo tofu, but it definitely needs some jazzing up. I always add some fish sauce for more depth, and increased all of the aromatics. Next time I plan to add some mushrooms.",
+          "datePublished": "2025-02-05T06:05:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sphydrou302"
+          },
+          "reviewBody": "This was OK, but I think I’ll just stick with the OG mapo tofu with silken tofu. I don’t think tteok (rice cakes) worked in this dish, I think it’s best with a starchy sauce that clings to the tteok, or maybe with thin julienned veggies that you can pick up along with the tteok for a flavorful bite. Maybe the disk-shaped rice cakes would work better, like a little shovel where you put the ragu on top and eat it that way.",
+          "datePublished": "2025-02-03T23:13:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sa Wa"
+          },
+          "reviewBody": "What about just nixing the rice cake tubes? I'm not a fan of them, but a huge fan of mapo tofu. Did anyone try it sans galettes de riz? I've not begun shopping for the recipe yet...",
+          "datePublished": "2025-02-03T01:55:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily"
+          },
+          "reviewBody": "Super delicious. Will definitely make again. Reduced the oil a bit, skipped the sugar as several have suggested, and used beyond burger instead of pork. Also added the silken tofu at the end. Definitely worth seeking out the  Szechuan peppercorns if you can. 10/10",
+          "datePublished": "2025-02-01T16:32:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jenny"
+          },
+          "reviewBody": "This was one of the best recipes, as is! This will be on the weekly rotation!",
+          "datePublished": "2025-01-30T00:02:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Easy and delicious"
+          },
+          "reviewBody": "If you are squeamish about pork , substitute chicken or tofu (and also do not watch Ojka on Netflix..a beautiful story about a super pig).<br/>I skipped the brown sugar, the caramelized onions were plenty sweet. I tossed in a couple of thai red chillies in the oil, right before adding the ginger and garlic.<br/>I used a mortar and pestle to pulverize the ginger and garlic (it also helped with aggression I was feeling towards our current president).<br/><br/>Delicious! Will make again.",
+          "datePublished": "2017-10-01T18:14:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Charles"
+          },
+          "reviewBody": "This dish was a bit too sweet for my Chinese tastebuds. The caramelized onions and gochujang are sweet enough on their own; next time I would omit the brown sugar and add in an extra tablespoon of low-sodium soy sauce for a more pleasant sweet/salty/spicy balance.",
+          "datePublished": "2017-10-24T23:23:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam Sifton"
+          },
+          "reviewBody": "Rob, that's not a stupid question. The rice cakes you want here are the kind sold in Korean markets -- glutinous rice that's been mashed into stickiness then formed into various shapes. I like the cylindrical ones best for this recipe. The wonderful Maanchi can teach you much more: <a href=\"http://www.maangchi.com/recipes/ricecake\" title=\"http://www.maangchi.com/recipes/ricecake\" target=\"_blank\">http://www.maangchi.com/recipes/ricecake</a>.",
+          "datePublished": "2017-10-24T23:13:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Annie"
+          },
+          "reviewBody": "his is very similar to a dish I learned while stationed in the Philippines.  The difference is that instead of using greens I was taught to use thinly juliened green beans (I now buy these frozen) and shredded cabbage.  Served over steamed rice and at times rolled into rice wrappers and deep fried.  Very delicious and nourishing.",
+          "datePublished": "2017-10-24T23:19:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lee"
+          },
+          "reviewBody": "Worked really well with ground turkey if you don't want to use pork. Delicious.",
+          "datePublished": "2017-10-01T18:06:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gleaner"
+          },
+          "reviewBody": "Used mustard greens instead of kale which I would do again--much more flavorful. I'd also cut down on the gotchujang (esp if using the grocery store brand) as it is too sweet and I'd replace with some sambal oelek/sriracha or red pepper flakes/red chilies. Had a red pepper I needed to use so I added it after the garlic/ginger.",
+          "datePublished": "2017-10-24T23:33:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrew"
+          },
+          "reviewBody": "I followed the recipe exactly, with the addition of six dried Thai chilies, halved, as Sam suggested in the introduction.  Absolutely delicious! Two suggestions: You can save time by chopping your onions and getting them into the pan/wok first.  They have to cook for almost 30 minutes, and this leaves plenty of time to do the rest of your prep work / mise-en-place. Also, I put the lid on my large all-clad pan once I added the kale to help it soften.   I will make this dish again and again!",
+          "datePublished": "2017-10-24T23:25:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rob"
+          },
+          "reviewBody": "This may well be a stupid question, but when the recipe suggests rice cakes, are we talking about the regular round rice cakes available in most supermarkets often sold under the name of major cereal manufacturers? Or are the ones in the recipe something different?",
+          "datePublished": "2017-10-24T23:14:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "keller"
+          },
+          "reviewBody": "I'm a plant based vegan so I didn't use oil, salt (already enough in the soy sauce/gochujang), or animal products. I've made this different ways without the meat, using tofu,  jackfruit, black beans,  loads of veggies, and once with my homemade bean burger recipe as \"meat,\"  crumbling it gently into the pan.  It's a great low-cal quick healthy meal made with a bag of mixed frozen veggies served over brown rice. My friends love this dish.",
+          "datePublished": "2017-10-24T23:14:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Schlattastic"
+          },
+          "reviewBody": "Terrific dish. Made multiple times. Since this is a riff on the Sichuan fave Mapo Doufu, please do consider adding tofu to your dish as the intro note mentions. If you can’t easily find silken tofu, just cut up a block of regular tofu into half-inch cubes and have waiting in a pan of warm water on the side of your stove. Drain and gently stir in to mingle with your ragu for a couple minutes at the end. It’s a lush, tasty add-in that makes perfect sense if you’ve enjoyed Mapo Doufu.",
+          "datePublished": "2017-11-04T04:39:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Delicious and some kid-friendly notes."
+          },
+          "reviewBody": "A tasty recipe when done just as is but if you are running short on time or have a couple of hungry spice averse kids to feed, here is a simple change - sautee the onions for a few minutes, toss in the ginger and garlic, fry another minute, then toss in the pork, fry and break up till browned, add diced up tomato (I added half a chopped up pannet of cherry tomatoes), the gochuchang, soy sauce, a bit of sugar. At the very end toss in some peanuts and the scallions. Very very tasty.",
+          "datePublished": "2019-02-07T19:43:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara"
+          },
+          "reviewBody": "This is excellent. No, really--super, duper wonderful. Ok, double the gochujang (Mother-in-law's \"tangy\" is pretty tame) and definitely throw in some tofu. Do not optionalize the Szechuan peppercorns--put in extra and fry them a little before the ginger and garlic. 11 year old daughters had seconds, which is an endorsement so very rarely given.",
+          "datePublished": "2017-10-01T18:25:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Miss Jones"
+          },
+          "reviewBody": "Oh my gosh. Sweet hot joy. I garnished with crushed salted peanuts. Thank you Mssrs. Sifton and Ho.",
+          "datePublished": "2017-10-24T23:19:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gleaner"
+          },
+          "reviewBody": "I toast, grind, and sift the Sichuan peppercorns.",
+          "datePublished": "2017-10-24T23:31:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sam"
+          },
+          "reviewBody": "Make ahead thru step 4 for extra convenience @ meal time\n\nHave subbed sambal olek for gochujang with equally delicious results\n\nLeave a tiny bit of pork in the pan for step 4 to get some crispy bits",
+          "datePublished": "2019-02-18T22:25:28.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2016
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1018404-mapo-ragu",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Sam Sifton"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2016,
+      "description": "This is my simple, everyday take on a dish developed at Momofuku Ssam Bar in Manhattan many years ago by the chefs David Chang and Tien Ho and their band of collaborators. It is almost literally a mashup: a meal that is kind of Korean, kind of Chinese, kind of Italian. If you don’t like spicy food, use miso instead of the gochujang and don’t use Sichuan peppercorns, which add a numbing, tingly pop to the fire. (If you like really spicy food, add dried chiles or hot pepper flakes to the recipe at the point you add the gochujang.) And if you want to make it even more luxe than it is already, follow the lead of Chang’s crew and stir 6 ounces of silken tofu into the sauce at the end.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Mapo Ragù",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/853de2ba-9ec2-5bf8-909d-20ec2f7f0ddf#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/22/multimedia/mapo-ragu-jpgt/mapo-ragu-jpgt-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-11-22T20:02:11.340Z",
+          "datePublished": "2024-11-22T20:02:11.340Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-22T20:02:11.340Z",
+          "url": "https://static01.nyt.com/images/2024/11/22/multimedia/mapo-ragu-jpgt/mapo-ragu-jpgt-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/853de2ba-9ec2-5bf8-909d-20ec2f7f0ddf#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/22/multimedia/mapo-ragu-jpgt/mapo-ragu-jpgt-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-11-22T20:02:11.340Z",
+          "datePublished": "2024-11-22T20:02:11.340Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-22T20:02:11.340Z",
+          "url": "https://static01.nyt.com/images/2024/11/22/multimedia/mapo-ragu-jpgt/mapo-ragu-jpgt-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/853de2ba-9ec2-5bf8-909d-20ec2f7f0ddf#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/22/multimedia/mapo-ragu-jpgt/mapo-ragu-jpgt-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-11-22T20:02:11.340Z",
+          "datePublished": "2024-11-22T20:02:11.340Z",
+          "height": "1799",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-22T20:02:11.340Z",
+          "url": "https://static01.nyt.com/images/2024/11/22/multimedia/mapo-ragu-jpgt/mapo-ragu-jpgt-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1018404-mapo-ragu"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:12:23.334Z",
+  "scraping_status": "scraped"
+}

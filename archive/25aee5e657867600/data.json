@@ -1,0 +1,547 @@
+{
+  "id": "25aee5e657867600",
+  "original_url": "https://cooking.nytimes.com/recipes/1022610-miso-maple-loaf",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1022610-miso-maple-loaf-cake",
+  "fetched_title": "Miso-Maple Loaf Cake Recipe",
+  "main_text_content": "This cake, adapted from “Baking With Dorie” (Mariner Books, 2021), is comforting and surprising The ingredients that give it its name, miso and maple syrup, are strong characters, but they prove themselves good team players When baked, their flavors are warm and satisfying, mellow and not immediately knowable at first",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026593-miso-chocolate-chip-cookies\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/02/13/multimedia/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/02/13/multimedia/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/02/13/multimedia/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/02/13/multimedia/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/02/13/multimedia/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/02/13/multimedia/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/02/13/multimedia/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/02/13/multimedia/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl/13FAST-TREATS-REX4-AS-Miso-Chocolate-Chip-Cookies-jbpl-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Miso Chocolate Chip Cookies</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Ali Slagle</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-eat-site/10mag-eat-site-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/25aee5e657867600/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/32792531-55f7-54e8-a893-ec53a1bb16df",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1022610-miso-maple-loaf-cake",
+        "@type": "WebPage",
+        "name": "Miso-Maple Loaf Cake"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022610-miso-maple-loaf-cake",
+      "name": "Miso-Maple Loaf Cake",
+      "description": "This cake, adapted from “Baking With Dorie” (Mariner Books, 2021), is comforting and surprising. The ingredients that give it its name, miso and maple syrup, are strong characters, but they prove themselves good team players. When baked, their flavors are warm and satisfying, mellow and not immediately knowable at first. They hover in that space between sweet and savory. Coarse-crumbed — admirably so — and sturdy, the cake is easy to slice, easy to serve at breakfast and easy to pick up and nibble in the afternoon. It’s as good with butter and jam as it is with a little cheese. And it keeps well: It’ll hold at room temperature for about 4 days.",
+      "author": {
+        "@type": "Person",
+        "name": "Dorie Greenspan"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/c163264f-7ec6-566e-81a8-3b453cf0499d#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-eat-site/10mag-eat-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.",
+          "dateModified": "2021-10-04T14:25:32.396Z",
+          "datePublished": "2021-10-04T14:25:32.396Z",
+          "height": "899",
+          "representativeOfPage": true,
+          "uploadDate": "2021-10-04T14:25:32.396Z",
+          "url": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-eat-site/10mag-eat-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/c163264f-7ec6-566e-81a8-3b453cf0499d#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-eat-site/10mag-eat-site-superJumbo.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.",
+          "dateModified": "2021-10-04T14:25:32.396Z",
+          "datePublished": "2021-10-04T14:25:32.396Z",
+          "height": "1364",
+          "representativeOfPage": true,
+          "uploadDate": "2021-10-04T14:25:32.396Z",
+          "url": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-eat-site/10mag-eat-site-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/c163264f-7ec6-566e-81a8-3b453cf0499d#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-eat-site/10mag-eat-site-mediumSquareAt3X.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.",
+          "dateModified": "2021-10-04T14:25:32.396Z",
+          "datePublished": "2021-10-04T14:25:32.396Z",
+          "height": "1364",
+          "representativeOfPage": true,
+          "uploadDate": "2021-10-04T14:25:32.396Z",
+          "url": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-eat-site/10mag-eat-site-mediumSquareAt3X.jpg",
+          "width": "1365"
+        }
+      ],
+      "totalTime": "PT1H10M",
+      "recipeYield": "One 8 1/2-inch loaf",
+      "recipeCuisine": "",
+      "recipeCategory": "snack, dessert",
+      "keywords": "loaf cake, maple syrup, miso, orange",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 1643
+      },
+      "recipeIngredient": [
+        "4 ounces/113 grams unsalted butter, at room temperature, plus more for the pan",
+        "1 3/4 cups/238 grams all-purpose flour, plus more for the pan",
+        "1 3/4 teaspoons baking powder",
+        "1/4 teaspoon baking soda",
+        "3/4 cup/150 grams granulated sugar ",
+        "1/4 teaspoon fine sea salt ",
+        "Finely grated zest of 1 orange or tangerine ",
+        "1/4 cup/70 grams white or yellow miso ",
+        "1/4 cup/60 milliliters pure maple syrup ",
+        "2 large eggs, at room temperature ",
+        "1 1/2 teaspoons pure vanilla extract ",
+        "1/3 cup/80 milliliters buttermilk (well shaken before measuring)",
+        "1/4 cup/80 grams orange marmalade or apricot jam (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Center a rack in the oven and heat oven to 350 degrees. Butter an 8 1/2-inch loaf pan and dust with flour, or use baker’s spray. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Whisk together the flour, baking powder and baking soda in a medium bowl. Put the sugar, salt and zest in the bowl of a stand mixer or a large bowl that you can use with a hand mixer. Reach in and rub the ingredients together until the sugar is moist and fragrant; it may even turn orange. Add the butter, miso and maple syrup to the sugar. If using a stand mixer, attach the bowl and fit it with the paddle attachment. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Beat on medium speed for about 3 minutes, scraping down the bowl and beater(s) as needed, until the mixture is smooth and creamy. One by one, add the eggs, beating for a minute after each goes in. Beat in the vanilla. The mixture might curdle, but this is a temporary condition. Turn off the mixer, add the dry ingredients all at once and pulse to begin the blending, turning the mixer on and off in very short spurts on the lowest speed. Then, beat on low speed until the dry ingredients are almost incorporated. With the mixer still on low, pour in the buttermilk and blend well. Scrape the batter into the pan, working it into the corners and smoothing the top. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake for 50 to 55 minutes, checking the loaf after 40 minutes and covering the top loosely with a foil or tented parchmentif it’s browning too fast. The loaf is properly baked when it pulls away from the sides of the pan and a tester inserted into the center comes out clean. Transfer the pan to a rack and let the bread rest for 5 minutes, then run a table knife around the edges of the loaf and unmold onto the rack; turn it right side up. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "If you’d like to glaze the loaf, stir the marmalade or jam with 1 tablespoon water and heat the mixture in the microwave or over low heat until it comes just to a boil. Using a pastry brush or a spoon, cover the top of the loaf with the glaze. Allow the loaf to cool to room temperature before slicing. Wrapped well, the cake will keep for about 4 days at room temperature. If it becomes stale — and maybe even if it doesn't — toast it lightly before serving. If you haven't glazed the cake, you can wrap it airtight and freeze it for up to 2 months; defrost, still wrapped, at room temperature. "
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-10-10T00:00:00.000Z",
+      "dateModified": "2021-10-11T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennifer"
+          },
+          "reviewBody": "Made as directed, (50min) and added glaze of 2TBS maple syrup to 1TBS miso (whisked over heat til bubbling and melted) which I brushed on once the cake has cooled.  Delish. Feels grown up and savory!",
+          "datePublished": "2025-03-16T21:59:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Donna C."
+          },
+          "reviewBody": "I think the taste of the miso is a little bit too strong and takes over the more delicate maple.  I decrease the amount of miso by 1 tablespoon.",
+          "datePublished": "2025-03-13T17:34:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deedee"
+          },
+          "reviewBody": "My loaf was ready at the 40 mark!",
+          "datePublished": "2025-02-21T05:29:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Iris"
+          },
+          "reviewBody": "Added a heaping teaspoon of fresh grated ginger. Very nice!",
+          "datePublished": "2025-02-08T15:53:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris"
+          },
+          "reviewBody": "I enjoyed the process of making this (with my five year old) more than the output. The steps were fun, the new ingredients were enjoyable to cook with. Final texture was great, but we ended a little too savory. The miso taste is really interesting but I it was hard to get the sweet v salty balance.",
+          "datePublished": "2024-11-11T18:42:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Grace"
+          },
+          "reviewBody": "After reading these comments, I went out and bought a bottle of Grade B maple syrup. I am sold on the flavor and body of it, and it pronounced itself proudly in the cake. I’m buying Grade B for life.",
+          "datePublished": "2024-04-12T08:12:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kjp"
+          },
+          "reviewBody": "Making a miso-maple glaze is a must. I just simmered a large spoonful of miso paste in maple syrup for a bit. It completely made the cake—best part of it. \nRe cooking time, I used king arthur’s gluten free 1-to-1 and it took the full time in my oven.",
+          "datePublished": "2024-03-25T17:26:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Connie"
+          },
+          "reviewBody": "This was a good base recipe for a most poundcake. Based on other comments, I added more miso, cut white sugar and increased maple in the cake. \nMade a maple-powdered sugar glaze for the cake and it was really delightful. More savory than sweet, with a hint of extra sweetness from the glaze.",
+          "datePublished": "2024-03-24T17:32:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katie"
+          },
+          "reviewBody": "This cake is stunning. Rich, nutty flavor that even my picky children love.",
+          "datePublished": "2024-03-12T01:21:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mackenzie"
+          },
+          "reviewBody": "Perfect snack cake. Dress it up/dress it down. Play up the salty, let her be sweet. I had red miso in the fridge and it added a lovely umami. I wanted to play up the savory, so I subbed 1/3 of the butter for bacon fat. It added a dreamy smoky saltiness while not competing with Dorie’s champion flavors. I will make this again and again to eat with coffee.. glass of wine.. salty butter.. Greek yogurt.. Brie and prosciutto.",
+          "datePublished": "2024-01-31T01:52:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristen"
+          },
+          "reviewBody": "Made these changes and it turned out great:\n- only 1/4 cup of sugar (in addition to 1/4 cup of maple syrup)\n- almond extract instead of vanilla\n- 1 cup of whole wheat flour, plus 3/4 cup of superfine almond flour\n- 6 tbsp of olive oil instead of the butter\n\nMixed dry and wet ingredients separately (by hand), then added dry to wet, and added the olive oil last.  Lined bread pan with parchment paper.  Came out perfectly and perfect amount of sweetness (not too much).",
+          "datePublished": "2024-01-24T16:02:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy"
+          },
+          "reviewBody": "Absolutely delicious.  I made it without the glaze and loved how the sweet/savory balance",
+          "datePublished": "2024-01-14T02:28:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "larry k"
+          },
+          "reviewBody": "I’ve made this bread before and it was quite tasty. Slight modification which I think further improves it. Use powdered buttermilk and add the appropriate amount to the dry ingredients. Zest and juice the orange. Add 1/3 cup orange juice instead of water or liquid buttermilk to the dry ingredients and otherwise prepare as directed. The taste of orange is more prominent and perfectly compliments the tastes of maple and miso in the bread.",
+          "datePublished": "2023-11-14T00:14:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sabena Singh"
+          },
+          "reviewBody": "The aroma of the cake baking was tasty. I found premium white miso and had dark maple syrup. I brushed the top with melted apricot jam. It tastes delicious. Thank you Dorie.",
+          "datePublished": "2023-10-20T21:58:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SKJ"
+          },
+          "reviewBody": "I enjoyed this cake (I baked it in a 9x13 pan because I didn't have a loaf pan) a lot and think it has a lot of potential. I agree with a previous commentator, a miso maple glaze is key because the flavors are pretty subtle in the cake. I used a combo of miso paste, powdered sugar, and maple syrup to glaze the cake. I think it really needs something textural, I might candy some walnuts or pecans in maple syrup next time and put those on top!",
+          "datePublished": "2023-10-05T15:07:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Warren"
+          },
+          "reviewBody": "Whenever I make a dessert that requires a lot of zest, I use a peeler to remove the zest--it comes off beautifully with virtually no pith--and then chop it finely in the food processor along with the granulated sugar.  More flavor and less work.",
+          "datePublished": "2021-10-10T20:32:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chantal"
+          },
+          "reviewBody": "I think all miso is considered paste. \nRe. color: The darker the color the saltier and flavor-intense the miso. Red miso has an intense salty flavor, white miso is sweeter and less intense. Yellow sits somewhere in-between. Given that others have lamented that the miso and maple flavors are not pronounced enough in this cake, I'd opt for yellow if you can find it.",
+          "datePublished": "2021-10-08T17:22:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DF"
+          },
+          "reviewBody": "Nice loaf, good texture, easy enough.\n\nStill \"haunting\"?  Not really.  I would have preferred a pronounced maple taste, and, if I make it again, I will use a tsp of maple extract to boost that flavor.",
+          "datePublished": "2021-10-07T17:07:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura"
+          },
+          "reviewBody": "I love Dorie's recipes & this one sounded so appealing! I made it vegan by substituting one flax egg for the two large eggs and using vegan butter and soured almond milk instead of the buttermilk (just add a dash of vinegar to the almond milk and let it sit for 5 min.).  I also substituted white whole wheat flour for the white flour, used yellow miso, and amped up the maple syrup to 5 T.  I am eating a slice right now - it is delicious, both sweet and savory and has a large but tender crumb.",
+          "datePublished": "2021-10-10T23:18:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maria"
+          },
+          "reviewBody": "Maybe swap out some granulated sugar with some maple sugar?",
+          "datePublished": "2021-10-08T15:08:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jean"
+          },
+          "reviewBody": "Is white or yellow miso only available as a paste?  Which is better-- white or yellow?",
+          "datePublished": "2021-10-08T00:11:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "elizabeth"
+          },
+          "reviewBody": "I replaced the vanilla extract with maple extract to ensure that maple flavor. Yep!!!",
+          "datePublished": "2021-10-09T01:11:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joan"
+          },
+          "reviewBody": "Made this as written except I used 1/4 cup yoghurt as a sub for the buttermilk which I didn't have on hand.  Baked in 3 smaller loaf pans.  Turned out well, but agree that a bit more maple and even miso flavor would have been good.",
+          "datePublished": "2021-10-07T23:37:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Heather"
+          },
+          "reviewBody": "I haven't made this yet myself, but I see a lot of people saying they wish the miso/maple flavor were more pronounced. Why not use a miso/maple glaze over it, instead of jam? I'm a little surprised Dorie didn't call for it- I'd love to know why the jam.",
+          "datePublished": "2021-10-08T17:40:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JB"
+          },
+          "reviewBody": "I imagine that the strength of the maple flavor will depend on the grade of maple syrup being used.  The lighter grades have a delicate flavor while the darker syrup will be stronger.",
+          "datePublished": "2021-10-08T20:09:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "My oven runs cool and yet this was still done early at 45 mins! Lovely and not too sweet. To my surprise given the batter, there's not a strong maple or miso flavor at all; the strongest flavor note we tasted was the tangerine zest, and I'd used a small one. Great crumb. The apricot glaze should be required, imho. Perfect with coffee or tea. \n\nPs: I'd love to intensify the maple taste but wonder if increasing the syrup will make it too sweet. Could reduce sugar but that risks the texture. Ideas?",
+          "datePublished": "2021-10-08T02:30:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Passion for Peaches"
+          },
+          "reviewBody": "I see some complaint ts about not enough maple flavor. Maple syrup comes in four grades. The darkest syrup is the lowest grade, but it has much more flavor than the light grades.",
+          "datePublished": "2021-10-13T23:08:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandy"
+          },
+          "reviewBody": "Just a heads up - I misread the butter as 4 tbsp, but it’s 4 oz, which is actually a whole stick. Don’t make my mistake!",
+          "datePublished": "2021-10-09T22:21:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PJ"
+          },
+          "reviewBody": "King Arthur Measure for Measure.",
+          "datePublished": "2021-10-07T15:05:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "rsp"
+          },
+          "reviewBody": "made the cake after reading the comments.  held my breath about the cake falling (I'm not a great baker, so wouldn't have been surprised.) it didn't.  One reader suggested a miso-maple glaze.  Tried it; sounded more \"right\" than the jam.  it was amazing -- like sweet/salty caramel glaze.  This is a love-it-or-hate-it cake.  My household split down the middle, I'm on the love-it side, so will make it again.  BTW, used  Greek yogurt thinned with milk& a little baking soda for the buttermilk effect",
+          "datePublished": "2021-10-14T02:48:13.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1022610-miso-maple-loaf-cake",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Dorie Greenspan"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "This cake, adapted from “Baking With Dorie” (Mariner Books, 2021), is comforting and surprising. The ingredients that give it its name, miso and maple syrup, are strong characters, but they prove themselves good team players. When baked, their flavors are warm and satisfying, mellow and not immediately knowable at first. They hover in that space between sweet and savory. Coarse-crumbed — admirably so — and sturdy, the cake is easy to slice, easy to serve at breakfast and easy to pick up and nibble in the afternoon. It’s as good with butter and jam as it is with a little cheese. And it keeps well: It’ll hold at room temperature for about 4 days.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Miso-Maple Loaf Cake",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/c163264f-7ec6-566e-81a8-3b453cf0499d#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-eat-site/10mag-eat-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.",
+          "dateModified": "2021-10-04T14:25:32.396Z",
+          "datePublished": "2021-10-04T14:25:32.396Z",
+          "height": "899",
+          "representativeOfPage": true,
+          "uploadDate": "2021-10-04T14:25:32.396Z",
+          "url": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-eat-site/10mag-eat-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/c163264f-7ec6-566e-81a8-3b453cf0499d#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-eat-site/10mag-eat-site-superJumbo.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.",
+          "dateModified": "2021-10-04T14:25:32.396Z",
+          "datePublished": "2021-10-04T14:25:32.396Z",
+          "height": "1364",
+          "representativeOfPage": true,
+          "uploadDate": "2021-10-04T14:25:32.396Z",
+          "url": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-eat-site/10mag-eat-site-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/c163264f-7ec6-566e-81a8-3b453cf0499d#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-eat-site/10mag-eat-site-mediumSquareAt3X.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.",
+          "dateModified": "2021-10-04T14:25:32.396Z",
+          "datePublished": "2021-10-04T14:25:32.396Z",
+          "height": "1364",
+          "representativeOfPage": true,
+          "uploadDate": "2021-10-04T14:25:32.396Z",
+          "url": "https://static01.nyt.com/images/2021/10/10/magazine/10mag-eat-site/10mag-eat-site-mediumSquareAt3X.jpg",
+          "width": "1365"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022610-miso-maple-loaf-cake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:35:55.115Z",
+  "scraping_status": "scraped"
+}

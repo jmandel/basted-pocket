@@ -1,0 +1,541 @@
+{
+  "id": "e9eff3ce917e3577",
+  "original_url": "https://cooking.nytimes.com/recipes/1024075-dumpling-tomato-salad-with-chile-crisp-vinaigrette",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1024075-dumpling-tomato-salad-with-chile-crisp-vinaigrette",
+  "fetched_title": "Dumpling Tomato Salad With Chile Crisp Vinaigrette Recipe",
+  "main_text_content": "Harness the crowd-pleasing power of dumplings in this hearty yet light main course salad The base is simple and summery: Ripe tomatoes are lightly touched with salt, garlic and basil, providing a perfectly fragrant canvas for pan-fried potsticker dumplings Salting intensifies the tanginess and fruitiness of tomatoes, while also coaxing out some of the juice, which becomes a light sauce for the dumplings",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025694-basil-and-olive-pasta-salad-with-tomato-dressing\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2024/07/30/multimedia/HLM-Basil-and-Olive-Pasta-Salad-gmjp/HLM-Basil-and-Olive-Pasta-Salad-gmjp-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2024/07/30/multimedia/HLM-Basil-and-Olive-Pasta-Salad-gmjp/HLM-Basil-and-Olive-Pasta-Salad-gmjp-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/07/30/multimedia/HLM-Basil-and-Olive-Pasta-Salad-gmjp/HLM-Basil-and-Olive-Pasta-Salad-gmjp-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/07/30/multimedia/HLM-Basil-and-Olive-Pasta-Salad-gmjp/HLM-Basil-and-Olive-Pasta-Salad-gmjp-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/07/30/multimedia/HLM-Basil-and-Olive-Pasta-Salad-gmjp/HLM-Basil-and-Olive-Pasta-Salad-gmjp-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/07/30/multimedia/HLM-Basil-and-Olive-Pasta-Salad-gmjp/HLM-Basil-and-Olive-Pasta-Salad-gmjp-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/07/30/multimedia/HLM-Basil-and-Olive-Pasta-Salad-gmjp/HLM-Basil-and-Olive-Pasta-Salad-gmjp-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/07/30/multimedia/HLM-Basil-and-Olive-Pasta-Salad-gmjp/HLM-Basil-and-Olive-Pasta-Salad-gmjp-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Basil and Olive Pasta Salad With Tomato Dressing</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Hetty Lui McKinnon</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/06/13/multimedia/as-dumpling-salad-lvtc/as-dumpling-salad-lvtc-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/e9eff3ce917e3577/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/2a6ddd31-8525-5a1e-9e05-b0daebe6e92e",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1024075-dumpling-tomato-salad-with-chile-crisp-vinaigrette",
+        "@type": "WebPage",
+        "name": "Dumpling Tomato Salad With Chile Crisp Vinaigrette"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024075-dumpling-tomato-salad-with-chile-crisp-vinaigrette",
+      "name": "Dumpling Tomato Salad With Chile Crisp Vinaigrette",
+      "description": "Harness the crowd-pleasing power of dumplings in this hearty yet light main course salad. The base is simple and summery: Ripe tomatoes are lightly touched with salt, garlic and basil, providing a perfectly fragrant canvas for pan-fried potsticker dumplings. Salting intensifies the tanginess and fruitiness of tomatoes, while also coaxing out some of the juice, which becomes a light sauce for the dumplings. (Salting also works wonders for out-of-season tomatoes, meaning you could eat this salad all year round.) Use your favorite chile crisp as it is the dominant flavor in the dressing and will greatly impact the final dish; all brands of crisp will have different levels of saltiness and spice, so season accordingly.",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/d6740909-b319-5b3a-8167-b8f2406085f9#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/13/multimedia/as-dumpling-salad-lvtc/as-dumpling-salad-lvtc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-08-01T16:15:03.756Z",
+          "datePublished": "2023-06-12T17:29:42.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-12T17:29:42.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/13/multimedia/as-dumpling-salad-lvtc/as-dumpling-salad-lvtc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/d6740909-b319-5b3a-8167-b8f2406085f9#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/13/multimedia/as-dumpling-salad-lvtc/as-dumpling-salad-lvtc-googleFourByThree-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-08-01T16:15:03.756Z",
+          "datePublished": "2023-06-12T17:29:42.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-12T17:29:42.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/13/multimedia/as-dumpling-salad-lvtc/as-dumpling-salad-lvtc-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/d6740909-b319-5b3a-8167-b8f2406085f9#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/13/multimedia/as-dumpling-salad-lvtc/as-dumpling-salad-lvtc-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-08-01T16:15:03.756Z",
+          "datePublished": "2023-06-12T17:29:42.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-12T17:29:42.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/13/multimedia/as-dumpling-salad-lvtc/as-dumpling-salad-lvtc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT5M",
+      "cookTime": "PT15M",
+      "totalTime": "PT20M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, quick, weeknight, dumplings, main course",
+      "keywords": "basil, chile crisp, full-access-ic-2024-06, salad, stovetop, tomato, summer",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 4458
+      },
+      "recipeIngredient": [
+        "2 1/2 pounds ripe tomatoes (any variety), cut into roughly 1- to 2-inch pieces (at room temperature)",
+        "1 garlic clove, grated",
+        "1/2 cup basil leaves, torn",
+        "Kosher salt (such as Diamond Crystal brand) and black pepper",
+        "1 pound frozen potsticker dumplings (not thawed)",
+        "Neutral oil, such as canola or vegetable",
+        "1 to 2 tablespoons store-bought crispy fried shallots (optional)",
+        "3 tablespoons chile crisp (or chile oil)",
+        "2 tablespoons rice vinegar",
+        "1 tablespoon soy sauce, or more to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place the tomatoes on a large serving plate or in a bowl. Add the garlic, half the basil leaves, 1 teaspoon of salt and a big pinch of black pepper. Toss to combine and set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To make the vinaigrette, combine the chile crisp, rice vinegar and soy sauce and whisk to combine. Taste and if it needs more saltiness, add ½ teaspoon more soy sauce."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat a large (12-inch) nonstick or well-seasoned cast-iron skillet over medium high for 1 to 2 minutes until very hot. Add 1 to 2 tablespoons of oil and, working in batches, add the dumplings, flat-side down, and cook until the bottoms of the dumplings are lightly browned, 1 to 2 minutes. Immediately add about ¼ cup of water to the pan, just enough to cover the base of the dumplings, then cover and cook until the water has evaporated, 3 to 4 minutes. (If your dumplings contain meat, cook for an extra 1 to 2 minutes, or according to packet instructions). Transfer the cooked dumplings to a plate and continue cooking the remaining dumplings. (If you prefer to steam the dumplings, see Tip.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To serve, place the warm dumplings over the tomato salad and drizzle with the chile crisp vinaigrette. Toss very gently. Top with the crispy fried shallots (if using) and the remaining basil leaves. Serve either while the dumplings are still warm or at room temperature."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-06-13T00:00:00.000Z",
+      "dateModified": "2023-10-12T16:57:48.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristie"
+          },
+          "reviewBody": "This was fabulous! I have made it several times and it always turns out great.",
+          "datePublished": "2025-05-12T20:54:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leslye Borden"
+          },
+          "reviewBody": "Delicious meal.  I served it over shredded lettuce.  My husband and I slurped it up.  He suggested next time I make it with meat balls!",
+          "datePublished": "2025-04-20T01:36:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "aceofwands"
+          },
+          "reviewBody": "In making this for 2 instead of 4 servings, I only used 1TBSP of chili crisp and put some on the side if needed (which it wasn’t). Was happy to have home grown tomatoes I could use along with Trader Joe’s shrimp gyoza.  Delicious!!",
+          "datePublished": "2025-03-25T13:02:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Braden"
+          },
+          "reviewBody": "This will definitely be my new go-to salad if I need to bring a dish somewhere, it was equally delicious as leftovers the following day. The dumplings of course became a bit soggy, but next time I may try allowing the tomatoes to marinate in the sauce prior to adding the dumplings",
+          "datePublished": "2025-03-10T17:00:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CWL"
+          },
+          "reviewBody": "I cut the quantity of tomatoes by about a third, and I think it works much better that way. Terrific recipe, just more tomatoes than I need!",
+          "datePublished": "2025-01-29T21:19:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "arlyn"
+          },
+          "reviewBody": "1/28/25: did a half recipe, but used the whole pound of dumplings. I used TJ’s chile crisp including the solids—not just the oil.",
+          "datePublished": "2025-01-29T00:41:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KDA"
+          },
+          "reviewBody": "I've made this multiple times with mini chicken-and-veg dumplings always in the freezer section at my grocery store and it is great! I like to add cucumbers and double the dressing to have plenty plus extra. I'll eat it warm when I first make it, then have the cold leftovers for lunch the next day.",
+          "datePublished": "2025-01-28T19:44:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara"
+          },
+          "reviewBody": "As advised, we did not mess with the recipe and made as written with Momofuko's chili crisp.  May I add that it was viciously spicy but still delicious.  If you love high Scoville scores, you'll love it, otherwise dial it back a bit for the more pedestrian of us.",
+          "datePublished": "2024-12-05T23:56:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "aceofwands"
+          },
+          "reviewBody": "Cut everything in 1/2 (for 2 servings) and only used a heaping teaspoon of chili crisp - was plenty hot.  Happy to have found fried shallots at my local asian market.  Was a perfect touch on top.  Delicious!",
+          "datePublished": "2024-12-05T13:23:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "desert woman"
+          },
+          "reviewBody": "This has become a go-to recipe in our house. However, I just make the tomato, basil, and garlic vinaigrette in one felt swoop. Let it sit there and get good and yummy, then stir the dumplings into it when cooked.  Delightful, yummy and delicious love these kind of meals.",
+          "datePublished": "2024-12-04T23:18:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cameron"
+          },
+          "reviewBody": "I proposed making this to use the last of our garden tomatoes, and my wife questioned it but chose to trust the ratings. We really enjoyed it but would make the following recommendations:\n- Cut chili crisp to 2-3 tsp if using spicy chili crisp (based on using Mr. Bing spicy chili crisp).\n- Cut tomatoes to 1.5 lbs or increase the dumplings to 1.5 lbs.\n- Serve with rice or bread to soak up the extra tomato juices.",
+          "datePublished": "2024-11-17T00:30:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lynn"
+          },
+          "reviewBody": "Tossed the last of the summer tomatoes I’ve been ripening in a drawer with a couple Persian cucumbers and a yellow pepper.  No basil or garlic in the house but the last of a bag of bibigo mini dumplings and some fly be Jin chili vinaigrette… farewell summer in mid November .",
+          "datePublished": "2024-11-11T01:19:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lindsey"
+          },
+          "reviewBody": "I added a little honey to the vinaigrette. It was good.",
+          "datePublished": "2024-11-10T17:54:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SLOSmith"
+          },
+          "reviewBody": "Had everything, made as instructed. Yum! Too spicy for my husband, but his loss.",
+          "datePublished": "2024-10-24T20:35:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TalesToTell"
+          },
+          "reviewBody": "My spouse and I liked this dish a lot. But, while filling, it didn’t seem to be enough to serve as a meal but too much for a side dish. We also thought that the dumplings got tough as they cooled so we would only want it with hot dumplings. We could see it as a first course, something we only occasionally do, plated up with just one dumpling each. We can also see it as dinner on a hot summer night when we really don’t want to cook but must eat. We would likely love it on such a night.",
+          "datePublished": "2024-10-22T01:54:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Becky Home-ecky"
+          },
+          "reviewBody": "I need enlightening, what is Chile crisp? Where do I find it? ( what stores and what aisle?) Also where do I find crispy shallots? Is it something like the old fashioned onion crisps?",
+          "datePublished": "2023-06-14T15:25:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kayla"
+          },
+          "reviewBody": "Any recommendations for the best frozen dumplings?",
+          "datePublished": "2023-06-14T15:13:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ProblemChild"
+          },
+          "reviewBody": "Nothing about this recipe should work but the dish all of these unexpected flavor combinations create is astonishingly delicious. I'm going to be making this all summer long. PS: Don't mess with the ingredients or proportions because you think you know better. You don't. Make this as written. You'll be so glad you did.",
+          "datePublished": "2023-06-28T22:51:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen Morrison"
+          },
+          "reviewBody": "Trader Joe’s dumplings are all good. I also like most dumplings labeled “gyoza”, preferring that style bc I lived in Japan. Ajinomoto is a good brand.",
+          "datePublished": "2023-06-14T15:53:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anneliess Lush"
+          },
+          "reviewBody": "Recipe for crispy fried shallots if you can't find in store:\n3 shallots sliced thin\n1/2 cup of vegetable oil\nCombine shallots and oil in medium bowl. Microwave for 5 min. Stir and continue to microwave 2 min longer. Repeat stirring and microwaving in 2-minute increments until beginning to brown (4 to 6 min). Repeat stirring and microwaving in 30-second increments until deep gold brown (30 sec to 2 min). Using slotted spoon, transfer to paper towel–lined plate, season with salt, drain for 5 min",
+          "datePublished": "2023-06-23T20:03:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anna"
+          },
+          "reviewBody": "I love the Asian flavor of this dish.  I think I may try an Italian version with mini cheese ravioli.  Throw in a bit of pesto, good olive oil, olives, capers, grilled red peppers, and fresh ground pepper to taste.  More ideas are popping into my head, but I will stop riffing now!",
+          "datePublished": "2023-06-14T21:27:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tammy"
+          },
+          "reviewBody": "Question about using/measuring chile crisp: Should I stir it up and then measure out a tablespoon, so that I get a mixture of the solid bits with the oil? Or does one tablespoon mean one tablespoon of just the oil? TIA",
+          "datePublished": "2023-06-14T15:14:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steve H"
+          },
+          "reviewBody": "I love Chili Crisp. Our local store has Momofuku Chili Crunch, which is good, but my favorite is Fly-by-Jing. It has just the right amount of heat (not too much) and is also not too salty.",
+          "datePublished": "2023-06-14T17:29:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kaydee"
+          },
+          "reviewBody": "Wow, this looks like a quick meal with many possibilities! Looking forward to trying it. Vegetable pot stickers, here I come! Maybe some wilted spinach thrown in and will opt for low sodium soy sauce or tamari.",
+          "datePublished": "2023-06-14T01:13:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "janet"
+          },
+          "reviewBody": "Trader Joe’s frozen potstickers are excellent.",
+          "datePublished": "2023-06-14T16:02:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Megan S."
+          },
+          "reviewBody": "Lao Gan Ma is my favorite brand, if your town has a asian grocery, you may be able to find there, looks like it is also sold on amazon (at a markup). I buy it in Chinatown. Trader Joe's has a chili garlic crunch oil that I do not like as much, and Fly By Jing has a chili crisp that can be found it looks like at Target, as well as online.",
+          "datePublished": "2023-06-14T16:52:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane"
+          },
+          "reviewBody": "I made this for lunch immediately after it was posted. I bought Mr. Bing chili crisp. I had “ROSTAD LÖK” fried onions from Ikea. I used the chicken cilantro mini wontons from Trader Joe’s. It was delicious. It is a great way to use up leftover or slightly past due tomatoes and basil. It also is one of the juiciest meals ever. It made an exquisite “sauce” that was designed to be sopped up with good bread. Long live the juice.",
+          "datePublished": "2023-06-14T18:04:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Claudia"
+          },
+          "reviewBody": "Someone asked about gnocchi - I think Korean rice cakes would also be awesome here",
+          "datePublished": "2023-06-14T16:24:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kirsti"
+          },
+          "reviewBody": "It's a Chinese condiment made with crispy onion, chile and sesame suspended in oil. Adds an earthy kick. \nFind it in supermarkets in the Asian products aisle.",
+          "datePublished": "2023-06-14T16:56:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brian S."
+          },
+          "reviewBody": "Chile crisp is a Chinese condiment that has become very trendy and popular over the past decade.  There are many versions: one that is very popular and accessible/easy to buy (at least for me in CA) is Lao Gan Ma brand. It is a mildly spicy, oil-based condiment that is deep red and contains chile pieces, Szechuan peppercorns, and scallion cooked until deeply savory.  It adds a hit of umami and heat.\n\nNote Lao Gan Ma brand carries many different sauces: Spicy Chili Crisp is what you seek.",
+          "datePublished": "2023-06-14T19:04:13.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1024075-dumpling-tomato-salad-with-chile-crisp-vinaigrette",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "Harness the crowd-pleasing power of dumplings in this hearty yet light main course salad. The base is simple and summery: Ripe tomatoes are lightly touched with salt, garlic and basil, providing a perfectly fragrant canvas for pan-fried potsticker dumplings. Salting intensifies the tanginess and fruitiness of tomatoes, while also coaxing out some of the juice, which becomes a light sauce for the dumplings. (Salting also works wonders for out-of-season tomatoes, meaning you could eat this salad all year round.) Use your favorite chile crisp as it is the dominant flavor in the dressing and will greatly impact the final dish; all brands of crisp will have different levels of saltiness and spice, so season accordingly.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Dumpling Tomato Salad With Chile Crisp Vinaigrette",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/d6740909-b319-5b3a-8167-b8f2406085f9#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/13/multimedia/as-dumpling-salad-lvtc/as-dumpling-salad-lvtc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-08-01T16:15:03.756Z",
+          "datePublished": "2023-06-12T17:29:42.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-12T17:29:42.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/13/multimedia/as-dumpling-salad-lvtc/as-dumpling-salad-lvtc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/d6740909-b319-5b3a-8167-b8f2406085f9#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/13/multimedia/as-dumpling-salad-lvtc/as-dumpling-salad-lvtc-googleFourByThree-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-08-01T16:15:03.756Z",
+          "datePublished": "2023-06-12T17:29:42.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-12T17:29:42.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/13/multimedia/as-dumpling-salad-lvtc/as-dumpling-salad-lvtc-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/d6740909-b319-5b3a-8167-b8f2406085f9#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/13/multimedia/as-dumpling-salad-lvtc/as-dumpling-salad-lvtc-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-08-01T16:15:03.756Z",
+          "datePublished": "2023-06-12T17:29:42.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-12T17:29:42.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/13/multimedia/as-dumpling-salad-lvtc/as-dumpling-salad-lvtc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024075-dumpling-tomato-salad-with-chile-crisp-vinaigrette"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:31:27.849Z",
+  "scraping_status": "scraped"
+}

@@ -1,0 +1,552 @@
+{
+  "id": "5906ddb6b9a9cf28",
+  "original_url": "https://cooking.nytimes.com/recipes/1026167-scallion-oil-fish",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026167-scallion-oil-fish",
+  "fetched_title": "Scallion-Oil Fish Recipe",
+  "main_text_content": "For the most flavorful fish, gently poach the fillets in scallion oil, which is called pa gireum in Korean and is the star of this easy, foolproof preparation Simmering scallions in olive oil over gentle heat removes moisture from the alliums, crisping them and concentrating their savoriness In turn, the oil will be tinted green and perfumed with an umami-saturated scallion aroma like nothing else",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026432-ginger-scallion-stir-fried-shrimp\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Ginger-Scallion Stir-Fried Shrimp</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Sue Li</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/10/18/multimedia/ek-scallion-oil-fishrex-vzqf/ek-scallion-oil-fishrex-vzqf-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/5906ddb6b9a9cf28/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/25937bad-7c69-5efa-aaf0-1cf32ea009e5",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026167-scallion-oil-fish",
+        "@type": "WebPage",
+        "name": "Scallion-Oil Fish"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026167-scallion-oil-fish",
+      "name": "Scallion-Oil Fish",
+      "description": "For the most flavorful fish, gently poach the fillets in scallion oil, which is called pa gireum in Korean and is the star of this easy, foolproof preparation. Simmering scallions in olive oil over gentle heat removes moisture from the alliums, crisping them and concentrating their savoriness. In turn, the oil will be tinted green and perfumed with an umami-saturated scallion aroma like nothing else. Be sure to dip crusty bread into that glorious scallion oil to enjoy with the tender fish. This dish is great with rice, too.",
+      "author": {
+        "@type": "Person",
+        "name": "Eric Kim"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/0ff640c1-f3b8-5373-8cad-bde6b78e4cdc#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/10/18/multimedia/ek-scallion-oil-fishrex-vzqf/ek-scallion-oil-fishrex-vzqf-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-10-14T13:52:15.884Z",
+          "datePublished": "2024-10-14T13:52:15.884Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-10-14T13:52:15.884Z",
+          "url": "https://static01.nyt.com/images/2024/10/18/multimedia/ek-scallion-oil-fishrex-vzqf/ek-scallion-oil-fishrex-vzqf-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/0ff640c1-f3b8-5373-8cad-bde6b78e4cdc#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/10/18/multimedia/ek-scallion-oil-fishrex-vzqf/ek-scallion-oil-fishrex-vzqf-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-10-14T13:52:15.884Z",
+          "datePublished": "2024-10-14T13:52:15.884Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-10-14T13:52:15.884Z",
+          "url": "https://static01.nyt.com/images/2024/10/18/multimedia/ek-scallion-oil-fishrex-vzqf/ek-scallion-oil-fishrex-vzqf-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/0ff640c1-f3b8-5373-8cad-bde6b78e4cdc#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/10/18/multimedia/ek-scallion-oil-fishrex-vzqf/ek-scallion-oil-fishrex-vzqf-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-10-14T13:52:15.884Z",
+          "datePublished": "2024-10-14T13:52:15.884Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-10-14T13:52:15.884Z",
+          "url": "https://static01.nyt.com/images/2024/10/18/multimedia/ek-scallion-oil-fishrex-vzqf/ek-scallion-oil-fishrex-vzqf-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT5M",
+      "cookTime": "PT20M",
+      "totalTime": "PT25M",
+      "recipeYield": "2 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, for two, quick, weeknight, seafood, main course",
+      "keywords": "date night, scallion, stovetop, white fish",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 832
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 567,
+        "unsaturatedFatContent": "36 grams",
+        "carbohydrateContent": "18 grams",
+        "cholesterolContent": null,
+        "fatContent": "44 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "27 grams",
+        "saturatedFatContent": "6 grams",
+        "sodiumContent": "559 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "Coarse kosher salt",
+        "8 ounces white fish fillets, such as cod, halibut, black sea bass, haddock, flounder, tilapia and lemon sole",
+        "6 tablespoons extra-virgin olive oil",
+        "1 bunch scallions, thinly sliced crosswise (1 heaping cup)",
+        "Flaky sea salt, for serving (optional)",
+        "Crusty bread, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Sprinkle a heaping 1/4 teaspoon kosher salt over the fish fillets and refrigerate, uncovered, to brine and air dry a little, about 10 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, add the olive oil and sliced scallions to a small cold skillet and bring to a simmer over medium heat. Cook, stirring occasionally, until most of the scallions are dark green and some are brown, anywhere from 7 to 12 minutes. Turn off the heat but keep the skillet on the burner."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Gently and immediately add the fish to the skillet, cutting into two or three pieces to fit as needed. Spoon some of the hot oil over the fish. Leave the fish to cook in the residual heat on the first side, 1 to 3 minutes, then flip and cover with the fried scallions and let cook on the second side until the insides are no longer translucent, 1 to 5 minutes. Sprinkle with the flaky sea salt, if using."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Serve the fish immediately, directly from its pan if desired, with the bread to dip into the flavorful scallion oil."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-10-18T00:00:00.000Z",
+      "dateModified": "2024-10-18T17:38:55.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vicki"
+          },
+          "reviewBody": "This may be the best thing I've made from NYTimes Cooking, and I've made a lot! It is over-the-top yummy and extremely easy.",
+          "datePublished": "2025-03-27T19:34:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mark"
+          },
+          "reviewBody": "As another pointed out, the flavors are nice but the cooking method will result in raw fish if your filet is too thick.      I think a thermometer is your ally here.     My 1 inch thick cod was about 110f at the end of the stated cooking time.    I just turned the heat back on for a minute or two till I hit 145f and then I plated.",
+          "datePublished": "2025-03-25T21:51:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michelle"
+          },
+          "reviewBody": "Easy and delicious!",
+          "datePublished": "2025-03-19T22:18:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rose m"
+          },
+          "reviewBody": "An addition to my previous note: made this again for my husband, and for myself I confiscated a bit of the scallion oil to put over my roasted veggies and quinoa. Delightful!",
+          "datePublished": "2025-02-26T00:18:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill in the SGV"
+          },
+          "reviewBody": "The scallion oil (or just as good, chinese-garlic-chives-oil) is delicious but the cooking method is needlessly fussy and precious. Just cook the blasted fish any old way hat doesn't burn it; it will be fine. Throwing defrosted Tilapia filets from the freezer into the pan and continuing to cook over medium works great. I like the recipe because I usually have Tilapia in the freezer and often have leftover green onions or garlic chives (aka Nira).",
+          "datePublished": "2025-02-21T15:52:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Josh"
+          },
+          "reviewBody": "Maybe poor choice on my part, but mahi mahi did not come close to cooking all the way thru with this recipe.",
+          "datePublished": "2025-02-06T00:16:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fernando O."
+          },
+          "reviewBody": "I’d suggest adding a couple of tablespoons of chopped cilantro (leaves and stems!) and half a teaspoon of red pepper flakes when the scallions start getting browned.",
+          "datePublished": "2025-01-30T17:30:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "R"
+          },
+          "reviewBody": "The flavor of the oil was delicious, but the fish itself was a little plain/fishy without any citrus or additional seasoning",
+          "datePublished": "2025-01-29T16:08:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sean"
+          },
+          "reviewBody": "Used swordfish, so cooked a little longer (I think 8 minutes a side). Definitely cooking again",
+          "datePublished": "2025-01-28T17:38:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lourdes E."
+          },
+          "reviewBody": "This was super simple to make. I did feel it needed something else so I served it with a side of soy,sesame seeds and hoisin sauce mixed together to pour over it.",
+          "datePublished": "2025-01-28T15:50:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "aesmith"
+          },
+          "reviewBody": "I forgot to turn off the heat and it still turned out beautifully. I used the extra oil to wilt some spinach and then added some lemon juice to the greens. Satisfying, easy meal.",
+          "datePublished": "2025-01-26T21:48:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anna"
+          },
+          "reviewBody": "So easy and fast and so yummy. Thanks Eric!",
+          "datePublished": "2025-01-24T21:48:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Matthew"
+          },
+          "reviewBody": "Outstanding. Simple, elegant. No adjustments or improvements to recommend.",
+          "datePublished": "2025-01-24T13:08:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tim"
+          },
+          "reviewBody": "Would this work with chives rather than scallions?",
+          "datePublished": "2025-01-23T17:12:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marilyn"
+          },
+          "reviewBody": "In Step 3, do you cover the pan when the fish is cooking in the residual heat?",
+          "datePublished": "2025-01-23T17:00:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Courtney"
+          },
+          "reviewBody": "The scallion oil is delicious, but this cooking method as written will only work for thin fish fillets. I tried this on some beautiful 1” thick halibut pieces and they were completely raw in the center. Easy enough to fix by turning the heat back on, but in the future I will choose much thinner pieces of fish.",
+          "datePublished": "2024-10-23T01:19:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eric Kim"
+          },
+          "reviewBody": "Hey William, great question-\nWhen cooking this recipe w/ induction, I might still turn off the stove and let the residual heat from the hot oil gently poach your fish. If they're thin fillets, they'll cook in 2 or so minutes; the thicker ones need a little longer. Check the insides before eating and see that they're opaque.\nWorst case scenario, just heat the fish to temp over low. The key to this recipe is slow, gentle heat, more confit than fry.\nEric",
+          "datePublished": "2024-10-23T02:17:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LA Sunshine"
+          },
+          "reviewBody": "Bake a potato so it’s ready when fish is ready \nPour a little of the fish scallion oil into the potato \nDivine",
+          "datePublished": "2024-10-24T14:31:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Charlotte"
+          },
+          "reviewBody": "I just put a lid on the pan!",
+          "datePublished": "2024-10-24T14:16:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debb"
+          },
+          "reviewBody": "Eric-- A home run.  Made it tonight.  I covered the pan to trap the heat after flipping.   3 minutes on the 2nd side was fine--3/4\" halibut, 115F.  Will use residual oil for eggs",
+          "datePublished": "2024-10-25T01:41:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AE"
+          },
+          "reviewBody": "Really good method. Also can use other flavorings: garlic, sun-dried tomatoes, capers, Dukkah mix, other spices.",
+          "datePublished": "2024-10-27T00:11:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kaona19"
+          },
+          "reviewBody": "Perfect for someone who lives alone in a small living sitch — so simple, very little prep work, and flavorful 🥹 just enough for one time leftovers or a dinner for two ✨",
+          "datePublished": "2024-10-26T01:20:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mike in Maine"
+          },
+          "reviewBody": "A note: remember you're looking for 145F internal so if your fish is a bit thicker, you might want to use a probe thermometer rather than relying only on time-- especially as pan weight/thickness/composition varies.  Heavy cast iron makes for a sizable heat flywheel.  Thinner aluminum or steel quite a bit less so.",
+          "datePublished": "2024-10-28T15:49:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "whitemoon"
+          },
+          "reviewBody": "This was great. Salting the fish added the perfect amount of salt. We had it on veggie rice pilaf. I added chili crisp to mine, but it wasn't necessary. I'm just obsessed with chili crisp with fermented soybeans. I will add this to my repertoire.",
+          "datePublished": "2024-10-22T23:09:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "witloof"
+          },
+          "reviewBody": "This was high reward for low effort.  I used plaice since the filets were very thin and it cooked beautifully in the residual heat of the oil. I suspect I should have let the scallions brown more than I did, but it was still great.  I served it over spaghetti.  I will definitely make it again.",
+          "datePublished": "2024-10-26T03:35:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cat"
+          },
+          "reviewBody": "In my next life I'm going to be a piece of bread and marry that oil.",
+          "datePublished": "2024-10-30T22:41:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "William T"
+          },
+          "reviewBody": "Re the instruction to cook with residual heat, is there any impact or modification needed if cooking on an induction stove?",
+          "datePublished": "2024-10-21T20:49:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marina"
+          },
+          "reviewBody": "I don't even have to cook this to know this is perfectly amazing! Thanks Chef. One thing though - if the filet is thick, you may need to apply some heat, in which case you may want to remove some of the scallions, and I would reserve some additional scallions to add later - a combo of caramelized and zingy.",
+          "datePublished": "2024-10-28T15:25:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Caroline Quinn"
+          },
+          "reviewBody": "Would this work with salmon?",
+          "datePublished": "2024-10-27T23:36:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pat Barrett"
+          },
+          "reviewBody": "Do you cut all parts of the scallions?",
+          "datePublished": "2024-10-28T17:04:42.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026167-scallion-oil-fish",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Eric Kim"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "For the most flavorful fish, gently poach the fillets in scallion oil, which is called pa gireum in Korean and is the star of this easy, foolproof preparation. Simmering scallions in olive oil over gentle heat removes moisture from the alliums, crisping them and concentrating their savoriness. In turn, the oil will be tinted green and perfumed with an umami-saturated scallion aroma like nothing else. Be sure to dip crusty bread into that glorious scallion oil to enjoy with the tender fish. This dish is great with rice, too.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Scallion-Oil Fish",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/0ff640c1-f3b8-5373-8cad-bde6b78e4cdc#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/10/18/multimedia/ek-scallion-oil-fishrex-vzqf/ek-scallion-oil-fishrex-vzqf-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-10-14T13:52:15.884Z",
+          "datePublished": "2024-10-14T13:52:15.884Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-10-14T13:52:15.884Z",
+          "url": "https://static01.nyt.com/images/2024/10/18/multimedia/ek-scallion-oil-fishrex-vzqf/ek-scallion-oil-fishrex-vzqf-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/0ff640c1-f3b8-5373-8cad-bde6b78e4cdc#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/10/18/multimedia/ek-scallion-oil-fishrex-vzqf/ek-scallion-oil-fishrex-vzqf-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-10-14T13:52:15.884Z",
+          "datePublished": "2024-10-14T13:52:15.884Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-10-14T13:52:15.884Z",
+          "url": "https://static01.nyt.com/images/2024/10/18/multimedia/ek-scallion-oil-fishrex-vzqf/ek-scallion-oil-fishrex-vzqf-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/0ff640c1-f3b8-5373-8cad-bde6b78e4cdc#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/10/18/multimedia/ek-scallion-oil-fishrex-vzqf/ek-scallion-oil-fishrex-vzqf-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-10-14T13:52:15.884Z",
+          "datePublished": "2024-10-14T13:52:15.884Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-10-14T13:52:15.884Z",
+          "url": "https://static01.nyt.com/images/2024/10/18/multimedia/ek-scallion-oil-fishrex-vzqf/ek-scallion-oil-fishrex-vzqf-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026167-scallion-oil-fish"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:03:46.907Z",
+  "scraping_status": "scraped"
+}

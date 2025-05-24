@@ -1,0 +1,569 @@
+{
+  "id": "fef97d89c3838089",
+  "original_url": "https://cooking.nytimes.com/recipes/1021339-ramen-with-charred-scallions-green-beans-and-chile-oil",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021339-ramen-with-charred-scallions-green-beans-and-chile-oil",
+  "fetched_title": "Ramen With Charred Scallions, Green Beans and Chile Oil Recipe",
+  "main_text_content": "Scallions can be so much more than a garnish Raw scallions bring an assertive pungency, but when cooked, they take on a sweet tenderness that is very pleasing to the palate In this vegan recipe, treat scallions as you would a bunch of greens",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026432-ginger-scallion-stir-fried-shrimp\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/04/23/multimedia/sl-ginger-scallion-stir-fried-shrimp-hfmp/sl-ginger-scallion-stir-fried-shrimp-hfmp-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Ginger-Scallion Stir-Fried Shrimp</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Sue Li</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2020/08/23/dining/hm-ramen/hm-ramen-threeByTwoMediumAt2X-v3.jpg",
+  "local_image_path": "scraped/fef97d89c3838089/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/3633bcd3-a98e-5564-a915-6afe4fdcd5c0",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021339-ramen-with-charred-scallions-green-beans-and-chile-oil",
+        "@type": "WebPage",
+        "name": "Ramen With Charred Scallions, Green Beans and Chile Oil"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021339-ramen-with-charred-scallions-green-beans-and-chile-oil",
+      "name": "Ramen With Charred Scallions, Green Beans and Chile Oil",
+      "description": "Scallions can be so much more than a garnish. Raw scallions bring an assertive pungency, but when cooked, they take on a sweet tenderness that is very pleasing to the palate. In this vegan recipe, treat scallions as you would a bunch of greens. Take cues from the Chinese cooking technique used for stir-fries, and add the scallions to very hot oil to let them “bao” (to crack, explode or burst), drawing out their natural aroma. Those packets of ramen noodles stashed in your pantry are perfect for this quick yet intensely satisfying weeknight noodle dish. The chile oil makes just enough for this dish, so if you want extra for future meals, make double.",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/a860d2e9-541f-50da-a01d-1aa66f998d3c#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/08/23/dining/hm-ramen/hm-ramen-videoSixteenByNineJumbo1600-v3.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-26T19:08:11.731Z",
+          "datePublished": "2020-08-17T21:27:39.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-08-17T21:27:39.000Z",
+          "url": "https://static01.nyt.com/images/2020/08/23/dining/hm-ramen/hm-ramen-videoSixteenByNineJumbo1600-v3.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a860d2e9-541f-50da-a01d-1aa66f998d3c#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/08/23/dining/hm-ramen/hm-ramen-googleFourByThree-v3.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-26T19:08:11.731Z",
+          "datePublished": "2020-08-17T21:27:39.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2020-08-17T21:27:39.000Z",
+          "url": "https://static01.nyt.com/images/2020/08/23/dining/hm-ramen/hm-ramen-googleFourByThree-v3.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/a860d2e9-541f-50da-a01d-1aa66f998d3c#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/08/23/dining/hm-ramen/hm-ramen-mediumSquareAt3X-v3.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-26T19:08:11.731Z",
+          "datePublished": "2020-08-17T21:27:39.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2020-08-17T21:27:39.000Z",
+          "url": "https://static01.nyt.com/images/2020/08/23/dining/hm-ramen/hm-ramen-mediumSquareAt3X-v3.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, quick, weeknight, noodles, main course",
+      "keywords": "green bean, ramen noodle, red pepper flake, scallion, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 3259
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 494,
+        "unsaturatedFatContent": "10 grams",
+        "carbohydrateContent": "72 grams",
+        "cholesterolContent": null,
+        "fatContent": "19 grams",
+        "fiberContent": "9 grams",
+        "proteinContent": "13 grams",
+        "saturatedFatContent": "7 grams",
+        "sodiumContent": "1608 milligrams",
+        "sugarContent": "6 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 tablespoons red-pepper flakes (see Tip)",
+        "1 1/2 teaspoons kosher salt",
+        "1/2 cup neutral oil, such as grapeseed, vegetable or canola",
+        "1 (1-inch) piece ginger, peeled and finely chopped",
+        "2 garlic cloves, finely chopped",
+        "2 teaspoons toasted white sesame seeds",
+        "1 teaspoon sesame oil",
+        "Kosher salt ",
+        "4 (3-ounce) packages ramen noodles, seasoning packs discarded",
+        "2 bunches scallions (10 to 12 scallions), white and green parts separated and cut into 2-inch pieces",
+        "2 to 3 tablespoons neutral oil, such as grapeseed, vegetable or canola",
+        "10 ounces green beans, trimmed and halved diagonally",
+        "1 (2-inch) piece ginger, peeled and julienned",
+        "White pepper",
+        "1 tablespoon toasted white sesame seeds"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the chile oil: Add the red-pepper flakes and salt to a heatproof bowl. Place the oil, ginger and garlic in a small saucepan, and heat over medium until it bubbles, 2 to 3 minutes. Remove from the heat and very carefully pour the hot oil over the red-pepper flakes. Add the sesame seeds and sesame oil, and stir well. Set aside while you make the rest of the dish. (Chile oil can be stored in an airtight jar at room temperature for up to a month and indefinitely in the refrigerator.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the noodles: Bring a large pot of salted water to a boil. Add the ramen and cook according to package instructions, about 3 minutes, until the noodles are just tender. Drain, rinse with cold water and drain well again."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Slice the white parts of your scallions lengthwise, in half or quarters, depending on thickness, to make cooking faster."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat a wok or large (12-inch), deep skillet on high. When smoking hot, add 1 tablespoon of oil, toss in the green beans and season with salt. Cook, tossing the beans, for 2 to 3 minutes, until charred. Remove the beans from the wok, and set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the same wok or skillet over high, and when smoking, add 1 to 2 tablespoons of oil, along with the scallions (white and green parts) and the ginger. Allow the scallions and ginger to sizzle for 20 to 30 seconds, to release their aromas, then stir-fry for 2 to 3 minutes, until the scallions have a nice scorch."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the green beans and noodles back to the pan, along with 2 or 3 tablespoons of the chile oil (reserve some for serving), and season with salt and pepper. Toss well to combine, just until the noodles are heated through. To serve, divide the noodles into bowls, top with toasted sesame seeds and more chile oil."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2020-08-04T00:00:00.000Z",
+      "dateModified": "2020-08-18T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BCG"
+          },
+          "reviewBody": "Made this tonight. Didn’t add pepper flakes. It was great but too salty. Will make again & adjust.",
+          "datePublished": "2025-05-23T00:36:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenn"
+          },
+          "reviewBody": "This is a weekly dish for us. I add broccoli and a few dashes of soy and I use Thai wheat noodles from Trader Joe’s which is probably the wrong type of noodle, but they are precooked and delicious in this recipe. It’s a really easy and satisfying mid-week meal!",
+          "datePublished": "2025-04-30T16:53:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Easy to pull together"
+          },
+          "reviewBody": "Nice change of pace, sauce is a keeper. Added cooked shrimp at the last step to warm up with the mixture of noodles and chared beans and scallions. Soy at the end as other reviewers suggested",
+          "datePublished": "2025-04-21T00:18:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie"
+          },
+          "reviewBody": "Made as written ton and enjoyed it a lot. I'd cut the green beans smaller next time. And with a protein side this made a huge amount - lots of leftovers for another day.",
+          "datePublished": "2025-04-09T01:34:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mel Hxyz"
+          },
+          "reviewBody": "Simple and satisfying.",
+          "datePublished": "2025-04-03T19:29:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KRye"
+          },
+          "reviewBody": "This needed more vegetables for my taste but had good flavor.",
+          "datePublished": "2025-04-02T03:04:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate"
+          },
+          "reviewBody": "Made this tonight - quick and delicious. I did add some shrimp for protein.",
+          "datePublished": "2025-03-30T23:04:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joanne"
+          },
+          "reviewBody": "Made this last night for my daughter &I, it was pretty tasty but a bit oily for my taste. I used 4 Costco brown rice & millet ramens,  pea pods  and then added  in sliced tofu and king oyster mushrooms after pea pods were seared . Next time omit salt from oil, use scant 1/3 cup and add a bit of tamari or light soy at the end. We had leftovers for another meal.",
+          "datePublished": "2025-03-29T10:53:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DCinNC"
+          },
+          "reviewBody": "I was puzzled by the instruction to cut the green beans on the diagonal  - there's not enough extra surface to make cooking faster and having to use a knife rather than snapping off the ends and breaking the beans slowed things down.  Also there were too many noodles in proportion to the beans and scallions, their flavor was lost. I drizzled on chili oil (purchased) very sparingly.Even 1 Tablespoon was plenty hot.  Last, it looks as if the ramen in the photograph has taken on color - how?",
+          "datePublished": "2025-03-28T15:10:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca"
+          },
+          "reviewBody": "I like this chili oil so much I keep a container in the fridge and use it in all kinds of things. So delicious!",
+          "datePublished": "2025-03-28T03:02:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PatC"
+          },
+          "reviewBody": "Used asparagus in lieu of green beans and chili crisp to which I added powdered Szechuan peppercorns for the buzz instead of just chili oil. \nNext time I’ll also add some Shitake mushroom slices. Nice dish.",
+          "datePublished": "2025-03-27T23:04:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ehill"
+          },
+          "reviewBody": "This continues to be a regular in my rotation and the only way some of my family will eat green beans. I also serve with roasted tofu for a complete meal.",
+          "datePublished": "2025-03-25T17:27:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cosmo"
+          },
+          "reviewBody": "I used the brown rice and millet ramen others suggested and it was delicious! We added some seared shrimp and it was very yummy & easy!!",
+          "datePublished": "2025-02-21T01:35:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fiona"
+          },
+          "reviewBody": "A simple and easy dinner option that can be adapted to many different ingredients. We made it with bok choy, celery, shallots, garlic, ginger and dried shiitake mushrooms, and then added the mushroom broth with a little soy sauce, a tsp of store-bought chili crisp and a tsp of veggie Better than Bullion to make it a soup. \"Clean out the fridge\" ramen. Great, warming meal.",
+          "datePublished": "2025-01-14T04:18:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris SBG"
+          },
+          "reviewBody": "Very tasty and easy to prepare.  Had to use frozen beans, and will definitely make sure they are much drier the next time.  A lot of time lost to evaporating water and not getting a char on the beans.  Also, depending on the chilies the sauce can be quite intense.  We make our own dried hot pepper.  The last batch was from cayenne and Thai hot.  That combination made for a very hot chile sauce.  Thankfully I subbed a combo of vegetable oil and sesame rather than using the three TBS of the chili oil.  No one else in the family could handle it.  No complaints from me, however.  I thought it was fiery but delicious.  That said, definitely taste the oil before adding it to the noodles though!",
+          "datePublished": "2024-10-20T07:57:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cathi"
+          },
+          "reviewBody": "Costco sells brown rice ramen made by Lotus foods in a bag of 12.  They do not have seasoning and are made with only two ingredients, brown rice and millet.  They are fantastic!",
+          "datePublished": "2020-08-27T19:13:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MJ"
+          },
+          "reviewBody": "You prepare the chili oil with 1/2 cup oil, but you don't use all of it in the recipe (2-3 tablespoons and more for serving, if desired. That's why the instructions say how long it can be stored!)",
+          "datePublished": "2020-08-23T15:03:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "I used six blocks of ramen, and a whole 16oz bag of frozen french cut green beans.  Tweens and adults really enjoyed it, but next time I will reduce the oil maybe to a scant third cup -- even with the greater quantity of ingredients I used, I found that the half cup of oil was too much.",
+          "datePublished": "2020-08-22T19:03:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jim"
+          },
+          "reviewBody": "Considered adding tofu and/or mushrooms",
+          "datePublished": "2020-08-27T00:43:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ken"
+          },
+          "reviewBody": "Note to self:  use ramps next spring",
+          "datePublished": "2020-08-25T00:47:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jill E."
+          },
+          "reviewBody": "I took the easy way out - instead of making the chili oil I used Laoganma chili crisp!  No ramen at the grocery store so I used fine udon noodles which were great.  Everything came together quickly - because the chili crisp was not \"oily\" I used tamari instead of salt to season at the end to add a bit of moisture.  Really fantastic - I will serve the leftovers with stir-fried tofu.",
+          "datePublished": "2020-08-26T02:21:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "arierusan"
+          },
+          "reviewBody": "A use for the green beans in my garden! The charred green beans.... I didn’t even know that was an option and something you could do in a pan inside. Delicious. That sesame oil sauce is perfect and I saved a bunch of it and have been putting a little on everything (breakfast scramble, hummus on a crispy rice circle with cucumber, it tastes good on everything). I added pan fried tofu to mine. Great meal for a meatless day.",
+          "datePublished": "2020-08-26T02:40:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JonesyinDC"
+          },
+          "reviewBody": "Really good! We also added a couple dashes of tamari and it was the final touch that pulled it all together. Can’t wait to make it again now that I have leftover chili oil. 3 Tbs was plenty spicy (and we like spice!).",
+          "datePublished": "2020-08-26T00:38:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sam"
+          },
+          "reviewBody": "This has to be one of the best things I’ve made from NYT. I appreciate how inexpensive the ingredients are and how it’s a new twist on “ramen” for me - no broth! Came out perfect.",
+          "datePublished": "2020-08-28T02:40:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SF"
+          },
+          "reviewBody": "I agree with Cathi, the Lotus Foods brown rice ramen from Costco is delicious with this dish!  I followed the recipe as written except that I added tofu.  The whole family loved it!  I used 6 blocks of ramen and 12 ounces of green beans for a family of 4...there were no leftovers!",
+          "datePublished": "2020-10-14T17:03:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Caroline"
+          },
+          "reviewBody": "This was delicious! Next time I’ll mix a tablespoon of the chili oil into the ramen after it’s cooked. I left the ramen to sit in the colander and it kind of formed a big clump of noodles and was difficult to mix into the veggies. Otherwise it was really tasty, easy, and super cheap ingredients.",
+          "datePublished": "2020-09-06T15:53:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sadie"
+          },
+          "reviewBody": "My only complaint is that this supposedly makes 4 servings and yet my husband and I ate this all in one sitting. So good.",
+          "datePublished": "2020-12-07T04:31:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "wendy"
+          },
+          "reviewBody": "This was delicious. We love veggies so I doubled the green beans. I decreased the oil to 1/3c as suggested earlier because I like stronger flavors and thought it was perfect.",
+          "datePublished": "2020-08-23T12:50:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "caroline"
+          },
+          "reviewBody": "We added miso broth to turn this in to a soup, it was delicious!",
+          "datePublished": "2020-12-06T19:10:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "EA"
+          },
+          "reviewBody": "This dish is a standout. It's truly my favorite recipe of the past year. I always double the chile oil so I can make this on a whim with whatever vegetables I have around - cabbage, carrot, onions, even frozen green beans. Great with ramen, and I've also done it with soba noodles. I dream of this dish. Thank you, Hetty, for this terrific recipe!",
+          "datePublished": "2021-05-28T00:58:21.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021339-ramen-with-charred-scallions-green-beans-and-chile-oil",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020,
+      "description": "Scallions can be so much more than a garnish. Raw scallions bring an assertive pungency, but when cooked, they take on a sweet tenderness that is very pleasing to the palate. In this vegan recipe, treat scallions as you would a bunch of greens. Take cues from the Chinese cooking technique used for stir-fries, and add the scallions to very hot oil to let them “bao” (to crack, explode or burst), drawing out their natural aroma. Those packets of ramen noodles stashed in your pantry are perfect for this quick yet intensely satisfying weeknight noodle dish. The chile oil makes just enough for this dish, so if you want extra for future meals, make double.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Ramen With Charred Scallions, Green Beans and Chile Oil",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/a860d2e9-541f-50da-a01d-1aa66f998d3c#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/08/23/dining/hm-ramen/hm-ramen-videoSixteenByNineJumbo1600-v3.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-26T19:08:11.731Z",
+          "datePublished": "2020-08-17T21:27:39.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-08-17T21:27:39.000Z",
+          "url": "https://static01.nyt.com/images/2020/08/23/dining/hm-ramen/hm-ramen-videoSixteenByNineJumbo1600-v3.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a860d2e9-541f-50da-a01d-1aa66f998d3c#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/08/23/dining/hm-ramen/hm-ramen-googleFourByThree-v3.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-26T19:08:11.731Z",
+          "datePublished": "2020-08-17T21:27:39.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2020-08-17T21:27:39.000Z",
+          "url": "https://static01.nyt.com/images/2020/08/23/dining/hm-ramen/hm-ramen-googleFourByThree-v3.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/a860d2e9-541f-50da-a01d-1aa66f998d3c#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/08/23/dining/hm-ramen/hm-ramen-mediumSquareAt3X-v3.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-26T19:08:11.731Z",
+          "datePublished": "2020-08-17T21:27:39.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2020-08-17T21:27:39.000Z",
+          "url": "https://static01.nyt.com/images/2020/08/23/dining/hm-ramen/hm-ramen-mediumSquareAt3X-v3.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021339-ramen-with-charred-scallions-green-beans-and-chile-oil"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:04:44.095Z",
+  "scraping_status": "scraped"
+}

@@ -1,0 +1,586 @@
+{
+  "id": "7ea0e229a89c089e",
+  "original_url": "https://cooking.nytimes.com/recipes/1020712-feast-of-the-seven-fishes-pie",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1020712-feast-of-the-seven-fishes-pie",
+  "fetched_title": "Feast of the Seven Fishes Pie Recipe",
+  "main_text_content": "A velvety fish pie, filled with chunks of seafood in a delicate sauce, is classic cold-weather comfort food in the British Isles This seafood pie is fancier than most It’s got a buttery puff pastry topping that turns golden and crunchy as it bakes",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/10204-fish-pie\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2016/06/23/dining/23COOKING-FISH-PIE1/23COOKING-FISH-PIE1-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2016/06/23/dining/23COOKING-FISH-PIE1/23COOKING-FISH-PIE1-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2016/06/23/dining/23COOKING-FISH-PIE1/23COOKING-FISH-PIE1-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2016/06/23/dining/23COOKING-FISH-PIE1/23COOKING-FISH-PIE1-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2016/06/23/dining/23COOKING-FISH-PIE1/23COOKING-FISH-PIE1-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2016/06/23/dining/23COOKING-FISH-PIE1/23COOKING-FISH-PIE1-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2016/06/23/dining/23COOKING-FISH-PIE1/23COOKING-FISH-PIE1-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2016/06/23/dining/23COOKING-FISH-PIE1/23COOKING-FISH-PIE1-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Fish Pie</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Nigella Lawson</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2019/12/18/dining/13Apperex/merlin_165684945_becc0a2e-826a-4cd3-a618-3e5486964200-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/7ea0e229a89c089e/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/677b8f7c-976f-5143-a3a5-96f4420b2dbb",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1020712-feast-of-the-seven-fishes-pie",
+        "@type": "WebPage",
+        "name": "Feast of the Seven Fishes Pie"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020712-feast-of-the-seven-fishes-pie",
+      "name": "Feast of the Seven Fishes Pie",
+      "description": "A velvety fish pie, filled with chunks of seafood in a delicate sauce, is classic cold-weather comfort food in the British Isles. This seafood pie is fancier than most. It’s got a buttery puff pastry topping that turns golden and crunchy as it bakes. And it’s brimming with seven varieties of fish, including scallops and shrimp, to make it festive enough to serve for a blowout Christmas Eve meal, like the Italian-American celebration Feast of the Seven Fishes. That said, if you’d rather keep things simpler, using just two or three kinds of fish still results in a stunning pie. Alaskan wild pollock, a mild, flaky fish that’s becoming more and more available in seafood markets, is a lovely and sustainable choice, as is Pacific cod.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/70b14d6a-61ca-5a70-a82b-f497e4fe9aaf#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/18/dining/13Apperex/merlin_165684945_becc0a2e-826a-4cd3-a618-3e5486964200-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-12-08T14:46:06.828Z",
+          "datePublished": "2019-12-13T17:56:50.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-13T17:56:50.000Z",
+          "url": "https://static01.nyt.com/images/2019/12/18/dining/13Apperex/merlin_165684945_becc0a2e-826a-4cd3-a618-3e5486964200-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/70b14d6a-61ca-5a70-a82b-f497e4fe9aaf#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/18/dining/13Apperex/merlin_165684945_becc0a2e-826a-4cd3-a618-3e5486964200-superJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-12-08T14:46:06.828Z",
+          "datePublished": "2019-12-13T17:56:50.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-13T17:56:50.000Z",
+          "url": "https://static01.nyt.com/images/2019/12/18/dining/13Apperex/merlin_165684945_becc0a2e-826a-4cd3-a618-3e5486964200-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/70b14d6a-61ca-5a70-a82b-f497e4fe9aaf#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/18/dining/13Apperex/13Apperex-square640.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-12-08T14:46:06.828Z",
+          "datePublished": "2019-12-13T17:56:50.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-13T17:56:50.000Z",
+          "url": "https://static01.nyt.com/images/2019/12/18/dining/13Apperex/13Apperex-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT1H50M",
+      "recipeYield": "8 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "seafood, main course",
+      "keywords": "anchovies, clam juice, dry white wine, italian american, leek, puff pastry, savory pie, sea scallop, shrimp, christmas, fall, winter",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 1949
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 630,
+        "unsaturatedFatContent": "21 grams",
+        "carbohydrateContent": "38 grams",
+        "cholesterolContent": null,
+        "fatContent": "39 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "31 grams",
+        "saturatedFatContent": "15 grams",
+        "sodiumContent": "817 milligrams",
+        "sugarContent": "4 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "6 tablespoons unsalted butter",
+        "2 large leeks, white and light green parts only, halved and thinly sliced (4 cups)",
+        "2 teaspoons kosher salt",
+        "1 garlic clove, minced",
+        "2 anchovies, minced",
+        "1/2 cup dry white wine or dry vermouth",
+        "1/4 cup all-purpose flour, more for rolling out pastry",
+        "3/4 cup chicken stock",
+        "1/2 cup clam juice",
+        "1 pound mixed mild fish fillets, cut into 1 1/4-inch thick cubes (such as cod and pollock)",
+        "1/2 pound large shelled shrimp (16 to 20 count)",
+        "1/2 pound large sea scallops, side muscle removed",
+        "1 cup frozen peas",
+        "1 tablespoon chopped tarragon",
+        "1 tablespoon chopped parsley",
+        "2 tablespoons drained capers, chopped",
+        "1 large egg",
+        "1 pound puff pastry, thawed",
+        "1 cup sour cream, for serving (optional)",
+        "1 ounce salmon or trout roe or other caviar (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Butter a shallow 1 1/2-quart baking dish or casserole. Melt 2 tablespoons butter in a large skillet over medium-high heat, then stir in leeks and 1 teaspoon salt, and cook until soft, stirring frequently, 5 to 7 minutes. Stir in garlic and anchovies and cook 1 minute, until the anchovies dissolve. Add wine and bring to a boil, then let simmer until the wine evaporates almost completely. Remove from heat and scrape into a heatproof bowl."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In the same skillet, melt remaining 4 tablespoons butter over medium heat. Whisk in flour and cook until pale golden, 1 to 3 minutes. Slowly whisk in chicken stock and clam juice, and bring to a simmer, whisking constantly. Simmer for 1 to 3 minutes until very thick (it will thin out as it bakes), then remove from heat."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pat the fish cubes, shrimp and scallops dry. Stir them into the sauce along with the sautéed leeks, peas, tarragon, parsley, capers and remaining 1 teaspoon salt. Spoon mixture into prepared dish."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Chill uncovered, for at least 1 hour, and up to overnight."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Before baking, heat oven to 425 degrees. In a small bowl, whisk together egg with 1 teaspoon water. On a lightly floured surface, unroll pastry dough. Roll it 1/8-inch thick. Use a fish cutter or paring knife to cut out a fish from the center of dough. (Alternatively, you can cut circles from the dough and overlap them on top of the pie to look like fish scales)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place pastry on top of pie and trim edges, but don’t seal them (sealing impinges on the puffing). Brush egg wash all over pastry."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place pie on a rimmed baking sheet and bake until crust is golden, 30 to 40 minutes. Remove from oven and let cool for 5 to 10 minutes before serving. If you like, spoon the sour cream into a shallow dish, top it with the trout roe and serve it on the side for guests to add to the pie. Or spoon the caviar into the fish cutout on top of the pie and serve sour cream on the side."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ben In BC"
+          },
+          "reviewBody": "I tried this recipe as written the first time and the puff pastry did not rise and was soggy.   Presumably, due to the over cooking.  To remedy this, I tried the recipe again but cooked the puff pastry (cut into rectangles to fit the baking dish) separately and cooked the seafood for much less time.   Before serving I placed the pastry on top of the casserole.   This way, the individual elements came out perfectly and once reassembled, was a dish to be proud of.",
+          "datePublished": "2025-01-08T23:40:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fanny"
+          },
+          "reviewBody": "Great recipe! The crust did not puff up as much as I imagined it would, but it was delicious anyway. Definitely a keeper.",
+          "datePublished": "2025-01-02T03:13:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tracey"
+          },
+          "reviewBody": "Yes and yes.",
+          "datePublished": "2024-12-30T11:34:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Yunsong"
+          },
+          "reviewBody": "If I am just using fish, do I just sub in another pound in place of the shrimp and shellfish? Also, will fish stock work in place of clam juice?",
+          "datePublished": "2024-12-29T12:09:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NMC"
+          },
+          "reviewBody": "Loved this as both the chef and as an eater. Grocery store was out of leeks--so I subbed shallots and was happy with the flavor they brought. I would chill longer next year (chilled for around two hours). Love how I can easily swap fish in and out. A keeper!",
+          "datePublished": "2024-12-26T19:41:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Msesf"
+          },
+          "reviewBody": "Excellent special holiday feast dish. Followed the recipe and this year I made it using haddock stock (that I had previously made), anchovies, Argentine prawns, scallops, wild caught salmon, petrale sole, and osetra malossol caviar topping the Claire Saffitz's rough puff pastry recipe that I also used. This easily fed eight hungry adults with some left over. Big hit. Highly recommend this recipe.",
+          "datePublished": "2024-12-25T22:03:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "coolbeans from VA"
+          },
+          "reviewBody": "Delicious.  Added a half bulb of fresh fennel, sliced thin.  Would make again in a New York minute.",
+          "datePublished": "2024-12-25T02:20:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Abbie"
+          },
+          "reviewBody": "Perfect make ahead dish. I make individual cocottes. Lobster, steamed at the market, makes a great addition or substitution. This is a regular at our house.",
+          "datePublished": "2024-11-11T15:26:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lyssa"
+          },
+          "reviewBody": "Added carrots, celery, and potatoes after cooking the leeks down. I smoked trout as the seafood component, and I deglazed with wine after the roux. At first I was apprehended by all of the leftovers. Now I am glad because this was one of the most delicious things I have ever made!",
+          "datePublished": "2024-04-01T18:43:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dan in Chicago"
+          },
+          "reviewBody": "I made this for Christmas Eve dinner and my mother-in-law said it was \"the best thing she ever tasted!\" :)    The recipe didn't say anything about cutting the seafood (shrimp and scallops), but I ended up cutting them into bite size pieces so that serving it would be easier.   I followed the recipe as it is written except reduced the salt to 1 tsp.  Served it with a simple arugula, tomato and cucumber salad.  This is definitely a keeper!",
+          "datePublished": "2023-12-28T18:39:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LA Ro"
+          },
+          "reviewBody": "Delicious dish for Christmas dinner.  Cut down the salt and skipped the capers, added fennel and a dash of Pernod, substituted seafood stock for chicken.  Impressive and not hard to make.",
+          "datePublished": "2023-12-26T05:29:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David"
+          },
+          "reviewBody": "This is one of those receipes that do not require next level skill but imply you know what you are doing. It is also super convenient to do it a day ahead and pop it in the oven. I agree with the salt comments, if you follow the recipe otherwise as written you can likely halve the added salt. I usually have used the leeks but have found a sweet onion substitutes just as well in a pinch. I have seen some questions about doubling the recipe, I have also done that to good effect using a 13x9 pan.",
+          "datePublished": "2023-12-26T01:37:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paloaltogirl"
+          },
+          "reviewBody": "If you can’t find or don’t wish to pay for puff pastry, try the substitute developed by King Arthur Flour (though based on a recipe by Maida Heatter). <a href=\"https://www.kingarthurbaking.com/blog/2019/07/03/the-secret-to-super-flaky-pie-crust?page=5\" target=\"_blank\">https://www.kingarthurbaking.com/blog/2019/07/03/the-secret-to-super-flaky-pie-crust?page=5</a>",
+          "datePublished": "2023-12-26T01:50:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "x"
+          },
+          "reviewBody": "Use unsalted shrimp stock instead of chicken stock",
+          "datePublished": "2023-12-25T17:44:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joyce"
+          },
+          "reviewBody": "Delicious! A big hit at last night's Christmas Eve dinner.  We followed the recipe as written and took the advice in the notes to decrease the salt and add some lemon juice.",
+          "datePublished": "2023-12-25T13:45:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anna"
+          },
+          "reviewBody": "This is absolutely delicious! I made this for Christmas Eve dinner for a group of skeptics (seafood pie?!!!). Well, they were all shocked and delighted with the results and declared that we should have this every year! It is both special feeling and totally manageable in effort. I followed the recipe as written - cooling and all. It was perfect.",
+          "datePublished": "2023-12-25T13:12:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mike"
+          },
+          "reviewBody": "What happens to the shrimp, after cooking so long?  Would it be OK to put raw shrimp into the mix just before baking?",
+          "datePublished": "2019-12-14T18:51:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathy Watson"
+          },
+          "reviewBody": "My instinct for this would be to completely chill the base sauce, THEN stir in the seafood so that it doesn't cook in the least until it goes in the oven. 30-40 minutes is a long time to cook delicate fish such as scallops and shrimp. I think your hope is that it all comes just to temp 5-10 minutes before it comes out of the oven, which should cook the fish just about right.",
+          "datePublished": "2019-12-15T16:30:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John"
+          },
+          "reviewBody": "Roux sauce optional substitutions/additions:  a) 1 tsp of cognac for richness, b) 2 pinches of crushed red pepper for a hint of heat, c) substitute 2 chicken bouillon cubes dissolved in stock for the the salt, d) add 1/8 of cup of heavy cream mixed into roux sauce just before adding seafood (this is a substitute for the sour cream garnish), e) add steamed fennel slices from 1 bulb for great depth of flavor and added texture, and f) serve with fresh lemon slices and fresh black pepper.",
+          "datePublished": "2019-12-16T20:03:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "judy"
+          },
+          "reviewBody": "If you read the recipe carefully, you will see that the shrimp and scallops   are raw when you put them in the pie.  They are combined with the sauce but not cooked in the sauce.",
+          "datePublished": "2019-12-15T16:57:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeff"
+          },
+          "reviewBody": "I made this for Christmas Eve and it was a huge hit albeit with two changes. First, the sauce was much too salty - two teaspoons plus the anchovies and capers - so I made a second batch of just the butter, flour and broth/juice to remedy this.  (The extra sauce was appreciated).  Second, I chilled the sauce on its own and added the fish only as I was preparing to heat it all before serving.  (Putting raw fish into warm sauce and then refrigerating it all seemed daft).  A keeper!",
+          "datePublished": "2019-12-25T05:59:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeff"
+          },
+          "reviewBody": "Made this for Christmas Eve.  Followed suggestions to add fennel (sauteed with the leeks), a splash of cream, lemon zest and a splash of brandy.  Do refrigerate for at least a few hours to allow flavors to come together before baking.  Served with a watercress salad with sliced pears, candied pecans and warmed herb goat cheese with a tarragon vinaigrette and crusty bread - perfection.",
+          "datePublished": "2019-12-27T23:10:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andres"
+          },
+          "reviewBody": "This Seven Fishes Pie looks great! I have reviewed some other recipes as well, and none add what seems the obvious missing sauce ingredient: A SPLASH OF LEMON! Or lemon rind!\n\nAnd why not cover then entire master piece with fish cut outs? Not just one lonely piscis in the middle! Or a decorative mixture with shell-cut outs. Shells on the outer edge and fishes in the middle. Or, again, a pattern of swimming fishes. Perfect!\n\nSubstitute corn starch in sauce and mash potatoes on top for gluten free",
+          "datePublished": "2019-12-16T02:50:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kluski"
+          },
+          "reviewBody": "I would consider dill.  It's a good fish go-with.",
+          "datePublished": "2019-12-15T20:36:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fish Pot Pie"
+          },
+          "reviewBody": "There is no point in chilling anything.  Where do they come up with these recipes? When I make this it's over start to finish in 30-40 minutes.",
+          "datePublished": "2019-12-16T21:00:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KD"
+          },
+          "reviewBody": "I typically make this fish pie recipe (recommended to me by my British mother in law), that works for folks allergic to shellfish. Just make sure your fish stock has no shellfish in it, or use a good vegetable or chicken stock. \n\n<a href=\"https://www.theguardian.com/lifeandstyle/2010/dec/14/j-sheekey-fish-pie-recipe\" target=\"_blank\">https://www.theguardian.com/lifeandstyle/2010/dec/14/j-sheekey-fish-pie-recipe</a>",
+          "datePublished": "2019-12-15T20:37:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kim Johnson"
+          },
+          "reviewBody": "I made this for Christmas Eve and it turned out delicious. Because I used pie dough for the top instead of puff pastry, I was concerned about overcooking the fish. I stirred the frozen peas into the leeks/roux first to cool it down before I added the raw fish, then put it into the fridge for the hour before topping with dough and baking. 35 minutes at 425 and the crust was golden and the sauce bubbling. I used cod, shrimp and scallops, which all cooked up nicely. Will make again.",
+          "datePublished": "2019-12-30T21:25:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patrick"
+          },
+          "reviewBody": "Wow!  Love this recipe.  Put it together, carefully following directions, in the morning and popped it in the oven 1 hr. before serving.  I used mostly salmon, some shrimp, and an assortment of other sea critters.  Really good.",
+          "datePublished": "2019-12-21T20:16:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Morgan from Britain"
+          },
+          "reviewBody": "This looks like a lovely filling - a bit more complex than the usual which is a classic kid friendly dinner.  Though fish pie over here is typically served with mash on top, rather than pastry.  And I confess I think that's the better way to go.",
+          "datePublished": "2019-12-16T09:44:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peter Larson"
+          },
+          "reviewBody": "I made this for New Year's Eve 2019 and am making it for Christmas Eve 2020.  It is marvelous as is!  I may add some fennel in with the leeks this year.  As with most of us, I like to tinker with any recipe,  BUT - - - it is marvelous as is!  Happy Christmas and Merry New Year to all!!",
+          "datePublished": "2020-12-18T15:21:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eddie Natale"
+          },
+          "reviewBody": "That is what you do. Just ad the shrimp to the sauce then into the cassarole. Just stir them into the sauce and put in the dish.",
+          "datePublished": "2019-12-15T16:20:18.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1020712-feast-of-the-seven-fishes-pie",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019,
+      "description": "A velvety fish pie, filled with chunks of seafood in a delicate sauce, is classic cold-weather comfort food in the British Isles. This seafood pie is fancier than most. It’s got a buttery puff pastry topping that turns golden and crunchy as it bakes. And it’s brimming with seven varieties of fish, including scallops and shrimp, to make it festive enough to serve for a blowout Christmas Eve meal, like the Italian-American celebration Feast of the Seven Fishes. That said, if you’d rather keep things simpler, using just two or three kinds of fish still results in a stunning pie. Alaskan wild pollock, a mild, flaky fish that’s becoming more and more available in seafood markets, is a lovely and sustainable choice, as is Pacific cod.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Feast of the Seven Fishes Pie",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/70b14d6a-61ca-5a70-a82b-f497e4fe9aaf#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/18/dining/13Apperex/merlin_165684945_becc0a2e-826a-4cd3-a618-3e5486964200-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-12-08T14:46:06.828Z",
+          "datePublished": "2019-12-13T17:56:50.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-13T17:56:50.000Z",
+          "url": "https://static01.nyt.com/images/2019/12/18/dining/13Apperex/merlin_165684945_becc0a2e-826a-4cd3-a618-3e5486964200-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/70b14d6a-61ca-5a70-a82b-f497e4fe9aaf#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/18/dining/13Apperex/merlin_165684945_becc0a2e-826a-4cd3-a618-3e5486964200-superJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-12-08T14:46:06.828Z",
+          "datePublished": "2019-12-13T17:56:50.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-13T17:56:50.000Z",
+          "url": "https://static01.nyt.com/images/2019/12/18/dining/13Apperex/merlin_165684945_becc0a2e-826a-4cd3-a618-3e5486964200-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/70b14d6a-61ca-5a70-a82b-f497e4fe9aaf#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/18/dining/13Apperex/13Apperex-square640.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-12-08T14:46:06.828Z",
+          "datePublished": "2019-12-13T17:56:50.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-13T17:56:50.000Z",
+          "url": "https://static01.nyt.com/images/2019/12/18/dining/13Apperex/13Apperex-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020712-feast-of-the-seven-fishes-pie"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:31:25.188Z",
+  "scraping_status": "scraped"
+}

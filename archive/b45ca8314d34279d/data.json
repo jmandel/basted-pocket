@@ -1,0 +1,594 @@
+{
+  "id": "b45ca8314d34279d",
+  "original_url": "https://cooking.nytimes.com/recipes/1020205-ash-reshteh-persian-greens-bean-and-noodle-soup",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1020205-ash-reshteh-persian-greens-bean-and-noodle-soup",
+  "fetched_title": "Ash Reshteh (Persian Greens, Bean and Noodle Soup) Recipe",
+  "main_text_content": "Ash reshteh’s flavor is defined by two uniquely Persian ingredients: reshteh and kashk The soup, served during the festivities leading up to Nowruz, the Persian New Year, wouldn’t be the same without the soup noodles called reshteh, which are saltier and starchier than Italian noodles — though you could substitute linguine in a pinch Kashk, a form of drained yogurt or whey, is saltier and more sour than Greek yogurt or sour cream",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026873-pickle-lemonade\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/05/19/multimedia/19FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc/16FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/05/19/multimedia/19FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc/16FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/05/19/multimedia/19FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc/16FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/05/19/multimedia/19FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc/16FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/05/19/multimedia/19FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc/16FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/05/19/multimedia/19FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc/16FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/05/19/multimedia/19FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc/16FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/05/19/multimedia/19FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc/16FD-PICKLELEMONADEREX-KP-Pickle-Lemonade-vtzc-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Pickle Lemonade</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Kasia Pilat</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex2/merlin_154113918_721ff786-e3ef-453f-b3a0-deec1d8f8e02-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/b45ca8314d34279d/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/7997cbd9-e02d-51b3-92d5-5b04234c54e4",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1020205-ash-reshteh-persian-greens-bean-and-noodle-soup",
+        "@type": "WebPage",
+        "name": "Ash Reshteh (Persian Greens, Bean and Noodle Soup)"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020205-ash-reshteh-persian-greens-bean-and-noodle-soup",
+      "name": "Ash Reshteh (Persian Greens, Bean and Noodle Soup)",
+      "description": "Ash reshteh’s flavor is defined by two uniquely Persian ingredients: reshteh and kashk. The soup, served during the festivities leading up to Nowruz, the Persian New Year, wouldn’t be the same without the soup noodles called reshteh, which are saltier and starchier than Italian noodles — though you could substitute linguine in a pinch. Kashk, a form of drained yogurt or whey, is saltier and more sour than Greek yogurt or sour cream. More like feta than yogurt, liquid kashk gives ash its distinct, satisfying flavor. If you can’t find liquid kashk, buy it powdered and hydrate it with warm water to the consistency of sour cream. Look for both items at a Middle Eastern grocery.",
+      "author": {
+        "@type": "Person",
+        "name": "Samin Nosrat"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/20978dd1-5370-5703-b609-114d04122e51#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex2/merlin_154113918_721ff786-e3ef-453f-b3a0-deec1d8f8e02-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks.",
+          "dateModified": "2021-02-10T05:21:44.267Z",
+          "datePublished": "2019-05-14T17:00:05.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-05-14T17:00:05.000Z",
+          "url": "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex2/merlin_154113918_721ff786-e3ef-453f-b3a0-deec1d8f8e02-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/20978dd1-5370-5703-b609-114d04122e51#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex2/merlin_154113918_721ff786-e3ef-453f-b3a0-deec1d8f8e02-superJumbo.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks.",
+          "dateModified": "2021-02-10T05:21:44.267Z",
+          "datePublished": "2019-05-14T17:00:05.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2019-05-14T17:00:05.000Z",
+          "url": "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex2/merlin_154113918_721ff786-e3ef-453f-b3a0-deec1d8f8e02-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/20978dd1-5370-5703-b609-114d04122e51#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex2/14Iranianrex2-square640.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks.",
+          "dateModified": "2021-02-10T05:21:44.267Z",
+          "datePublished": "2019-05-14T17:00:05.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-05-14T17:00:05.000Z",
+          "url": "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex2/14Iranianrex2-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT2H45M",
+      "recipeYield": "8 to 10 servings (about 4 quarts)",
+      "recipeCuisine": "middle eastern",
+      "recipeCategory": "dinner, main course",
+      "keywords": "chickpea, cilantro, dill, iranian, lentil, noodles, nowruz, parsley, plan-ahead, soup, spinach, white bean",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 1300
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 446,
+        "unsaturatedFatContent": "16 grams",
+        "carbohydrateContent": "49 grams",
+        "cholesterolContent": null,
+        "fatContent": "21 grams",
+        "fiberContent": "8 grams",
+        "proteinContent": "20 grams",
+        "saturatedFatContent": "4 grams",
+        "sodiumContent": "1066 milligrams",
+        "sugarContent": "8 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1/4 cup dried chickpeas",
+        "1/4 cup dried white beans, such as navy or cannellini",
+        "Fine sea salt and freshly ground black pepper",
+        "2 pounds spinach",
+        "1 pound cilantro (about 3 large bunches)",
+        "1 pound Italian parsley (about 3 large bunches)",
+        "2 large bunches dill",
+        "1 large bunch chives",
+        "About 20 large fresh mint leaves",
+        "6 tablespoons plus 1/3 cup extra-virgin olive oil",
+        "2 large yellow onions, 1 finely chopped and 1 thinly sliced",
+        "2 garlic cloves, minced",
+        "1 cup dried green or brown lentils",
+        "1/2 teaspoon ground turmeric",
+        "2 quarts chicken or beef stock (preferably homemade), or water",
+        "1 1/2 cups liquid kashk (Persian sun-dried yogurt or whey), plus 1/2 cup, for serving",
+        "8 ounces reshteh (Persian soup noodles)",
+        "1 tablespoon dried mint"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "The night before you plan to cook, place chickpeas and white beans in a medium bowl. Add a generous pinch of salt and 2 cups water. Refrigerate overnight."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "The night before or just before cooking, prepare the herbs and greens: Wash spinach, cilantro and parsley, then use a salad spinner to dry very well. Run a knife through the spinach to cut leaves into large pieces. Trim the woody ends from cilantro, parsley and dill so that only leaves and tender stems remain. Roughly chop cilantro, parsley, dill, chives and mint leaves into pieces no larger than a quarter. If preparing ahead of time, wrap chopped greens and herbs in plastic bags and refrigerate overnight."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To cook, set a large (at least 10-quart) Dutch oven or stockpot over medium heat and add 4 tablespoons oil. When the oil shimmers, add the chopped onion and a generous pinch of salt. Cook, stirring regularly, until the onion is tender and golden brown, 16 to 18 minutes. Add garlic and cook, stirring constantly, for 1 minute."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Drain the beans and add to onion along with the lentils, turmeric and 1 teaspoon pepper. Cook for 2 minutes, stirring to coat the beans with oil and spices. Add the chopped spinach and herbs, along with stock or water, and stir to combine. Partly cover the pot with a lid and bring to a boil, then reduce the heat to simmer the soup for 1 hour, stirring regularly to prevent the greens from sticking and burning. If the soup remains very thick even after the greens have wilted, add another 1 to 2 cups water, as needed to thin it."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place 1 1/2 cups kashk in a medium bowl. Add a ladle or two of hot soup and whisk to dissolve, then add the mixture to the pot. The kashk will change the color of the soup from bright to milky green. Increase the heat and bring the soup to a boil, then break the noodles in half and add to the pot. Stir gently to mix in the noodles and keep them from sticking together, then reduce heat and simmer, stirring occasionally, until noodles are soft and chewy and the beans are completely tender, about 30 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In the meantime, prepare the garnishes: Set a medium frying pan over medium-high heat. When the pan is hot, add 2 tablespoons oil. When the oil shimmers, add sliced onion and a generous pinch of salt. Cook, stirring regularly, until golden brown and caramelized, 16 to 18 minutes. Spread cooked onion onto a paper towel-lined plate to absorb excess oil; let cool. Wipe out pan and return to medium heat. Add remaining 1/3 cup oil and warm gently over low heat, then stir in dried mint and remove from heat. Set mint oil aside and allow to steep for at least 5 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place remaining 1/2 cup kashk in a small bowl and thin out with a few tablespoons of water until it’s the texture of thin yogurt. Set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "The soup should be as thick as a hearty chili. If it’s any thicker, thin it with water, 1/2 cup at a time. Taste and adjust the seasoning with salt as needed, accounting for the fact that both the noodles and the kashk are well salted."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To serve, ladle soup into individual bowls. Drizzle with reserved kashk and mint oil, then top with a sprinkling of golden onions."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Left coast cook"
+          },
+          "reviewBody": "No - the jarred kashk I found was quite thick and even a bit pasty. It gets thinned with water. It was also rather expensive ($12 for a 16 oz jar) - and quite funky tasting! Might be a bit too funky for some of us but I don't know a good substitute - yogurt's not really it.",
+          "datePublished": "2025-04-09T03:02:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DeLia"
+          },
+          "reviewBody": "Is kashk like kiefer (a liquid yogurt)?",
+          "datePublished": "2025-03-10T07:56:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lauren"
+          },
+          "reviewBody": "Delicious. The fried onions are a must, as they add caramelized sweetness to this earthy, herby stew. My husband loved it, so I’m sure I’ll be making it again.",
+          "datePublished": "2024-12-10T04:23:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "danicas notes"
+          },
+          "reviewBody": "Use half the amount of pasta. Break into fourths\nUse 1/2 cup kashk and add more to taste",
+          "datePublished": "2024-05-05T20:39:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paris B"
+          },
+          "reviewBody": "My mom makes an amazing Ash and drizzles kashk, fried onions, mint oil, golden fried chopped garlic, a few drops of saffron dissolved in warm water, and a bit of ground beef (sautéed with some onions, tomato paste and basic seasoning) in circles on top of the Ash before serving it. It looks like an abstract painting and so beautiful and appetizing.",
+          "datePublished": "2024-03-23T06:31:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "terry94705"
+          },
+          "reviewBody": "I know I’m a slow chopper but it took me more than 2 hours just to do the washing, chopping and other prep for half a batch of this.  But I wanted to cook the real thing for Persian new year. There’s a Persian grocery nearby so no problems finding ingredients.  We enjoyed it, even though we usually eat much spicier foods. (I wonder if I can find an Indian-spiced dish that uses this same abundance of herbs?) It seems so right to welcome spring by cooking a huge pile of greens!",
+          "datePublished": "2024-03-22T20:42:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meghann"
+          },
+          "reviewBody": "I’ve made this several times and we all love it. The kashk I found at the Persian grocery is thick like peanut butter, so I don’t use as much as this recipe calls for. Leftovers are the best.",
+          "datePublished": "2024-02-05T01:35:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Annie"
+          },
+          "reviewBody": "Great recipe! Just like the soup I had at a Persian restaurant in Naples, Fl. Only\nThing I will change is less noodles, and perhaps blending some of the spinach mixture.",
+          "datePublished": "2024-02-01T12:54:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "reviewBody": "It’s worth noting that Persian grocery stores have packaged chopped dried herbs for ash reshteh. You soak in water for a few minutes and they rehydrate and taste great in this dish.",
+          "datePublished": "2024-01-18T19:29:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Olivia"
+          },
+          "reviewBody": "This was amazing! \nDon't buy your herbs at the regular grocery. Go to a middle eastern or Indian store and get more herbs for less. I see so many spent tons on herbs and spinach. I spent sub $10 for mine, and that's only a little over a dollar a serving,  which isn't too bad considering. About $2-3 serving when you add other ingredient costs.",
+          "datePublished": "2024-01-05T01:05:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robert B"
+          },
+          "reviewBody": "Loved this, although it was a 2-day process because I had to make my own kashk. Not hard - my Persian friend said it was good, I'll take that compliment!",
+          "datePublished": "2023-08-15T17:58:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robert"
+          },
+          "reviewBody": "Delicious as written. I made my own Kashk because I didn't feel like trekking all the way to the middle eastern store. Really good, filling spring soup.",
+          "datePublished": "2023-03-29T15:48:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erica S."
+          },
+          "reviewBody": "This was unbelievably delicious and it passed my flexibility test- I used black eyed peas and black lentils because that’s what I had. I found the noodles and the Kashk in my local Armenian store and they were delicious. I halved the herbs and spinach by mistake and it was fine. I omitted cilantro because it’s gross.",
+          "datePublished": "2023-03-26T00:09:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Syamala"
+          },
+          "reviewBody": "I stuck to the measurements and I’m glad I did, because the proportions were perfect. I resisted the urge to quadruple the garlic because I wanted the subtleness of the herbs to come through, and decided to buy kashke instead of subbing in yogurt. This is one of those dishes that doesn’t taste right until it comes together at the end, so trust the process even if it tastes like wet bland mushy spinach for most of the cooking time - the more subtle interesting flavors will be there at the end.",
+          "datePublished": "2023-03-05T00:31:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Addictive"
+          },
+          "reviewBody": "I've made this dish numerous times the long way and have made it with a number of shortcuts.  Both are excellent, but this recipe (the long way) is best.  What really makes this dish are the toppings (yes, do make them all)- so unusual and delightful to my palate! I couldn't find liquid nor powdered kashk,  so I had to pulverize these hard nuggets and reconstitute the resulting powder. This was exceptionally painstaking, but the result (though pungent) was amazing and very unlike sour cream.",
+          "datePublished": "2023-01-07T14:55:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Spaceship"
+          },
+          "reviewBody": "My favourite thing is this topped with toum (when you can't find Kashk) followed by an Eric Kim gochujang cookie and a Queensland mango.",
+          "datePublished": "2022-12-27T10:10:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "rashtian"
+          },
+          "reviewBody": "Do not cook the kashk with the soup. The way most Iranians do it is adding it while serving just a tablespoon for a bowl is enough. Trust me on this.",
+          "datePublished": "2019-08-07T00:07:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ahd"
+          },
+          "reviewBody": "I confess to not loving the taste of kashk. For an American palate, you might want to taste it before adding the full amount to your ash. Or, substitute Greek yogurt or sour cream. Not as authentic, but I like it better.",
+          "datePublished": "2019-05-16T13:25:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sara"
+          },
+          "reviewBody": "My Persian grandfather loves this soup so much I’ve made it for him 3 times in a single week! Each time I varied the amount of herbs and greens a bit based on what I had on hand (including adding a leek, some green onions, etc.). \nOne small tweak: when you’re frying the dried mint at the very end (an essential step, friends), add a few cloves of minced garlic to the oil as well. It’s heavenly and very traditional (as far as my grandparents remember)!",
+          "datePublished": "2020-02-27T20:02:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue"
+          },
+          "reviewBody": "I made this tonight for a dinner party, as written. Delicious!! Very thick and herby, lovely for a spring evening. Served with some crusty bread, and a charcuterie plate. I found both the kashk and the reshteh (new ingredients to me) at a middle eastern market. The kashk was $11 for a jar that was about a cup and a half, so i used it all. It was also available as a dried powder. Reshteh was not labeled as such; it was just called “roasted noodles” but they owner assured me it was reshteh. YUM!",
+          "datePublished": "2019-05-19T21:23:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elaine"
+          },
+          "reviewBody": "Yum! I was excited to see this Ash recipe, since a Sufi meditation teacher I knew from Iran made this for a group dinner along with jeweled chicken rice.  Kashk tastes a bit like feta cheese and yogurt together, and I imagine you could either whip soft feta with greek yogurt to substitute or just use greek yogurt.  Reshteh noodles are thin flat noodles, substitute with precooked linguine if necessary. At the Middle Eastern grocery, also look for chocolate chip pomegranate or rose water ice cream",
+          "datePublished": "2019-05-18T05:03:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SE"
+          },
+          "reviewBody": "As an Iranian who has cooked forever I am not sure why Samin did not include the red kidney beans and the pinto beans. This soup has chick peas, red kidney beans, pinto beans and some white beans in various proportions. The redness in the kidney beans adds to the color scheme of the soup and it is delicious.",
+          "datePublished": "2021-11-09T21:26:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DadJokerWild"
+          },
+          "reviewBody": "If anyone is having trouble finding kashk, I found 5 lb buckets of it at my local Kashko.",
+          "datePublished": "2020-12-29T04:37:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathryn"
+          },
+          "reviewBody": "Made this for dinner tonight---what a success! I took some shortcuts to make it in an hour and also made it vegan. I used canned chickpeas, blitzed the roughly chopped herbs, spinach, and onions together once sautéed (I only tore the bunches of herbs above the twist tie, so there were stems), boiled it once I added the lentils instead of simmering, and at the end once the noodles were cooked, I added a can of thick coconut milk and half a lemon's worth of juice. Perfection. Absolutely",
+          "datePublished": "2020-12-08T02:08:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karyn"
+          },
+          "reviewBody": "Amazing! I have a Middle Eastern market down the street\nThey actually serve this dish...\nUsed 1/2 Swiss chard and 1/2 spinach because that’s what my edible front yard garden had. Since I was not familiar with the end result I followed the recipe closely\nIt was perfect! (Well maybe I added just a little more garlic...)",
+          "datePublished": "2019-05-17T04:16:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AB"
+          },
+          "reviewBody": "I fill a large bowl with cold water, grab a bunch of parsley or cilantro by the stem end, and dunk and swish the leaves around in the cold water a few times. Then I empty and refill the bowl with water and do that once more. I shake the water off the bunch over the sink, and still holding the herbs by the stems, move to the cutting board, where I chop from the leafy end down toward the stems until the stems become thick and I run out of leaves.",
+          "datePublished": "2021-03-10T11:58:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara"
+          },
+          "reviewBody": "Of course you can, and you can make any other minor tweak to the recipe you wish.  The recipe quoted here (like all written recipes) is someone's family's recipe. I assure you, the neighbor's family made theirs just a tad differently, and on a given day when they didn't have dill in the garden, so did thie\nfamily! It is astounding to see a variation on this question in a considerable number of the NYT's Cooking Notes.",
+          "datePublished": "2019-05-15T17:42:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michelle"
+          },
+          "reviewBody": "Making this brought back wonderful memories of my time in Iran several years ago! Kashk is essential - don’t skip it. Great recipe from Samin.",
+          "datePublished": "2019-05-20T02:55:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Denise"
+          },
+          "reviewBody": "My Persian mother-in-law made Ash with leeks instead of spring onions and never used kashk probably because we didn't have access to it where we lived. But she did have 2 secrets: 1) she melted a whole stick of salted butter into the soup before serving making it rich and smooth; and 2) she added a tablespoon of apple cider vinegar before garnishing with crunchy fried onions and it added the perfect acidity enhancing each bite.",
+          "datePublished": "2022-01-07T20:00:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BMoajit"
+          },
+          "reviewBody": "This is the $100, takes all day to make soup, feeds 2",
+          "datePublished": "2022-01-12T12:25:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Miriam"
+          },
+          "reviewBody": "Giving the weight for spinach, cilantro, and parsley is so nice. Would you give weights for the chives and dill too? Thank you!",
+          "datePublished": "2019-05-15T17:40:10.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1020205-ash-reshteh-persian-greens-bean-and-noodle-soup",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Samin Nosrat"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019,
+      "description": "Ash reshteh’s flavor is defined by two uniquely Persian ingredients: reshteh and kashk. The soup, served during the festivities leading up to Nowruz, the Persian New Year, wouldn’t be the same without the soup noodles called reshteh, which are saltier and starchier than Italian noodles — though you could substitute linguine in a pinch. Kashk, a form of drained yogurt or whey, is saltier and more sour than Greek yogurt or sour cream. More like feta than yogurt, liquid kashk gives ash its distinct, satisfying flavor. If you can’t find liquid kashk, buy it powdered and hydrate it with warm water to the consistency of sour cream. Look for both items at a Middle Eastern grocery.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Ash Reshteh (Persian Greens, Bean and Noodle Soup)",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/20978dd1-5370-5703-b609-114d04122e51#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex2/merlin_154113918_721ff786-e3ef-453f-b3a0-deec1d8f8e02-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks.",
+          "dateModified": "2021-02-10T05:21:44.267Z",
+          "datePublished": "2019-05-14T17:00:05.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-05-14T17:00:05.000Z",
+          "url": "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex2/merlin_154113918_721ff786-e3ef-453f-b3a0-deec1d8f8e02-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/20978dd1-5370-5703-b609-114d04122e51#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex2/merlin_154113918_721ff786-e3ef-453f-b3a0-deec1d8f8e02-superJumbo.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks.",
+          "dateModified": "2021-02-10T05:21:44.267Z",
+          "datePublished": "2019-05-14T17:00:05.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2019-05-14T17:00:05.000Z",
+          "url": "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex2/merlin_154113918_721ff786-e3ef-453f-b3a0-deec1d8f8e02-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/20978dd1-5370-5703-b609-114d04122e51#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex2/14Iranianrex2-square640.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks.",
+          "dateModified": "2021-02-10T05:21:44.267Z",
+          "datePublished": "2019-05-14T17:00:05.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-05-14T17:00:05.000Z",
+          "url": "https://static01.nyt.com/images/2019/05/15/dining/14Iranianrex2/14Iranianrex2-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020205-ash-reshteh-persian-greens-bean-and-noodle-soup"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:31:42.292Z",
+  "scraping_status": "scraped"
+}

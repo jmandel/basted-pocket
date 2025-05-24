@@ -1,0 +1,590 @@
+{
+  "id": "2e991678a8c8e1f2",
+  "original_url": "https://cooking.nytimes.com/recipes/1021161-caramelized-corn-and-asparagus-pasta-with-ricotta",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021161-caramelized-corn-and-asparagus-pasta-with-ricotta",
+  "fetched_title": "Caramelized Corn and Asparagus Pasta With Ricotta Recipe",
+  "main_text_content": "This summery pasta features caramelized corn, crisp-tender asparagus and earthy turmeric, which provides the dish’s sunny hue It’s not easy to cook corn to the point of browning without losing all its moisture, but a pinch of sugar helps speed up the caramelization process Vermouth lends acidity to the light, glossy garlicky sauce, but you could use wine, or even a tablespoon of lemon juice or champagne vinegar for lift",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1024167-asparagus-ricotta-pasta-with-almonds\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2023/05/30/multimedia/cr-spring-mac-and-cheese-zjfl/cr-spring-mac-and-cheese-zjfl-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2023/05/30/multimedia/cr-spring-mac-and-cheese-zjfl/cr-spring-mac-and-cheese-zjfl-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2023/05/30/multimedia/cr-spring-mac-and-cheese-zjfl/cr-spring-mac-and-cheese-zjfl-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2023/05/30/multimedia/cr-spring-mac-and-cheese-zjfl/cr-spring-mac-and-cheese-zjfl-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2023/05/30/multimedia/cr-spring-mac-and-cheese-zjfl/cr-spring-mac-and-cheese-zjfl-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2023/05/30/multimedia/cr-spring-mac-and-cheese-zjfl/cr-spring-mac-and-cheese-zjfl-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2023/05/30/multimedia/cr-spring-mac-and-cheese-zjfl/cr-spring-mac-and-cheese-zjfl-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2023/05/30/multimedia/cr-spring-mac-and-cheese-zjfl/cr-spring-mac-and-cheese-zjfl-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Asparagus Ricotta Pasta With Almonds</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Christian Reynoso</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2020/06/10/dining/aw-corn-pasta/aw-corn-pasta-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/2e991678a8c8e1f2/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/3dfac152-6bff-5e28-af04-7a1a5080b73a",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021161-caramelized-corn-and-asparagus-pasta-with-ricotta",
+        "@type": "WebPage",
+        "name": "Caramelized Corn and Asparagus Pasta With Ricotta"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021161-caramelized-corn-and-asparagus-pasta-with-ricotta",
+      "name": "Caramelized Corn and Asparagus Pasta With Ricotta",
+      "description": "This summery pasta features caramelized corn, crisp-tender asparagus and earthy turmeric, which provides the dish’s sunny hue. It’s not easy to cook corn to the point of browning without losing all its moisture, but a pinch of sugar helps speed up the caramelization process. Vermouth lends acidity to the light, glossy garlicky sauce, but you could use wine, or even a tablespoon of lemon juice or champagne vinegar for lift. Fresh ricotta provides richness.",
+      "author": {
+        "@type": "Person",
+        "name": "Alexa Weibel"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/1db7dfab-3c0c-50c7-bc8a-c1f12a87837a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/06/10/dining/aw-corn-pasta/aw-corn-pasta-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2024-06-25T20:20:30.181Z",
+          "datePublished": "2020-06-10T16:32:22.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-06-10T16:32:22.000Z",
+          "url": "https://static01.nyt.com/images/2020/06/10/dining/aw-corn-pasta/aw-corn-pasta-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/1db7dfab-3c0c-50c7-bc8a-c1f12a87837a#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/06/10/dining/aw-corn-pasta/aw-corn-pasta-googleFourByThree-v2.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2024-06-25T20:20:30.181Z",
+          "datePublished": "2020-06-10T16:32:22.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2020-06-10T16:32:22.000Z",
+          "url": "https://static01.nyt.com/images/2020/06/10/dining/aw-corn-pasta/aw-corn-pasta-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/1db7dfab-3c0c-50c7-bc8a-c1f12a87837a#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/06/10/dining/aw-corn-pasta/aw-corn-pasta-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2024-06-25T20:20:30.181Z",
+          "datePublished": "2020-06-10T16:32:22.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2020-06-10T16:32:22.000Z",
+          "url": "https://static01.nyt.com/images/2020/06/10/dining/aw-corn-pasta/aw-corn-pasta-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT25M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, weeknight, pastas, vegetables, main course",
+      "keywords": "asparagus, butter, corn, garlic, lemon, ricotta, scallion, spaghetti, sugar, turmeric, vermouth, fall, summer",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 2966
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 619,
+        "unsaturatedFatContent": "14 grams",
+        "carbohydrateContent": "80 grams",
+        "cholesterolContent": null,
+        "fatContent": "27 grams",
+        "fiberContent": "6 grams",
+        "proteinContent": "17 grams",
+        "saturatedFatContent": "11 grams",
+        "sodiumContent": "662 milligrams",
+        "sugarContent": "6 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "Kosher salt and black pepper",
+        "3 ears of corn, husked",
+        "1 pound spaghetti, linguine or any shaped pasta",
+        "1/4 cup olive oil, plus more for drizzling ",
+        "1/4 teaspoon granulated sugar",
+        "16 medium stalks asparagus (about 8 ounces), trimmed and thinly sliced on an angle (about 2 cups)",
+        "3 scallions, trimmed and minced, or 1 small shallot, minced",
+        "2 teaspoons ground turmeric",
+        "6 tablespoons unsalted butter",
+        "3 garlic cloves, minced",
+        "1/3 cup vermouth or white wine",
+        "1 cup fresh ricotta, seasoned to taste with salt",
+        "1 lemon (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bring a large pot of salted water to a boil over high. Meanwhile, prepare the corn: Slice the corn kernels off the cobs, and add the cobs to the pot of water. (This lends a hint of sweetness.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Once the water comes to a boil, add the pasta and cook over medium-high, according to package instructions, until tender but toothsome, just shy of al dente."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large, deep skillet, heat the oil over medium-high. Add the corn kernels and sugar, season with salt and pepper, and cook, stirring occasionally, until they begin to caramelize, about 6 minutes. Stir in the asparagus, scallions and 1 teaspoon turmeric, and cook, stirring frequently, until just softened and corn is caramelized, 2 to 3 minutes. Transfer to a bowl."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Once the pasta is just short of al dente, reserve 1 1/2 cups pasta water, then drain the pasta, and discard the corn cobs."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the butter, garlic and remaining turmeric to the large skillet and cook over medium until butter melts and starts to foam, about 3 minutes. Whisk in vermouth to deglaze, and cook 1 to 2 minutes, then whisk in 1 cup pasta water."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the pasta, and toss with tongs over medium heat until thoroughly coated and al dente, 1 to 2 minutes, adding  pasta water as needed. Remove from heat, stir in half the corn mixture and season to taste with salt and pepper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide pasta among plates. Dollop with ricotta and top with remaining corn mixture. Drizzle with olive oil. If using lemon, shower the pasta with lemon zest, then cut the lemon into quarters, for squeezing on top, and serve immediately."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2020-06-10T00:00:00.000Z",
+      "dateModified": "2020-06-11T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CK"
+          },
+          "reviewBody": "Great recipe and great reader feedback/comments! Based on comments I made these mods: 4T butter, no oil; 3/4 lb. pasta; 4 ears of corn; 1 t tumeric; 1.5 lb asparagus; 4 cloves garlic; added 1 pint of cherry tomatoes; mixed 1/2 C ricotta into warm pasta; added lemon juice and zest, and salt & pepper to the other 1/2 C ricotta, and put dollop of this on each serving - along w/ a sprinkle of fresh, torn basil and mint. Great the second night, too!",
+          "datePublished": "2025-05-22T01:20:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jacqueline S."
+          },
+          "reviewBody": "Allow an hour preparation time. Could use less butter - maybe reduce by 2 tablespoons. I used less turmeric which was a good decision. Used about 1 tsp. total. Mixed lemon zest and a little juice into the ricotta. It was delicious on top of the pasta. I didn't mix it into the warm pasta in the pan to avoid it sticking to the pan.",
+          "datePublished": "2025-05-13T02:38:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "scarlett"
+          },
+          "reviewBody": "So good. I used no oil and less butter but added pancetta to the corn mixture for a little protein/salty punch. This is a perfect spring/summer dish!",
+          "datePublished": "2025-05-11T23:13:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa Stolzer"
+          },
+          "reviewBody": "I’m not a huge fan of turmeric so I subbed in saffron.  Delish!!",
+          "datePublished": "2025-05-10T10:42:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ubet"
+          },
+          "reviewBody": "In California it’s late April and I have both grown in state. Not bragging, just showing the possibility.",
+          "datePublished": "2025-04-26T16:16:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sisters"
+          },
+          "reviewBody": "@Susan, our Sprouts market in Denver currently has both fresh corn in the husk and fresh asparagus. Don't give up hope!",
+          "datePublished": "2025-04-29T22:54:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "Since asparagus and corn season are a couple of months apart and since you should only use fresh asparagus, I don't understand how fresh corn is even a possibility.",
+          "datePublished": "2025-04-26T15:15:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lily"
+          },
+          "reviewBody": "I used ditalini instead of spaghetti. The lemon is essential, and next time I may add Parmesan. Delicious!",
+          "datePublished": "2025-04-26T02:39:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ndancer"
+          },
+          "reviewBody": "Followed the recipe as is and really enjoyed! Thought the turmeric flavor was fine the night of, but a bit overpowering as leftovers the next day. Do with that what you will, I’d personally use just 1 tsp next time.",
+          "datePublished": "2025-04-21T17:53:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "claudia black"
+          },
+          "reviewBody": "Asparagus was super fine in market, I used them and reduced time accordingly\nNo scallions, used tablespoon freeze dried chives.. was okay scallions better I think\nI used fire roasted frozen corn. Very successful shortcut\nCould be made with peas or mushrooms too\n\nWill make again",
+          "datePublished": "2024-11-14T00:27:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Caitlin"
+          },
+          "reviewBody": "Very good! I used white wine instead of vermouth and frozen corn instead of fresh and still turned out great. Definitely don’t skip the lemon on top, I needed more lemon juice than called for to get it to the perfect flavor.",
+          "datePublished": "2024-11-02T15:17:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura"
+          },
+          "reviewBody": "Made this several times, can still get decent asparagus in NYC even in mid September -- also used vodka in a pinch instead of vermouth and it was very good, I'd suggest using less pasta or more corn+asparagus as I always find myself wanting way more corn per serving",
+          "datePublished": "2024-09-23T13:11:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ANDinCDMX"
+          },
+          "reviewBody": "This turned out nicely, even accounting for the fact that I only had canned corn. It's got a unique flavor profile (mostly the earthiness from turmeric), and the garnishes at the end (esp ricotta and lemon/lemon zest) really put it over the top.",
+          "datePublished": "2024-09-19T02:22:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mike"
+          },
+          "reviewBody": "Made as directed. We thought this was a bit bland. Would be better with bacon/guanciale and burrata instead of ricotta.",
+          "datePublished": "2024-09-17T00:39:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chloe"
+          },
+          "reviewBody": "Subbed zucchini and added some kale and burrata instead of ricotta! Worked beautifully. also added some seared steak which added some protein! Super delicious meal!",
+          "datePublished": "2024-09-14T17:46:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "marcel saghir"
+          },
+          "reviewBody": "Just a wonderful recipe very tasty made it as a recommended adding lemon juice accentuated the delightful taste the corn and the asparagus mixture were amazing",
+          "datePublished": "2024-09-10T21:24:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "tinaindenver"
+          },
+          "reviewBody": "Great flavor, but calls for way too much butter. I used less than half of what the recipe called for and it still came out deliciously without  giving us a heart attack.",
+          "datePublished": "2024-09-07T01:49:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pam"
+          },
+          "reviewBody": "Not to be one of THOSE people, but could I use frozen corn?",
+          "datePublished": "2020-06-27T15:42:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peggy"
+          },
+          "reviewBody": "I made this last night, it was delicious and everyone loved it. As several commented, asparagus isn't in season now, I used zucchini. I always read the comments before making and really appreciate the recommendations. I added the corn cobs to the pasta water and let it boil for 10 minutes before adding the pasta, mixed in half of the ricotta into the sauce. I did use the lemon zest as well as the lemon juice which I highly recommend. Can't wait to make this again.",
+          "datePublished": "2020-06-28T14:13:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lyle"
+          },
+          "reviewBody": "Corn and asparagus, what’s not to love. I suggest you save the extra corn broth, it’s useful for other dishes throughout the week. In fact, start early and cook those cobs a little longer to get more flavor in the broth. I only used 1 tsp of turmeric and you may want to be cautious with it if you aren’t use to the flavor. Also, before serving I highly recommend you squeeze in the lemon juice, add the lemon zest, and toss in the ricotta—those components need to come together before serving.",
+          "datePublished": "2020-06-22T04:02:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alexa Weibel, Senior Staff Editor, NYT Cooking"
+          },
+          "reviewBody": "We are not judging! This is a friendly place! And yes, absolutely — I would just suggest thawing it by setting it in a colander in the sink and running under cool water for a couple minutes so that it stands a better chance of caramelizing.",
+          "datePublished": "2020-09-21T19:05:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura"
+          },
+          "reviewBody": "We had this last night, and it was fantastic! Such a great summery dish. For what it’s worth, I used a Sauvignon Blanc white wine instead of vermouth, halved the turmeric, and per the recommendation of another comment, mixed into the sauce half of the ricotta right before adding the pasta. Served with a dollop of of ricotta on top. So, so good!\n\nI will absolutely make this again!",
+          "datePublished": "2020-06-27T15:17:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Drakes"
+          },
+          "reviewBody": "Yes you can use frozen corn. The only detail that benefits from fresh, is lightly flavouring the pasta water with the husks - but there’s so much flavour coming from caramelised corn, butter, the lemon, that the subtle sweetness imparted is not likely missed.\nIf I had a change? I think there’s a pinch too much tumeric, and I’d advise restraint. Go too heavy and it becomes almost curried and loses some of the summer farmers market lightness of touch implied in this excellent recipe.",
+          "datePublished": "2020-08-03T02:08:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "reviewBody": "I could not bear to caramelize those perfect raw corn kernels cus the season is so short. So I caramelized the green onions and shallots instead, adding crisp sweet corn just to warm at the end. It is worth it to use a good dry white wine worth drinking. Fabulous even without the ricotta.",
+          "datePublished": "2022-06-19T19:35:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenny"
+          },
+          "reviewBody": "Add basil and mint, and definitely swap in whatever veggies are seasonal. Also, buying a more expensive, fresh ricotta makes a huge difference.",
+          "datePublished": "2020-07-13T11:40:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lance"
+          },
+          "reviewBody": "This was delicious!  Used frozen corn (2c) and it worked perfectly.  Didn't have ricotta, but honestly didn't miss it.  Followed all other quantities exactly, and made sure to season carefully every place directed.  This is a lovely and easy lunch sure to become a part of my warm-weather repertoire!",
+          "datePublished": "2022-05-16T16:59:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DRP in central NJ"
+          },
+          "reviewBody": "My son and his girl friend made this for my husband and me tonight with the shallot option, using frozen corn.  It was AMAZINGLY delicious, and I don't usually care for asparagus.  Despite what other commenters have said, the quantity of turmeric was not at all overpowering.",
+          "datePublished": "2021-11-23T01:31:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Clara"
+          },
+          "reviewBody": "Good, but the butter & oil should def be cut down. It's way too oily as currently is.",
+          "datePublished": "2021-12-02T00:49:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David"
+          },
+          "reviewBody": "yes - dry vermouth.  Or a dry unoaked white wine.",
+          "datePublished": "2020-06-20T12:39:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ashley"
+          },
+          "reviewBody": "Zucchini or thinly sliced green beans are great too.",
+          "datePublished": "2023-06-29T22:47:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrea"
+          },
+          "reviewBody": "This was so good. Used frozen corn. Boiled the noodles in some watered-down veggie stock. I made this with 12 ounces of gluten-free pasta and doubled the asparagus. Definitely spritz some lemon over it at the end.",
+          "datePublished": "2022-05-04T18:57:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kiki"
+          },
+          "reviewBody": "Great use for seasonal veggies and the turmeric adds a nice touch of earthiness. Fairly complex flavors for a straightforward dish.",
+          "datePublished": "2020-07-05T23:52:26.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021161-caramelized-corn-and-asparagus-pasta-with-ricotta",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Alexa Weibel"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020,
+      "description": "This summery pasta features caramelized corn, crisp-tender asparagus and earthy turmeric, which provides the dish’s sunny hue. It’s not easy to cook corn to the point of browning without losing all its moisture, but a pinch of sugar helps speed up the caramelization process. Vermouth lends acidity to the light, glossy garlicky sauce, but you could use wine, or even a tablespoon of lemon juice or champagne vinegar for lift. Fresh ricotta provides richness.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Caramelized Corn and Asparagus Pasta With Ricotta",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/1db7dfab-3c0c-50c7-bc8a-c1f12a87837a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/06/10/dining/aw-corn-pasta/aw-corn-pasta-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2024-06-25T20:20:30.181Z",
+          "datePublished": "2020-06-10T16:32:22.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-06-10T16:32:22.000Z",
+          "url": "https://static01.nyt.com/images/2020/06/10/dining/aw-corn-pasta/aw-corn-pasta-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/1db7dfab-3c0c-50c7-bc8a-c1f12a87837a#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/06/10/dining/aw-corn-pasta/aw-corn-pasta-googleFourByThree-v2.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2024-06-25T20:20:30.181Z",
+          "datePublished": "2020-06-10T16:32:22.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2020-06-10T16:32:22.000Z",
+          "url": "https://static01.nyt.com/images/2020/06/10/dining/aw-corn-pasta/aw-corn-pasta-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/1db7dfab-3c0c-50c7-bc8a-c1f12a87837a#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/06/10/dining/aw-corn-pasta/aw-corn-pasta-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2024-06-25T20:20:30.181Z",
+          "datePublished": "2020-06-10T16:32:22.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2020-06-10T16:32:22.000Z",
+          "url": "https://static01.nyt.com/images/2020/06/10/dining/aw-corn-pasta/aw-corn-pasta-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021161-caramelized-corn-and-asparagus-pasta-with-ricotta"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:36:06.012Z",
+  "scraping_status": "scraped"
+}

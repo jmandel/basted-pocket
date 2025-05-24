@@ -1,0 +1,665 @@
+{
+  "id": "34f3f8b7b7e3dbc5",
+  "original_url": "https://cooking.nytimes.com/recipes/1026010-crispy-sage-fried-chicken",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026010-crispy-sage-fried-chicken",
+  "fetched_title": "Crispy Sage Fried Chicken Recipe (with Video)",
+  "main_text_content": "This juicy, crispy, vaguely-tastes-like-Thanksgiving fried chicken makes an exciting stand-in for the usual turkey The recipe takes every step to maximize moisture and flavor, so no dry poultry arrives at your table, holiday or otherwise: Start with bone-in, skin-on chicken legs, submerge the pieces in a brine for at least 24 hours, fry low and slow to allow all the fat and connective tissue to render and finally, shower over a boxed stuffing-inspired seasoning As an optional touch, dredge the chicken pieces in Italian 00 flour instead of all-purpose — its ultra-fine texture makes the crust simultaneously extra crispy and less greasy.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026790-crispy-chicken-with-lime-butter\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-blogSmallInline-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-videoSixteenByNine310-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Crispy Chicken With Lime Butter</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Eric Kim</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/34f3f8b7b7e3dbc5/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/b9a2bf3d-f479-5809-be0a-46b8ca8430be",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026010-crispy-sage-fried-chicken",
+        "@type": "WebPage",
+        "name": "Crispy Sage Fried Chicken"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026010-crispy-sage-fried-chicken",
+      "name": "Crispy Sage Fried Chicken",
+      "description": "This juicy, crispy, vaguely-tastes-like-Thanksgiving fried chicken makes an exciting stand-in for the usual turkey. The recipe takes every step to maximize moisture and flavor, so no dry poultry arrives at your table, holiday or otherwise: Start with bone-in, skin-on chicken legs, submerge the pieces in a brine for at least 24 hours, fry low and slow to allow all the fat and connective tissue to render and finally, shower over a boxed stuffing-inspired seasoning. As an optional touch, dredge the chicken pieces in Italian 00 flour instead of all-purpose — its ultra-fine texture makes the crust simultaneously extra crispy and less greasy.",
+      "author": {
+        "@type": "Person",
+        "name": "Sohla El-Waylly"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/4a09cd42-df1a-52b8-8812-e06f35757f2a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2024-11-17T17:49:35.786Z",
+          "datePublished": "2024-11-13T17:33:10.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-13T17:33:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/4a09cd42-df1a-52b8-8812-e06f35757f2a#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2024-11-17T17:49:35.786Z",
+          "datePublished": "2024-11-13T17:33:10.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-13T17:33:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/4a09cd42-df1a-52b8-8812-e06f35757f2a#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2024-11-17T17:49:35.786Z",
+          "datePublished": "2024-11-13T17:33:10.000Z",
+          "height": "1801",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-13T17:33:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "P1DT1H30M",
+      "totalTime": "P1DT1H45M",
+      "recipeYield": "6 to 8 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, poultry, project, main course",
+      "keywords": "all-purpose flour, chicken drumstick, chicken leg, chicken thigh, dutch oven, peanut oil, picnic, plan-ahead, sage, christmas, thanksgiving",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 204
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 1689,
+        "unsaturatedFatContent": "97 grams",
+        "carbohydrateContent": "72 grams",
+        "cholesterolContent": null,
+        "fatContent": "127 grams",
+        "fiberContent": "5 grams",
+        "proteinContent": "66 grams",
+        "saturatedFatContent": "20 grams",
+        "sodiumContent": "1226 milligrams",
+        "sugarContent": "6 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 tablespoons kosher salt, such as Diamond Crystal (or 1½ tablespoons fine salt)",
+        "3 tablespoons granulated sugar",
+        "1½ teaspoons MSG (optional)",
+        "8 whole chicken legs (or 8 drums and 8 thighs), about 6 pounds",
+        "¼ cup dried parsley",
+        "1 tablespoon dried sage",
+        "1 tablespoon chicken bouillon powder",
+        "1½ teaspoons onion powder",
+        "1 teaspoon freshly ground black pepper",
+        "1 teaspoon granulated sugar",
+        "¾ teaspoon ground cayenne",
+        "¼ teaspoon MSG (optional)",
+        "5 to 8 cups peanut or safflower oil",
+        "5 cups all-purpose flour or Italian 00 flour (see Tip)",
+        "2 teaspoons kosher salt, such as Diamond Crystal (or 1 teaspoon fine salt)",
+        "⅓ cup lightly packed fresh sage leaves",
+        "2 lemons"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Brine the chicken: In a large container with at least 6-quart capacity, combine 2 quarts water with the salt, sugar and MSG (if using), and whisk until dissolved. (Or mix the brine in a bowl and divide into two containers with at least 3-quart capacity.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide the legs into drumsticks and thighs by slicing through the knee joint along the white fat line (unless you start with drums and thighs). Trim away any excess fat, then transfer the pieces to the brine as you work. Cover and refrigerate for at least 24 hours and up to 36 hours."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, make the herb seasoning: In a small bowl, crumble the parsley between your fingers until fine. Combine with sage, chicken bouillon, onion powder, pepper, sugar, cayenne and MSG (if using). Set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When ready to fry: Fill a large Dutch oven with enough oil to come halfway up the sides. Attach a clip-on thermometer and heat the oil to 325 degrees, keeping the burner at medium-high heat. Line one sheet tray with paper towels and set a wire rack in another sheet tray. In a large bowl, whisk together the flour and salt. Drizzle ¼ cup of chicken brine into the flour and gently toss with your hands to prime it with little clumps that will create a craggy surface on the chicken."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the oil is heating up and when it reaches 275 degrees, add the sage leaves and fry, stirring frequently until bubbling subsides, about 2 minutes. Use a slotted spoon to transfer to the paper towel-lined tray."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Remove the chicken from the fridge. Working with one piece of chicken at a time, lift chicken from the brine and immediately place it in flour with your \"wet\" hand. Using your other \"dry\" hand, bury the chicken and press flour into all sides, packing tightly to form large clumps of flour coating on each piece. Lift chicken out of flour and shake to remove any loose flour before placing into the hot oil. Proceed until the skillet is full of pieces closely resting together (it will take 2 to 3 batches to fry all the chicken). Fry, flipping once, until golden brown all over, 7 to 9 minutes per side. (Once the chicken is added to the oil, the temperature will drop to between 250 and 275 degrees. Do not increase the heat to compensate; allow the oil temperature to gradually return to 325 degrees as the chicken cooks. The temperature should be up to 300 degrees after 10 minutes; if not, increase the heat. Once the oil returns to 325 degrees, reduce heat to maintain that temperature. Drop heat down to low in between batches while you’re breading and adding in the next round of chicken, as an empty pot of oil will quickly climb in temperature.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "As each piece of chicken has turned golden brown and has an internal temperature of at least 175 degrees, remove from oil to briefly blot on the paper towel-lined sheet tray. (If the oil temperature is well managed, crust color and cook time are good indicators of doneness if you don’t have an instant-read probe thermometer.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Transfer chicken to the wire rack, generously season all over with herb seasoning, then let rest for 5 minutes and up to 1 hour (room temperature fried chicken is great!). To serve, crumble over the fried sage leaves and finely grate over the zest of the lemon. Cut the lemons into wedges and tuck alongside for guests to spritz."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/81f3cd58-583c-5b23-a95a-be5f896e923a",
+        "@type": "VideoObject",
+        "author": {
+          "@id": "nyt://person/56667012-c61f-532b-9929-8f2ccf6962a9",
+          "@type": "Person",
+          "name": "Adam Centrella",
+          "url": "https://www.nytimes.com/by/adam-centrella"
+        },
+        "bitrate": "1464816",
+        "contentSize": "572210978",
+        "contentUrl": "https://vp.nyt.com/video/2024/11/11/129494_1_Sohlas-Fried-Chicken-Thanksgiving-Video_wg_480p.mp4",
+        "creator": {
+          "@id": "nyt://person/56667012-c61f-532b-9929-8f2ccf6962a9",
+          "@type": "Person",
+          "name": "Adam Centrella",
+          "url": "https://www.nytimes.com/by/adam-centrella"
+        },
+        "dateModified": "2025-04-17T19:34:14.890Z",
+        "datePublished": "2024-11-25T21:51:42.000Z",
+        "description": "This juicy, crispy, vaguely-tastes-like-Thanksgiving fried chicken makes an exciting stand-in for the usual turkey. The recipe takes every step to maximize moisture and flavor, so no dry poultry arrives at your table, holiday or otherwise: Start with bone-in, skin-on chicken legs, submerge the pieces in a brine for at least 24 hours, fry low and slow to allow all the fat and connective tissue to render and finally, shower over a boxed stuffing-inspired seasoning. As an optional touch, dredge the chicken pieces in Italian 00 flour instead of all-purpose — its ultra-fine texture makes the crust simultaneously extra crispy and less greasy.",
+        "duration": "PT47M51S",
+        "height": "480",
+        "name": "Crispy Sage Fried Chicken",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/4a09cd42-df1a-52b8-8812-e06f35757f2a#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-videoSixteenByNineJumbo1600.jpg",
+            "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Megan Hedgpeth.",
+            "dateModified": "2024-11-17T17:49:35.786Z",
+            "datePublished": "2024-11-13T17:33:10.000Z",
+            "height": "900",
+            "uploadDate": "2024-11-13T17:33:10.000Z",
+            "url": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-videoSixteenByNineJumbo1600.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/4a09cd42-df1a-52b8-8812-e06f35757f2a#googleFourByThree",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-googleFourByThree.jpg",
+            "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Megan Hedgpeth.",
+            "dateModified": "2024-11-17T17:49:35.786Z",
+            "datePublished": "2024-11-13T17:33:10.000Z",
+            "height": "600",
+            "uploadDate": "2024-11-13T17:33:10.000Z",
+            "url": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-googleFourByThree.jpg",
+            "width": "800"
+          },
+          {
+            "@id": "nyt://image/4a09cd42-df1a-52b8-8812-e06f35757f2a#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-mediumSquareAt3X.jpg",
+            "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Megan Hedgpeth.",
+            "dateModified": "2024-11-17T17:49:35.786Z",
+            "datePublished": "2024-11-13T17:33:10.000Z",
+            "height": "1801",
+            "uploadDate": "2024-11-13T17:33:10.000Z",
+            "url": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-mediumSquareAt3X.jpg",
+            "width": "1800"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-videoSixteenByNineJumbo1600.jpg",
+        "transcript": "“Hi, I’m Sohla, here at the New York Times Cooking studio. And we’re going to make Thanksgiving. Thanksgiving fried chicken feast. I’ll do it again. [LAUGHS]:” [MUSIC PLAYING] “Today, we’re going to make a Thanksgiving fried chicken feast. Why fried chicken? Ham and I don’t have the traditional Thanksgiving spread, like the turkey spread, because depending on where we’re working, by the time it’s Thanksgiving, we may have made Thanksgiving dinner like dozens of times. Fried chicken is one of our go to holiday meals because it’s not something we ever make at work. And it feels really special because you don’t make fried chicken all the time, and it’s not going to be dry. You’re not going to miss any of the Thanksgiving vibes though. So even though we’re having a different kind of meal, all those holiday flavors that you think a lot about, we’re still going to have sweet potatoes, but we’re going to do it a little different. For your green bean moment, we’re going to have a little smashed green bean salad. It’s going to be very refreshing. It’ll go really well with our fried chicken. We’re still going to have mashed potatoes and gravy, but I want it to lighten it up. So it’s going to be like a sour cream and onion mashed potato with a mustard gravy. Growing up, for Thanksgiving, we always had those Pillsbury rolls that pop out of the tin. So to give you that kind of roll moment, we’re making some butterflake rolls. They’re so buttery, so pillowy, and it’s perfect for sopping up the gravy. Dessert, I’m taking the two pies that define Thanksgiving, pumpkin and pecan, and turning it into a Texas sheet cake. So you get the fried chicken and the Thanksgiving. That’s the theme of this menu, a fried chicken Thanksgiving. There’s a lot of connections. O.K., we thought about this for a long time. Ultimate goal, we’re going to have some friends over to enjoy this fried chicken feast. I’m going to prep this over two days, so this is day one. A lot of the cooking is going to happen today. And then tomorrow, we fry chicken, heat everything back up, and then enjoy dinner. You will be able to pull this off, but you got to plan. I recommend you print all your recipes out, and you want to read through everything so you can figure out how to weave the steps together. So we’re going to prep everything today, except bake the sweet potatoes and fry the chicken. And then we can reheat everything tomorrow. Because the day that your guests are coming, you don’t want to be frazzled. And then you can clean your kitchen because your mother in law’s coming and she will judge you. The first thing we’re going to do is brine our chicken. And then next, we’re going to make our rolls. The rolls have to be made over two days. This dough actually mixes for like 15 minutes. So while that happens, I will make the pickles. And then next, we are going to make our cake all the way. See, this is how you layer. I want to see if there’s time while the cake is whisking to do something else. Yeah, it’s going to whip for five minutes. So during that time, I will make the Mornay for the potatoes. We got our gravy. Ooh! We’re going to make a mashed potatoes today. So while the cake bakes, we’ll make our mash, and that’s it. That’s not bad. This is not bad. You can do this. O.K. Get suited up. Is it time? Do you want to do like, slow motion?” [MUSIC PLAYING] “Wow. Did we do it?” “One side is sticking up.” “Below?” “One second. All right.” “So we’re going to start by brining our chicken. I tested this with a wet and a dry brine and a buttermilk brine, and I tried one where I did a dry into a buttermilk brine. And at the end of the day, every single version was delicious. It kind comes down to personal preference. I like the wet brine because it resulted in the juiciest chicken. So it’s 3 tablespoons of sugar, 3 tablespoons salt and just a teaspoon and a half of MSG. MSG just makes something taste more of itself. So for our chicken, I’m sticking with legs. I prefer the bone-in, skin on situation. But I have this one friend who doesn’t eat bones, so I made tenders for him and they ended up being everyone’s favorite. So you could turn this into a tender party. Sometimes, there is a lot of yellow fat and it can be a little bit too much, but here, there isn’t any. This is a nice thigh. I’m just going to trim off some of the skin. If you have a little container in your freezer of chicken skin going, you can save this and render out the fat later. O.K. To split this --” “Wait, wait. Sorry.” “What? Is that a --” “You have a container of chicken skin? Is this --” “Yeah, yeah, you should have it --” “Is that a common thing?” “Yeah, you should have it in your freezer, like a little container where you just save these little bits. And then when you have enough, render it all out and you have Schmaltz. Whoa. All right. To split this, you want to go in between the joints. So I learned this from Ham, and it works almost every time. Use the back of your knife to pull the skin just so you can get a better look at the meat. And see this line of fat right here? If you cut through there, you can almost always get between the joints. I said almost, I was close. But look, it got me to the bone and I can take a peek and then you can see where that joint is. There it is. Huh? We’re not going through bone and we’re going to go right into our brine as we break down our chicken. This meal is for six to eight, and I think one leg should be good per person because we have so many other sides. But if you’re just having fried chicken, this might only serve four. Kind of depends on what else is going on the table. Personally, I really prefer the organic chicken, not just because it’s organic, but because it’s often smaller. So you get a better ratio of meat to bone, because the more bone there is, the more flavorful it’s going to be. O.K. That’s it. Easy. Now, I’m going to cover this up, let it hang out in the fridge.” [MUSIC PLAYING] “We’re going to make butterflake rolls. I love this shape. It’s very retro. You roll the dough out and layer it and then cut it. And then you flip it on the cut side and bake it. And when it bakes, it like butterflakes open. So you’re going to have all these little pull apart layers that are layered with so much salted butter, and the layers pull apart like slices of white bread and you can make a little fried chicken sandwich. We’re going to start off with Claire Saffitz All Purpose Enriched Bread. So we’re going to start by making the roux. This is called tangzhong. I’m probably saying that wrong, but it’s an amazing technique because it’s a great way to increase the hydration of your dough.” “Tangzhong.” “I can’t say that. I can’t say that. I’m going to call it the roux. The great thing about using this roux in your dough is it helps the bread last longer. So if you want to bake this the day before, it’ll still be fluffy the next day. Bring this to a simmer, and you’re going to see at first, it’s going to go a little lumpy because the starches don’t hydrate fully evenly at once, but just keep whisking and it’s going to get really thick, really smooth, the texture of mashed potatoes. It’s getting thicker. Don’t stop just yet. O.K., see how it’s beginning to come off the sides of the pot? Ah, see how gluey it is? That’s good. If you take it off a little earlier, the dough is going to be really wet and hard to work with. And now, this has to cool. It’s really important for it to fully cool before you mix the dough. You can let this cool at room temp, but I’m going to cover it, pop it in the fridge, and then make pickles while I wait.” [LAUGHS] “Wow. O.K. All right, so these are just classic quick dill pickles. If you don’t have Kirby cucumbers, use whatever cucumber you have. These are great because they stay crisp. If you’re not into cucumbers, you could do anything else with this, like cauliflower, turnips, beets, apple. Whoa. I always trim off a little bit of this because I read that there’s some enzyme there that makes the pickles soft. So we’re going to quarter these. You can also do rounds, halves, wholes. Whoa. Whatever you’re feeling. Get crazy. If you do want to keep them whole, it’s probably going to take a little bit longer to pickle. And I’m not going to cut them all. I’m going to cut -- start with the small guys and then see how many more I need to pack the jar. Wow, this pickle has a story to tell. O.K. Let’s pack these and see where we’re at. You really want to go tight because you will be shocked by how much they kind of shrink from the pickling liquid. These are quick pickles because we’re using vinegar, but non-quick pickles, like the lactic acid pickles, you just cover it in a saltwater brine and it develops that acidity as the bacteria eats the sugars in the solution. There’s like room here. I think we are at capacity. For our brine, I’m going to toast the spices a little bit. Just a little toast. You can also make these spicy if you want to just like tuck a serrano in there. So you know these are toasted when it starts to get a little aromatic and you hear some mustard seeds pop.” [POPPING SOUNDS] “Can you hear that pop? O.K. Now we’re going in, water first just because if you put the vinegar in there, it’s going to go straight in your face. Vinegar. I’m using distilled white, but you can change this up with apple cider or whatever. So this is just like the most basic, the most classic pickle. So we want to just bring this up to a simmer, and then we’re going to pour it into the jar. O.K. So we have bubblage. I’m going to pour it into here just to help me pour because the mouth on that’s a little narrow. I just want to make sure the spices get in there. The longer it sits, the better. So I’m going to let this hang out on the counter and then once it’s cool, I’m going to pop it in the fridge. So now, we’re going to make gravy. This is a spicy mustard gravy because my favorite dipping sauce for McDonald’s chicken nuggets is spicy mustard. So it’s that in gravy form. So we’re going to start by making a roux and we’re actually going to use oil instead of butter. A lot of times, gravies use butter, but here, I found the butter kind of mellowed out the mustard flavor, and I really want the mustard to shine. So we want something more neutral. Traditionally, for gravy, you want the highest quality broth possible, but not with this gravy. It’s wild. I tried this with like really good, gelatinous brodo, and it just mutes the flavor of the mustard. So get, regular, low sodium boxed stock. Don’t get too fancy with this. We’re doing this over medium heat. We want these to get brown. So the first time I did this, it was an accident. I accidentally burnt them and it actually added so much flavor. So now, we’re going to intentionally burn it. I tried this with a few other mustards. I did like a combo, some grainy, some Dijon. I tried powder. But you want Colman’s mustard if you want that authentic McDonald’s taste. O.K., we have some light browning on our shallots. Now, let’s add our flour, and I’m going to switch to a whisk now just to avoid lumps. And our shallots are going to get really dark and our flour is going to get like, blond. We don’t want the flour to be too toasty because it kind of overwhelms the flavor of the mustard. The idea is everything we’re doing is to highlight the mustard. O.K., see our shallots, they’re getting darker. See how toasty they are? It’s starting to smell a little burnt. That’s what we want. Now, add your stock a little bit at a time at first. You just want to work out those lumps. If you add it too quickly, it’s very hard to work out the lumps after. And we are going to strain this, but it’s just better to just avoid the lumps. Oh, this is exactly like the tangzhong. Wow. It’s the gravy version. No matter what we’re having for Thanksgiving, I try to make the gravy in advance. And then if you’re doing like a traditional gravy, just add your drippings at the end. See how smooth that is? Look at that. No lumps. At this point, you can just add the rest of your broth and you will be lump-free. Color really adds to flavor. So in order to make this feel mustardy, I want it to be very yellow. So I’m adding a little bit of turmeric, but it’s just for color. I don’t want flavor. It’s going to be just a few minutes of simmering. We want it to thicken up a little. There’s no mustard, but it already looks mustardy, right? And we’re going to add salt at this point. Salt, pepper. You need to make sure this is well seasoned, otherwise that mustardy heat won’t come through. So you can see, coats the back of the spoon. I think that’s good. I’m going to add the mustard and then taste again for salt. I’m going to take it off the heat at this point. And I’m not going to go crazy with the seasoning because tomorrow, when I reheat it, I’m going to adjust the seasoning again. So now I’m just going to strain this and chill it. It would feel so annoying to get another container just for this little bit. And then I’m going to let this cool at room temp and then we’ll put it in the fridge. Ooh, it’s hot. Well done. We can do this. I think the tangzhong is ready now. We should bread. So this is nice and cool. Not quite like fridge cold, but room temperature. We’re going to add eggs, oil, sugar, salt, yeast and the rest of the flour. Mix it until it’s a coarsely textured dough. Three minutes, low speed. So I’m going to get started on the Mornay. This is for the sweet potatoes. Mornay is just cheese sauce. This is the base for mac and cheese. So we’re going to start by making another roux. That’s the theme of Thanksgiving. That’s the meaning of Thanksgiving. I think we figured it out. It’s roux. It’s interesting because now, this is like a totally -- we did a milk roux, we did an oil roux, and now we’re doing a butter roux. Wow. We’re seeing a little foaminess, then we’re going to add our flour all at once. Now, we don’t want any color on this flour. It starts out looking very yellow and it kind of lightens up. It gets nice and foamy, and I’m going to add my milk. And it’s exactly the same as when we made our gravy, a splash at a time. Every time I’ve made like a roux thickened sauce, someone in the comments is like, but Jacques Pépin, he adds all the liquid at once. He’s too skilled to know how to teach people well. Before you add every addition, make sure you mix it until it’s nice and smooth. And I’m not even using a whisk and it’s fine. And at this point, it’s safe to go for it. So you’ve just got to be careful with the first half and then dump it all in. Now, same deal as the gravy. Let it simmer for a few minutes to cook out that flouriness. So we’re just going to let this simmer a little bit and then we’ll finish it with the cheese and do our final seasoning tomorrow. Right now, it’s béchamel. When we add cheese, it’s Mornay. But either way, it’s delicious. Huh? Oh, I forgot the garlic! [GASPS]: I’ll add it now. O.K., guys. Whoops. This is just what happens when you multitask. But it’ll be O.K. But you were supposed to add the garlic to the roux, just briefly, right before adding the milk. Now we set this aside. O.K. Our bread needs a few more minutes. While it finishes up, I’m going to quickly prep the green bean salad. And what’s awesome about this is we don’t have to blanch our beans. We’re going to smash. We’re going to smash them and salt them, and you need them to sit salted for like at least four hours, six hours. And that salting kind of tenderizes it and makes it more pleasant to eat. If you don’t season this enough, they’re going to stay tough. They’re not going to break down. We’re putting this on undressed lettuce. So if this is aggressively seasoned, that’s fine. So toss it for a moment, but we’re going to pop this in the bag, pop it in the fridge, and we’ll finish it up tomorrow. But now, we’re going to make the dressing, but I feel like my dough won’t be ready for butter. And I forgot I was supposed to scrape it a couple of times. That feels firm. It feels elastic. You can see it’s like really stretchy now. I’m going to add half the butter mix, scrape, and then the other half of the butter. O.K. While that does its thing, we’re going to make our dressing for the salad. And this also, like the beans, it’s best to make this in advance because you want the shallots to pickle a little bit. Super easy. We’re just going to shake it up until that cranberry sauce dissolves. Tomorrow, I’m going to add some freshly squeezed lemon juice to this and some dried cranberries. Lemon juice can kind of get bitter if you squeeze it too far in advance, so we’re going to freshly squeeze our lemon juice tomorrow. Oh, wow. Perfect timing. That butter got incorporated, so I’m going to scrape again, add the rest of the butter. The beauty of the butterflake roll is the way it’s shaped. So you can use any favorite enriched bread dough that you make a lot. So it doesn’t have to be this one. You could do this with a challah or something that just has some butter in it. O.K., let’s test this. I think we’re there. Look at that. It’s not tearing. It’s falling off the hook. The final step in this recipe is you scrape the dough onto a floured surface and fold it a few times. I kind of got sick of doing that, so I just fold it in the bowl. If you were only making this bread, then yes, go all out and do it exactly as advised. But we got so much going on. O.K., we’re going to cover this. We’re going to let this prove at room temperature for 30 minutes, and then it’s going to go in the fridge and we will form it tomorrow. Wow. Let’s see how far we’ve come, yeah? The best part about making a list is crossing stuff off. Shall we make cake? So we’re going to make our pumpkin cake. It’s supposed to combine the best of both holiday pies. So the cake part is going to be a pumpkin cake with all those warm spices. And then on top, we’re going to put a sticky pecan topping. It’s going to be a sticky butterscotch with pecans on top. Everything you want. Everything you need. So I’m doing this in a 9 by 13. I love a metal pan because it’s going to make sure that the cake rises very evenly. I’m going to grease my pan just lightly, just so that the paper sticks. You could use a paper towel, but, you know, your hands are always the best tool. And then afterwards, you’ve just moisturized. All right, now for the batter. First, we’re going to whisk up our dry. So this is a really simple muffin method cake. You got your wet and you got your dry. I wanted to keep it as simple as possible. Cool. Now, the wet. We have room temperature eggs. I found the room temperature eggs just got a little bit more volume, and the final cake was a little bit more plush. If you forget to pull out your eggs, the easiest thing is to cover them with warm tap water while you mise out the rest of your ingredients. And by the time you’re ready for the eggs, they will be room temperature. This is dark corn syrup, but you can use any kind of corn syrup. And there is no substitute for the corn syrup. Oftentimes, when there’s a recipe with corn syrup, people always ask, can I use honey? Can I use maple? But just because they’re all liquid sugars, it doesn’t mean they’re the same. They’re actually completely different, and they work in completely different ways in your baked goods. And don’t worry, it’s not the same thing as high fructose corn syrup. -- thing that we need that is absolutely essential to this recipe. Corn syrup is pure glucose, so it never crystallizes. It makes things -- This is going to stay moist for tomorrow because of the glucose, because of that corn syrup. If you substituted this for honey, it would be so sweet. Am I going too far on a rant?” “No. Actually, this is what I want to hear.” [LAUGHS] “Because I’m fascinated by, like, why does it have to be corn syrup?” “It has to be corn syrup. If you want the benefit of sugar, that tender texture, but don’t want to increase the sweetness, you use corn syrup. People are like, can I use maple syrup? It’s like, no, dude. No, you cannot. All of it spikes your insulin. All of it’s bad for you. Use the one that’s good for the cake. I need to plug it in. So we’re going to whip this until it gets lighter. It’s going to get thicker. It’s going to hold the trails of the whisk. It’s going to take like five minutes. O.K. See how thick and fluffy that got? That’s because our eggs were at room temperature. While this is whisking, I’m going to slowly drizzle in my oil. O.K., cool. So to finish up this cake, I’m going to add the remaining dry and wet ingredients in batches. And you do that because if you add all the flour in at once, and then the pumpkin, you end up just mixing it a little bit too much to get it to evenly incorporate. So for pumpkin pie, I like to roast my own squash. But for cake, I always use the canned because with a cake, it can really throw things off. So the canned stuff is very consistent and it has that very recognizable pumpkin taste. I feel like the corn syrup thing’s like the MSG thing. So pour this in. All right, we’re going to spread this out. The main thing is making sure you get in the corners. I feel like the corners often get neglected. That looks good. We’re going to give it a quick tap. That’s just going to push up any big bubbles. Like that. Minimize some of our tunnelage. We’re going in the oven, 30 to 35 minutes. Now, we’re going to make the mashed potatoes. These potatoes are inspired by the mashed potatoes at Claim Jumpers. Nobody here has heard of it because I think it’s a West Coast thing, or maybe it’s a California thing. It’s like a gold rush themed restaurant and they have this mashed potato that I really loved as a kid. This is going to be a little bit chunky, a little reminiscent of potato salad, which is why I thought it would go well with our fried chicken meal. So we got two kinds of potatoes. The red skin is going to be a little bit waxier, and we’re going to leave the skin on and it’s going to give us a little texture in our mash. And the Yukon gold, they’re much creamier, and we’re going to peel these. Double the fun. I know none of you have heard of Claim Jumpers, but I promise it’s like real. And their mashed potatoes, they’re famous. Now, we’re going to start on high heat, bring it up to a boil, and then knock it back down to a gentle simmer. Otherwise, the potatoes can fall apart. Season generously. Potatoes, you always want to start cold. If you drop your potatoes into hot water, the outside is going to cook faster than the inside and you end up with a little graininess to your potatoes. Since we got a little bit of time while our potatoes cook, we’re going to prepare some of our beverage for tomorrow. There’s no official recipe for this. We’re just going with the vibes. O.K., so I want to make a punch. The moms who really want to level it up would put like a ring of ice to keep the punch cold. We’re going to do a cranberry punch, so I’m to freeze some cranberry juice. All right. I’m going to brew a bunch of tea. Strong tea is the key to a good punch. We want it to be a little bit bitter to help cut all the booze. We’re putting a lot of rum and whiskey in this, so I guess it’s not exactly like your mom’s punch. The potatoes still haven’t boiled. And I guess we’re going to make caramel next for the cake. While it’s warm, we’re going to make the caramel, because we want to pour it on while it’s still a little bit warm. Otherwise, it just kind of tears up the cake. So we’re going to use corn syrup again. It’s not really a caramel, it’s more of a butterscotch. So we’re not toasting the sugar at all. We’re just going to cook it until it vigorously bubbles. We want a really sticky, sticky sauce on top because I want it to remind you of pecan pie, that goopy topping. O.K., that’s good. So we’re going to turn this off and I’m just going to stir it a little just to cool it off, just a touch, before we add the vanilla. If you pour it on right away when it’s like super hot, it just like runs to the corners. You want the cake a little warm and the caramel a little warm. You don’t have to worry about it being totally even because it’s going to even out on its own, and we’re going to cover it all with pecans. If you can buy them toasted, that’s great. Otherwise, pop it in a 350 or 300 degree oven for like, maybe 10 minutes. Flaky salt. And then I’m going to let this cool just like 30 minutes. And then wrap this up with plastic. Leave it at room temp and it’ll be O.K. on the counter for a couple of days, if you want to make this in advance. All right, let’s check our potatoes. Make sure it’s totally tender. A lot of times, you mash potatoes and then afterwards, you realize the center was a little under. Mhm. O.K. You want to get as much of the water out as you can. And you want to pop this over low heat, the lowest your stove will go. And you want to just let this steam out for a couple minutes. We added a good bit of salt at the beginning, but we still need a little more salt. When you want really creamy, smooth mashed potatoes, you want to make sure that your cream and your butter is warm when you add it. But here, we’re doing the opposite. We don’t want that super, super smooth. We want some of the chunks to remain, so we’re adding cold milk and cold sour cream. I’ve got a cup measured out, but we’re going to start with just 1/2 a cup, and we just want to give it a very quick, a very gentle smash. I think I’m good. I don’t think I want any more milk. Very tangy from the sour cream. Now, if you’ve been to Claim Jumpers, tell me that doesn’t look like Claim Jumpers’ mashed potatoes. Now, we’re going to let this sit out at room temp for 30 minutes, cool down a bit and then pop it in the fridge. O.K. We’re in a good place. We finished our list for today and set up our drink, so tomorrow’s going to be really chill. We just got to finish some things off. We got to get the bread baking, the sweet potatoes, and then we can focus on the fried chicken because fried chicken is hard. Normally, I make fried chicken for just like four, but doubling it to eight, it’s a lot of frying. It’s a lot of splatter. It’s a lot of mess. So it’s great that we got all the hard stuff out of the way and we can just really focus on fried chicken.” “Any last words of wisdom?” “Order food tonight so you don’t have to cook now, again. [LAUGHS]: See you tomorrow. Welcome back. Today, we’re going to bring it all together. So the first thing I’m going to do is form and proof the bread, and then we’re going to bake our sweet potatoes. Those things take the longest and it’s nice to get them out of the way. And then after that, heat everything up and set up our fry station. I recommend that you start frying like an hour before your guests get here, so it’s still a little hot. But you could also just wait till your guests get here and make them fry. The choice is yours. So the bread has proofed overnight. Whoa. So I’m going to start by buttering up our tin. For a long time, I said that you have to use unsalted so you can control your salt, but I don’t know. I feel like it’s one of those things that people say and you just repeat and you don’t really think about it. And now, I’m like, hm. So I’m buttering the cups and the tops. Grab our dough. I need to divide this into two portions and you could use a scale. It’s about 550 grams, and I’m just going to eyeball it because you don’t really have to be too precise with this. I’m going to set aside half. I want to roll this out to a square just under a inch thick, and use your scraper to help keep it into a square. So you see, I’m like taking my time. I’m rotating it. I’m just going slow so I can get it really nice and even. Just gives you more opportunity to really get the shape right. O.K., let’s see where we’re at. It’s a little thinner than a quarter inch, a little wider than 11. That’s fine. That’s good. So I’m going to brush this generously with butter. Because our butter is a little cool, it’s going to solidify on this cool dough. It’s practically softened butter, not really melted. All right. So now, we’re going to cut this into six. I divided the dough in half, and each half is going to turn into six rolls. O.K., we got our strips, and now we just stack them. And now, we’re going to divide this into six. As you cut each one, pop it right into your muffin tin and you want that cut side, those flaps, sticking up because when they bake, it’s going to flake open. It’s almost like a laminated bread, but a very easy hack. And it doesn’t matter if it’s precise or not. It bakes up so cute no matter what you do. We’ve got our rolls and now, we need to let this proof until they get a little bit puffy and ballooned. It could be as little as 30 minutes or as much as an hour and a half. So just keep an eye on it. I’m just going to take a little water just to create a little moist environment. I’m just going to put it next to the oven. So now, I’m going to roast my sweet potatoes. These are going to get blanketed in that Mornay that we started to prep yesterday. Roasting them takes like 40 to 50 minutes. So it’s a good thing to get done early. These have already been scrubbed because we’re going to roast it with the skin on. And I was really inspired by mac and cheese for this. So we’re going to season it up with the same things that I like to put in my mac and cheese. So a little onion powder, garlic powder, smoked paprika and some cayenne, and generously season with salt. And then we’re just going to toss this to coat as evenly as you can. It kind of gets like chunky from the butter, but it’ll be O.K. Hands are the best tool, especially when you got something weirdly shaped. I’m sorry. I’m not trying to body shame the sweet potatoes. And now we’re going to put it in whatever dish you can snugly fit it. And I’m going to just scrape all this excess butter and seasoning right on top. So I’m going to wrap this in foil and then bake it at 425, until the potatoes are really tender, between 40 to 55 minutes. Now, we fry chicken. Yeah? Before you get frying, it’s really important to get your setup. Once you get frying, you don’t want to run around looking for a sheet tray to land on or paper towels. You want to stick close to the oil. So I’ve got a sheet tray with paper towels where I’m going to first drop my chicken when it’s right out of the fryer. And then we’re going to go onto a rimmed baking sheet set with a wire rack so the bottom doesn’t just steam and get soggy. So I love to fry in either a Dutch oven or cast iron. It’s going to hold the temperature much more consistently. If your oil temp drops too much, the crust is going to absorb a lot of fat and it’s going to get very greasy. I have a candy thermometer here, but I’m also going to keep an eye on it with a digital because I have trust issues. I’m going to put this on medium high. We’re using peanut oil. I know oftentimes you want to reach for canola or vegetable. And even though it technically does have a high smoke point, they’re really unstable fats and will very quickly break down and develop off flavors. My favorite fat to fry in is actually an algae oil. It’s like the new cool oil in town. There’s a couple brands that make it. It is very expensive, but it makes the crispiest chicken and the fat is very, very stable so you can strain it and reuse it. You know what’s really good to fry in? Animal fat. So if you really want to have a party, get a bucket of lard. I really want this seasoning to taste like stuffing. And I found that the key to make something taste like stuffing is sage and chicken bouillon. So that’s what’s going in my seasoning. We’re starting off with a whole bunch of dried parsley. I’m going to use my fingers to really crumble it up. I’m also going to crumble in some dried sage. I feel like when I smell sage, I’m like, whoa, Thanksgiving. I’m just going to pull out these stems. O.K., I’m keeping an eye on my oil because when we hit 275, we’re going to fry some sage leaves. I got my parsley and dried sage. Now, to this, chicken bouillon. Let me tell you, it will instantly taste like stuffing. We got a little garlic powder, cayenne, black pepper, a little bit of sugar. It’s going to really help balance all the flavors, and a touch of MSG. And I’m going to sprinkle this onto my chicken as it comes out of the fryer. Because we have a lot of salt from the bouillon, we don’t need to season with more salt. O.K., so here, I have some 00 flour. It makes it extra crispy and more importantly, less greasy. But I get it. It’s like a specialty ingredient that you might not be able to find, so you can totally use AP. And I’m going to season this with a couple teaspoons of salt. And that’s it. I’m not going to put any spices in there, because I’m going to add my spices on top. O.K. I think everything is ready. We can grab our chicken. O.K. So when it’s at 275, I want to fry some sage leaves. This one says 275. That’s what I’m going to go with. So let’s drop it in. Now sage tells you when it’s done frying, so it’s really bubbly and loud right now because it’s got a lot of moisture. And you know it’s going to be nice and crisp when it starts to quiet down. Some have gotten quieter before others, so just scoop those out. And it might not be crisp right away, but as long as the bubbling has subsided, once it gets cool, it’ll be crisp, because we’re going to crumble this on top of our finished fried chicken. Anytime anything comes out of the fryer, don’t forget to season, so a little bit of salt. We don’t need much. My ideal fried chicken is Popeyes, and what I love about it are the little craggily, crunchy little bits. And so the key to making that happen is you want to prime your flour with a little bit of the brine to create these little clusters. You get these really big cluster bits that fry up and get really craggily and really crisp. This one says 315. This one says 325. That’s what I’m going to go with. You’re going to have a wet hand and a dry hand. Wet hand, drop it in, and then you’re going to bury the chicken, and press. Really, really get in there and press, and that’s going to make sure we get those nice craggly bits. Then pull it out and tap off any loose flour. See that? See those shreds? That’s my favorite part. That’s what you want. That’s how you get that Popeyes texture. And don’t be afraid to get close to the fire. I know it can be scary, but it’s dangerous when you plop from far. So you’ve got to get brave. It’s not going to jump up at you. And you can’t really do this with tongs because you’re going to end up pulling off that coating. And we are going to try and get it skin side down. The drums don’t really have -- it’s skin on both sides. But for the thighs, make sure you go skin side down. The side that’s hidden at the bottom on the first fry, before you flip, is going to be the pretty side. And we’re going to crowd the pan, and that’s going to be O.K. When we get this pan full, it might drop about 50 degrees, and that’s O.K. Don’t crank it up immediately. The temp will slowly come back up. You don’t want the temp to exceed 325 or get below 250. Don’t get in there and start poking and flipping. Just let it do its thing. It’ll be O.K. When you start to see a lot of color happening, that’s when we flip. See how we’re getting a little dark here? I think the first piece might be ready to flip. Also, I dropped everything clockwise and then in the middle, so I know which order, which guy went in there first. Are you ready? Yes, you are. Look at that, nice golden brown. I love when the chicken makes contact with the bottom of the pan and you get these extra mahogany bits. It’s my favorite part. So I’m hitting 325, so I’m dropping the temp just a little bit because I want to make sure I don’t get over. O.K. Successful flip. We didn’t lose any crust. Frying is not scary. I feel like people are scared of frying. The oil has to get to like 450 degrees before it explodes, but there’s a lot of signs. It’s going to start smoking. If anything happens and you do feel like your oil is getting really hot and smoking, turn off the heat and put a lid on it. With dark meat, fried chicken, especially if it’s been brined, I really like to go for 185. I know that seems really high, but there’s a lot of connective tissue and fat that you want to render out, and it doesn’t really begin until after 175. But we’ve brined it. It’s not going to be dry. And something about fried chicken inherently, it’s very hard for it to be dry because all the moisture is sealed in that crust. Let’s check one piece. This first guy. It’s 190. We’re good. So I’m going to evacuate this round of chicken. Before I do that, I’m going to turn off the heat because an empty pot of oil can get hot really fast. You’ll be so surprised. So I’m not going to turn the heat back on until I start dredging and putting in the next round. And now, we will transfer to the rack. So now, while it’s hot, let’s season it up. Be generous. And I’m going to flip it, get both sides, because we don’t want one-sided tasting chicken. Don’t be shy with this. This is what makes it Thanksgiving. Pluck out these big chunks, because if they stay in here, it might burn. O.K., our rolls are ready to bake. I’m going to give them a quick egg wash and pop them in the oven. 350 degrees, till they’re nice and golden.” [MUSIC PLAYING] “They have softened. All right. We can take our potatoes out. I’ve got my second final batch of chicken frying, and my rolls are in the oven. They’re just a couple minutes away. The chicken looks good. Chicken looks good. I think everything’s going to be fine. But you know, there’s always a little anxiety when you’ve got to put a whole bunch of things on the table at once. But that’s what I love about fried chicken. I think it’s better at room temp, so you don’t have to stress too much. Actually, the first thing I’m going to do, after getting those rolls out, is we’re going to make punch and I’m going to start drinking punch. It’s going to make the rest of the process so much smoother. You can see the layers of the bread. As it baked, it just like opened up and we’re going to have these really delicious pull apart rolls. And now, while it’s still warm, just drench it. Drench it in butter. It’s going to soak up in between those layers. And then, I think our chicken is ready to flip. Wow, what timing.” [MUSIC PLAYING] “All right, finish it up. Lemon zest. This was a last minute addition, and it ended up being Ham’s favorite bit because the lemon really brightens the whole thing up, and we’re going to crumble over our sage leaves. Ooh, extra sagey. So much sage, right? Our chicken is totally ready. We’re going to make punch, I’m going to drink punch, and then we’re going to heat everything up. So I’m going to start partying before everyone gets here. O.K. This is the most exciting part of the day. I don’t have a recipe, I just do it by taste. Just mix it until it’s good. So I love doing a batched cocktail whenever I have friends coming over. It’s just so stressful to try and mix drinks while people are here. You could even batch a Martini. You really can batch anything. And then also, I’ll have wine for the people who are classy. I love making punch. And then you just taste and adjust and keep going until it’s delicious.” [MUSIC PLAYING] [LAUGHS] “It needs a little help. [LAUGHS]: Let’s add some tea. Oh, it’s like -- it’s really hot. Can I do a series where I just make batched drinks poorly?” “No recipes.” “No recipe. So I’m going to make my own punch. Ooh! Oh, wow. Whoa! It’s like, magically, everything appears. That’s for me. And we’re going to do a simple NA one, which is just going to be iced tea with cranberry. Oh, that’s good. O.K., cool. Let this chill, and we’re going to get everything warmed up, and myself. Ooh, wonderful. Plate up our pickles. They look like pickles. Isn’t that cool? If you’ve never made pickles, I do think it’s very exciting. You’re like, whoa. So this is the bechamel we made yesterday. It’s thick, and that’s exactly what we want. So that’s going to get going. And we got our gravy that you can see has been put into two containers. I did not do that. It was against my will. There you go. See, it fits. You can’t seal it, but it’ll be O.K. Just plop. Very satisfying. Mashed potatoes. So we’re going to get those in a smaller container so we can microwave it, and then get in there and stir two minutes. Mornay, slowly melting. O.K., so the salad, if you take a look, the colors changed. It’s more like bright green, almost as if you cooked it, just from hanging out with salt. So we’re going to finish up our dressing with lemon juice, olive oil and some dried cranberries. Wow. So we’re going to add our dressing right into the bag and shake it up. Toss it around. There’s so much dressing on the beans that we don’t need to dress our leaves. We got really nice little gem lettuce. Hi, potatoes. I’m returning for you. Oh god. Panic. There’s always panic at the end. We’re definitely going to need that milk. So I’m going to go ahead and add it now, and then we’ll see if we need more after we continue to zap it. O.K. Let’s see. We might need a little splash of milk here. Not a lot, because we really don’t want this to get too thin. Salad, let’s return. So add a little bit of beans to the cup of every lettuce, just like that. You can play this up like a couple hours before and just throw it in the fridge. Just keep layering, tower of salad. And then right when people sit down, we’re going to shower it with our French’s French fried onions. You want to hold off on that because it will lose its crunch. Let’s get this Mornay taken care of. This is where you want it, really nice and thick. This is like just enough Mornay to hold the cheese. You know what I mean? It’s really about the cheese. If you just scattered it with cheese, you want to take a step out of it. Go for that. But this kind of makes it feel a little bit more luxurious. There’s no cheese left behind, guys. Now, the main thing today, since we got a lot going on, you don’t want to get distracted and not taste things. Mm. It needs salt. There we go. It’s getting smooth. The cheese is melted. Now, we’re going to drape this over our potatoes. Make sure you hit every potato, and then go back with more. I’m going to get everything else ready before broiling because this is going to be fast. All right, so let’s taste this. Definitely needs more salt, and more pepper. Maybe a bit more milk too. I think, three more minutes, and we’ll be there. O.K., what’s next? Let’s put our rolls on the platter. Whoa. O.K., fried chicken time. Hey, buddy. Did you know you’re a star? Look at that. Come on, I think that’s more fun than a platter of turkey. O.K., they’re both fun in their different ways. Everybody can be fun. O.K., our gravy is a little thick. I’m going to thin her out, but not get too distracted and let my sweet potatoes burn. Mm. O.K. That’s what we want to see. Really nice and puffy and blackened. Oh yeah. Don’t be afraid of letting it go dark. It’s not going to be bitter. It’s just going to really bring out the flavor. And because we didn’t just put cheese on top, we mixed it into that bechamel, it’s not broken or greasy. Now, as you can see, our potatoes are hot. And now, we’re going to just stir in our scallions. Save a little for the top for a pretty, you know. Ooh, potatoes. Make it look swoopy. Wow. Whoa. Huh? All right. So, our cake. Now, if de-panning stresses you out, just like, don’t. Just cut it into pieces. Oh no. Oh no, you’re cracking. Come on. The caramel kind of crumbled. If this happens to you, don’t worry. There’s so many pecans, no one will know. Either way, if you get a nice gooey, sticky topping, or if it’s a little bit more stiff like this, it still tastes good. So just don’t tell people what it was supposed to be. You don’t apologize. You pretend like it’s correct. Just be confident. If your potatoes are cold, just call it potato salad and move on with your life, and pour people more punch. And I guess we are ready. We just have to set the table and we’re ready to go.” [MUSIC PLAYING] “Come, gather around, guests. Let’s eat.” “Thanksgiving, 2024!” “This is gorgeous.” “Happy Thanksgiving.” “And this is the highest compliment I could ever give you. It looks like Popeye’s.” “That was the goal. That’s the inspiration. Yeah, I love Popeye’s.” “There’s fried sage. What else is on this chicken?” “It’s like stuffing-flavored chicken, so it’s seasoned with sage and chicken bouillon. And I recommend squeezing lemon as you eat it.” “Mm!” “The sweet potato has nice spices in it.” “Oh my, these taters.” “Mhm.” “The sweet potatoes are covered in Mornay and they’re seasoned with stuff you would put in mac and cheese, so like garlic, chili, paprika. The salad is inspired by green bean casserole, so it’s smashed green beans with a cranberry vinaigrette.” “There were green beans under there?” “Wait, do you not have green beans?” “No.” “It’s a green bean salad.” “No, I don’t have that many green beans.” “This is so much more flavorful than the Thanksgiving that I make.” “So I like these because I like to make a sandwich. So take a little mustard gravy, a little lettuce, a little chicken, and then, make a sandwich.” “You’re like a mad scientist.” “This is so good.” “This is so good.” “Like, doing it like that is genius.” “So this is a pumpkin spice sheet cake with pecan and caramel on top.” “It’s the best of pecan pie, saccharin as hell. And that’s how I like it. And the best of a cake.” “It is really balanced. And I like how salty the pecans are.” “Thanks for coming to the fried chicken Thanksgiving. And if you want these recipes and more, head over to New York Times Cooking. Cheers!” “Cheers!” “Cheers!” “Cheers! Oh, this was so fabulous. Thank you so much.” “Thanks for coming.” [MUSIC PLAYING]",
+        "uploadDate": "2024-11-25T21:51:42.000Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000009819504/Sohlas-Fried-Chicken-Thanksgiving-Video.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-11-13T00:00:00.000Z",
+      "dateModified": "2024-11-25T22:21:51.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FeliciaM"
+          },
+          "reviewBody": "Came out exactly as described in the video. Used the 00 Italian flour and was watchful to start temp at 325 and not get below 275. Cooked perfectly. Stayed crisp for hours, juicy, perfectly seasoned inside and out. It was a revelation, first homemade fried chicken that was better than what I’ve had at restaurants. The herb seasoning a big part of the revelation, can never have fried chicken without it. Would love variations on the seasoning.",
+          "datePublished": "2025-04-02T22:43:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul"
+          },
+          "reviewBody": "I followed this recipe precisely and I will say it's exceptional. I did a half batch for just the two of us and we absolutely loved it. It helps we're both fans of fried sage and have it growing all the time, and that completes this recipe. This would be great even if you don't have fresh sage to fry. I can't wait to make this for Thanksgiving. I don't care for turkey, and most of our guests don't usually, so how excited will they be for fried chicken next November!?",
+          "datePublished": "2025-04-01T04:31:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "S. Harvey"
+          },
+          "reviewBody": "I made the dish without msg and couldn’t tell I actually brined the chicken. With such a small amount of salt in the brine it did nothing for the chicken flavor. How about suggesting a different amount of salt if not using msg? (Who has msg lying around?)",
+          "datePublished": "2025-03-20T15:11:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hope"
+          },
+          "reviewBody": "I typically don’t eat fried food through out the year. So, this recipe was new and exciting to make for the holidays! My husband and I typically enjoy none traditional proteins (duck, lamb, or ribs) for the holidays so fried chicken was perfect. Instead of the salt water brine, I used buttermilk and fried the chicken in sunflower oil. It was SO juicy, then skin was crispy and crunchy. Best idea ever!",
+          "datePublished": "2025-01-05T20:57:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "OlyCooker"
+          },
+          "reviewBody": "Delicious. Will reduce sugar in brine next time and change up the sprinkle seasoning to fit the mood.",
+          "datePublished": "2024-12-27T02:58:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JakeMW"
+          },
+          "reviewBody": "First time I've tried frying anything. I was always scared of handling the oil but Sohla's video gave me an extra boost of courage. The temperatures and times worked out exactly as scripted. The chicken was crispy on the outside with lots of tasty craggy bits. Inside was juicy, well-seasoned, and flavourful. By far - BY FAR - the best fried chicken I've ever had. I'm a longtime Sohla fan and this recipe was truly next level - both in deliciousness, and in making the technique accessible.",
+          "datePublished": "2024-12-26T04:40:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diane"
+          },
+          "reviewBody": "I made this for the night before Thanksgiving and then tonight I modified it by using skinless chicken breasts that I cut and pounded so they would all be roughly the same size.  Total success both times—especially thanks to being able to watch the video and absorb the counsel about how to anticipate and carefully respond to the temperature.  I feel like a cooking genius!!!!!  I’m going to make this when we get together with friends at a rental house next summer.  Thank you so much Sohla !!!!!!",
+          "datePublished": "2024-12-20T00:48:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bittenbyknittin"
+          },
+          "reviewBody": "Used cooking oil should be taken to your local Tox-away site.",
+          "datePublished": "2024-12-19T21:56:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brian"
+          },
+          "reviewBody": "Big mistake not using baking powder to cut the flour. Makes a huge difference in the crust. I've been doing fried chicken turkey for years at Thanksgiving by combining Samin Nosrat's buttermilk turkey recipe with serious eats fried chicken recipe. Highly recommend.",
+          "datePublished": "2024-12-06T19:18:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andre"
+          },
+          "reviewBody": "With the skin, the chicken is juicier; without the skin, it has a slightly more delicate flavor and is less fatty - I prefer the second option.",
+          "datePublished": "2024-12-03T18:27:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "EN"
+          },
+          "reviewBody": "Made this for Thanksgiving and it was excellent. Brined for a bit more than 24 hours, and the meat was juicy and tender with a crispy, flavorful breading. We used an induction cooktop to keep the temperature consistent, which worked very well. Would make this again!",
+          "datePublished": "2024-12-02T06:19:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alexandra"
+          },
+          "reviewBody": "I made these without MSG (because of a dietary restriction) but followed the recipe to a T otherwise. Be aware that the cayenne pepper level may be aggressive for children or spice-averse adults, but I loved it. It was my first time frying chicken and I made these for Thanksgiving instead of a Turkey: HUGE HIT! We will be repeating this recipe for Christmas.",
+          "datePublished": "2024-12-01T21:55:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lesley"
+          },
+          "reviewBody": "@Nancy R same! Made it for Thanksgiving and it was perfect and delicious. Everyone raved. Her instructions and the video was invaluable. I set up a fry station just as she did and had zero trouble.",
+          "datePublished": "2024-12-02T01:24:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy R"
+          },
+          "reviewBody": "I made this and it was delicious!  I followed every step to the letter, and also made some tenders too.  Everyone loved it.",
+          "datePublished": "2024-12-01T01:28:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patty Butler."
+          },
+          "reviewBody": "Phenomenal. I’ve never deep fried before. Recipe is fantastic. Will make for friends Birthday.",
+          "datePublished": "2024-11-30T23:34:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brian."
+          },
+          "reviewBody": "OMG!  That chicken was so much fun to make, especially with Sohla’s reassuring presence on the video next to me. A I went through what would otherwise be a scary frying process, Sohla calmed me down so I could enjoy it!",
+          "datePublished": "2024-11-30T19:16:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ChrisK"
+          },
+          "reviewBody": "\"To serve, crumble over the fried sage leaves\" EDIT: To serve, crumble the fried sage leaves over the chicken. (I've never tried to crumble fried chicken, but it sounds tough!)",
+          "datePublished": "2024-11-14T16:31:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Georgia Burg"
+          },
+          "reviewBody": "This sounds brilliant. I dislike turkey because of its taste and love great fried chicken like what I grew up eating. Pray tell how do you discard all that oil after cooking? I can handle the messy frying cooking. Thank you",
+          "datePublished": "2024-11-14T12:55:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Virginia"
+          },
+          "reviewBody": "Can the recipe be adapted for white meat/breasts?",
+          "datePublished": "2024-11-14T16:41:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chioeke"
+          },
+          "reviewBody": "Clean and return oil to container and reuse. <a href=\"https://www.seriouseats.com/clean-cooking-oil-with-gelatin-technique\" target=\"_blank\">https://www.seriouseats.com/clean-cooking-oil-with-gelatin-technique</a>",
+          "datePublished": "2024-11-14T15:32:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Claudia Ruíz Wiske"
+          },
+          "reviewBody": "I am from SoCal, I smiled when you mentioned Claim Jumper! Remember their chocolate cake? I always wanted to try it! Can the chicken be made a day ahead for a large party? If so, how would you reheat?",
+          "datePublished": "2024-11-14T15:02:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patricia Chartier"
+          },
+          "reviewBody": "@ChrisK thanks! Made me laugh and that is tough these days.",
+          "datePublished": "2024-11-14T17:21:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael Giuseffi"
+          },
+          "reviewBody": "How about adjustments for using breasts?",
+          "datePublished": "2024-11-14T16:34:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KC"
+          },
+          "reviewBody": "If trying to do ahead, would this recipe work if you dredged and flowered all pieces first and left in the fridge for an hour or until ready to fry?",
+          "datePublished": "2024-11-14T14:43:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rachel"
+          },
+          "reviewBody": "@Georgia Burg you might want to try Fry Away. It’s plant based and you mix it into the hot oil. As the oil cools it becomes a solid so you can throw it out in the garbage. I get mine on Amazon but am sure you can get it from a ton of places.",
+          "datePublished": "2024-11-14T16:08:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrea"
+          },
+          "reviewBody": "If you use kosher chicken, it has already been brined (soaked and salted), eliminating a lot of time.",
+          "datePublished": "2024-11-14T17:43:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jean Jasinski"
+          },
+          "reviewBody": "Pour it back into the bottle after it's cool, cap, and discard.",
+          "datePublished": "2024-11-14T15:44:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joan"
+          },
+          "reviewBody": "Hi Lee, you can buy it in the spice aisle in your grocery store under the name \"Accent.\" It was my Mom's secret ingredient in her delicious Italian salad dressing.",
+          "datePublished": "2024-11-14T18:44:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MLH"
+          },
+          "reviewBody": "This recipe is fantastic! I'm not sure what exactly made it turn out to be the best fried chicken I've ever made, but it was. I left out the msg, used salt instead of the chicken bouillon powder, brined just thighs (opted to forego drumsticks) for 48 hours because I needed to cook it a day later than anticipated, but otherwise made it exactly. My guy is a fried chicken fanatic and he was very, very happy with how this turned out.",
+          "datePublished": "2024-11-18T19:38:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Willy"
+          },
+          "reviewBody": "Most restaurants have an oil disposal bin out back.  They are paid by processing companies to have it picked up, so they shouldn't have any problem with you dumping yours in their bin, as they make money off of it.  Just be sure to ask the manager beforehand out of courtesy.",
+          "datePublished": "2024-11-14T15:27:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fay"
+          },
+          "reviewBody": "As a food safety person, the idea of adding previously used chicken brine to the flour grossed me out. Recommend reserving some brine before adding the chicken during the marinating process. Otherwise, looks amazing!!",
+          "datePublished": "2024-11-22T22:16:01.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026010-crispy-sage-fried-chicken",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Sohla El-Waylly"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "This juicy, crispy, vaguely-tastes-like-Thanksgiving fried chicken makes an exciting stand-in for the usual turkey. The recipe takes every step to maximize moisture and flavor, so no dry poultry arrives at your table, holiday or otherwise: Start with bone-in, skin-on chicken legs, submerge the pieces in a brine for at least 24 hours, fry low and slow to allow all the fat and connective tissue to render and finally, shower over a boxed stuffing-inspired seasoning. As an optional touch, dredge the chicken pieces in Italian 00 flour instead of all-purpose — its ultra-fine texture makes the crust simultaneously extra crispy and less greasy.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Crispy Sage Fried Chicken",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/4a09cd42-df1a-52b8-8812-e06f35757f2a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2024-11-17T17:49:35.786Z",
+          "datePublished": "2024-11-13T17:33:10.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-13T17:33:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/4a09cd42-df1a-52b8-8812-e06f35757f2a#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2024-11-17T17:49:35.786Z",
+          "datePublished": "2024-11-13T17:33:10.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-13T17:33:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/4a09cd42-df1a-52b8-8812-e06f35757f2a#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2024-11-17T17:49:35.786Z",
+          "datePublished": "2024-11-13T17:33:10.000Z",
+          "height": "1801",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-13T17:33:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/11/14/multimedia/SEW-skillet-fried-chicken-pan-wlzc/SEW-skillet-fried-chicken-pan-wlzc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026010-crispy-sage-fried-chicken"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:04:03.383Z",
+  "scraping_status": "scraped"
+}

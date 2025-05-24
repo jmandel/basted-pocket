@@ -1,0 +1,296 @@
+{
+  "id": "4815e37e8b0ccf2a",
+  "original_url": "https://www.maangchi.com/recipe/nokdu-juk",
+  "canonical_url": "https://www.maangchi.com/recipe/nokdu-juk",
+  "fetched_title": "Mung bean porridge (Nokdu-juk: 녹두죽) recipe by Maangchi",
+  "main_text_content": "Today let&#039;s make an easy, delicious, hearty and super-nutritious recipe for mung bean porridge called nokdu-juk (녹두죽)! The mild, smooth, and soft porridge is not only...",
+  "main_html_content": "<h1 class=\"entry-title mega-heading\">Mung bean porridge</h1><h2 class=\"entry-title mega-heading-translation\"><span class=\"romanized-name\">Nokdu-juk</span> <span class=\"korean-name\">녹두죽</span></h2><p class=\"author vcard postedby\">By <a href=\"/about\" rel=\"author\"><span class=\"fn n nickname\">Maangchi</span></a></p><p class=\"postdate updated\">Updated on October 29th, 2021</p><div  class=\"rmp-widgets-container rmp-wp-plugin rmp-main-container js-rmp-widgets-container js-rmp-widgets-container--71167 \"  data-post-id=\"71167\"><div class=\"rmp-rating-widget js-rmp-rating-widget\"><div class=\"rmp-rating-widget__icons\"><ul class=\"rmp-rating-widget__icons-list js-rmp-rating-icons-list\"><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Not at all useful\" data-value=\"1\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Somewhat useful\" data-value=\"2\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Good recipe\" data-value=\"3\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Great recipe\" data-value=\"4\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"The besttt!!!\" data-value=\"5\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li></ul>",
+  "publication_date": "2017-01-27T00:08:12+00:00",
+  "author": "Maangchi",
+  "key_image_url": "https://i.ytimg.com/vi/jdDBBTdc_-I/maxresdefault.jpg?meta=og:image",
+  "local_image_path": "scraped/4815e37e8b0ccf2a/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "/recipe/nokdu-juk#sso/recipe/71167",
+          "@context": "https://schema.org",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.maangchi.com/recipe/nokdu-juk",
+          "url": "https://www.maangchi.com/recipe/nokdu-juk",
+          "sameAs": [
+            "https://www.maangchi.com/?p=71167"
+          ],
+          "name": "Mung bean porridge (Nokdu-juk: 녹두죽)",
+          "description": "Today let&#039;s make an easy, delicious, hearty and super-nutritious recipe for mung bean porridge called nokdu-juk (녹두죽)! The mild, smooth, and soft porridge is not only comforting but also nutty and filling. Korean cuisine has a lot of different kind of porridges (in Korean:죽 juk), and I showed...",
+          "aggregateRating": {
+            "@id": "/recipe/nokdu-juk#sso/recipe/71167/rating-aggregate/5/300/1/5"
+          },
+          "image": [
+            {
+              "@id": "https://i.ytimg.com/vi/jdDBBTdc_-I/maxresdefault.jpg?meta=og:image#sso/image-object"
+            }
+          ],
+          "video": [
+            {
+              "@id": "https://www.youtube.com/embed/jdDBBTdc_-I#sso/video-object"
+            }
+          ],
+          "publisher": [
+            {
+              "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+            }
+          ],
+          "headline": "Mung bean porridge (Nokdu-juk: 녹두죽)",
+          "keywords": "dried mung beans soup, 녹두죽, Korean cooking, Korean cuisine, korean food, Korean kitchen, Korean porridge recipe, Maangchi recipes, mung bean and rice porridge, mung bean porridge, nokdu-jook, nokdu-juk, nokdujuk, split mung bean soup, vegan food, vegetarian",
+          "isFamilyFriendly": true,
+          "inLanguage": "en_US",
+          "datePublished": "2017-01-27T00:08:12+00:00",
+          "dateModified": "2021-10-29T20:48:32+00:00",
+          "author": {
+            "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+          },
+          "thumbnailUrl": "https://i.ytimg.com/vi/jdDBBTdc_-I/maxresdefault.jpg?meta=og:image",
+          "commentCount": 1,
+          "comment": [
+            {
+              "@id": "/recipe/nokdu-juk/comment-page-1#sso/comment/45344"
+            }
+          ],
+          "recipeCuisine": "Korean",
+          "recipeCategory": "Main dish",
+          "recipeIngredient": [],
+          "recipeInstructions": [
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 1
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 2
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/nokdu-juk#sso/recipe/71167/rating-aggregate/5/300/1/5",
+          "@context": "https://schema.org",
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "ratingCount": 300,
+          "worstRating": 1,
+          "bestRating": 5
+        },
+        {
+          "@id": "https://i.ytimg.com/vi/jdDBBTdc_-I/maxresdefault.jpg?meta=og:image#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://i.ytimg.com/vi/jdDBBTdc_-I/maxresdefault.jpg?meta=og:image",
+          "alternativeHeadline": "Mung bean porridge (Nokdu-juk: ë¹ëì£½)",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1280",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1280"
+        },
+        {
+          "@id": "#sso/qv-height-px-720",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "720"
+        },
+        {
+          "@id": "https://www.youtube.com/embed/jdDBBTdc_-I#sso/video-object",
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "url": "https://www.youtube.com/embed/jdDBBTdc_-I",
+          "name": "Mung bean porridge (Nokdu-juk: ë¹ëì£½)",
+          "description": "Today let's make an easy, delicious, hearty and super-nutritious recipe for mung bean porridge called nokdu-juk (ë¹ëì£½)! The mild, smooth, and soft porridge is...",
+          "embedUrl": "https://www.youtube.com/embed/jdDBBTdc_-I",
+          "encodingFormat": "text/html",
+          "duration": "PT7M46S",
+          "uploadDate": "2017-01-27T00:00:00+00:00",
+          "thumbnailUrl": "https://i.ytimg.com/vi/jdDBBTdc_-I/maxresdefault.jpg?meta=og:image",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ],
+          "keywords": "mung bean porridge, nokdujuk, ë¹ëì£½, nokdu-juk, mung bean and rice porridge, Korean porridge recipe, vegan food, vegetarian, dried mung beans soup, split mung bean soup, Korean food, Korean cooking, Korean cuisine, Korean kitchen, Maangchi recipes, nokdu-jook"
+        },
+        {
+          "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person",
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "url": "https://www.maangchi.com",
+          "name": "Maangchi",
+          "description": "Author archive page for Maangchi.",
+          "image": [
+            {
+              "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object"
+            }
+          ]
+        },
+        {
+          "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-1200"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "#sso/qv-height-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png",
+          "identifier": "93971-wpsso-schema-4x3",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-900"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-900",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "900"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png",
+          "identifier": "93971-wpsso-schema-16x9",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-675"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-675",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "675"
+        },
+        {
+          "@id": "/recipe/nokdu-juk/comment-page-1#sso/comment/45344",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/nokdu-juk/comment-page-1#comment-45344",
+          "name": "Comment by wulfferine on March 8, 2017",
+          "description": "Anyone make this in a pressure cooker? How much time?",
+          "text": "Anyone make this in a pressure cooker? How much time?",
+          "dateCreated": "2017-03-08T00:42:38-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "wulfferine"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "5",
+        "ratingCount": "300",
+        "ratingValue": "5"
+      },
+      "image": "https://www.maangchi.com/wp-content/uploads/2017/01/nokdujuk-insta-620x620.jpg",
+      "name": "Mung bean porridge (Nokdu-juk: 녹두죽)",
+      "description": "Mung bean porridge (Nokdu-juk: 녹두죽)"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:38:20.076Z",
+  "scraping_status": "scraped"
+}

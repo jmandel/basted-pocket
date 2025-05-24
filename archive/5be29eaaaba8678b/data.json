@@ -1,0 +1,554 @@
+{
+  "id": "5be29eaaaba8678b",
+  "original_url": "https://cooking.nytimes.com/recipes/1026659-chile-lime-crispy-rice-with-roasted-vegetables",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026659-chile-lime-crispy-rice-with-roasted-vegetables",
+  "fetched_title": "Chile-Lime Crispy Rice With Roasted Vegetables Recipe",
+  "main_text_content": "Cool-weather eating can mean heavy flavors and dishes that rely on richness to wake up your palate This recipe makes a sharp left by combining sweet, caramelized vegetables with an ultrabright, spicy dressing and unexpected pops of crunch and chew from skillet-crisped rice Serve as is, or toss in chopped peanuts, cooked shrimp, ground pork or shredded chicken for added protein.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1023639-roasted-brussels-sprouts-with-honey-almonds-and-chile\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2022/11/16/dining/09VEG-THANKSGIVING-roasted-brussels-sprouts-almonds-chile/merlin_216141240_56918815-1c23-455e-a9f6-323014185601-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2022/11/16/dining/09VEG-THANKSGIVING-roasted-brussels-sprouts-almonds-chile/merlin_216141240_56918815-1c23-455e-a9f6-323014185601-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2022/11/16/dining/09VEG-THANKSGIVING-roasted-brussels-sprouts-almonds-chile/merlin_216141240_56918815-1c23-455e-a9f6-323014185601-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2022/11/16/dining/09VEG-THANKSGIVING-roasted-brussels-sprouts-almonds-chile/merlin_216141240_56918815-1c23-455e-a9f6-323014185601-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2022/11/16/dining/09VEG-THANKSGIVING-roasted-brussels-sprouts-almonds-chile/merlin_216141240_56918815-1c23-455e-a9f6-323014185601-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2022/11/16/dining/09VEG-THANKSGIVING-roasted-brussels-sprouts-almonds-chile/merlin_216141240_56918815-1c23-455e-a9f6-323014185601-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2022/11/16/dining/09VEG-THANKSGIVING-roasted-brussels-sprouts-almonds-chile/merlin_216141240_56918815-1c23-455e-a9f6-323014185601-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2022/11/16/dining/09VEG-THANKSGIVING-roasted-brussels-sprouts-almonds-chile/merlin_216141240_56918815-1c23-455e-a9f6-323014185601-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Roasted Brussels Sprouts With Honey, Almonds and Chile</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Alexa Weibel</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/03/19/multimedia/SR-crispy-rice-with-roasted-vegetablesrex-zthc/SR-crispy-rice-with-roasted-vegetablesrex-zthc-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/5be29eaaaba8678b/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/9a16c045-1857-5e7e-979c-159b901b4681",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026659-chile-lime-crispy-rice-with-roasted-vegetables",
+        "@type": "WebPage",
+        "name": "Chile-Lime Crispy Rice With Roasted Vegetables"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026659-chile-lime-crispy-rice-with-roasted-vegetables",
+      "name": "Chile-Lime Crispy Rice With Roasted Vegetables",
+      "description": "Cool-weather eating can mean heavy flavors and dishes that rely on richness to wake up your palate. This recipe makes a sharp left by combining sweet, caramelized vegetables with an ultrabright, spicy dressing and unexpected pops of crunch and chew from skillet-crisped rice. Serve as is, or toss in chopped peanuts, cooked shrimp, ground pork or shredded chicken for added protein.",
+      "author": {
+        "@type": "Person",
+        "name": "Sherry Rujikarn"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/41bca48c-89d3-5c16-a773-5651131c8855#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/19/multimedia/SR-crispy-rice-with-roasted-vegetablesrex-zthc/SR-crispy-rice-with-roasted-vegetablesrex-zthc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Ghazalle Badiozamani for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2025-03-19T16:58:38.931Z",
+          "datePublished": "2025-03-18T00:16:33.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-18T00:16:33.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/19/multimedia/SR-crispy-rice-with-roasted-vegetablesrex-zthc/SR-crispy-rice-with-roasted-vegetablesrex-zthc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/41bca48c-89d3-5c16-a773-5651131c8855#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/19/multimedia/SR-crispy-rice-with-roasted-vegetablesrex-zthc/SR-crispy-rice-with-roasted-vegetablesrex-zthc-googleFourByThree.jpg",
+          "creditText": "Ghazalle Badiozamani for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2025-03-19T16:58:38.931Z",
+          "datePublished": "2025-03-18T00:16:33.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-18T00:16:33.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/19/multimedia/SR-crispy-rice-with-roasted-vegetablesrex-zthc/SR-crispy-rice-with-roasted-vegetablesrex-zthc-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/41bca48c-89d3-5c16-a773-5651131c8855#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/19/multimedia/SR-crispy-rice-with-roasted-vegetablesrex-zthc/SR-crispy-rice-with-roasted-vegetablesrex-zthc-mediumSquareAt3X.jpg",
+          "creditText": "Ghazalle Badiozamani for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2025-03-19T16:58:38.931Z",
+          "datePublished": "2025-03-18T00:16:33.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-18T00:16:33.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/19/multimedia/SR-crispy-rice-with-roasted-vegetablesrex-zthc/SR-crispy-rice-with-roasted-vegetablesrex-zthc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, quick, weeknight, grains and rice, vegetables, main course, side dish",
+      "keywords": "brussels sprout, budget, fish sauce, green bean, jasmine rice, lime juice, sriracha, dairy-free, gluten-free, healthy, fall, winter",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 167
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 386,
+        "unsaturatedFatContent": "20 grams",
+        "carbohydrateContent": "43 grams",
+        "cholesterolContent": null,
+        "fatContent": "23 grams",
+        "fiberContent": "7 grams",
+        "proteinContent": "7 grams",
+        "saturatedFatContent": "2 grams",
+        "sodiumContent": "900 milligrams",
+        "sugarContent": "7 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "8 ounces brussels sprouts, trimmed and halved (about 2 cups)",
+        "8 ounces green beans, trimmed and cut into 2-inch lengths (about 2 cups)",
+        "8 ounces mini sweet peppers, stemmed, seeded and halved (about 2 cups)",
+        "6 tablespoons canola or vegetable oil",
+        "5 tablespoons lime juice (from about 3 limes)",
+        "2 tablespoons fish sauce",
+        "1 1/2 to 2 tablespoons chile-garlic sauce or Sriracha, to taste",
+        "2 garlic cloves, finely chopped",
+        "2 cups packed leftover cooked cooked jasmine rice",
+        "1/2 small red onion, thinly sliced",
+        "1/2 cup loosely packed fresh cilantro, coarsely chopped",
+        "1/2 cup loosely packed fresh mint, coarsely chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 425 degrees. In a large bowl, toss the brussels sprouts, green beans and peppers with 2 tablespoons oil. Spread the vegetables out in a single layer on a large sheet pan. (Reserve the bowl.) Roast for 25 to 30 minutes, until the brussels sprouts are tender."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, in a medium bowl or jar, combine the lime juice, fish sauce, chile-garlic sauce and garlic."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large skillet, heat the remaining 4 tablespoons oil on medium-high until hot, about 3 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the rice to the pan (be careful of oil spattering and popping). With a spatula, firmly press rice into an even layer. Cook until golden on bottom, about 3 minutes. Turn rice over and press down again. Cook until golden on other side, occasionally pressing down, another 3 minutes. Transfer to a large paper towel-lined plate. Let cool slightly."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In the reserved bowl, toss the roasted vegetables with the dressing and red onion. Break up the clumps of rice and add to the bowl along with the cilantro and mint. Toss to combine, then serve immediately."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-03-19T00:00:00.000Z",
+      "dateModified": "2025-03-19T20:31:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "eliza383"
+          },
+          "reviewBody": "Very good, and we always appreciate a vegetable rich meal. The flavor was a tad strong - I like spicy but this is more pungent, I’d say. Mint, fish sauce, raw red onion, you get the idea. But it does blend well and the crispy rice was a nice treat. It was my first time trying that and I ended up with an enormous pancake of rice I couldn’t imagine flipping, and it all started to fall apart from there. So some rice got nicely browned on both sides, some was still whitish on one side. My rice spent two days in the fridge dutifully waiting, and was sticky af when it went in the pan. That helped a lot, as did cranking up the burner to full high rather than medium high.",
+          "datePublished": "2025-05-22T22:47:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lindsay"
+          },
+          "reviewBody": "I followed the instructions to the letter, and the dressing’s flavor was a little too intense at the end (too much lime). Fortunately, I had also made a pound of well seasoned ground chicken and an extra half cup of crispy rice. I added both and some chopped up peanuts and at that point, the dressing was perfect. Tons of flavor. This was a winner!",
+          "datePublished": "2025-05-19T16:12:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily"
+          },
+          "reviewBody": "Not a fan of green beans… anyone have suggestions of a good veg alternative to substitute?",
+          "datePublished": "2025-05-18T21:28:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Valerie"
+          },
+          "reviewBody": "Really not a fan of this sauce. It was thin and full of strong flavors that didn't meld together at all. I wish I hadn't poured it over the veggies so I could do something different with the leftovers. Otherwise, rice and veggies are delicious, but that's to be expected.",
+          "datePublished": "2025-05-14T02:21:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Made as Recommended"
+          },
+          "reviewBody": "this was a wonderful dish, we loved the crisped rice and the sauce was perfect. it was best the first night, leftovers warmed the next did not capture the original magnificent taste palette. would not change a thing.",
+          "datePublished": "2025-04-23T23:05:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ashley"
+          },
+          "reviewBody": "Add tofu and crushed peanuts for protein",
+          "datePublished": "2025-04-21T01:57:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SD"
+          },
+          "reviewBody": "This was tasty. I used the chile garlic sauce instead of Sriracha, which made the taste of the vegetables stand out. But it dirtied a lot of dishes for a \"fast weeknight dinner\" choice, and I am not sure how well it will reheat due to all the oil. I substituted carrots for brussels sprouts, and they were excellent. They cooked perfectly in 25 minutes in the oven. Rice took a while to brown.",
+          "datePublished": "2025-04-19T01:16:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lori F"
+          },
+          "reviewBody": "We made this as written, except that we probably used more that 2 cups of rice…which then absorbed most of the dressing thus we didn’t feel it was over dressed. I loved the tart citrus taste the dressing.  Our rice could have been much more crispy, likely due to having too much in the pan… will fry rice to cracker-like crispness next time.  We added crisp-fried seasoned extra firm tofu…for protein.  Endorse the idea of serving individual components separately - that will keep the rice crispy and dressing can be to individual taste.  We will make this again and it rates being printed out and put into our family favourites binder, with notes!",
+          "datePublished": "2025-04-17T13:12:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Allison"
+          },
+          "reviewBody": "I really enjoyed this recipe! Very easy, especially if you can prepare the dressing and cut the vegetables in advance. I had trouble with frying the rice— I don’t think had the oil hot enough— but would definitely try again or even use a different carb next time.",
+          "datePublished": "2025-04-14T00:24:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David"
+          },
+          "reviewBody": "I'll be honest and say I thought the dressing was awful. I think it needed something to give respite from the fish sauce & lime. Coconut milk, perhaps? Overall, though, I really like the idea of the roasted veggies and crispy rice, so next time I'm going to make a tahini-based dressing (maybe tahini, garlic, honey?) and see how it goes.",
+          "datePublished": "2025-04-12T00:26:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barb Heinlein"
+          },
+          "reviewBody": "We loved the combination of vegetables, and we never fix Brussels sprouts, so that’s amazing. However, I cut the recipe in half but made the full amount of the dressing. It was too acidic and we couldn’t eat it all. I think I did that because I was thinking of it as more of a marinade and I rarely cut marinades in half. Live and learn. I will make this again but tweak the dressing. I liked the suggestion of something sweet in the dressing. I often read comments before making something, but I didn’t with this.",
+          "datePublished": "2025-04-09T00:00:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BJ"
+          },
+          "reviewBody": "I have not yet cooked this tasty sounding dish. I suggest that it can easily become vegan if something other than fish sauce is used. Crispy tofu baked or sauteed would be a great addition too. For simplicity, when I make it, I will probably use a full bag of whatever vegetables I choose rather than half bags of all three.",
+          "datePublished": "2025-04-07T21:25:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "katie"
+          },
+          "reviewBody": "I served the veggies (added slivered roasted carrots) over steamed rice with just a few pieces of crispy rice sprinkled on top. Did not feel that it was over dressed with this approach. Very simple, hearty meat-free meal!",
+          "datePublished": "2025-04-07T19:57:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nicole"
+          },
+          "reviewBody": "Added water and honey to the dressing to balance the acidity. I also made it with ground chicken and it was a light and delicious dinner",
+          "datePublished": "2025-04-07T01:37:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lizzy B"
+          },
+          "reviewBody": "This is zippy and zesty - delish. You can use any veggies you have on hand. I made it with wild rice, which also took longer to crisp than the recipe instructions, and added tofu to the veggies in the oven. A fried egg on top would also make a nice addition.",
+          "datePublished": "2025-04-06T23:00:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nick Toombs"
+          },
+          "reviewBody": "Loved the dish.  I tried to double it and it ended up too tangy with the amount of lime juice which put off others in my family.  Will change that next time.  Took a lot longer than 3 minutes per side to get a good level of crisp for the rice, but don't skip that step as it's necessary.  The herbs are a nice end touch.",
+          "datePublished": "2025-03-21T01:28:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brian"
+          },
+          "reviewBody": "Delightful dish!! I served all the components separately so that people could assemble their own bowls to taste: this also solved the problem with too much dressing that some others highlighted. I added some cooked ground chicken for protein, but it would have been just fine as a purely vegetarian dish, very flavorful and with nice contrasts in textures.",
+          "datePublished": "2025-04-02T00:54:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amanda"
+          },
+          "reviewBody": "This was a fun recipe to try!  The rice took me about 10-15 minutes to crisp up over medium high heat.  I also halved the dressing recipe as it seemed like too much for the amount of ingredients.  I added tofu for protein but this could also be lovely with some grilled flank steak.  Overall a very adaptable recipe with good flavors!",
+          "datePublished": "2025-03-24T23:53:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "janka"
+          },
+          "reviewBody": "This is delicious and adaptable. The sauce and crisp rice make the dish. The other ingredients and cooking methods lend themselves to using whatever you have on hand.",
+          "datePublished": "2025-03-23T12:22:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Holly"
+          },
+          "reviewBody": "In any recipe I kind of eyeball things like dressing.  I would never just pour the entire amount made without judging by eye if it's too much.  Could obviously taste it, too, but I have an intuitive sense.  Why would you feel the need to blindly just dump the entire bowl of dressing on the dish? Also, personally, I'd never add sugar to a salad dressing.  Again, just from eyeballing this recipe I know that I would not want to add sugar. To each their own.",
+          "datePublished": "2025-04-07T20:51:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rachel"
+          },
+          "reviewBody": "This was not a well balanced recipe. It needed a some palm sugar or other sweetener to balance the high level of acid in the lime juice, and it ended up overdressed by the sheer amount of it. The rice was crisp but was ruined by too much. Overall, good effort on flavor combination but needed to pare back the dressing to allow the flavor of the vegetables like the green beans and peppers to even be tasted.",
+          "datePublished": "2025-03-24T01:20:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Matthew"
+          },
+          "reviewBody": "Excited to try this! Planning to make it for dinner tonight, but with added edamame for extra protein.",
+          "datePublished": "2025-03-20T16:10:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "katie"
+          },
+          "reviewBody": "I served the veggies (added slivered roasted carrots) over steamed rice with just a few pieces of crispy rice sprinkled on top. Did not feel that it was over dressed with this approach. Very simple, hearty meat-free meal!",
+          "datePublished": "2025-04-07T19:57:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lizzy B"
+          },
+          "reviewBody": "This is zippy and zesty - delish. You can use any veggies you have on hand. I made it with wild rice, which also took longer to crisp than the recipe instructions, and added tofu to the veggies in the oven. A fried egg on top would also make a nice addition.",
+          "datePublished": "2025-04-06T23:00:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David"
+          },
+          "reviewBody": "I'll be honest and say I thought the dressing was awful. I think it needed something to give respite from the fish sauce & lime. Coconut milk, perhaps? Overall, though, I really like the idea of the roasted veggies and crispy rice, so next time I'm going to make a tahini-based dressing (maybe tahini, garlic, honey?) and see how it goes.",
+          "datePublished": "2025-04-12T00:26:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lori F"
+          },
+          "reviewBody": "We made this as written, except that we probably used more that 2 cups of rice…which then absorbed most of the dressing thus we didn’t feel it was over dressed. I loved the tart citrus taste the dressing.  Our rice could have been much more crispy, likely due to having too much in the pan… will fry rice to cracker-like crispness next time.  We added crisp-fried seasoned extra firm tofu…for protein.  Endorse the idea of serving individual components separately - that will keep the rice crispy and dressing can be to individual taste.  We will make this again and it rates being printed out and put into our family favourites binder, with notes!",
+          "datePublished": "2025-04-17T13:12:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SD"
+          },
+          "reviewBody": "This was tasty. I used the chile garlic sauce instead of Sriracha, which made the taste of the vegetables stand out. But it dirtied a lot of dishes for a \"fast weeknight dinner\" choice, and I am not sure how well it will reheat due to all the oil. I substituted carrots for brussels sprouts, and they were excellent. They cooked perfectly in 25 minutes in the oven. Rice took a while to brown.",
+          "datePublished": "2025-04-19T01:16:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ashley"
+          },
+          "reviewBody": "Add tofu and crushed peanuts for protein",
+          "datePublished": "2025-04-21T01:57:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Made as Recommended"
+          },
+          "reviewBody": "this was a wonderful dish, we loved the crisped rice and the sauce was perfect. it was best the first night, leftovers warmed the next did not capture the original magnificent taste palette. would not change a thing.",
+          "datePublished": "2025-04-23T23:05:05.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026659-chile-lime-crispy-rice-with-roasted-vegetables",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Sherry Rujikarn"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "Cool-weather eating can mean heavy flavors and dishes that rely on richness to wake up your palate. This recipe makes a sharp left by combining sweet, caramelized vegetables with an ultrabright, spicy dressing and unexpected pops of crunch and chew from skillet-crisped rice. Serve as is, or toss in chopped peanuts, cooked shrimp, ground pork or shredded chicken for added protein.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Chile-Lime Crispy Rice With Roasted Vegetables",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/41bca48c-89d3-5c16-a773-5651131c8855#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/19/multimedia/SR-crispy-rice-with-roasted-vegetablesrex-zthc/SR-crispy-rice-with-roasted-vegetablesrex-zthc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Ghazalle Badiozamani for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2025-03-19T16:58:38.931Z",
+          "datePublished": "2025-03-18T00:16:33.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-18T00:16:33.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/19/multimedia/SR-crispy-rice-with-roasted-vegetablesrex-zthc/SR-crispy-rice-with-roasted-vegetablesrex-zthc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/41bca48c-89d3-5c16-a773-5651131c8855#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/19/multimedia/SR-crispy-rice-with-roasted-vegetablesrex-zthc/SR-crispy-rice-with-roasted-vegetablesrex-zthc-googleFourByThree.jpg",
+          "creditText": "Ghazalle Badiozamani for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2025-03-19T16:58:38.931Z",
+          "datePublished": "2025-03-18T00:16:33.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-18T00:16:33.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/19/multimedia/SR-crispy-rice-with-roasted-vegetablesrex-zthc/SR-crispy-rice-with-roasted-vegetablesrex-zthc-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/41bca48c-89d3-5c16-a773-5651131c8855#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/19/multimedia/SR-crispy-rice-with-roasted-vegetablesrex-zthc/SR-crispy-rice-with-roasted-vegetablesrex-zthc-mediumSquareAt3X.jpg",
+          "creditText": "Ghazalle Badiozamani for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2025-03-19T16:58:38.931Z",
+          "datePublished": "2025-03-18T00:16:33.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-18T00:16:33.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/19/multimedia/SR-crispy-rice-with-roasted-vegetablesrex-zthc/SR-crispy-rice-with-roasted-vegetablesrex-zthc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026659-chile-lime-crispy-rice-with-roasted-vegetables"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:08:18.192Z",
+  "scraping_status": "scraped"
+}

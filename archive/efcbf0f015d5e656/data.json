@@ -1,0 +1,546 @@
+{
+  "id": "efcbf0f015d5e656",
+  "original_url": "https://cooking.nytimes.com/recipes/1023588-sesame-brown-butter-udon-noodles",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1023588-sesame-brown-butter-udon-noodles",
+  "fetched_title": "Sesame-Brown Butter Udon Noodles Recipe",
+  "main_text_content": "This weeknight meal is silky, slurpable and so quick to pull off It follows the tradition of wafu or Japanese-style pasta, and combines brown butter, udon and spinach, but the classic combination of savory sauce, chewy noodle and green vegetable allows plenty of room for improvisation Instead of soy sauce, you can add umami with Parmesan, miso, seaweed or mushrooms",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026260-hoisin-garlic-noodles\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Hoisin Garlic Noodles</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Hetty Lui McKinnon</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2022/11/28/dining/as-sesame-brown-butter-udon-noodles/as-sesame-brown-butter-udon-noodles-threeByTwoMediumAt2X-v3.jpg",
+  "local_image_path": "scraped/efcbf0f015d5e656/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/9e206f6f-88f1-5135-ab8b-754dfa56635a",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1023588-sesame-brown-butter-udon-noodles",
+        "@type": "WebPage",
+        "name": "Sesame-Brown Butter Udon Noodles"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023588-sesame-brown-butter-udon-noodles",
+      "name": "Sesame-Brown Butter Udon Noodles",
+      "description": "This weeknight meal is silky, slurpable and so quick to pull off. It follows the tradition of wafu or Japanese-style pasta, and combines brown butter, udon and spinach, but the classic combination of savory sauce, chewy noodle and green vegetable allows plenty of room for improvisation. Instead of soy sauce, you can add umami with Parmesan, miso, seaweed or mushrooms. Instead of black pepper for heat, grab ginger or chile flakes, oil or paste. For more protein, boil eggs or shelled edamame in the water before the udon, or add tinned mackerel or fresh yuba along with the sesame seeds. Udon noodles, found fresh, frozen or shelf-stable, are singularly bouncy and thick; if you can’t find them, use the thinner, dried style that resembles linguine.",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/6ea29c30-dc66-5ce3-8428-93ede9100235#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/11/28/dining/as-sesame-brown-butter-udon-noodles/as-sesame-brown-butter-udon-noodles-videoSixteenByNineJumbo1600-v3.jpg",
+          "creditText": "Joe Lingeman for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2023-12-05T15:48:54.812Z",
+          "datePublished": "2022-11-29T01:58:45.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-11-29T01:58:45.000Z",
+          "url": "https://static01.nyt.com/images/2022/11/28/dining/as-sesame-brown-butter-udon-noodles/as-sesame-brown-butter-udon-noodles-videoSixteenByNineJumbo1600-v3.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/6ea29c30-dc66-5ce3-8428-93ede9100235#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/11/28/dining/as-sesame-brown-butter-udon-noodles/as-sesame-brown-butter-udon-noodles-superJumbo-v3.jpg",
+          "creditText": "Joe Lingeman for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2023-12-05T15:48:54.812Z",
+          "datePublished": "2022-11-29T01:58:45.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2022-11-29T01:58:45.000Z",
+          "url": "https://static01.nyt.com/images/2022/11/28/dining/as-sesame-brown-butter-udon-noodles/as-sesame-brown-butter-udon-noodles-superJumbo-v3.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/6ea29c30-dc66-5ce3-8428-93ede9100235#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/11/28/dining/as-sesame-brown-butter-udon-noodles/as-sesame-brown-butter-udon-noodles-mediumSquareAt3X-v3.jpg",
+          "creditText": "Joe Lingeman for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2023-12-05T15:48:54.812Z",
+          "datePublished": "2022-11-29T01:58:45.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-11-29T01:58:45.000Z",
+          "url": "https://static01.nyt.com/images/2022/11/28/dining/as-sesame-brown-butter-udon-noodles/as-sesame-brown-butter-udon-noodles-mediumSquareAt3X-v3.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT15M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, quick, weeknight, noodles, main course, side dish",
+      "keywords": "brown butter, sesame seed, soy sauce, spinach, udon noodle, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 2743
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 617,
+        "unsaturatedFatContent": "10 grams",
+        "carbohydrateContent": "82 grams",
+        "cholesterolContent": null,
+        "fatContent": "25 grams",
+        "fiberContent": "7 grams",
+        "proteinContent": "20 grams",
+        "saturatedFatContent": "12 grams",
+        "sodiumContent": "581 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "Salt",
+        "14 to 16 ounces udon, preferably thick fresh, frozen or shelf-stable noodles",
+        "1 pound baby spinach or coarsely chopped or torn mature spinach",
+        "6 tablespoons unsalted butter",
+        "1 teaspoon coarsely ground black pepper, plus more for serving",
+        "1 tablespoon low-sodium soy sauce, plus more as needed",
+        "Pinch of granulated sugar",
+        "2 tablespoons toasted sesame seeds, plus more for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bring a large pot of salted water to a boil. Add the noodles and cook according to package directions until just tender. Reserve 1 cup cooking water, then add the spinach and press to submerge. (It will continue cooking later.) Drain the noodles and spinach, shaking to get rid of any excess water."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Set the pot over medium heat. Add 5 tablespoons butter and cook, stirring occasionally, until the foam subsides, the milk solids turn golden-brown and it smells nutty and toasty, 3 to 4 minutes. Add the black pepper and stir until fragrant. Add 1/4 cup pasta water, plus the noodles and spinach, soy sauce and sugar, and toss until the sauce is thickened and silky. Add pasta water, 1 tablespoon at a time, until the sauce clings to the noodles."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Remove from heat, add the sesame seeds and stir in the remaining 1 tablespoon butter until melted. Season to taste with more soy sauce and black pepper (if mild) and sugar (if too salty). Serve with more sesame seeds on top."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2022-12-10T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura"
+          },
+          "reviewBody": "This recipe punches way above its weight class. Effort:flavor ratio is off the charts. Made as written plus a jammy egg for serving. Even my greens-averse 4 yo loved it.",
+          "datePublished": "2025-05-15T02:10:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ed From Cortlandt Manor"
+          },
+          "reviewBody": "There is nothing wrong with this recipe as written. Easy and delicious.",
+          "datePublished": "2025-05-11T22:19:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "A L"
+          },
+          "reviewBody": "Not great, ends up being a buttery mess.",
+          "datePublished": "2025-05-09T01:56:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Trey MF"
+          },
+          "reviewBody": "Added some miso as a start. But then went crazy and added a bunch of garlic and parm to make a sort of cacio e Popeye’misudon. Sure, I’ll call it that… a big umami bomb in all the best ways. Don’t mind the butter, it’s healthy because of the spinach. Looking forward to making the original, as is, but this is also, clearly, a fun launchpad for creativity.",
+          "datePublished": "2025-04-10T01:04:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nina"
+          },
+          "reviewBody": "I added 2 tbsp of powdered peanut butter (PB2) and it tastes great. Probably makes it taste different than it's supposed to, but would def recommend.",
+          "datePublished": "2025-02-23T15:42:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AC"
+          },
+          "reviewBody": "i made this as a quick lunch and it was delicious. i didn't have spinach so I used arugula.",
+          "datePublished": "2025-02-12T22:30:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura"
+          },
+          "reviewBody": "Delicious.  And somehow, it really tastes like cacio e pepe.  It also barely feeds four - increase everything by 1.5.",
+          "datePublished": "2025-01-14T01:17:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Spacebab"
+          },
+          "reviewBody": "I’ve made this a few times and always enjoyed it, I think the trick is to be brave and really brown the butter so the solids separate out, just melting it doesn’t work. And I really don’t think fish sauce is right here, it’s not part of Japanese cooking. If you’re looking for some extra umami and saltiness I recommend using something like a Japanese bonito stock powder, it’s perfect with this, and can be found at supermarkets.",
+          "datePublished": "2025-01-13T06:25:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul"
+          },
+          "reviewBody": "Half noodles\nUse half bok choy\nServe with egg and baked tofu",
+          "datePublished": "2024-12-31T00:48:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Judy"
+          },
+          "reviewBody": "I made the recipe as shown here an it definitely needed something. I will try fish sauce next time or the sesame oil. It was too buttery for me so will half that as well!",
+          "datePublished": "2024-12-12T16:23:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "anon"
+          },
+          "reviewBody": "Must have done something wrong because this did not taste good at all. My dog liked it though and I ordered a pizza.",
+          "datePublished": "2024-10-15T23:07:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Audrey Nickel"
+          },
+          "reviewBody": "Has anyone made this with broccoli or something similar (e.g., broccoli rabe)? It sounds delish, but we're not big fans of the texture of cooked leafies.",
+          "datePublished": "2024-10-09T19:14:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FMS"
+          },
+          "reviewBody": "Even better with broccoli!",
+          "datePublished": "2024-09-21T14:43:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erin H."
+          },
+          "reviewBody": "I make this at least once a month.   it's veratile.  I don't add fish sauce but you like fish sauce add it in increments.   I double the toasted sesame seeds and provide soy sauce and tamari at the table to suit individual tastes.  This is one of my favorite NYT recipes.",
+          "datePublished": "2024-09-13T01:06:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meghan"
+          },
+          "reviewBody": "I found this to be mushy and bland.",
+          "datePublished": "2024-09-09T22:20:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fishy sauce user"
+          },
+          "reviewBody": "I added some oyster sauce at the end and it made the flavour sort of oval?",
+          "datePublished": "2022-12-07T03:02:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "josh"
+          },
+          "reviewBody": "did anyone add fish sauce at the end?  To round out the flavor?",
+          "datePublished": "2022-12-02T19:10:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fish sauce skeptic"
+          },
+          "reviewBody": "After reading the comments and contemplating the roundness of the udon, my deep, round noodle bowl, and my general suspicion of fish sauce, I thought I would ignore the growing clamor for fish sauce.  But I was wrong.  That stuff is magical.  Complimented with little pork meatballs (in lieu of egg) . . . a perfect sphere!",
+          "datePublished": "2022-12-05T17:04:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "maggy"
+          },
+          "reviewBody": "Cut the amount of butter in half and add some sesame oil.",
+          "datePublished": "2022-12-05T13:33:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brittany"
+          },
+          "reviewBody": "Dear Josh,\n\nI added some fish sauce at the end, but found the flavor rather angular. I prefer to make it the way my grandmother made it, which is just actually an entirely different recipe. Try it.",
+          "datePublished": "2022-12-04T18:54:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy Friedman"
+          },
+          "reviewBody": "Here's what I did for this recipe... I boiled the udon noodes, browned the butter in another pot, added some sage (which I removed later and added to the udon water). To the browned butter, I added oyster mushrooms and onions, let those cook up, then added the spinach and black sesame seeds to that along with some of the pasta water. After letting that hang out for a while, I added the udon noodles, some of the water and soy sauce. I must say, this is one of the best things I've ever made!",
+          "datePublished": "2022-12-07T01:40:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "chrissi"
+          },
+          "reviewBody": "No fish sauce! Sesame oil, soy sauce, garlic, pepper (black, white, or red flakes)   vegetables= dreamy\n\nUdon noodles = so delicious",
+          "datePublished": "2022-12-02T22:56:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suzy"
+          },
+          "reviewBody": "I'm surprised at all the nattering on about adding fish sauce. The recipe makes it quite clear that this is buttery - you know:  Sesame Brown Butter noodles. Made the recipe exactly as is, cutting it down to one serving and it was perfect. Nice and tasty, smooth, butter compliments the spinach, with the sesame adding a gentle touch of flavor. I'd go so far as to say sublime in both texture and flavor. The hit-your-head-with-a-board flavor of fish sauce is not necessary here.",
+          "datePublished": "2022-12-12T03:47:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "shiva"
+          },
+          "reviewBody": "Delicious! I added fish sauce at the end to round the flavor.",
+          "datePublished": "2022-12-01T17:53:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aidan"
+          },
+          "reviewBody": "I added a tablespoon of miso when I added the pepper.  It was wonderful.  I’m thinking of adding shrimp next time for a little protein.",
+          "datePublished": "2022-12-04T17:31:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marie"
+          },
+          "reviewBody": "Miyoko’s has worked well for me in a similar application. I find it’s just like dairy butter.",
+          "datePublished": "2022-12-03T20:10:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fish Sauce Curious"
+          },
+          "reviewBody": "How is this with fish sauce at the end? Does it round out the flavor?",
+          "datePublished": "2022-12-03T01:36:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John G"
+          },
+          "reviewBody": "Maybe fish sauce is what I needed.  That and lime and cilantro and whatever else would change this recipe . \n\nToo buttery... and I used only 5 tbl spoons of butter. Used the whole 1/4 cup of pasta water hoping it would dilute it some, as well as additional soy sauce after it was served, but to no avail.  My family and I all disliked it.",
+          "datePublished": "2022-12-04T02:56:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Equlibrist"
+          },
+          "reviewBody": "Ghee is not at all like browned butter. It has no milk solids and thus will not brown. Completely different flavor profile, although in ghee’s favor, it has a much higher smoke point. I’d go for the nutty flavor of brown butter in this recipe, which relies on just a few ingredients.",
+          "datePublished": "2022-12-05T00:49:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Felix T"
+          },
+          "reviewBody": "Going against the grain here and didn’t add fish sauce to this meal. Instead added half a tablespoon of miso paste, sesame oil and sautéed some mushrooms during the butter browning process. I suggest you under cook your udon noodles as they can get gloggy in the last step of the recipe. I’d also skip the submerging of the spinach and just add it at the end when you put everything together. It turned out perfect!",
+          "datePublished": "2022-12-29T00:45:16.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1023588-sesame-brown-butter-udon-noodles",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022,
+      "description": "This weeknight meal is silky, slurpable and so quick to pull off. It follows the tradition of wafu or Japanese-style pasta, and combines brown butter, udon and spinach, but the classic combination of savory sauce, chewy noodle and green vegetable allows plenty of room for improvisation. Instead of soy sauce, you can add umami with Parmesan, miso, seaweed or mushrooms. Instead of black pepper for heat, grab ginger or chile flakes, oil or paste. For more protein, boil eggs or shelled edamame in the water before the udon, or add tinned mackerel or fresh yuba along with the sesame seeds. Udon noodles, found fresh, frozen or shelf-stable, are singularly bouncy and thick; if you can’t find them, use the thinner, dried style that resembles linguine.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Sesame-Brown Butter Udon Noodles",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/6ea29c30-dc66-5ce3-8428-93ede9100235#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/11/28/dining/as-sesame-brown-butter-udon-noodles/as-sesame-brown-butter-udon-noodles-videoSixteenByNineJumbo1600-v3.jpg",
+          "creditText": "Joe Lingeman for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2023-12-05T15:48:54.812Z",
+          "datePublished": "2022-11-29T01:58:45.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-11-29T01:58:45.000Z",
+          "url": "https://static01.nyt.com/images/2022/11/28/dining/as-sesame-brown-butter-udon-noodles/as-sesame-brown-butter-udon-noodles-videoSixteenByNineJumbo1600-v3.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/6ea29c30-dc66-5ce3-8428-93ede9100235#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/11/28/dining/as-sesame-brown-butter-udon-noodles/as-sesame-brown-butter-udon-noodles-superJumbo-v3.jpg",
+          "creditText": "Joe Lingeman for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2023-12-05T15:48:54.812Z",
+          "datePublished": "2022-11-29T01:58:45.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2022-11-29T01:58:45.000Z",
+          "url": "https://static01.nyt.com/images/2022/11/28/dining/as-sesame-brown-butter-udon-noodles/as-sesame-brown-butter-udon-noodles-superJumbo-v3.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/6ea29c30-dc66-5ce3-8428-93ede9100235#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/11/28/dining/as-sesame-brown-butter-udon-noodles/as-sesame-brown-butter-udon-noodles-mediumSquareAt3X-v3.jpg",
+          "creditText": "Joe Lingeman for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2023-12-05T15:48:54.812Z",
+          "datePublished": "2022-11-29T01:58:45.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-11-29T01:58:45.000Z",
+          "url": "https://static01.nyt.com/images/2022/11/28/dining/as-sesame-brown-butter-udon-noodles/as-sesame-brown-butter-udon-noodles-mediumSquareAt3X-v3.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023588-sesame-brown-butter-udon-noodles"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:09.193Z",
+  "scraping_status": "scraped"
+}

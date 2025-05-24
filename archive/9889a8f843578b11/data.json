@@ -1,0 +1,620 @@
+{
+  "id": "9889a8f843578b11",
+  "original_url": "https://www.maangchi.com/recipe/yachae-hotteok",
+  "canonical_url": "https://www.maangchi.com/recipe/yachae-hotteok",
+  "fetched_title": "Hotteok filled with vegetables &#038; noodles (Yachae-hotteok: 야채호떡) recipe by Maangchi",
+  "main_text_content": "Today I&#039;m going to show you how to make a Korean street snack called yachae-hotteok. Yachae means &quot;vegetables&quot; in Korean, and hotteok are pancakes usually stuffed with sweet...",
+  "main_html_content": "<h1 class=\"entry-title mega-heading\">Hotteok filled with vegetables and noodles</h1><h2 class=\"entry-title mega-heading-translation\"><span class=\"romanized-name\">Yachae-hotteok</span> <span class=\"korean-name\">야채호떡</span></h2><p class=\"author vcard postedby\">By <a href=\"/about\" rel=\"author\"><span class=\"fn n nickname\">Maangchi</span></a></p><p class=\"postdate updated\">Updated on October 1st, 2021</p><div  class=\"rmp-widgets-container rmp-wp-plugin rmp-main-container js-rmp-widgets-container js-rmp-widgets-container--69423 \"  data-post-id=\"69423\"><div class=\"rmp-rating-widget js-rmp-rating-widget\"><div class=\"rmp-rating-widget__icons\"><ul class=\"rmp-rating-widget__icons-list js-rmp-rating-icons-list\"><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Not at all useful\" data-value=\"1\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Somewhat useful\" data-value=\"2\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Good recipe\" data-value=\"3\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Great recipe\" data-value=\"4\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"The besttt!!!\" data-value=\"5\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li></ul>",
+  "publication_date": "2016-08-26T01:34:25+00:00",
+  "author": "Maangchi",
+  "key_image_url": "https://i.ytimg.com/vi/2v5K2-pOOt8/maxresdefault.jpg?meta=og:image",
+  "local_image_path": "scraped/9889a8f843578b11/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "/recipe/yachae-hotteok#sso/recipe/69423",
+          "@context": "https://schema.org",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.maangchi.com/recipe/yachae-hotteok",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok",
+          "sameAs": [
+            "https://www.maangchi.com/?p=69423"
+          ],
+          "name": "Hotteok filled with vegetables &amp; noodles (Yachae-hotteok: 야채호떡)",
+          "description": "Today I&#039;m going to show you how to make a Korean street snack called yachae-hotteok. Yachae means &quot;vegetables&quot; in Korean, and hotteok are pancakes usually stuffed with sweet stuff and nuts. But in this case they&#039;re filled with savory noodles and chopped vegetables. I love the crunchiness of the...",
+          "aggregateRating": {
+            "@id": "/recipe/yachae-hotteok#sso/recipe/69423/rating-aggregate/5/431/1/5"
+          },
+          "image": [
+            {
+              "@id": "https://i.ytimg.com/vi/2v5K2-pOOt8/maxresdefault.jpg?meta=og:image#sso/image-object"
+            }
+          ],
+          "video": [
+            {
+              "@id": "https://www.youtube.com/embed/2v5K2-pOOt8#sso/video-object"
+            }
+          ],
+          "publisher": [
+            {
+              "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+            }
+          ],
+          "headline": "Hotteok filled with vegetables &amp; noodles (Yachae-hotteok: 야채호떡)",
+          "keywords": "남대문 마켓 야채호떡 만드는법, 남대문마켓 호떡, hoddeok, hotteok, 호떡, 야채호떡, 야채호떡 만드는법, Korean pancakes filled with vegetables and noodles, Korean pancakes with vegetable and noodle filling, Korean street snack, Maangchi's hotteok video recipe, Namdaemun market hotteok, vegetarian food, vegetarian snack, yachae-hotteok",
+          "isFamilyFriendly": true,
+          "inLanguage": "en_US",
+          "datePublished": "2016-08-26T01:34:25+00:00",
+          "dateModified": "2021-10-01T18:48:42+00:00",
+          "author": {
+            "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+          },
+          "thumbnailUrl": "https://i.ytimg.com/vi/2v5K2-pOOt8/maxresdefault.jpg?meta=og:image",
+          "commentCount": 18,
+          "comment": [
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/53315"
+            },
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/48388"
+            },
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/47505"
+            },
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/47054"
+            },
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/46831"
+            },
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/46506"
+            },
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/44944"
+            },
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/44826"
+            },
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/44337"
+            },
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/44319"
+            },
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/44295"
+            }
+          ],
+          "recipeCuisine": "Korean",
+          "recipeCategory": "Snack",
+          "recipeIngredient": [],
+          "recipeInstructions": [
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 1
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 2
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/yachae-hotteok#sso/recipe/69423/rating-aggregate/5/431/1/5",
+          "@context": "https://schema.org",
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "ratingCount": 431,
+          "worstRating": 1,
+          "bestRating": 5
+        },
+        {
+          "@id": "https://i.ytimg.com/vi/2v5K2-pOOt8/maxresdefault.jpg?meta=og:image#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://i.ytimg.com/vi/2v5K2-pOOt8/maxresdefault.jpg?meta=og:image",
+          "alternativeHeadline": "Hotteok filled with vegetables & noodles (Yachae hotteok: ì¼ì±í¸ë¡)",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1280",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1280"
+        },
+        {
+          "@id": "#sso/qv-height-px-720",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "720"
+        },
+        {
+          "@id": "https://www.youtube.com/embed/2v5K2-pOOt8#sso/video-object",
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "url": "https://www.youtube.com/embed/2v5K2-pOOt8",
+          "name": "Hotteok filled with vegetables & noodles (Yachae hotteok: ì¼ì±í¸ë¡)",
+          "description": "Full recipe: http://www.maangchi.com/recipe/yachae-hotteokToday Iâm going to show you how to make a Korean street snack called yachae-hotteok. Yachae means â...",
+          "embedUrl": "https://www.youtube.com/embed/2v5K2-pOOt8",
+          "encodingFormat": "text/html",
+          "duration": "PT14M33S",
+          "uploadDate": "2016-08-26T01:10:00+00:00",
+          "thumbnailUrl": "https://i.ytimg.com/vi/2v5K2-pOOt8/maxresdefault.jpg?meta=og:image",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ],
+          "keywords": "Korean food, Korean cooking, Maangchi, Maangchi recipes, Korean cuisine, hotteok, hoddeok, yachae-hotteok, ì¼ì±í¸ë¡, í¸ë¡, Korean street snack, Korean pancakes with vegetable and noodle filling, Korean pancakes filled with vegetables and noodles, vegetarian snack, vegetarian food, Maangchi's hotteok video recipe, ì¼ì±í¸ë¡ ë§ëëë², Namdaemun market hotteok, ë¨ëë¬¸ë§ì¼ í¸ë¡, ë¨ëë¬¸ ë§ì¼ ì¼ì±í¸ë¡ ë§ëëë²"
+        },
+        {
+          "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person",
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "url": "https://www.maangchi.com",
+          "name": "Maangchi",
+          "description": "Author archive page for Maangchi.",
+          "image": [
+            {
+              "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object"
+            }
+          ]
+        },
+        {
+          "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-1200"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "#sso/qv-height-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png",
+          "identifier": "93971-wpsso-schema-4x3",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-900"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-900",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "900"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png",
+          "identifier": "93971-wpsso-schema-16x9",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-675"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-675",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "675"
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/53315",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-53315",
+          "name": "Comment by SchnauzerMom on April 28, 2022",
+          "description": "Hi Maangchi! Thank you so much for your website, books, and teaching - I just made this delicious dish and&hellip;",
+          "text": "Hi Maangchi! Thank you so much for your website, books, and teaching - I just made this delicious dish and your video tutorial was so helpful. They were fun to make!",
+          "dateCreated": "2022-04-28T18:54:35-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "SchnauzerMom"
+          }
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/48388",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-48388",
+          "name": "Comment by VanVanVietnam on September 18, 2018",
+          "description": "I made this Maangchi !! And it turned out so good. The dough is soft and crispy, and the filling&hellip;",
+          "text": "I made this Maangchi !! And it turned out so good. The dough is soft and crispy, and the filling is delicious ! I added cooked potato into the filling and it was so good &lt;3 I was clumsy and first but now, I am already a Hotteok master ^^ !!! Thank you Maangchi &lt;3",
+          "dateCreated": "2018-09-18T15:37:51-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "VanVanVietnam"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/48403"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/48403",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-48403",
+          "name": "Reply by Maangchi on September 23, 2018",
+          "description": "Adding cooked potato sounds good and interesting! Congratulations!",
+          "text": "Adding cooked potato sounds good and interesting! Congratulations!",
+          "dateCreated": "2018-09-23T13:24:06-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/47505",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-47505",
+          "name": "Comment by Sassy on March 24, 2018",
+          "description": "This recipe looks really yummy! Can I store any leftovers in the fridge or freezer? Cheers from Munich / Germany",
+          "text": "This recipe looks really yummy! Can I store any leftovers in the fridge or freezer? Cheers from Munich / Germany",
+          "dateCreated": "2018-03-24T10:38:59-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Sassy"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/47509"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/47509",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-47509",
+          "name": "Reply by sanne on March 25, 2018",
+          "description": "Which part of Munich? You know the stores in Albert-Rosshaupter-Str. 13 (Koreanisch-vietnamesische Ecke) and the Red River in Passauer Str.?&hellip;",
+          "text": "Which part of Munich? You know the stores in Albert-Rosshaupter-Str. 13 (Koreanisch-vietnamesische Ecke) and the Red River in Passauer Str.? Bye, Sanne.",
+          "dateCreated": "2018-03-25T10:25:12-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "sanne"
+          }
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/47054",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-47054",
+          "name": "Comment by Clvrcookie on January 9, 2018",
+          "description": "Hi Maangchi! My mom and I have enjoyed so many of your videos (and recipes) together :) Where did you&hellip;",
+          "text": "Hi Maangchi! My mom and I have enjoyed so many of your videos (and recipes) together :) Where did you buy the pan you used in this video? I&rsquo;ve looked all over but can&rsquo;t find it anywhere :/",
+          "dateCreated": "2018-01-09T22:46:45-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Clvrcookie"
+          }
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/46831",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-46831",
+          "name": "Comment by VeganLegation on November 19, 2017",
+          "description": "Hey Maangchi, we like your vegetarian recipes! So crispy outside and soft and delicious inside. We love it :-)",
+          "text": "Hey Maangchi, we like your vegetarian recipes! So crispy outside and soft and delicious inside. We love it :-)",
+          "dateCreated": "2017-11-19T18:35:03-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "VeganLegation"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/46840"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/46840",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-46840",
+          "name": "Reply by Maangchi on November 20, 2017",
+          "description": "Your yachae-hotteok looks perfect! I should make it for myself soon!",
+          "text": "Your yachae-hotteok looks perfect! I should make it for myself soon!",
+          "dateCreated": "2017-11-20T14:53:17-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/46847"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/46847",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-46847",
+          "name": "Reply by VeganLegation on November 20, 2017",
+          "description": "Thank you very much :-)",
+          "text": "Thank you very much :-)",
+          "dateCreated": "2017-11-20T15:16:45-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "VeganLegation"
+          }
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/46506",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-46506",
+          "name": "Comment by shimeringstars on September 21, 2017",
+          "description": "So yummy! I couldn&#039;t get enough nor could my family! I can&#039;t wait to make this and many more of&hellip;",
+          "text": "So yummy! I couldn&#039;t get enough nor could my family! I can&#039;t wait to make this and many more of your recipes.",
+          "dateCreated": "2017-09-21T03:37:44-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "shimeringstars"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/46514"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/46514",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-46514",
+          "name": "Reply by Maangchi on September 22, 2017",
+          "description": "Awesome! Cheers to you and your yachae-hotteok! : )",
+          "text": "Awesome! Cheers to you and your yachae-hotteok! : )",
+          "dateCreated": "2017-09-22T13:20:01-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/44944",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-44944",
+          "name": "Comment by Aniron on January 3, 2017",
+          "description": "Amazing! I made a little simple sauce of soy, sauce, sugar, and mirin for dipping, too. Eeee!",
+          "text": "Amazing! I made a little simple sauce of soy, sauce, sugar, and mirin for dipping, too. Eeee!",
+          "dateCreated": "2017-01-03T00:21:46-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Aniron"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/44951"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/44951",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-44951",
+          "name": "Reply by Maangchi on January 3, 2017",
+          "description": "yum! : )",
+          "text": "yum! : )",
+          "dateCreated": "2017-01-03T16:15:52-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/44826",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-44826",
+          "name": "Comment by Haan on December 14, 2016",
+          "description": "Hello maangchi Can i use rice noodle instead of jhapchae noodle",
+          "text": "Hello maangchi Can i use rice noodle instead of jhapchae noodle",
+          "dateCreated": "2016-12-14T08:12:15-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Haan"
+          }
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/44337",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-44337",
+          "name": "Comment by Inches on September 6, 2016",
+          "description": "Hi Maangchi! My Korean Mom ^_^ Do you have recommendation for sauce to put on these? I saw this video&hellip;",
+          "text": "Hi Maangchi! My Korean Mom ^_^ Do you have recommendation for sauce to put on these? I saw this video and it looks like mushroom, apple, and jujube just sitting soy sauce for a long time? https://youtu.be/6xQ2dpjFZok?t=6m33s",
+          "dateCreated": "2016-09-06T05:40:50-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Inches"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/44340"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/44340",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-44340",
+          "name": "Reply by sanne on September 6, 2016",
+          "description": "The street vendor today (who sold them as japchae-hotteok,, which makes sense) had some sauce to put on them while&hellip;",
+          "text": "The street vendor today (who sold them as japchae-hotteok,, which makes sense) had some sauce to put on them while eating that looked a lot like the dipping sauce for pajeon. Seoul, Subway-station Jongno3ga on the way to Insadong shortly after crossing the street that you take to the right. 1500 Won, 1000 for regular hotteok. Yes, they were very tasty! Bye, Sanne.",
+          "dateCreated": "2016-09-06T14:20:24-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "sanne"
+          }
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/44319",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-44319",
+          "name": "Comment by aTrueRedHead on September 2, 2016",
+          "description": "Gosh, this looks so delicious. I have to try them and will make them soon. I am sure that they&hellip;",
+          "text": "Gosh, this looks so delicious. I have to try them and will make them soon. I am sure that they will taste as fantastic as they look. Your recipes always do.",
+          "dateCreated": "2016-09-02T14:43:19-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "aTrueRedHead"
+          }
+        },
+        {
+          "@id": "/recipe/yachae-hotteok/comment-page-1#sso/comment/44295",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/yachae-hotteok/comment-page-1#comment-44295",
+          "name": "Comment by sanne on August 27, 2016",
+          "description": "Looking good! We will definitely try that at Namdaemun (and at home when we will be back). Should go nicely&hellip;",
+          "text": "Looking good! We will definitely try that at Namdaemun (and at home when we will be back). Should go nicely with some Soju... ;-D Bye, Sanne.",
+          "dateCreated": "2016-08-27T16:34:53-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "sanne"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "5",
+        "ratingCount": "431",
+        "ratingValue": "5"
+      },
+      "image": "https://www.maangchi.com/wp-content/uploads/2016/08/yachaehotteok-insta-620x620.jpg",
+      "name": "Hotteok filled with vegetables &#038; noodles (Yachae-hotteok: 야채호떡)",
+      "description": "Hotteok filled with vegetables &#038; noodles (Yachae-hotteok: 야채호떡)"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:38:12.023Z",
+  "scraping_status": "scraped"
+}

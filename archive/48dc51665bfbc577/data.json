@@ -1,0 +1,625 @@
+{
+  "id": "48dc51665bfbc577",
+  "original_url": "https://cooking.nytimes.com/recipes/1018212-creamy-corn-pasta-with-basil",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1018212-creamy-corn-pasta-with-basil",
+  "fetched_title": "Creamy Corn Pasta With Basil Recipe (with Video)",
+  "main_text_content": "There’s no cream in this wonderfully summery pasta dish, just a luscious sauce made from puréed fresh corn and sweet sautéed scallions, along with Parmesan for depth and red chile flakes for a contrasting bite Be sure to add the lemon juice and fresh herbs at the end; the rich pasta really benefits from their bright, fresh flavors And while this is best made at the height of corn season, it’s still quite good even with out-of-season supermarket ears, or with frozen corn.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1022298-sweet-corn-and-scallop-pasta\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2021/08/03/dining/kc-sweet-corn-and-scallop-pasta/merlin_190773741_8a1ae4e4-09f9-4b73-868c-c634b62ff608-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2021/08/03/dining/kc-sweet-corn-and-scallop-pasta/merlin_190773741_8a1ae4e4-09f9-4b73-868c-c634b62ff608-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2021/08/03/dining/kc-sweet-corn-and-scallop-pasta/merlin_190773741_8a1ae4e4-09f9-4b73-868c-c634b62ff608-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2021/08/03/dining/kc-sweet-corn-and-scallop-pasta/merlin_190773741_8a1ae4e4-09f9-4b73-868c-c634b62ff608-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2021/08/03/dining/kc-sweet-corn-and-scallop-pasta/kc-sweet-corn-and-scallop-pasta-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2021/08/03/dining/kc-sweet-corn-and-scallop-pasta/merlin_190773741_8a1ae4e4-09f9-4b73-868c-c634b62ff608-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2021/08/03/dining/kc-sweet-corn-and-scallop-pasta/merlin_190773741_8a1ae4e4-09f9-4b73-868c-c634b62ff608-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2021/08/03/dining/kc-sweet-corn-and-scallop-pasta/merlin_190773741_8a1ae4e4-09f9-4b73-868c-c634b62ff608-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Sweet Corn and Scallop Pasta</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Kay Chun</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-videoSixteenByNineJumbo1600.jpg",
+  "local_image_path": "scraped/48dc51665bfbc577/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/c474f7f2-00c1-5596-8d74-8ed1d3456b54",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1018212-creamy-corn-pasta-with-basil",
+        "@type": "WebPage",
+        "name": "Creamy Corn Pasta With Basil"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1018212-creamy-corn-pasta-with-basil",
+      "name": "Creamy Corn Pasta With Basil",
+      "description": "There’s no cream in this wonderfully summery pasta dish, just a luscious sauce made from puréed fresh corn and sweet sautéed scallions, along with Parmesan for depth and red chile flakes for a contrasting bite. Be sure to add the lemon juice and fresh herbs at the end; the rich pasta really benefits from their bright, fresh flavors. And while this is best made at the height of corn season, it’s still quite good even with out-of-season supermarket ears, or with frozen corn.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/9b3f7aa1-4eb0-57f6-980d-975a2e08abc2#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2023-08-21T21:28:40.122Z",
+          "datePublished": "2016-07-15T17:45:42.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2016-07-15T17:45:42.000Z",
+          "url": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/9b3f7aa1-4eb0-57f6-980d-975a2e08abc2#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2023-08-21T21:28:40.122Z",
+          "datePublished": "2016-07-15T17:45:42.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2016-07-15T17:45:42.000Z",
+          "url": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/9b3f7aa1-4eb0-57f6-980d-975a2e08abc2#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-square640.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2023-08-21T21:28:40.122Z",
+          "datePublished": "2016-07-15T17:45:42.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2016-07-15T17:45:42.000Z",
+          "url": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT30M",
+      "recipeYield": "3 to 4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, lunch, pastas, main course",
+      "keywords": "basil, corn, farfalle, full-access-ic-2024-08, mint, orecchiette, Parmesan, scallion, summer, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 9247
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 567,
+        "unsaturatedFatContent": "8 grams",
+        "carbohydrateContent": "80 grams",
+        "cholesterolContent": null,
+        "fatContent": "19 grams",
+        "fiberContent": "5 grams",
+        "proteinContent": "21 grams",
+        "saturatedFatContent": "9 grams",
+        "sodiumContent": "513 milligrams",
+        "sugarContent": "8 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "Fine sea salt",
+        "12 ounces dry orecchiette or farfalle",
+        "1 tablespoon olive oil, plus more for drizzling",
+        "1 bunch scallions (about 8), trimmed and thinly sliced (keep the whites and greens separate)",
+        "2 large ears corn, shucked and kernels removed (2 cups kernels)",
+        "1/2 teaspoon ground black pepper, more for serving",
+        "3 tablespoons unsalted butter",
+        "1/2 cup grated Parmesan cheese, more to taste",
+        "1/3 cup torn basil or mint, more for garnish",
+        "1/4 teaspoon red pepper flakes, or to taste",
+        "Fresh lemon juice, as needed"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bring a large pot of well-salted water to a boil. Cook pasta until 1 minute shy of al dente, according to the package directions. Drain, reserving 1/2 cup of pasta water."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, heat oil in large sauté pan over medium heat; add scallion whites and a pinch of salt and cook until soft, 3 minutes. Add 1/4 cup water and all but 1/4 cup corn; simmer until corn is heated through and almost tender, 3 to 5 minutes. Add 1/4 teaspoon salt and 1/4 teaspoon pepper, transfer to a blender, and purée mixture until smooth, adding a little extra water if needed to get a thick but pourable texture."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the same skillet over high heat. Add butter and let melt. Add reserved 1/4 cup corn and cook until tender, 1 to 2 minutes. (It’s O.K. if the butter browns; that deepens the flavor.) Add the corn purée and cook for 30 seconds to heat and combine the flavors."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Reduce heat to medium. Add pasta and half the reserved pasta cooking water, tossing to coat. Cook for 1 minute, then add a little more of the pasta cooking water if the mixture seems too thick. Stir in 1/4 cup of the scallion greens, the Parmesan, the herbs, the red pepper flakes, 1/4 teaspoon salt and 1/4 teaspoon pepper. Sprinkle with fresh lemon juice to taste. Transfer to warm pasta bowls and garnish with more scallions, herbs, a drizzle of olive oil and black pepper."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/9ae73d2f-3465-5c8d-9677-8cd722ba8d40",
+        "@type": "VideoObject",
+        "author": {
+          "@id": "nyt://person/a4f0cad9-40c6-5c18-a3bf-8f702a387ef3",
+          "@type": "Person",
+          "name": "Alec Cohen",
+          "url": "https://www.nytimes.com/by/alec-cohen"
+        },
+        "bitrate": "0",
+        "contentSize": "30095094",
+        "contentUrl": "https://vp.nyt.com/video/2016/07/13/40779_1_clark-corn-pasta_wg_480p.mp4",
+        "creator": {
+          "@id": "nyt://person/a4f0cad9-40c6-5c18-a3bf-8f702a387ef3",
+          "@type": "Person",
+          "name": "Alec Cohen"
+        },
+        "dateModified": "2024-09-11T16:32:34.266Z",
+        "datePublished": "2016-07-15T17:45:57.000Z",
+        "description": "Pasta with a sauce of puréed corn off the cob makes for a sweet summery meal.",
+        "duration": "PT2M34S",
+        "height": "480",
+        "name": "Creamy Corn Pasta With Basil",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/9b3f7aa1-4eb0-57f6-980d-975a2e08abc2#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-videoSixteenByNineJumbo1600.jpg",
+            "creditText": "Andrew Scrivani for The New York Times",
+            "dateModified": "2023-08-21T21:28:40.122Z",
+            "datePublished": "2016-07-15T17:45:42.000Z",
+            "height": "900",
+            "uploadDate": "2016-07-15T17:45:42.000Z",
+            "url": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-videoSixteenByNineJumbo1600.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/9b3f7aa1-4eb0-57f6-980d-975a2e08abc2#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-superJumbo.jpg",
+            "creditText": "Andrew Scrivani for The New York Times",
+            "dateModified": "2023-08-21T21:28:40.122Z",
+            "datePublished": "2016-07-15T17:45:42.000Z",
+            "height": "1365",
+            "uploadDate": "2016-07-15T17:45:42.000Z",
+            "url": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-superJumbo.jpg",
+            "width": "2048"
+          },
+          {
+            "@id": "nyt://image/9b3f7aa1-4eb0-57f6-980d-975a2e08abc2#square640",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-square640.jpg",
+            "creditText": "Andrew Scrivani for The New York Times",
+            "dateModified": "2023-08-21T21:28:40.122Z",
+            "datePublished": "2016-07-15T17:45:42.000Z",
+            "height": "640",
+            "uploadDate": "2016-07-15T17:45:42.000Z",
+            "url": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-square640.jpg",
+            "width": "640"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-videoSixteenByNineJumbo1600.jpg",
+        "transcript": "tk",
+        "uploadDate": "2016-07-15T17:45:57.000Z",
+        "url": "https://www.nytimes.com/video/dining/100000004529164/creamy-corn-pasta-with-basil.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jill"
+          },
+          "reviewBody": "Used Rummo gluten free pasta and added sundried tomato chicken sausage. \nYummy. Easy. Quick.",
+          "datePublished": "2025-05-21T15:25:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MRQ"
+          },
+          "reviewBody": "Delish, a great spring pasta!! Added prosciutto at the beginning of step three and peas with the 1/4 cup corn. Used frozen corn and turned out just great. Also added a little lemon zest at the end rather than juice to finish. Forgot to add the red pepper flakes- will need to remember next time!!",
+          "datePublished": "2025-04-16T02:14:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "Wow!!! Excellent! I’ll be making this again and again.\nOne question— did I miss the amount of pasta water to reserve? I looked a few times and couldn’t find it. But the sauce came together beautifully and I really didn’t need and water, so no problem. Served w spinach salad and fresh bread. Hands down: fantastic!!",
+          "datePublished": "2025-03-14T23:54:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SG"
+          },
+          "reviewBody": "My kids love this. It's a great weeknight meal if you make the sauce in advance and right before adding in the pasta water and cheese, you freeze or refrigerate the sauce. When you're ready to eat you can boil the pasta, thaw the sauce in the microwave, and then whisk in the pasta water and cheese. Absolutely delicious. \n\nTo add some vegetables, you can boil some frozen peas at the same time as you cook the pasta.",
+          "datePublished": "2025-03-11T17:05:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "N"
+          },
+          "reviewBody": "We didnt have a blender and used a mashed potato maker. It was probably not as creamy but still so good. We added a big garlic clove, minced, as the butter was browning, before the corn. We didnt have corn (we’re in a remote place in the middle of winter) so we used frozen kernels and it was all super. In our opinion, totally worth it! We had it with salmon roasted on the pan (4 min skin side down and 4 min skin side up) and it was perfect. Highly recommend",
+          "datePublished": "2025-02-16T15:09:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "H.E."
+          },
+          "reviewBody": "Do you want to be happy? Do you want to make the most of life? This summer: Grow yourself a pot of basil, find a local corn farmer, and make this pasta as many times as you can. \n\nTake Melissa's advice to taste/consider when adding lemon and adjusting salt, the balance here is a significant factor in achieving optimal flavor. I recommend adding more corn and boiling the cobs to make a corn broth for the pasta as other comments suggest. \n\nThis dish amplifies the joys of summer. THANK YOU MELISSA!",
+          "datePublished": "2025-02-14T17:34:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TR"
+          },
+          "reviewBody": "Agree with others that this is too sweet, and I tried balancing as others have recommended with extra onion, garlic, paprika, chili, and sausage (didn't have bacon). If I made it again I would add miso to bring salty and umami.",
+          "datePublished": "2025-02-09T17:13:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Faith"
+          },
+          "reviewBody": "Wow, this was shockingly good!! Made exactly as-is, but I would recommend reserving more than 1 cup of pasta water. Might possibly be just me or my preference, but we ended up using more than 1 cup to keep the pasta glossy and allow for a bit more sauce.  We ended up using spaghetti and basil from the garden, as that's what we had on hand. Next time, I think I'll toast some panko with butter and add that on top for some crunch. Definitely a repeat recipe!",
+          "datePublished": "2024-12-18T16:50:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "King of Queens"
+          },
+          "reviewBody": "Amazing. My 6 year old loved it after picking fresh corn from the farm. Can’t wait to make it again!",
+          "datePublished": "2024-10-07T23:07:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christina P"
+          },
+          "reviewBody": "I put the pepper flakes in with the purée and it gave this dish such a nice low heat! Delicious!",
+          "datePublished": "2024-09-27T22:38:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "Needed an extra 1/2 cup water and a few more minutes stovetop to tenderize 1.75 cups corn. Delicious!",
+          "datePublished": "2024-09-23T03:14:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cynthia"
+          },
+          "reviewBody": "I have made this a number of times. A summer favorite. This time I added a couple of tablespoons of cream cheese to the mix. Was good",
+          "datePublished": "2024-09-21T01:02:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Neems"
+          },
+          "reviewBody": "091024 - Made this for Beth and John. We all loved it. Added shrimp for protein and used 4 ears of corn, reserving ~3/4 cup to sauté. Garnished with Thai basil and fresh grated parm. Added corn cobs to pasta water.",
+          "datePublished": "2024-09-11T21:51:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lauren"
+          },
+          "reviewBody": "Followed as directed except I used 3 ears of corn and reserved 1/2 cup whole corn for the sauce. I also used a mix of 75% basil and 25% mint. I also strained my corn puree through a fine mesh sieve which is a bit cheffy and added another step but I found the puree still a little fiber-y even after being blitzed in a Vitamix. I would do all of the above again. Served 2 - we gobbled it up!",
+          "datePublished": "2024-09-05T00:46:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dana"
+          },
+          "reviewBody": "SO corny! It doesn't reheat super well, so make sure you scarf it all down fresh. (This shouldn't be a problem.)",
+          "datePublished": "2024-09-03T14:47:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul"
+          },
+          "reviewBody": "Delicious.  Make a stock with the corn cobs. Simmer in water 10 - 15 minutes.  Use this stock to cook the pasta. More corn taste. Reserve a higher proportional of whole kernels. 1/2 cup, maybe more for crunch in the finished dish.  Or just use more corn.",
+          "datePublished": "2017-10-24T21:29:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maire"
+          },
+          "reviewBody": "Fabulous! Thanks, Melissa.  I added chopped grape tomatoes - in halves or quarters - which also adds another bright flavor to the dish. I added the tomatoes in at the end with the basil.  Yum, Yum and Yum!",
+          "datePublished": "2017-10-24T21:12:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gustus"
+          },
+          "reviewBody": "Sold!  But everything's better with pork...I'm gonna add some bacon.",
+          "datePublished": "2017-10-24T21:13:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janice"
+          },
+          "reviewBody": "Jeff took the doors off the Jeep since it was a beautiful day. Unfortunately, when he rounded a bend one of the grocery bags fell out of the back seat and into the road! Luckily no one was injured. Long story short, this recipe is delicious even without scallions!",
+          "datePublished": "2020-02-16T02:25:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rick Stutzel"
+          },
+          "reviewBody": "Yummy. I added a pound of shrimp and a clove of garlic, and used mint. Really summer!",
+          "datePublished": "2017-10-24T21:21:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "HaveACookie"
+          },
+          "reviewBody": "How'd you like the pasta?",
+          "datePublished": "2017-10-24T21:14:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rena"
+          },
+          "reviewBody": "We made this last night and it was surprisingly good.  Like others suggested, we added a 1/4 cup of finely diced pancetta (Italian bacon) from Trader Joe's. We threw it in the saute pan between Steps 2 & 3.",
+          "datePublished": "2017-10-24T21:22:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bicka"
+          },
+          "reviewBody": "I love corn so I followed the recipe as written.  It was very interesting, but I found the sweetness of the corn a bit overwhelming.  I added the cheese, lemon juice and basil as directed but still found it a bit cloying.  If I make again, I would start with some garlic along with the shallots and add the red pepper during the initial sauté rather than at the end.  I also thought that the amount of cheese was far too much and made the dish very gooey and didn't add a lot of depth.",
+          "datePublished": "2017-10-24T21:32:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ruthblue"
+          },
+          "reviewBody": "I tend to favor Melissa Clark's recipes, but this was much ado about not very much: corn puree on pasta wasn't an especially toothsome result. That said, I would add more kick with the red pepper flakes by tossing them in with the butter and corn kernels rather than sprinkling them on at the end. And no need to fuss with a food processor to puree the cooked corn--I put them into a bowl and used my Braun stick blender and it worked beautifully, with super easy cleanup.",
+          "datePublished": "2017-10-24T21:06:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LovesToCookNYC"
+          },
+          "reviewBody": "This was restaurant quality delicious. I added lump crab and chopped cherry tomatoes at the end. I also let the butter brown - I think this was the finishing touch. My guests were all so impressed!  As another reader suggested, I also saved my corn cobs and boiled them along with the water for the pasta for extra pasta flavor.",
+          "datePublished": "2017-10-01T17:11:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "qatburger"
+          },
+          "reviewBody": "Really delightful.  One caveat: I needed nearly 4 good-sized ears of corn to get 2 cups. Also, my corn mixture needed more than a little water in the blender (probably closer to 1/2 cup) to get a pourable texture.",
+          "datePublished": "2017-10-24T21:22:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anna"
+          },
+          "reviewBody": "A little sweet for my taste. I agree that bacon would help play off all the sweetness, and add a smokiness that would work well with the creamy theme. If you're veggie, I suggest adding about 1T smashed capers when browning the butter & sautéing the whole corn. Add a little caper brine at the end. The acid with balance the sweetness. Bump up the chili flakes, and don't skimp on the herbs.",
+          "datePublished": "2017-10-01T17:40:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate"
+          },
+          "reviewBody": "This is my absolute favorite pasta recipe! I make it like once a week during the summer when I can get the ingredients fresh at the farmer's market. I was wondering if I could make a big batch of the sauce while corn is in season and then freeze it in containers to heat up and put over pasta throughout the fall/winter. Thoughts?",
+          "datePublished": "2017-10-01T17:13:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nathan Brasfield"
+          },
+          "reviewBody": "One of the best recipes I've found on NYT Cooking.<br/>I left out the Parmesan to make it vegan, and it worked wonderfully.<br/>However, I strongly suggest that you either follow the advice to make more sauce, or use less pasta. As I was pouring the pasta into the pan, I quickly reversed and put some back into the pot because I could tell it would spread the sauce too thin. I probably used about 2/3 of the pasta, but you could quite feasibly use even closer to half to make it more saucy.",
+          "datePublished": "2017-10-01T17:06:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenny"
+          },
+          "reviewBody": "This was delicious. I added a few cloves of garlic with the scallions and a little bacon, which gave it a great smoky flavor. Almost like a summery take on carbonara. My husband declared this some of the best pasta I've made, and I make a lot of pasta. Toddler approved as well.",
+          "datePublished": "2017-10-01T15:27:14.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2016
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1018212-creamy-corn-pasta-with-basil",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2016,
+      "description": "There’s no cream in this wonderfully summery pasta dish, just a luscious sauce made from puréed fresh corn and sweet sautéed scallions, along with Parmesan for depth and red chile flakes for a contrasting bite. Be sure to add the lemon juice and fresh herbs at the end; the rich pasta really benefits from their bright, fresh flavors. And while this is best made at the height of corn season, it’s still quite good even with out-of-season supermarket ears, or with frozen corn.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Creamy Corn Pasta With Basil",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/9b3f7aa1-4eb0-57f6-980d-975a2e08abc2#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2023-08-21T21:28:40.122Z",
+          "datePublished": "2016-07-15T17:45:42.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2016-07-15T17:45:42.000Z",
+          "url": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/9b3f7aa1-4eb0-57f6-980d-975a2e08abc2#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2023-08-21T21:28:40.122Z",
+          "datePublished": "2016-07-15T17:45:42.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2016-07-15T17:45:42.000Z",
+          "url": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/9b3f7aa1-4eb0-57f6-980d-975a2e08abc2#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-square640.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2023-08-21T21:28:40.122Z",
+          "datePublished": "2016-07-15T17:45:42.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2016-07-15T17:45:42.000Z",
+          "url": "https://static01.nyt.com/images/2020/09/20/multimedia/clark-corn-pasta/clark-corn-pasta-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1018212-creamy-corn-pasta-with-basil"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:36:07.101Z",
+  "scraping_status": "scraped"
+}

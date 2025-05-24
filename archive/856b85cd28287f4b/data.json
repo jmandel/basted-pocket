@@ -1,0 +1,521 @@
+{
+  "id": "856b85cd28287f4b",
+  "original_url": "https://cooking.nytimes.com/recipes/1023051-spring-barley-soup",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1023051-spring-barley-soup",
+  "fetched_title": "Spring Barley Soup Recipe",
+  "main_text_content": "This soup is as cozy as mushroom-barley soup and as vibrant as spring Chewy barley, crisp asparagus and peas lay in a broth bolstered by umami-rich soy sauce and miso Hits of fresh ginger and vinegar enliven the mix",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025053-miso-mushroom-barley-soup\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Miso-Mushroom Barley Soup</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Yasmin Fahr</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/856b85cd28287f4b/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/8f9934f9-91f8-56cc-940e-377d96aa9f8c",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1023051-spring-barley-soup",
+        "@type": "WebPage",
+        "name": "Spring Barley Soup"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023051-spring-barley-soup",
+      "name": "Spring Barley Soup",
+      "description": "This soup is as cozy as mushroom-barley soup and as vibrant as spring. Chewy barley, crisp asparagus and peas lay in a broth bolstered by umami-rich soy sauce and miso. Hits of fresh ginger and vinegar enliven the mix. Feel free to swap in other vegetables that catch your eye: Add leeks and hearty greens with the barley, and quicker-cooking vegetables like sliced turnips or snap peas with the asparagus. Thinly slicing the asparagus makes it easier to eat with a spoon, but cut them larger if you prefer it. For more protein, add cubed soft or firm tofu to bowls, or stir a beaten egg into the pot as you would for hot and sour soup.",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/2639228c-a289-5fbe-a2bf-33c91597e6f9#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2022-03-22T14:24:24.386Z",
+          "datePublished": "2022-03-22T14:24:24.386Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-22T14:24:24.386Z",
+          "url": "https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/2639228c-a289-5fbe-a2bf-33c91597e6f9#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-superJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2022-03-22T14:24:24.386Z",
+          "datePublished": "2022-03-22T14:24:24.386Z",
+          "height": "1279",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-22T14:24:24.386Z",
+          "url": "https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/2639228c-a289-5fbe-a2bf-33c91597e6f9#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2022-03-22T14:24:24.386Z",
+          "datePublished": "2022-03-22T14:24:24.386Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-22T14:24:24.386Z",
+          "url": "https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT45M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "appetizer, main course",
+      "keywords": "asparagus, edamame, ginger, partial-access-ic, pea, pearl barley, soup, healthy, vegan, vegetarian, spring",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 833
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 248,
+        "unsaturatedFatContent": "4 grams",
+        "carbohydrateContent": "44 grams",
+        "cholesterolContent": null,
+        "fatContent": "5 grams",
+        "fiberContent": "11 grams",
+        "proteinContent": "11 grams",
+        "saturatedFatContent": "1 gram",
+        "sodiumContent": "710 milligrams",
+        "sugarContent": "6 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 tablespoon toasted sesame oil, coconut oil or olive oil",
+        "6 garlic cloves, coarsely chopped",
+        "3/4 cup pearled barley",
+        "1 tablespoon soy sauce, plus more to taste",
+        "1 bunch asparagus (about 1 pound), tough ends trimmed, stalks thinly sliced 1/4-inch thick, tips left whole",
+        "1 cup fresh or frozen shelled peas, edamame or fava beans",
+        "3 tablespoons yellow or white miso",
+        "1 tablespoon unseasoned rice vinegar",
+        "1 (1-inch) piece fresh ginger, peeled and finely grated (about 1 tablespoon)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large pot or Dutch oven, add the oil and garlic, and heat over medium. Cook, stirring, until fragrant and softened but not browned, 2 to 4 minutes. Add 6 cups of water, the barley and 2 teaspoons soy sauce. Bring to a boil over high, then reduce heat to medium and simmer until the barley is tender, 25 to 30 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the asparagus and peas, and cook until bright green and crisp-tender, 3 to 4 minutes. Remove pot from heat."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a small bowl or liquid measuring cup, stir a spoonful of the soup into the miso until dissolved. Pour into the pot, along with the rice vinegar, ginger and remaining 1 teaspoon soy sauce; stir to combine. Taste for salt level and adjust with more soy sauce. (Leftovers will keep for up to 2 days; rewarm over low heat, thin with water, and add vinegar and soy sauce to taste.)"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2022-03-21T00:00:00.000Z",
+      "dateModified": "2022-03-31T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "reviewBody": "It’s high spring here in Southern California so I wasn’t particularly in the mood for soup when my friend Lisa, who’d just returned from her father’s funeral in South Africa, requested it. But she needed comfort food and this recipe ticked the spring box, so Voila! I went overboard on the asparagus and peas, but we loved it - nearly cleared the pot out - and I’ll definitely be making it again. It’s a great light dinner option but would also be a delightful starter before a grilled steak. Bon appetite!",
+          "datePublished": "2025-04-14T03:25:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Matthew"
+          },
+          "reviewBody": "Sometimes the ingredients in a recipe come together to create something greater than the sum of their parts and sometimes a recipe just ends up tasting like all of the ingredients thrown together and they don't really do much to play off or enhance one another. This recipe is the latter. It's not awful but not very good either and even with a pretty easy process to make it, I still don't think it's worth it.",
+          "datePublished": "2024-06-03T15:10:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "nina"
+          },
+          "reviewBody": "Not sure, but the recipe as written would make a good first course. I needed it to make a meal, so I added all the extras, greens, pre-sauteed mushrooms and tofu. topped with scallions.  I also used 1 cube bullion in the broth.  This way was delicious and filling.",
+          "datePublished": "2024-05-12T13:41:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rob"
+          },
+          "reviewBody": "Double it and add shiitakes.",
+          "datePublished": "2024-04-24T23:20:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jamie"
+          },
+          "reviewBody": "Tasty, though I did use broth instead of water - and added some snow peas. We liked it a lot...",
+          "datePublished": "2024-04-14T17:16:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steve"
+          },
+          "reviewBody": "Fantastic. Added some parmesan rinds to the broth as it simmered and one bouillon cube, and was generous with the ginger. Very flavorful.",
+          "datePublished": "2024-03-19T00:41:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JShef"
+          },
+          "reviewBody": "I note that the cooks who called this delicious did a lot of creative upgrading. I made the soup as written. As written, this is a waste of asparagus. When it was done, I made it edible by adding three packets of instant dashi, several tablespoons of Shaoxing wine, black vinegar, and several lashings of white pepper. It's unfortunate, because I love asparagus and peas and barley and miso. Not worth making again.",
+          "datePublished": "2024-03-07T19:08:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amirissa"
+          },
+          "reviewBody": "While this was tasty, I didn’t feel like it was worth the super hydrating necessary considering the amount of sodium needed. \n\nThe Spring Tofu Soup by Alison Roman is a much better option for a flavorful, spring, veggie soup.",
+          "datePublished": "2024-01-25T02:35:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "Used farro.  Had no barley.  Used turkey stock I made and needed to use.  That added a bit of flavor.  I would increase the grain to a full cup next time, for a more substantial meal.  Good way to use veggies from weekly CSA boxes but as written was a bit bland.  Easily spiced up with your favorite zing.  Extra vinegar didn't do it for me and I'm not thrilled with soy sauce.  Gochujang worked well. Don't give up.  Experiment.",
+          "datePublished": "2023-05-21T05:11:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maura"
+          },
+          "reviewBody": "I use more water (additional 2-3 cups) than what was listed, making a true 6 portions, so the sodium was much less of a concern. I think next time I'll add some silken tofu... and something crunch, as well... maybe fresh scallions. Overall, great recipe!",
+          "datePublished": "2023-05-02T20:33:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "E.S."
+          },
+          "reviewBody": "I liked it, but would make half a batch and less barley in relation to broth.",
+          "datePublished": "2023-04-29T18:03:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara"
+          },
+          "reviewBody": "It was OK. Even with the miso and soy sauce, I felt like it needed salt. I also squeezed in a half of lemon- still, meh.  Probably won't make it again.",
+          "datePublished": "2023-04-16T23:47:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen  NBvW"
+          },
+          "reviewBody": "Those complaing about the salt ought to read   <a href=\"https://nutritionfacts.org/2020/04/14/what-about-the-sodium-in-miso\" target=\"_blank\">https://nutritionfacts.org/2020/04/14/what-about-the-sodium-in-miso</a>/  along w'a # of other statements about salt in general, it's relationship to potassium and soy and how to use salt in our cooking! I have found that miso makes a very handy ingredient in recipes that are NOT considered \"Asian\" !",
+          "datePublished": "2023-04-14T14:55:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mahua"
+          },
+          "reviewBody": "This turned out to be one of the most boring dishes I’ve made in a long time. Sorry chef, it just didn’t rock my boat. Bland, despite the miso and ginger, felt healthy but almost like I should have been down with a bad cold and flu to make it seem like a medicinal remedy.\nNope, shall not be making this again.",
+          "datePublished": "2023-03-10T02:19:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca"
+          },
+          "reviewBody": "Beautiful soup! Added a few tbsp. wakame. Simply delicious!",
+          "datePublished": "2022-08-18T15:22:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill"
+          },
+          "reviewBody": "For those with high blood pressure, a warning.  The soy and miso ingredients in this recipe add up to a small sodium bomb. It's also critical to use the called-for unseasoned rice vinegar, as the seasoned variety contains loads of sodium.  While barley is known to offset some of the effects of salt on high blood pressure, consider using low sodium soy sauce, tamari or coconut aminos to bring down the sodium levels - and your blood pressure.",
+          "datePublished": "2022-03-27T18:30:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy Hamann"
+          },
+          "reviewBody": "This is a terrific soup! I missed the part where there are not any mushrooms in the soup, and had already bought some shiitakes (about 3/4 lb.), so I chopped them coarsely and gave them a quick saute in a tiny bit of olive oil, then added them with the asparagus and peas and edamame. Also used a veggie stock instead of water. I added chopped, cooked kale to my bowl, left the kale out of my husband's bowl (he's not a fan), so I also got my greens/calcium. This is definitely a keeper!",
+          "datePublished": "2022-03-27T22:55:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Florence"
+          },
+          "reviewBody": "I commend the chef for a soup recipe that doesn’t rely on store bought broth. Creative alternative",
+          "datePublished": "2022-03-24T07:51:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suzanne"
+          },
+          "reviewBody": "Delicious! Added some homemade chicken stock instead of 1 cup of water, 8 oz cremini sautéed first, edamame, about 1 t of garlic chili paste at the end and garnished with scallions. Lots of depth of flavor. Really good ginger notes from very fresh ginger. A big hit!",
+          "datePublished": "2022-03-29T01:43:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Name macrojane"
+          },
+          "reviewBody": "Next time I will use 1/2 c pearled barley. 3/4 cup made this more like a stew.",
+          "datePublished": "2022-04-01T17:05:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeff"
+          },
+          "reviewBody": "While this soup couldn't be easier to prepare, I was left thinking, but why bother? I found it to be bland and uninteresting. I made the recipe exactly as written and didn't taste the miso, the ginger, nor the rice vinegar. It tasted like some barley with asparagus and peas thrown in to a pot of water, and that's it. I finished two small bowls in about five minutes, and it certainly didn't constitute a meal. I would never, ever, bother to make this again.",
+          "datePublished": "2022-04-03T23:33:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shelley Fleming"
+          },
+          "reviewBody": "Husband made for me and it was excellent.  Yum!",
+          "datePublished": "2022-03-25T16:51:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elisabeth"
+          },
+          "reviewBody": "I love this soup! The miso paste I use is very salty, so I reduced it to 2 TBSP, and I added an extra cup of good store bought vegetable broth with the water, and I cut the barley in half. This, to me, was perfect. I wish I could think of what to replace the asparagus with once it’s out of season…would love to make this soup year round.",
+          "datePublished": "2022-05-04T03:21:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elise"
+          },
+          "reviewBody": "This was delicious.  I used farro as I didn't have barley and the cooking time was the same.  I added a leftover grilled chicken breast, that had been marinated in soy sauce, ginger and sesame oil before grilling, and it made a very satisfying dinner. Highly recommended",
+          "datePublished": "2022-04-06T13:12:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mahua"
+          },
+          "reviewBody": "This turned out to be one of the most boring dishes I’ve made in a long time. Sorry chef, it just didn’t rock my boat. Bland, despite the miso and ginger, felt healthy but almost like I should have been down with a bad cold and flu to make it seem like a medicinal remedy.\nNope, shall not be making this again.",
+          "datePublished": "2023-03-10T02:19:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "I would like to try this but asparagus is not yet in season where I live and I avoid buying it until I can buy local asparagus.  Thus, it is elevated to a greatly anticipated seasonal treat.  Once in season we will enjoy this soup and eat asparagus til it's coming out of our ears.",
+          "datePublished": "2022-03-27T15:50:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MRBR"
+          },
+          "reviewBody": "This was a hit and very well received by my young adult children who, like me,  like to concentrate on eating plants.\n\nI deliberated between using \"pearled\" or regular barley.  I went with the pearled as suggested.  I paused the recipe after step one for a few hours prior to adding the vegetables and the the barley continued to expand soaking up a great deal of the liquid.  This became quite thick and still very yummy.  Reminded us of risotto.  Looking forward to trying some variations",
+          "datePublished": "2022-04-12T20:25:14.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1023051-spring-barley-soup",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022,
+      "description": "This soup is as cozy as mushroom-barley soup and as vibrant as spring. Chewy barley, crisp asparagus and peas lay in a broth bolstered by umami-rich soy sauce and miso. Hits of fresh ginger and vinegar enliven the mix. Feel free to swap in other vegetables that catch your eye: Add leeks and hearty greens with the barley, and quicker-cooking vegetables like sliced turnips or snap peas with the asparagus. Thinly slicing the asparagus makes it easier to eat with a spoon, but cut them larger if you prefer it. For more protein, add cubed soft or firm tofu to bowls, or stir a beaten egg into the pot as you would for hot and sour soup.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Spring Barley Soup",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/2639228c-a289-5fbe-a2bf-33c91597e6f9#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2022-03-22T14:24:24.386Z",
+          "datePublished": "2022-03-22T14:24:24.386Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-22T14:24:24.386Z",
+          "url": "https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/2639228c-a289-5fbe-a2bf-33c91597e6f9#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-superJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2022-03-22T14:24:24.386Z",
+          "datePublished": "2022-03-22T14:24:24.386Z",
+          "height": "1279",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-22T14:24:24.386Z",
+          "url": "https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/2639228c-a289-5fbe-a2bf-33c91597e6f9#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2022-03-22T14:24:24.386Z",
+          "datePublished": "2022-03-22T14:24:24.386Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-22T14:24:24.386Z",
+          "url": "https://static01.nyt.com/images/2022/03/23/dining/as-spring-barley-soup/as-spring-barley-soup-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023051-spring-barley-soup"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:22.188Z",
+  "scraping_status": "scraped"
+}

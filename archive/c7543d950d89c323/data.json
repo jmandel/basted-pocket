@@ -1,0 +1,97 @@
+{
+  "id": "c7543d950d89c323",
+  "original_url": "https://food52.com/recipes/87490-best-broccoli-pesto-recipe",
+  "canonical_url": "https://food52.com/recipes/87490-best-broccoli-pesto-recipe",
+  "fetched_title": "Burnt Broccoli Pesto Recipe",
+  "main_text_content": "Beyond pasta, spread this pesto on sandwiches, pair it with some hard-boiled or scrambled eggs, use it as a base for pizzas or flatbreads, or dollop it over rice. ",
+  "main_html_content": "<nav aria-label=\"breadcrumbs\" class=\"breadcrumbs\">\n  <ol>\n    <li><a href=\"https://food52.com/recipes\" data-ga-event=\"inPageInteraction\" data-ga-event-action=\"Breadcrumbs Tag\" data-ga-event-label=\"Recipes\" data-ga-destination-url=\"https://food52.com/recipes\">Recipes</a></li>\n      <li><a href=\"https://food52.com/recipes/dinner\" data-ga-event=\"inPageInteraction\" data-ga-event-action=\"Breadcrumbs Tag\" data-ga-event-label=\"Dinner\" data-ga-destination-url=\"https://food52.com/recipes/dinner\" aria-current=\"location\">Dinner</a></li>\n  </ol>\n</nav>\n\n<header class=\"recipe__header\">\n  <h3 class=\"recipe__icon-br\">\n      <a href=\"https://food52.com/recipes/broccoli\" class=\"tag\" data-ga-event=\"inPageInteraction\" data-ga-event-action=\"Lead Tag\" data-ga-event-label=\"Broccoli\" data-ga-destination-url=\"https://food52.com/recipes/broccoli\">\n        Broccoli\n      </a>\n  </h3>\n\n  <h1 class=\"recipe__title\">\n    Burnt Broccoli Pesto\n  </h1>\n\n  <div class=\"meta\">\n      <div class=\"meta__author\">\n        <span>by:</span>\n        <a href=\"https://food52.com/users/2148598-carolina-gelen/recipes\" class=\"meta__caps\" rel=\"author\" data-ga-event=\"inPageInteraction\" data-ga-event-action=\"Author Name Click\" data-ga-event-label=\"meta__author\" data-ga-destination-url=\"https://food52.com/users/2148598-carolina-gelen/recipes\">Carolina Gelen</a>",
+  "key_image_url": "https://images.food52.com/tvqvO0NRHEG2OY3HSIuhS0W7aT8=/fit-in/1200x1200/c154c4e4-2992-4e57-be39-8bbecff57916--IMG_6164.jpeg",
+  "local_image_path": "scraped/c7543d950d89c323/image.jpeg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "mainEntityOfPage": "https://food52.com/recipes/87490-best-broccoli-pesto-recipe",
+      "name": "Burnt Broccoli Pesto ",
+      "image": [
+        "https://images.food52.com/SOw95kUEQxZsIPF-9UwLPv8jhCs=/1200x1200/c154c4e4-2992-4e57-be39-8bbecff57916--IMG_6164.jpeg",
+        "https://images.food52.com/PxDuhiBuUicKW17DiKAHEEi3iQY=/1200x900/c154c4e4-2992-4e57-be39-8bbecff57916--IMG_6164.jpeg",
+        "https://images.food52.com/Jt-hFhOo3cHHUUIMYsXEhDgZfyg=/1200x675/c154c4e4-2992-4e57-be39-8bbecff57916--IMG_6164.jpeg"
+      ],
+      "recipeCategory": "Dinner",
+      "recipeCuisine": "European",
+      "author": {
+        "@type": "Person",
+        "name": "Carolina Gelen",
+        "url": "https://food52.com/users/2148598-carolina-gelen"
+      },
+      "dateModified": "2022-03-03 11:08:04 -0500",
+      "datePublished": "2022-03-03 11:08:04 -0500",
+      "description": "Beyond pasta, spread this pesto on sandwiches, pair it with some hard-boiled or scrambled eggs, use it as a base for pizzas or flatbreads, or dollop it over rice. ",
+      "recipeYield": "Serves 1¾ cups",
+      "prepTime": "PT0H10M",
+      "cookTime": "PT0H20M",
+      "totalTime": "PT0H30M",
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "name": "Drizzle the 2 tablespoons of olive oil in a cast-iron skillet over medium heat. When the oil is shimmering, add the broccoli florets to the pan and weigh them down using a grill press or another heavy skillet. Char the broccoli for 4 to 6 minutes, without moving it, until the broccoli is burnt and charred in spots.",
+          "text": "Drizzle the 2 tablespoons of olive oil in a cast-iron skillet over medium heat. When the oil is shimmering, add the broccoli florets to the pan and weigh them down using a grill press or another heavy skillet. Char the broccoli for 4 to 6 minutes, without moving it, until the broccoli is burnt and charred in spots."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Use a wooden spoon to toss the broccoli, then pour in ½ cup of water. Cover the pan with a lid or sheet pan and steam the broccoli florets for 7 to 10 minutes, until most of the water has evaporated and the broccoli is bright green and fork-tender.",
+          "text": "Use a wooden spoon to toss the broccoli, then pour in ½ cup of water. Cover the pan with a lid or sheet pan and steam the broccoli florets for 7 to 10 minutes, until most of the water has evaporated and the broccoli is bright green and fork-tender."
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Using a mortar and pestle, blender, or food processor, process the nuts, garlic, pepper, and salt until smooth. Add the Parmesan, basil, and ⅓ cup of oil and blend until smooth. Add the charred broccoli and process until roughly blended (leave some chunkier bits in there for texture).",
+          "text": "Using a mortar and pestle, blender, or food processor, process the nuts, garlic, pepper, and salt until smooth. Add the Parmesan, basil, and ⅓ cup of oil and blend until smooth. Add the charred broccoli and process until roughly blended (leave some chunkier bits in there for texture)."
+        }
+      ],
+      "recipeIngredient": [
+        "1/3 cup plus 2 tablespoons extra-virgin olive oil, divided",
+        "8 ounces broccoli florets (about 1 medium head)",
+        "1/4 cup raw nuts (small, such as pine nuts, or chopped, such as walnuts)",
+        "3  medium garlic cloves, peeled",
+        "1/2 teaspoon freshly ground black pepper",
+        "1 pinch kosher salt",
+        "1 cup (100 grams) finely grated Parmesan",
+        "1 handful basil leaves (or another tender herb, like parsley or dill)"
+      ],
+      "commentCount": 7,
+      "aggregateRating": {
+        "ratingCount": "14",
+        "ratingValue": "4.642857142857143"
+      },
+      "video": {
+        "@type": "VideoObject",
+        "name": "Burnt Broccoli Pesto ",
+        "description": "Beyond pasta, spread this pesto on sandwiches, pair it with some hard-boiled or scrambled eggs, use it as a base for pizzas or flatbreads, or dollop it over rice. ",
+        "thumbnailUrl": [
+          "https://images.food52.com/SOw95kUEQxZsIPF-9UwLPv8jhCs=/1200x1200/c154c4e4-2992-4e57-be39-8bbecff57916--IMG_6164.jpeg",
+          "https://images.food52.com/PxDuhiBuUicKW17DiKAHEEi3iQY=/1200x900/c154c4e4-2992-4e57-be39-8bbecff57916--IMG_6164.jpeg",
+          "https://images.food52.com/Jt-hFhOo3cHHUUIMYsXEhDgZfyg=/1200x675/c154c4e4-2992-4e57-be39-8bbecff57916--IMG_6164.jpeg"
+        ],
+        "contentUrl": "https://cdn.jwplayer.com/videos/ZAuh1maA.mp4",
+        "uploadDate": "2022-03-03 11:08:04 -0500"
+      },
+      "keywords": "Broccoli",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Food52",
+        "logo": "https://food52.com/assets/logo-food52.png",
+        "url": "https://food52.com/",
+        "sameAs": [
+          "https://www.facebook.com/food52",
+          "https://www.instagram.com/Food52/",
+          "https://twitter.com/Food52",
+          "https://www.pinterest.com/food52/",
+          "https://www.youtube.com/channel/UCfFI8jIjvIApUACJ3qjax2w"
+        ]
+      }
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:31:50.840Z",
+  "scraping_status": "scraped"
+}

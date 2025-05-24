@@ -1,0 +1,467 @@
+{
+  "id": "dec5e01dcacb07ce",
+  "original_url": "https://www.maangchi.com/recipe/gim-bugak",
+  "canonical_url": "https://www.maangchi.com/recipe/gim-bugak",
+  "fetched_title": "Fried seaweed paper coated with glutinous rice paste (Gim-bugak: 김부각) recipe by Maangchi",
+  "main_text_content": "Today I&#039;m going to introduce you to gim-bugak, which is seaweed paper coated with glutinous rice paste and then fried. It tastes very crispy, airy, savory, and full of the...",
+  "main_html_content": "<h1 class=\"entry-title mega-heading\">Fried seaweed paper coated with glutinous rice paste</h1><h2 class=\"entry-title mega-heading-translation\"><span class=\"romanized-name\">Gim-bugak</span> <span class=\"korean-name\">김부각</span></h2><p class=\"author vcard postedby\">By <a href=\"/about\" rel=\"author\"><span class=\"fn n nickname\">Maangchi</span></a></p><p class=\"postdate updated\">Updated on July 29th, 2021</p><div  class=\"rmp-widgets-container rmp-wp-plugin rmp-main-container js-rmp-widgets-container js-rmp-widgets-container--71016 \"  data-post-id=\"71016\"><div class=\"rmp-rating-widget js-rmp-rating-widget\"><div class=\"rmp-rating-widget__icons\"><ul class=\"rmp-rating-widget__icons-list js-rmp-rating-icons-list\"><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Not at all useful\" data-value=\"1\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Somewhat useful\" data-value=\"2\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Good recipe\" data-value=\"3\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Great recipe\" data-value=\"4\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"The besttt!!!\" data-value=\"5\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li></ul>",
+  "publication_date": "2017-01-17T05:32:19+00:00",
+  "author": "Maangchi",
+  "key_image_url": "https://i.ytimg.com/vi/w5-3TsT4Ixs/maxresdefault.jpg?meta=og:image",
+  "local_image_path": "scraped/dec5e01dcacb07ce/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "/recipe/gim-bugak#sso/recipe/71016",
+          "@context": "https://schema.org",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.maangchi.com/recipe/gim-bugak",
+          "url": "https://www.maangchi.com/recipe/gim-bugak",
+          "sameAs": [
+            "https://www.maangchi.com/?p=71016"
+          ],
+          "name": "Fried seaweed paper coated with glutinous rice paste (Gim-bugak: 김부각)",
+          "description": "Today I&#039;m going to introduce you to gim-bugak, which is seaweed paper coated with glutinous rice paste and then fried. It tastes very crispy, airy, savory, and full of the fresh flavor of the sea that is unique to gim. When it&#039;s coated with rice paste and dried and fried, it expands like a...",
+          "aggregateRating": {
+            "@id": "/recipe/gim-bugak#sso/recipe/71016/rating-aggregate/5/314/1/5"
+          },
+          "image": [
+            {
+              "@id": "https://i.ytimg.com/vi/w5-3TsT4Ixs/maxresdefault.jpg?meta=og:image#sso/image-object"
+            }
+          ],
+          "video": [
+            {
+              "@id": "https://www.youtube.com/embed/w5-3TsT4Ixs#sso/video-object"
+            }
+          ],
+          "publisher": [
+            {
+              "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+            }
+          ],
+          "headline": "Fried seaweed paper coated with glutinous rice paste (Gim-bugak: 김부각)",
+          "keywords": "bugak, 부각, 부각 만드는법, 김부각, 김부각 만드는법, fried seaweed coated with rice paste, gim-bugak, gimbugak, Korean cooking, Korean crsipy seaweed chips, Korean cuisine, Korean kitchen, Korean vegan food, Maangchi seaweed chips, seaweed chips, vegetarian dish",
+          "isFamilyFriendly": true,
+          "inLanguage": "en_US",
+          "datePublished": "2017-01-17T05:32:19+00:00",
+          "dateModified": "2021-07-29T19:29:29+00:00",
+          "author": {
+            "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+          },
+          "thumbnailUrl": "https://i.ytimg.com/vi/w5-3TsT4Ixs/maxresdefault.jpg?meta=og:image",
+          "commentCount": 10,
+          "comment": [
+            {
+              "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/54882"
+            },
+            {
+              "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/49930"
+            },
+            {
+              "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/49769"
+            },
+            {
+              "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/46912"
+            },
+            {
+              "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/46100"
+            },
+            {
+              "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/45578"
+            },
+            {
+              "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/45126"
+            }
+          ],
+          "recipeCuisine": "Korean",
+          "recipeCategory": "Snack",
+          "recipeIngredient": [],
+          "recipeInstructions": [
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 1
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 2
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/gim-bugak#sso/recipe/71016/rating-aggregate/5/314/1/5",
+          "@context": "https://schema.org",
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "ratingCount": 314,
+          "worstRating": 1,
+          "bestRating": 5
+        },
+        {
+          "@id": "https://i.ytimg.com/vi/w5-3TsT4Ixs/maxresdefault.jpg?meta=og:image#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://i.ytimg.com/vi/w5-3TsT4Ixs/maxresdefault.jpg?meta=og:image",
+          "alternativeHeadline": "Korean seaweed chips (Gim-bugak: ê¹ë¶ê°)",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1280",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1280"
+        },
+        {
+          "@id": "#sso/qv-height-px-720",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "720"
+        },
+        {
+          "@id": "https://www.youtube.com/embed/w5-3TsT4Ixs#sso/video-object",
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "url": "https://www.youtube.com/embed/w5-3TsT4Ixs",
+          "name": "Korean seaweed chips (Gim-bugak: ê¹ë¶ê°)",
+          "description": "Today Iâm going to introduce you to gim-bugak (ê¹ë¶ê°), which is fried seaweed paper coated with glutinous rice paste. It tastes very crispy, airy, savory, and ...",
+          "embedUrl": "https://www.youtube.com/embed/w5-3TsT4Ixs",
+          "encodingFormat": "text/html",
+          "duration": "PT17M16S",
+          "uploadDate": "2017-01-17T04:42:00+00:00",
+          "thumbnailUrl": "https://i.ytimg.com/vi/w5-3TsT4Ixs/maxresdefault.jpg?meta=og:image",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ],
+          "keywords": "Maangchi, seaweed chips, gim-bugak, gimbugak, bugak, ë¶ê°, ê¹ë¶ê°, Korean crsipy seaweed chips, fried seaweed coated with rice paste, vegetarian dish, Korean vegan food, Korean cooking, ë¶ê° ë§ëëë², ê¹ë¶ê° ë§ëëë², Maangchi seaweed chips, Korean cuisine, Korean kitchen, Korean traditional food"
+        },
+        {
+          "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person",
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "url": "https://www.maangchi.com",
+          "name": "Maangchi",
+          "description": "Author archive page for Maangchi.",
+          "image": [
+            {
+              "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object"
+            }
+          ]
+        },
+        {
+          "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-1200"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "#sso/qv-height-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png",
+          "identifier": "93971-wpsso-schema-4x3",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-900"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-900",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "900"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png",
+          "identifier": "93971-wpsso-schema-16x9",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-675"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-675",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "675"
+        },
+        {
+          "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/54882",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/gim-bugak/comment-page-1#comment-54882",
+          "name": "Comment by FoodLover_101 on August 26, 2024",
+          "description": "Can I store my gim-bugak uncooked, and for how long its storage life, i want to cook it when I&hellip;",
+          "text": "Can I store my gim-bugak uncooked, and for how long its storage life, i want to cook it when I want to eat it when its really crispy, also love your recipe&#039;s, this is the channel I always look when I try to cook korean cuisine.",
+          "dateCreated": "2024-08-26T06:13:10-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "FoodLover_101"
+          }
+        },
+        {
+          "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/49930",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/gim-bugak/comment-page-1#comment-49930",
+          "name": "Comment by Inches on November 4, 2019",
+          "description": "Hello, I see you have an Air Fryer in the background of some videos. Have you ever finished cooking these&hellip;",
+          "text": "Hello, I see you have an Air Fryer in the background of some videos. Have you ever finished cooking these in the air fryer?",
+          "dateCreated": "2019-11-04T16:12:38-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Inches"
+          }
+        },
+        {
+          "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/49769",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/gim-bugak/comment-page-1#comment-49769",
+          "name": "Comment by Umaof2 on September 8, 2019",
+          "description": "Do you have a recipe for pepper bugak? It was my favorite childhood snack back in Korea but I don&#039;t&hellip;",
+          "text": "Do you have a recipe for pepper bugak? It was my favorite childhood snack back in Korea but I don&#039;t know how to make it. I think it&#039;s almost the same as the gim except that I need to steam the peppers with the rice flower, then dehydrated it? Please help! Thank you for allowing me to learn how to cook Korean food and share the heritage with my family.",
+          "dateCreated": "2019-09-08T16:12:41-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Umaof2"
+          }
+        },
+        {
+          "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/46912",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/gim-bugak/comment-page-1#comment-46912",
+          "name": "Comment by paskinmath on December 6, 2017",
+          "description": "Any other common flavors? I can&#039;t handle spicy so korean food can be a challenge sometimes. I was thinking about&hellip;",
+          "text": "Any other common flavors? I can&#039;t handle spicy so korean food can be a challenge sometimes. I was thinking about shrimp powder-especially inside. Also it could be painted when nearly dry with soy sauce maybe? perhaps something like oyster sauce?",
+          "dateCreated": "2017-12-06T22:26:51-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "paskinmath"
+          }
+        },
+        {
+          "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/46100",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/gim-bugak/comment-page-1#comment-46100",
+          "name": "Comment by Jemappellesom on July 11, 2017",
+          "description": "I just wanna eat n try it out!!",
+          "text": "I just wanna eat n try it out!!",
+          "dateCreated": "2017-07-11T07:26:32-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Jemappellesom"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/46101"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/46101",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/gim-bugak/comment-page-1#comment-46101",
+          "name": "Reply by Maangchi on July 11, 2017",
+          "description": "Your gimbugak looks absolutely crunchy and yummy! clap! clap! : )",
+          "text": "Your gimbugak looks absolutely crunchy and yummy! clap! clap! : )",
+          "dateCreated": "2017-07-11T08:08:15-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/45578",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/gim-bugak/comment-page-1#comment-45578",
+          "name": "Comment by Julid Mie on April 17, 2017",
+          "description": "Hi Maangchi, i followes your recipe but when i dried the seeweed in the sun,there were some purple water leaking&hellip;",
+          "text": "Hi Maangchi, i followes your recipe but when i dried the seeweed in the sun,there were some purple water leaking from the seeweed. :(( I&#039;m really nervous, give me some advice, please. Thank you so much.",
+          "dateCreated": "2017-04-17T08:56:42-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Julid Mie"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/45619"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/45619",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/gim-bugak/comment-page-1#comment-45619",
+          "name": "Reply by Maangchi on April 24, 2017",
+          "description": "I think your rice paste must have been too thin. It should be a thick paste. Original color of the&hellip;",
+          "text": "I think your rice paste must have been too thin. It should be a thick paste. Original color of the seaweed is sometimes purple, so it&#039;s probably just the natural color leaking out. Don&#039;t worry about it as long as it&#039;s all dry, it will be good.",
+          "dateCreated": "2017-04-24T13:15:40-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/45126",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/gim-bugak/comment-page-1#comment-45126",
+          "name": "Comment by Joopooh on February 1, 2017",
+          "description": "Dear Maangchi, I have been following your blog for some time with great interest. I am a second generation Korean&hellip;",
+          "text": "Dear Maangchi, I have been following your blog for some time with great interest. I am a second generation Korean born in Germany married to a German husband with three children. After my mother passed away 17 years ago I was craving for her fabulous Korean dishes I grew up with. I used to buy Korean recipe books every time I went to the US. After discovering your blog I was thrilled because it made my quest for Korean food even easier. Thank you for doing such a great job here! You have no idea what it means to me and my family who enjoy my cooking. After watching the video on Gim-Bugak I remembered a dish my grandmother, who passed away in 1993, used to make. When visiting her in Seoul as a child I watched her kneel in front of a huge line of bamboo mats on the top of the roof of my aunts&#039; house in the hot summer sun. She was pasting all the Gim lined up with a spicy red chili pepper soy sauce mixture (probably, since I was a child I only remember the flavor not really knowing what it was). I believe after it was air dried in the sun it was fried. My question is do you have any idea what this was, what the dish is called and if so could you maybe post a recipe of this? I would be very glad and grateful. :-)",
+          "dateCreated": "2017-02-01T23:19:58-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Joopooh"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/45129"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/gim-bugak/comment-page-1#sso/comment/45129",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/gim-bugak/comment-page-1#comment-45129",
+          "name": "Reply by Maangchi on February 2, 2017",
+          "description": "&quot;I watched her kneel in front of a huge line of bamboo mats on the top of the roof of&hellip;",
+          "text": "&quot;I watched her kneel in front of a huge line of bamboo mats on the top of the roof of my aunts&rsquo; house in the hot summer sun&quot; I can picture your grandmother drying gim-bugak and you watching her with curiosity! It&#039;s such a familiar scene for me. Yes, I know what you are talking about! it&#039;s called gochujang gim-bugak. Just add some gochujang (Korean hot pepper paste) to the white rice paste and put it on the seaweed paper and dry it out.",
+          "dateCreated": "2017-02-02T20:26:51-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "5",
+        "ratingCount": "314",
+        "ratingValue": "5"
+      },
+      "image": "https://www.maangchi.com/wp-content/uploads/2017/01/gim-bugak-insta-1-620x620.jpg",
+      "name": "Fried seaweed paper coated with glutinous rice paste (Gim-bugak: 김부각)",
+      "description": "Fried seaweed paper coated with glutinous rice paste (Gim-bugak: 김부각)"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:38:16.010Z",
+  "scraping_status": "scraped"
+}

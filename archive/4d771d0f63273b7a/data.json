@@ -1,0 +1,592 @@
+{
+  "id": "4d771d0f63273b7a",
+  "original_url": "https://cooking.nytimes.com/recipes/1022930-cock-a-leekie-soup-scottish-chicken-and-leek-soup",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1022930-cock-a-leekie-soup-scottish-chicken-and-leek-soup",
+  "fetched_title": "Cock-a-Leekie Soup (Scottish Chicken and Leek Soup) Recipe",
+  "main_text_content": "Leeks star in this classic Scottish chicken soup, adding their sweet, oniony flavor to the meaty, fragrant broth Some versions of this recipe omit the prunes, but their rich fruitiness is what sets this dish apart from other chicken soups Rice, either brown or white, can stand in for the barley, and some recipes call for oats (in which case use an equal amount of steel-cut, rather than rolled)",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026626-chicken-leek-and-potato-soup\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/03/19/multimedia/CR-chicken-leek-potato-soup-ckpz/CR-chicken-leek-potato-soup-ckpz-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/03/19/multimedia/CR-chicken-leek-potato-soup-ckpz/CR-chicken-leek-potato-soup-ckpz-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/03/19/multimedia/CR-chicken-leek-potato-soup-ckpz/CR-chicken-leek-potato-soup-ckpz-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/03/19/multimedia/CR-chicken-leek-potato-soup-ckpz/CR-chicken-leek-potato-soup-ckpz-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/03/19/multimedia/CR-chicken-leek-potato-soup-ckpz/CR-chicken-leek-potato-soup-ckpz-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/03/19/multimedia/CR-chicken-leek-potato-soup-ckpz/CR-chicken-leek-potato-soup-ckpz-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/03/19/multimedia/CR-chicken-leek-potato-soup-ckpz/CR-chicken-leek-potato-soup-ckpz-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/03/19/multimedia/CR-chicken-leek-potato-soup-ckpz/CR-chicken-leek-potato-soup-ckpz-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Chicken, Leek and Potato Soup</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Christian Reynoso</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2022/02/02/dining/28Apperex/merlin_200566110_37bb0118-666e-43cb-b5c5-852e6cb2a487-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/4d771d0f63273b7a/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/24de4850-af8f-5826-acb6-b7e11335ddc0",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1022930-cock-a-leekie-soup-scottish-chicken-and-leek-soup",
+        "@type": "WebPage",
+        "name": "Cock-a-Leekie Soup (Scottish Chicken and Leek Soup)"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022930-cock-a-leekie-soup-scottish-chicken-and-leek-soup",
+      "name": "Cock-a-Leekie Soup (Scottish Chicken and Leek Soup)",
+      "description": "Leeks star in this classic Scottish chicken soup, adding their sweet, oniony flavor to the meaty, fragrant broth. Some versions of this recipe omit the prunes, but their rich fruitiness is what sets this dish apart from other chicken soups. Rice, either brown or white, can stand in for the barley, and some recipes call for oats (in which case use an equal amount of steel-cut, rather than rolled). For a heartier, more stewlike soup, use 3/4 cup barley.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/3d282e73-600b-5a90-92b7-ef33ce2d1368#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/02/02/dining/28Apperex/merlin_200566110_37bb0118-666e-43cb-b5c5-852e6cb2a487-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-01-28T18:53:08.631Z",
+          "datePublished": "2022-01-27T19:46:21.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-01-27T19:46:21.000Z",
+          "url": "https://static01.nyt.com/images/2022/02/02/dining/28Apperex/merlin_200566110_37bb0118-666e-43cb-b5c5-852e6cb2a487-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3d282e73-600b-5a90-92b7-ef33ce2d1368#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/02/02/dining/28Apperex/merlin_200566110_37bb0118-666e-43cb-b5c5-852e6cb2a487-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-01-28T18:53:08.631Z",
+          "datePublished": "2022-01-27T19:46:21.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2022-01-27T19:46:21.000Z",
+          "url": "https://static01.nyt.com/images/2022/02/02/dining/28Apperex/merlin_200566110_37bb0118-666e-43cb-b5c5-852e6cb2a487-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3d282e73-600b-5a90-92b7-ef33ce2d1368#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/02/02/dining/28Apperex/merlin_200566110_37bb0118-666e-43cb-b5c5-852e6cb2a487-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-01-28T18:53:08.631Z",
+          "datePublished": "2022-01-27T19:46:21.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-01-27T19:46:21.000Z",
+          "url": "https://static01.nyt.com/images/2022/02/02/dining/28Apperex/merlin_200566110_37bb0118-666e-43cb-b5c5-852e6cb2a487-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT2H30M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, lunch, main course",
+      "keywords": "chicken drumstick, chicken soup, chicken thigh, leek, prune",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 868
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 630,
+        "unsaturatedFatContent": "17 grams",
+        "carbohydrateContent": "39 grams",
+        "cholesterolContent": null,
+        "fatContent": "29 grams",
+        "fiberContent": "7 grams",
+        "proteinContent": "53 grams",
+        "saturatedFatContent": "9 grams",
+        "sodiumContent": "1020 milligrams",
+        "sugarContent": "10 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 1/2 pounds bone-in, skin-on chicken thighs and drumsticks",
+        "3 teaspoons kosher salt (Diamond Crystal), plus more as needed",
+        "1/2 teaspoon freshly ground black pepper, plus more as needed",
+        "4 large leeks, cleaned, greens and whites separated",
+        "3 medium carrots, peeled (reserve peels), cut into 1/4-inch-thick coins",
+        "2 celery stalks, thinly sliced (reserve any leaves)",
+        "1 head garlic, halved crosswise",
+        "1 bunch parsley, stems and leaves separated",
+        "3 to 5 fresh thyme sprigs",
+        "1 fresh or dried bay leaf",
+        "1 star anise or clove",
+        "1 teaspoon whole black peppercorns",
+        "2 tablespoons unsalted butter",
+        "1/2 cup pearl barley",
+        "1/2 cup chopped pitted prunes"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Season chicken with 2 teaspoons salt and 1/2 teaspoon black pepper. Set chicken aside while prepping the other ingredients."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Put leek greens, carrot peels, celery leaves, garlic, parsley stems, thyme, bay leaf and star anise at bottom of a large Dutch oven or soup pot. Place chicken on top of the vegetables. Add remaining 1 teaspoon salt and the peppercorns, and pour in 8 cups cold water, or enough to just submerge the chicken."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bring to a boil over high heat, then reduce heat to a simmer and partly cover the pot. Cook until chicken is cooked through and very tender, 45 to 55 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the chicken cooks, thickly slice 3 of the leek whites into 1/2-inch coins. Thinly slice the remaining leek white; set thinly and thickly sliced leeks aside separately."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When the chicken is tender, using tongs, transfer to a large bowl or plate to cool. Strain the broth into a large bowl, discarding vegetables and herbs."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Wipe out the Dutch oven and return it to medium-high heat. Add butter, letting it melt. Add the thick leek coins (save the thinly sliced leek for garnish), a pinch of salt and pepper, and sauté until tender and golden brown, about 5 minutes. Transfer leek whites to a bowl (they can go on top of the chicken if there’s room)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour broth back into the pot. Bring broth to a brisk simmer, and stir in barley, carrots and celery. Let broth simmer uncovered until the liquid is reduced by a third, and the barley and vegetables are tender, 40 to 50 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the broth is simmering, use a fork or your fingers to shred chicken into bite-size pieces, discarding skin and bones."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Once the barley and vegetables are tender, stir in shredded chicken, sautéed leek whites and the prunes, and simmer for another 5 minutes to allow the prunes to soften (some might disintegrate). Taste and add salt, if needed. To serve, garnish with thinly sliced leek whites and parsley leaves."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2022-02-02T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brigham"
+          },
+          "reviewBody": "This is become my go-to favorite winter chicken soup. I usually make it with the leftover meat and carcass of a roast chicken. I cook the broth for a lot longer. The flavor is more complex, and it’s not as greasy.",
+          "datePublished": "2025-02-19T04:21:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sodalightful"
+          },
+          "reviewBody": "Made this with giant couscous instead of pearl barley as the shops were out, and no prunes (couldn't find them). The couscous did absorb a lot of water, and expanded a lot before disintegrating, so next time I'd go for rice instead, but the remaining broth was so rich and meaty that I can feel a protective cock-a-leekie coloured aura forming around me already.",
+          "datePublished": "2024-12-31T18:54:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Seamar"
+          },
+          "reviewBody": "For a half recipe, I made this with leftover roasted chicken with maple and rosemary butter (NYTimes recipe). I had already made some broth from the carcass which included the leftover sauce so I used that instead of starting anew. Because of the sweetness from the maple syrup I omitted the prune but agree that the slight sweetness coupled with the star anise made the recipe special.  Used steel cut oats. Super yummy!",
+          "datePublished": "2024-11-08T14:55:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kelly"
+          },
+          "reviewBody": "This is one of the best soups I've ever made--Melissa Clark never fails. I omitted the celery after reading the comments, and as I don't typically eat a lot of grains and only had farro on hand, I made my grain component separately and added it to order. I used basic chicken stock I'd already made to poach the chicken, and added the aromatics to it. The resulting broth was unbelievably complex, and the prunes were such a welcome addition. I can't wait to make this over and over!",
+          "datePublished": "2024-10-22T02:23:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brigham"
+          },
+          "reviewBody": "Two things to remember about this recipe:\n1. If it feels like too much leek, you're wrong.\n2. Let it reduce by at least a third. This step is very important.",
+          "datePublished": "2024-10-13T23:57:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharon S"
+          },
+          "reviewBody": "Excellent!  My adjustments:\nI used the whites of 3 leeks but the stiff green tops of just two.\nDid not add prunes.  I was too afraid of going through all the work/expense and then not liking the sweet taste, although I do like prunes\nUsed pearl barley instead of rice\nTastes even better the next day!",
+          "datePublished": "2024-07-10T17:18:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stephen in"
+          },
+          "reviewBody": "I'm surprised to read \"too many dishes\" for this recipe. I counted 2 bowls (or 1 bowl and 1 plate). The single soup pot is quickly wiped and re-used - the author is being respectful of her cooks here. For a soup that includes the making of a fresh chicken stock, I think this is a straightforward, user-friendly recipe. I love recipes with words like \"while the chicken cooks\" (step 4) and \"while the broth is simmering\" (step 8), which guide the cook to do 2 things at once.",
+          "datePublished": "2025-03-27T20:09:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lois"
+          },
+          "reviewBody": "Delicious dish, mainly because of the flavors of anise, prunes, garlic, pepper and thyme. But too many steps, too many dirty dishes involved in its creation! I'll make it again, but will simplify it by using just one pot, and boneless, skinless chicken thighs. I'll skip saving some leeks for the top, as well as using ready-made chicken broth, without using vegetable peelings. The flavors are what count here.",
+          "datePublished": "2024-03-06T15:44:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deb Bernardini"
+          },
+          "reviewBody": "Everything about this recipe was exactly perfect. My only suggestion is to sub-head it, “cozy sleep tight soup.”  I subbed dates for prunes and bulgar for barley cos that’s what I had and it was so so good. Like the inside of a chicken pot-pie but with a little less guilt.",
+          "datePublished": "2024-01-30T02:39:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Loretta"
+          },
+          "reviewBody": "I added a step 8.5 - toss the skin and bones back into the pot and simmer for another 30-60 mins. Makes an extra rich broth. Strain again before proceeding to step 9. I used brown rice instead of barley. Also added raisins in the initial simmer rather than traditional prunes because it's what I had on hand. Absolutely delicious on this ice cold winter night.",
+          "datePublished": "2024-01-14T18:09:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Abbi"
+          },
+          "reviewBody": "I had frozen turkey and bones left from Thanksgiving begging to get used up so I made bone broth in the instant pot, then added that to the veggies to simmer after sautéing them all together. I had TJ’s parboiled farro on hand, so the soup cooked much more quickly. I added chopped leftover turkey and subbed dried apricots for the prunes. Tossed in some dried parsley at the end for color.\n\nIs it the traditional version? Absolutely not, but this use-what-you-have version was super tasty!",
+          "datePublished": "2024-01-07T01:42:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Agix"
+          },
+          "reviewBody": "This is the best fast version of chicken soup I've ever had. The prunes are a lovely innovation that you don't notice unless you've made it yourself. Everyone at my cozy Xmas skating party loved it.",
+          "datePublished": "2024-01-04T21:58:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "dauterman"
+          },
+          "reviewBody": "This is wonderful soup. Make with black barley.",
+          "datePublished": "2023-10-26T14:40:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Wm"
+          },
+          "reviewBody": "Can raisins be substituted for prunes?",
+          "datePublished": "2023-10-08T21:28:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "nikkileeks"
+          },
+          "reviewBody": "If you don’t have barley sub in a mini pasta or mini potatoes.. it’s just to be more hearty. This is Jewish penicillin at its finest",
+          "datePublished": "2023-04-12T19:34:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jerry White"
+          },
+          "reviewBody": "This recipe has over 1000mg sodium per serving. Has anyone made a reduced salt version, and is it ok?",
+          "datePublished": "2023-03-28T19:59:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Greenfordanger"
+          },
+          "reviewBody": "I grew up in Scotland and we never really used celery.  When we came to Canada I  was surprised how omnipresent it was in soup and then when visiting the US it seemed to be in everything.  So, I never have it in my Cock a Leekie soup which I usually make with rice although I have made it with Scottish porridge oats.  But much as I love Cock a Leekie I would refer you to the greatest Scottish soup: Cullen Skink made with finnan haddie.",
+          "datePublished": "2022-01-29T01:39:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "dimmerswitch"
+          },
+          "reviewBody": "If I wanted to substitute steel cut Scottish oats for barley to feed someone with gluten issues would I use the same cooking interval as specified in this (40 - 50 min) for the pearl barley?",
+          "datePublished": "2022-01-28T20:54:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lars Watson"
+          },
+          "reviewBody": "I cook with oats often and usually use groats, whole oats if you can find them. For groats the cooking interval would be the same as barley which I also love but for steel cut oats it would be a little less time. Barley and Oats, let’s hear it for two great Northern European grains!",
+          "datePublished": "2022-01-29T16:25:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "bluewillow"
+          },
+          "reviewBody": "A family member with celiac swears by sorghum berries as a barley substitutes. And I think the cooking times are similar.",
+          "datePublished": "2022-01-29T16:15:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "W"
+          },
+          "reviewBody": "I made this with pearl couscous, turned out great!",
+          "datePublished": "2022-01-30T18:01:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "phil"
+          },
+          "reviewBody": "I added a diced yellow onion to the leek/butter sauté. Also cooked barley in separate pot w/ chicken broth then mixed barley and soup in individual service bowls to avoid the absorption of the made broth. Topped / served w/ garlic butter rye croutons.  Pretty good. Would recommend very small dicing the prunes to make the flavor and texture more consistent.",
+          "datePublished": "2022-01-29T22:41:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Charles H"
+          },
+          "reviewBody": "Fantastic!   We used low sodium/no salt bone broth instead of water. Eight chicken legs required our large LeCruset Dutch Oven  to hold almost 10 cups of liquid plus the other ingredients.  The flavor was rich and robust!   We also used Couscous as the other person suggested and it was wonderful (although note to use a little less Couscous because it is like sponge and sucks up the liquid if there is too much…perhaps just half a cup of couscous max).   Otherwise no changes needed.",
+          "datePublished": "2022-01-31T02:23:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patricia Pasick"
+          },
+          "reviewBody": "I was tempted to intensify the flavor of the broth with my homemade chicken stock but, since was my first attempt, I decided to follow the recipe precisely. So glad I did. The broth, I decided, as four of us devoured the dish, had to be a light, to support all those leeks amd carrots. The star anise was a delightful addition, a wonderful aromatic.",
+          "datePublished": "2022-02-03T00:15:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mariam"
+          },
+          "reviewBody": "Here in Germany, we never use celery, but always the bulb, celeriac. It gives an intense and slightly sweet note to the broth. Try it!",
+          "datePublished": "2022-02-03T15:01:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cathy"
+          },
+          "reviewBody": "Two things: I saw Mary Berry making this and then the next morning it was featured in the Times, which is basically God telling you to make it. Mary gives a great tip: she says to cook the chicken until it is just done - 165 degrees - because it is more delightful when the chicken is very tender. I agree. And this is my own tip- mince the prunes - like 20  pieces from one prune - because they grow in the broth as they are rehydrated and are a little slimey. But tiny they are delightful.",
+          "datePublished": "2022-02-17T23:44:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shelley"
+          },
+          "reviewBody": "I made this as written and it was delicious, the next day the barley had soaked up all of the broth and it was quite solid. When I make it again I will cook the barley separately in some chicken stock and add it to the individual serving bowl. \nAs for Cullen Skink. It is my dream soup, I make it with smoked salmon heresy I know but available.",
+          "datePublished": "2022-01-29T17:12:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cathy"
+          },
+          "reviewBody": "I made this but adapted the recipe to do parts of it in the instant pot - lowering the cook time from 2.5 hours to 1.75 hours. I followed the recipe for steps 1-3. I cut up the veg etc. while that stuff was cooking. I sautéed the leeks in butter in the instant pot and set them aside. I added barley and veg to instant pot. When the chicken was done, I strained the broth into the instant pot and cooked that for 30 minutes on high. Manual release, then add chicken, etc. & let sit for 5 minutes.",
+          "datePublished": "2022-02-03T01:01:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mjan"
+          },
+          "reviewBody": "Reducing the liquid by a third is really important to deepening the flavor of this great dish.  Don't skip the step.",
+          "datePublished": "2022-02-03T07:45:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "whoever"
+          },
+          "reviewBody": "Yes. The instant pot also minimizes the coagulated proteins which render the soups cloudy and ugly. Of course, the protein remains in a dissolved state. Moreover, if you pressure cook a little longer than \"normal\", you get all the bone broth constituents, too.",
+          "datePublished": "2022-01-30T18:42:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kelly"
+          },
+          "reviewBody": "This is one of the best soups I've ever made--Melissa Clark never fails. I omitted the celery after reading the comments, and as I don't typically eat a lot of grains and only had farro on hand, I made my grain component separately and added it to order. I used basic chicken stock I'd already made to poach the chicken, and added the aromatics to it. The resulting broth was unbelievably complex, and the prunes were such a welcome addition. I can't wait to make this over and over!",
+          "datePublished": "2024-10-22T02:23:54.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1022930-cock-a-leekie-soup-scottish-chicken-and-leek-soup",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022,
+      "description": "Leeks star in this classic Scottish chicken soup, adding their sweet, oniony flavor to the meaty, fragrant broth. Some versions of this recipe omit the prunes, but their rich fruitiness is what sets this dish apart from other chicken soups. Rice, either brown or white, can stand in for the barley, and some recipes call for oats (in which case use an equal amount of steel-cut, rather than rolled). For a heartier, more stewlike soup, use 3/4 cup barley.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Cock-a-Leekie Soup (Scottish Chicken and Leek Soup)",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/3d282e73-600b-5a90-92b7-ef33ce2d1368#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/02/02/dining/28Apperex/merlin_200566110_37bb0118-666e-43cb-b5c5-852e6cb2a487-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-01-28T18:53:08.631Z",
+          "datePublished": "2022-01-27T19:46:21.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-01-27T19:46:21.000Z",
+          "url": "https://static01.nyt.com/images/2022/02/02/dining/28Apperex/merlin_200566110_37bb0118-666e-43cb-b5c5-852e6cb2a487-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3d282e73-600b-5a90-92b7-ef33ce2d1368#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/02/02/dining/28Apperex/merlin_200566110_37bb0118-666e-43cb-b5c5-852e6cb2a487-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-01-28T18:53:08.631Z",
+          "datePublished": "2022-01-27T19:46:21.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2022-01-27T19:46:21.000Z",
+          "url": "https://static01.nyt.com/images/2022/02/02/dining/28Apperex/merlin_200566110_37bb0118-666e-43cb-b5c5-852e6cb2a487-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3d282e73-600b-5a90-92b7-ef33ce2d1368#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/02/02/dining/28Apperex/merlin_200566110_37bb0118-666e-43cb-b5c5-852e6cb2a487-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-01-28T18:53:08.631Z",
+          "datePublished": "2022-01-27T19:46:21.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-01-27T19:46:21.000Z",
+          "url": "https://static01.nyt.com/images/2022/02/02/dining/28Apperex/merlin_200566110_37bb0118-666e-43cb-b5c5-852e6cb2a487-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022930-cock-a-leekie-soup-scottish-chicken-and-leek-soup"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:33:14.988Z",
+  "scraping_status": "scraped"
+}

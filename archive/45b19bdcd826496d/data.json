@@ -1,0 +1,553 @@
+{
+  "id": "45b19bdcd826496d",
+  "original_url": "https://cooking.nytimes.com/recipes/1025743-chickpea-noodle-soup",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025743-chickpea-noodle-soup",
+  "fetched_title": "Chickpea Noodle Soup Recipe",
+  "main_text_content": "With a golden broth, creamy chickpeas and bouncy angel hair noodles, this quick vegan soup will remind you of chicken noodle soup To create a savory broth, sizzle carrots, celery and onion with nutritional yeast, turmeric and herbs in oil A generous amount of oil adds silkiness to the broth and helps carry the flavor of the aromatics, while nutritional yeast gives the broth the soul-satisfying properties of chicken bouillon",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1013535-chickpea-vegetable-soup-with-parmesan-rosemary-and-lemon\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2014/04/02/dining/Chickpea-Vegetable-Soup/Chickpea-Vegetable-Soup-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2014/04/02/dining/Chickpea-Vegetable-Soup/Chickpea-Vegetable-Soup-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2014/04/02/dining/Chickpea-Vegetable-Soup/Chickpea-Vegetable-Soup-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2014/04/02/dining/Chickpea-Vegetable-Soup/Chickpea-Vegetable-Soup-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2014/04/02/dining/Chickpea-Vegetable-Soup/Chickpea-Vegetable-Soup-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2014/04/02/dining/Chickpea-Vegetable-Soup/Chickpea-Vegetable-Soup-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Chickpea Vegetable Soup With Parmesan, Rosemary and Lemon</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/04/24/multimedia/AS-Chickpea-noodle-soup-ljvq/AS-Chickpea-noodle-soup-ljvq-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/45b19bdcd826496d/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/3b0e8f2f-42dc-5977-96ec-ea6b1630a64a",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025743-chickpea-noodle-soup",
+        "@type": "WebPage",
+        "name": "Chickpea Noodle Soup"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025743-chickpea-noodle-soup",
+      "name": "Chickpea Noodle Soup",
+      "description": "With a golden broth, creamy chickpeas and bouncy angel hair noodles, this quick vegan soup will remind you of chicken noodle soup. To create a savory broth, sizzle carrots, celery and onion with nutritional yeast, turmeric and herbs in oil. A generous amount of oil adds silkiness to the broth and helps carry the flavor of the aromatics, while nutritional yeast gives the broth the soul-satisfying properties of chicken bouillon. While you can use broken pieces of any long noodle, angel hair is especially wonderful; delicate, soft and highly slurpable, they mimic the fine egg noodles found in many delis’ chicken noodle soup.",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/cc0532b0-a5f7-5c69-a87f-644bfcdc9522#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/AS-Chickpea-noodle-soup-ljvq/AS-Chickpea-noodle-soup-ljvq-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-04-24T15:20:19.524Z",
+          "datePublished": "2025-04-24T15:20:19.524Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T15:20:19.524Z",
+          "url": "https://static01.nyt.com/images/2025/04/24/multimedia/AS-Chickpea-noodle-soup-ljvq/AS-Chickpea-noodle-soup-ljvq-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/cc0532b0-a5f7-5c69-a87f-644bfcdc9522#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/AS-Chickpea-noodle-soup-ljvq/AS-Chickpea-noodle-soup-ljvq-googleFourByThree.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-04-24T15:20:19.524Z",
+          "datePublished": "2025-04-24T15:20:19.524Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T15:20:19.524Z",
+          "url": "https://static01.nyt.com/images/2025/04/24/multimedia/AS-Chickpea-noodle-soup-ljvq/AS-Chickpea-noodle-soup-ljvq-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/cc0532b0-a5f7-5c69-a87f-644bfcdc9522#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/AS-Chickpea-noodle-soup-ljvq/AS-Chickpea-noodle-soup-ljvq-mediumSquareAt3X.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-04-24T15:20:19.524Z",
+          "datePublished": "2025-04-24T15:20:19.524Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T15:20:19.524Z",
+          "url": "https://static01.nyt.com/images/2025/04/24/multimedia/AS-Chickpea-noodle-soup-ljvq/AS-Chickpea-noodle-soup-ljvq-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, quick, weeknight, one pot, main course",
+      "keywords": "budget, chickpea, extra virgin olive oil, nutritional yeast, pasta, soup, stovetop, dairy-free, healthy, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 496
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 605,
+        "unsaturatedFatContent": "15 grams",
+        "carbohydrateContent": "83 grams",
+        "cholesterolContent": null,
+        "fatContent": "21 grams",
+        "fiberContent": "21 grams",
+        "proteinContent": "28 grams",
+        "saturatedFatContent": "2 grams",
+        "sodiumContent": "1372 milligrams",
+        "sugarContent": "14 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "¼ cup extra-virgin olive oil",
+        "2 medium carrots, cut into ½-inch pieces",
+        "2 celery stalks, cut into ½-inch pieces",
+        "1 large yellow onion, finely chopped",
+        "¼ cup nutritional yeast",
+        "2 thyme sprigs or bay leaves",
+        "¼ teaspoon ground turmeric",
+        "½ cup finely chopped dill or parsley",
+        "Salt and black pepper",
+        "4 cups vegetable broth",
+        "2 (15-ounce) cans chickpeas, drained and rinsed",
+        "4 ounces long, thin pasta, broken into short pieces, preferably angel hair"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oil in a large pot or Dutch oven over medium. Add the carrots, celery, onion, nutritional yeast, thyme sprigs, turmeric and half the dill. Season with salt and pepper and cook, stirring occasionally, until the vegetables are softened and juicy, 7 to 10 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add 2 cups water, the broth and chickpeas. Bring to a boil over high. Season to taste with salt and pepper; the broth should be very flavorful at this point."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the pasta and cook, stirring occasionally, until tender according to package directions. Remove thyme and stir in the remaining ¼ cup dill."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-04-25T00:00:00.000Z",
+      "dateModified": "2025-04-28T14:13:47.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cheryl"
+          },
+          "reviewBody": "I love this soup! I made it this week and it was delicious!  I added vegetable broth and only 1.5 cup water , cooked gluten free elbows before and added to the soup rather than cooking in the soup. I combined parsley and dill instead of just dill. Next time I think I will just add all dill to increase the flavor. It is definitely a keeper and a great soup for those I want soup moments !\nI will make it again!",
+          "datePublished": "2025-05-22T20:00:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "reviewBody": "Loved this soup!  Made a half-batch for just me. Didn't have dill so used lots of fresh parsley, and added extra turmeric, some grated garlic and a sprinkle of chili flakes. Full disclosure, I'm not vegetarian (& have never tried nutritional yeast), so I used some packets of chicken broth concentrate that I really love.  Everything else was the same.  It was so good, even at the end of a warm and exhausting day.  \nI will keep it in my recipe box for when I need a nutritious & comforting soup.",
+          "datePublished": "2025-05-22T03:21:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elie"
+          },
+          "reviewBody": "Made this mostly as is. Used 6 cups of stock, made from liquid bullion, fresh thyme and a bay leaf. Used fresh garlic too and sautéed with the onion before adding the other veg. Really flavorful and delicious and gorgeous color. Came together really quickly",
+          "datePublished": "2025-05-22T00:52:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jill D."
+          },
+          "reviewBody": "Excellent recipe. So easy. Can take any veggie including asparagus which is in season here in New Brunswick. Used fresh parsley from the garden, too.",
+          "datePublished": "2025-05-21T19:01:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa M."
+          },
+          "reviewBody": "Bright, delicious soup. Adequately filling for a meal. Used homemade chicken stock and ditalini. Used only bay leaf since I didn't have thyme. Next time I will try with cannellini beans instead of chick peas because I like their creaminess. Will definitely make this again!",
+          "datePublished": "2025-05-21T17:03:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mark White"
+          },
+          "reviewBody": "sorry to say, but this was the most tasteless recipe from the NYT app. I tried to save it with added spice but no luck. i love most everything i cook from here, but not this one. Maybe using chix stock would have helped, but i was cooking with vegetarian in mind. Bland.",
+          "datePublished": "2025-05-21T02:39:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Flora"
+          },
+          "reviewBody": "Great recipe. I used home-cooked chickpeas and didn’t see any skins. I like whole-wheat pasta and I found a thin spaghetti that worked perfectly. Next time I will cut the carrots and celery smaller and sauté them longer to make the timing work better. I used bay leaves but I might add a pinch or two of dried thyme next time. A lot of black pepper is good at the end.",
+          "datePublished": "2025-05-20T16:14:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ashley"
+          },
+          "reviewBody": "I made this exactly per the recipe and it is delicious. I can't get enough!",
+          "datePublished": "2025-05-20T01:54:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rickie"
+          },
+          "reviewBody": "This was delicious! in my experience you need to cook the veggies a little longer to soften them.",
+          "datePublished": "2025-05-20T02:00:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Claire"
+          },
+          "reviewBody": "This was excellent. No nutritional yeast on hand so I stuck a parm rind in to simmer with the broth. Easy, quick, delicious, and a great way to use up sad fridge veg.",
+          "datePublished": "2025-05-19T17:25:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Additions"
+          },
+          "reviewBody": "I added diced chicken thighs and garlic. It turned out delicious",
+          "datePublished": "2025-05-19T17:20:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Additions"
+          },
+          "reviewBody": "I added diced chicken thighs and garlic. Reduced the liquid. It turned out delicious",
+          "datePublished": "2025-05-19T17:25:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane"
+          },
+          "reviewBody": "Loved the soup. A quick and easy one to make. I had homemade chicken stock on hand so I substituted that, along with 2 cups water. I used dried dill during the cooking, but stirred in fresh chopped parsley to finish.",
+          "datePublished": "2025-05-19T16:05:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emma"
+          },
+          "reviewBody": "I used better than bullion for my broth base since I only had half a carton left in the fridge. Added some red pepper flakes, extra nutritional yeast and used spatzel noodles from Aldi. Yum!",
+          "datePublished": "2025-05-19T14:15:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Denise"
+          },
+          "reviewBody": "I made this exactly as written (thyme and parsley where there was a choice) and it is delicious.  It was so easy to make and would easily halve.  If it didn't need to be vegan, you could take a shortcut and use fine egg noodles and not have to break up pasta by hand.  It's going into my \"tried and true\" recipe file.",
+          "datePublished": "2025-05-19T04:02:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kay"
+          },
+          "reviewBody": "I love this soup! Jacques Pepin once taught me through YouTube that I could substitute the vegetable broth for just water. So that’s the way I make it. And it’s delicious that way. Also, I use 6 cups of water (not 4) and 1 cup of ditalini pasta instead of angel hair (America’s test kitchen recommendation), both bay leaf AND thyme and even add a pinch of cumin (love cumin). I make this at least once a month.",
+          "datePublished": "2025-04-30T01:35:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Adrienne"
+          },
+          "reviewBody": "We all enjoyed this. Added 8 oz pasta vs 4, used 4 c broth and 2 c water (decided that the additional 2 c was a typo). It's back on the menu for this week at the request of the kids, but this time I will double it!",
+          "datePublished": "2025-04-27T20:13:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "table4one NJ"
+          },
+          "reviewBody": "Can you confirm 2 cups water, plus the stock, then another 2 cups of water? Seems like a lot of liquid?",
+          "datePublished": "2025-04-26T12:43:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AB"
+          },
+          "reviewBody": "I used all 6 cups of fluid and it worked out well. I substituted 4oz  pastina for the angel hair which I didn’t have, 4 carrots instead of 2, and I used Eden brand garbanzos, dumping the entire contents of the cans in the pot instead of straining/fishing out the skins per the instructions. There was not one chickpea skin surfacing in the soup. This is why I use Eden. I grated vegan Violife Parmesan cheese on the soup after plating along with a sprinkle of more nutritional yeast, salt and pepper. Served with fresh-baked Wild Grain sesame bread slices. It was fabulous.  We couldn’t get enough!",
+          "datePublished": "2025-04-30T15:55:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "melissa"
+          },
+          "reviewBody": "how many cups of water are added?",
+          "datePublished": "2025-04-26T03:18:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "HeatherVM"
+          },
+          "reviewBody": "I was looking for a nostalgic chicken noodle soup, and this delivered! My preschooler even ate it up! I made it exactly as written (with better than boullion instead of stock), and I will make it again soon.",
+          "datePublished": "2025-05-04T20:25:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michelle Pay"
+          },
+          "reviewBody": "@HeatherVM\nThanks for adding that you “made exactly as written”.  This is really helpful to know how the recipe turned out.",
+          "datePublished": "2025-05-15T15:40:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jimv"
+          },
+          "reviewBody": "@Bill the second “two cups water” was a typo in the original. I believe it has been corrected in the current posted version",
+          "datePublished": "2025-05-12T21:51:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Wordsworth from Wadsworth"
+          },
+          "reviewBody": "I did not know either.   It is a wholly different product, and it adds body and flavor, making for a savory, cheesy flavor.    It is a fungi, mushrooms are a fungi - go mycotic and live a little.",
+          "datePublished": "2025-05-04T17:56:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suzanna"
+          },
+          "reviewBody": "I love this recipe. I’m feeling under the weather and this hit the spot. I used three Not Chick’n bouillon cubes for the broth, cooked the beans fresh in a pressure cooker cuz I’m a bean snob and think the taste is much better than canned, and subbed cooked wild rice for the pasta. Used loads of dill because I love it. Wow. I’ve cooked plant based for almost 10 years now and am sad I didn’t know how to make soup this comforting sooner. Thank you!!  This will be on regular rotation.",
+          "datePublished": "2025-05-09T20:41:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "h"
+          },
+          "reviewBody": "@table4one NJ as noted by others, this has been corrected.",
+          "datePublished": "2025-05-15T15:27:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Caroline"
+          },
+          "reviewBody": "This soup was super easy to make and delicious, esp for a vegetarian with a cold! I added red pepper flakes and shredded parm for a bit more flavor but it's yummy even as is. I think a squeeze of lemon would also be nice. Grateful for this recipe!",
+          "datePublished": "2025-05-14T18:12:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deb"
+          },
+          "reviewBody": "Whats a substitute for nutritional yeast?",
+          "datePublished": "2025-04-29T15:38:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brenda"
+          },
+          "reviewBody": "Perfect for a quick unplanned meal.  I used the thin pasta(not angel hair).  Will try something different next time, straight pasta falls off spoon too easily.",
+          "datePublished": "2025-05-03T22:36:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lexi"
+          },
+          "reviewBody": "Cheese?",
+          "datePublished": "2025-04-30T17:21:05.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025743-chickpea-noodle-soup",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "With a golden broth, creamy chickpeas and bouncy angel hair noodles, this quick vegan soup will remind you of chicken noodle soup. To create a savory broth, sizzle carrots, celery and onion with nutritional yeast, turmeric and herbs in oil. A generous amount of oil adds silkiness to the broth and helps carry the flavor of the aromatics, while nutritional yeast gives the broth the soul-satisfying properties of chicken bouillon. While you can use broken pieces of any long noodle, angel hair is especially wonderful; delicate, soft and highly slurpable, they mimic the fine egg noodles found in many delis’ chicken noodle soup.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Chickpea Noodle Soup",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/cc0532b0-a5f7-5c69-a87f-644bfcdc9522#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/AS-Chickpea-noodle-soup-ljvq/AS-Chickpea-noodle-soup-ljvq-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-04-24T15:20:19.524Z",
+          "datePublished": "2025-04-24T15:20:19.524Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T15:20:19.524Z",
+          "url": "https://static01.nyt.com/images/2025/04/24/multimedia/AS-Chickpea-noodle-soup-ljvq/AS-Chickpea-noodle-soup-ljvq-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/cc0532b0-a5f7-5c69-a87f-644bfcdc9522#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/AS-Chickpea-noodle-soup-ljvq/AS-Chickpea-noodle-soup-ljvq-googleFourByThree.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-04-24T15:20:19.524Z",
+          "datePublished": "2025-04-24T15:20:19.524Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T15:20:19.524Z",
+          "url": "https://static01.nyt.com/images/2025/04/24/multimedia/AS-Chickpea-noodle-soup-ljvq/AS-Chickpea-noodle-soup-ljvq-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/cc0532b0-a5f7-5c69-a87f-644bfcdc9522#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/AS-Chickpea-noodle-soup-ljvq/AS-Chickpea-noodle-soup-ljvq-mediumSquareAt3X.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-04-24T15:20:19.524Z",
+          "datePublished": "2025-04-24T15:20:19.524Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T15:20:19.524Z",
+          "url": "https://static01.nyt.com/images/2025/04/24/multimedia/AS-Chickpea-noodle-soup-ljvq/AS-Chickpea-noodle-soup-ljvq-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025743-chickpea-noodle-soup"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:03:39.752Z",
+  "scraping_status": "scraped"
+}

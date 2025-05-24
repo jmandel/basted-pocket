@@ -1,0 +1,553 @@
+{
+  "id": "0b7b86c69404f1b8",
+  "original_url": "https://cooking.nytimes.com/recipes/1024015-lemony-greek-chicken-spinach-and-potato-stew",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1024015-lemony-greek-chicken-spinach-and-potato-stew",
+  "fetched_title": "Lemony Greek Chicken, Spinach and Potato Stew Recipe",
+  "main_text_content": "If your favorite Greek foods are the lively vegetable dishes, this meal-in-a-bowl stew is for you A simple mix of lemon, garlic and lots of herbs enliven the potatoes and spinach and using ground meat ensures a lot of flavor in very little time Ground turkey or pork would be just as good, if you prefer",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1023737-slow-cooker-chicken-stew-with-spinach-lemon-and-feta\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2022/12/07/multimedia/sd-chicken-stew-1-bbae/sd-chicken-stew-1-bbae-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2022/12/07/multimedia/sd-chicken-stew-1-bbae/sd-chicken-stew-1-bbae-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2022/12/07/multimedia/sd-chicken-stew-1-bbae/sd-chicken-stew-1-bbae-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2022/12/07/multimedia/sd-chicken-stew-1-bbae/sd-chicken-stew-1-bbae-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2022/12/07/multimedia/sd-chicken-stew-1-bbae/sd-chicken-stew-1-bbae-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2022/12/07/multimedia/sd-chicken-stew-1-bbae/sd-chicken-stew-1-bbae-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2022/12/07/multimedia/sd-chicken-stew-1-bbae/sd-chicken-stew-1-bbae-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2022/12/07/multimedia/sd-chicken-stew-1-bbae/sd-chicken-stew-1-bbae-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Slow-Cooker Chicken Stew With Spinach, Lemon and Feta</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Sarah DiGregorio</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/03/07/multimedia/sdg-lemony-chicken-stew-vjkz/sdg-lemony-chicken-stew-vjkz-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/0b7b86c69404f1b8/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/b36fd891-1a5d-55bc-996c-250eea618b42",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1024015-lemony-greek-chicken-spinach-and-potato-stew",
+        "@type": "WebPage",
+        "name": "Lemony Greek Chicken, Spinach and Potato Stew"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024015-lemony-greek-chicken-spinach-and-potato-stew",
+      "name": "Lemony Greek Chicken, Spinach and Potato Stew",
+      "description": "If your favorite Greek foods are the lively vegetable dishes, this meal-in-a-bowl stew is for you. A simple mix of lemon, garlic and lots of herbs enliven the potatoes and spinach and using ground meat ensures a lot of flavor in very little time. Ground turkey or pork would be just as good, if you prefer. Russets can be substituted for Yukon golds, but their texture will be more grainy and less creamy. Mature spinach or frozen spinach works best here because of its mellow flavor, as opposed to baby spinach, which is more tannic. Add the amount of dill that sounds best to you, or if you don’t like it, swap in a few tablespoons of fresh parsley or mint.",
+      "author": {
+        "@type": "Person",
+        "name": "Sarah DiGregorio"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/ec40ab99-9098-5682-833b-e6b7ff1a15b9#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/07/multimedia/sdg-lemony-chicken-stew-vjkz/sdg-lemony-chicken-stew-vjkz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-03-17T16:24:29.606Z",
+          "datePublished": "2023-03-07T17:03:55.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-03-07T17:03:55.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/07/multimedia/sdg-lemony-chicken-stew-vjkz/sdg-lemony-chicken-stew-vjkz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ec40ab99-9098-5682-833b-e6b7ff1a15b9#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/07/multimedia/sdg-lemony-chicken-stew-vjkz/sdg-lemony-chicken-stew-vjkz-superJumbo.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-03-17T16:24:29.606Z",
+          "datePublished": "2023-03-07T17:03:55.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2023-03-07T17:03:55.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/07/multimedia/sdg-lemony-chicken-stew-vjkz/sdg-lemony-chicken-stew-vjkz-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/ec40ab99-9098-5682-833b-e6b7ff1a15b9#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/07/multimedia/sdg-lemony-chicken-stew-vjkz/sdg-lemony-chicken-stew-vjkz-mediumSquareAt3X.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-03-17T16:24:29.606Z",
+          "datePublished": "2023-03-07T17:03:55.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-03-07T17:03:55.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/07/multimedia/sdg-lemony-chicken-stew-vjkz/sdg-lemony-chicken-stew-vjkz-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT35M",
+      "recipeYield": "4 to 5 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, quick, weeknight, one pot, main course",
+      "keywords": "budget, dill, garlic, ground chicken, lemon, oregano, rosemary, spinach, yukon gold potato",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 6090
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 479,
+        "unsaturatedFatContent": "16 grams",
+        "carbohydrateContent": "44 grams",
+        "cholesterolContent": null,
+        "fatContent": "22 grams",
+        "fiberContent": "6 grams",
+        "proteinContent": "28 grams",
+        "saturatedFatContent": "5 grams",
+        "sodiumContent": "1079 milligrams",
+        "sugarContent": "8 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1/4 cup extra-virgin olive oil ",
+        "1 red or yellow onion, finely chopped",
+        "8 large garlic cloves, smashed and finely chopped ",
+        "1 1/2 teaspoons coarse kosher salt, plus more to taste",
+        "1 pound ground chicken ",
+        "1 heaping tablespoon roughly chopped fresh rosemary (leaves of about 1 large sprig) or 1 1/2 teaspoons dried rosemary",
+        "1 1/2 teaspoons dried oregano",
+        "1 teaspoon red-pepper flakes ",
+        "Black pepper",
+        "1 1/2 pounds Yukon gold potatoes (about 3 medium), scrubbed and chopped into 1/2-inch chunks",
+        "6 cups chicken broth ",
+        "Juice of 1 large lemon (about 1/4 cup juice)",
+        "1 (8-ounce) bunch mature spinach, stems included, chopped, or 1 1/2 cups frozen leaf spinach",
+        "1/4 to 1/3 cup lightly packed roughly chopped dill ",
+        "Crumbled feta and crushed pita chips, for topping"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large pot or Dutch oven, warm the oil over high heat. Add the onion, garlic and salt and cook, stirring, until the onion and garlic are softened and just starting to brown, 5 minutes. (Decrease the heat to medium-high if necessary to prevent scorching.) "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Decrease the heat to medium-high and add the chicken, rosemary, oregano, red-pepper flakes and several generous grinds of black pepper. Cook, breaking up the chicken into crumbles, until the meat starts to lose its translucent pinkness and is turning white, about 2 minutes. Add the potatoes and stir well to combine. Add the chicken broth and half the lemon juice, scraping up any browned bits on the bottom. Bring to a rolling boil and then lower the heat to maintain a very brisk simmer. Simmer until the potatoes are nearly tender, 15 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the spinach and dill, to taste. Continue to simmer briskly until the potatoes are tender, about 5 minutes more. Taste and add some or all of the remaining lemon juice, as well as more salt and pepper, if desired. Serve in bowls topped with feta and crushed pita chips."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-03-25T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anita"
+          },
+          "reviewBody": "I've made with both ground turkey and chicken - turkey is better. I used 5 cloves of garlic, 4 c chicken broth and added chopped zucchini and celery. Very tasty",
+          "datePublished": "2025-05-20T05:21:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erin H."
+          },
+          "reviewBody": "We LOVED this recipe and will definitely make again! We did make a few adjustments due to food sensitives... we cut the amount of garlic in half, only used 1/2 tsp of red pepper flakes and used chicken bone broth. It still had a perfect little kick! We also used the full amount of lemon and 1/3 of fresh dill (as well as fresh not dried oregano). It was an instant hit!",
+          "datePublished": "2025-05-10T22:36:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erin"
+          },
+          "reviewBody": "This is good",
+          "datePublished": "2025-05-07T16:34:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cindy"
+          },
+          "reviewBody": "Followed the recipe and thought it was just ok.  Overly spiced and lacked character.  Won't make it again.",
+          "datePublished": "2025-04-24T12:14:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kaveri"
+          },
+          "reviewBody": "i made this several months ago, doubling the recipe and omitting the red pepper flakes. we very much enjoyed half and put the rest away in the freezer. boy, were we glad i did. it was even more delicious reheated!",
+          "datePublished": "2025-04-21T21:11:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rachel"
+          },
+          "reviewBody": "Good but not lemony enough as written. Should mix in the lemon juice and zest at the very end to prevent it from getting bitter/the flavor cooking off.",
+          "datePublished": "2025-04-18T15:03:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marie"
+          },
+          "reviewBody": "This is me and my partners favorite soup to make. It’s very easy and straightforward, and absolutely delicious. I substitute ground turkey instead of chicken and kale instead of spinach, because I prefer the taste of ground turkey and the texture of kale. I also leave out the garlic and onions to make it low FODMAP, and it’s still very flavorful (just make sure to use fresh rosemary, it’s so much better fresh!).",
+          "datePublished": "2025-04-08T18:51:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill"
+          },
+          "reviewBody": "Used more spinach than what’s in the recipe. Might add some peas also.",
+          "datePublished": "2025-03-31T22:50:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tomizuka0829"
+          },
+          "reviewBody": "Yum! Light, yet filling. Love the flavor, perfect for a cold rainy March day.",
+          "datePublished": "2025-03-30T23:14:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marg"
+          },
+          "reviewBody": "Solid weeknight dinner. Very tasty in a small amount of time. More of a soup than a stew, and I used only 5 cups of liquid. Would use 4 cups next time. Followed exactly except added some celery to use some up, didn’t have pita chips, and had to use baby spinach because that’s what I had.",
+          "datePublished": "2025-03-24T00:33:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Henry"
+          },
+          "reviewBody": "Great recipe, I’ve made this several times.\n\nI like to use a chicken bone broth (like Kettle and Fire) to make it a little bit more rich with more protein.\n\nAlso, I highly recommend cooking the chicken until it browns, before adding the potatoes and broth.",
+          "datePublished": "2025-03-14T03:06:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christian de Concord CA"
+          },
+          "reviewBody": "I found it non-interesting... a bit spicy, a bit fatty, nothing special... désolé",
+          "datePublished": "2025-03-08T07:53:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JJ"
+          },
+          "reviewBody": "very good! gets better as it sits.  will make again!",
+          "datePublished": "2025-03-06T18:18:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Merge"
+          },
+          "reviewBody": "Used ground turkey, reduced saltiness with tempered yogurt. Otherwise, as printed. Really grand!!",
+          "datePublished": "2025-03-06T16:38:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dennis"
+          },
+          "reviewBody": "Solid recipe. Easy to make with tasty results.",
+          "datePublished": "2025-03-02T14:55:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "matt"
+          },
+          "reviewBody": "I have a bit of an aversion to ground chicken so I filled a 5qt Dutch oven with water and added a celery stalk, a quartered onion, a halved lemon, a few smashed cloves of garlic, a few sprigs of thyme and 2 bay leaves along with 2 bone in and skin on chicken breast. Brought to a nice simmer for 30 minutes before removing the chicken to a bowl and straining the solids. The remaining liquid I used for my broth and I added the shredded chicken back in at the end. It was very good.",
+          "datePublished": "2023-03-13T02:30:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Raven"
+          },
+          "reviewBody": "In dishes like this, I like to use trimmed boneless, skinless chicken thighs that have been blitzed briefly in the food processor. Fresher and less expensive than purchased ground chicken.",
+          "datePublished": "2023-03-25T15:35:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peter"
+          },
+          "reviewBody": "A whole teaspoon of red pepper flakes is excessive for this amount of ingredients.\n\nOther than that, this is an excellent, easy-to-prepare soup.\n\nRather than ground chicken (most likely to be breast meat), I intend to use an equivalent amount (or more) of boneless, skinless THIGH meat. I’ll brown it separately and chop it as finely as I can manage before adding it (and its pan juices) to the soup - adjusting cooking at that point accordingly.\n\nAlso - use Kale rather than Spinach.",
+          "datePublished": "2023-03-11T13:19:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Casey"
+          },
+          "reviewBody": "As a Greek person, I could not help but temper an egg into this broth, like an avgolemono soup. It added a wonderful, velvety complexity to the broth.",
+          "datePublished": "2024-04-07T01:31:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hannah"
+          },
+          "reviewBody": "Instead of ground chicken directly into the soup, I made small chicken meatballs with an egg, onion, and the same seasonings as the soup. I browned them lightly in oil before cooking the onion, then removed and started from the beginning of the recipe. Really enjoyed how it turned out.",
+          "datePublished": "2023-11-11T03:40:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "caitlin"
+          },
+          "reviewBody": "A little spicy for us! I am a wimp but even my husband who likes spice said it was a bit much. I’d cut the red pepper flakes amount in half next time. Otherwise a nice cozy weeknight meal",
+          "datePublished": "2023-03-10T00:25:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karrie"
+          },
+          "reviewBody": "Used ground turkey instead of chicken, used Aleppo pepper instead of the red pepper flakes (because it’s less hot and deepens the flavor), and started with 4 cups of broth because I want it to be more stewlike and less soupy.  (Added one more cup later.)  Otherwise I stuck with the recipe. \n\nAnd I was really pleased with the result.  A good, flavorful meal that’s relatively fast and easy.",
+          "datePublished": "2023-04-02T11:01:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J"
+          },
+          "reviewBody": "very flavorful! My 13 year old daughter told me to \"put this in the rotation\"!\n\nI upped the spinach by 1/2 cup which felt like the right amount.\n\nMy red onion was rotten so I used shallots and it tasted great.\n\nAccidentally added all the lemon juice in the first step to no ill effect!\n\nFresh herbs makes a difference here, I think.",
+          "datePublished": "2023-03-14T20:51:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Linda"
+          },
+          "reviewBody": "Mostly followed recipe. Just put in 2 small yukon gold potatoes, ground turkey breast instead of chicken, big bunch of dino kale instead of spinach, added a large mushroom and a can of chickpeas. I liked it quite a bit, spice was perfect for me and balances nicely with the lemon, creamy feta and pita chips.",
+          "datePublished": "2023-03-14T03:57:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vivien Hessel"
+          },
+          "reviewBody": "I wonder if the writer has purchased ground chicken lately. You can get a steak for the same price. And it tastes better.",
+          "datePublished": "2023-03-10T15:56:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nicole A"
+          },
+          "reviewBody": "I have surely made hundreds of NYT cooking recipes over the years, and this simple, easy soup is my hands-down favorite! It’s hearty and vibrant, with just the right touch of acid from the lemon juice and heat from the pepper flakes. And like most soups, it’s even better leftover. Thank you for this brilliant recipe that we make at least once a month!",
+          "datePublished": "2024-06-01T23:53:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jennifer"
+          },
+          "reviewBody": "I made broth by poaching chicken breasts, then cooked the potatoes in the lemony broth while sautéing the onion, garlic, herbs and red pepper in a separate pan. I made only three cups of broth intentionally, desiring a thicker stew. Once the potatoes were done, I combined all ingredients and corrected the seasoning. I used fresh oregano, rosemary and dill and snipped up some boxed salad for the greens. The family declared this delicious. Crumbled feta on top was sublime!",
+          "datePublished": "2023-03-20T03:05:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Geoffrey"
+          },
+          "reviewBody": "Works well with purple potatoes. And the feta is a must-have. I’d double the garlic & lemon next time.",
+          "datePublished": "2023-03-25T19:23:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JD"
+          },
+          "reviewBody": "Made this tonight, very good! One teaspoon of red pepper flakes made it quite spicy, which we liked. It may be a bit warm for some. Will definitely add to the \"keeper\" recipe list.",
+          "datePublished": "2023-03-09T01:26:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Holmas28"
+          },
+          "reviewBody": "This turned out so delicious.  I highly recommend!  I used shredded cooked chicken thighs instead of ground chicken. I cut red pepper flakes in half as suggested. I doubled lemon juice but omitted one cup of chicken broth (too soupy otherwise).  Also added a can of Cannellini white beans.  Yum!",
+          "datePublished": "2024-08-19T01:14:38.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1024015-lemony-greek-chicken-spinach-and-potato-stew",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Sarah DiGregorio"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "If your favorite Greek foods are the lively vegetable dishes, this meal-in-a-bowl stew is for you. A simple mix of lemon, garlic and lots of herbs enliven the potatoes and spinach and using ground meat ensures a lot of flavor in very little time. Ground turkey or pork would be just as good, if you prefer. Russets can be substituted for Yukon golds, but their texture will be more grainy and less creamy. Mature spinach or frozen spinach works best here because of its mellow flavor, as opposed to baby spinach, which is more tannic. Add the amount of dill that sounds best to you, or if you don’t like it, swap in a few tablespoons of fresh parsley or mint.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Lemony Greek Chicken, Spinach and Potato Stew",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/ec40ab99-9098-5682-833b-e6b7ff1a15b9#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/07/multimedia/sdg-lemony-chicken-stew-vjkz/sdg-lemony-chicken-stew-vjkz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-03-17T16:24:29.606Z",
+          "datePublished": "2023-03-07T17:03:55.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-03-07T17:03:55.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/07/multimedia/sdg-lemony-chicken-stew-vjkz/sdg-lemony-chicken-stew-vjkz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ec40ab99-9098-5682-833b-e6b7ff1a15b9#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/07/multimedia/sdg-lemony-chicken-stew-vjkz/sdg-lemony-chicken-stew-vjkz-superJumbo.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-03-17T16:24:29.606Z",
+          "datePublished": "2023-03-07T17:03:55.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2023-03-07T17:03:55.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/07/multimedia/sdg-lemony-chicken-stew-vjkz/sdg-lemony-chicken-stew-vjkz-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/ec40ab99-9098-5682-833b-e6b7ff1a15b9#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/07/multimedia/sdg-lemony-chicken-stew-vjkz/sdg-lemony-chicken-stew-vjkz-mediumSquareAt3X.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-03-17T16:24:29.606Z",
+          "datePublished": "2023-03-07T17:03:55.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-03-07T17:03:55.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/07/multimedia/sdg-lemony-chicken-stew-vjkz/sdg-lemony-chicken-stew-vjkz-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024015-lemony-greek-chicken-spinach-and-potato-stew"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:06:07.479Z",
+  "scraping_status": "scraped"
+}

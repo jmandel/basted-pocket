@@ -1,0 +1,558 @@
+{
+  "id": "fb13063d0a7360a8",
+  "original_url": "https://cooking.nytimes.com/recipes/1020463-coconut-curry-chickpeas-with-pumpkin-and-lime",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1020463-coconut-curry-chickpeas-with-pumpkin-and-lime",
+  "fetched_title": "Coconut Curry Chickpeas With Pumpkin and Lime Recipe",
+  "main_text_content": "Canned pumpkin purée and coconut milk, heavily seasoned with curry spices and lots of fresh lime juice, make a sweet-sharp sauce for chickpeas It’s a rich, creamy curry that you can eat on its own, or serve over rice or couscous If you want to incorporate more vegetables, stir in some spinach, baby kale or sliced green beans during the last few minutes of cooking, letting them soften in the sauce.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1019815-thai-style-coconut-curry-chicken-tacos\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2018/12/06/dining/Thai-Coconut-Curry-Chicken-Tacos/Thai-Coconut-Curry-Chicken-Tacos-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2018/12/06/dining/Thai-Coconut-Curry-Chicken-Tacos/Thai-Coconut-Curry-Chicken-Tacos-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2018/12/06/dining/Thai-Coconut-Curry-Chicken-Tacos/Thai-Coconut-Curry-Chicken-Tacos-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2018/12/06/dining/Thai-Coconut-Curry-Chicken-Tacos/Thai-Coconut-Curry-Chicken-Tacos-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2018/12/06/dining/Thai-Coconut-Curry-Chicken-Tacos/Thai-Coconut-Curry-Chicken-Tacos-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2018/12/06/dining/Thai-Coconut-Curry-Chicken-Tacos/Thai-Coconut-Curry-Chicken-Tacos-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2018/12/06/dining/Thai-Coconut-Curry-Chicken-Tacos/Thai-Coconut-Curry-Chicken-Tacos-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2018/12/06/dining/Thai-Coconut-Curry-Chicken-Tacos/Thai-Coconut-Curry-Chicken-Tacos-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Thai-Style Coconut Curry Chicken Tacos</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Kay Chun</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2019/09/25/dining/20canrex2/merlin_160763166_1a6f5c09-3b72-48bb-8f78-3bdbc5d752f2-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/fb13063d0a7360a8/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/1797a1aa-2813-5e82-a941-4db104235591",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1020463-coconut-curry-chickpeas-with-pumpkin-and-lime",
+        "@type": "WebPage",
+        "name": "Coconut Curry Chickpeas With Pumpkin and Lime"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020463-coconut-curry-chickpeas-with-pumpkin-and-lime",
+      "name": "Coconut Curry Chickpeas With Pumpkin and Lime",
+      "description": "Canned pumpkin purée and coconut milk, heavily seasoned with curry spices and lots of fresh lime juice, make a sweet-sharp sauce for chickpeas. It’s a rich, creamy curry that you can eat on its own, or serve over rice or couscous. If you want to incorporate more vegetables, stir in some spinach, baby kale or sliced green beans during the last few minutes of cooking, letting them soften in the sauce.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/3a69a10a-dc29-5793-9ece-d1cddd557005#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/09/25/dining/20canrex2/merlin_160763166_1a6f5c09-3b72-48bb-8f78-3bdbc5d752f2-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-11-06T21:07:22.511Z",
+          "datePublished": "2019-09-20T12:41:14.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-09-20T12:41:14.000Z",
+          "url": "https://static01.nyt.com/images/2019/09/25/dining/20canrex2/merlin_160763166_1a6f5c09-3b72-48bb-8f78-3bdbc5d752f2-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3a69a10a-dc29-5793-9ece-d1cddd557005#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/09/25/dining/20canrex2/merlin_160763166_1a6f5c09-3b72-48bb-8f78-3bdbc5d752f2-superJumbo.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-11-06T21:07:22.511Z",
+          "datePublished": "2019-09-20T12:41:14.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2019-09-20T12:41:14.000Z",
+          "url": "https://static01.nyt.com/images/2019/09/25/dining/20canrex2/merlin_160763166_1a6f5c09-3b72-48bb-8f78-3bdbc5d752f2-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3a69a10a-dc29-5793-9ece-d1cddd557005#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/09/25/dining/20canrex2/20canrex2-square640.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-11-06T21:07:22.511Z",
+          "datePublished": "2019-09-20T12:41:14.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-09-20T12:41:14.000Z",
+          "url": "https://static01.nyt.com/images/2019/09/25/dining/20canrex2/20canrex2-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT30M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, weeknight, curries, main course",
+      "keywords": "chickpea, cilantro, coconut milk, garam masala, lime juice, pumpkin purée, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 13437
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 472,
+        "unsaturatedFatContent": "9 grams",
+        "carbohydrateContent": "53 grams",
+        "cholesterolContent": null,
+        "fatContent": "25 grams",
+        "fiberContent": "12 grams",
+        "proteinContent": "14 grams",
+        "saturatedFatContent": "13 grams",
+        "sodiumContent": "822 milligrams",
+        "sugarContent": "9 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 tablespoons neutral oil, such as sunflower or canola",
+        "1 large onion, chopped",
+        "2 jalapeños, seeded or not, thinly sliced",
+        "1 bay leaf",
+        "1 knob ginger (about 1 inch), minced",
+        "4 garlic cloves, minced",
+        "1 1/2 teaspoons garam masala",
+        "1 teaspoon ground cumin",
+        "1/2 teaspoon ground turmeric",
+        "2 (15-ounce) cans chickpeas, rinsed",
+        "1 (13.5-ounce) can coconut milk (do not use light coconut milk)",
+        "1 (13.5-ounce) can pumpkin purée",
+        "1 1/2 teaspoons fine sea salt, more as needed",
+        "3/4 cup chopped cilantro, more for serving",
+        "2 to 3 tablespoons fresh lime juice, plus wedges for serving",
+        "Cooked rice or couscous, for serving (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oil in a large skillet over medium-high heat. Stir in onion, jalapeño and bay leaf. Cook, stirring occasionally, until onion is golden on the edges, about 8 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add ginger and garlic and cook until fragrant, about 2 minutes, stirring frequently. Stir in garam masala, cumin and turmeric; cook for an additional 30 seconds."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Stir in chickpeas, coconut milk, pumpkin, 1/2 cup water and 1 1/2 teaspoons salt. Bring to a simmer and continue to simmer for 10 minutes, stirring occasionally, to let the flavors meld. (Add more water if it starts to look too thick.) Stir in cilantro and lime juice to taste. Taste and add more salt if necessary."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Serve over rice or couscous if you like, and top with more cilantro and lime wedges on the side."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sav"
+          },
+          "reviewBody": "Was just okay. Lacked a lot of flavor even after doubling the spices",
+          "datePublished": "2025-05-23T18:55:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Evan"
+          },
+          "reviewBody": "Found it bland as is....no opposed to trying again but likely need to up the salt and spcies",
+          "datePublished": "2025-05-13T22:21:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JB"
+          },
+          "reviewBody": "@Brian. The red lentils worked a treat, as did the slurry. I didn’t have jalapeños on hand, but did have some dried guajillo chilis on hand. I removed the seeds and ribs , soaked and toasted one. Great addition of gentle heat.",
+          "datePublished": "2025-05-10T07:00:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janet"
+          },
+          "reviewBody": "Just made this for about 50 people, multiplying the recipe by 8 and serving over rice. Warmly received. Essential note: I made Punjabi-style garam masala from the book \"600 Curries.\"  Whole spices are toasted and then ground. It has much more depth of flavor than the standard generic version one can buy, and the dish definitely needed that. After tasting, before the final simmer, I added another tablespoon, which brought the dish to a good place. Also added two pound of fresh baby spinach.",
+          "datePublished": "2025-05-07T12:05:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "baltolori"
+          },
+          "reviewBody": "This was very tasty, we put a little yogurt on top to cool the heat a bit, and it came out great.",
+          "datePublished": "2025-05-05T01:03:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shannon"
+          },
+          "reviewBody": "Good. Easy. I added carrots for some color and dried kaffir lime leaves. I didn't have cilantro. I added parsley and mint. I used frozen Kabocha squash from the garden.",
+          "datePublished": "2025-04-30T02:12:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shannon"
+          },
+          "reviewBody": "Good. Used Kabocha frozen from the garden. Added carrots, Kaffir Lime leaves (dried & ground) fish sauce, chicken boullion in water, cubed tofu, parsley and mint.",
+          "datePublished": "2025-04-30T02:20:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "wendy"
+          },
+          "reviewBody": "Add spinach and CM for leftovers",
+          "datePublished": "2025-04-29T23:47:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andy Milder"
+          },
+          "reviewBody": "This is easily one of the most satisfying recipes I’ve made from the NYT. \n\nYes, double the spices, use three jalapeños, ADD ONE 6oz BAG OF SPINACH AT THE END (it becomes a silky and delicious counterpoint), and use Trader Joe’s frozen garlic and ginger, which saves you much trouble (I used 3 cubes of garlic and 5 of ginger). Finally, simmer it for close to an hour. You _do_ want it thick. \n\nEnjoy over rice. It’s really delightful.",
+          "datePublished": "2025-04-26T02:47:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennifer"
+          },
+          "reviewBody": "I subbed mashed sweet potato and yellow bell pepper plus a pinch of red pepper flakes (what I had), and this turned out delicious. The lime is essential! Went from a little bland to super tasty with that addition.",
+          "datePublished": "2025-04-26T12:55:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ann D."
+          },
+          "reviewBody": "This is such a great recipe. I've made it several times and like to make as directed plus a block of Trader Joe's high-protein tofu, cubed, and a bag of Trader Joe's frozen spinach. I add the tofu with the chickpeas etc. and simmer for 10 min, then add the frozen spinach and simmer 10 more. I serve it over steamed broccoli. SO GOOD!",
+          "datePublished": "2025-04-25T23:08:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hannah"
+          },
+          "reviewBody": "Made with 1 can of chickpeas and 1/2 c. red lentils and some green beans. Delicious, will definitely make this again!",
+          "datePublished": "2025-04-17T04:45:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenniwon"
+          },
+          "reviewBody": "Great base recipe! I didn't have pumpkin puree so I subbed in chicken and cashews. I also added fish sauce along with crushed aleppo peppers for depth and nuttiness. I finished it off with fresh red onions and a dollop of yogurt mixed with lime. YUM!!!!",
+          "datePublished": "2025-04-16T01:05:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cateb"
+          },
+          "reviewBody": "Doubled spices to counteract (for us) the too-coconutty flavor. Used red pepper flakes not jalapeño for heat. We served this tossed with basmati rice and steamed broccoli raab and it was a great combo!! \n\nBetter day two also!",
+          "datePublished": "2025-04-15T23:18:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joel"
+          },
+          "reviewBody": "So yummy!",
+          "datePublished": "2025-04-07T18:19:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bryan"
+          },
+          "reviewBody": "This recipe is WOW! So many directions that you can take this or leave it as it is. For most curries I usually add a tablespoon of Tamari for a bit more depth. To help thicken this one I add about a 1/3 cup of red lentils. \nA tip I learned from an Indian chef. When adding spices to a curry, put your dry spices in a bowl and add hot water from the kettle to make a slurry. Then add to the pan or pot. It reduces the chance of scorching the spices in the hot pan which can make it taste bitter.",
+          "datePublished": "2020-11-13T12:37:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kaitlyn"
+          },
+          "reviewBody": "I used light coconut milk, but no water and it turned out rich and creamy with no extra simmering time. I also added in a zucchini and extra garam masala and tumeric (tasted a little bland to me without it). Great with those additions!",
+          "datePublished": "2019-10-07T23:29:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy"
+          },
+          "reviewBody": "Great and easy but at least in my kitchen very very soupy at the suggested simmer time of 10 minutes.  After 45minutes to an hour it looked just like the picture and was delicious, thick, rich and altogether great. \nOnly change I made was using dry Aleppo pepper for jalapeño since I didn’t have jalapeños",
+          "datePublished": "2019-09-21T15:41:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gabriela"
+          },
+          "reviewBody": "I added carrots, zucchini, red pepper, snap peas",
+          "datePublished": "2019-09-20T22:40:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nic"
+          },
+          "reviewBody": "This recipe was absolutely delicious- my partner and I couldn't stop talking all night about how the flavors worked so well together. It was very easy- though took us about 1 hour total to make as we let it simmer on the stove for nearly 30 minutes to bring it to a thicker, richer consistency. I'll definitely be making this one again.",
+          "datePublished": "2019-09-22T15:17:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Frances Ryan"
+          },
+          "reviewBody": "The next time I make I will use a cast iron dutch oven instead of a skillet. Too much volume for a the skillet.",
+          "datePublished": "2019-10-30T20:05:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "drdr2020"
+          },
+          "reviewBody": "Double the spices\n2 large jalapeños with seeds\nAdd 1/3 c red lentils and a container of white mushrooms quartered when you add the chickpeas\nAdd half a container of fresh spinach when you add the cilantro and lime juice\nThis is about the best thing I’ve ever made",
+          "datePublished": "2023-10-28T00:38:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KSE"
+          },
+          "reviewBody": "I tried this with light coconut milk despite the warning, and thought it turned out fine—though doubtless not as rich as with the full-fat stuff. Made with cooking spray in a cast iron pan, only 3 WW points for 4 servings, for those of us who (sigh) have to care about such things. Very mild, so we ate with a lot of hot sauce.",
+          "datePublished": "2019-09-30T17:24:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie"
+          },
+          "reviewBody": "Delicious!  Added 1 tsp of Kashmiri chili powder and an 8 oz bag of spinach, served over basmati rice.",
+          "datePublished": "2019-09-22T00:54:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julia"
+          },
+          "reviewBody": "I added mushrooms, cashews, and kale and it was fantastic!",
+          "datePublished": "2019-11-27T19:56:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Noah"
+          },
+          "reviewBody": "Followed the recipe exactly, and it turned out amazing! Everyone loved it. The pumpkin was not too strong or out of place, and the whole dish worked very well together. Next time I’m going to add in some tofu.",
+          "datePublished": "2019-09-30T11:57:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MK"
+          },
+          "reviewBody": "The key after topping off with cilantro and lime juice is to let the dish simmer and mellow out those flavors, which are initially very strong and don’t fit well with the rest of the dish.",
+          "datePublished": "2019-09-25T16:22:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "I pureed it a bit with an immersion blender at the end of the cooking time. It thickened up nicely and it still had a lot of whole chickpeas in it. Topped it with some pepitas I had on hand. Flavorful and easy!",
+          "datePublished": "2019-11-17T05:42:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Richard"
+          },
+          "reviewBody": "This is a wonderful recipe, but coconut milk is brimming with saturated fat and calories.  What's the problem with with using \"lite\" coconut milk?",
+          "datePublished": "2019-09-25T23:06:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steve"
+          },
+          "reviewBody": "When we started eating we realized it could use more spice (as others noted), so we did the fast Indian method of tempered oil, called tadka or chauk. You heat a few tablespoons of oil very hot - we used half ghee - then throw in some spices. We used cumin seeds and dried chili pods, and since we were already at the table, some garam masala. (Black mustard seeds would be great; note, they pop like popcorn.) You pour the mixture into the dish - it bubbles up and the flavor permeates immediately.",
+          "datePublished": "2020-01-16T03:44:22.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1020463-coconut-curry-chickpeas-with-pumpkin-and-lime",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019,
+      "description": "Canned pumpkin purée and coconut milk, heavily seasoned with curry spices and lots of fresh lime juice, make a sweet-sharp sauce for chickpeas. It’s a rich, creamy curry that you can eat on its own, or serve over rice or couscous. If you want to incorporate more vegetables, stir in some spinach, baby kale or sliced green beans during the last few minutes of cooking, letting them soften in the sauce.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Coconut Curry Chickpeas With Pumpkin and Lime",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/3a69a10a-dc29-5793-9ece-d1cddd557005#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/09/25/dining/20canrex2/merlin_160763166_1a6f5c09-3b72-48bb-8f78-3bdbc5d752f2-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-11-06T21:07:22.511Z",
+          "datePublished": "2019-09-20T12:41:14.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-09-20T12:41:14.000Z",
+          "url": "https://static01.nyt.com/images/2019/09/25/dining/20canrex2/merlin_160763166_1a6f5c09-3b72-48bb-8f78-3bdbc5d752f2-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3a69a10a-dc29-5793-9ece-d1cddd557005#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/09/25/dining/20canrex2/merlin_160763166_1a6f5c09-3b72-48bb-8f78-3bdbc5d752f2-superJumbo.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-11-06T21:07:22.511Z",
+          "datePublished": "2019-09-20T12:41:14.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2019-09-20T12:41:14.000Z",
+          "url": "https://static01.nyt.com/images/2019/09/25/dining/20canrex2/merlin_160763166_1a6f5c09-3b72-48bb-8f78-3bdbc5d752f2-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3a69a10a-dc29-5793-9ece-d1cddd557005#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/09/25/dining/20canrex2/20canrex2-square640.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-11-06T21:07:22.511Z",
+          "datePublished": "2019-09-20T12:41:14.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-09-20T12:41:14.000Z",
+          "url": "https://static01.nyt.com/images/2019/09/25/dining/20canrex2/20canrex2-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020463-coconut-curry-chickpeas-with-pumpkin-and-lime"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:03:58.783Z",
+  "scraping_status": "scraped"
+}

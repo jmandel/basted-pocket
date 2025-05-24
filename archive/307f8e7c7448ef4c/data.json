@@ -1,0 +1,552 @@
+{
+  "id": "307f8e7c7448ef4c",
+  "original_url": "https://cooking.nytimes.com/recipes/1021584-slow-roasted-salmon-with-mushroom-leek-broth",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021584-slow-roasted-salmon-with-mushroom-leek-broth",
+  "fetched_title": "Slow-Roasted Salmon With Mushroom-Leek Broth Recipe",
+  "main_text_content": "This warming dish is inspired by Japanese ochazuke, a comforting bowl of rice with green tea poured on top Traditionally, the meal may also be finished with grilled fish, sashimi or other toppings, but there is room for variation: You could swap out the hot tea for dashi, broth or other liquids In this approach, the salmon is slow-roasted — which helps render some of the fat and keeps the fish meltingly tender — while a light shiitake mushroom and leek broth simmers",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1023227-broiled-salmon-with-mustard-and-lemon\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"Two fillets of broiled salmon with mustard and lemon are on a foil-lined sheet pan with lemon wedges and fish spatula.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2022/06/22/dining/21beginner-rex4/22beginner-rex4-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2022/06/22/dining/21beginner-rex4/22beginner-rex4-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2022/06/22/dining/21beginner-rex4/22beginner-rex4-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2022/06/22/dining/21beginner-rex4/22beginner-rex4-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2022/06/22/dining/21beginner-rex4/22beginner-rex4-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2022/06/22/dining/21beginner-rex4/22beginner-rex4-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2022/06/22/dining/21beginner-rex4/22beginner-rex4-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2022/06/22/dining/21beginner-rex4/22beginner-rex4-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Broiled Salmon With Mustard and Lemon</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/04/04/dining/sl-salmon-with-leek-broth/sl-salmon-with-leek-broth-threeByTwoMediumAt2X-v2.jpg",
+  "local_image_path": "scraped/307f8e7c7448ef4c/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/2cae259a-ad9a-5351-a996-c0374a14fa61",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021584-slow-roasted-salmon-with-mushroom-leek-broth",
+        "@type": "WebPage",
+        "name": "Slow-Roasted Salmon With Mushroom-Leek Broth"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021584-slow-roasted-salmon-with-mushroom-leek-broth",
+      "name": "Slow-Roasted Salmon With Mushroom-Leek Broth",
+      "description": "This warming dish is inspired by Japanese ochazuke, a comforting bowl of rice with green tea poured on top. Traditionally, the meal may also be finished with grilled fish, sashimi or other toppings, but there is room for variation: You could swap out the hot tea for dashi, broth or other liquids. In this approach, the salmon is slow-roasted — which helps render some of the fat and keeps the fish meltingly tender — while a light shiitake mushroom and leek broth simmers. Divide cooked rice among bowls, spoon the salmon and vegetable broth on top, and finish with fresh ginger and a drizzle of sesame oil.",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Li"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/3d01e65f-66a3-537c-80fc-812ffa2d5487#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/04/dining/sl-salmon-with-leek-broth/sl-salmon-with-leek-broth-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-04-02T17:15:00.551Z",
+          "datePublished": "2020-12-07T19:31:29.000Z",
+          "height": "899",
+          "representativeOfPage": true,
+          "uploadDate": "2020-12-07T19:31:29.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/04/dining/sl-salmon-with-leek-broth/sl-salmon-with-leek-broth-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3d01e65f-66a3-537c-80fc-812ffa2d5487#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/04/dining/sl-salmon-with-leek-broth/merlin_180213657_781c411b-5ba2-4bd6-8a8a-7a9e8b25b280-superJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-04-02T17:15:00.551Z",
+          "datePublished": "2020-12-07T19:31:29.000Z",
+          "height": "1291",
+          "representativeOfPage": true,
+          "uploadDate": "2020-12-07T19:31:29.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/04/dining/sl-salmon-with-leek-broth/merlin_180213657_781c411b-5ba2-4bd6-8a8a-7a9e8b25b280-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3d01e65f-66a3-537c-80fc-812ffa2d5487#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/04/dining/sl-salmon-with-leek-broth/sl-salmon-with-leek-broth-mediumSquareAt3X-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-04-02T17:15:00.551Z",
+          "datePublished": "2020-12-07T19:31:29.000Z",
+          "height": "1799",
+          "representativeOfPage": true,
+          "uploadDate": "2020-12-07T19:31:29.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/04/dining/sl-salmon-with-leek-broth/sl-salmon-with-leek-broth-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT35M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, weeknight, seafood, main course",
+      "keywords": "fall, spring, winter, ginger, leek, mushroom, partial-access-ic, rice, salmon, sesame oil, shiitake",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 927
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 599,
+        "unsaturatedFatContent": "14 grams",
+        "carbohydrateContent": "64 grams",
+        "cholesterolContent": null,
+        "fatContent": "22 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "33 grams",
+        "saturatedFatContent": "5 grams",
+        "sodiumContent": "956 milligrams",
+        "sugarContent": "5 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 (1 1/2-pound) piece skin-on or skinless salmon",
+        "2 tablespoons sesame oil, plus more for serving",
+        "Kosher salt",
+        "2 medium leeks, trimmed, white and light greens cut crosswise into 1-inch rounds (about 2 cups)",
+        "8 ounces fresh shiitake mushrooms, destemmed and sliced",
+        "4 cups chicken broth",
+        "2 cups cooked short-grain white rice",
+        "Fresh ginger, peeled and cut into very thin matchsticks, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 325 degrees. Place salmon on a baking sheet. Drizzle salmon with 1 tablespoon sesame oil, sprinkle with salt and roast in the oven until cooked, 25 to 30 minutes. Remove salmon from the oven and let it rest another 5 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the salmon roasts, heat remaining 1 tablespoon sesame oil in a pot over medium. Add leeks and mushrooms, season with salt, and cook, stirring occasionally, until leeks and mushrooms are lightly golden on the edges, 8 to 10 minutes. (Don’t worry if the pan seems dry, the moisture that comes out of the mushrooms and leeks will help steam the vegetables and keep them from burning.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add chicken broth and simmer until the broth is infused with mushroom flavor and leeks are tender, 20 to 25 minutes. Season with salt."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To serve, divide rice among bowls. Scoop salmon by the spoonful onto the rice, and ladle vegetables and broth over salmon and rice. Top with ginger and a drizzle of sesame oil."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2020-12-09T00:00:00.000Z",
+      "dateModified": "2020-12-10T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michelle"
+          },
+          "reviewBody": "Yummy!  \nI really enjoyed cooking this, myself like many others I couldn’t resist adding a little bit of my own spin on it, it’s definitely not needed. I couldn’t resist. I have to say the leaks are going to be my new favorite add-on to every meal! I had no idea how yummy they would be! I added a teaspoon of garam masala. I mean, when the heck am I ever gonna use this seasoning? Better use it now! I used tbsp: curry, garlic, and blackened my salmon! YUMMY",
+          "datePublished": "2025-03-08T03:45:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane P"
+          },
+          "reviewBody": "Added 1/4 c Mirin. So delicious.",
+          "datePublished": "2025-01-31T01:32:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Esme"
+          },
+          "reviewBody": "I’m surprised this doesn’t have a better rating, we really enjoyed it, however I did make adjustments based on great recommendations from others: Added 3 cloves minced garlic, A chunk of minced ginger, Half a carrot, Used rice vinegar to deglaze. \nAll fresh/CSA ingredients. Will absolutely make again.",
+          "datePublished": "2025-01-19T00:40:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stacey"
+          },
+          "reviewBody": "This dish was excellent; made for Christmas Eve dinner. Incorporated several suggestions from readers like Mirin, fish sauce, black rice vinegar and a little garlic. Ground a little Sichuan pepper on the salmon filets and broiled the tops for an additional three minutes after cooking. Additionally, I had some bok choy that needed to be cooked so added that to the saute. Put a little chili crisp on the rice when assembling. Absolutely great, will make again. So good, I was inspired to review.",
+          "datePublished": "2024-12-25T05:05:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JK"
+          },
+          "reviewBody": "a lot of ways you can keep the clean flavor and add a few more ingredients for nuance \n\nfor soup: \n- 3x different types of mushrooms - black, orange chanterelles and shiitake\n- added more flavor to soup with dashi packet, little bit of mirin, grated ginger and garlic, and japanese chili powder   sesame oil at the end \n- added frozen spinach and a bit of wakame for more veg variety \n\nfor salmon, olive oil, sesame oil, ponzu paste , garlic powder, salt, soy sauce, white pepper, black sesame seeds and slow roasted it altogether",
+          "datePublished": "2024-09-30T18:51:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "valerie"
+          },
+          "reviewBody": "I add baby bok choy. It makes it even healthier.",
+          "datePublished": "2024-07-13T23:21:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stacy M"
+          },
+          "reviewBody": "Really enjoyed this recipe. So different from anything else be cooked. It was light and flavorful and will for sure become a staple in our dinner rotation. Next time I’ll add bok choy for some greens and let the broth simmer longer for depth and the salmon roast less time because we like it more medium rare than well done. Great recipe.",
+          "datePublished": "2024-05-05T15:13:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suevee"
+          },
+          "reviewBody": "I'm confused about the sesame oil.  I've always used the toasted kind and added it just before serving, because I was taught that it became bittter if it was cooked. You seem to be telling us to use some to flavor the salmon (toasted, I guess?) and some to fry in (untoasted???).  Please clarify.",
+          "datePublished": "2024-02-11T01:05:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "next time"
+          },
+          "reviewBody": "Overcooked. Try 300 instead of 325",
+          "datePublished": "2023-03-06T02:05:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "john j"
+          },
+          "reviewBody": "Pat dry salmon , brush salmon chunks with sesame oil and sear in hot cast iron pan on 1 side , flip and move to hot oven .\nUsed veg. Broth and miso paste for broth \nJust a bit of adjustments to nice recipe.",
+          "datePublished": "2023-02-27T17:49:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sara"
+          },
+          "reviewBody": "So beautiful and subtle. I am going to omit the rice next time and have some veggie dumplings instead bc I think it will suit the feel of this dish so well.",
+          "datePublished": "2023-01-27T02:24:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katie"
+          },
+          "reviewBody": "Used white miso, mirin, soy sauce, and ginger for the top of the salmon instead (don’t start until leeks/mushrooms are going). Salmon cooked at 300 and broiled at the end. Deglazed leeks/mushrooms with rice vinegar. Dashi instead of chicken broth plus a little garlic and much more ginger. No fresh ginger at the end. Fabulous.",
+          "datePublished": "2023-01-25T05:22:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "parviflorum"
+          },
+          "reviewBody": "Delicious for being so simple!\n\nMade some changes to the broth: Used dashi broth (brewed pre-made packets) instead of chicken. Added a tablespoon of miso paste to the broth.\n\nAdded diced daikon radish to the soup as a few have suggested.\n\nPerhaps the most significant change; steamed chilean sea bass for 15 min and then poured the broth over the cooked and sea bass. I tried it with salmon the first time and think the sea bass pairs better.",
+          "datePublished": "2023-01-24T06:04:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nick R."
+          },
+          "reviewBody": "Really enjoyed the subtle flavors. I used jasmine rice as the base and include ginger in the broth. Topped with sesame seeds. Will definitely make this again!",
+          "datePublished": "2023-01-21T22:17:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brooke"
+          },
+          "reviewBody": "I loved this so much that I made it two days in a row—the first time with rice and the second time without. I preferred it much more without the rice. The flavor of the mushrooms really came through and the balance of liquid and solid was perfect. I added grated ginger to the broth and tossed a little cilantro on top when serving.",
+          "datePublished": "2023-01-15T14:23:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristen B"
+          },
+          "reviewBody": "Japanese food is seasonal and depends on simple fresh foods that complement one another bringing out the natural qualities of each ingredient.  This is not a waste of flavor but a style based on a philosophy of nature and health.  Doctoring it is fine if you need a western big mouth taste to your food, but is not necessary to enjoy the simplicity of the natural enhancements of the foods themselves in terms of texture, fragrance and flavor.",
+          "datePublished": "2021-04-03T13:14:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joy P"
+          },
+          "reviewBody": "I am grateful for the inspiration, but What a waste, for the only seasoning to be salt! So I added 2 tbsp sake, 1 tbsp mirin to the broth (waiting to see if it could use soy sauce also.) also I added equal amount of sliced cremini to the shiitake, and I only wish I had thought to include some parsnip or carrot at the beginning. It could definitely benefit also from a clove or two of minced garlic, and ginger in the broth as well",
+          "datePublished": "2020-12-17T00:25:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jay"
+          },
+          "reviewBody": "Start cooking mushrooms and leeks (followed by broth) 10 min before salmon into oven",
+          "datePublished": "2020-12-15T02:50:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael Y."
+          },
+          "reviewBody": "Nice touches proposed by Joy P.-- 2 tbsp of sake, a tbsp of mirin, minced garlic and ginger to the broth.  I also added a 1/4 tsp of chili sauce (ginger, garlic, canola oil, red pepper flakes, sesame seeds) which made the salt issue moot.  As a bachelor, this made me look goooooooood...",
+          "datePublished": "2020-12-23T02:13:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steven H"
+          },
+          "reviewBody": "I just want to note that although this recipe has so few ingredients, I followed it, looking for something simple and not too exciting as a bit of a cleansing meal after a week full of pasta and carry out. It only needs salt! Done following the recipe exactly really brought out the flavors of the mushrooms, leeks, and salmon.\n\nI've made this now multiple times as-is, and am excited to try some variations next time!",
+          "datePublished": "2021-04-20T16:19:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tim"
+          },
+          "reviewBody": "Dish was a big hit with the family. Cooked salmon at 300 degrees instead of 325, which worked out well. Perfect for a cold and rainy evening.",
+          "datePublished": "2020-12-15T00:53:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "katy"
+          },
+          "reviewBody": "I add half a shallot, three cloves of garlic, chili flakes and deglazed the pan with rice wine vinegar after reading the comments and it’s become one of the favorite meals in my house, though as is I think it would be too bland.\n\nThe salmon really is fantastic and buttery, and the broth!  A simple, adaptable recipe with depth.",
+          "datePublished": "2020-12-31T01:45:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nathaniel"
+          },
+          "reviewBody": "I thought this looked too simple and bland, but it was absolutely perfect comfort food as written. Wouldn't add a thing!",
+          "datePublished": "2021-05-31T01:40:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy"
+          },
+          "reviewBody": "I prepared a glaze for the salmon before roasting it at 350 (which was delish - and would be good alone), made as follows:\n1 tbsp brown sugar\n1 tsp garlic powder\n1 tsp ginger\nsesame seeds (if desired)\n1 tbsp soy sauce\n1 tsp. roasted seasame oil",
+          "datePublished": "2021-01-01T23:39:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenn Wang"
+          },
+          "reviewBody": "This was delicious with a few changes/additions to the broth based on some other notes. \n\nI made the broth in advance and used unsalted chicken stock. After boiling the stock, I took it off the heat and steeped 2 tsp of green tea (genmaicha) in the stock for 1 min, then discarded the tea. I julienned 2 inches of ginger and added it to the broth along with 2 tsp hondashi, 2 tbsp of mirin and 2 tbsp of sake. It was a game changer.",
+          "datePublished": "2020-12-26T23:59:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Behruz Nassre"
+          },
+          "reviewBody": "I do not understand the use of chicken broth instead of fish broth or even a simple Dashi. I used homemade fishbone broth with some bonito flakes. I also added a bit of white miso to the mushroom, and leek mixture for a more robust flavor. The salmon can be cooked at a lower temp, or sous vide for better texture. You need high-fat salmon to get the nice flakes; otherwise, it will dry out. Overall the recipe is a good start but needs modification.",
+          "datePublished": "2022-12-31T03:50:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debbie"
+          },
+          "reviewBody": "My husband and I loved this as is. I agree with the comment about the simple nuanced Japanese flavors. It was perfect.",
+          "datePublished": "2022-10-30T03:05:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shary"
+          },
+          "reviewBody": "I thought this recipe was absolutely delicious without any additional ingredients and not bland at all. The only tweaks I made were out of necessity as I only had a pound of salmon and a small amount (3.8 ounce container) of shiitakes on hand. I did use a whole 32 oz carton of Imagine low sodium chicken broth. Instead of serving it as suggested with rice I had the broth and salmon separately and it was wonderful. The leftover broth the next day was sensational.",
+          "datePublished": "2021-04-16T03:23:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate"
+          },
+          "reviewBody": "I made this as is and loved it. One tweak…I fried the ginger matchsticks in sesame oil and used the cooled oil for the salmon.",
+          "datePublished": "2021-11-10T03:34:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joan B"
+          },
+          "reviewBody": "Really good.  Delicate and healthy tasting. Halved everything for two people.  Otherwise, made as written, except used dashi instead of chicken broth.  Topped each bowl with 1/2 Tbsp toasted sesame oil.  Good flavors except I didn't like the grated ginger on top - tasted harsh.  Might include some ginger in the broth next time or a piece of pickled ginger for garnish.  If you like salmon, mushrooms and leeks, it really doesn't need much else.",
+          "datePublished": "2022-10-28T02:05:00.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021584-slow-roasted-salmon-with-mushroom-leek-broth",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Li"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020,
+      "description": "This warming dish is inspired by Japanese ochazuke, a comforting bowl of rice with green tea poured on top. Traditionally, the meal may also be finished with grilled fish, sashimi or other toppings, but there is room for variation: You could swap out the hot tea for dashi, broth or other liquids. In this approach, the salmon is slow-roasted — which helps render some of the fat and keeps the fish meltingly tender — while a light shiitake mushroom and leek broth simmers. Divide cooked rice among bowls, spoon the salmon and vegetable broth on top, and finish with fresh ginger and a drizzle of sesame oil.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Slow-Roasted Salmon With Mushroom-Leek Broth",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/3d01e65f-66a3-537c-80fc-812ffa2d5487#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/04/dining/sl-salmon-with-leek-broth/sl-salmon-with-leek-broth-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-04-02T17:15:00.551Z",
+          "datePublished": "2020-12-07T19:31:29.000Z",
+          "height": "899",
+          "representativeOfPage": true,
+          "uploadDate": "2020-12-07T19:31:29.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/04/dining/sl-salmon-with-leek-broth/sl-salmon-with-leek-broth-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3d01e65f-66a3-537c-80fc-812ffa2d5487#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/04/dining/sl-salmon-with-leek-broth/merlin_180213657_781c411b-5ba2-4bd6-8a8a-7a9e8b25b280-superJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-04-02T17:15:00.551Z",
+          "datePublished": "2020-12-07T19:31:29.000Z",
+          "height": "1291",
+          "representativeOfPage": true,
+          "uploadDate": "2020-12-07T19:31:29.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/04/dining/sl-salmon-with-leek-broth/merlin_180213657_781c411b-5ba2-4bd6-8a8a-7a9e8b25b280-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3d01e65f-66a3-537c-80fc-812ffa2d5487#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/04/dining/sl-salmon-with-leek-broth/sl-salmon-with-leek-broth-mediumSquareAt3X-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-04-02T17:15:00.551Z",
+          "datePublished": "2020-12-07T19:31:29.000Z",
+          "height": "1799",
+          "representativeOfPage": true,
+          "uploadDate": "2020-12-07T19:31:29.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/04/dining/sl-salmon-with-leek-broth/sl-salmon-with-leek-broth-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021584-slow-roasted-salmon-with-mushroom-leek-broth"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:08:41.532Z",
+  "scraping_status": "scraped"
+}

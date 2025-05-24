@@ -1,0 +1,934 @@
+{
+  "id": "8e804b6d1653350f",
+  "original_url": "https://www.maangchi.com/recipe/guksu",
+  "canonical_url": "https://www.maangchi.com/recipe/guksu",
+  "fetched_title": "Korean noodle soup (Guksu) recipe by Maangchi",
+  "main_text_content": "Today I&#039;m going to show you my version of guksu (국수), a simple and delicious noodle soup, and one of my all-time favorites and go-to regular meals. This version is spicy and...",
+  "main_html_content": "<h1 class=\"entry-title mega-heading\">Noodle soup</h1><h2 class=\"entry-title mega-heading-translation\"><span class=\"romanized-name\">Guksu</span> <span class=\"korean-name\">국수</span></h2><p class=\"author vcard postedby\">By <a href=\"/about\" rel=\"author\"><span class=\"fn n nickname\">Maangchi</span></a></p><p class=\"postdate updated\">Updated on July 29th, 2021</p><div  class=\"rmp-widgets-container rmp-wp-plugin rmp-main-container js-rmp-widgets-container js-rmp-widgets-container--65655 \"  data-post-id=\"65655\"><div class=\"rmp-rating-widget js-rmp-rating-widget\"><div class=\"rmp-rating-widget__icons\"><ul class=\"rmp-rating-widget__icons-list js-rmp-rating-icons-list\"><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Not at all useful\" data-value=\"1\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Somewhat useful\" data-value=\"2\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Good recipe\" data-value=\"3\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Great recipe\" data-value=\"4\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"The besttt!!!\" data-value=\"5\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li></ul>",
+  "publication_date": "2015-12-01T16:08:34+00:00",
+  "author": "Maangchi",
+  "key_image_url": "https://i.ytimg.com/vi/ZRESBwsRS_U/maxresdefault.jpg?meta=og:image",
+  "local_image_path": "scraped/8e804b6d1653350f/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "/recipe/guksu#sso/recipe/65655",
+          "@context": "https://schema.org",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.maangchi.com/recipe/guksu",
+          "url": "https://www.maangchi.com/recipe/guksu",
+          "sameAs": [
+            "https://www.maangchi.com/?p=65655"
+          ],
+          "name": "Korean noodle soup (Guksu)",
+          "description": "Today I&#039;m going to show you my version of guksu (국수), a simple and delicious noodle soup, and one of my all-time favorites and go-to regular meals. This version is spicy and savory. I always have kimchi and anchovies on hand, so it&#039;s something that I can always make quickly for lunch, or when...",
+          "aggregateRating": {
+            "@id": "/recipe/guksu#sso/recipe/65655/rating-aggregate/5/242/1/5"
+          },
+          "image": [
+            {
+              "@id": "https://i.ytimg.com/vi/ZRESBwsRS_U/maxresdefault.jpg?meta=og:image#sso/image-object"
+            }
+          ],
+          "video": [
+            {
+              "@id": "https://www.youtube.com/embed/ZRESBwsRS_U#sso/video-object"
+            }
+          ],
+          "publisher": [
+            {
+              "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+            }
+          ],
+          "headline": "Korean noodle soup (Guksu)",
+          "keywords": "김치국수, 국물 국수, 국수, guksu, 잔치국수, janchi guksu, kim, kimchi noodle soup, maangchi's noodle soup, noodle soup, noodle soup with anchovy stock, noodle soup with spicy kimchi mixture",
+          "isFamilyFriendly": true,
+          "inLanguage": "en_US",
+          "datePublished": "2015-12-01T16:08:34+00:00",
+          "dateModified": "2021-07-29T20:22:00+00:00",
+          "author": {
+            "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+          },
+          "thumbnailUrl": "https://i.ytimg.com/vi/ZRESBwsRS_U/maxresdefault.jpg?meta=og:image",
+          "commentCount": 35,
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/51767"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/49855"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/49006"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/48979"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/47473"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/47161"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/45591"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/43902"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/43586"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/43188"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42817"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42754"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42752"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42713"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42689"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42687"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42685"
+            },
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42684"
+            }
+          ],
+          "recipeCuisine": "Korean",
+          "recipeCategory": "Main dish",
+          "recipeIngredient": [],
+          "recipeInstructions": [
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 1
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 2
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu#sso/recipe/65655/rating-aggregate/5/242/1/5",
+          "@context": "https://schema.org",
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "ratingCount": 242,
+          "worstRating": 1,
+          "bestRating": 5
+        },
+        {
+          "@id": "https://i.ytimg.com/vi/ZRESBwsRS_U/maxresdefault.jpg?meta=og:image#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://i.ytimg.com/vi/ZRESBwsRS_U/maxresdefault.jpg?meta=og:image",
+          "alternativeHeadline": "Korean Noodle Soup (Guksu: êµ­ì)",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1280",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1280"
+        },
+        {
+          "@id": "#sso/qv-height-px-720",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "720"
+        },
+        {
+          "@id": "https://www.youtube.com/embed/ZRESBwsRS_U#sso/video-object",
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "url": "https://www.youtube.com/embed/ZRESBwsRS_U",
+          "name": "Korean Noodle Soup (Guksu: êµ­ì)",
+          "description": "Today Iâm going to show you my version of guksu (êµ­ì), a simple and delicious noodle soup, and one of my all-time favorites and go-to regular meals. My versio...",
+          "embedUrl": "https://www.youtube.com/embed/ZRESBwsRS_U",
+          "encodingFormat": "text/html",
+          "duration": "PT13M16S",
+          "uploadDate": "2015-12-01T16:04:00+00:00",
+          "thumbnailUrl": "https://i.ytimg.com/vi/ZRESBwsRS_U/maxresdefault.jpg?meta=og:image",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ],
+          "keywords": "Korean food, Korean cooking, Maangchi, Maangchi recipes, Korean cuisine, êµ­ì, guksu, noodle soup, ìì¹êµ­ì, ê¹ì¹êµ­ì, êµ­ë¬¼ êµ­ì, janchi guksu, noodle soup with anchovy stock. noodle soup with spicy kimchi mixture, maangchi's noodle soup, kimchi noodle soup, Korean Noodles (Food), Noodle (Food), gooksoo"
+        },
+        {
+          "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person",
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "url": "https://www.maangchi.com",
+          "name": "Maangchi",
+          "description": "Author archive page for Maangchi.",
+          "image": [
+            {
+              "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object"
+            }
+          ]
+        },
+        {
+          "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-1200"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "#sso/qv-height-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png",
+          "identifier": "93971-wpsso-schema-4x3",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-900"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-900",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "900"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png",
+          "identifier": "93971-wpsso-schema-16x9",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-675"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-675",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "675"
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/51767",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-51767",
+          "name": "Comment by Jang-geum on October 20, 2020",
+          "description": "Made janchi-guksu (korean banquet noodle soup) at home...yum..",
+          "text": "Made janchi-guksu (korean banquet noodle soup) at home...yum..",
+          "dateCreated": "2020-10-20T02:19:05-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Jang-geum"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/51797"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/51797",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-51797",
+          "name": "Reply by Maangchi on October 30, 2020",
+          "description": "It&#039;s a great idea to add mushroom! Delicious!",
+          "text": "It&#039;s a great idea to add mushroom! Delicious!",
+          "dateCreated": "2020-10-30T09:31:29-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/49855",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-49855",
+          "name": "Comment by Damir on October 12, 2019",
+          "description": "OK! instead of dried fish, dashida took anchovy soup",
+          "text": "OK! instead of dried fish, dashida took anchovy soup",
+          "dateCreated": "2019-10-12T11:37:41-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Damir"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/51796"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/51796",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-51796",
+          "name": "Reply by Maangchi on October 30, 2020",
+          "description": "Nice!",
+          "text": "Nice!",
+          "dateCreated": "2020-10-30T09:28:52-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/49006",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-49006",
+          "name": "Comment by JayS on January 26, 2019",
+          "description": "Yum, this was delicious. Thanks!",
+          "text": "Yum, this was delicious. Thanks!",
+          "dateCreated": "2019-01-26T16:51:26-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "JayS"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/49152"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/49152",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-49152",
+          "name": "Reply by Maangchi on February 27, 2019",
+          "description": "Your noodles are well-cooked so they will be chewy but cooked. The presentation is great and the egg hat looks&hellip;",
+          "text": "Your noodles are well-cooked so they will be chewy but cooked. The presentation is great and the egg hat looks stunning. I love the photo!",
+          "dateCreated": "2019-02-27T13:49:03-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/48979",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-48979",
+          "name": "Comment by Nayko on January 17, 2019",
+          "description": "Guksu is my night savior! Coming home laaaate at night, time to bed but hungry and craving for good homemade&hellip;",
+          "text": "Guksu is my night savior! Coming home laaaate at night, time to bed but hungry and craving for good homemade food ? No problem for me thanks to this recipe! In that context, i admit that i make the lazy version... industrial chicken stock and dehydrated noodles, simply pourring a raw egg at the end... but still delicious recipe :) the kimchi mixture makes the dish! A good kimchi means delicius meals! ok, now i&#039; going to sleep, well fed and a smile on my face ;)",
+          "dateCreated": "2019-01-17T00:39:18-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Nayko"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/47473",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-47473",
+          "name": "Comment by VeganLegation on March 20, 2018",
+          "description": "Wonderful korean noodle soup! We veganized the recipe and cooked it without fish and egg :-)",
+          "text": "Wonderful korean noodle soup! We veganized the recipe and cooked it without fish and egg :-)",
+          "dateCreated": "2018-03-20T18:51:50-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "VeganLegation"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/47489"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/47489",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-47489",
+          "name": "Reply by Maangchi on March 22, 2018",
+          "description": "This exactly looks like my noodle soup! Did you use vegetable stock?",
+          "text": "This exactly looks like my noodle soup! Did you use vegetable stock?",
+          "dateCreated": "2018-03-22T12:38:47-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/47498"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/47498",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-47498",
+          "name": "Reply by VeganLegation on March 22, 2018",
+          "description": "Thank you! We love korean food expression :-) Yes, we use vegan stock with korean or japanese kelp (dasima/kombu) and&hellip;",
+          "text": "Thank you! We love korean food expression :-) Yes, we use vegan stock with korean or japanese kelp (dasima/kombu) and shiitake mushrooms",
+          "dateCreated": "2018-03-22T17:43:09-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "VeganLegation"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/47161",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-47161",
+          "name": "Comment by jerinladd15 on February 2, 2018",
+          "description": "Hi Maangchi! I&#039;m really interested in making this recipe for a dinner party, but I know that my guests have&hellip;",
+          "text": "Hi Maangchi! I&#039;m really interested in making this recipe for a dinner party, but I know that my guests have a sensitivity to gluten. Are there gluten-free versions of the somyeon noodles? Or is there a good substitute you would recommend? Thank you! &lt;3",
+          "dateCreated": "2018-02-02T17:26:39-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "jerinladd15"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/45591",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-45591",
+          "name": "Comment by cookiemint on April 21, 2017",
+          "description": "Hi Maangchi, I made this and it tastes fantastic. I forgot to buy ghim but the broth is such a&hellip;",
+          "text": "Hi Maangchi, I made this and it tastes fantastic. I forgot to buy ghim but the broth is such a huge hit. Will continue to make more of your recipes!",
+          "dateCreated": "2017-04-21T05:32:55-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "cookiemint"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/45626"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/45626",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-45626",
+          "name": "Reply by Maangchi on April 24, 2017",
+          "description": "umm~ I&#039;m making it for lunch today! Irresistible! : )",
+          "text": "umm~ I&#039;m making it for lunch today! Irresistible! : )",
+          "dateCreated": "2017-04-24T13:37:28-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/43902",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-43902",
+          "name": "Comment by MonicaY on June 15, 2016",
+          "description": "Hi Maangchi, I love love this recipe. I really love poached egg too, and overtime I try poaching like you&hellip;",
+          "text": "Hi Maangchi, I love love this recipe. I really love poached egg too, and overtime I try poaching like you do in the video, only the edges cook and the middle of the egg is still raw. Is the stock at too low of a temperature for it to cook completely? How high should the stock be cooking while I cook the egg in the ladle? Thank you!",
+          "dateCreated": "2016-06-15T00:29:40-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "MonicaY"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/43586",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-43586",
+          "name": "Comment by Fany on April 20, 2016",
+          "description": "Hi Maangchi! Can I replace gim with nori, it&#039;s really hard to find gim here And if I use nori,&hellip;",
+          "text": "Hi Maangchi! Can I replace gim with nori, it&#039;s really hard to find gim here And if I use nori, should I toast it, or better not?",
+          "dateCreated": "2016-04-20T08:37:23-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Fany"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/43609"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/43609",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-43609",
+          "name": "Reply by Maangchi on April 25, 2016",
+          "description": "Gim is nori in Japanese.",
+          "text": "Gim is nori in Japanese.",
+          "dateCreated": "2016-04-25T01:08:01-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/43188",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-43188",
+          "name": "Comment by Puffpenguin23 on February 13, 2016",
+          "description": "Hi Maangchi! This soup looks absolutely amazing. Actually all of your recipes do. I was thinking about serving this at&hellip;",
+          "text": "Hi Maangchi! This soup looks absolutely amazing. Actually all of your recipes do. I was thinking about serving this at a dinner party. If I wanted to serve 6-8 peopke, can I simply triple the recipe you have or would you recommend something else? Thank you for sharing your knowledge of Korean dishes!",
+          "dateCreated": "2016-02-13T22:29:50-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Puffpenguin23"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42817",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42817",
+          "name": "Comment by recall0x on December 25, 2015",
+          "description": "Hi Maangchi, I love your recipes! I have been buying a lot of kitchenware as I am moving. I purchased&hellip;",
+          "text": "Hi Maangchi, I love your recipes! I have been buying a lot of kitchenware as I am moving. I purchased a lot of korean earthenware and I LOVE it, but my question is what cutting board are you using? I could not find it anywhere. Thank you.",
+          "dateCreated": "2015-12-25T16:44:10-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "recall0x"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42818"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42818",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42818",
+          "name": "Reply by Maangchi on December 25, 2015",
+          "description": "I have several cutting boards but 4 of them (thick ones) are from Brooklyn Butcher Blocks.",
+          "text": "I have several cutting boards but 4 of them (thick ones) are from Brooklyn Butcher Blocks.",
+          "dateCreated": "2015-12-25T17:41:45-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42754",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42754",
+          "name": "Comment by Lisa2321 on December 11, 2015",
+          "description": "Maangchi, when you put the anchovy stock in the freezer, do you separate into 1-cup portions? What is easiest in&hellip;",
+          "text": "Maangchi, when you put the anchovy stock in the freezer, do you separate into 1-cup portions? What is easiest in your opinion? I imagine it would be difficult to use to make another soup if it is one big, frozen block. Or do you thaw the entire portion, take what you need, and re-freeze leftovers? Does it cause it to degrade (thaw, freeze)...? I would like to make this stock to keep in the freezer and save time when cooking during the weekdays. You can use it for so many delicious dishes! :-) Thanks again!",
+          "dateCreated": "2015-12-11T18:43:31-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Lisa2321"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42762"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42762",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42762",
+          "name": "Reply by Maangchi on December 13, 2015",
+          "description": "I put all the leftover anchovy stock in a container and freeze it. When I need it, put it in&hellip;",
+          "text": "I put all the leftover anchovy stock in a container and freeze it. When I need it, put it in a pot and boil it and use. If I still have some left over anchovy stock, I keep it in the fridge. It will be ok in the fridge for a couple of days. Good luck with your anchovy stock!",
+          "dateCreated": "2015-12-13T12:07:04-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42752",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42752",
+          "name": "Comment by T2 on December 11, 2015",
+          "description": "WOW!! Maangchi that guksu really look delicious, comforting and warming!! and i just looove your tiny little pot!! is that&hellip;",
+          "text": "WOW!! Maangchi that guksu really look delicious, comforting and warming!! and i just looove your tiny little pot!! is that korean pot?? i just saw your video and i can&#039;t wait to go to the asian grocery shop, grab the ingredients and make it!!",
+          "dateCreated": "2015-12-11T12:58:28-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "T2"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42763"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42763",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42763",
+          "name": "Reply by Maangchi on December 13, 2015",
+          "description": "Did you get it yet? https://www.maangchi.com/kitchenware/tin-pot",
+          "text": "Did you get it yet? https://www.maangchi.com/kitchenware/tin-pot",
+          "dateCreated": "2015-12-13T12:08:26-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42713",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42713",
+          "name": "Comment by Notna Vonamut on December 4, 2015",
+          "description": "HI, Maangchi! How can I replace the anchovies? Can I use fish sauce? In the local Korean grocery store is&hellip;",
+          "text": "HI, Maangchi! How can I replace the anchovies? Can I use fish sauce? In the local Korean grocery store is not dried anchovies :(",
+          "dateCreated": "2015-12-04T21:06:52-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Notna Vonamut"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42723"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42723",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42723",
+          "name": "Reply by Maangchi on December 5, 2015",
+          "description": "If dried anchovies are not available, you could use any of your favorite stocks such as beef, chicken, or vegetable&hellip;",
+          "text": "If dried anchovies are not available, you could use any of your favorite stocks such as beef, chicken, or vegetable stock.",
+          "dateCreated": "2015-12-05T13:30:15-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42689",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42689",
+          "name": "Comment by grimnir on December 2, 2015",
+          "description": "Hi Maangchi! Very interesting recipe for me. I was born and lived many years in Uzbekistan, where, as You know,&hellip;",
+          "text": "Hi Maangchi! Very interesting recipe for me. I was born and lived many years in Uzbekistan, where, as You know, as i remember, there were many Koreans (&quot;Koryo Saram&quot;), that was deported into Middle Asia in the time of WWII. Guksu (or &quot;Kuksu&quot; in the russificated adoptation of the word) is very populuar dish both among the Uzbekistan&#039;s koreans and other peoples living in that land. Nevertheless, this dish differs from the recipe You kindly offer us. In our version - obviously, adopted under local conditions - guksu is a &quot;cold summer soup&quot;, like spanish &quot;gaspaccho&quot;, russian &quot;okroshka&quot; or uzbekish &quot;chalop&quot;. It consists from three parts: 1. Soup base (named &quot;kuksi-muri&quot;) - chilled water with addition of soybean souce, sodium glutamate, vinegar and sugar. 2. Thin noodles. 3. A lot of salads and other add-ons: fried beef with cabbage, fresh cucumbers, tomatoes, green onion, thin egg pancakes etc.",
+          "dateCreated": "2015-12-02T10:14:00-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "grimnir"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42699"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42699",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42699",
+          "name": "Reply by Maangchi on December 2, 2015",
+          "description": "Thank you for sharing the information about Uzbekistan kuksu. Actually it&#039;s my favorite. I often visit my favorite Uzbekistan restaurant&hellip;",
+          "text": "Thank you for sharing the information about Uzbekistan kuksu. Actually it&#039;s my favorite. I often visit my favorite Uzbekistan restaurant in Brighton Beach to eat their cold noodle soup. Check out my blog posts.You will enjoy reading them. https://www.maangchi.com/blog/korean-uzbek-meetup https://www.maangchi.com/blog/korean-uzbek-cuisine",
+          "dateCreated": "2015-12-02T12:29:33-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42704"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42704",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42704",
+          "name": "Reply by grimnir on December 2, 2015",
+          "description": "Oh, thank You for reply! That are all very well-known since my childhood scents :-) There is a whole district&hellip;",
+          "text": "Oh, thank You for reply! That are all very well-known since my childhood scents :-) There is a whole district in Uzbekistan capital, Tashkent, where live many ethnical Koreans, named &quot;Kuylyuk&quot;, where You can find a lot of such little restaurants. I was very lucky to find one of such restaurant here, at north of the Russia, in St. Petersburg. Of course, i make some dishes myself for my family from time to time, too. Thank You for Your blog! Perhaps, it could be interesting for You: in Tashkent lives well-known in russian blogosphere dame, Lilia Nikolenko, which is much more experienced in the cuisine of Uzbekistan Koreans than me. That is her site: www.azu.uz. She writes in Russian, but speaks English freely, so You can communicate with her in English.",
+          "dateCreated": "2015-12-02T14:26:18-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "grimnir"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42721"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42721",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42721",
+          "name": "Reply by Maangchi on December 5, 2015",
+          "description": "Thank you for all the information which is great! If I visit Tashkent someday, I will check out Kuylyuk area&hellip;",
+          "text": "Thank you for all the information which is great! If I visit Tashkent someday, I will check out Kuylyuk area as soon as possible! Of course I will read the blog you recommend.",
+          "dateCreated": "2015-12-05T13:24:02-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42687",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42687",
+          "name": "Comment by _gd6285 on December 2, 2015",
+          "description": "Looks so good! I think I&#039;m going to make it soon!",
+          "text": "Looks so good! I think I&#039;m going to make it soon!",
+          "dateCreated": "2015-12-02T00:46:13-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "_gd6285"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42685",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42685",
+          "name": "Comment by Fortran on December 2, 2015",
+          "description": "Mmm. A place near me does a really good janchi guksu filled with yummy veggies. Might have to try this&hellip;",
+          "text": "Mmm. A place near me does a really good janchi guksu filled with yummy veggies. Might have to try this now that I know how to do the anchovy broth.",
+          "dateCreated": "2015-12-02T00:00:17-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Fortran"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/42686"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42686",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42686",
+          "name": "Reply by _gd6285 on December 2, 2015",
+          "description": "Hi! Could you tell me what the name of the restaurant you were referring to is called? I was wondering&hellip;",
+          "text": "Hi! Could you tell me what the name of the restaurant you were referring to is called? I was wondering because I live near Northern VA.",
+          "dateCreated": "2015-12-02T00:43:03-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "_gd6285"
+          }
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/42684",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-42684",
+          "name": "Comment by sanne on December 1, 2015",
+          "description": "I just watched the video. Now I&#039;m hungry! ;-) Bye, Sanne.",
+          "text": "I just watched the video. Now I&#039;m hungry! ;-) Bye, Sanne.",
+          "dateCreated": "2015-12-01T20:13:25-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "sanne"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/guksu/comment-page-1#sso/comment/43519"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/guksu/comment-page-1#sso/comment/43519",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/guksu/comment-page-1#comment-43519",
+          "name": "Reply by Food4life on April 5, 2016",
+          "description": "Thanks a lot Maangchi. Cannot wait to make! I love noodles and this stock seems so easy and delicious! Thanks&hellip;",
+          "text": "Thanks a lot Maangchi. Cannot wait to make! I love noodles and this stock seems so easy and delicious! Thanks for all the effort you put into making these videos! Really appreciated!!",
+          "dateCreated": "2016-04-05T10:33:36-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Food4life"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "5",
+        "ratingCount": "242",
+        "ratingValue": "5"
+      },
+      "image": "https://www.maangchi.com/wp-content/uploads/2015/12/noodlesoup-620x349.jpg",
+      "name": "Korean noodle soup (Guksu)",
+      "description": "Korean noodle soup (Guksu)"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:38:25.540Z",
+  "scraping_status": "scraped"
+}

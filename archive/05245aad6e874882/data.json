@@ -1,0 +1,604 @@
+{
+  "id": "05245aad6e874882",
+  "original_url": "https://cooking.nytimes.com/recipes/1024865-thai-tea-tres-leches-cake",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1024865-thai-tea-tres-leches-cake",
+  "fetched_title": "Thai Tea Tres Leches Cake Recipe",
+  "main_text_content": "The marquee dessert at Golden Diner, in Manhattan’s Chinatown, is a take on tres leches, a Latin American cake soaked in three kinds of milk, as the Spanish name attests: whole milk, condensed milk and evaporated milk, its unsweetened cousin Sam Yoo, the chef and owner, infuses the milk with Thai tea powder, a blend of black tea and vanilla that yields a signature tiger-orange hue The longer the cake soaks, the better it is",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026813-easy-carrot-cake-with-cream-cheese-frosting\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Easy Carrot Cake With Cream Cheese Frosting</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Genevieve Ko</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/11/28/multimedia/03EATrex-thai-tea-tres-leches-cake-pjmf/03EATrex-thai-tea-tres-leches-cake-pjmf-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/05245aad6e874882/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/f58f5e49-0289-53c0-9514-83cb3a5b6ebc",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1024865-thai-tea-tres-leches-cake",
+        "@type": "WebPage",
+        "name": "Thai Tea Tres Leches Cake"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024865-thai-tea-tres-leches-cake",
+      "name": "Thai Tea Tres Leches Cake",
+      "description": "The marquee dessert at Golden Diner, in Manhattan’s Chinatown, is a take on tres leches, a Latin American cake soaked in three kinds of milk, as the Spanish name attests: whole milk, condensed milk and evaporated milk, its unsweetened cousin. Sam Yoo, the chef and owner, infuses the milk with Thai tea powder, a blend of black tea and vanilla that yields a signature tiger-orange hue. The longer the cake soaks, the better it is. (Mr. Yoo lets it rest for as long as two nights, with a flip in between so the liquid that’s pooled at the bottom has another chance to run through.) The cake is finished with whipped cream, coconut flakes toasted near gold and lime zest lending a bright sting. Keep the cake in the refrigerator until the last moment, so it’s as cold as possible and melts in the mouth, almost like ice cream. The faint bitterness of the tea checks the sweetness of the cake, so it’s just enough.",
+      "author": {
+        "@type": "Person",
+        "name": "Ligaya Mishan"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/3a03941b-8769-5a37-9a70-b7dd7a8bc564#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/11/28/multimedia/03EATrex-thai-tea-tres-leches-cake-pjmf/03EATrex-thai-tea-tres-leches-cake-pjmf-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Eleni Pappas.",
+          "dateModified": "2023-11-28T20:14:16.506Z",
+          "datePublished": "2023-11-27T23:03:11.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-11-27T23:03:11.000Z",
+          "url": "https://static01.nyt.com/images/2023/11/28/multimedia/03EATrex-thai-tea-tres-leches-cake-pjmf/03EATrex-thai-tea-tres-leches-cake-pjmf-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3a03941b-8769-5a37-9a70-b7dd7a8bc564#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/11/28/multimedia/03EATrex-thai-tea-tres-leches-cake-pjmf/03EATrex-thai-tea-tres-leches-cake-pjmf-superJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Eleni Pappas.",
+          "dateModified": "2023-11-28T20:14:16.506Z",
+          "datePublished": "2023-11-27T23:03:11.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2023-11-27T23:03:11.000Z",
+          "url": "https://static01.nyt.com/images/2023/11/28/multimedia/03EATrex-thai-tea-tres-leches-cake-pjmf/03EATrex-thai-tea-tres-leches-cake-pjmf-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3a03941b-8769-5a37-9a70-b7dd7a8bc564#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/11/28/multimedia/03EATrex-thai-tea-tres-leches-cake-pjmf/03EATrex-thai-tea-tres-leches-cake-pjmf-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Eleni Pappas.",
+          "dateModified": "2023-11-28T20:14:16.506Z",
+          "datePublished": "2023-11-27T23:03:11.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-11-27T23:03:11.000Z",
+          "url": "https://static01.nyt.com/images/2023/11/28/multimedia/03EATrex-thai-tea-tres-leches-cake-pjmf/03EATrex-thai-tea-tres-leches-cake-pjmf-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT5H",
+      "totalTime": "PT5H15M",
+      "recipeYield": "12 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "cakes, dessert",
+      "keywords": "evaporated milk, heavy cream, lime zest, make-ahead, milk, plan-ahead, sour cream, sweetened condensed milk, tea, unsweetened coconut",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 167
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 843,
+        "unsaturatedFatContent": "11 grams",
+        "carbohydrateContent": "114 grams",
+        "cholesterolContent": null,
+        "fatContent": "38 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "17 grams",
+        "saturatedFatContent": "24 grams",
+        "sodiumContent": "303 milligrams",
+        "sugarContent": "90 grams",
+        "transFatContent": "1 gram"
+      },
+      "recipeIngredient": [
+        "Butter, for greasing the pan",
+        "2 1/4 cups/286 grams all-purpose flour, plus more for dusting the pan",
+        "5 large egg whites",
+        "1/2 teaspoon cream of tartar ",
+        "1 1/2 cups plus 2 tablespoons/320 grams granulated sugar",
+        "1 tablespoon plus 1 teaspoon baking powder",
+        "6 large egg yolks",
+        "1/2 cup/110 milliliters whole milk ",
+        "1 1/2 teaspoons vanilla extract",
+        "3 cups/720 milliliters whole milk",
+        "2 cups/480 milliliters evaporated milk",
+        "1 3/4 cups/420 milliliters sweetened condensed milk ",
+        "Heaping 1/2 cup/42 grams Thai tea powder (see Tip)",
+        "2 cups/480 milliliters heavy cream",
+        "1/2 cup/117 grams sour cream",
+        "3 tablespoons granulated sugar",
+        "1 teaspoon vanilla extract",
+        "2 cups/100 grams unsweetened coconut flakes, toasted (see Tip)",
+        "3 limes, for zesting"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 375 degrees. Butter a 9-by-13-inch cake pan and dust with flour. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the cake: In the bowl of a stand mixer fitted with the whisk attachment, whip the egg whites with the cream of tartar on medium-high until soft peaks form, about 1 minute. Gradually add the sugar, whipping as you go, until fluffy with firm peaks, about 5 minutes. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a small bowl, whisk together the flour and baking powder. In a medium bowl, whisk together the egg yolks, whole milk and vanilla until well combined. With the mixer running on medium speed, gradually add the wet ingredients to the whipped whites until well combined, stopping and scraping the bowl as necessary. Gradually add the dry ingredients until well combined, scraping the bowl as necessary."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Scrape the batter into the prepared pan, then spread evenly. Bake for 18 minutes, then rotate the pan and continue baking for another 8 to 10 minutes, until the top is golden brown. A toothpick inserted into the center should come out clean."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Remove the cake from the oven and let cool in the pan until slightly warmer than room temperature, about 30 minutes. Refrigerate the cake, still in the pan and uncovered, while you make the tres leches mixture. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the tres leches: In a small saucepan, warm the whole milk, evaporated milk and condensed milk over medium heat. Stir occasionally until just shy of simmering, steaming but not bubbling, 10 to 15 minutes. Whisk in the tea powder. Take the saucepan off the heat and let the tea steep for 10 minutes. (It will turn orange.) Using a fine-mesh sieve or tea strainer, strain into a liquid measuring cup or medium bowl."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Take the cake out of the refrigerator. Using a fork, poke holes all across the surface of the cake — the more holes the better — as close together as possible. With the cake still in the pan, cut it into 12 even pieces. (It will be more difficult to cut later, once the tres leches mixture has soaked through.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Carefully pour the warm tres leches mixture slowly and evenly over the cake, pausing as necessary to let the cake absorb the mixture. The cake should be fully soaked through the center; the white of the crumb should not be visible. Cover the cake with plastic wrap and refrigerate overnight or for a minimum of 3 hours."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Just before serving, make the whipped cream: Combine the heavy cream, sour cream, sugar and vanilla extract in the bowl of a stand mixer. Whip on high speed until the cream doubles in volume and forms stiff peaks, about 1 minute."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When ready to serve, take the cake out of the refrigerator. Transfer each slice to a separate plate. (Leftovers can be refrigerated for up to 3 days.) Using a spatula, spread the whipped cream on top of each slice, or pipe it from a pastry bag. Scatter with the toasted coconut flakes until the whipped cream is covered completely. Finely grate lime zest directly over each slice. Serve cold: The cake should melt in your mouth, with a texture close to ice cream."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-11-28T00:00:00.000Z",
+      "dateModified": "2023-12-06T19:49:03.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sophia"
+          },
+          "reviewBody": "This was really good and so fun for the White Lotus finale :) The cake did have to bake a little longer, like 10 minutes, and it was still a little underdone in the middle (next time I would wait until there was NO jiggle even if it gets a little brown) but still delish. I couldn’t find Thai tea leaves so used instant powder and decreased the condensed milk by half a cup because the powder is sweet and it worked great. Just kept adding packets until it tasted like tea (probably drank a good amount of milk tasting it lol) - I think it was about 3/4ths cup powder. I agree the lime zest and coconut is ESSENTIAL - do not skip the lime, this is very sweet. I would even want to maybe find a way to either make the cake or the milk mixture a little lime-y - will try some zest in the cake next time!",
+          "datePublished": "2025-04-07T13:57:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JoeyBakes"
+          },
+          "reviewBody": "Made this exactly as described (except used a Thai tea powder with sugar) and it was absolutely spectacular. If you're thinking about it, MAKE IT. Worth the effort and time. And let it sit for at least 24 hours!",
+          "datePublished": "2025-03-09T20:32:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Olivia"
+          },
+          "reviewBody": "I made this exactly as the recipe states (with an 3-day soaking time) and it was mind-bogglingly good. Lighter than I expected, too! The flavors are complex and layer deliciously, and every component could’ve stood on its own. A perfectly airy and sweet chiffon cake; thai tea-flavored milk that I could’ve drunk by the gallon; and the whipped cream was luscious, with notes of tang from the sour cream. And of course, the lime zest and coconut flakes are a must, both for flavor and texture.",
+          "datePublished": "2025-01-01T20:01:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jessica"
+          },
+          "reviewBody": "@Willi this is maybe the best typo ever. Also now I want chai tres leches cake.",
+          "datePublished": "2024-12-15T00:21:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Willi"
+          },
+          "reviewBody": "So, funny story about this.  I misread this as Chai Tres Leches cake, but then thought, what a great idea!  So we omitted the Thai part and steeped 3 Thai teabags in evaporated milk overnight.  Absolutely amazing!!!  So yummy",
+          "datePublished": "2024-07-22T21:14:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maiya"
+          },
+          "reviewBody": "Great cake! Things I would do differently: reduce the whole milk to 2 cups, and let it soak overnight instead of the 6 hours I did. There were some spots of cake that were white but that was most likely due to me not getting that spot pierced with the fork.",
+          "datePublished": "2024-07-14T05:41:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lorenzo"
+          },
+          "reviewBody": "Turned out wonderful, but the sponge could be lighter. Will consider replacing the AP flour with cake flour. Also, it needs at least three days of soaking. After two days, the Thai tea flavor (used Cha Tra Mue Gold Thai tea mix) was quite strong (not in a good way) and a bit sour, but it mellowed on the third day.",
+          "datePublished": "2024-07-01T04:08:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rughved Brahman"
+          },
+          "reviewBody": "Great recipe, my family loved it. Interesting twist on the classic and I actually prefer it!\n\nI added the lime zest to the whipped cream topping which added a nice flavor.",
+          "datePublished": "2024-06-14T01:18:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DuckLover_1"
+          },
+          "reviewBody": "I love this recipe! I would definitely recommend adding 0.6 cups of Thai tea powder but it turned out amazing with only 0.5 cups. I would definitely recommend using this recipe 5/5 stars.\n\nPs. Make it late at night so it soaks while you sleep if you are impatient.",
+          "datePublished": "2024-05-30T02:21:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "gmscharff"
+          },
+          "reviewBody": "I let the cake sit for only 8 hours and the milk mix had only made it half way down. Next time going for the full two days. Also, I am now obsessed with this whipped cream variant.",
+          "datePublished": "2024-05-13T03:13:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shadi"
+          },
+          "reviewBody": "The sponge for this cake came out absolutely beautifully!  Like this is the most beautiful cake I have ever seen!\n\nFor the tres leches, I ended up using 3.5 cups of milk with the 1.5 cups of evaporated milk because I could only find cans in 12 oz portions, but I didn’t notice any obstacles to the process.  It may seem like a lot of liquid at first, but this cake can take it.",
+          "datePublished": "2024-04-27T15:49:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Flavorfan"
+          },
+          "reviewBody": "I made this exactly as written but won't bother to make it again. I found it to be tasteless - not particularly sweet and the leches didn't add anything to it. The only thing interesting were the golden coconut and the lime zest. I bought Thai tea powder from my local Asian grocery so it was orange (and actually stained a plate!) but, again, meh.",
+          "datePublished": "2024-04-03T16:32:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sherry"
+          },
+          "reviewBody": "How can you flip it without it spilling all over the place! (How to contain the juices upside down?)",
+          "datePublished": "2024-03-29T20:41:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "selina"
+          },
+          "reviewBody": "Amazing flavor with two big notes. \n\n1. Use tea leaves, not tea powder. It will get the same effect and is easier to strain.\n2. The sponge cake is too dense. I followed the recipe to a Tea. I poked all kinds of holes and let it sit 24 hours before serving and only about half of the milk mixture absorbed.",
+          "datePublished": "2024-03-16T23:07:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "I really wanted to like this cake but could not give it more than 3 stars. I wanted the Thai tea taste to come through more strongly - maybe it is quite important to soak for two nights. I did just one night, followed the recipe carefully. Honestly the toasted coconut was the most interesting thing about this cake. Pretty color though!",
+          "datePublished": "2024-03-03T19:32:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marianne W"
+          },
+          "reviewBody": "To DD, the whole point of a Tres Leches cake (or any \"poke cake\" for that matter) is to change the texture of the cake. Why not make it the way it's designed to be made? It's wonderful.",
+          "datePublished": "2024-03-03T16:56:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "GeoPillow"
+          },
+          "reviewBody": "What a brilliant idea.  I've always liked the concept of tres leches cakes, but in practice they're invariably so supersweet that I find them cloying.  Cutting all that sweetness with the astringency of tea seems like a tremendous idea.\n\nBut before investing in the Thai powder, I think I'll experiment by heating the milk and steeping black tea in it.  This might result in an unwelcome color, but I'll risk it.",
+          "datePublished": "2023-12-03T10:32:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maggie"
+          },
+          "reviewBody": "This is beyond tasty. The only difficulty was having patience to let it soak before devouring",
+          "datePublished": "2023-12-02T16:39:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christine"
+          },
+          "reviewBody": "Sacrilege I know, but can anyone recommend a “supermarket” style cake, or box cake mix that could substitute?",
+          "datePublished": "2023-12-03T20:12:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Felicia R."
+          },
+          "reviewBody": "I made this for my husband’s birthday (he’s a huge fan of all thing tres leches). This cake blew his socks off! I used ChaTraMue brand tea; it has a little sugar, but I cut the added sugar by 1/3 for baked good recipes, so it didn’t much matter. This cake is a fair amount of process, but worth it. Since it was my first go at making it, aside from cutting sugar, I limited deviation. To the dry mix, added a pinch of cinnamon, cardamom, mace, 1/2 tsp vanilla bean, and 1/2tsp salt to punch it up.",
+          "datePublished": "2023-12-10T15:25:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anita"
+          },
+          "reviewBody": "The Wangderm Thai tea contains artificial color. Is there another similar product without this?",
+          "datePublished": "2023-12-02T19:28:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sabrina"
+          },
+          "reviewBody": "I'm extremely caffeine sensitive too, so have started researching.  I haven't been able to enjoy a Thai tea in ages, so would love to experience that taste again!  \nChecking labels/recipes - the Thai powder seems to be: Assam tea + spices (star anise, cardamom, cinnamon and/or clove) + sometimes vanilla and/or pandan + sugar.  I can tolerate Harney & Sons decaf black teas lightly brewed (great quality + taste for decaf!) and they have a Decaf Assam.  I'm going to try it with that and see.",
+          "datePublished": "2023-12-05T00:20:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kiki"
+          },
+          "reviewBody": "I made this last night for a dinner party, following the Momofoku Bo Ssam. It was a hit! The toasted coconut and lime zest are so necessary and added some freshness from the lime and a nice slight crunch from the coconut. I made it 2 days in advance and flipped the slides over on the second day. It was hard not to keep sipping the tea steeped in the tres leches. Highly recommend!",
+          "datePublished": "2023-12-19T00:00:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "shauna"
+          },
+          "reviewBody": "Made with liquid Thai tea from Whole Foods and reduced the condensed milk to compensate for the extra liquid. Worked like a charm! \n\nSoaked for 2 days, came out delicious",
+          "datePublished": "2024-01-16T01:30:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DuckLover_1"
+          },
+          "reviewBody": "I love this recipe! I would definitely recommend adding 0.6 cups of Thai tea powder but it turned out amazing with only 0.5 cups. I would definitely recommend using this recipe 5/5 stars.\n\nPs. Make it late at night so it soaks while you sleep if you are impatient.",
+          "datePublished": "2024-05-30T02:21:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mimi"
+          },
+          "reviewBody": "I love Thai tea but dislike tres leches cake. I don’t like the texture, which is pretty much what that cake is all about. For those who dig it, this sounds like such a great riff and it suggests more variation. What about adding ground freeze dried strawberry powder? Or coffee or chocolate?) If I end up making it, I’ll report back.",
+          "datePublished": "2023-12-24T00:58:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Margo"
+          },
+          "reviewBody": "Maybe you could create a recipe that calls or either a full can of evaportated/condensed milk. I had too much evaporated milk left over.",
+          "datePublished": "2023-12-25T05:30:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Willi"
+          },
+          "reviewBody": "So, funny story about this.  I misread this as Chai Tres Leches cake, but then thought, what a great idea!  So we omitted the Thai part and steeped 3 Thai teabags in evaporated milk overnight.  Absolutely amazing!!!  So yummy",
+          "datePublished": "2024-07-22T21:14:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenny  Springfield, MO"
+          },
+          "reviewBody": "I used 12 teabags instead of the 42g instant powder. Half in the milk mixture and half in 12oz of boiling water which I added to the mixture after steeping. The flavor is the right strength.",
+          "datePublished": "2023-12-08T21:52:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shadi"
+          },
+          "reviewBody": "The sponge for this cake came out absolutely beautifully!  Like this is the most beautiful cake I have ever seen!\n\nFor the tres leches, I ended up using 3.5 cups of milk with the 1.5 cups of evaporated milk because I could only find cans in 12 oz portions, but I didn’t notice any obstacles to the process.  It may seem like a lot of liquid at first, but this cake can take it.",
+          "datePublished": "2024-04-27T15:49:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carolyn"
+          },
+          "reviewBody": "@Christine I have done tres letches with a Pepperidge Farm pound cake and it’s amazing! No haters please",
+          "datePublished": "2024-12-14T18:26:47.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1024865-thai-tea-tres-leches-cake",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Ligaya Mishan"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "The marquee dessert at Golden Diner, in Manhattan’s Chinatown, is a take on tres leches, a Latin American cake soaked in three kinds of milk, as the Spanish name attests: whole milk, condensed milk and evaporated milk, its unsweetened cousin. Sam Yoo, the chef and owner, infuses the milk with Thai tea powder, a blend of black tea and vanilla that yields a signature tiger-orange hue. The longer the cake soaks, the better it is. (Mr. Yoo lets it rest for as long as two nights, with a flip in between so the liquid that’s pooled at the bottom has another chance to run through.) The cake is finished with whipped cream, coconut flakes toasted near gold and lime zest lending a bright sting. Keep the cake in the refrigerator until the last moment, so it’s as cold as possible and melts in the mouth, almost like ice cream. The faint bitterness of the tea checks the sweetness of the cake, so it’s just enough.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Thai Tea Tres Leches Cake",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/3a03941b-8769-5a37-9a70-b7dd7a8bc564#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/11/28/multimedia/03EATrex-thai-tea-tres-leches-cake-pjmf/03EATrex-thai-tea-tres-leches-cake-pjmf-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Eleni Pappas.",
+          "dateModified": "2023-11-28T20:14:16.506Z",
+          "datePublished": "2023-11-27T23:03:11.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-11-27T23:03:11.000Z",
+          "url": "https://static01.nyt.com/images/2023/11/28/multimedia/03EATrex-thai-tea-tres-leches-cake-pjmf/03EATrex-thai-tea-tres-leches-cake-pjmf-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3a03941b-8769-5a37-9a70-b7dd7a8bc564#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/11/28/multimedia/03EATrex-thai-tea-tres-leches-cake-pjmf/03EATrex-thai-tea-tres-leches-cake-pjmf-superJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Eleni Pappas.",
+          "dateModified": "2023-11-28T20:14:16.506Z",
+          "datePublished": "2023-11-27T23:03:11.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2023-11-27T23:03:11.000Z",
+          "url": "https://static01.nyt.com/images/2023/11/28/multimedia/03EATrex-thai-tea-tres-leches-cake-pjmf/03EATrex-thai-tea-tres-leches-cake-pjmf-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3a03941b-8769-5a37-9a70-b7dd7a8bc564#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/11/28/multimedia/03EATrex-thai-tea-tres-leches-cake-pjmf/03EATrex-thai-tea-tres-leches-cake-pjmf-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Eleni Pappas.",
+          "dateModified": "2023-11-28T20:14:16.506Z",
+          "datePublished": "2023-11-27T23:03:11.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-11-27T23:03:11.000Z",
+          "url": "https://static01.nyt.com/images/2023/11/28/multimedia/03EATrex-thai-tea-tres-leches-cake-pjmf/03EATrex-thai-tea-tres-leches-cake-pjmf-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024865-thai-tea-tres-leches-cake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:19:42.096Z",
+  "scraping_status": "scraped"
+}

@@ -1,0 +1,541 @@
+{
+  "id": "309a3c4b487f365d",
+  "original_url": "https://cooking.nytimes.com/recipes/1022063-brothy-cod-with-peas-and-mushrooms",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1022063-brothy-cod-with-peas-and-mushrooms",
+  "fetched_title": "Brothy Cod With Peas and Mushrooms Recipe",
+  "main_text_content": "In this recipe, tender, flaky cod is poached in a light, flavorful broth that optimizes bottled clam juice, a versatile yet underused ingredient The juice is perfect for weeknight cooking, when shortcuts to big flavor are key, and it adds a subtle, briny backbone to any broth This broth is also infused with rich shiitake mushrooms, aromatic garlic and a generous boost of bright ginger",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1017754-crusty-broiled-cod-with-littlenecks-and-chourico\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2015/10/21/dining/21BROIL2/21BROIL2-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2015/10/21/dining/21BROIL2/21BROIL2-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2015/10/21/dining/21BROIL2/21BROIL2-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2015/10/21/dining/21BROIL2/21BROIL2-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2015/10/21/dining/21BROIL2/21BROIL2-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2015/10/21/dining/21BROIL2/21BROIL2-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2015/10/21/dining/21BROIL2/21BROIL2-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2015/10/21/dining/21BROIL2/21BROIL2-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Crusty Broiled Cod with Littlenecks and Chouriço </p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">John Willoughby and Chris Schlesinger</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/04/05/dining/kc-brothy-cod/kc-brothy-cod-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/309a3c4b487f365d/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/f1d4e9ed-4d37-5766-b61d-ae0d3bbd5497",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1022063-brothy-cod-with-peas-and-mushrooms",
+        "@type": "WebPage",
+        "name": "Brothy Cod With Peas and Mushrooms"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022063-brothy-cod-with-peas-and-mushrooms",
+      "name": "Brothy Cod With Peas and Mushrooms",
+      "description": "In this recipe, tender, flaky cod is poached in a light, flavorful broth that optimizes bottled clam juice, a versatile yet underused ingredient. The juice is perfect for weeknight cooking, when shortcuts to big flavor are key, and it adds a subtle, briny backbone to any broth. This broth is also infused with rich shiitake mushrooms, aromatic garlic and a generous boost of bright ginger. Pearl couscous gets toasted before boiling, adding nutty notes to the soup. It also contributes delightful chewiness, but other small pastas like ditalini or orzo are also good substitutes, though cook time may need to be adjusted accordingly.",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/dc9ff03d-fc6d-5dc0-a69a-e8e1529634bb#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/05/dining/kc-brothy-cod/kc-brothy-cod-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Beatriz Da Costa for The New York Times. Food Styling: Rebecca Jurkevich.",
+          "dateModified": "2021-04-05T19:56:08.957Z",
+          "datePublished": "2021-04-05T19:56:08.957Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-05T19:56:08.957Z",
+          "url": "https://static01.nyt.com/images/2021/04/05/dining/kc-brothy-cod/kc-brothy-cod-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/dc9ff03d-fc6d-5dc0-a69a-e8e1529634bb#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/05/dining/kc-brothy-cod/kc-brothy-cod-superJumbo.jpg",
+          "creditText": "Beatriz Da Costa for The New York Times. Food Styling: Rebecca Jurkevich.",
+          "dateModified": "2021-04-05T19:56:08.957Z",
+          "datePublished": "2021-04-05T19:56:08.957Z",
+          "height": "1230",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-05T19:56:08.957Z",
+          "url": "https://static01.nyt.com/images/2021/04/05/dining/kc-brothy-cod/kc-brothy-cod-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/dc9ff03d-fc6d-5dc0-a69a-e8e1529634bb#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/05/dining/kc-brothy-cod/kc-brothy-cod-mediumSquareAt3X.jpg",
+          "creditText": "Beatriz Da Costa for The New York Times. Food Styling: Rebecca Jurkevich.",
+          "dateModified": "2021-04-05T19:56:08.957Z",
+          "datePublished": "2021-04-05T19:56:08.957Z",
+          "height": "1573",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-05T19:56:08.957Z",
+          "url": "https://static01.nyt.com/images/2021/04/05/dining/kc-brothy-cod/kc-brothy-cod-mediumSquareAt3X.jpg",
+          "width": "1573"
+        }
+      ],
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "american",
+      "recipeCategory": "dinner, lunch, weeknight, seafood, appetizer, main course",
+      "keywords": "clam juice, cod, couscous, ginger, israeli couscous, mushroom, pea, scallion, shiitake, soup, fall, spring, winter",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 755
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 460,
+        "unsaturatedFatContent": "9 grams",
+        "carbohydrateContent": "44 grams",
+        "cholesterolContent": null,
+        "fatContent": "12 grams",
+        "fiberContent": "5 grams",
+        "proteinContent": "43 grams",
+        "saturatedFatContent": "2 grams",
+        "sodiumContent": "870 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 tablespoons extra-virgin olive oil",
+        "1/2 small yellow onion, thinly sliced (about 1/2 cup)",
+        "3 garlic cloves, thinly sliced",
+        "2 tablespoons minced fresh ginger",
+        "6 ounces fresh shiitake mushrooms, stemmed and sliced 1/4-inch thick (about 2 cups)",
+        "Kosher salt and black pepper",
+        "1 cup pearl couscous",
+        "1 (8-ounce) bottle clam juice",
+        "1 1/2 pounds skinless cod fillet, cut into 1 1/2-inch pieces",
+        "1 cup thawed frozen peas",
+        "1/4 cup chopped scallions"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large pot or Dutch oven, heat 2 tablespoons oil over medium. Add onion and cook, stirring occasionally, until softened, about 3 minutes. Add garlic and ginger, and cook, stirring, until fragrant, 1 minute."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add mushrooms and the remaining 1 tablespoon oil, and season with salt and pepper. Cook, stirring occasionally, until lightly golden, about 3 minutes. Add couscous and stir until lightly toasted, about 2 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add clam juice and 5 cups water, and bring to a boil over high heat. Reduce heat to medium and simmer until couscous is al dente, about 10 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add cod and peas and bring back to a simmer. Cook, stirring occasionally, until fish is flaky and and cooked through and couscous is tender, about 5 minutes longer. Stir in scallions and season with salt and pepper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide cod, vegetables and couscous across bowls, and top off with remaining broth. Serve warm."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-04-06T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bruce"
+          },
+          "reviewBody": "My wife is allergic to clams, so we used an anchovy-based fish sauce that worked well. I would also suggest halving the amount of cous-cous for a brothier soup, particularly if you are planning for leftovers.",
+          "datePublished": "2025-01-21T01:14:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary A"
+          },
+          "reviewBody": "Made this with some changes:  added Redboat fish sauce, 3 tablespoons of dill, and some hot peppers.  Used broth instead of water.   Next time, I will only add 4 cups of liquid.\nIt was good.",
+          "datePublished": "2024-09-30T23:00:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Heidi"
+          },
+          "reviewBody": "This was good but five cups of water was too much liquid and contributed to the blandness. I would do three next time and add the Miso paste.",
+          "datePublished": "2024-08-26T03:40:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AFierro"
+          },
+          "reviewBody": "This seems so elegant, so simple. I followed the steps exactly. At the end, it wanted something, anything to give it a bit more richness. Perhaps soaked water from dried mushrooms? Perhaps a little butter, or more herbs for flavoring? Anything.",
+          "datePublished": "2024-07-22T00:47:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ricebowl"
+          },
+          "reviewBody": "I added soy sauce and a bit of miso when serving hot, because it seemed a little bland right off the pot. But I kept leftovers in the fridge without. And so, when as a cold dish, it felt the clarity of ginger without soy or miso was great. When hot, miso and soy made the dish better for me.",
+          "datePublished": "2023-11-26T17:32:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Priscilla"
+          },
+          "reviewBody": "Like some cook commenters, I was skeptical broth would have enough flavor, so I used chicken stock.  Also didn't have couscous so substituted orzo, which worked fine.  Very tasty with the modifications.",
+          "datePublished": "2023-10-12T18:44:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth"
+          },
+          "reviewBody": "I added Trader Joe’s Mushroom & Company Umami seasoning blend, which added nicely. I think miso was a good idea but did not discover this idea until trying to figure out how I could write myself a note for future reference and found this thread. Chicken broth might also be nice to give it more depth. But I love how easy it is to make and healthy.",
+          "datePublished": "2023-09-04T01:14:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Antonine"
+          },
+          "reviewBody": "Yum!  Two subs, two adds:  I only had baby bella mushrooms, and I substituted Better Than Bullion Fish Base for clam juice.  I made everything else as directed, but I thought it was a bit \"brown\" and bland. (maybe because of no clam juice)  I added some fresh tarragon and some tiny sweet red Peruvian pickled peppers (cut in quarters) from the grocery deli.  Those brightened up the flavor and added a pop of color and sweetness.  Hubby and I agreed this recipe is a keeper.",
+          "datePublished": "2023-05-01T15:53:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Antonine"
+          },
+          "reviewBody": "I had the same thought about using quinoa for GF option - I do have GF family & friends",
+          "datePublished": "2023-05-01T15:55:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JTM Planet Brooklyn"
+          },
+          "reviewBody": "Gluten-free option!! I followed many of the suggested changes: increased onion x2, garlic x2, ginger x 1.5, mushrooms x1.5-ish. Added 2T white miso (next time I’ll put it in early, before liquid). Bottle of clam juice, 1 can fish stock, 3  cups veg stock. Substituted red quinoa for couscous 1:1. Put it in as instructed for couscous, added liquid, boiled and then simmered uncovered for 12  mins. Added fish and peas for 5. Tasted *fantastic*!! Thanks to all those who suggested changes.",
+          "datePublished": "2023-03-31T01:41:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Schwabby"
+          },
+          "reviewBody": "Swapped out water for veggie broth, extra clam juice, and 1/2 cup white wine. More than doubled garlic. Also added a heaping tbsp of miso. Added broccoli and thinly sliced jalapeño with peas at the end. Discovered that adding lemon and some soy improved it. Maybe triple garlic and try lime on the side next time?",
+          "datePublished": "2023-03-29T00:04:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Denise"
+          },
+          "reviewBody": "I have a shellfish allergy, what is a good replacement for clam juice?",
+          "datePublished": "2023-03-27T00:11:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michelle H."
+          },
+          "reviewBody": "This is delicious! I added twice the amount of evo, mushrooms, cod, onion, green onion and ginger. Used a tablespoon of Miso and substituted veggie broth for water. Added salt and pepper to taste with a small amount of red pepper flakes. So good!",
+          "datePublished": "2023-03-21T01:49:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nicole"
+          },
+          "reviewBody": "My partner has a clam allergy, so I used vegetable bouillon instead of clam juice. It was delicious.",
+          "datePublished": "2023-01-10T02:56:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "susan knox"
+          },
+          "reviewBody": "We like to use stock instead of water and double the couscous. Also do a couple Ts of gochujang while roasting the couscous and about 1/4c of miso paste with the stock",
+          "datePublished": "2022-12-01T03:06:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "Used veggie chicken broth instead of water. No clam juice. No mushrooms. Par boiled string beans.  Added more ginger and a squirt of lemon juice at the end as others suggested. \nIt’s a great recipe.",
+          "datePublished": "2022-11-29T00:05:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "dab223"
+          },
+          "reviewBody": "I found the broth a little lacking so added a teaspoon of miso paste. Seemed a good add.",
+          "datePublished": "2021-04-08T23:12:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meg"
+          },
+          "reviewBody": "This dish is simple, elegant, and quick to make, but I do wish it had more flavor. After reading the notes, I added 2 T of yellow miso paste to the clam juice and water, but I was underwhelmed the first night. Leftovers the next day were much more flavorful! I’m thinking that instead of water, I’d use mushroom broth or veggie stock, and add a 1/2 cup of white wine into the mushrooms, onion, garlic, and ginger.",
+          "datePublished": "2021-04-11T23:10:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tom A"
+          },
+          "reviewBody": "I used the clam juice as well as two cups of Dashi Bonito stock (from powder).  Everyone in the family loved it.  \nIt would also be good with some added greens.",
+          "datePublished": "2021-04-10T01:27:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Arthurs mom"
+          },
+          "reviewBody": "I added 2 tbsp dashi, 2 tbsp miso and a dash of soy sauce to augment the flavor. Really nice recipe for a healthy and quick meal.",
+          "datePublished": "2021-04-12T19:03:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MAKE THIS EXACT RECIPE!"
+          },
+          "reviewBody": "I’ve gone through all the notes and experimented with many of the suggestions. After a number of attempts I’ve decided that the original recipe is EXACTLY the right way to make this dish. Yes, it IS a subtle flavor. That’s, of course, the point. That’s what makes the dish what it is.",
+          "datePublished": "2022-04-24T01:23:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "vickel"
+          },
+          "reviewBody": "This was quick and easy.  It has a mild but very nice flavor.  Based on others’ comments I doubled the garlic and ginger and used 8 oz of clam juice and 2 c of vegetable stock.  I used 1/2 c of uncooked ditalini instead of couscous and cooked it separately which also speeded things along.  I added it with the peas and fish.  No need to defrost the peas.",
+          "datePublished": "2021-04-15T21:58:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lisa"
+          },
+          "reviewBody": "Trying to clean out the cupboard. Crazy thought, going to try with red lentils instead of couscous.",
+          "datePublished": "2021-04-08T19:13:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "dsilverman"
+          },
+          "reviewBody": "Do not use water at all, substitute the 5 cups of water for 4cups mushroom broth and one cup any white wine. if you like extra greens, throw in a handful of arugula when you put in the scallions. additionally, rather than the extra salt and pepper, throw in a squeeze of concentrated, liquid vegetable broth.",
+          "datePublished": "2021-04-25T17:29:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary Buford"
+          },
+          "reviewBody": "One of my very favorite recipes! From others' notes I've learned to jazz up the broth and to add some baby spinach at the very end so it is just wilted. It would be fun too to try substituting thin rice noodles for the pearled couscous.",
+          "datePublished": "2021-04-16T00:24:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nate"
+          },
+          "reviewBody": "Made this as written but added 2 Tbsp white miso paste and did not thaw peas. Delicious!",
+          "datePublished": "2021-04-15T22:22:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mighty Tuckles!"
+          },
+          "reviewBody": "This is a keeper!\n\nLike others, I jazzed up the broth a bit.  I used 4 cups seafood stock, instead of the 5 cups of water, plus white miso, kombu, black lime, and cobanero chili for some heat.\n\nOvernight the couscous soaks up broth so the left overs eat a little differently, but equally delicious.  Some baby spinach and preserved lemon changes things up a bit for lunch the next day!",
+          "datePublished": "2021-04-23T19:58:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erin"
+          },
+          "reviewBody": "I really enjoyed this recipe with some modifications. I used chicken broth instead of water, and less overall (I didn't want it to be too soupy). I added a bit of miso and soy sauce as some others have suggested (2Tbls of miso, 1Tbls of soy sauce). I used spinach instead of peas because I hate peas, but then found it was missing the sweetness so I added a small amount of honey. A squeeze of lemon over the top when it was finished really made it shine!",
+          "datePublished": "2021-04-22T15:18:39.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1022063-brothy-cod-with-peas-and-mushrooms",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "In this recipe, tender, flaky cod is poached in a light, flavorful broth that optimizes bottled clam juice, a versatile yet underused ingredient. The juice is perfect for weeknight cooking, when shortcuts to big flavor are key, and it adds a subtle, briny backbone to any broth. This broth is also infused with rich shiitake mushrooms, aromatic garlic and a generous boost of bright ginger. Pearl couscous gets toasted before boiling, adding nutty notes to the soup. It also contributes delightful chewiness, but other small pastas like ditalini or orzo are also good substitutes, though cook time may need to be adjusted accordingly.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Brothy Cod With Peas and Mushrooms",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/dc9ff03d-fc6d-5dc0-a69a-e8e1529634bb#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/05/dining/kc-brothy-cod/kc-brothy-cod-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Beatriz Da Costa for The New York Times. Food Styling: Rebecca Jurkevich.",
+          "dateModified": "2021-04-05T19:56:08.957Z",
+          "datePublished": "2021-04-05T19:56:08.957Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-05T19:56:08.957Z",
+          "url": "https://static01.nyt.com/images/2021/04/05/dining/kc-brothy-cod/kc-brothy-cod-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/dc9ff03d-fc6d-5dc0-a69a-e8e1529634bb#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/05/dining/kc-brothy-cod/kc-brothy-cod-superJumbo.jpg",
+          "creditText": "Beatriz Da Costa for The New York Times. Food Styling: Rebecca Jurkevich.",
+          "dateModified": "2021-04-05T19:56:08.957Z",
+          "datePublished": "2021-04-05T19:56:08.957Z",
+          "height": "1230",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-05T19:56:08.957Z",
+          "url": "https://static01.nyt.com/images/2021/04/05/dining/kc-brothy-cod/kc-brothy-cod-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/dc9ff03d-fc6d-5dc0-a69a-e8e1529634bb#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/05/dining/kc-brothy-cod/kc-brothy-cod-mediumSquareAt3X.jpg",
+          "creditText": "Beatriz Da Costa for The New York Times. Food Styling: Rebecca Jurkevich.",
+          "dateModified": "2021-04-05T19:56:08.957Z",
+          "datePublished": "2021-04-05T19:56:08.957Z",
+          "height": "1573",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-05T19:56:08.957Z",
+          "url": "https://static01.nyt.com/images/2021/04/05/dining/kc-brothy-cod/kc-brothy-cod-mediumSquareAt3X.jpg",
+          "width": "1573"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022063-brothy-cod-with-peas-and-mushrooms"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:34.324Z",
+  "scraping_status": "scraped"
+}

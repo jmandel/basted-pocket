@@ -1,0 +1,672 @@
+{
+  "id": "aec6a80b3511819c",
+  "original_url": "https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart",
+  "fetched_title": "Cranberry Curd Tart Recipe (with Video)",
+  "main_text_content": "If you are a fan of lemon curd or the classic French tarte au citron, you will love this cranberry version To minimize kitchen time, make it in stages, preparing the crust and curd a day or two in advance The finished tart keeps well for a couple of days too",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1018443-cranberry-tart\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2007/11/14/dining/cranberry-tart/cranberry-tart-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2007/11/14/dining/cranberry-tart/cranberry-tart-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2007/11/14/dining/cranberry-tart/cranberry-tart-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2007/11/14/dining/cranberry-tart/cranberry-tart-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2007/11/14/dining/cranberry-tart/cranberry-tart-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2007/11/14/dining/cranberry-tart/cranberry-tart-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2007/11/14/dining/cranberry-tart/cranberry-tart-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2007/11/14/dining/cranberry-tart/cranberry-tart-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Cranberry Tart</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Florence Fabricant</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13TANISDESERT1-threeByTwoMediumAt2X-v2.jpg",
+  "local_image_path": "scraped/aec6a80b3511819c/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/1153a653-6696-5f61-9e34-03a63e365a52",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart",
+        "@type": "WebPage",
+        "name": "Cranberry Curd Tart"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart",
+      "name": "Cranberry Curd Tart",
+      "description": "If you are a fan of lemon curd or the classic French tarte au citron, you will love this cranberry version. To minimize kitchen time, make it in stages, preparing the crust and curd a day or two in advance. The finished tart keeps well for a couple of days too. The wheat-free hazelnut crust is adapted from a cookie recipe from the pastry chef and writer David Lebovitz’s popular website.",
+      "author": {
+        "@type": "Person",
+        "name": "David Tanis"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/7f48c733-bda3-5c48-985b-514e6bf3fae9#videoSixteenByNine1050",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13DESERT1-videoSixteenByNine1050.jpg",
+          "creditText": "Evan Sung for The New York Times",
+          "dateModified": "2024-11-19T20:24:58.914Z",
+          "datePublished": "2015-11-13T17:50:17.000Z",
+          "height": "591",
+          "representativeOfPage": true,
+          "uploadDate": "2015-11-13T17:50:17.000Z",
+          "url": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13DESERT1-videoSixteenByNine1050.jpg",
+          "width": "1050"
+        },
+        {
+          "@id": "nyt://image/7f48c733-bda3-5c48-985b-514e6bf3fae9#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13DESERT1-superJumbo.jpg",
+          "creditText": "Evan Sung for The New York Times",
+          "dateModified": "2024-11-19T20:24:58.914Z",
+          "datePublished": "2015-11-13T17:50:17.000Z",
+          "height": "1363",
+          "representativeOfPage": true,
+          "uploadDate": "2015-11-13T17:50:17.000Z",
+          "url": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13DESERT1-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/7f48c733-bda3-5c48-985b-514e6bf3fae9#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13TANISDESERT1-mediumSquareAt3X-v2.jpg",
+          "creditText": "Evan Sung for The New York Times",
+          "dateModified": "2024-11-19T20:24:58.914Z",
+          "datePublished": "2015-11-13T17:50:17.000Z",
+          "height": "1802",
+          "representativeOfPage": true,
+          "uploadDate": "2015-11-13T17:50:17.000Z",
+          "url": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13TANISDESERT1-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT2H",
+      "recipeYield": "8 to 10 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dessert",
+      "keywords": "christmas, thanksgiving, cranberry, egg yolk, food processor, hazelnut, make-ahead, rice flour, tart, gluten-free",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 10050
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 479,
+        "unsaturatedFatContent": "16 grams",
+        "carbohydrateContent": "51 grams",
+        "cholesterolContent": null,
+        "fatContent": "30 grams",
+        "fiberContent": "4 grams",
+        "proteinContent": "5 grams",
+        "saturatedFatContent": "12 grams",
+        "sodiumContent": "75 milligrams",
+        "sugarContent": "36 grams",
+        "transFatContent": "1 gram"
+      },
+      "recipeIngredient": [
+        "1 1/4 cups/180 grams raw hazelnuts",
+        "1 cup/125 grams rice flour",
+        "1/4 teaspoon salt",
+        "1/2 cup/112 grams sugar",
+        "6 tablespoons/100 grams softened butter, more as necessary",
+        "12 ounces/340 grams cranberries",
+        "1 cup/225 grams sugar",
+        "Peel (orange part only) and juice of 1 orange (about 1/2 cup)",
+        "4 ounces/113 grams softened butter (1 stick)",
+        "2 eggs plus 2 egg yolks"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the crust: Heat oven to 325 degrees. Put hazelnuts on a baking sheet and roast for 10 to 15 minutes, until skins darken and crack. Put roasted nuts in a clean towel and rub off skins. Discard skins and let nuts cool."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a food processor, grind nuts with half the rice flour until mixture resembles coarse cornmeal. Add remaining rice flour and salt and pulse briefly."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Cream sugar and butter in a mixing bowl with a wooden spoon for a minute or two until pale and thick. Add nut mixture and combine until dough comes together. If it seems crumbly, add 1 to 2 tablespoons softened butter or a little cold water."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Press dough evenly into a 10-inch tart pan; use half the dough for the sides and half for the bottom. Prick bottom with a fork and freeze for 30 minutes (or several days if desired)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 350 degrees. Bake chilled tart shell about 15 minutes until lightly brown. Cool."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the crust bakes and cools, make the cranberry curd: Put cranberries, sugar and orange juice and peel in a saucepan over medium heat. Simmer until cranberries have popped and softened, about 10 minutes. Transfer to a food mill or medium mesh sieve and press cooking liquid and solids into a bowl. (Alternatively, for the most vibrant color, purée the cooked cranberry and orange mixture with an immersion blender or in a food processor or blender. Press through a fine-mesh sieve.) Whisk the butter into the warm liquid."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Put eggs and egg yolks into a bowl and beat lightly. Slowly whisk a cup of warm cranberry liquid into the eggs to temper, then combine both and whisk together. Wipe out pot if necessary, return liquid to pot and cook over low heat until nearly bubbling and thickened, about 10 minutes. If using immediately, let cool to room temperature. If working ahead, cool to room temperature, cover with plastic wrap (press wrap against curd) and refrigerate. (Curd may be cooked up to 1 day ahead.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour cooled cranberry curd into the cooled prebaked tart shell and smooth top with a spatula. Bake at 350 degrees for 10 minutes to set curd. Cool on a rack. Store at room temperature for up to 2 days."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/d3df9287-02da-5e89-9922-65570a37d552",
+        "@type": "VideoObject",
+        "author": [
+          {
+            "@id": "nyt://person/f7c67486-1f13-5b2c-aef8-50eb5ad79cee",
+            "@type": "Person",
+            "name": "Shaw Lash",
+            "url": "https://www.nytimes.com/by/shaw-lash"
+          },
+          {
+            "@id": "nyt://person/cfaf820b-087f-543f-9bd9-80d8962deb7b",
+            "@type": "Person",
+            "name": "Adam Saewitz",
+            "url": "https://www.nytimes.com/by/adam-saewitz"
+          },
+          {
+            "@id": "nyt://person/f19cfa17-cf22-5bec-83df-93ebf84f6227",
+            "@type": "Person",
+            "name": "James Herron",
+            "url": "https://www.nytimes.com/by/james-herron"
+          }
+        ],
+        "bitrate": "1511346",
+        "contentSize": "21199087",
+        "contentUrl": "http://video1.nytimes.com/video/2016/11/08/43864_1_guides-cranberrytart_wg_480p.mp4",
+        "creator": [
+          {
+            "@id": "nyt://person/f7c67486-1f13-5b2c-aef8-50eb5ad79cee",
+            "@type": "Person",
+            "name": "Shaw Lash"
+          },
+          {
+            "@id": "nyt://person/cfaf820b-087f-543f-9bd9-80d8962deb7b",
+            "@type": "Person",
+            "name": "Adam Saewitz"
+          },
+          {
+            "@id": "nyt://person/f19cfa17-cf22-5bec-83df-93ebf84f6227",
+            "@type": "Person",
+            "name": "James Herron"
+          }
+        ],
+        "dateModified": "2024-10-15T20:01:32.992Z",
+        "datePublished": "2016-11-17T16:43:28.000Z",
+        "description": "If you are a fan of lemon curd or the classic French tarte au citron, you will love this cranberry version.",
+        "duration": "PT1M52S",
+        "height": "480",
+        "name": "Cranberry Tart",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/7f48c733-bda3-5c48-985b-514e6bf3fae9#videoSixteenByNine1050",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13DESERT1-videoSixteenByNine1050.jpg",
+            "creditText": "Evan Sung for The New York Times",
+            "dateModified": "2024-11-19T20:24:58.914Z",
+            "datePublished": "2015-11-13T17:50:17.000Z",
+            "height": "591",
+            "uploadDate": "2015-11-13T17:50:17.000Z",
+            "url": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13DESERT1-videoSixteenByNine1050.jpg",
+            "width": "1050"
+          },
+          {
+            "@id": "nyt://image/7f48c733-bda3-5c48-985b-514e6bf3fae9#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13DESERT1-superJumbo.jpg",
+            "creditText": "Evan Sung for The New York Times",
+            "dateModified": "2024-11-19T20:24:58.914Z",
+            "datePublished": "2015-11-13T17:50:17.000Z",
+            "height": "1363",
+            "uploadDate": "2015-11-13T17:50:17.000Z",
+            "url": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13DESERT1-superJumbo.jpg",
+            "width": "2048"
+          },
+          {
+            "@id": "nyt://image/7f48c733-bda3-5c48-985b-514e6bf3fae9#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13TANISDESERT1-mediumSquareAt3X-v2.jpg",
+            "creditText": "Evan Sung for The New York Times",
+            "dateModified": "2024-11-19T20:24:58.914Z",
+            "datePublished": "2015-11-13T17:50:17.000Z",
+            "height": "1802",
+            "uploadDate": "2015-11-13T17:50:17.000Z",
+            "url": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13TANISDESERT1-mediumSquareAt3X-v2.jpg",
+            "width": "1800"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13DESERT1-videoSixteenByNine1050.jpg",
+        "transcript": "n/a",
+        "uploadDate": "2016-11-17T16:43:28.000Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000004756089/cranberry-tart.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2015-11-18T00:00:00.000Z",
+      "dateModified": "2025-02-03T17:28:24.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tripletree"
+          },
+          "reviewBody": "Full disclosure -- I haven't made the entire tart, just the filling which I put in a jar and eat by the spoonful!  It is super delicious.  Someone left a large bottle of unsweetened cranberry juice in my fridge and I'd like to use it to make this cranberry curd -- any ideas on volumes and additions?  I assume I'll need to add some pectin?",
+          "datePublished": "2025-05-02T19:51:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Helen Tai"
+          },
+          "reviewBody": "Used 1.25 C almond flour instead of hazelnuts. Was quite dry - added about 1/4 water. \n\nCranberry sauce splattered all over. Cranberry would not go through sieve. Next time - put cranberries etc in small pot and use immersion blender. Forget about pushing through sieve.",
+          "datePublished": "2025-04-12T14:02:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "gerry"
+          },
+          "reviewBody": "I didn't have the energy or ingredients to make a crust. Made the curd. Did not pass thru a sieve. Made five servings for our end of February Turkey dinner. Perfect end to our meal.",
+          "datePublished": "2025-02-23T16:07:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Summary"
+          },
+          "reviewBody": "-for bright color: make sure curd is not overcooked (grainy) and cool (it thickens) b4 pouring into tart shell. Puree cranberry mix w/immersion blender, then sieve (also can put in food proc rather then sieve). Temper eggs b4 adding. Add butter last. \n-Use 1/2 cup OJ. For max yield, don't let cranberries cook down. Strained cranberries yield abt 1 1/2 C.\n- Best make curd day or even week bf. \n- ok with 3 whole eggs May need 1 tsp cornstarch/arrowroot.\n- ok with 2 c almond flour & no rice flour.",
+          "datePublished": "2025-02-04T05:06:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maxine"
+          },
+          "reviewBody": "The curd is the star here. I didn’t need the complication of the gluten free crust.  Subbed in homemade butter crust. Delish.",
+          "datePublished": "2025-01-24T22:17:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol S"
+          },
+          "reviewBody": "I made this with almonds and almond flour. It was tasty and delicious. I would recommend using less crust mixture for a thinner bottom and side crust.",
+          "datePublished": "2025-01-14T19:05:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Naomi"
+          },
+          "reviewBody": "Even my friend who hates dessert loved this. Nutty crunchy hazelnut was an unexpectedly successful pairing with cran-orange. Substituted almond flour for rice flour, worked well. Omitted butter from the curd, didn't miss it.",
+          "datePublished": "2025-01-12T15:28:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shelby"
+          },
+          "reviewBody": "I've now made this several times (always to great ooohs and ahhhs) and I like to add a grapefruit (both juice and skin, just like the orange) to the curd. This adds a delicious bite of tart bitterness to the whole thing. It does mean there's more liquid though, so you'll have to increase the curd cooking time on the stove to ensure it's not too liquidy. Entirely worth it though!",
+          "datePublished": "2025-01-08T14:22:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "pw"
+          },
+          "reviewBody": "8 tbsp butter instead of 6 for crust",
+          "datePublished": "2025-01-07T21:45:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Victoria"
+          },
+          "reviewBody": "This is the most amazing crust I have ever eaten or made myself.  I am trying to find a way to adjust this recipe to make shortbread cookies too.  I made two tartes for Christmas and hid some slices to enjoy the following week when we weren't so stuffed.  It tasted great for over a week, refrigerated.  I also used fresh tangerine juice from Trader Joe's in the filling.",
+          "datePublished": "2025-01-05T02:26:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Whole Wheat"
+          },
+          "reviewBody": "The mix cooled down while I was pushing through the sieve. Next time make sure to use a sieve with larger holes.",
+          "datePublished": "2025-01-04T21:57:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "johnmsii"
+          },
+          "reviewBody": "I thought the cranberry curd was delicious, but there was something about the hazelnut crust that didn’t seem to complement it on my palate. Everyone else who had it raved about it. I might opt for a different crust on the next go round.",
+          "datePublished": "2025-01-03T21:20:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebee"
+          },
+          "reviewBody": "I’ve made this twice now, and both times I had to double the filling to get enough to fill the crust (and then I had a teeny tiny amount left over to fill a 3” ramekin for my friend who’s allergic to tree nuts)",
+          "datePublished": "2025-01-03T17:39:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne"
+          },
+          "reviewBody": "Hazelnut tart crust makes great cookie dough for Christmas cut-out cookies. I prepared the tart 7 days ahead and the curd 5 days ahead. I brought the curd to room temperatu and gave the crust 10 minutes out of the fridge before baking. Mine needed a few hours to cool and hold its shape fully. Perfect tart. I refroze the leftover piece, which was amazing right out of the freezer as a tea time treat—saved the cranberry puree from the top of the sieve with the seeds in it for gritty jam on toast.",
+          "datePublished": "2025-01-02T19:59:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fanny"
+          },
+          "reviewBody": "Great recipe. The crust came out drier than it should have, so I'd recommend using the extra butter that the recipe says is optional. I chose to puree the cranberries and the color was beautiful. Made the curd again at Christmastime to give away as hostess gifts.",
+          "datePublished": "2025-01-02T03:15:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "Tip for bright color *and* easy cranberry straining:  First I pureed the cranberry mixture in the pot with an immersion blender, then I pushed it through my sieve with a spatula.  It only took a minute or two and the puree is buttery smooth and NEON red.",
+          "datePublished": "2017-10-24T23:28:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Baba"
+          },
+          "reviewBody": "If you want avoid some headache, I recommend the Julia Child/Alice Medrich method for peeling the hazelnuts rather than the oven method (which did not work for me).<br/><br/>1. Add 3 Tbs of baking soda to 2 cups of boiling water.<br/>2. Add the hazelnuts and boil for about 3 minutes until the skin removes easily from a hazelnut that you tested.<br/>3.  Pour the contents into a colander and run under cold water.  Fyi, the water will be black.<br/>4. Remove skin.  I used a paper towel to help remove the skin.",
+          "datePublished": "2017-10-30T15:23:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "bsaylor"
+          },
+          "reviewBody": "2 cups of almond flour will work instead of the hazelnuts and rice flour. You can add a little arrowroot flour or cornstarch. Or use half almond flour and half cup-4-cup.",
+          "datePublished": "2017-10-30T15:18:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eileen"
+          },
+          "reviewBody": "I used the lemon poppyseed crust (minus the poppyseeds) from Melissa Clarks ricotta tart, it uses ground almonds and it was fantastic with the curd.",
+          "datePublished": "2017-10-30T15:31:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David Tanis"
+          },
+          "reviewBody": "Figure 1/2 cup orange juice. For maximum yield, don't let cranberry mixture \"cook down.\" Strained cranberry mixture should yield a scant 1 + 1/2 cups. Even with less, should be sufficient for a 9- or 10-inch tart.<br/><br/>For the best color, make sure the curd is not overcooked (i.e. grainy) and be sure to cool (it thickens as it cools) before pouring into tart shell. If possible, make curd a day in advance. Will keep a week or more, refrigerated.",
+          "datePublished": "2017-10-24T23:15:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol"
+          },
+          "reviewBody": "I don't sieve the cranberries as the skins have a lot of pectin which helps the curd solidify. Plus I like the taste. I also use three whole eggs rather than 2 yolks and 2 eggs. I've made this several times and the curd has always been delicious.",
+          "datePublished": "2018-02-04T19:53:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kgs"
+          },
+          "reviewBody": "Can regular white or wheat flour be substituted for the rice flour?  We don't need to avoid gluten, but would rather avoid extra shopping if possible.  Thanks in advance.",
+          "datePublished": "2017-10-30T15:20:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen"
+          },
+          "reviewBody": "For the color to remain the beautiful jewel-red, it might be better to add the butter last, and perhaps a little less of it.  I have made this recipe twice; the first time I forgot the butter till the end, and kept the lovely color.  This time I followed the directions and the butter lightened the cranberry puree to a pinkish-orangey tone, less attractive.  The old NY Times Cookbook recipe for lemon meringue pie left the butter to the end, with I think good results.",
+          "datePublished": "2017-11-22T18:22:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Merle Gilmore"
+          },
+          "reviewBody": "Loved this recipe but two hints for making it the next time:   1 - do ahead (make and freeze crust, make curd) but do NOT combine and bake until day of serving. The crust turned slightly soggy when it was made the day ahead and stored at room temp as indicated in directions. 2 - add extra liquid in the form of 2 - 3 ounces of non-pulp orange juice or unsweetened cranberry juice (which also makes an excellent Cosmo!)",
+          "datePublished": "2017-10-30T15:42:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Helen S. Fletcher"
+          },
+          "reviewBody": "When I had my bakery, we made a Chocolate Cranberry Curd Tart (<a href=\"http://pastrieslikeapro.com/2014/11/chocolate-cranberry-curd-tart)\" title=\"http://pastrieslikeapro.com/2014/11/chocolate-cranberry-curd-tart)\" target=\"_blank\">http://pastrieslikeapro.com/2014/11/chocolate-cranberry-curd-tart)</a>.  It featured a chocolate crust and chocolate ganache topping.  <br/><br/>We also just buzzed our cooked cranberries through the processor and although bits of the skin were left, it added to the charm of the tart and, when eating were not detectable.",
+          "datePublished": "2017-10-24T23:21:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SCG"
+          },
+          "reviewBody": "I too struggled with the volume of the cranberry mush after straining; to cut the tartness and to add volume, I made a stove-top vanilla custard and layered the cranberry curd on top, which ended up filling the pan perfectly, and the flavor combo is yummy! Baking it creates the lovely, bright color; it will look pasty before that. Cracking, roasting and peeling 50 raw hazelnuts was nuts (pun intended). Boil the nuts in baking soda in water and rise off skin in a cool bath; so much easier!",
+          "datePublished": "2017-10-30T15:49:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janie F"
+          },
+          "reviewBody": "It also seemed like it would take an eternity to push the cranberries through a sieve, so I just used an immersion blender and pureed. Perhaps not perfectly smooth, but tasted fine.",
+          "datePublished": "2017-10-30T15:28:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MissEmphasis"
+          },
+          "reviewBody": "Despite the fuss involved sieving the cranberries without a food mill I turned around and made a second batch the moment I tasted the first. Yum yum yurrrm. I opted for three whole eggs instead of the 2 eggs, 2 yolks (I'm not fond of the taste of commercial yolks) and that worked beautifully. I served the curd with gingerbread one night and in a simple butter crust the next. And I ate a goodly portion directly out of the jar.<br/>Gorgeous color and tastes awesome.",
+          "datePublished": "2017-10-24T18:34:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Angelina"
+          },
+          "reviewBody": "I didn't have time for the hazelnut crust, so I followed braylon's advice about the almond flour as a substitute (2 cups as a replacement for rice/hazelnut). This tart was a huge hit with kids and adults alike, especially with guests that have celiac. I used the pulp remaining in my mesh sieve in Mark Bittman's basic muffin recipe and the pulp (cranberry/orange peel) made a perfect flavoring.",
+          "datePublished": "2017-10-24T23:27:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "M"
+          },
+          "reviewBody": "This is an unusually poorly written recipe.  Could you please add the amount of liquid we should expect from the orange (they vary considerably in size and in juice content) and after straining the cranberry mixture.  It was barely enough for one cup after I strained them.",
+          "datePublished": "2017-10-30T15:31:06.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2015
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "David Tanis"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2015,
+      "description": "If you are a fan of lemon curd or the classic French tarte au citron, you will love this cranberry version. To minimize kitchen time, make it in stages, preparing the crust and curd a day or two in advance. The finished tart keeps well for a couple of days too. The wheat-free hazelnut crust is adapted from a cookie recipe from the pastry chef and writer David Lebovitz’s popular website.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Cranberry Curd Tart",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/7f48c733-bda3-5c48-985b-514e6bf3fae9#videoSixteenByNine1050",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13DESERT1-videoSixteenByNine1050.jpg",
+          "creditText": "Evan Sung for The New York Times",
+          "dateModified": "2024-11-19T20:24:58.914Z",
+          "datePublished": "2015-11-13T17:50:17.000Z",
+          "height": "591",
+          "representativeOfPage": true,
+          "uploadDate": "2015-11-13T17:50:17.000Z",
+          "url": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13DESERT1-videoSixteenByNine1050.jpg",
+          "width": "1050"
+        },
+        {
+          "@id": "nyt://image/7f48c733-bda3-5c48-985b-514e6bf3fae9#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13DESERT1-superJumbo.jpg",
+          "creditText": "Evan Sung for The New York Times",
+          "dateModified": "2024-11-19T20:24:58.914Z",
+          "datePublished": "2015-11-13T17:50:17.000Z",
+          "height": "1363",
+          "representativeOfPage": true,
+          "uploadDate": "2015-11-13T17:50:17.000Z",
+          "url": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13DESERT1-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/7f48c733-bda3-5c48-985b-514e6bf3fae9#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13TANISDESERT1-mediumSquareAt3X-v2.jpg",
+          "creditText": "Evan Sung for The New York Times",
+          "dateModified": "2024-11-19T20:24:58.914Z",
+          "datePublished": "2015-11-13T17:50:17.000Z",
+          "height": "1802",
+          "representativeOfPage": true,
+          "uploadDate": "2015-11-13T17:50:17.000Z",
+          "url": "https://static01.nyt.com/images/2015/11/13/dining/13TANISDESERT1/13TANISDESERT1-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:10.276Z",
+  "scraping_status": "scraped"
+}

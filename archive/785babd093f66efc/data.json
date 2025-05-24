@@ -1,0 +1,510 @@
+{
+  "id": "785babd093f66efc",
+  "original_url": "https://cooking.nytimes.com/recipes/1021840-pressure-cooker-vietnamese-caramel-pork-and-eggs",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021840-pressure-cooker-vietnamese-caramel-pork-and-eggs",
+  "fetched_title": "Pressure Cooker Vietnamese Caramel Pork and Eggs Recipe",
+  "main_text_content": "Called thit heo kho trung in Vietnamese, this rich combination of pork and eggs in bittersweet caramel sauce and coconut water is a must-have on many southern Vietnamese Tet menus, though people enjoy it as cozy year-round fare, too. It is typically made well in advance of Lunar New Year, so you’re free to relax when the holiday comes around If you didn’t plan ahead to make it on the stovetop, follow this pressure cooker version to make the braise in a flash Serve it with crunchy pickled bean sprout salad, stir-fried greens and steamed rice.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1018554-pressure-cooker-pork-with-citrus-and-mint\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2017/02/01/dining/01APPE2/01APPE2-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2017/02/01/dining/01APPE2/01APPE2-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2017/02/01/dining/01APPE2/01APPE2-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2017/02/01/dining/01APPE2/01APPE2-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2017/02/01/dining/01APPE2/01APPE2-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2017/02/01/dining/01APPE2/01APPE2-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2017/02/01/dining/01APPE2/01APPE2-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2017/02/01/dining/01APPE2/01APPE2-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Pressure Cooker Pork With Citrus and Mint</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/02/03/dining/29Tetrex6/merlin_182848560_951f4e6c-402c-4255-86ab-9042ca6a4d9e-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/785babd093f66efc/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/412a3f16-49ab-54d8-b5e2-4b8539327213",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021840-pressure-cooker-vietnamese-caramel-pork-and-eggs",
+        "@type": "WebPage",
+        "name": "Pressure Cooker Vietnamese Caramel Pork and Eggs"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021840-pressure-cooker-vietnamese-caramel-pork-and-eggs",
+      "name": "Pressure Cooker Vietnamese Caramel Pork and Eggs",
+      "description": "Called thit heo kho trung in Vietnamese, this rich combination of pork and eggs in bittersweet caramel sauce and coconut water is a must-have on many southern Vietnamese Tet menus, though people enjoy it as cozy year-round fare, too.&nbsp;It is typically made well in advance of Lunar New Year, so you’re free to relax when the holiday comes around. If you didn’t plan ahead to make it on the stovetop, follow this pressure cooker version to make the braise in a flash. Serve it with crunchy pickled bean sprout salad,&nbsp;stir-fried greens and steamed rice.",
+      "author": {
+        "@type": "Person",
+        "name": "Andrea Nguyen"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/4a863f1e-2cf3-50fd-a4e7-0e8b600a5880#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/03/dining/29Tetrex6/merlin_182848560_951f4e6c-402c-4255-86ab-9042ca6a4d9e-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich. Prop Stylist: Paige Hicks.",
+          "dateModified": "2021-01-29T23:01:52.857Z",
+          "datePublished": "2021-01-29T23:01:52.857Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-01-29T23:01:52.857Z",
+          "url": "https://static01.nyt.com/images/2021/02/03/dining/29Tetrex6/merlin_182848560_951f4e6c-402c-4255-86ab-9042ca6a4d9e-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/4a863f1e-2cf3-50fd-a4e7-0e8b600a5880#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/03/dining/29Tetrex6/merlin_182848560_951f4e6c-402c-4255-86ab-9042ca6a4d9e-superJumbo.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich. Prop Stylist: Paige Hicks.",
+          "dateModified": "2021-01-29T23:01:52.857Z",
+          "datePublished": "2021-01-29T23:01:52.857Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-01-29T23:01:52.857Z",
+          "url": "https://static01.nyt.com/images/2021/02/03/dining/29Tetrex6/merlin_182848560_951f4e6c-402c-4255-86ab-9042ca6a4d9e-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/4a863f1e-2cf3-50fd-a4e7-0e8b600a5880#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/03/dining/29Tetrex6/merlin_182848560_951f4e6c-402c-4255-86ab-9042ca6a4d9e-mediumSquareAt3X.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich. Prop Stylist: Paige Hicks.",
+          "dateModified": "2021-01-29T23:01:52.857Z",
+          "datePublished": "2021-01-29T23:01:52.857Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-01-29T23:01:52.857Z",
+          "url": "https://static01.nyt.com/images/2021/02/03/dining/29Tetrex6/merlin_182848560_951f4e6c-402c-4255-86ab-9042ca6a4d9e-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT1H15M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "vietnamese",
+      "recipeCategory": "meat, main course",
+      "keywords": "coconut water, egg, instant pot, lunar new year, pork shoulder",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 541
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 631,
+        "unsaturatedFatContent": "26 grams",
+        "carbohydrateContent": "21 grams",
+        "cholesterolContent": null,
+        "fatContent": "43 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "38 grams",
+        "saturatedFatContent": "13 grams",
+        "sodiumContent": "1184 milligrams",
+        "sugarContent": "17 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1/4 cup granulated sugar, plus more as needed",
+        "1/8 teaspoon unseasoned rice vinegar or distilled white vinegar",
+        "1 1/2 pounds boneless pork shoulder, belly or leg (see Note) ",
+        "2 tablespoons canola or other neutral oil",
+        "2 1/2 tablespoons fish sauce, plus more as needed ",
+        "1/2 medium yellow onion, thinly sliced",
+        "5 garlic cloves, smashed",
+        "1 1/2 teaspoons black peppercorns",
+        "2 cups unsweetened coconut water, strained if pulpy",
+        "4 large hard-boiled eggs, peeled",
+        "2 fresh Thai chiles or 1 serrano chile, thinly sliced (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make a caramel sauce: In a small saucepan, stir together the sugar, vinegar and 1 tablespoon water over medium heat until the sugar nearly dissolves, 60 to 90 seconds. Cook without stirring until champagne yellow, about 3 minutes, then continue cooking for another 1 to 2 minutes, frequently picking up the pan and swirling it to control the caramelization. When the mixture is a dark tea color (expect faint smoking), turn off the heat and keep the pan on the burner. Let the caramelization continue until the mixture is burgundy in color, 1 to 2 minutes. Slide the pan to a cool burner and add 3 tablespoons water, stirring to dissolve the sugar. Warm over medium heat to loosen, if needed. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Cut the pork into chunks about 1-inch thick and 2 to 3 inches long, making sure each piece has both lean meat and fat. Warm the oil in a 6-quart multicooker on the highest heat setting, such as “Saute.” Working in 2 or 3 batches, cook the pork on all sides until lightly browned, about 2 minutes per side, holding the seared meat on a plate. When done, return all the pork and any accumulated juices to the pot, then add the caramel sauce, fish sauce, onion, garlic, peppercorns and coconut water. Lock the lid, then set to high pressure for 12 minutes. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Naturally depressurize for 10 minutes before releasing pressure. Use tongs to retrieve the pork and hold in a bowl, loosely covered to prevent drying. If peppercorns cling to the pork, leave them for zing, or knock them off and discard. To quickly filter and remove fat from the cooking liquid, set a mesh strainer over a large heatproof bowl, line with a double layer of paper towels and pour the liquid through. After most of the liquid passes through and a layer of fat remains above the solids, set the strainer aside. (Save the fat for cooking if you like.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Return the liquid to the pot, bring to a boil on the highest heat setting (Saute) and cook until reduced to 1 cup, 15 to 18 minutes. Lower the heat to maintain a simmer, then add the pork and eggs. Cook, gently stirring now and then, to heat through and coat with the dark sauce, 3 to 5 minutes. Turn off the heat and let rest 5 minutes, uncovered, to concentrate flavors. Taste and add up to 1 1/2 teaspoons of fish sauce or 1 1/2 teaspoons sugar, or both, as needed for a pleasant savory-sweet finish. Transfer to a shallow bowl for serving. Invite diners to halve the eggs themselves. If you’d like spicy heat, gently smash the chiles in individual dishes for dipping sauce with some sauce from the pot, and use it to dip the pork and egg or to drizzle into the bowls. "
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-02-03T00:00:00.000Z",
+      "dateModified": "2021-02-11T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bowie"
+          },
+          "reviewBody": "We made this exactly to spec and it came out tasting like nothing but pepper corns. Having had tons of luck with the recipes on this site, this was a huge let down.",
+          "datePublished": "2024-09-28T20:57:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tomasz Nguyen"
+          },
+          "reviewBody": "This is a very authentic recipe. You’re not meant to have runny yolks in this dish, normally you break up your ‚dry’ egg yolk and mix it with the rice and remainders of the sauce, super tasty",
+          "datePublished": "2024-07-24T17:56:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leaxam"
+          },
+          "reviewBody": "Gets rid of the impurities in the meat. My mum often parboils with ginger to mute the 'porkiness' of the meat.",
+          "datePublished": "2025-01-29T00:36:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "V"
+          },
+          "reviewBody": "I noticed that a lot of other recipes suggest parboiling the pork belly beforehand. This one omits it. Can anyone chime in about what parboiling would do?",
+          "datePublished": "2024-02-20T04:10:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anastasia Raba"
+          },
+          "reviewBody": "Absolutely delicious! Cooked eggs to a creamy yolk perfection and added 30min before done. I have set the eggs in ice water and were fully cooled before adding and they did not overcook and the white took on the flavor and color of the sauce. Sumptuous!",
+          "datePublished": "2023-09-22T17:32:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kristin"
+          },
+          "reviewBody": "This was totally worth it! I served it with the NYT coconut rice recipe. It definitely took me a good hour and a half so it’s not a regular weeknight recipe. We got 3 servings out of it. I wish I had doubled the recipe so we could have leftovers! Would absolutely cook for company.\n\nWell worth it if you have time. And do the COCONUT RICE!",
+          "datePublished": "2023-09-17T17:30:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Abby Weimer"
+          },
+          "reviewBody": "Took a REALLY long time to prep and cook (almost two hours for me) and for the lack of exciting flavor, not really worth it. I needed to get rid of some of my 7.5lbs of pork though and I’m glad to have tried this recipe.",
+          "datePublished": "2023-05-09T03:18:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "❤️PDX❤️ This was superb!"
+          },
+          "reviewBody": "Made this today after realizing we had a good three pounds of pork leg in need of a recipe.’Worked perfectly!\n\nDid with steamed broccoli and white rice, fabulous foils. \n\nOnly observation // this recipe takes time and focus so don’t try to bust this out with friends a half hour out!",
+          "datePublished": "2023-02-06T05:39:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nabila"
+          },
+          "reviewBody": "This was really excellent! I used a picnic cut pork shoulder, a fatty cut with skin on that is cheaper but IMHO a better cut than the Boston butt. Gotta say the skin—first crisped, then pressure cooked, and finally coated in the sauce—is just divine. The only changes I made were the following: I salted the pork before sauteing and added a 1/2 tsp of crushed red pepper flakes to the sauce before reduction. Also adding to the chorus of pleading people to not add coconut milk to this.",
+          "datePublished": "2023-01-30T00:38:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Igo"
+          },
+          "reviewBody": "I didn't reduce the liquid enough but it was still good",
+          "datePublished": "2023-01-27T03:28:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Russ"
+          },
+          "reviewBody": "Good recipe. Making the caramel sauce takes longer than the recipe timing, at least for me. Next time I’ll add the eggs when I’m reducing the sauce.",
+          "datePublished": "2023-01-23T01:34:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Jones"
+          },
+          "reviewBody": "I followed the recipe exactly but found it needed a little something more. I added lime juice (from one lime) and red pepper flakes. It was perfect! Served over rice (left the eggs off) with a sprinkle of cilantro. It was a huge hit.",
+          "datePublished": "2022-11-20T17:09:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aaron"
+          },
+          "reviewBody": "The flavors here are pretty spot on, very similar to my Vietnamese grandmother’s version of the dish. She uses pork belly. I used pork shoulder because it was what I had. Still very good. I’ll try it with pork belly next time.",
+          "datePublished": "2022-10-28T03:31:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Danielle"
+          },
+          "reviewBody": "So tasty. I made the recipe as written, and 2 of us ate the entire thing, so, yeah - it was great. I was worried the sauce would be too bitter, but balanced with the pork and rice it was perfect. The pork didn't come out too dry, either. I kept the eggs at 7-minute boiled eggs, and only added the eggs to the sauce during the final 5 minutes to keep the creaminess. I just used plenty of sauce while eating them. This is going in my regular rotation.",
+          "datePublished": "2022-10-14T05:04:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KBK"
+          },
+          "reviewBody": "I made the caramel sauce in a skillet and found that it took way longer than what was suggested for each of the steps. Like ten-fifteen minutes longer! \n\nThe second time I made this I cheated and used Kecap Manis or Coconut caramel sauce in a bottle which cut the cooking time down a ton.",
+          "datePublished": "2022-06-11T22:24:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "YK"
+          },
+          "reviewBody": "Double the recipe. You can will want more!",
+          "datePublished": "2022-03-06T17:45:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "COS"
+          },
+          "reviewBody": "Made this recipe last night and it came out GREAT! My only comment would be NOT to add the hard boiled eggs to the pan before serving - this is just going to overcook the eggs. If you want creamy, buttery yolks (and you do). Boil your eggs for 6 minutes, cool under cold water, peel and set aside until ready to serve. \n\nAlso, definitely make the stir-fried greens (i used bok choy & broccoli rabe)",
+          "datePublished": "2021-02-07T13:58:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John"
+          },
+          "reviewBody": "I’m chuckling at the idea of swapping coconut milk for coconut water. It’s fine if you want to do it, but it will turn this into a completely different dish, making it even richer than it already is with the pork and eggs. If you don’t have coconut water, I suggest swapping regular water, or slightly sweetened water. That’s more like what a Vietnamese cook would do, and closer to coconut water than coconut milk.",
+          "datePublished": "2021-12-27T14:39:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martha"
+          },
+          "reviewBody": "I made this pretty much according to the recipe. The only thing I changed was instead of coconut water I used coconut milk. It was good the first night and amazing the second night. I think the double cooking (basically warming it up the second night) made the sauce incredible. Overall, very, very good.",
+          "datePublished": "2021-02-12T18:11:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stella"
+          },
+          "reviewBody": "Piggybacking off of john’s comment, except I’m not chuckling. Seeing people used coconut milk makes my eyeballs hurt. Fine if that’s what you want but as he stated, a completely different dish. And actually my mom has always used coconut soda (such as coco rico brand) which further tenderizes the pork. And as someone else mentioned, the egg yolks are NOT meant to be soft and jammy… the egg should soak up the flavors of the sauce. In fact, your whites should be brown once you’re done cooking.",
+          "datePublished": "2021-12-29T18:42:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lilly"
+          },
+          "reviewBody": "This is a pretty accurate a Vietnamese version done up in a pressure cooker. You should only use a fatty portion of the pig since you need the fat to provide the richness you need as well as to prevent the pork from tasting dry and tough when it’s finished. Eggs do indeed go in early in the cooking since it’s not about the runny egg yolks but all about it cooking in the sauce and soaking up the flavor. As for coconut milk, I would not use it as it would add too much fat and unctuousness.",
+          "datePublished": "2021-10-01T19:06:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kyle"
+          },
+          "reviewBody": "Very nice! Made this in an instant pot almost exactly as written, just a bit extra pork, and it came out great. Had to make a second batch of caramel sauce because the first ended up burnt/bitter (color is dependent on depth and not an absolute guide, so I recommend tasting to make sure it’s not burnt). Reduction step took a lot longer than 18min to get near a cup, and the estimated recipe time was a bit low overall.",
+          "datePublished": "2021-02-06T00:29:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melissa"
+          },
+          "reviewBody": "Here ya go: <a href=\"https://cooking.nytimes.com/recipes/1021833-thit-heo-kho-trung-pork-and-eggs-in-caramel-sauce\" target=\"_blank\">https://cooking.nytimes.com/recipes/1021833-thit-heo-kho-trung-pork-and-eggs-in-caramel-sauce</a>",
+          "datePublished": "2021-02-10T02:00:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "M. Finlay"
+          },
+          "reviewBody": "Like other reviewers, I used coconut milk, but just one cup, and one cup of coconut water. I also did not cook the hard boiled eggs in for the amount of time called for as I did not want them overcooked. Cooked just enough to glaze. This is an outstanding recipe. Served over jasmine rice infused with lime and coconut and braised baby bok choy. I will make it again!",
+          "datePublished": "2021-02-14T23:22:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michelle Nguyen"
+          },
+          "reviewBody": "My dad uses Cocorico too! I ended up subbing it in for the coconut water and it tasted just like how I remember.",
+          "datePublished": "2022-01-23T01:22:18.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021840-pressure-cooker-vietnamese-caramel-pork-and-eggs",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Andrea Nguyen"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "Called thit heo kho trung in Vietnamese, this rich combination of pork and eggs in bittersweet caramel sauce and coconut water is a must-have on many southern Vietnamese Tet menus, though people enjoy it as cozy year-round fare, too.&nbsp;It is typically made well in advance of Lunar New Year, so you’re free to relax when the holiday comes around. If you didn’t plan ahead to make it on the stovetop, follow this pressure cooker version to make the braise in a flash. Serve it with crunchy pickled bean sprout salad,&nbsp;stir-fried greens and steamed rice.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Pressure Cooker Vietnamese Caramel Pork and Eggs",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/4a863f1e-2cf3-50fd-a4e7-0e8b600a5880#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/03/dining/29Tetrex6/merlin_182848560_951f4e6c-402c-4255-86ab-9042ca6a4d9e-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich. Prop Stylist: Paige Hicks.",
+          "dateModified": "2021-01-29T23:01:52.857Z",
+          "datePublished": "2021-01-29T23:01:52.857Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-01-29T23:01:52.857Z",
+          "url": "https://static01.nyt.com/images/2021/02/03/dining/29Tetrex6/merlin_182848560_951f4e6c-402c-4255-86ab-9042ca6a4d9e-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/4a863f1e-2cf3-50fd-a4e7-0e8b600a5880#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/03/dining/29Tetrex6/merlin_182848560_951f4e6c-402c-4255-86ab-9042ca6a4d9e-superJumbo.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich. Prop Stylist: Paige Hicks.",
+          "dateModified": "2021-01-29T23:01:52.857Z",
+          "datePublished": "2021-01-29T23:01:52.857Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-01-29T23:01:52.857Z",
+          "url": "https://static01.nyt.com/images/2021/02/03/dining/29Tetrex6/merlin_182848560_951f4e6c-402c-4255-86ab-9042ca6a4d9e-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/4a863f1e-2cf3-50fd-a4e7-0e8b600a5880#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/03/dining/29Tetrex6/merlin_182848560_951f4e6c-402c-4255-86ab-9042ca6a4d9e-mediumSquareAt3X.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Rebecca Jurkevich. Prop Stylist: Paige Hicks.",
+          "dateModified": "2021-01-29T23:01:52.857Z",
+          "datePublished": "2021-01-29T23:01:52.857Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-01-29T23:01:52.857Z",
+          "url": "https://static01.nyt.com/images/2021/02/03/dining/29Tetrex6/merlin_182848560_951f4e6c-402c-4255-86ab-9042ca6a4d9e-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021840-pressure-cooker-vietnamese-caramel-pork-and-eggs"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:33:09.078Z",
+  "scraping_status": "scraped"
+}

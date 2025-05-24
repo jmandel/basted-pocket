@@ -1,0 +1,8 @@
+{
+  "id": "1378a22d04dda119",
+  "original_url": "https://httpbin.org/status/500",
+  "canonical_url": "https://httpbin.org/status/500",
+  "error": "HTTP 500: INTERNAL SERVER ERROR",
+  "scraping_timestamp": "2025-05-23T21:15:49.042Z",
+  "scraping_status": "error_scraping"
+}

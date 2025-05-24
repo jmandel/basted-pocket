@@ -1,0 +1,156 @@
+{
+  "id": "302b9106f0c63734",
+  "original_url": "https://food52.com/recipes/18672-julia-child-s-tian-de-courgettes-au-riz-zucchini-tian",
+  "canonical_url": "https://food52.com/recipes/18672-julia-child-s-tian-de-courgettes-au-riz-zucchini-tian",
+  "fetched_title": "Best Zucchini Tian Recipe - How to Make Julia Child&#39;s Tian de Courgettes au Riz",
+  "main_text_content": "You could simply warm zucchini shreds through with onions and garlic or simmer in cream–or cook it into this smart zucchini and rice tian recipe.",
+  "main_html_content": "<nav aria-label=\"breadcrumbs\" class=\"breadcrumbs\">\n  <ol>\n    <li><a href=\"https://food52.com/recipes\" data-ga-event=\"inPageInteraction\" data-ga-event-action=\"Breadcrumbs Tag\" data-ga-event-label=\"Recipes\" data-ga-destination-url=\"https://food52.com/recipes\">Recipes</a></li>\n      <li><a href=\"https://food52.com/recipes/side\" data-ga-event=\"inPageInteraction\" data-ga-event-action=\"Breadcrumbs Tag\" data-ga-event-label=\"Side\" data-ga-destination-url=\"https://food52.com/recipes/side\" aria-current=\"location\">Side</a></li>\n  </ol>\n</nav>\n\n<header class=\"recipe__header\">\n  <h3 class=\"recipe__icon-br\">\n      <a href=\"https://food52.com/recipes/make-ahead\" class=\"tag\" data-ga-event=\"inPageInteraction\" data-ga-event-action=\"Lead Tag\" data-ga-event-label=\"Make Ahead\" data-ga-destination-url=\"https://food52.com/recipes/make-ahead\">\n        Make Ahead\n      </a>\n  </h3>\n\n  <h1 class=\"recipe__title\">\n    Julia Child's Tian de Courgettes au Riz (Zucchini Tian)\n  </h1>\n\n  <div class=\"meta\">\n      <div class=\"meta__author\">\n        <span>by:</span>\n        <a href=\"https://food52.com/users/31034-genius-recipes/recipes\" class=\"meta__caps\" rel=\"author\" data-ga-event=\"inPageInteraction\" data-ga-event-action=\"Author Name Click\" data-ga-event-label=\"meta__author\" data-ga-destination-url=\"https://food52.com/users/31034-genius-recipes/recipes\">Genius Recipes</a>",
+  "key_image_url": "https://images.food52.com/u-x8oPeL52qzKW4Zzy2TnSkdG3w=/fit-in/1200x1200/ce67d42d-037e-4a86-a9c7-75aa30fff2b1--z13.jpg",
+  "local_image_path": "scraped/302b9106f0c63734/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "mainEntityOfPage": "https://food52.com/recipes/18672-julia-child-s-tian-de-courgettes-au-riz-zucchini-tian",
+      "name": "Julia Child&#39;s Tian de Courgettes au Riz (Zucchini Tian)",
+      "image": [
+        "https://images.food52.com/xBQpd4c4LQAdYcI20CNCF5-BNvY=/1200x1200/ce67d42d-037e-4a86-a9c7-75aa30fff2b1--z13.jpg",
+        "https://images.food52.com/SBLsCzVVCGAEnsQUVNTMynjeQM0=/1200x900/ce67d42d-037e-4a86-a9c7-75aa30fff2b1--z13.jpg",
+        "https://images.food52.com/c6L1lqZxYliuqjLZr8J78U7yVrE=/1200x675/ce67d42d-037e-4a86-a9c7-75aa30fff2b1--z13.jpg"
+      ],
+      "recipeCategory": "Side",
+      "recipeCuisine": "French",
+      "author": {
+        "@type": "Person",
+        "name": "Genius Recipes",
+        "url": "https://food52.com/users/31034-genius-recipes"
+      },
+      "dateModified": "2021-06-29 01:47:07 -0400",
+      "datePublished": "2012-08-14 17:29:49 -0400",
+      "description": "You could simply warm zucchini shreds through with onions and garlic or simmer in cream–or cook it into this smart zucchini and rice tian recipe.",
+      "recipeYield": "Serves 6",
+      "prepTime": "PT0H25M",
+      "cookTime": "PT1H10M",
+      "totalTime": "PT1H35M",
+      "recipeInstructions": [
+        {
+          "@type": "HowToSection",
+          "name": "Courgettes Rapées (Grated and Salted Zucchini)",
+          "itemListElement": [
+            {
+              "@type": "HowToStep",
+              "name": "Shave the stem and the tip off each zucchini (or other summer squash), scrub the vegetable thoroughly but not harshly with a brush under cold running water to remove any clinging sand or dirt. ",
+              "text": "Shave the stem and the tip off each zucchini (or other summer squash), scrub the vegetable thoroughly but not harshly with a brush under cold running water to remove any clinging sand or dirt. "
+            },
+            {
+              "@type": "HowToStep",
+              "name": "If vegetables are large, halve or quarter them. If seeds are large and at all tough, and surrounding flesh is coarse rather than moist and crisp, which is more often the case with yellow squashes and striped green cocozelles than with zucchini, cut out and discard the cores. ",
+              "text": "If vegetables are large, halve or quarter them. If seeds are large and at all tough, and surrounding flesh is coarse rather than moist and crisp, which is more often the case with yellow squashes and striped green cocozelles than with zucchini, cut out and discard the cores. "
+            },
+            {
+              "@type": "HowToStep",
+              "name": "Rub the squash against the coarse side of a grater, and place grated flesh in a colander set over a bowl. ",
+              "text": "Rub the squash against the coarse side of a grater, and place grated flesh in a colander set over a bowl. "
+            },
+            {
+              "@type": "HowToStep",
+              "name": "For each 1 pound (2 cups) of grated squash, toss with 1 teaspoon of salt, mixing thoroughly. Let the squash drain 3 or 4 minutes, or until you are ready to proceed.",
+              "text": "For each 1 pound (2 cups) of grated squash, toss with 1 teaspoon of salt, mixing thoroughly. Let the squash drain 3 or 4 minutes, or until you are ready to proceed."
+            },
+            {
+              "@type": "HowToStep",
+              "name": "Just before cooking, squeeze a handful dry and taste. If by any chance the squash is too salty, rinse in a large bowl of cold water, taste again; rinse and drain again if necessary. Then squeeze gently by handfuls, letting juices run back into bowl. Dry on paper towels. Zucchini will not be fluffy; it is still dampish, but the excess liquid is out.\r\n\r\nThe pale-green, slightly saline juice drained and squeezed out of the zucchini has a certain faint flavor that can find its uses in vegetable soups, canned soups, or vegetable sauces.",
+              "text": "Just before cooking, squeeze a handful dry and taste. If by any chance the squash is too salty, rinse in a large bowl of cold water, taste again; rinse and drain again if necessary. Then squeeze gently by handfuls, letting juices run back into bowl. Dry on paper towels. Zucchini will not be fluffy; it is still dampish, but the excess liquid is out.\r\n\r\nThe pale-green, slightly saline juice drained and squeezed out of the zucchini has a certain faint flavor that can find its uses in vegetable soups, canned soups, or vegetable sauces."
+            }
+          ]
+        },
+        {
+          "@type": "HowToSection",
+          "name": "Tian de Courgettes au Riz [Gratin of Zucchini, Rice, and Onions with Cheese]",
+          "itemListElement": [
+            {
+              "@type": "HowToStep",
+              "name": "While the shredded zucchini is draining (reserve the juices,) drop the rice into boiling salted water, bring rapidly back to the boil, and boil exactly 5 minutes; drain and set aside.",
+              "text": "While the shredded zucchini is draining (reserve the juices,) drop the rice into boiling salted water, bring rapidly back to the boil, and boil exactly 5 minutes; drain and set aside."
+            },
+            {
+              "@type": "HowToStep",
+              "name": "In a large (11-inch) frying pan, cook the onions slowly in the oil for 8 to 10 minutes until tender and translucent. Raise heat slightly and stir several minutes until very lightly browned. ",
+              "text": "In a large (11-inch) frying pan, cook the onions slowly in the oil for 8 to 10 minutes until tender and translucent. Raise heat slightly and stir several minutes until very lightly browned. "
+            },
+            {
+              "@type": "HowToStep",
+              "name": "Stir in the grated and dried zucchini and garlic. Toss and turn for 5 to 6 minutes until the zucchini is almost tender.",
+              "text": "Stir in the grated and dried zucchini and garlic. Toss and turn for 5 to 6 minutes until the zucchini is almost tender."
+            },
+            {
+              "@type": "HowToStep",
+              "name": "Sprinkle in the flour, stir over moderate heat for 2 minutes, and remove from heat. ",
+              "text": "Sprinkle in the flour, stir over moderate heat for 2 minutes, and remove from heat. "
+            },
+            {
+              "@type": "HowToStep",
+              "name": "Gradually stir in the 2 1/2 cups warm liquid (zucchini juices plus milk, heated gently in a pan -- don't let it get so hot that the milk curdles!). Make sure the flour is well blended and smooth.",
+              "text": "Gradually stir in the 2 1/2 cups warm liquid (zucchini juices plus milk, heated gently in a pan -- don't let it get so hot that the milk curdles!). Make sure the flour is well blended and smooth."
+            },
+            {
+              "@type": "HowToStep",
+              "name": "Return over moderately high heat and bring to the simmer, stirring. Remove from the heat again, stir in the blanched rice and all but 2 tablespoons of the cheese. Taste very carefully for seasoning. Turn into a heavily buttered 6- to 8-cup, flameproof baking and serving dish about 1 1/2 inches deep, strew remaining cheese on top, and dribble the olive oil over the cheese.",
+              "text": "Return over moderately high heat and bring to the simmer, stirring. Remove from the heat again, stir in the blanched rice and all but 2 tablespoons of the cheese. Taste very carefully for seasoning. Turn into a heavily buttered 6- to 8-cup, flameproof baking and serving dish about 1 1/2 inches deep, strew remaining cheese on top, and dribble the olive oil over the cheese."
+            },
+            {
+              "@type": "HowToStep",
+              "name": "About half an hour before serving, bring to simmer on top of stove (you can skip this step if your baking dish isn't flameproof), then set in upper third of a preheated 425-degree F oven until tian is bubbling and top has browned nicely. The rice should absorb all the liquid. ",
+              "text": "About half an hour before serving, bring to simmer on top of stove (you can skip this step if your baking dish isn't flameproof), then set in upper third of a preheated 425-degree F oven until tian is bubbling and top has browned nicely. The rice should absorb all the liquid. "
+            }
+          ]
+        }
+      ],
+      "recipeIngredient": [
+        "2 pounds zucchini (up to 2 1/2 pounds)",
+        "1/2 cup plain, raw, untreated white rice",
+        "1 cup minced onions",
+        "3 tablespoons olive oil (up to 4 tablespoons)",
+        "2  large cloves garlic, mashed or finely minced",
+        "2 tablespoons flour",
+        "2 1/2 cups warm liquid: zucchini juices plus milk, heated in a pan (watch this closely so that it doesn\\'t curdle)",
+        "2/3 cup grated Parmesan cheese (save 2 tablespoons for later)",
+        "1 pinch Salt and pepper",
+        "2 tablespoons olive oil"
+      ],
+      "commentCount": 90,
+      "aggregateRating": {
+        "ratingCount": "25",
+        "ratingValue": "4.6"
+      },
+      "video": {
+        "@type": "VideoObject",
+        "name": "Julia Child&#39;s Tian de Courgettes au Riz (Zucchini Tian)",
+        "description": "You could simply warm zucchini shreds through with onions and garlic or simmer in cream–or cook it into this smart zucchini and rice tian recipe.",
+        "thumbnailUrl": [
+          "https://images.food52.com/xBQpd4c4LQAdYcI20CNCF5-BNvY=/1200x1200/ce67d42d-037e-4a86-a9c7-75aa30fff2b1--z13.jpg",
+          "https://images.food52.com/SBLsCzVVCGAEnsQUVNTMynjeQM0=/1200x900/ce67d42d-037e-4a86-a9c7-75aa30fff2b1--z13.jpg",
+          "https://images.food52.com/c6L1lqZxYliuqjLZr8J78U7yVrE=/1200x675/ce67d42d-037e-4a86-a9c7-75aa30fff2b1--z13.jpg"
+        ],
+        "contentUrl": "https://cdn.jwplayer.com/videos/.mp4",
+        "uploadDate": "2012-08-14 17:29:49 -0400"
+      },
+      "keywords": "Make Ahead, Serves a Crowd, Summer, Zucchini, Vegetable, Vegetarian, Milk/Cream",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Food52",
+        "logo": "https://food52.com/assets/logo-food52.png",
+        "url": "https://food52.com/",
+        "sameAs": [
+          "https://www.facebook.com/food52",
+          "https://www.instagram.com/Food52/",
+          "https://twitter.com/Food52",
+          "https://www.pinterest.com/food52/",
+          "https://www.youtube.com/channel/UCfFI8jIjvIApUACJ3qjax2w"
+        ]
+      }
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:31:45.379Z",
+  "scraping_status": "scraped"
+}

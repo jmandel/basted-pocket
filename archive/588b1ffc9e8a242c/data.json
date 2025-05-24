@@ -1,0 +1,116 @@
+{
+  "id": "588b1ffc9e8a242c",
+  "original_url": "https://food52.com/recipes/63237-koupa-pie",
+  "canonical_url": "https://food52.com/recipes/63237-koupa-pie",
+  "fetched_title": "Koupa Pie Recipe on Food52",
+  "main_text_content": "A healthier take on the traditional Cypriot “koupa” – very easy to prepare and requires no deep frying! ",
+  "main_html_content": "<nav aria-label=\"breadcrumbs\" class=\"breadcrumbs\">\n  <ol>\n    <li><a href=\"https://food52.com/recipes\" data-ga-event=\"inPageInteraction\" data-ga-event-action=\"Breadcrumbs Tag\" data-ga-event-label=\"Recipes\" data-ga-destination-url=\"https://food52.com/recipes\">Recipes</a></li>\n      <li><a href=\"https://food52.com/recipes/entree\" data-ga-event=\"inPageInteraction\" data-ga-event-action=\"Breadcrumbs Tag\" data-ga-event-label=\"Entree\" data-ga-destination-url=\"https://food52.com/recipes/entree\" >Entree</a></li>\n      <li><a href=\"https://food52.com/recipes/pie\" data-ga-event=\"inPageInteraction\" data-ga-event-action=\"Breadcrumbs Tag\" data-ga-event-label=\"Pie\" data-ga-destination-url=\"https://food52.com/recipes/pie\" aria-current=\"location\">Pie</a></li>\n  </ol>\n</nav>\n\n<header class=\"recipe__header\">\n  <h3 class=\"recipe__icon-br\">\n      <a href=\"https://food52.com/recipes/beef\" class=\"tag\" data-ga-event=\"inPageInteraction\" data-ga-event-action=\"Lead Tag\" data-ga-event-label=\"Beef\" data-ga-destination-url=\"https://food52.com/recipes/beef\">\n        Beef\n      </a>\n  </h3>\n\n  <h1 class=\"recipe__title\">\n    Koupa Pie\n  </h1>\n\n  <div class=\"meta\">\n      <div class=\"meta__author\">\n        <span>by:</span>\n        <a href=\"https://food52.com/users/1065375-angelina-papanikolaou/recipes\" class=\"meta__caps\" rel=\"author\" data-ga-event=\"inPageInteraction\" data-ga-event-action=\"Author Name Click\" data-ga-event-label=\"meta__author\" data-ga-destination-url=\"https://food52.com/users/1065375-angelina-papanikolaou/recipes\">Angelina Papanikolaou</a>",
+  "key_image_url": "https://images.food52.com/z4w7DgEOlXRqscDSCoOqkIqVTUQ=/fit-in/1200x1200/44b315f5-a404-4bfe-9248-9bd3d57fbcba--Koupa-Pie.jpg",
+  "local_image_path": "scraped/588b1ffc9e8a242c/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org/",
+      "@type": "Recipe",
+      "mainEntityOfPage": "https://food52.com/recipes/63237-koupa-pie",
+      "name": "Koupa Pie",
+      "image": [
+        "https://images.food52.com/7ReNeBV3C5SQFrD-rZfmkdwLmU4=/1200x1200/44b315f5-a404-4bfe-9248-9bd3d57fbcba--Koupa-Pie.jpg",
+        "https://images.food52.com/LTA6962zYgj7Fg_-Y5ZjzqJ6LRE=/1200x900/44b315f5-a404-4bfe-9248-9bd3d57fbcba--Koupa-Pie.jpg",
+        "https://images.food52.com/ZQxqmmtVdTdOGeFsNdxttxpccdo=/1200x675/44b315f5-a404-4bfe-9248-9bd3d57fbcba--Koupa-Pie.jpg"
+      ],
+      "recipeCategory": "Entree",
+      "recipeCuisine": "",
+      "author": {
+        "@type": "Person",
+        "name": "Angelina Papanikolaou",
+        "url": "https://food52.com/users/1065375-angelina-papanikolaou"
+      },
+      "dateModified": "2020-07-20 11:26:05 -0400",
+      "datePublished": "2016-09-21 22:02:54 -0400",
+      "description": "A healthier take on the traditional Cypriot “koupa” – very easy to prepare and requires no deep frying! ",
+      "recipeYield": "Serves 12",
+      "prepTime": "",
+      "cookTime": "",
+      "totalTime": "",
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "name": "In a large mixing bowl, combine bulgur, flour, olive oil, and boiling water. Cover and let bulgur soak up water for 1 hour. Uncover add beaten egg and knead until well combined.\r\n",
+          "text": "In a large mixing bowl, combine bulgur, flour, olive oil, and boiling water. Cover and let bulgur soak up water for 1 hour. Uncover add beaten egg and knead until well combined.\r\n"
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Preheat oven to 350°F.\r\n",
+          "text": "Preheat oven to 350°F.\r\n"
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Heat up olive oil in skillet over medium heat. Add meat and chopped onion. Saute until meat is cooked and onions are translucent. Add cinnamon, salt, and pepper. Add water and bring to a boil. Continue cooking for an additional minute, then remove from heat. Stir in chopped parsley.\r\n",
+          "text": "Heat up olive oil in skillet over medium heat. Add meat and chopped onion. Saute until meat is cooked and onions are translucent. Add cinnamon, salt, and pepper. Add water and bring to a boil. Continue cooking for an additional minute, then remove from heat. Stir in chopped parsley.\r\n"
+        },
+        {
+          "@type": "HowToStep",
+          "name": "To assemble the pie, lightly coat a 10-in round pan with olive oil. Add half of the bulgur mixture and press down into pan. Add filling, spreading it evenly over crust.\r\n",
+          "text": "To assemble the pie, lightly coat a 10-in round pan with olive oil. Add half of the bulgur mixture and press down into pan. Add filling, spreading it evenly over crust.\r\n"
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Top the filling with the remaining bulgur, pressing down to make sure the crust is compact.\r\n",
+          "text": "Top the filling with the remaining bulgur, pressing down to make sure the crust is compact.\r\n"
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Optional: With a sharp knife, make diamonds on top crust, cutting only ¼ of the way through.\r\n",
+          "text": "Optional: With a sharp knife, make diamonds on top crust, cutting only ¼ of the way through.\r\n"
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Lightly brush top of pie with olive oil and place in oven. Bake 50 minutes, or until the top has developed a golden color.\r\n",
+          "text": "Lightly brush top of pie with olive oil and place in oven. Bake 50 minutes, or until the top has developed a golden color.\r\n"
+        },
+        {
+          "@type": "HowToStep",
+          "name": "Remove from oven and let cool 15 minutes before serving with lemon wedges.",
+          "text": "Remove from oven and let cool 15 minutes before serving with lemon wedges."
+        }
+      ],
+      "recipeIngredient": [
+        "3 cups fine bulgur",
+        "1/2 cup whole wheat flour",
+        "3 tablespoons olive oil",
+        "3 cups boiling water",
+        "1 teaspoon salt",
+        "1  egg, lightly beaten",
+        "1 pound ground meat (pork, turkey, beef, chicken)",
+        "1 tablespoon olive oil",
+        "1  onion, chopped",
+        "1/2 teaspoon cinnamon",
+        " salt and pepper",
+        "1 cup parsley, chopped",
+        "1/4 cup water",
+        " lemon wedges for serving"
+      ],
+      "commentCount": 2,
+      "aggregateRating": {
+        "ratingCount": "10",
+        "ratingValue": "4.4"
+      },
+      "keywords": "Beef, Grains, Pie, Bulgur, Parsley",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Food52",
+        "logo": "https://food52.com/assets/logo-food52.png",
+        "url": "https://food52.com/",
+        "sameAs": [
+          "https://www.facebook.com/food52",
+          "https://www.instagram.com/Food52/",
+          "https://twitter.com/Food52",
+          "https://www.pinterest.com/food52/",
+          "https://www.youtube.com/channel/UCfFI8jIjvIApUACJ3qjax2w"
+        ]
+      }
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:36:51.260Z",
+  "scraping_status": "scraped"
+}

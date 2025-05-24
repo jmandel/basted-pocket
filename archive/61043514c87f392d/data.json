@@ -1,0 +1,566 @@
+{
+  "id": "61043514c87f392d",
+  "original_url": "https://cooking.nytimes.com/recipes/1022669-french-onion-stuffing",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1022669-french-onion-stuffing",
+  "fetched_title": "French Onion Stuffing Recipe",
+  "main_text_content": "Golden caramelized onions and mushrooms are the building blocks of this vegetarian stuffing inspired by French onion soup The onions take some time to cook, but the meltingly tender result brings rich sweetness to the dish Mushrooms are added for their texture, and mushroom broth reinforces the stuffing with more depth",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1024793-sausage-and-leek-stuffing\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2023/11/10/multimedia/10menurex1-stuffing-kqvm/10menurex1-stuffing-kqvm-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2023/11/10/multimedia/10menurex1-stuffing-kqvm/10menurex1-stuffing-kqvm-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2023/11/10/multimedia/10menurex1-stuffing-kqvm/10menurex1-stuffing-kqvm-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2023/11/10/multimedia/10menurex1-stuffing-kqvm/10menurex1-stuffing-kqvm-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2023/11/10/multimedia/10menurex1-stuffing-kqvm/10menurex1-stuffing-kqvm-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2023/11/10/multimedia/10menurex1-stuffing-kqvm/10menurex1-stuffing-kqvm-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2023/11/10/multimedia/10menurex1-stuffing-kqvm/10menurex1-stuffing-kqvm-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2023/11/10/multimedia/10menurex1-stuffing-kqvm/10menurex1-stuffing-kqvm-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Sausage and Leek Stuffing</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Claire Saffitz</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/11/14/dining/14sidesgiving-onionstuffing/merlin_196269432_d8bb443c-200a-4a60-9b9d-2f872891e02d-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/61043514c87f392d/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/dba4361c-8134-5965-959d-5d8254a06f3a",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1022669-french-onion-stuffing",
+        "@type": "WebPage",
+        "name": "French Onion Stuffing"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022669-french-onion-stuffing",
+      "name": "French Onion Stuffing",
+      "description": "Golden caramelized onions and mushrooms are the building blocks of this vegetarian stuffing inspired by French onion soup. The onions take some time to cook, but the meltingly tender result brings rich sweetness to the dish. Mushrooms are added for their texture, and mushroom broth reinforces the stuffing with more depth. An initial steam helps soften the big mound of raw onions to make caramelizing them easier and faster. The onions can be cooked the day before (through Step 3) and refrigerated, then rewarmed before using.",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/ddb601fd-0986-5a36-a12d-e5f360c573b5#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/11/14/dining/14sidesgiving-onionstuffing/merlin_196269432_d8bb443c-200a-4a60-9b9d-2f872891e02d-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist:Simon Andrews. Prop Stylist: Christina Lane.",
+          "dateModified": "2021-11-12T14:17:28.360Z",
+          "datePublished": "2021-11-08T17:26:39.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-08T17:26:39.000Z",
+          "url": "https://static01.nyt.com/images/2021/11/14/dining/14sidesgiving-onionstuffing/merlin_196269432_d8bb443c-200a-4a60-9b9d-2f872891e02d-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ddb601fd-0986-5a36-a12d-e5f360c573b5#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/11/14/dining/14sidesgiving-onionstuffing/merlin_196269432_d8bb443c-200a-4a60-9b9d-2f872891e02d-superJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist:Simon Andrews. Prop Stylist: Christina Lane.",
+          "dateModified": "2021-11-12T14:17:28.360Z",
+          "datePublished": "2021-11-08T17:26:39.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-08T17:26:39.000Z",
+          "url": "https://static01.nyt.com/images/2021/11/14/dining/14sidesgiving-onionstuffing/merlin_196269432_d8bb443c-200a-4a60-9b9d-2f872891e02d-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/ddb601fd-0986-5a36-a12d-e5f360c573b5#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/11/14/dining/14sidesgiving-onionstuffing/14sidesgiving-onionstuffing--mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist:Simon Andrews. Prop Stylist: Christina Lane.",
+          "dateModified": "2021-11-12T14:17:28.360Z",
+          "datePublished": "2021-11-08T17:26:39.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-08T17:26:39.000Z",
+          "url": "https://static01.nyt.com/images/2021/11/14/dining/14sidesgiving-onionstuffing/14sidesgiving-onionstuffing--mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT1H45M",
+      "recipeYield": "6 to 8 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, stuffing and dressing, side dish",
+      "keywords": "thanksgiving, white mushroom, yellow onion",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 568
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 495,
+        "unsaturatedFatContent": "13 grams",
+        "carbohydrateContent": "60 grams",
+        "cholesterolContent": null,
+        "fatContent": "23 grams",
+        "fiberContent": "9 grams",
+        "proteinContent": "13 grams",
+        "saturatedFatContent": "9 grams",
+        "sodiumContent": "1287 milligrams",
+        "sugarContent": "18 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 (1-pound) country bread loaf, cut into 1- to 1½-inch pieces",
+        "8 tablespoons unsalted butter, plus more for greasing the pan",
+        "4 tablespoons neutral oil, such as safflower or canola oil",
+        "2 cups finely chopped celery (from about 4 ribs)",
+        "5 garlic cloves, minced",
+        "4 ounces whole white mushrooms, finely chopped (1 1/4 cups)",
+        "Salt and black pepper",
+        "2 tablespoons fresh thyme leaves, plus 1 thyme sprig",
+        "4 pounds yellow onions, halved and thinly sliced (16 packed cups)",
+        "1/4 cup dry white wine",
+        "3 cups mushroom broth",
+        "3 large eggs, beaten",
+        "Chopped chives, for garnish"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 350 degrees. Spread bread on a rimmed baking sheet, and bake until very dry and light golden, about 15 minutes. Remove bread and increase oven temperature to 425 degrees. Grease a 9-by-13-inch baking dish with butter."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, in a large pot with a lid, heat 2 tablespoons oil over medium. Add celery and cook, stirring occasionally, until softened, 5 minutes. Stir in garlic until fragrant, 30 seconds. Add mushrooms, season with salt and pepper, and cook, stirring occasionally, until mushrooms are tender and mixture is dry, about 5 minutes. Stir in thyme leaves and transfer mixture to a large bowl."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In the same pot, add the remaining 2 tablespoons oil and melt 6 tablespoons of the butter over medium. Add onions and thyme sprig, season with salt and pepper, and stir to evenly coat in the oil and butter. Cover and cook, stirring after 5 minutes, until onions soften and reduce in volume, about 10 minutes. Increase heat to medium-high and cook uncovered, stirring frequently to scrape up browned bits, until onions are very soft and deep golden, about 25 minutes. Reserve 1 cup of the onions in a small bowl."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add wine to pot and stir until all of the liquid is absorbed, about 1 minute. Add broth and bring to a boil over high. Reduce heat to medium and simmer for 5 minutes to allow flavors to meld; discard the thyme sprig. Remove from the heat."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add eggs to the mushroom mixture in the large bowl and mix well. Add the bread, then pour over the onion mixture. Season with salt and pepper, and gently toss until well combined. Transfer to the prepared baking dish. Top with the reserved onions and dot with the remaining 2 tablespoons butter."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Cover tightly with foil and bake until stuffing is hot throughout, 30 minutes. Uncover and continue to bake until crisp in spots, about 15 minutes longer. Garnish with chives and serve warm."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-11-14T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mjo"
+          },
+          "reviewBody": "Used a very good mixed grain gluten free bread, which tasted great as bread or toast, but ruined the flavor and texture of the onions.  Not much was eaten, and I threw out the leftovers.  I will probably try again as a half precise and real bread.",
+          "datePublished": "2024-12-08T18:55:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dana"
+          },
+          "reviewBody": "Not worth all the effort it took to prepare, including slicing 4 pounds of onions. It turned out kind of mushy.",
+          "datePublished": "2024-11-30T06:32:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bay Area home cook"
+          },
+          "reviewBody": "Truly delicious made as written\n\nFor decades I have made the Silver Palate stuffing recipe. This year we wanted to simplify. This is sophisticated yet not complicated, and would be great with a roast beef",
+          "datePublished": "2024-11-29T20:06:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lauren"
+          },
+          "reviewBody": "This is our new Thanksgiving staple. Make the caramelized onions the week before & freeze; thaw them the night before Thanksgiving.",
+          "datePublished": "2023-11-29T13:08:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "reviewBody": "I cooked this for Thanksgiving to go with smoked turkey.  I prepared the onions on Wednesday night and put them in the slow cooker for 12 hours -- perfect. I live in a remote area and there was no mushroom broth to be had; it was too late for Amazon and making my own.  So, for my Thanksgiving stuffing, I used \"Imagine\" Portobello soup.  The result was absolutely delicious, and a hit with the crowd.",
+          "datePublished": "2023-11-25T14:46:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "rv"
+          },
+          "reviewBody": "This was way too much work for very little return. In my opinion, I should have stopped after combining the caramelized onions and mushroom broth.  The final product maybe one of the most unappetizing looking dishes that I have ever made.  It was just one plate of mushroom colored brown lumps. I am quite a good cook but this was not my favorite dishes and with the amount of effort that I spent on it I was not impressed. The proof was clear when it was hardly touched at Thanksgiving.",
+          "datePublished": "2023-11-24T18:14:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gwyn"
+          },
+          "reviewBody": "Leftover broth w leftover stuffing make for a nice soup. Grate Gruyere over the the top and broil to melt cheese.",
+          "datePublished": "2022-11-28T23:41:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "This stuffing was great! It did take longer than 25 min to caramelize the onions though.  Made it for Thanksgiving and it was a hit!",
+          "datePublished": "2022-11-27T19:12:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katie"
+          },
+          "reviewBody": "The stuffing was okay but it took a ton of work.",
+          "datePublished": "2022-11-26T13:00:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robin"
+          },
+          "reviewBody": "This is stuffing meets French onion soup.  I would add more mushrooms and decrease the onions - bc wow that was that a profane amount of onions! The end product is excellent but it’s very labor and time intensive for a side dish.",
+          "datePublished": "2022-11-20T14:51:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Manu"
+          },
+          "reviewBody": "Works very well as a gluten free recipe. I used Mountain white gf bread from Canyon Bakery.",
+          "datePublished": "2022-01-25T20:05:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sonja"
+          },
+          "reviewBody": "We made this for Thanksgiving, and it was a hit! Even better using a homemade bread loaf, if you have the time :)",
+          "datePublished": "2021-12-11T22:26:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathi, Monterey CA"
+          },
+          "reviewBody": "This should have been delicious, given the ingredients.  Sadly, it was so heavy with the country bread that no one at my table ate it. I used vegetable broth instead of mushroom broth, but I don't think that made the difference.",
+          "datePublished": "2021-12-01T15:26:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jaylopez"
+          },
+          "reviewBody": "I made this but modified it to 10 onions and a loaf of Franz gluten free bread. It was the hit of thanksgiving! I barely noticed it was gluten free and I eat gluten on the daily",
+          "datePublished": "2021-11-29T21:34:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jaylopez"
+          },
+          "reviewBody": "I made this but modified it to 10 onions and a loaf of Franz gluten free bread. It was the hit of thanksgiving! I barely noticed it was gluten free and I eat gluten on the daily\nI also cooked it uncovered and it was still on the moist side! My guests didn't notice but I thought it wa the slightest bit soggy. Thankfully not following directions well helped me here because I don't think I would have liked it any more moist. Cook uncovered for sure!",
+          "datePublished": "2021-11-29T21:36:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "In his lovely recipe for Vegan Mapo Tofu, David Tanis describes making a light mushroom broth by simmering shiitake stems with water. I now freeze the stems when I cook shiitakes, to have them on hand for a quick mushroom broth as needed. \n\n<a href=\"https://cooking.nytimes.com/recipes/1017358-vegan-mapo-tofu\" target=\"_blank\">https://cooking.nytimes.com/recipes/1017358-vegan-mapo-tofu</a>\n\nSlightly more complex versions of mushroom broth:\n\n<a href=\"https://cooking.nytimes.com/recipes/1017137-mark-bittmans-mushroom-stock\" target=\"_blank\">https://cooking.nytimes.com/recipes/1017137-mark-bittmans-mushroom-stock</a>\n\n<a href=\"https://cooking.nytimes.com/recipes/6641-mushroom-broth\" target=\"_blank\">https://cooking.nytimes.com/recipes/6641-mushroom-broth</a>",
+          "datePublished": "2021-11-09T15:05:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lena"
+          },
+          "reviewBody": "“Better Than Bouillon” makes a decent mushroom base if you don’t want to make from scratch. I keep all their flavors in my fridge. Some have organic and low sodium options.",
+          "datePublished": "2021-11-12T19:03:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AF"
+          },
+          "reviewBody": "My mom's poodle ate the entire country bread loaf I bought yesterday, and then when I went to the store to replace it they were sold out. I ended up buying a garlic loaf and omitting the garlic in the recipe. When I tried to add the (dried) thyme I accidentally poured in 3/4 of the jar. Also, we drank the only 2 bottles of white wine in the house last night and I forgot to save 1/4 a cup so I subbed w/ cooking sherry. Cooked for 15 min longer than recipe calls for. All in all very tasty.",
+          "datePublished": "2021-11-25T21:47:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue B"
+          },
+          "reviewBody": "This will definitely become my Thanksgiving standby.  Just delicious.  If you want to save some time, you can always throw the thinly sliced onions into a slow cooker with a couple tablespoons of butter.  Let it cook on low for 10-12 hours, and you will have beautifully caramelized onions.  Drain off the liquids to add to your mushroom broth.",
+          "datePublished": "2021-11-26T16:07:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PF"
+          },
+          "reviewBody": "various brands of mushroom broth powder is available on Amazon. it's a great umami booster with all sort of applications.",
+          "datePublished": "2021-11-09T15:03:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Edsel"
+          },
+          "reviewBody": "Delicious, but don't wait to make this on Thanksgiving day: no one wants to be babysitting a potful of caramelizing onions while tending to everything else on the day. I made the full recipe but divided it in half between two 8\" square baking pans: baked one to have with a roast chicken today, and froze the other for an easy side dish on Thanksgiving.",
+          "datePublished": "2021-11-14T23:38:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "allison"
+          },
+          "reviewBody": "To make ahead should I cook the freeze or make day before and put in oven when ready to serve",
+          "datePublished": "2021-11-13T17:37:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Luther"
+          },
+          "reviewBody": "This is amazing. Dressing is most always a battle at Thanksgiving. So we now have two kinds. Tried this one in advance. First, time is way off, but those of us familiar with NYT's recipe know that. Used Better Than Bouillon mushroom base. Everything else by recipe. Onions were awesome. Dressing, after coming out of the oven, is an eye rolling back into the head experience. Cooled it completely, cut into squares, vacuumed sealed it and into the freezer for Thanksgiving. Thanks so much Ms. Chun.",
+          "datePublished": "2021-11-21T13:16:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jojo"
+          },
+          "reviewBody": "i am sure chicken or vegetable broth would work just fine, too",
+          "datePublished": "2021-11-12T16:59:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mchumel"
+          },
+          "reviewBody": "Followed the recipe to a T.  In a word, it was monoflavored. The bread infused caramelized onions were all you tasted.  I cried because I used four pounds of my precious homegrown onions.  To salvage the situation, I  deconstructed the leftovers with a pound of sausage with chopped sage and fennel seed  -- with a small pinch of crushed red pepper.  Stirred it all up  and put under the broiler in a 8 X 10 pan for 10 minutes and voila!  Tasted like my idea of dressing is supposed to taste like.",
+          "datePublished": "2021-11-26T22:22:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LR"
+          },
+          "reviewBody": "Has anyone made this without the eggs? I’m sure it works and I’m trying to make a vegan stuffing. The eggs are just there to add a more bread pudding type texture, is that correct? Any other suggestions for substitutions?",
+          "datePublished": "2021-11-12T22:17:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mk"
+          },
+          "reviewBody": "Grate some comte over it, and you’ve got a main course.",
+          "datePublished": "2021-11-13T18:16:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "This is quite similar to a wild mushroom stuffing on epicurious that I’ve made for years since it’s always requested. <a href=\"https://www.epicurious.com/recipes/food/views/leek-and-wild-mushroom-stuffing-107292\" target=\"_blank\">https://www.epicurious.com/recipes/food/views/leek-and-wild-mushroom-stuffing-107292</a>\nI’m sure it’s delicious as well - cheaper to make given the ingredients. Maybe I’ll meld them!",
+          "datePublished": "2021-11-14T14:02:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "rv"
+          },
+          "reviewBody": "This was way too much work for very little return. In my opinion, I should have stopped after combining the caramelized onions and mushroom broth.  The final product maybe one of the most unappetizing looking dishes that I have ever made.  It was just one plate of mushroom colored brown lumps. I am quite a good cook but this was not my favorite dishes and with the amount of effort that I spent on it I was not impressed. The proof was clear when it was hardly touched at Thanksgiving.",
+          "datePublished": "2023-11-24T18:14:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lakelady"
+          },
+          "reviewBody": "Delicious, how can it not be with caramelized onions. Good new technique for cooking them. Forgive me, I used turkey stock instead of mushroom broth!",
+          "datePublished": "2021-11-26T18:46:37.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1022669-french-onion-stuffing",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "Golden caramelized onions and mushrooms are the building blocks of this vegetarian stuffing inspired by French onion soup. The onions take some time to cook, but the meltingly tender result brings rich sweetness to the dish. Mushrooms are added for their texture, and mushroom broth reinforces the stuffing with more depth. An initial steam helps soften the big mound of raw onions to make caramelizing them easier and faster. The onions can be cooked the day before (through Step 3) and refrigerated, then rewarmed before using.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "French Onion Stuffing",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/ddb601fd-0986-5a36-a12d-e5f360c573b5#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/11/14/dining/14sidesgiving-onionstuffing/merlin_196269432_d8bb443c-200a-4a60-9b9d-2f872891e02d-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist:Simon Andrews. Prop Stylist: Christina Lane.",
+          "dateModified": "2021-11-12T14:17:28.360Z",
+          "datePublished": "2021-11-08T17:26:39.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-08T17:26:39.000Z",
+          "url": "https://static01.nyt.com/images/2021/11/14/dining/14sidesgiving-onionstuffing/merlin_196269432_d8bb443c-200a-4a60-9b9d-2f872891e02d-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ddb601fd-0986-5a36-a12d-e5f360c573b5#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/11/14/dining/14sidesgiving-onionstuffing/merlin_196269432_d8bb443c-200a-4a60-9b9d-2f872891e02d-superJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist:Simon Andrews. Prop Stylist: Christina Lane.",
+          "dateModified": "2021-11-12T14:17:28.360Z",
+          "datePublished": "2021-11-08T17:26:39.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-08T17:26:39.000Z",
+          "url": "https://static01.nyt.com/images/2021/11/14/dining/14sidesgiving-onionstuffing/merlin_196269432_d8bb443c-200a-4a60-9b9d-2f872891e02d-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/ddb601fd-0986-5a36-a12d-e5f360c573b5#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/11/14/dining/14sidesgiving-onionstuffing/14sidesgiving-onionstuffing--mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist:Simon Andrews. Prop Stylist: Christina Lane.",
+          "dateModified": "2021-11-12T14:17:28.360Z",
+          "datePublished": "2021-11-08T17:26:39.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-08T17:26:39.000Z",
+          "url": "https://static01.nyt.com/images/2021/11/14/dining/14sidesgiving-onionstuffing/14sidesgiving-onionstuffing--mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022669-french-onion-stuffing"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:35:44.014Z",
+  "scraping_status": "scraped"
+}

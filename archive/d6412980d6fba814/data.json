@@ -1,0 +1,485 @@
+{
+  "id": "d6412980d6fba814",
+  "original_url": "https://www.maangchi.com/recipe/kongnamul-gukbap",
+  "canonical_url": "https://www.maangchi.com/recipe/kongnamul-gukbap",
+  "fetched_title": "Soybean sprout soup with rice (Kongnamul-gukbap: 콩나물국밥) recipe by Maangchi",
+  "main_text_content": "Today&#039;s recipe is a popular 1 bowl meal well-loved by all Koreans. It&#039;s delicious, savory soybean sprout soup with rice mixed right in. It&#039;s fast, warm, hearty and satisfying...",
+  "main_html_content": "<h1 class=\"entry-title mega-heading\">Soybean sprout soup with rice</h1><h2 class=\"entry-title mega-heading-translation\"><span class=\"romanized-name\">Kongnamul-gukbap</span> <span class=\"korean-name\">콩나물국밥</span></h2><p class=\"author vcard postedby\">By <a href=\"/about\" rel=\"author\"><span class=\"fn n nickname\">Maangchi</span></a></p><p class=\"postdate updated\">Updated on June 25th, 2023</p><div  class=\"rmp-widgets-container rmp-wp-plugin rmp-main-container js-rmp-widgets-container js-rmp-widgets-container--75709 \"  data-post-id=\"75709\"><div class=\"rmp-rating-widget js-rmp-rating-widget\"><div class=\"rmp-rating-widget__icons\"><ul class=\"rmp-rating-widget__icons-list js-rmp-rating-icons-list\"><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Not at all useful\" data-value=\"1\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Somewhat useful\" data-value=\"2\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Good recipe\" data-value=\"3\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Great recipe\" data-value=\"4\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"The besttt!!!\" data-value=\"5\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li></ul>",
+  "publication_date": "2017-11-18T17:01:55+00:00",
+  "author": "Maangchi",
+  "key_image_url": "https://i.ytimg.com/vi/09_Kh_a8d_w/maxresdefault.jpg?meta=og:image",
+  "local_image_path": "scraped/d6412980d6fba814/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "/recipe/kongnamul-gukbap#sso/recipe/75709",
+          "@context": "https://schema.org",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.maangchi.com/recipe/kongnamul-gukbap",
+          "url": "https://www.maangchi.com/recipe/kongnamul-gukbap",
+          "sameAs": [
+            "https://www.maangchi.com/?p=75709"
+          ],
+          "name": "Soybean sprout soup with rice (Kongnamul-gukbap: 콩나물국밥)",
+          "description": "Today&#039;s recipe is a popular 1 bowl meal well-loved by all Koreans. It&#039;s delicious, savory soybean sprout soup with rice mixed right in. It&#039;s fast, warm, hearty and satisfying. This style of soup is called gukbap in Korean - literally soup (guk 국) and rice (bap 밥), and this recipe with soybean...",
+          "aggregateRating": {
+            "@id": "/recipe/kongnamul-gukbap#sso/recipe/75709/rating-aggregate/5/288/1/5"
+          },
+          "image": [
+            {
+              "@id": "https://i.ytimg.com/vi/09_Kh_a8d_w/maxresdefault.jpg?meta=og:image#sso/image-object"
+            }
+          ],
+          "video": [
+            {
+              "@id": "https://www.youtube.com/embed/09_Kh_a8d_w#sso/video-object"
+            }
+          ],
+          "publisher": [
+            {
+              "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+            }
+          ],
+          "headline": "Soybean sprout soup with rice (Kongnamul-gukbap: 콩나물국밥)",
+          "keywords": "국밥, gukbap, 콩나물 국밥, kongnamul-gukbap, kongnamulgukbap, Korean soup and rice, Korean soybean sprout soup with rice, soybean sprout recipe",
+          "isFamilyFriendly": true,
+          "inLanguage": "en_US",
+          "datePublished": "2017-11-18T17:01:55+00:00",
+          "dateModified": "2023-06-25T14:39:53+00:00",
+          "author": {
+            "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+          },
+          "thumbnailUrl": "https://i.ytimg.com/vi/09_Kh_a8d_w/maxresdefault.jpg?meta=og:image",
+          "commentCount": 11,
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/51355"
+            },
+            {
+              "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/51213"
+            },
+            {
+              "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/47151"
+            },
+            {
+              "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/47057"
+            },
+            {
+              "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/46952"
+            },
+            {
+              "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/46861"
+            },
+            {
+              "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/46827"
+            }
+          ],
+          "recipeCuisine": "Korean",
+          "recipeCategory": "Main dish",
+          "recipeIngredient": [],
+          "recipeInstructions": [
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 1
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 2
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul-gukbap#sso/recipe/75709/rating-aggregate/5/288/1/5",
+          "@context": "https://schema.org",
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "ratingCount": 288,
+          "worstRating": 1,
+          "bestRating": 5
+        },
+        {
+          "@id": "https://i.ytimg.com/vi/09_Kh_a8d_w/maxresdefault.jpg?meta=og:image#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://i.ytimg.com/vi/09_Kh_a8d_w/maxresdefault.jpg?meta=og:image",
+          "alternativeHeadline": "Soybean sprout soup with rice (Kongnamul-gukbap: ì½©ëë¬¼êµ­ë°¥)",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1280",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1280"
+        },
+        {
+          "@id": "#sso/qv-height-px-720",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "720"
+        },
+        {
+          "@id": "https://www.youtube.com/embed/09_Kh_a8d_w#sso/video-object",
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "url": "https://www.youtube.com/embed/09_Kh_a8d_w",
+          "name": "Soybean sprout soup with rice (Kongnamul-gukbap: ì½©ëë¬¼êµ­ë°¥)",
+          "description": "Kongnamul-gukbap is a popular 1 bowl meal well-loved by all Koreans. Itâs delicious, savory soybean sprout soup with rice mixed right in. Full recipe: https:...",
+          "embedUrl": "https://www.youtube.com/embed/09_Kh_a8d_w",
+          "encodingFormat": "text/html",
+          "duration": "PT15M45S",
+          "uploadDate": "2017-11-18T16:59:00+00:00",
+          "thumbnailUrl": "https://i.ytimg.com/vi/09_Kh_a8d_w/maxresdefault.jpg?meta=og:image",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ],
+          "keywords": "Korean food, Korean cooking, Maangchi, Maangchi recipes, Korean cuisine, Korean soybean sprout soup with rice, kongnamul-gukbap, gukbap, ì½©ëë¬¼ êµ­ë°¥, êµ­ë°¥, Korean soup and rice, soybean sprout recipe, kongnamulgukbap"
+        },
+        {
+          "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person",
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "url": "https://www.maangchi.com",
+          "name": "Maangchi",
+          "description": "Author archive page for Maangchi.",
+          "image": [
+            {
+              "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object"
+            }
+          ]
+        },
+        {
+          "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-1200"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "#sso/qv-height-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png",
+          "identifier": "93971-wpsso-schema-4x3",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-900"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-900",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "900"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png",
+          "identifier": "93971-wpsso-schema-16x9",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-675"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-675",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "675"
+        },
+        {
+          "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/51355",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul-gukbap/comment-page-1#comment-51355",
+          "name": "Comment by YenSin on July 15, 2020",
+          "description": "This is the 3rd time i&#039;m making Kongnamul-gukbap Love it. Your recipe is always amazing. I&#039;m a fans of you.&hellip;",
+          "text": "This is the 3rd time i&#039;m making Kongnamul-gukbap Love it. Your recipe is always amazing. I&#039;m a fans of you. Waiting for your new book Have 2 books of yours in my kitchen Thanks Maangchi for your recipe.",
+          "dateCreated": "2020-07-15T13:40:38-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "YenSin"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/51213",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul-gukbap/comment-page-1#comment-51213",
+          "name": "Comment by Jessicaf on June 19, 2020",
+          "description": "One of my sons loves bean sprouts and this is one of his favorite soups",
+          "text": "One of my sons loves bean sprouts and this is one of his favorite soups",
+          "dateCreated": "2020-06-19T16:25:42-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Jessicaf"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/47151",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul-gukbap/comment-page-1#comment-47151",
+          "name": "Comment by Silbee on February 1, 2018",
+          "description": "Making this for my Korean husband tonight. In our house, kongnamul guk became one of his regular meals, but this&hellip;",
+          "text": "Making this for my Korean husband tonight. In our house, kongnamul guk became one of his regular meals, but this sounds much more exciting! Unfortunately, we now have an electric stove instead of a gas burner. Will the earthen bowls still work okay?",
+          "dateCreated": "2018-02-01T23:45:48-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Silbee"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/49074"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/49074",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul-gukbap/comment-page-1#comment-49074",
+          "name": "Reply by Minhato on February 9, 2019",
+          "description": "I use my earthen bowl on my electric stove &amp; have no problems with it.",
+          "text": "I use my earthen bowl on my electric stove &amp; have no problems with it.",
+          "dateCreated": "2019-02-09T19:31:14-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Minhato"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/50142"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/50142",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul-gukbap/comment-page-1#comment-50142",
+          "name": "Reply by Leblo on December 30, 2019",
+          "description": "I&#039;m living in Korea with my husband and 콩나물국밥 is my favorite food here. I was glad to see a&hellip;",
+          "text": "I&#039;m living in Korea with my husband and 콩나물국밥 is my favorite food here. I was glad to see a website with authentic korean recipes! I can&#039;t wait to try to make it at home",
+          "dateCreated": "2019-12-30T04:31:33-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Leblo"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/47057",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul-gukbap/comment-page-1#comment-47057",
+          "name": "Comment by Passenger425 on January 10, 2018",
+          "description": "I have been so busy with my university exams, but tomorrow I am going to take some time and relax&hellip;",
+          "text": "I have been so busy with my university exams, but tomorrow I am going to take some time and relax by making this wonderful recipe!",
+          "dateCreated": "2018-01-10T23:13:22-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Passenger425"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/46952",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul-gukbap/comment-page-1#comment-46952",
+          "name": "Comment by riley1jones on December 15, 2017",
+          "description": "Hello A very interesting dish. I am looking forward to trying it. I hope it is as delicious as it&hellip;",
+          "text": "Hello A very interesting dish. I am looking forward to trying it. I hope it is as delicious as it looks here.",
+          "dateCreated": "2017-12-15T07:17:19-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "riley1jones"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/46861",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul-gukbap/comment-page-1#comment-46861",
+          "name": "Comment by Chaggi on November 26, 2017",
+          "description": "This was very delicious! My wife, who is Korean, loved it :)",
+          "text": "This was very delicious! My wife, who is Korean, loved it :)",
+          "dateCreated": "2017-11-26T01:44:27-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Chaggi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/46869"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/46869",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul-gukbap/comment-page-1#comment-46869",
+          "name": "Reply by Maangchi on November 27, 2017",
+          "description": "You made this for your wife, awesome!",
+          "text": "You made this for your wife, awesome!",
+          "dateCreated": "2017-11-27T13:31:56-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/46827",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul-gukbap/comment-page-1#comment-46827",
+          "name": "Comment by Mdefields on November 18, 2017",
+          "description": "Num! Looks great! I always make my stock with kelp and dried shitake mushrooms! I think they are a good&hellip;",
+          "text": "Num! Looks great! I always make my stock with kelp and dried shitake mushrooms! I think they are a good substitute for the anchovies (which I just can&#039;t bring myself to handle - eek!). :)",
+          "dateCreated": "2017-11-18T22:52:17-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Mdefields"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/54428"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul-gukbap/comment-page-1#sso/comment/54428",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul-gukbap/comment-page-1#comment-54428",
+          "name": "Reply by Jang-geum on May 20, 2023",
+          "description": "Made kongnamul-gukbap using home-grown soybean sprouts Simple but delicious one pot meal",
+          "text": "Made kongnamul-gukbap using home-grown soybean sprouts Simple but delicious one pot meal",
+          "dateCreated": "2023-05-20T23:09:09-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Jang-geum"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "5",
+        "ratingCount": "288",
+        "ratingValue": "5"
+      },
+      "image": "https://www.maangchi.com/wp-content/uploads/2017/11/kongnamulgukbap-youtube-620x349.jpg",
+      "name": "Soybean sprout soup with rice (Kongnamul-gukbap: 콩나물국밥)",
+      "description": "Soybean sprout soup with rice (Kongnamul-gukbap: 콩나물국밥)"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:38:27.577Z",
+  "scraping_status": "scraped"
+}

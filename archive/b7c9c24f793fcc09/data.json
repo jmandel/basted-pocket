@@ -1,0 +1,555 @@
+{
+  "id": "b7c9c24f793fcc09",
+  "original_url": "https://cooking.nytimes.com/recipes/1017170-cauliflower-parmesan?smid=url-share",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1017170-cauliflower-parmesan?smid=url-share",
+  "fetched_title": "Cauliflower Parmesan Recipe",
+  "main_text_content": "Think of cauliflower Parmesan as the winter analogue to eggplant Parmesan This fried cauliflower is worth making all on its own, with golden, crisp florets that are impossible to stop eating But they’re even better when given the parm treatment — baked with marinara sauce, mozzarella and grated Parmesan cheese until bubbling and browned",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1023888-roasted-cauliflower-with-crispy-parmesan\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2023/01/30/multimedia/as-roasted-cauliflower-with-parmesan1-mbvg/as-roasted-cauliflower-with-parmesan1-mbvg-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2023/01/30/multimedia/as-roasted-cauliflower-with-parmesan1-mbvg/as-roasted-cauliflower-with-parmesan1-mbvg-blogSmallInline-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2023/01/30/multimedia/as-roasted-cauliflower-with-parmesan1-mbvg/as-roasted-cauliflower-with-parmesan1-mbvg-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2023/01/30/multimedia/as-roasted-cauliflower-with-parmesan1-mbvg/as-roasted-cauliflower-with-parmesan1-mbvg-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2023/01/30/multimedia/as-roasted-cauliflower-with-parmesan1-mbvg/as-roasted-cauliflower-with-parmesan1-mbvg-videoSixteenByNine310-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2023/01/30/multimedia/as-roasted-cauliflower-with-parmesan1-mbvg/as-roasted-cauliflower-with-parmesan1-mbvg-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2023/01/30/multimedia/as-roasted-cauliflower-with-parmesan1-mbvg/as-roasted-cauliflower-with-parmesan1-mbvg-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2023/01/30/multimedia/as-roasted-cauliflower-with-parmesan1-mbvg/as-roasted-cauliflower-with-parmesan1-mbvg-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Roasted Cauliflower With Crispy Parmesan</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Ali Slagle</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/07/02/multimedia/Cauliflower-Parmesanrex-bglq/Cauliflower-Parmesanrex-bglq-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/b7c9c24f793fcc09/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/f2a3c217-4924-598f-8c54-fbfb6137cb6e",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1017170-cauliflower-parmesan",
+        "@type": "WebPage",
+        "name": "Cauliflower Parmesan"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1017170-cauliflower-parmesan",
+      "name": "Cauliflower Parmesan",
+      "description": "Think of cauliflower Parmesan as the winter analogue to eggplant Parmesan. This fried cauliflower is worth making all on its own, with golden, crisp florets that are impossible to stop eating. But they’re even better when given the parm treatment — baked with marinara sauce, mozzarella and grated Parmesan cheese until bubbling and browned. If you’re not a cauliflower fan, this recipe also works with broccoli.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/027fd1b4-65df-5de4-b482-e2cf91c68309#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/02/multimedia/Cauliflower-Parmesanrex-bglq/Cauliflower-Parmesanrex-bglq-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-07-02T18:08:39.046Z",
+          "datePublished": "2024-07-02T18:08:16.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-02T18:08:16.000Z",
+          "url": "https://static01.nyt.com/images/2024/07/02/multimedia/Cauliflower-Parmesanrex-bglq/Cauliflower-Parmesanrex-bglq-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/027fd1b4-65df-5de4-b482-e2cf91c68309#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/02/multimedia/Cauliflower-Parmesanrex-bglq/Cauliflower-Parmesanrex-bglq-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-07-02T18:08:39.046Z",
+          "datePublished": "2024-07-02T18:08:16.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-02T18:08:16.000Z",
+          "url": "https://static01.nyt.com/images/2024/07/02/multimedia/Cauliflower-Parmesanrex-bglq/Cauliflower-Parmesanrex-bglq-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/027fd1b4-65df-5de4-b482-e2cf91c68309#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/02/multimedia/Cauliflower-Parmesanrex-bglq/Cauliflower-Parmesanrex-bglq-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-07-02T18:08:39.046Z",
+          "datePublished": "2024-07-02T18:08:16.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-02T18:08:16.000Z",
+          "url": "https://static01.nyt.com/images/2024/07/02/multimedia/Cauliflower-Parmesanrex-bglq/Cauliflower-Parmesanrex-bglq-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT1H15M",
+      "recipeYield": "6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, lunch, casseroles, main course, side dish",
+      "keywords": "cauliflower, italian american, mozzarella, panko, parmesan, tomato sauce, father’s day, super bowl, vegetarian, winter",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 4177
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 745,
+        "unsaturatedFatContent": "24 grams",
+        "carbohydrateContent": "65 grams",
+        "cholesterolContent": null,
+        "fatContent": "40 grams",
+        "fiberContent": "8 grams",
+        "proteinContent": "34 grams",
+        "saturatedFatContent": "13 grams",
+        "sodiumContent": "1917 milligrams",
+        "sugarContent": "13 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1/2 cup all-purpose flour",
+        "4 large eggs, lightly beaten",
+        "3 cups panko or plain unseasoned bread crumbs",
+        "Kosher salt, as needed",
+        "Black pepper, as needed",
+        "1 medium head cauliflower, trimmed and cut into 2-inch florets",
+        "1/2 cup olive oil, for frying (more as needed)",
+        "5 cups Simple Tomato Sauce (see recipe)",
+        "1 cup finely grated Parmesan, preferably Parmigiano-Reggiano",
+        "1/2 pound fresh mozzarella, torn into bite-size pieces",
+        "Fresh basil leaves, torn if large, for serving (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 400 degrees. Place flour, eggs and panko into three wide, shallow bowls. Season each generously with salt and pepper. Dip a cauliflower piece first in flour, then eggs, then coat with panko. Repeat with remaining cauliflower."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Fill a large skillet with 1/2-inch oil. Place over medium-high heat. When oil is hot, fry cauliflower in batches, turning halfway through, until golden brown. Transfer fried cauliflower pieces to a paper towel-lined plate."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Spoon a thin layer of sauce over the bottom of a 9-by-13-inch baking pan. Sprinkle one-third of the Parmesan over sauce. Scatter half cauliflower mixture over the Parmesan and top with half the mozzarella pieces. Top with half  the remaining sauce, sprinkle with another third of the Parmesan and repeat layering, ending with a final layer of sauce and Parmesan."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Transfer pan to oven and bake until cheese is golden and casserole is bubbling, about 40 minutes. Let cool a few minutes and top with basil, if using, before serving."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2015-02-04T00:00:00.000Z",
+      "dateModified": "2024-07-02T18:09:57.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nic"
+          },
+          "reviewBody": "Absolutely delicious! I followed the recipe, but will make some slight adjustments next time. I will cut cauliflower in slices rather than florets so I can better cover the casserole dish. I will only cook it for 25 to 30 minutes.",
+          "datePublished": "2025-03-02T02:22:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hannah"
+          },
+          "reviewBody": "It took a lot of effort to fry the cauliflower, but it was delicious. We put some in hot dog buns to make sandwiches and also ate it on its own. I'm curious to know if roasting it in the oven is any easier.",
+          "datePublished": "2025-01-19T18:50:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ryan P"
+          },
+          "reviewBody": "Delicious! Made without mozzarella and it was great.  Also airfried the cauliflower to save a mess. I batch covered half the cauliflower with flour, then eggs and panko and it seemed to turn out fine. Otherwise, it would have taken much longer to individually dip each piece.",
+          "datePublished": "2025-01-08T21:44:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "bGuyLing1"
+          },
+          "reviewBody": "This is the first NYT recipe I have not liked.  The fried panko coating became complete mush in the sauce.",
+          "datePublished": "2025-01-06T03:19:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ginny"
+          },
+          "reviewBody": "Delicious variation on eggplant parm. I’ll be adding this to the rotation. I was wary of burning the cheese, so I covered the dish with foil until the last 15 minutes, and the cheese was browned just right. Otherwise I followed the recipe and it was perfect.",
+          "datePublished": "2024-12-21T19:49:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J. Richard Brown"
+          },
+          "reviewBody": "Make with half the sauce.",
+          "datePublished": "2024-12-18T18:16:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy Richards"
+          },
+          "reviewBody": "This may be heretical, but it is delicious without the mozzarella. It’s really the Parmesan that adds the flavor.",
+          "datePublished": "2024-12-07T19:53:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Clark Amadon"
+          },
+          "reviewBody": "Air fryed, used Smokey cheddar.. Next time a bigger cauliflower!  So good!",
+          "datePublished": "2024-12-07T12:24:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aude"
+          },
+          "reviewBody": "Has anyone tried this in an air fryer and if so how did you proceed ?",
+          "datePublished": "2024-12-05T18:52:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "christine"
+          },
+          "reviewBody": "Delish. Used seasoned herb stuffing mix croutons ground to course crumbs in cuisinart for bread crumbs. \nAdded 1/3 heavy cream at very end before baking. Main dish with big salad for 4 was so wonderful. Will make again!",
+          "datePublished": "2024-11-28T03:14:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cakejunkie"
+          },
+          "reviewBody": "We love this, and it's kid-approved! We dredge in a combo of panko and flaxmeal, and use the air fry setting on our oven instead of frying in a skillet. You still get all the crunch, but with less oil.",
+          "datePublished": "2024-11-12T16:36:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LM"
+          },
+          "reviewBody": "Wow!!  This recipe is awesome.  The only change I made was to bake the cauliflower on parchment in my convection oven instead of frying it.  Still did the flour, egg, panko dredge and it turned out crispy and browned.  Highly recommend and I'll be making this again.",
+          "datePublished": "2024-10-30T16:09:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris Goergen"
+          },
+          "reviewBody": "I made this several times. It tastes great and it is also low in glycemic value, which is good for me as a diabetic. I made it once with broccoli but it tastes much better with cauliflower. I also add some nutmeg.",
+          "datePublished": "2024-10-28T22:01:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill Maxey"
+          },
+          "reviewBody": "1/2 cup oil works fine in a small saucepan, not in a \"large skillet\". The higher sided pad also reduces splatter. This is an excellent recipe.",
+          "datePublished": "2024-10-27T15:49:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cook in Chicagoland"
+          },
+          "reviewBody": "We loved this.  I am on the “fried” team.  To be sure we had a full baking dish of the end-product, I cut the raw florets and put them in my intended baking dish until almost full, as a measuring guide.  Then removed and proceed with frying, assembling, etc.",
+          "datePublished": "2024-10-23T16:24:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "HH"
+          },
+          "reviewBody": "Delicious!  Whole family loved it.  Instead of frying the cauliflower I placed dredged cauliflower on sprayed rack on cookie sheet, sprayed cauliflower with olive oil cooking spray and baked at 425 for 24 minutes, flipping the pieces halfway through to get a nice toasted color.",
+          "datePublished": "2017-10-30T15:57:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy"
+          },
+          "reviewBody": "Took advice from several other reviewers below--roasted the cauliflour for 30 minutes at 425 instead of frying--toasted some panko with olive oil on the stovetop to add between layers for extra texture, and to top casserole, along with parm. Also threw in another clove or two of garlic to the sauce, because I like things garlicky. Absolutely  delicious!!! (I also washed dishes in stages, so my kitchen is still in pretty good shape.",
+          "datePublished": "2017-10-30T15:59:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenny"
+          },
+          "reviewBody": "I have made this both ways: with fried cauliflower as in the recipe, and with roasted, as in the suggestions.  The results are two different dishes, so which to make depends on what you are looking for.  With the roasted cauliflower, the flavor and texture of the finished dish was very \"saucy.\"  With the fried, it was a more satisfying main course and the cauliflower flavor came through.  Both are delicious, but my favorite was the fried. Panko is key!",
+          "datePublished": "2017-10-24T18:21:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AC"
+          },
+          "reviewBody": "I roasted the cauliflower until golden, toasted some panko on the stove with a little bit of olive oil and when putting the dish together, I layered panko on top of the cauliflower prior to baking. Also added sautéed leeks, onions, and several cloves of garlic. Used almost 2 jars of Rao's sauce. Prior to serving, I threw on some additional panko for some extra crunch. Wonderful dish!",
+          "datePublished": "2017-10-30T15:12:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sally"
+          },
+          "reviewBody": "Yo everyone be like I roasted this instead of fried but all I say is I fried it correct and it was better. ",
+          "datePublished": "2018-11-22T04:29:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mayann"
+          },
+          "reviewBody": "Made this dish once before and fried the cauliflower. Just used our Philips Airfryer to cook the cauliflower and it worked wonderfully. No oil mess and odor. Cauliflower nice and crisp. Air frying made this dish even better. Just a consumer, no tie in with Philips, one happy cook.",
+          "datePublished": "2017-10-30T15:31:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Randy"
+          },
+          "reviewBody": "The calories are very exaggerated because of the vague \"oil for frying\". Much better to avoid the oil, the breading hassle and the \"soggy glop\" trap (especially re-heated) by roasting the cauliflower instead. Many good recipes to use as a guide from NYT Cooking like Amanda Hesser's: <a href=\"https://cooking.nytimes.com/recipes/7588-roasted-cauliflower\" title=\"https://cooking.nytimes.com/recipes/7588-roasted-cauliflower\" target=\"_blank\">https://cooking.nytimes.com/recipes/7588-roasted-cauliflower</a><br/>For a Parmesan I would slice the cauliflower thicker, roast at 400 for more crisping and turn every 12-15 min. for even browning.",
+          "datePublished": "2017-10-30T15:58:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jenny"
+          },
+          "reviewBody": "Instead of frying the cauliflower, I would suggest making it this way instead. The cauliflower will come out crunchy and crispy without the oil. <a href=\"http://www.thehungryhedgehog.com/baked-garlic-parmesan-cauliflower-bites/\" title=\"http://www.thehungryhedgehog.com/baked-garlic-parmesan-cauliflower-bites/\" target=\"_blank\">http://www.thehungryhedgehog.com/baked-garlic-parmesan-cauliflower-bites/</a>",
+          "datePublished": "2017-10-24T17:49:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ALT"
+          },
+          "reviewBody": "Like another reader, I sliced the cauliflower into slices (4 per head) and brushed lightly with olive oil (no breaking) at 425 for about 30 min total (flipped once).  I also substituted low-fat mozarella to make it a little less of a calorie bomb and it was terrific.  Definitely a repeat.  I also roasted the cauliflower ahead of time and my teenaged son did the rest so it was ready when I walked in the door.  Terrific!",
+          "datePublished": "2017-10-30T15:42:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "krause"
+          },
+          "reviewBody": "As a vegetarian family, my husband said that the breaded cauliflower was so rich and tender that he thought he was eating meat (that is a compliment from the one non-vegetarian in the family). He gave the meal five stars.",
+          "datePublished": "2017-10-24T18:36:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "maryea@gmail.com"
+          },
+          "reviewBody": "Use Hazan's tomato sauce. Forget coating. Roast cauliflower with olive oil instead of deep frying. A good use for fresh Mozz. (Avoid carbs not calories).",
+          "datePublished": "2017-10-30T12:59:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michele Divoky"
+          },
+          "reviewBody": "Normally, I would not use the word \"decadent\" in conjunction with cauliflower.  This recipe, however, puts cauliflower smack dab in the middle of the decadent crowd.    It was beautiful and smelled amazing.  We had some fresh mozzarella that we had smoked and we used that in place of the regular mozz.  The leftovers made the most amazing sandwiches.  If you love parmesan-style anything, this recipe is a must.  If you think you don't like cauliflower, make this and it will change your mind.",
+          "datePublished": "2017-10-30T12:31:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joyce"
+          },
+          "reviewBody": "I roasted the cauliflower also (tossed florets in olive oil with salt and pepper and roasted at 400F for 30 minutes), then followed the recipe as written, albeit with less sauce (for which I used the Simple sauce). I don't know how the lack of frying affects the flavour of the dish, but we decided that this version is a keeper.",
+          "datePublished": "2017-10-24T18:24:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mecross"
+          },
+          "reviewBody": "I needed to clean out my fridge for a holiday outing so I added sautéed leeks, green onions, onion, mushrooms, fennel, green bell pepper, and spinach.  Made for lovely additions to this delightful dish.",
+          "datePublished": "2017-10-30T12:38:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AmyR"
+          },
+          "reviewBody": "addendum to the previous note - also 3 eggs - or maybe even 2 - would have been enough, and less panko.  I suggest starting with a cup of panko and adding as necessary, to avoid throwing out what you don't use. I suppose it depends on the size of your head of cauliflower.",
+          "datePublished": "2017-10-24T17:55:59.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2015
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1017170-cauliflower-parmesan",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2015,
+      "description": "Think of cauliflower Parmesan as the winter analogue to eggplant Parmesan. This fried cauliflower is worth making all on its own, with golden, crisp florets that are impossible to stop eating. But they’re even better when given the parm treatment — baked with marinara sauce, mozzarella and grated Parmesan cheese until bubbling and browned. If you’re not a cauliflower fan, this recipe also works with broccoli.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Cauliflower Parmesan",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/027fd1b4-65df-5de4-b482-e2cf91c68309#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/02/multimedia/Cauliflower-Parmesanrex-bglq/Cauliflower-Parmesanrex-bglq-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-07-02T18:08:39.046Z",
+          "datePublished": "2024-07-02T18:08:16.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-02T18:08:16.000Z",
+          "url": "https://static01.nyt.com/images/2024/07/02/multimedia/Cauliflower-Parmesanrex-bglq/Cauliflower-Parmesanrex-bglq-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/027fd1b4-65df-5de4-b482-e2cf91c68309#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/02/multimedia/Cauliflower-Parmesanrex-bglq/Cauliflower-Parmesanrex-bglq-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-07-02T18:08:39.046Z",
+          "datePublished": "2024-07-02T18:08:16.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-02T18:08:16.000Z",
+          "url": "https://static01.nyt.com/images/2024/07/02/multimedia/Cauliflower-Parmesanrex-bglq/Cauliflower-Parmesanrex-bglq-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/027fd1b4-65df-5de4-b482-e2cf91c68309#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/02/multimedia/Cauliflower-Parmesanrex-bglq/Cauliflower-Parmesanrex-bglq-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-07-02T18:08:39.046Z",
+          "datePublished": "2024-07-02T18:08:16.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-02T18:08:16.000Z",
+          "url": "https://static01.nyt.com/images/2024/07/02/multimedia/Cauliflower-Parmesanrex-bglq/Cauliflower-Parmesanrex-bglq-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1017170-cauliflower-parmesan"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:07:22.429Z",
+  "scraping_status": "scraped"
+}

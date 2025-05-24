@@ -1,0 +1,637 @@
+{
+  "id": "0dcaa5ddfcb57859",
+  "original_url": "https://cooking.nytimes.com/recipes/1022129-coconut-fish-and-tomato-bake",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1022129-coconut-fish-and-tomato-bake",
+  "fetched_title": "Coconut Fish and Tomato Bake Recipe (with Video)",
+  "main_text_content": "A coconut-milk dressing infused with garlic, ginger, turmeric and lime coats fish fillets in this sheet-pan dinner Accompanying the fish are bright bursts of tomatoes which turn jammy under the broiler and relinquish some of their juices to the pan sauce This sauce is silky enough to coat a spoon and packed with flavor",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1021534-coconut-curry-fish\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"A Dutch oven holds a colorful coconut fish curry with red peppers and green cilantro sprigs. A bowl of rice is nearby.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2022/09/27/dining/mp-coconut-curry-fish-2/merlin_179685651_81c4975d-2fe8-4c53-a470-d5a617af7aec-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2022/09/27/dining/mp-coconut-curry-fish-2/merlin_179685651_81c4975d-2fe8-4c53-a470-d5a617af7aec-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2022/09/27/dining/mp-coconut-curry-fish-2/merlin_179685651_81c4975d-2fe8-4c53-a470-d5a617af7aec-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2022/09/27/dining/mp-coconut-curry-fish-2/merlin_179685651_81c4975d-2fe8-4c53-a470-d5a617af7aec-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2022/09/27/dining/mp-coconut-curry-fish-2/merlin_179685651_81c4975d-2fe8-4c53-a470-d5a617af7aec-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2022/09/27/dining/mp-coconut-curry-fish-2/merlin_179685651_81c4975d-2fe8-4c53-a470-d5a617af7aec-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2022/09/27/dining/mp-coconut-curry-fish-2/merlin_179685651_81c4975d-2fe8-4c53-a470-d5a617af7aec-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2022/09/27/dining/mp-coconut-curry-fish-2/merlin_179685651_81c4975d-2fe8-4c53-a470-d5a617af7aec-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Coconut Curry Fish</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Millie Peartree</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/merlin_186997626_6bf4dc0b-2582-406b-b4ca-8a64ca49c825-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/0dcaa5ddfcb57859/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/4b3a90f8-0473-5108-b3eb-3c84b9ef4ea9",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1022129-coconut-fish-and-tomato-bake",
+        "@type": "WebPage",
+        "name": "Coconut Fish and Tomato Bake"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022129-coconut-fish-and-tomato-bake",
+      "name": "Coconut Fish and Tomato Bake",
+      "description": "A coconut-milk dressing infused with garlic, ginger, turmeric and lime coats fish fillets in this sheet-pan dinner. Accompanying the fish are bright bursts of tomatoes which turn jammy under the broiler and relinquish some of their juices to the pan sauce. This sauce is silky enough to coat a spoon and packed with flavor. It pairs well with anything from snapper to flounder and even salmon, so choose the fillets that look best at the market. You’ll want to sop up the sauce with thick slices of grilled or toasted baguette, or spoon it over steamed rice.",
+      "author": {
+        "@type": "Person",
+        "name": "Yewande Komolafe"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/16bdf17a-32c7-5702-9c4b-de1062c38c1c#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/coconutfishrex-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Judy Kim.",
+          "dateModified": "2023-08-07T15:51:36.705Z",
+          "datePublished": "2021-04-29T15:55:53.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-29T15:55:53.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/coconutfishrex-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/16bdf17a-32c7-5702-9c4b-de1062c38c1c#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/merlin_186997626_6bf4dc0b-2582-406b-b4ca-8a64ca49c825-superJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Judy Kim.",
+          "dateModified": "2023-08-07T15:51:36.705Z",
+          "datePublished": "2021-04-29T15:55:53.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-29T15:55:53.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/merlin_186997626_6bf4dc0b-2582-406b-b4ca-8a64ca49c825-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/16bdf17a-32c7-5702-9c4b-de1062c38c1c#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/merlin_186997626_6bf4dc0b-2582-406b-b4ca-8a64ca49c825-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Judy Kim.",
+          "dateModified": "2023-08-07T15:51:36.705Z",
+          "datePublished": "2021-04-29T15:55:53.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-29T15:55:53.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/merlin_186997626_6bf4dc0b-2582-406b-b4ca-8a64ca49c825-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT20M",
+      "recipeYield": " 4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, quick, weeknight, seafood, main course",
+      "keywords": "cherry tomato, coconut milk, fish, sheet-pan",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 9684
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 407,
+        "unsaturatedFatContent": "10 grams",
+        "carbohydrateContent": "17 grams",
+        "cholesterolContent": null,
+        "fatContent": "22 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "38 grams",
+        "saturatedFatContent": "10 grams",
+        "sodiumContent": "1031 milligrams",
+        "sugarContent": "10 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "¾ cup unsweetened coconut milk",
+        "1 (1-inch) piece fresh ginger, scrubbed and finely grated",
+        "1 garlic clove, finely grated",
+        "½ teaspoon ground turmeric",
+        "½ teaspoon red-pepper flakes",
+        "1 tablespoon honey",
+        "Kosher salt",
+        "2 limes",
+        "½ cup chopped cilantro",
+        "4 (6-ounce) fish fillets, such as snapper, haddock, striped bass, fluke, sablefish or salmon, skin on or off",
+        "2 pints cherry or grape tomatoes",
+        "3 tablespoons olive oil"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large bowl, whisk together the coconut milk, ginger, garlic, turmeric, red-pepper flakes, honey and 1 teaspoon salt. Zest and juice 1 lime directly into the coconut milk mixture. Stir in ¼ cup chopped cilantro."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the fish fillets and turn to coat. Marinate in the refrigerator for 15 to 30 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, adjust an oven rack to the lower-middle position. Arrange another rack in the position closest to the broiler heat source. Heat oven to 425 degrees."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place the tomatoes on a large sheet pan. Drizzle with 2 tablespoons olive oil, season with salt and toss to coat. Place the marinated fish between the tomatoes and spoon all the marinade from the bowl over the fish. Drizzle 1 tablespoon of oil over the fish. Transfer the pan to the lower-middle rack and roast until the surface of the fish is opaque but the center is not cooked through, 8 to 10 minutes, depending on thickness of the fish. The fish should not flake easily with a fork. Remove the pan from the oven and heat the broiler to high."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Move the pan to the broiler and finish cooking, rotating the pan once, until the fish is tender and the tomatoes are just beginning to brown in spots, 5 to 6 minutes, depending on thickness of the fish. Slice the remaining lime into wedges."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide the tomatoes and fish among dishes and tip the pan juices over the fish. Garnish with the remaining ¼ cup cilantro and serve with lime wedges for squeezing."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/0ab4cbb9-870a-5cdb-a2b5-37d6755e909e",
+        "@type": "VideoObject",
+        "author": {
+          "@id": "nyt://person/a89444f5-07d8-5c29-86d1-3c6c30133277",
+          "@type": "Person",
+          "name": "The New York Times Cooking",
+          "url": "https://www.nytimes.com/by/the-new-york-times-cooking"
+        },
+        "bitrate": "0",
+        "contentSize": "32325663",
+        "contentUrl": "https://vp.nyt.com/video/2024/09/04/123047_1_HP-Coconut-Fish-Tomato-Bake-CV_wg_480p.mp4",
+        "creator": {
+          "@id": "nyt://person/a89444f5-07d8-5c29-86d1-3c6c30133277",
+          "@type": "Person",
+          "name": "The New York Times Cooking"
+        },
+        "dateModified": "2024-09-04T15:27:57.368Z",
+        "datePublished": "2024-09-04T15:27:57.368Z",
+        "description": "A coconut-milk dressing infused with garlic, ginger, turmeric and lime coats fish fillets in this sheet-pan dinner. Accompanying the fish are bright bursts of tomatoes which turn jammy under the broiler and relinquish some of their juices to the pan sauce. This sauce is silky enough to coat a spoon and packed with flavor. It pairs well with anything from snapper to flounder and even salmon, so choose the fillets that look best at the market. You’ll want to sop up the sauce with thick slices of grilled or toasted baguette, or spoon it over steamed rice.",
+        "duration": "PT2M38S",
+        "height": "480",
+        "name": "Coconut Fish and Tomato Bake",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/16bdf17a-32c7-5702-9c4b-de1062c38c1c#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/coconutfishrex-videoSixteenByNineJumbo1600.jpg",
+            "creditText": "Linda Xiao for The New York Times. Food Stylist: Judy Kim.",
+            "dateModified": "2023-08-07T15:51:36.705Z",
+            "datePublished": "2021-04-29T15:55:53.000Z",
+            "height": "900",
+            "uploadDate": "2021-04-29T15:55:53.000Z",
+            "url": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/coconutfishrex-videoSixteenByNineJumbo1600.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/16bdf17a-32c7-5702-9c4b-de1062c38c1c#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/merlin_186997626_6bf4dc0b-2582-406b-b4ca-8a64ca49c825-superJumbo.jpg",
+            "creditText": "Linda Xiao for The New York Times. Food Stylist: Judy Kim.",
+            "dateModified": "2023-08-07T15:51:36.705Z",
+            "datePublished": "2021-04-29T15:55:53.000Z",
+            "height": "1365",
+            "uploadDate": "2021-04-29T15:55:53.000Z",
+            "url": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/merlin_186997626_6bf4dc0b-2582-406b-b4ca-8a64ca49c825-superJumbo.jpg",
+            "width": "2048"
+          },
+          {
+            "@id": "nyt://image/16bdf17a-32c7-5702-9c4b-de1062c38c1c#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/merlin_186997626_6bf4dc0b-2582-406b-b4ca-8a64ca49c825-mediumSquareAt3X.jpg",
+            "creditText": "Linda Xiao for The New York Times. Food Stylist: Judy Kim.",
+            "dateModified": "2023-08-07T15:51:36.705Z",
+            "datePublished": "2021-04-29T15:55:53.000Z",
+            "height": "1800",
+            "uploadDate": "2021-04-29T15:55:53.000Z",
+            "url": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/merlin_186997626_6bf4dc0b-2582-406b-b4ca-8a64ca49c825-mediumSquareAt3X.jpg",
+            "width": "1800"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/coconutfishrex-videoSixteenByNineJumbo1600.jpg",
+        "uploadDate": "2024-09-04T15:27:57.368Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000009673080/coconut-fish-and-tomato-bake.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-04-29T00:00:00.000Z",
+      "dateModified": "2024-09-19T17:41:21.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate S"
+          },
+          "reviewBody": "This is one of my favorites. I used thin sliced chicken breast the last time I made it, and it worked just as well as the fish! I too doubled the marinade as others did, and sliced the tomatoes. Served with Basmati rice. Just excellent.",
+          "datePublished": "2025-05-20T15:18:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Donna"
+          },
+          "reviewBody": "Superb!",
+          "datePublished": "2025-05-16T21:50:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "S"
+          },
+          "reviewBody": "My favorite NYT recipe. Easy, kids liked it (used a tilapia filet for my picky eater and striped bass for the rest of us) and clean up minimal if using something to cover the baking sheet. Used the leftover coconut milk to make yellow rice as the side.",
+          "datePublished": "2025-05-15T00:55:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "This was delicious as written. I thought the ingredient proportions were spot on. I wished I’d planned ahead so as to have crusty bread on hand.",
+          "datePublished": "2025-05-14T21:58:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "zoe"
+          },
+          "reviewBody": "Made this almost word for word. But I did some jasmine rice to go with it and used all that coconut milk for the sauce. At the end, all the sauce and rice mixed in the bowl with fish and tomatoes over top. Almost stew-like, so good",
+          "datePublished": "2025-05-12T19:49:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RMeisel"
+          },
+          "reviewBody": "Made with Snapper. Delicious - reminiscent of Thai flavors.",
+          "datePublished": "2025-05-05T15:08:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David"
+          },
+          "reviewBody": "Next time use a baking dish, add some veggies into the mix and serve over rice.",
+          "datePublished": "2025-05-03T23:17:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marnie Heck"
+          },
+          "reviewBody": "Delicious!!!!!",
+          "datePublished": "2025-05-02T01:51:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chelsea"
+          },
+          "reviewBody": "I LOVE this sauce. Could drink it. But I found it got too watery in the bake with the tomatoes, and serving it directly out of the oven didn’t do it justice. So this time I pan sautéed tilapia and thickened the sauce separately with a tsp of corn starch (slurry). Amazing. Served on wilted spinach.",
+          "datePublished": "2025-05-02T03:28:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tia"
+          },
+          "reviewBody": "Substituted the cilantro for flat-leaf parsley... For two reasons: we don't like cilantro and we had fresh parsley.\n\nDivided one 1.5 lb of red snapper into three fillets (to maintain equal-ish size) and included one 0.5 lb orange roughly fillet, which cooked much faster. Bad idea.\n\nSauce is good, orange roughy is slightly overdone (10 min at slightly under 425°F -oven runs hot- and 5 min under broiler) Cherry tomatoes are perfect for this, but fewer would be better.",
+          "datePublished": "2025-05-01T17:16:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julian"
+          },
+          "reviewBody": "I’ve never commented on a recipe before, but this one truly earned its 5 stars. Really delicious!",
+          "datePublished": "2025-05-01T02:46:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bernadette"
+          },
+          "reviewBody": "Absolutely delicious.  I've made this dish five times now and it never gets old.  The flavors, textures, and aromas are dreamy.  One pf the best dishes I have made thanks to a perfect recipe.",
+          "datePublished": "2025-04-19T04:33:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Clare"
+          },
+          "reviewBody": "This was absolutely delicious and very easy. Used coconut cream instead of coconut milk because that's all I had. We will make this again.",
+          "datePublished": "2025-04-08T19:40:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CB"
+          },
+          "reviewBody": "I liked this a lot but there are a few things I would do differently next time:\n\n1. Cook in a baking dish. It was hard to scoop the sauce up from the baking sheet and the rice we served with it needed it.\n\n2. Cut the tomatoes in half or use smaller ones. Some were more cooked than others. \n\n3. Use a different coconut milk. I used canned coconut milk and while I blended it together, it still separated and made the dish oilier than I would have liked,",
+          "datePublished": "2025-04-07T14:44:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christine"
+          },
+          "reviewBody": "Used cod and doubled by half. Delicious and flavorful seasonings. A family favorite.",
+          "datePublished": "2025-04-05T20:58:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Quix36"
+          },
+          "reviewBody": "Excellent. Only thing I would do differently next time is to cut the tomatoes in half. Roasting them whole, the little buggers exploded all over the inside of my oven.",
+          "datePublished": "2021-05-08T16:10:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shari Gresh"
+          },
+          "reviewBody": "My grandmother had been cooking this kind of fish with coconut milk/turmeric 40-50 years ago since I was born. This is also a very common way to cook fish in southern Thailand. If the fish is a fresh catch, or whole, you can simply use this coconut/turmeric mixture to marinate or brush on fish for grilling. Less sauce but flavor will be absorbed. Serve golden grilled fish with spicy sea food dipping sauce made of fresh chilly/garlic/lime juice/sugar/a little fish sauce, and you'll be in heaven.",
+          "datePublished": "2021-05-04T23:46:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ben"
+          },
+          "reviewBody": "For a leafy green side-dish without any extra clean up, add some spinach at the broiling phase. The leaves soak up all the wonderful marinade and tomato juices. Pairs well with crusty bread. \n\nDelicious!!!",
+          "datePublished": "2021-05-20T16:18:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "adjustments"
+          },
+          "reviewBody": "This was delicious as written! The only thing I’d do differently next time is to cook it in a smaller baking dish instead of a sheet pan. For me, the sauce burned a bit in the areas where it was spread thin. It was also difficult to spoon the sauce up from the sheet pan.",
+          "datePublished": "2021-05-11T15:39:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenny"
+          },
+          "reviewBody": "Thoughts I got from others:\n * Delicious. \n * Serve on fresh spinach, which will wilt (could also be roasted broccolini or other).\n * Too sweet; less honey. \n * Use all coconut milk; extra (milk w/ ginger, garlic, turmeric, etc.) is part of rice dish. \n * Give tomatoes 5-12 minutes’ head start. \n * Halve tomatoes to avoid bursting on oven walls 😬. \n * Roast cauliflower as a side. \nX",
+          "datePublished": "2023-04-08T23:05:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lynn"
+          },
+          "reviewBody": "Question re sheet pans and roasting tomatoes...is the author of the recipe using aluminum pans which is not recommended?  I see this so often in recipes lately with the sheet pan craze.  Stainless steel pans are very expensive. Just wondering if there is some trick that can be done to mitigate any damage roasting acidic things on aluminum pans might do?",
+          "datePublished": "2021-05-04T20:41:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "T"
+          },
+          "reviewBody": "WOW!!! I have made several of the NYT'S fish preparations, and I have to say, this one is AMAZING! I used halibut, and let the cherry tomatoes get a head start with 10-12 mins in the oven before adding the fish. I did not cut them in half, and there wasn't any splatter. I also did not broil at the end, as my Le Crueset and casserole pans say not to broil or use high heat above 450. I don't like to use a sheet pan for things with sauce as it spreads, and  hard to get all the luscious sauce after.",
+          "datePublished": "2022-03-08T04:54:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Juliet Jones"
+          },
+          "reviewBody": "I was happy to see this instruction: \"1 (1-inch) piece fresh ginger, scrubbed and finely grated\". In the past, I've watched my sister in England use ginger and she never peeled it, whereas most recipes in the US call for peeling the ginger. No more peeling for me from now on!",
+          "datePublished": "2021-05-08T16:43:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mama Glik"
+          },
+          "reviewBody": "This was outstanding and I used some of the milk mixture to make rice. I used the whole can of coconut milk and after I whisked in the ginger, garlic, turmeric etc., I put a cup of the milk mixture as half of the liquid for making basmati rice in a rice cooker.  Other half water.  Fabulous rice! I didn’t have cilantro by the way and the dish was still amazing.",
+          "datePublished": "2022-05-17T00:37:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "bonnie"
+          },
+          "reviewBody": "Excellent.  Made with thick cod fillet, took a little longer.  Used parchment paper, so skipped broiling and raised oven temperature to 500 and moved pan to bottom shelf for last few minutes.   Served with jasmine rice.",
+          "datePublished": "2021-05-07T00:10:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Coates"
+          },
+          "reviewBody": "As a hesitant fish-eater, this was delicious! I used arctic char and served with spinach and brown rice. I followed the advice of others and used a glass baking dish instead of a sheet pan. I threw in some spinach with the tomatoes before broiling, but I think it worked just as well and was simpler to put fresh spinach underneath the fish when serving and the spinach wilts under the hot fish",
+          "datePublished": "2021-08-15T00:49:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "maggie"
+          },
+          "reviewBody": "Agree with Sheila. This is delicious.  Another great recipe from this author.  Appreciate the clear directions on baking and broiling.  We used halibut, and it was perfectly cooked.",
+          "datePublished": "2021-05-03T14:59:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "GaleC"
+          },
+          "reviewBody": "I made this tonight using striped sea bass fillets and it was WONDERFUL! Served with brown rice and roasted broccoli. Heavy duty foil on sheet pan was easy clean-up. No need for that 3rd Tbsp oil on fish- plenty of moisture and fat from the coconut milk marinade. Watch closely when in the broiler, only needed about 4 minutes for beautiful browning and blistering of tomatoes. Thank you for another delicious fish recipe!",
+          "datePublished": "2021-05-06T23:34:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "corinnell"
+          },
+          "reviewBody": "Loved this! Very easy, used striped bass and it was delicious. Personally, it was a little on the sweet side, so I would not use a whole tablespoon of honey next time. Maybe just one or two teaspoons, max.",
+          "datePublished": "2021-05-17T15:27:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "Regarding the aluminum sheet pan. I always put a silicone sheet on the pan (no burning mess on the pan either), which takes care of a multitude of issues. You could use parchment paper, too, but it might burn under the broiler.",
+          "datePublished": "2021-05-08T15:19:14.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1022129-coconut-fish-and-tomato-bake",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yewande Komolafe"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "A coconut-milk dressing infused with garlic, ginger, turmeric and lime coats fish fillets in this sheet-pan dinner. Accompanying the fish are bright bursts of tomatoes which turn jammy under the broiler and relinquish some of their juices to the pan sauce. This sauce is silky enough to coat a spoon and packed with flavor. It pairs well with anything from snapper to flounder and even salmon, so choose the fillets that look best at the market. You’ll want to sop up the sauce with thick slices of grilled or toasted baguette, or spoon it over steamed rice.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Coconut Fish and Tomato Bake",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/16bdf17a-32c7-5702-9c4b-de1062c38c1c#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/coconutfishrex-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Judy Kim.",
+          "dateModified": "2023-08-07T15:51:36.705Z",
+          "datePublished": "2021-04-29T15:55:53.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-29T15:55:53.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/coconutfishrex-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/16bdf17a-32c7-5702-9c4b-de1062c38c1c#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/merlin_186997626_6bf4dc0b-2582-406b-b4ca-8a64ca49c825-superJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Judy Kim.",
+          "dateModified": "2023-08-07T15:51:36.705Z",
+          "datePublished": "2021-04-29T15:55:53.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-29T15:55:53.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/merlin_186997626_6bf4dc0b-2582-406b-b4ca-8a64ca49c825-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/16bdf17a-32c7-5702-9c4b-de1062c38c1c#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/merlin_186997626_6bf4dc0b-2582-406b-b4ca-8a64ca49c825-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Judy Kim.",
+          "dateModified": "2023-08-07T15:51:36.705Z",
+          "datePublished": "2021-04-29T15:55:53.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-29T15:55:53.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/merlin_186997626_6bf4dc0b-2582-406b-b4ca-8a64ca49c825-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022129-coconut-fish-and-tomato-bake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:31:17.415Z",
+  "scraping_status": "scraped"
+}

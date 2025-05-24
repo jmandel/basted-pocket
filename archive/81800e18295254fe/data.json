@@ -1,0 +1,561 @@
+{
+  "id": "81800e18295254fe",
+  "original_url": "https://cooking.nytimes.com/recipes/1018570-chinese-stir-fried-tomatoes-and-eggs",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1018570-chinese-stir-fried-tomatoes-and-eggs",
+  "fetched_title": "Chinese Stir-Fried Tomatoes and Eggs Recipe",
+  "main_text_content": "Home-style Chinese food at its simplest and, arguably, tastiest, this dish is the object of nostalgia for many Chinese immigrants (and their children) Well-seasoned eggs scrambled until just-set combine at the last moment with a sweet-tart ginger-tomato sauce Serve with lots of steamed rice",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1012702-chinese-fried-rice-with-shrimp-and-peas\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2009/07/30/health/30recipehealth_600/30recipehealth_600-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2009/07/30/health/30recipehealth_600/30recipehealth_600-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2009/07/30/health/30recipehealth_600/30recipehealth_600-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2009/07/30/health/30recipehealth_600/30recipehealth_600-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2009/07/30/health/30recipehealth_600/30recipehealth_600-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2009/07/30/health/30recipehealth_600/30recipehealth_600-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Chinese Fried Rice With Shrimp and Peas</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Martha Rose Shulman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2022/05/09/dining/FL-chinese-stir-fried-tomatoes-eggs/FL-chinese-stir-fried-tomatoes-eggs-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/81800e18295254fe/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/2483d40a-c73c-5636-b4ac-2a6901a5c700",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1018570-chinese-stir-fried-tomatoes-and-eggs",
+        "@type": "WebPage",
+        "name": "Chinese Stir-Fried Tomatoes and Eggs"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1018570-chinese-stir-fried-tomatoes-and-eggs",
+      "name": "Chinese Stir-Fried Tomatoes and Eggs",
+      "description": "Home-style Chinese food at its simplest and, arguably, tastiest, this dish is the object of nostalgia for many Chinese immigrants (and their children). Well-seasoned eggs scrambled until just-set combine at the last moment with a sweet-tart ginger-tomato sauce. Serve with lots of steamed rice. When tomatoes are out of season, canned tomatoes in juice work best.",
+      "author": {
+        "@type": "Person",
+        "name": "Francis Lam"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/17fa6f04-1e38-5441-89f9-3dcf6b6b4869#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/05/09/dining/FL-chinese-stir-fried-tomatoes-eggs/FL-chinese-stir-fried-tomatoes-eggs-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Sang An for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks.",
+          "dateModified": "2023-10-09T18:55:35.280Z",
+          "datePublished": "2022-05-09T18:26:56.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-05-09T18:26:56.000Z",
+          "url": "https://static01.nyt.com/images/2022/05/09/dining/FL-chinese-stir-fried-tomatoes-eggs/FL-chinese-stir-fried-tomatoes-eggs-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/17fa6f04-1e38-5441-89f9-3dcf6b6b4869#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/05/09/dining/FL-chinese-stir-fried-tomatoes-eggs/FL-chinese-stir-fried-tomatoes-eggs-superJumbo.jpg",
+          "creditText": "Sang An for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks.",
+          "dateModified": "2023-10-09T18:55:35.280Z",
+          "datePublished": "2022-05-09T18:26:56.000Z",
+          "height": "1375",
+          "representativeOfPage": true,
+          "uploadDate": "2022-05-09T18:26:56.000Z",
+          "url": "https://static01.nyt.com/images/2022/05/09/dining/FL-chinese-stir-fried-tomatoes-eggs/FL-chinese-stir-fried-tomatoes-eggs-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/17fa6f04-1e38-5441-89f9-3dcf6b6b4869#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/05/09/dining/FL-chinese-stir-fried-tomatoes-eggs/FL-chinese-stir-fried-tomatoes-eggs-mediumSquareAt3X.jpg",
+          "creditText": "Sang An for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks.",
+          "dateModified": "2023-10-09T18:55:35.280Z",
+          "datePublished": "2022-05-09T18:26:56.000Z",
+          "height": "1799",
+          "representativeOfPage": true,
+          "uploadDate": "2022-05-09T18:26:56.000Z",
+          "url": "https://static01.nyt.com/images/2022/05/09/dining/FL-chinese-stir-fried-tomatoes-eggs/FL-chinese-stir-fried-tomatoes-eggs-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT20M",
+      "recipeYield": "2 or 3 servings, with rice",
+      "recipeCuisine": "chinese",
+      "recipeCategory": "breakfast, dinner, easy, for two, lunch, quick, main course",
+      "keywords": "egg, fresh ginger, ketchup, scrambled egg, tomato",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 2487
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 437,
+        "unsaturatedFatContent": "22 grams",
+        "carbohydrateContent": "31 grams",
+        "cholesterolContent": null,
+        "fatContent": "28 grams",
+        "fiberContent": "4 grams",
+        "proteinContent": "14 grams",
+        "saturatedFatContent": "4 grams",
+        "sodiumContent": "829 milligrams",
+        "sugarContent": "8 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "6 eggs",
+        "Kosher salt",
+        "1/2 teaspoon sesame oil",
+        "1 tablespoon Shaoxing rice wine or dry sherry",
+        "1 teaspoon cornstarch",
+        "1 teaspoon sugar",
+        "2 tablespoons ketchup",
+        "1 pound beefsteak tomatoes in season, or 1 14.5-ounce can of diced tomatoes in juice",
+        "4 tablespoons vegetable oil",
+        "3 scallions, sliced",
+        "1 teaspoon minced ginger (from about 1/4-inch nub)",
+        "Steamed rice, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a mixing bowl, beat the eggs well with 1 teaspoon salt, sesame oil and rice wine or sherry. In a small bowl, stir together the cornstarch and 2 tablespoons water until well combined, then stir in the sugar and ketchup."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "If using fresh tomatoes, core and cut them into 1/2-inch wide wedges."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat a wide nonstick skillet over high heat with 3 tablespoons of vegetable oil. When the oil shimmers, add most of the scallions, saving some to garnish. Cook, stirring, until very aromatic, about 20 seconds. Add the eggs, and cook, stirring well with a spatula or chopsticks, until just set but still runny, about 45 seconds. Pour the eggs back into the mixing bowl, and wipe out the pan."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Reheat the pan over high heat with the remaining tablespoon of oil. When it is hot, add the ginger and cook until aromatic, about 15 seconds. Add the tomatoes and salt to taste; cook, stirring occasionally, until the flesh has softened but still has some shape and the juices have begun to form a sauce, 2 to 3 minutes. (If using canned tomatoes, add the juice as well and cook about 4 minutes, to reduce it to a saucelike consistency.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Reduce the heat to medium. Give the cornstarch-ketchup mixture a stir in its bowl, then stir it into the pan. Cook, stirring, until the sauce returns to a boil and thickens. Taste and adjust seasoning with salt, sugar or more ketchup — you want a savory, tart-sweet sauce. Stir the eggs in the bowl to cut up the curds a bit, then return them to the pan. Cook, stirring, for a few seconds to finish cooking the eggs and to combine. Top with the reserved scallions, and serve with steamed rice."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2017-02-05T00:00:00.000Z",
+      "dateModified": "2022-05-06T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meinmunich"
+          },
+          "reviewBody": "Out of all the egg tomato recipes I had tried: this one is the best!",
+          "datePublished": "2025-05-05T23:40:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stacey"
+          },
+          "reviewBody": "I had the opportunity to live in Beijing for a year and a half. Initially, I was confounded by the scrambled eggs. Why did all the eggs have ketchup???\n\nThen, as all foreigners do at some point, I got used to the eggs. And everything else. When I came back to the States, I experienced mild culture shock. Why can’t you get  here like we ate daily in Beijing?\n\nThank you for the recipe! Brings back such fond memories.",
+          "datePublished": "2025-03-31T23:44:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeffrey Gilbert"
+          },
+          "reviewBody": "Excellent dish!  My partner is from China, his parents made this dish often and he loves this version.  The only thing I add is some garlic in with the ginger just because we both love garlic.",
+          "datePublished": "2025-03-21T00:00:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "P.N.Becker"
+          },
+          "reviewBody": "At the very last step, add day-old, cold rice — about a cup or so — to heat up with the egg mix (as you followed the last part in the recipe).  This will make a nice, eggy fried rice.  Top a serving with scallions or a dash of hot sauce (or a dash of soy sauce).  It’s delicious.",
+          "datePublished": "2025-03-14T18:12:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lizzy"
+          },
+          "reviewBody": "My Slovenian born mother, an Australian immigrant in the 1950s, used to make a very similar version, minus sesame oil, ginger, ketchup and rice wine, for us for dinner. Chopped garlic was added to the onions, rather than scallions. It was served on its own with a green leafy salad dressed with oil and vinegar, on the side.",
+          "datePublished": "2025-03-05T01:48:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ebb"
+          },
+          "reviewBody": "Love the protein is lots of eggs and not meats or tofu. Great, easy recipe. Very flavorful. Will make often.",
+          "datePublished": "2025-01-29T02:34:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Les"
+          },
+          "reviewBody": "I have 2 students who live with me from Shanghai.  They love this dish but would never use the wine in it.  Only oyster sauce.  Which I prefer.  they have taught me to make it but have never had to thicken it with cornstarch. We always skin the tomatoes",
+          "datePublished": "2025-01-26T16:51:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chef Agostino"
+          },
+          "reviewBody": "this is such comfort food. i used leftover rice and added it at the end to warm up and mix with the other ingredients.",
+          "datePublished": "2025-01-10T19:58:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ashlee"
+          },
+          "reviewBody": "Easily added into my regular rotation! Great for any meal of the day really. Followed the recipe exactly as is and would do in the future.",
+          "datePublished": "2025-01-08T02:52:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "csunstone"
+          },
+          "reviewBody": "This version was too sweet and soupy for my tastes. A good dose of green sriracha really improved it.",
+          "datePublished": "2024-08-17T15:01:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Claire L"
+          },
+          "reviewBody": "I love this recipe--mostly don't bother with the ginger and I use mirin wine. Great way to enjoy the summer tomato harvest.",
+          "datePublished": "2024-08-13T17:56:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandy"
+          },
+          "reviewBody": "Made this as a single portion for lunch. The flavors are really nice and it’s a welcome change form my standard scrambled eggs. I omitted the sugar because the ketchup already has some. I used fresh-picked tomatoes and tossed in a few fresh Holy Basil leaves I had - well, because I had just headed the Holy Basil in my garden. I will make this again.",
+          "datePublished": "2024-08-07T16:33:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peters enemy"
+          },
+          "reviewBody": "I love this dish so much. The only thing I do differently is when adding the tomatoes to the pan I also add some msg. One of my favourite weekday/quick dinners.",
+          "datePublished": "2024-06-09T18:06:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Name"
+          },
+          "reviewBody": "This is a repeat in our household. Use can of San marzano tomatoes - you wouldn’t even need sugar! I also up the number of eggs to eight and increase the amount of ingredients accordingly. But this dish doesn’t need accurate measuring - it’s to your taste kinda dish as noted in the recipe.",
+          "datePublished": "2024-04-02T01:24:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "meinmunich"
+          },
+          "reviewBody": "Added a tablespoon of oyster sauce to the starch slurry. Delicious!",
+          "datePublished": "2024-02-23T23:23:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LH"
+          },
+          "reviewBody": "I had never heard of this before, and I made it exactly as written (using the canned tomato option). (Correction: I did reduce the frying oil by half.) <br/><br/>Wow! I have a new easy weeknight favorite. Delicious with a thick piece of dense, grainy toast. <br/><br/>Here's a tip: keep fingers of ginger frozen in a Ziploc bag. As you need ginger, simply peel a bit of a fingertip and use a microplane to grate the frozen ginger. (Frozen ginger grates MUCH more easily.) Then put the bag back in the fridge.",
+          "datePublished": "2017-10-01T15:23:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ed Franceschini"
+          },
+          "reviewBody": "I am the son of Italian immigrants. My mother made eggs like this. In a cast iron skillet, slowly cook some fresh tomatoes until most liquid is gone. Carefully break eggs into sauce without breaking the yolk. With a fork stir the egg white into the sauce so that it solidifies and combines. Leave the yolk whole. If worried about the yolk being fully cooked, cover for a couple of minutes. Then serve.<br/><br/>This was in the 1930s and 40s.",
+          "datePublished": "2017-10-24T17:39:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "petey tonei"
+          },
+          "reviewBody": "This (a version of it minus the rice wine) is a very familiar breakfast food all over South Asia. The Parsee version is called akoori scrambles. In the south there's a delightful version using curry leaves and chili peppers along with cilantro and tomatoes. Try adding curry powder, its aromatic and amazing, the complex flavors tingle in the mouth and you are fully awake!",
+          "datePublished": "2017-10-24T17:22:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joanne"
+          },
+          "reviewBody": "I loved all the personal stories and the versions of this recipe that cross cultures. Thanks to the NYT readers for sharing. It makes me proud to be part of this community.",
+          "datePublished": "2017-10-24T17:24:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Naani-Daadi"
+          },
+          "reviewBody": "Thank you for this recipe/ Yes, in North India, we too have a version but it's more like an omelet that has tomatoes, cilantro, minced onion, and chopped green chillies. (no rice wine). And served over an \"aaloo paratha\" (stuffed wheat flat-bread). Ketchup is not traditional (too sweet) but the kids seem to like it sprinkled on top. It is a breakfast food and goes wonderfully with masala chai.",
+          "datePublished": "2017-10-24T17:36:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maria"
+          },
+          "reviewBody": "In Greece its called Kayiana, and its made by scrambling eggs, fresh chopped tomatoes, olive oil, oregano, salt/pepper and if you like, cheese. It is delicious!",
+          "datePublished": "2017-10-24T17:22:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie&#39;s revelation..."
+          },
+          "reviewBody": "If you want to go even simpler... try mom's version of tomato eggs, Shanghai style. It only calls for tomatoes (thinly sliced) + a sprinkle of sugar and squeeze of fresh lemon when sautéed, beaten eggs + shao xing cooking wine + pinch of salt. that's it!! No need for anything else, really. It's fresh and light.",
+          "datePublished": "2019-04-21T22:29:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JJ Wu"
+          },
+          "reviewBody": "Tomato scrambled eggs and rice sustained me through college! The ratio of economical to tasty is simply unbeatable. My family is Taiwanese though, and my mom's version uses only eggs, tomatoes, garlic, salt, sugar, and olive oil",
+          "datePublished": "2017-10-24T17:38:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mountainweaver"
+          },
+          "reviewBody": "A similar recipe from my mother's Italy. break parmesan cheese into small pieces ( a fork works well). put a small amount of olive oil in a pan. Brown the cheese bits in a fast and hot pan... do not melt the cheese bits. Stir in 4-6 well beaten eggs, stir as they are cooking. Just before they firm up add a few tablespoons of tomato sauce and stir to finish.<br/>Great hot, great cold, makes a wonderful addition to a summer spread of cheese and veggies.",
+          "datePublished": "2017-10-24T17:26:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erin"
+          },
+          "reviewBody": "I'd never had or even heard of this dish until I found this recipe but decided to give it a shot - delicious! Simple to make but super flavorful. I took the advice of some of the commenters and omitted the ketchup, though did mix a bit of sriracha into the corn starch slurry for added sweetness and spice. I also seasoned the tomatoes with a bit of soy sauce instead of salt for extra umami. This will DEFINITELY become a staple in my household!",
+          "datePublished": "2019-01-17T02:48:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janet"
+          },
+          "reviewBody": "I am SO sorry that Francis Lam won't be doing this column anymore; I have really enjoyed the the stories as much as the recipes. Looking forward to whatever Francis will take on next.",
+          "datePublished": "2017-10-24T17:29:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RoLo"
+          },
+          "reviewBody": "There's a lot of hate for the ketchup in these reviews - suit yourself! It may be more \"fresh\" or \"authentic\" (whatever that means) without the ketchup, but it also won't taste as much like the one my Hong Kong-born mother made for me to eat while growing up in New Mexico. Francis Lam, from 1st gen Cantonese ABC to another, thank you for helping me recreate one of my favorite childhood dishes.",
+          "datePublished": "2019-10-10T01:01:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Golden"
+          },
+          "reviewBody": "This reminds me of a dish that our cook made for us when I lived in Bogota, Colombia years ago. It was scrambled eggs cooked in vegetable oil instead of butter.  You sauteed diced onions in the oil, generously salted, and when softened, added the tomatoes to saute for a bit and salted again.  Finally the beaten eggs were stirred in until it all came together in a creamy dish of scrambled eggs.  I will definitely make your Asian version.",
+          "datePublished": "2017-10-24T17:23:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy"
+          },
+          "reviewBody": "I was used to the Taiwanese style, because I taught English to mostly Taiwanese immigrants in New York City and we cooked together in my home.  That style doesn't have the ketchup and cornstarch sauce. I have to say I like it both ways. The French make something similar which is called les œufs brouillées à la tomate.  Cook the tomatoes slowly in butter and olive oil with shallots and/or garlic. Then scramble the eggs in the tomato red sauce ever so gently, top with fresh herbs and voila! ",
+          "datePublished": "2017-10-01T14:28:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen"
+          },
+          "reviewBody": "There must be a version of this in almost every culture. I ate a version of this at least three times a week when i lived in the former Yugoslavia. It was called sataras (pronounced \"sah-ta-rahsh\") and it was usually served over boiled potatoes.",
+          "datePublished": "2017-10-24T17:20:46.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2017
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1018570-chinese-stir-fried-tomatoes-and-eggs",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Francis Lam"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2017,
+      "description": "Home-style Chinese food at its simplest and, arguably, tastiest, this dish is the object of nostalgia for many Chinese immigrants (and their children). Well-seasoned eggs scrambled until just-set combine at the last moment with a sweet-tart ginger-tomato sauce. Serve with lots of steamed rice. When tomatoes are out of season, canned tomatoes in juice work best.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Chinese Stir-Fried Tomatoes and Eggs",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/17fa6f04-1e38-5441-89f9-3dcf6b6b4869#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/05/09/dining/FL-chinese-stir-fried-tomatoes-eggs/FL-chinese-stir-fried-tomatoes-eggs-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Sang An for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks.",
+          "dateModified": "2023-10-09T18:55:35.280Z",
+          "datePublished": "2022-05-09T18:26:56.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-05-09T18:26:56.000Z",
+          "url": "https://static01.nyt.com/images/2022/05/09/dining/FL-chinese-stir-fried-tomatoes-eggs/FL-chinese-stir-fried-tomatoes-eggs-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/17fa6f04-1e38-5441-89f9-3dcf6b6b4869#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/05/09/dining/FL-chinese-stir-fried-tomatoes-eggs/FL-chinese-stir-fried-tomatoes-eggs-superJumbo.jpg",
+          "creditText": "Sang An for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks.",
+          "dateModified": "2023-10-09T18:55:35.280Z",
+          "datePublished": "2022-05-09T18:26:56.000Z",
+          "height": "1375",
+          "representativeOfPage": true,
+          "uploadDate": "2022-05-09T18:26:56.000Z",
+          "url": "https://static01.nyt.com/images/2022/05/09/dining/FL-chinese-stir-fried-tomatoes-eggs/FL-chinese-stir-fried-tomatoes-eggs-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/17fa6f04-1e38-5441-89f9-3dcf6b6b4869#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/05/09/dining/FL-chinese-stir-fried-tomatoes-eggs/FL-chinese-stir-fried-tomatoes-eggs-mediumSquareAt3X.jpg",
+          "creditText": "Sang An for The New York Times. Food Stylist: Simon Andrews. Prop Stylist: Paige Hicks.",
+          "dateModified": "2023-10-09T18:55:35.280Z",
+          "datePublished": "2022-05-09T18:26:56.000Z",
+          "height": "1799",
+          "representativeOfPage": true,
+          "uploadDate": "2022-05-09T18:26:56.000Z",
+          "url": "https://static01.nyt.com/images/2022/05/09/dining/FL-chinese-stir-fried-tomatoes-eggs/FL-chinese-stir-fried-tomatoes-eggs-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1018570-chinese-stir-fried-tomatoes-and-eggs"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:36:31.084Z",
+  "scraping_status": "scraped"
+}

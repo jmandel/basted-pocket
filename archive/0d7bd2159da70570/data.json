@@ -1,0 +1,569 @@
+{
+  "id": "0d7bd2159da70570",
+  "original_url": "https://cooking.nytimes.com/recipes/1019542-velvet-fish-with-mushrooms",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1019542-velvet-fish-with-mushrooms",
+  "fetched_title": "Velvet Fish With Mushrooms Recipe",
+  "main_text_content": "Here’s a recipe that takes its flavor inspiration from a dish served at Nancy Xiao’s restaurant China Xiang, in the theater district of Manhattan: a sweet-salty rice wine sauce over velveted fish Its preparation owes much to the teachings of the classic 1969 cookbook “Chinese Gastronomy,” by Tsuifeng Lin and Hsiang Ju Lin, and the advice of the chef Jonathan Wu It is what the Lins call “two-passes” cooking, with the fish cooked twice, first to velvet it, then to cover it with sauce",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1018964-halibut-with-brown-butter-lemon-and-sage\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2017/10/18/dining/18KITCHEN1/18KITCHEN1-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2017/10/18/dining/18KITCHEN1/18KITCHEN1-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2017/10/18/dining/18KITCHEN1/18KITCHEN1-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2017/10/18/dining/18KITCHEN1/18KITCHEN1-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2017/10/18/dining/18KITCHEN1/18KITCHEN1-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2017/10/18/dining/18KITCHEN1/18KITCHEN1-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2017/10/18/dining/18KITCHEN1/18KITCHEN1-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2017/10/18/dining/18KITCHEN1/18KITCHEN1-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Halibut With Brown Butter, Lemon and Sage</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">David Tanis</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/0d7bd2159da70570/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/1b512c55-69f1-590c-b76c-3c8b5f7076be",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1019542-velvet-fish-with-mushrooms",
+        "@type": "WebPage",
+        "name": "Velvet Fish With Mushrooms"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019542-velvet-fish-with-mushrooms",
+      "name": "Velvet Fish With Mushrooms",
+      "description": "Here’s a recipe that takes its flavor inspiration from a dish served at Nancy Xiao’s restaurant China Xiang, in the theater district of Manhattan: a sweet-salty rice wine sauce over velveted fish. Its preparation owes much to the teachings of the classic 1969 cookbook “Chinese Gastronomy,” by Tsuifeng Lin and Hsiang Ju Lin, and the advice of the chef Jonathan Wu. It is what the Lins call “two-passes” cooking, with the fish cooked twice, first to velvet it, then to cover it with sauce. (It’s important, Wu notes, not to think of it as stir-frying with high heat but as gentle, careful cooking that does not break up the fish.) It’s great with flounder as at China Xiang, but also with tilapia, with halibut, with whatever firm-fleshed white fish you can find at the market. You can substitute firm tofu in place of the fish, or go half and half. It’s a dish to fall in love with, to make your own.",
+      "author": {
+        "@type": "Person",
+        "name": "Sam Sifton"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/37ba4466-fa41-5df6-8e68-52e554429a77#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Velvet fish with mushrooms.",
+          "contentUrl": "https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Gentl and Hyers for The New York Times. Food stylist: Frances Boswell. Prop stylist: Pamela Duncan Silver.",
+          "dateModified": "2018-10-11T17:19:13.099Z",
+          "datePublished": "2018-08-27T16:22:47.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2018-08-27T16:22:47.000Z",
+          "url": "https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/37ba4466-fa41-5df6-8e68-52e554429a77#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Velvet fish with mushrooms.",
+          "contentUrl": "https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-superJumbo.jpg",
+          "creditText": "Gentl and Hyers for The New York Times. Food stylist: Frances Boswell. Prop stylist: Pamela Duncan Silver.",
+          "dateModified": "2018-10-11T17:19:13.099Z",
+          "datePublished": "2018-08-27T16:22:47.000Z",
+          "height": "1675",
+          "representativeOfPage": true,
+          "uploadDate": "2018-08-27T16:22:47.000Z",
+          "url": "https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/37ba4466-fa41-5df6-8e68-52e554429a77#square640",
+          "@type": "ImageObject",
+          "caption": "Velvet fish with mushrooms.",
+          "contentUrl": "https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-square640.jpg",
+          "creditText": "Gentl and Hyers for The New York Times. Food stylist: Frances Boswell. Prop stylist: Pamela Duncan Silver.",
+          "dateModified": "2018-10-11T17:19:13.099Z",
+          "datePublished": "2018-08-27T16:22:47.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2018-08-27T16:22:47.000Z",
+          "url": "https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT1H30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "chinese",
+      "recipeCategory": "seafood, main course",
+      "keywords": "mushroom, oyster sauce, rice wine, scallion, white fish",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 681
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 212,
+        "unsaturatedFatContent": "8 grams",
+        "carbohydrateContent": "10 grams",
+        "cholesterolContent": null,
+        "fatContent": "11 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "17 grams",
+        "saturatedFatContent": "1 gram",
+        "sodiumContent": "742 milligrams",
+        "sugarContent": "2 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 tablespoons egg white, lightly beaten",
+        "2 tablespoons plus 1 teaspoon cornstarch",
+        "2 tablespoons plus 1 teaspoon Chinese rice wine or sake",
+        "1/2 teaspoon kosher salt",
+        "1 pound firm-fleshed, thick white fish fillets, like flounder, cod or halibut",
+        "6 dried wood-ear mushrooms or shiitake mushrooms",
+        "1 teaspoon plus 2 tablespoons neutral oil",
+        "1 teaspoon oyster sauce",
+        "1 tablespoon dark soy sauce",
+        "1 tablespoon low-sodium soy sauce",
+        "1/4 teaspoon Chinese black vinegar",
+        "1/2 teaspoon white vinegar",
+        "3/4 teaspoon white sugar",
+        "1 tablespoon sliced scallions, white part only",
+        "1 tablespoon minced garlic",
+        "1 tablespoon minced ginger"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour the egg white into a medium-size bowl, then add to it 1 tablespoon plus 1 teaspoon cornstarch, 1 tablespoon plus 1 teaspoon rice wine and salt, and whisk until all the cornstarch has dissolved. Use a chef’s knife held at a 45-degree angle to the cutting surface to slice the fish fillets crosswise into 1/2-inch slices. Add the fish to the cornstarch mixture, then carefully toss it to coat the fish, and set aside to marinate for 30 to 45 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place the mushrooms in a small bowl, then pour hot water over them and allow them to soak for 20 minutes or so, until they are very soft. Remove the mushrooms from the water and dry them, then thinly slice each mushroom. (Reserve the mushroom-soaking liquid.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the sauce. Combine the oyster sauce, the remaining tablespoon of rice wine, soy sauces, vinegars and sugar in a bowl, then whisk to combine. Sprinkle in the remaining tablespoon cornstarch, and whisk to dissolve it into the sauce. Add a tablespoon of the mushroom-soaking liquid or water, and set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Velvet the fish. Fill a wok or large pot with water, and bring to a boil over high heat. Add a teaspoon of oil to the boiling water. Carefully add the fish to the water, piece by piece, working in batches so as not to crowd the pieces. Allow the fish to cook until it has turned opaque, approximately 1 to 2 minutes, depending on the thickness of the fillets. Using a skimmer or spider, transfer the fish carefully to a platter to rest."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To finish the dish, heat the remaining 2 tablespoons oil in a wok or large skillet set over high heat. When the oil shimmers and is about to smoke, add the scallions, garlic and ginger, and stir-fry for 30 seconds, or until the mixture is fragrant. Add the mushrooms, and continue to stir-fry for an additional 30 seconds. Stir the sauce mixture, and add it to the wok, then cook for 2 to 3 minutes, until it has thickened slightly. If it is too thick, thin it out with some of the mushroom-soaking liquid. Add the fish to the wok, and carefully toss until the flesh is coated. Transfer the mixture to a warm platter, and serve immediately."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pierre"
+          },
+          "reviewBody": "Exquisite. Thank you!",
+          "datePublished": "2025-01-23T00:59:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "black vinegar"
+          },
+          "reviewBody": "When my Chinese mom is low on Chinese black vinegar, she substitutes with balsamic and you can't really tell the difference when you're cooking with it.",
+          "datePublished": "2024-08-15T14:21:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katherine"
+          },
+          "reviewBody": "This was really delicious. I didn't have black vinegar, so I used a substitution I've seen in other recipes: balsamic vinegar.  The texture of the fish was particularly nice!",
+          "datePublished": "2023-04-15T18:39:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "EB"
+          },
+          "reviewBody": "The velveting of the fish was entirely unnecessary. A simple poach would have been sufficient. Too much cornstarch for the sauce. Will not recommend. Will not make again.",
+          "datePublished": "2023-04-13T18:50:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rachel"
+          },
+          "reviewBody": "Some have asked how to prevent the tofu from falling apart: steam the tofu and the fish together instead of \"velveting\". I carefully sliced silken tofu (the packaging says \"for steaming\") on a deep dish and fanned it out, and placed my fish in the middle. Steam until fish is opaque, approx 5 min. Omitted the cornflour as my family isn't fond of thickened sauces. Stir-fried the minced garlic and ginger until almost crispy before adding the sauce. Pour searing hot sauce onto steamed fish and tofu.",
+          "datePublished": "2023-04-11T06:29:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ed Windels"
+          },
+          "reviewBody": "Definitely double the sauce.",
+          "datePublished": "2023-04-08T21:58:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gary Wasserman"
+          },
+          "reviewBody": "I want to substitute potato starch for corn starch.  Do I have to adjust the recipe to make this change?",
+          "datePublished": "2023-04-07T19:57:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "debbie"
+          },
+          "reviewBody": "After reading the notes I def would have used a dark soy sauce (all I had on hand was my usual not very special one). However, this was still a yummy dish, and the process of velveting fish is oddly very relaxing. I will try again with the proper ingredients",
+          "datePublished": "2022-04-18T02:51:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debnev"
+          },
+          "reviewBody": "Underwhelmed and disappointed. I used nice, thick fresh cod loin, but in retrospect, I can think of better things to do with that gorgeous fish. Now, maybe it's because I couldn't find dark soy or Chinese black vinegar. I subbed a high quality balsamic. Otherwise, followed the recipe to the letter. Not thrilled. Oh well....",
+          "datePublished": "2022-02-11T01:42:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debnev"
+          },
+          "reviewBody": "Also, I don't understand the need for velveting the fish? I know the velveting method makes for very tender chicken breast, but fish is already supple and tender, as long as you don't overcook it. So, what's the benefit here?",
+          "datePublished": "2022-02-11T01:46:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cervantes"
+          },
+          "reviewBody": "Made this on a Sunday night with bok choy and white rice. Not as complicated as it seems and the substitutions worked fine, the flavor was mild and savory. Velveting the fish gives it a firm and slightly chewy texture. I used one pound tilapia. I stir fried the greens in the heated pan before starting the sauce and held in a warm oven.   \n\nSubstitutions: fish sauce for oyster sauce\nRice wine vinegar for rice wine\nRegular soy sauce for both kinds listed \nFresh mushrooms for dried",
+          "datePublished": "2021-12-13T00:54:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BHansen"
+          },
+          "reviewBody": "I made this as printed (tbh, I didn't have two kinds of soy sauce and just used the one I had in place of both). When I added the sauce mixture to the hot pan it immediately became a paste. I had to add about 7 tbsp of the mushroom soaking liquid. Perhaps that is why the sauce was \"okay\" to me. If I make again, no way will I add a full tbsp of cornstarch to the sauce. Served over longevity noodles from a local market.",
+          "datePublished": "2021-09-29T15:54:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marie"
+          },
+          "reviewBody": "Absolutely delicious! The velveting method was perfect!We used local Florida snapper and it held up beautifully. I only used 12 0z. for two but I did double the sauce as recommended by others & had to use the mushroom soaking liquid immediately as the sauce thickened in about 1 sec! But, the liquid smoothed it out and it was perfect! Served with sticky rice & Bok choy. Will def. make again!!",
+          "datePublished": "2021-09-28T14:04:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eat.Eat.Love"
+          },
+          "reviewBody": "Help me out here - this was a fail for me so where did I go wrong?   One of the problems for me is that half inch slices seems too thin and the pieces broke up with the gentlest of handling. The cornstarch in the sauce seems extremely excessive- it didn’t take 10 seconds in my skillet to become thick and unusable without significant thinning and even then came out salty and uninteresting. Was hoping for something fabulous and this turned out to be a terrible way to use an expensive fish.",
+          "datePublished": "2021-09-27T03:20:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Justine"
+          },
+          "reviewBody": "Superb",
+          "datePublished": "2021-09-25T06:54:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "Two questions: If I add tofu too, what density of tofu? Soft, medium, firm? And, I love a new ingredient more than most, but will I ever use Chinese Black vinegar again? What’s it like and can I substitute or absolutely not? Thanks for an inspired and inspiring recipe!",
+          "datePublished": "2018-09-05T17:39:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bicka"
+          },
+          "reviewBody": "This was incredible.  I used a combo of halibut and tofu.  I used fresh Shiitake mushrooms rather than dried, so sautéed them in oil until they began to brown and then added the aromatics (garlic, ginger and scallions).  The only complaint I had was that the sauce was skimpy.  It immediately thickens to a paste.  Had to add around 1/2 cup of water to get a paste.  Next time, I will double the sauce and decrease the cornstarch.  Big hit with everyone in.cluding the 12 year old",
+          "datePublished": "2018-09-09T02:37:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Coco Pazzo"
+          },
+          "reviewBody": "Since I don't own a wok and thus don't cook Chinese recipes at home, I was unfamiliar with the term \"velveting.\"   Here's a good explanation of the technique:  https://www.seriouseats.com/2014/07/chinese-velveting-101-introduction-w...",
+          "datePublished": "2018-09-09T15:40:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "perlious"
+          },
+          "reviewBody": "Dark soy sauce is much sweeter and thicker than regular soy sauce.  By itself, dark soy sauce is too rich.  the mixture of the two gives you an intermediary thickness and richness.  This mixture is used in many Shanghainese and Taiwanese braises.  See any recipe for \"red cooking\".",
+          "datePublished": "2018-09-07T14:21:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michele"
+          },
+          "reviewBody": "I love Chinese black vinegar and use it regularly even when I'm not on a Chinese cooking spree.  Use it to flavor anything where you want a slight vinegary edge.  Soup, stews, and of course salads.  If you like a spritz of lemon on scrambled eggs or omelets, try this instead.",
+          "datePublished": "2018-09-07T12:17:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MaryAnn"
+          },
+          "reviewBody": "Black vinegar is addictive as a dumpling dip- for a quick lunch I buy pork and leek frozen dumplings and steam them in the microwave. I sometimes add a little soy sauce and/or chili oil to the dip. Also great on cucumber salad, again with soy sauce and chili oil.",
+          "datePublished": "2018-09-09T17:08:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "My Moor"
+          },
+          "reviewBody": "I cooked this dish 2x.  We loved it so much .. restaurant quality.  I used frozen tilapia . Followed recipe double sauce and used crimini mushrooms ... more garlic and ginger and more green onions. Delicious .  Garnish with sliced green onions and cilantro.\n\nServed with zoodles and bean sprout .. sauteed in peanut oil .. garlic, onions, red bell pepper and spiral zucchini and bean sprouts, soy sauce.  Garnish sliced green onions",
+          "datePublished": "2018-10-15T05:11:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jen Regrut"
+          },
+          "reviewBody": "Ingredients are not “odd”, perhaps they are not white, but these are common ingredients in any Asian kitchen",
+          "datePublished": "2019-02-23T02:39:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "R.F. Plevy"
+          },
+          "reviewBody": "4 Servings?  Not in my family.  This is for one large hungry person or two moderately hungry people.",
+          "datePublished": "2018-09-08T22:26:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tina Chan"
+          },
+          "reviewBody": "My Chinese parents immigrated to Canada, and we never had a wok at home, but cooked Chinese food (specifically Cantonese) food every meal with cast iron frying pans. Please don't let the lack of a wok dissuade you from trying to cook Chinese food at home! :)",
+          "datePublished": "2018-12-10T22:58:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Krista"
+          },
+          "reviewBody": "Chinese black vinegar -- aka Chinkiang vinegar -- is delicious and cheap. Balsamic vinegar is the closest Western vinegar but quality Balsamic is more expensive. In a dish like this where it provides most of the flavour in the sauce I would hesitate to substitute.",
+          "datePublished": "2018-09-07T22:10:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "perlious"
+          },
+          "reviewBody": "Traditionally, using soft tofu is correct.  It will make this a delightful dish.  But soft tofu breaks easily when stir fried.  If you are not used to stir frying soft tofu, use medium firm tofu, but you will not have the same effect.  You can gently boil soft tofu to firm them up a little (a technique used to make Mapo Tofu with soft tofu), but they will still be fragile when stir fried.",
+          "datePublished": "2018-09-07T14:28:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara Lachman"
+          },
+          "reviewBody": "We love Chinese Black vinegar. It's available at any Asian food store and tastes a bit like a good balsamic. We use it sparingly in breakfast scrambled eggs, stir fries, and Chinese soups and with tofu.",
+          "datePublished": "2018-09-06T14:03:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen L Davis"
+          },
+          "reviewBody": "Why is everyone writing about soft tofu when Sam’s lead-in instructions very clearly say firm tofu?",
+          "datePublished": "2018-09-14T19:58:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debbie"
+          },
+          "reviewBody": "This is amazing!!!  I made it for two with half the fish but with the full sauce recipe-it was perfect!!  Worth finding all the odd ingredients at the local Asian market!!",
+          "datePublished": "2019-01-15T12:00:58.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1019542-velvet-fish-with-mushrooms",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Sam Sifton"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018,
+      "description": "Here’s a recipe that takes its flavor inspiration from a dish served at Nancy Xiao’s restaurant China Xiang, in the theater district of Manhattan: a sweet-salty rice wine sauce over velveted fish. Its preparation owes much to the teachings of the classic 1969 cookbook “Chinese Gastronomy,” by Tsuifeng Lin and Hsiang Ju Lin, and the advice of the chef Jonathan Wu. It is what the Lins call “two-passes” cooking, with the fish cooked twice, first to velvet it, then to cover it with sauce. (It’s important, Wu notes, not to think of it as stir-frying with high heat but as gentle, careful cooking that does not break up the fish.) It’s great with flounder as at China Xiang, but also with tilapia, with halibut, with whatever firm-fleshed white fish you can find at the market. You can substitute firm tofu in place of the fish, or go half and half. It’s a dish to fall in love with, to make your own.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Velvet Fish With Mushrooms",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/37ba4466-fa41-5df6-8e68-52e554429a77#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Velvet fish with mushrooms.",
+          "contentUrl": "https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Gentl and Hyers for The New York Times. Food stylist: Frances Boswell. Prop stylist: Pamela Duncan Silver.",
+          "dateModified": "2018-10-11T17:19:13.099Z",
+          "datePublished": "2018-08-27T16:22:47.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2018-08-27T16:22:47.000Z",
+          "url": "https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/37ba4466-fa41-5df6-8e68-52e554429a77#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Velvet fish with mushrooms.",
+          "contentUrl": "https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-superJumbo.jpg",
+          "creditText": "Gentl and Hyers for The New York Times. Food stylist: Frances Boswell. Prop stylist: Pamela Duncan Silver.",
+          "dateModified": "2018-10-11T17:19:13.099Z",
+          "datePublished": "2018-08-27T16:22:47.000Z",
+          "height": "1675",
+          "representativeOfPage": true,
+          "uploadDate": "2018-08-27T16:22:47.000Z",
+          "url": "https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/37ba4466-fa41-5df6-8e68-52e554429a77#square640",
+          "@type": "ImageObject",
+          "caption": "Velvet fish with mushrooms.",
+          "contentUrl": "https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-square640.jpg",
+          "creditText": "Gentl and Hyers for The New York Times. Food stylist: Frances Boswell. Prop stylist: Pamela Duncan Silver.",
+          "dateModified": "2018-10-11T17:19:13.099Z",
+          "datePublished": "2018-08-27T16:22:47.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2018-08-27T16:22:47.000Z",
+          "url": "https://static01.nyt.com/images/2018/09/09/magazine/09mag-eat-image1/09mag-eat-image1-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019542-velvet-fish-with-mushrooms"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:33:06.665Z",
+  "scraping_status": "scraped"
+}

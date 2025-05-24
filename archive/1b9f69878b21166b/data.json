@@ -1,0 +1,566 @@
+{
+  "id": "1b9f69878b21166b",
+  "original_url": "https://cooking.nytimes.com/recipes/1025615-cold-noodles-with-zucchini",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025615-cold-noodles-with-zucchini",
+  "fetched_title": "Cold Noodles With Zucchini Recipe",
+  "main_text_content": "Zucchini loves the kiss of heat but can easily turn to mush Briefly salting and drying half-moons of zucchini before quickly stir-frying them, mostly on one side, maintains their texture while lending so much flavor An impactful dressing of maple syrup, soy sauce and fish sauce — plus a pinch of concentrated savoriness in the form of garlic powder — seasons both stir-fry and noodle",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1022458-caramelized-zucchini-pasta\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2021/08/06/dining/as-caramelized-zucchini-pasta/merlin_192092256_44c23e41-ce25-4137-ac0d-651b194f2ddf-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2021/08/06/dining/as-caramelized-zucchini-pasta/merlin_192092256_44c23e41-ce25-4137-ac0d-651b194f2ddf-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2021/08/06/dining/as-caramelized-zucchini-pasta/merlin_192092256_44c23e41-ce25-4137-ac0d-651b194f2ddf-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2021/08/06/dining/as-caramelized-zucchini-pasta/merlin_192092256_44c23e41-ce25-4137-ac0d-651b194f2ddf-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2021/08/06/dining/as-caramelized-zucchini-pasta/merlin_192092256_44c23e41-ce25-4137-ac0d-651b194f2ddf-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2021/08/06/dining/as-caramelized-zucchini-pasta/merlin_192092256_44c23e41-ce25-4137-ac0d-651b194f2ddf-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2021/08/06/dining/as-caramelized-zucchini-pasta/merlin_192092256_44c23e41-ce25-4137-ac0d-651b194f2ddf-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2021/08/06/dining/as-caramelized-zucchini-pasta/merlin_192092256_44c23e41-ce25-4137-ac0d-651b194f2ddf-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Caramelized Zucchini Pasta</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Ali Slagle</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/06/21/multimedia/ek-Zucchini-Somen-kpcg/ek-Zucchini-Somen-kpcg-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/1b9f69878b21166b/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/8dc1e5c3-7a5d-580e-b81d-3b7569144987",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025615-cold-noodles-with-zucchini",
+        "@type": "WebPage",
+        "name": "Cold Noodles With Zucchini"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025615-cold-noodles-with-zucchini",
+      "name": "Cold Noodles With Zucchini",
+      "description": "Zucchini loves the kiss of heat but can easily turn to mush. Briefly salting and drying half-moons of zucchini before quickly stir-frying them, mostly on one side, maintains their texture while lending so much flavor. An impactful dressing of maple syrup, soy sauce and fish sauce — plus a pinch of concentrated savoriness in the form of garlic powder — seasons both stir-fry and noodle. Ice is the secret ingredient that helps to cool down the noodles for quick eating, as well as to melt down and open up the flavors of the dressing (as water is wont to do) while you eat. The final spritz of citrus is not optional: It finishes the dressing and makes this chill meal taste multidimensional. A tableside sprinkle of toasted sesame seeds, furikake or shichimi togarashi is welcome.",
+      "author": {
+        "@type": "Person",
+        "name": "Eric Kim"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/f7a3ee46-e4c5-514a-9e4a-17a888bc32a7#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/06/21/multimedia/ek-Zucchini-Somen-kpcg/ek-Zucchini-Somen-kpcg-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-06-21T16:36:28.879Z",
+          "datePublished": "2024-06-21T16:36:28.879Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-06-21T16:36:28.879Z",
+          "url": "https://static01.nyt.com/images/2024/06/21/multimedia/ek-Zucchini-Somen-kpcg/ek-Zucchini-Somen-kpcg-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/f7a3ee46-e4c5-514a-9e4a-17a888bc32a7#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/06/21/multimedia/ek-Zucchini-Somen-kpcg/ek-Zucchini-Somen-kpcg-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-06-21T16:36:28.879Z",
+          "datePublished": "2024-06-21T16:36:28.879Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-06-21T16:36:28.879Z",
+          "url": "https://static01.nyt.com/images/2024/06/21/multimedia/ek-Zucchini-Somen-kpcg/ek-Zucchini-Somen-kpcg-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/f7a3ee46-e4c5-514a-9e4a-17a888bc32a7#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/06/21/multimedia/ek-Zucchini-Somen-kpcg/ek-Zucchini-Somen-kpcg-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-06-21T16:36:28.879Z",
+          "datePublished": "2024-06-21T16:36:28.879Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-06-21T16:36:28.879Z",
+          "url": "https://static01.nyt.com/images/2024/06/21/multimedia/ek-Zucchini-Somen-kpcg/ek-Zucchini-Somen-kpcg-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT5M",
+      "cookTime": "PT10M",
+      "totalTime": "PT15M",
+      "recipeYield": "1 serving",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, for one, lunch, quick, weeknight, noodles, main course",
+      "keywords": "fish sauce, lemon juice, lime juice, maple syrup, ramen noodle, soy sauce, stovetop, zucchini, summer",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 487
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 642,
+        "unsaturatedFatContent": "21 grams",
+        "carbohydrateContent": "77 grams",
+        "cholesterolContent": null,
+        "fatContent": "32 grams",
+        "fiberContent": "5 grams",
+        "proteinContent": "14 grams",
+        "saturatedFatContent": "9 grams",
+        "sodiumContent": "2778 milligrams",
+        "sugarContent": "16 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 large zucchini (about 8 ounces)",
+        "Coarse kosher salt or fine sea salt",
+        "3 to 4 ounces dried ramen, somen or capellini (see Tip)",
+        "2 teaspoons maple syrup, plus more to taste",
+        "1 1/2 teaspoons soy sauce, plus more to taste",
+        "1 teaspoon fish sauce, plus more to taste",
+        "1/8 teaspoon garlic powder",
+        "1 tablespoon avocado, grapeseed or canola oil",
+        "1/2 cup cubed ice",
+        "Lemon or lime wedges and thinly sliced scallions, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Trim off the tips of the zucchini, then halve lengthwise and slice into 1/3-inch half moons. Directly on the cutting board, sprinkle with 1/2 teaspoon salt, toss to combine and let sit for at least 10 minutes (and up to 30 minutes) to draw out excess moisture."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, bring a pot of water to a boil. Cook the noodles according to package instructions. Drain, then rinse under cold water until cool to touch. Transfer to an individual serving bowl."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a medium bowl, stir together the maple syrup, soy sauce, fish sauce and garlic powder; set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pat the zucchini dry. Heat a large skillet over high, then add the oil. When you see a wisp of smoke, carefully arrange the zucchini in an even layer in the skillet and season with salt. Cook undisturbed until the zucchini is browned on one side, 1 to 2 minutes, then flip the pieces and cook until tender-crisp, about 1 minute. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Transfer the zucchini to the bowl with the sauce. Add the ice, then quickly toss a few times until the zucchini is cool. Taste for seasoning, adding more salt if needed. (The dressing should taste boldly salty at this stage, as the melting ice, and later the noodles, will dilute it.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To eat, pour the zucchini and its dressing over the noodles. Spritz with citrus, top with scallions and eat immediately. (As you eat, you can add more maple syrup, soy sauce or fish sauce, if you’d like.)"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-06-21T00:00:00.000Z",
+      "dateModified": "2024-06-21T18:58:48.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jordan"
+          },
+          "reviewBody": "Way too sweet for my liking. Next time I would dial down the syrup considerably.",
+          "datePublished": "2024-12-16T20:18:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Casey"
+          },
+          "reviewBody": "I think I’d like this better hot. Just add water to the sauce.",
+          "datePublished": "2024-10-04T17:54:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Juliana"
+          },
+          "reviewBody": "I really liked this recipe, but I don't think I would salt the zucchini again next time as I agree with others about the salt content. I also want to try doing the zucchini in a grill pan on the grill next time to keep the temperature down in the house.",
+          "datePublished": "2024-09-09T19:26:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cold Cucumber Noodles"
+          },
+          "reviewBody": "Swapped ramen noodles for udon and used 1.5x the noodles and 2x the sauce. Used 3 minced cloves of garlic instead of garlic powder. Plentiful lime was delicious as a finish. 2 of us ate it all!",
+          "datePublished": "2024-09-06T22:18:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Taylor"
+          },
+          "reviewBody": "I've tried this twice and can't quite get it to hit. Both times I used Trader Joe's squiggly knife cut style noodles. Maybe I need a more absorbent noodle? I keep ending up with bland noodles and watery sauce. Might be better to skip the ice and refrigerate for a few hours to let the noods absorb the sauce.",
+          "datePublished": "2024-08-29T19:58:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Merry"
+          },
+          "reviewBody": "On a steamy day, I didn't cook the zucchini on the stove.  Instead,after it was trimmed and washed, I cut a couple of slits in it and microwaved it for two minutes. After a minute to cool, cut into whatever size you like and proceeded with the recipe.  It's a different texture, but that's a tradeoff I'm willing to make in a hot kitchen.",
+          "datePublished": "2024-08-29T18:25:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara"
+          },
+          "reviewBody": "I have not tried this yet. But for lower salt I would use pad thai rice noodles and substitute coconut liquid aminos for soy sauce. I've also been able to sauté zucchini and get a nice brown sear without all the salting and draining. So I will probably skip that part.",
+          "datePublished": "2024-08-29T18:32:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suri"
+          },
+          "reviewBody": "This type of iced cold noodle dish is common in Japan. For those concerned about sodium, you are not supposed to drink the dressing -- there's much more of it over the noodles than you will eat (due to needing volume for it to be saucy and stay cold). Unless you drink it like soup, you will be fine. \n\nDon't skip rinsing the noodles as one commenter recommended. It's a critical step to remove starch on the noodles in addition to cooling them. This isn't an Italian dish so prep is different!",
+          "datePublished": "2024-08-26T14:41:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JC"
+          },
+          "reviewBody": "This dish is fine. I didn't salt the zucchini. I did add slices of sauteed tofu, first dredged in sweet potato flour, they get crispy. By doubling the zucchini, and adding another ounce of ramen, it was enough for two. \nThere are lots of zucchini recipes on this site, as well as the rest of the internet using less salt, if that's a concern.",
+          "datePublished": "2024-08-13T23:02:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Regina"
+          },
+          "reviewBody": "We have made this twice. Added chopped peanuts as someone suggested. Both times, we did not have scallions. We did, however, have mint so we added some torn pieces of mint and that gives a nice freshness. Highly recommend.",
+          "datePublished": "2024-08-09T23:44:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RudisHuman"
+          },
+          "reviewBody": "Re excess salt: put zukes into colander, salt, then 10 min later rinse, dry. Don't salt again in the pan. I prefer less salt.\n\nAgree adding sauce to warm noodles = more flavor, but adding ice cubes is so fun! Can always set dish in another of cubes & cold water to chill quickly. \n\nThx so much Eric Kim for another fabulous recipe...and... Made for 1 person! I'm a foodie who lives alone; either end up with too many leftovers or manipulate recipes to serve 1 or 2. Love to see more that serve 1.",
+          "datePublished": "2024-08-08T19:57:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Madison"
+          },
+          "reviewBody": "For the zucchini, we found that air frying works best and easiest. It will also reduce the amount of sodium. I also add half a teaspoon of maple syrup and fish sauce to counteract the saltiness of the soy sauce. It’s important to note as well that you put the zucchini in the sauce then put the zucchini over the pasta. So don’t pour the sauce over the pasta or it’ll be too salty. Also tasty to swap soy sauce for ponzu sauce for a more citrus taste. Also added cubed cold tofu for protein.",
+          "datePublished": "2024-08-06T23:51:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "Great light way to use garden zucchini - vs. so many recipes that involve deeper frying. I briefly boiled cubed extra firm tofu in salted H20 b4 the ramen noodles, tossed that with sesame oil. Topped bowls w corn kernels and chopped squash blossom as well as scallion, because summer garden. Used lime. Great w some chili oil.",
+          "datePublished": "2024-08-04T23:38:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "Great but I might not bother salting the zucchini again. I don’t think it makes a big difference for the bother. Texture was similar to when I grill zucchini planks w/out oil (toss in oil after, avoids burnt oil taste and keeps crisper) so I think grilling halves and then slicing would also work.",
+          "datePublished": "2024-08-04T23:43:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erin"
+          },
+          "reviewBody": "Made recipe just about as written with only the substitution of fresh garlic instead of powder and no fish sauce (vegetarian) and it was sumptuous! It was the perfect thing for a stressful summer Friday.",
+          "datePublished": "2024-08-02T18:37:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pennsyltuckey"
+          },
+          "reviewBody": "I am waiting to cut the zuke rounds in half until after they are crisped…less to turn in the pan.",
+          "datePublished": "2024-07-08T12:43:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elena Gallenberger"
+          },
+          "reviewBody": "Okay, this looks delicious but I won't even take a second glance after seeing that one serving has nearly 3,000 mg of sodium! That is almost two day's worth of sodium for me, in this one serving. For those of us with HB pressure, this is big huge no. I'd love to see more recipes that are geared towards health issues some of us may be experiencing.",
+          "datePublished": "2024-07-08T20:40:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie Buckley"
+          },
+          "reviewBody": "I have made a similar dish to this using equal measure juice from kimchee as a fish sauce substitute for vegetarians/vegans like myself with good results.",
+          "datePublished": "2024-07-08T12:50:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brie"
+          },
+          "reviewBody": "Since using ice to cool this dish down anyway, make double the sauce and instead of rinsing noodles till cold, pour half of the sauce on hot drained noodles and continue recipe as directed. The hot noodles will absorb some of the liquid umami and be so much more flavorful. I used whole wheat ramen. I added ginger and chili garlic sauce to the sauce and I added a jammy egg, toasted cashews and green onion at the end. Finished with lime.",
+          "datePublished": "2024-07-08T17:53:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily"
+          },
+          "reviewBody": "This was so tasty for a warm summer night. I added some peanuts on top for some crunch. The lemon really made it pop. And it got better when the noodles soaked in the sauce for a bit.",
+          "datePublished": "2024-07-07T03:59:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Potomacat"
+          },
+          "reviewBody": "Three possible ways to reduce the sodium content: do not salt the zucchini (perhaps drain slices on a paper towel or a dish towel, maybe lightly weighted as with tofu), which, admittedly, may result in a slightly different sautéed result; choose a different noodle (some capellini brands have no sodium); and, as suggested, choose a lower sodium substitute for the soy sauce.  If your diet is generally lower sodium, you may not miss the absence of salt.",
+          "datePublished": "2024-07-09T00:36:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "HP"
+          },
+          "reviewBody": "Easy and delicious. And by design, the sauce isn't meant to be thick.",
+          "datePublished": "2024-06-28T22:20:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Audie"
+          },
+          "reviewBody": "Beat the heat suggestions: Cook the ramen in the early morning, cool and toss with a little sesame oil (great suggestion, Cooker!), then refrigerate. Remove it when you get home so it can come to room temp. Slice or grate the zucchini and put it on top of the noodles. Add the sauce and stir. Zucchini is fine raw, but if you really want to cook it, briefly heat the sauce and pour it over the noodles and squash. No boiling water, no standing over a hot skillet.",
+          "datePublished": "2024-07-09T13:32:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ragbert"
+          },
+          "reviewBody": "I sorta-kinda made this tonight.  My kitchen was so hot & sticky from humidity, that I couldn't bear to heat oil in a pan for anything.  So I skipped the zucchini and lined a big bowl with a combo of cold leaf lettuce and arugula.  I dumped the drained noodles on top of the greens, and then poured the dressing with melting ice cubes, over the noodles.  Mixed & topped w/peanuts, scallions, cilantro, sesame seeds, lime jc, aaand....  2 Thai fresh rolls I got locally.  Cold & delicious meal!",
+          "datePublished": "2024-07-09T02:45:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MC Glass"
+          },
+          "reviewBody": "USE A SALAD SPINNER to 'dry' the zucchini",
+          "datePublished": "2024-07-09T00:03:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mark in SC"
+          },
+          "reviewBody": "I question salting the zucchini on the cutting board, shouldn’t they be placed in a colander to aid in the draining of moisture extraction?",
+          "datePublished": "2024-07-08T21:01:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JJ the jetplane"
+          },
+          "reviewBody": "Wonderful recipe! I made this as a serving of two and the next time to make this (and for those who also want to make more than a single serving), I would make sure to cook the zucchini in batches depending on pan size or how hot your stovetop is.",
+          "datePublished": "2024-07-07T03:13:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cooker"
+          },
+          "reviewBody": "This is missing something, it's a little bland. I agree with another commenter who said the sauce needs to be thicker. I cooked the Ramen ahead of the zucchini and put a few drops of sesame oil in it so it didn't clump in the fridge. Added shredded carrots and cashews. Maybe some red pepper flakes would help, and some crunchy water chestnuts? I might try this again with some big tweaks.",
+          "datePublished": "2024-07-08T23:37:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DS"
+          },
+          "reviewBody": "I like exploring different ways of preparing a humble bag of ramen noodles. This one is simple and delicious. I used less ice than the recipe calls for and the sauce was fine.",
+          "datePublished": "2024-07-01T19:06:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deborah Musselman"
+          },
+          "reviewBody": "If you’re going to do a quick sauté with the Zucchini, why not include a smashed clove of garlic? Then remove it, of course.",
+          "datePublished": "2024-07-08T16:23:41.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025615-cold-noodles-with-zucchini",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Eric Kim"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "Zucchini loves the kiss of heat but can easily turn to mush. Briefly salting and drying half-moons of zucchini before quickly stir-frying them, mostly on one side, maintains their texture while lending so much flavor. An impactful dressing of maple syrup, soy sauce and fish sauce — plus a pinch of concentrated savoriness in the form of garlic powder — seasons both stir-fry and noodle. Ice is the secret ingredient that helps to cool down the noodles for quick eating, as well as to melt down and open up the flavors of the dressing (as water is wont to do) while you eat. The final spritz of citrus is not optional: It finishes the dressing and makes this chill meal taste multidimensional. A tableside sprinkle of toasted sesame seeds, furikake or shichimi togarashi is welcome.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Cold Noodles With Zucchini",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/f7a3ee46-e4c5-514a-9e4a-17a888bc32a7#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/06/21/multimedia/ek-Zucchini-Somen-kpcg/ek-Zucchini-Somen-kpcg-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-06-21T16:36:28.879Z",
+          "datePublished": "2024-06-21T16:36:28.879Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-06-21T16:36:28.879Z",
+          "url": "https://static01.nyt.com/images/2024/06/21/multimedia/ek-Zucchini-Somen-kpcg/ek-Zucchini-Somen-kpcg-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/f7a3ee46-e4c5-514a-9e4a-17a888bc32a7#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/06/21/multimedia/ek-Zucchini-Somen-kpcg/ek-Zucchini-Somen-kpcg-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-06-21T16:36:28.879Z",
+          "datePublished": "2024-06-21T16:36:28.879Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-06-21T16:36:28.879Z",
+          "url": "https://static01.nyt.com/images/2024/06/21/multimedia/ek-Zucchini-Somen-kpcg/ek-Zucchini-Somen-kpcg-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/f7a3ee46-e4c5-514a-9e4a-17a888bc32a7#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/06/21/multimedia/ek-Zucchini-Somen-kpcg/ek-Zucchini-Somen-kpcg-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-06-21T16:36:28.879Z",
+          "datePublished": "2024-06-21T16:36:28.879Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-06-21T16:36:28.879Z",
+          "url": "https://static01.nyt.com/images/2024/06/21/multimedia/ek-Zucchini-Somen-kpcg/ek-Zucchini-Somen-kpcg-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025615-cold-noodles-with-zucchini"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:10:48.109Z",
+  "scraping_status": "scraped"
+}

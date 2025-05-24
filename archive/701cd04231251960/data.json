@@ -1,0 +1,551 @@
+{
+  "id": "701cd04231251960",
+  "original_url": "https://cooking.nytimes.com/recipes/11948-gruyere-puff",
+  "canonical_url": "https://cooking.nytimes.com/recipes/11948-gruyere-puff",
+  "fetched_title": "Gruyère Puff Recipe",
+  "main_text_content": "Like a giant, eggy gougère, this cheese-filled puffy pancake makes an unexpected side dish to roasted meat or fish You could also pair it with a green salad for a simple and elegant first course or light lunch Serve it straight out of the oven, when it&#x27;s at its puffiest.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1019769-crustless-egg-and-cheese-quiche\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/05/06/multimedia/sc-egg-cheese-quiche-jhmf/sc-egg-cheese-quiche-jhmf-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/05/06/multimedia/sc-egg-cheese-quiche-jhmf/sc-egg-cheese-quiche-jhmf-blogSmallInline-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/05/06/multimedia/sc-egg-cheese-quiche-jhmf/sc-egg-cheese-quiche-jhmf-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/05/06/multimedia/sc-egg-cheese-quiche-jhmf/sc-egg-cheese-quiche-jhmf-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/05/06/multimedia/sc-egg-cheese-quiche-jhmf/sc-egg-cheese-quiche-jhmf-videoSixteenByNine310-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/05/06/multimedia/sc-egg-cheese-quiche-jhmf/sc-egg-cheese-quiche-jhmf-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/05/06/multimedia/sc-egg-cheese-quiche-jhmf/sc-egg-cheese-quiche-jhmf-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/05/06/multimedia/sc-egg-cheese-quiche-jhmf/sc-egg-cheese-quiche-jhmf-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Crustless Egg and Cheese Quiche</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Sarah Copeland</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2020/12/27/dining/12COOKING-GRUYEREPUFF3/12COOKING-GRUYEREPUFF3-threeByTwoMediumAt2X-v3.jpg",
+  "local_image_path": "scraped/701cd04231251960/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/cc333d57-c0fd-5815-8dd9-761213e14ba3",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/11948-gruyere-puff",
+        "@type": "WebPage",
+        "name": "Gruyère Puff"
+      },
+      "url": "https://cooking.nytimes.com/recipes/11948-gruyere-puff",
+      "name": "Gruyère Puff",
+      "description": "Like a giant, eggy gougère, this cheese-filled puffy pancake makes an unexpected side dish to roasted meat or fish. You could also pair it with a green salad for a simple and elegant first course or light lunch. Serve it straight out of the oven, when it's at its puffiest.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/901a629f-223c-58e0-8f19-303047de51f4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/12/27/dining/12COOKING-GRUYEREPUFF3/12COOKING-GRUYEREPUFF3-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2021-11-30T18:36:59.317Z",
+          "datePublished": "2017-12-12T19:37:24.000Z",
+          "height": "900",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2017-12-12T19:37:24.000Z",
+          "url": "https://static01.nyt.com/images/2020/12/27/dining/12COOKING-GRUYEREPUFF3/12COOKING-GRUYEREPUFF3-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/901a629f-223c-58e0-8f19-303047de51f4#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/12/27/dining/12COOKING-GRUYEREPUFF3/12COOKING-GRUYEREPUFF3-superJumbo.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2021-11-30T18:36:59.317Z",
+          "datePublished": "2017-12-12T19:37:24.000Z",
+          "height": "1365",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2017-12-12T19:37:24.000Z",
+          "url": "https://static01.nyt.com/images/2020/12/27/dining/12COOKING-GRUYEREPUFF3/12COOKING-GRUYEREPUFF3-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/901a629f-223c-58e0-8f19-303047de51f4#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/12/27/dining/12COOKING-GRUYEREPUFF3/12COOKING-GRUYEREPUFF3-square640.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2021-11-30T18:36:59.317Z",
+          "datePublished": "2017-12-12T19:37:24.000Z",
+          "height": "640",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2017-12-12T19:37:24.000Z",
+          "url": "https://static01.nyt.com/images/2020/12/27/dining/12COOKING-GRUYEREPUFF3/12COOKING-GRUYEREPUFF3-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT45M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "appetizer",
+      "keywords": "egg, gruyère, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 2237
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 294,
+        "unsaturatedFatContent": "8 grams",
+        "carbohydrateContent": "14 grams",
+        "cholesterolContent": null,
+        "fatContent": "20 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "14 grams",
+        "saturatedFatContent": "11 grams",
+        "sodiumContent": "269 milligrams",
+        "sugarContent": "2 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 large eggs",
+        "1/2 cup whole milk",
+        "1/2 cup all-purpose flour",
+        "1/2 teaspoon kosher salt",
+        "Freshly ground black pepper",
+        "3/4 cup grated Gruyère cheese (about 3 ounces)",
+        "3 tablespoons unsalted butter",
+        "Coarse sea salt, for sprinkling"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 400 degrees."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Whisk together eggs, milk, flour, salt and pepper in bowl until smooth. Stir in cheese."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In 9-inch ovenproof skillet, melt butter. Swirl to coat all sides. Pour in batter. Transfer to oven. Bake until puffed and dark golden, 30 minutes. Sprinkle with salt, serve hot."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol Weinstein"
+          },
+          "reviewBody": "Making this again, for the 100the time. Brilliant! Only change is cheese…3/4 cup is TOO much. Won’t puff. Use less.",
+          "datePublished": "2025-01-01T00:16:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Littlembird"
+          },
+          "reviewBody": "Add a dash of tobasco and a tad of Dijon to up the cheese factor. A pinch of HDP rounds it out.  Follow the resting of the batter advice and pan heating in the oven tip.",
+          "datePublished": "2024-11-17T21:30:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marlette"
+          },
+          "reviewBody": "Try having this for breakfast and serve with mixed berries and maybe coffee cake or muffins. Nice. and different from the usual",
+          "datePublished": "2024-09-07T18:40:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kmostrach"
+          },
+          "reviewBody": "Stuck terribly to the pan. Butter was hot in the pan before I added the batter so not sure how to prevent this. Maybe preheat pan in the oven before adding the batter?",
+          "datePublished": "2024-08-01T06:04:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "N Of Seattle"
+          },
+          "reviewBody": "I have a favorite recipe for a Dutch baby that describes techniques I have used, and the outcome has always been fantastic. If I make this gruyere cheese puff again, I'll use those techniques: room temperature eggs, butter melted in skillet in the heating oven, slightly warmed-in-the-microwave milk, use a blender. It is easy to make as written, but it will puff better using my techniques.",
+          "datePublished": "2024-03-07T16:48:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "N Of Seattle"
+          },
+          "reviewBody": "I make a dutch baby, and this recipe is very similar. Best to warm milk in microwave until a bit warmer than room temperature (20-40 seconds). Sit eggs out until room temperature. Melt butter in skillet in oven while the oven is coming to temp, but don't allow butter to burn! Use blender to mix and aerate all but cheese, which is stirred in. It will puff nicely. Mine tasted great and was reminiscent of quiche. I'll add mushrooms next time.",
+          "datePublished": "2024-02-24T23:22:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Doesn't Take As Long If Using Preheated Cast Iron"
+          },
+          "reviewBody": "Wow! Nice flaky golden edges and custard cheesy center. Got a bit dark on edges when went 30 minutes. Try 20-25 tops.",
+          "datePublished": "2024-02-18T18:04:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennie"
+          },
+          "reviewBody": "Mine didn't puff, but who cares? It was super rich, super delicious, and super easy! As someone else said, like a shareable Yorkshire pudding with cheese. What's not to love?",
+          "datePublished": "2024-02-10T01:30:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maura"
+          },
+          "reviewBody": "Mine didn’t puff, even after reading the comments, but I don’t care (this time). The flavors were so perfectly balanced, and it was a lovely dinner with a green salad. The rosemary okives and a decanted Bandol didn’t hurt, either!",
+          "datePublished": "2024-01-07T01:51:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "Delicious recipe, but the comment is correct about going with the 3/4 of a cup of cheese rather than the number of ounces noted which produced too much cheese, and the pancake did not puff. Next time I will also let the batter rest before putting it into the oven and preheat the pan as recommended by some of the commentators.",
+          "datePublished": "2024-01-06T16:39:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Syd"
+          },
+          "reviewBody": "I have been making German apple pancakes for almost my whole life and agree with others that the missing instruction is to heat the pan in the oven, melting the butter in the pan. Then pour the batter into the hot pan. I reduced the bake time to 25 minutes which was perfect.\nI will reduce the amount of butter next time as it turned out just a bit greasy, but it paired nicely with a baked salmon and green beans for a quick and simple, yet elegant, New Year's Eve dinner.",
+          "datePublished": "2024-01-02T23:47:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sage"
+          },
+          "reviewBody": "This is good! It’s basically just a giant cheesy Yorkshire pudding, super easy to make. It’s good with Gruyère but also works with whatever grate-able cheese you have on hand! I’m sure blending does help aerate more for a higher puff but I hand whisked this and it turned out fine. I did let it sit at room temp for a few minutes while I preheated the oven and heated the skillet on the stovetop/melted the butter, but that was the only extra thing I did. Mine turned out great!",
+          "datePublished": "2024-01-02T19:31:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Heinke"
+          },
+          "reviewBody": "I just made this for one (using 1/3 of ingredients - not having a 1/6 cup measuring device I used a 1/3 cup and eye-balled filling one half of it with milk and flour). Used a small baking dish. It made for a very delicious New Year's brunch.",
+          "datePublished": "2024-01-01T23:46:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hildari"
+          },
+          "reviewBody": "Great recipe, except for the fact that although I followed it precisely, it didn’t puff!",
+          "datePublished": "2023-12-30T15:12:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "EM Young"
+          },
+          "reviewBody": "With apologies to all of the blender fiends out there, I generally start this by combing the milk and flour together, whisking briefly to smooth it out, then add eggs and salt and whisk again. This is while the oven is heating. Either start your pan on top of the stove or in the oven, but don’t add butter until the oven has come to  full temperature. Then swirl salted butter over all of the interior, including those sides before adding your egg mixture. Sprinkle with cheese, pop in the oven.",
+          "datePublished": "2023-12-30T03:54:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary-Helen"
+          },
+          "reviewBody": "This was delicious and very successful! The key techniques—which the recipe does not indicate— for a successful puff are: mix the eggs, milk, flour, salt, and pepper in the blender to aerate it well, stir in the cheese (any grating kind will work), and let it sit at room temperature while you heat the oven so the flour can absorb the liquid. Then, most importantly, put the pan in the oven while the oven is heating so it gets really hot. Add butter and let it melt, THEN pour in the batter. Puff!",
+          "datePublished": "2019-04-20T21:44:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deeksha"
+          },
+          "reviewBody": "Would this recipe work with almond flour or some other non-wheat flour?",
+          "datePublished": "2017-12-15T07:34:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JanCooks"
+          },
+          "reviewBody": "I let the batter rest before cooking. I think it puffs up more. ",
+          "datePublished": "2017-12-17T16:34:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill Vogele"
+          },
+          "reviewBody": "Cooks' comments recommend\n\n1. Mixing eggs, milk & flour in a blender & letting it rest until room temp, then add cheese or whatever\n\n2. Heat cast-iron skillet in oven while it comes to temperature",
+          "datePublished": "2018-12-28T18:01:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hallie Blanchard"
+          },
+          "reviewBody": "I've been making this for years - been working from the original clipping. This is a go-to side dish for autumn and winter...it's perfect with something like a guinness pie. Then it becomes football-Sunday lunch the next day. Wouldn't change a thing. It's just perfect.",
+          "datePublished": "2017-10-24T22:47:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David C Morris"
+          },
+          "reviewBody": "Isn’t Melissa Clark wonderful? I think so.",
+          "datePublished": "2020-12-25T19:19:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa Dressler"
+          },
+          "reviewBody": "Awesome!  Made two of these last night and served them to my family of four together with a light salad.  Baked one in a cast iron pan, the other in stainless steel.  Was surprised to see that the one baked in cast iron baked up much quicker, puffier and browner than the one done in stainless.  Well - now I know!  Going to try a variation using very sharp cheddar and roasted green chiles instead of the gruyere.  Quick, easy and tasty dish....definitely a keeper.",
+          "datePublished": "2017-12-27T16:56:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TT"
+          },
+          "reviewBody": "The recipe called for 3/4 cup gruyere, noting about 3 oz.  I chose to go with the weight, having been sensitized to the variability of measures.   BIG mistake.  3 oz. of cheese is WAY more than 3/4 cup.  Consequently, my puff didn't.",
+          "datePublished": "2019-03-09T17:31:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JSH"
+          },
+          "reviewBody": "Bring ingredients to room temp first, then it should puff nicely",
+          "datePublished": "2017-12-23T22:15:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dew"
+          },
+          "reviewBody": "I only wish I could have another kid: s/he'd be named Cheesy Dutch Baby.",
+          "datePublished": "2018-12-11T17:13:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "meetoo"
+          },
+          "reviewBody": "add 1/8 to 1/4 tsp xantham gum with your GF flour and it will be very nice.",
+          "datePublished": "2017-12-18T05:51:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bettina"
+          },
+          "reviewBody": "I\nBatter comes together best in a blender.  Let it rest while the oven heats...convection bake at 400.  Put some oil and butter in cast iron skillet and placed in oven while it heated.  Baked in about 20 minutes. A lot quicker than the one I have been using in Epicurian Vegetarian.  Can be made sweet with or without fruit baked in or savory with cheese and herbs.",
+          "datePublished": "2018-12-22T13:01:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aileen"
+          },
+          "reviewBody": "Just made this on a snowy day to go along with Jamie Oliver's Guiness stew. Delicious! It's basically a big Yorkshire pudding with cheese. I used cheddar since somebody ate all my Gruyere! ",
+          "datePublished": "2018-01-04T22:22:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Samantha"
+          },
+          "reviewBody": "Now I have to look up Guinness pie.\n:-)",
+          "datePublished": "2017-12-14T22:24:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mikey Queso"
+          },
+          "reviewBody": "As Ann noticed:  this is a Cheesy Dutch Baby ( the first time I've ever put those words together )",
+          "datePublished": "2017-12-17T10:56:16.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2006
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/11948-gruyere-puff",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2006,
+      "description": "Like a giant, eggy gougère, this cheese-filled puffy pancake makes an unexpected side dish to roasted meat or fish. You could also pair it with a green salad for a simple and elegant first course or light lunch. Serve it straight out of the oven, when it's at its puffiest.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Gruyère Puff",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/901a629f-223c-58e0-8f19-303047de51f4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/12/27/dining/12COOKING-GRUYEREPUFF3/12COOKING-GRUYEREPUFF3-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2021-11-30T18:36:59.317Z",
+          "datePublished": "2017-12-12T19:37:24.000Z",
+          "height": "900",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2017-12-12T19:37:24.000Z",
+          "url": "https://static01.nyt.com/images/2020/12/27/dining/12COOKING-GRUYEREPUFF3/12COOKING-GRUYEREPUFF3-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/901a629f-223c-58e0-8f19-303047de51f4#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/12/27/dining/12COOKING-GRUYEREPUFF3/12COOKING-GRUYEREPUFF3-superJumbo.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2021-11-30T18:36:59.317Z",
+          "datePublished": "2017-12-12T19:37:24.000Z",
+          "height": "1365",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2017-12-12T19:37:24.000Z",
+          "url": "https://static01.nyt.com/images/2020/12/27/dining/12COOKING-GRUYEREPUFF3/12COOKING-GRUYEREPUFF3-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/901a629f-223c-58e0-8f19-303047de51f4#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/12/27/dining/12COOKING-GRUYEREPUFF3/12COOKING-GRUYEREPUFF3-square640.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2021-11-30T18:36:59.317Z",
+          "datePublished": "2017-12-12T19:37:24.000Z",
+          "height": "640",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2017-12-12T19:37:24.000Z",
+          "url": "https://static01.nyt.com/images/2020/12/27/dining/12COOKING-GRUYEREPUFF3/12COOKING-GRUYEREPUFF3-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/11948-gruyere-puff"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:35:40.622Z",
+  "scraping_status": "scraped"
+}

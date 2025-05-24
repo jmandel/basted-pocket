@@ -1,0 +1,638 @@
+{
+  "id": "009dd0658d7b7c19",
+  "original_url": "https://cooking.nytimes.com/recipes/1017128-lentil-salad-with-roasted-vegetables?algo=identity&fellback=true&imp_id=400262543400172&req_id=6105328794061311",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1017128-lentil-salad-with-roasted-vegetables?algo=identity&fellback=true&imp_id=400262543400172&req_id=6105328794061311",
+  "fetched_title": "Lentil Salad With Roasted Vegetables Recipe (with Video)",
+  "main_text_content": "This lentil salad looks and tastes bright, thanks to a combination of tangerine juice, sherry vinegar and colorful caramelized roasted root vegetables It works either as a main course, served with good bread and butter, or as side dish with roasted meat or fish For the maximum visual impact, use both golden and red beets",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026699-spinach-and-feta-lentil-bowls\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/03/28/multimedia/28FD-EASYLUNCHREX1-kpzg/28FD-EASYLUNCHREX1-kpzg-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/03/28/multimedia/28FD-EASYLUNCHREX1-kpzg/28FD-EASYLUNCHREX1-kpzg-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/03/28/multimedia/28FD-EASYLUNCHREX1-kpzg/28FD-EASYLUNCHREX1-kpzg-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/03/28/multimedia/28FD-EASYLUNCHREX1-kpzg/28FD-EASYLUNCHREX1-kpzg-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/03/28/multimedia/28FD-EASYLUNCHREX1-kpzg/28FD-EASYLUNCHREX1-kpzg-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/03/28/multimedia/28FD-EASYLUNCHREX1-kpzg/28FD-EASYLUNCHREX1-kpzg-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/03/28/multimedia/28FD-EASYLUNCHREX1-kpzg/28FD-EASYLUNCHREX1-kpzg-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/03/28/multimedia/28FD-EASYLUNCHREX1-kpzg/28FD-EASYLUNCHREX1-kpzg-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Spinach and Feta Lentil Bowls</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Ali Slagle</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-superJumbo.jpg",
+  "local_image_path": "scraped/009dd0658d7b7c19/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/40523b7a-8ab5-53f1-8d0c-1d6ecf32f6da",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1017128-lentil-salad-with-roasted-vegetables",
+        "@type": "WebPage",
+        "name": "Lentil Salad With Roasted Vegetables"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1017128-lentil-salad-with-roasted-vegetables",
+      "name": "Lentil Salad With Roasted Vegetables",
+      "description": "This lentil salad looks and tastes bright, thanks to a combination of tangerine juice, sherry vinegar and colorful caramelized roasted root vegetables. It works either as a main course, served with good bread and butter, or as side dish with roasted meat or fish. For the maximum visual impact, use both golden and red beets. Vegetarians can feel free to leave out the bacon. Leftovers will keep for at least five days, though try to pack it up without the radicchio, which gets soggy in the fridge.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/abc9018d-34c6-586d-809a-d83a042b4d1c#videoSixteenByNine1050",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-videoSixteenByNine1050.jpg",
+          "creditText": "Andrew Scrivani for The New York Times ",
+          "dateModified": "2016-12-20T19:55:59.000Z",
+          "datePublished": "2015-01-06T15:06:21.000Z",
+          "height": "591",
+          "representativeOfPage": true,
+          "uploadDate": "2015-01-06T15:06:21.000Z",
+          "url": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-videoSixteenByNine1050.jpg",
+          "width": "1050"
+        },
+        {
+          "@id": "nyt://image/abc9018d-34c6-586d-809a-d83a042b4d1c#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times ",
+          "dateModified": "2016-12-20T19:55:59.000Z",
+          "datePublished": "2015-01-06T15:06:21.000Z",
+          "height": "1152",
+          "representativeOfPage": true,
+          "uploadDate": "2015-01-06T15:06:21.000Z",
+          "url": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/abc9018d-34c6-586d-809a-d83a042b4d1c#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-square640-v3.jpg",
+          "creditText": "Andrew Scrivani for The New York Times ",
+          "dateModified": "2016-12-20T19:55:59.000Z",
+          "datePublished": "2015-01-06T15:06:21.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2015-01-06T15:06:21.000Z",
+          "url": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-square640-v3.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT1H30M",
+      "recipeYield": "10 to 12 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, lunch, appetizer",
+      "keywords": "acorn squash, beet, carrot, lentil, radicchio, salad",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 1808
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 288,
+        "unsaturatedFatContent": "12 grams",
+        "carbohydrateContent": "29 grams",
+        "cholesterolContent": null,
+        "fatContent": "15 grams",
+        "fiberContent": "5 grams",
+        "proteinContent": "10 grams",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "354 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 small whole acorn squash, peeled if desired, halved, seeded and diced into 1/2-inch pieces",
+        "2 medium carrots, peeled and diced into 1/2-inch pieces",
+        "1 medium celeriac, peeled and diced into 1/2-inch pieces",
+        "3 small beets, peeled and diced into 1/2-inch pieces",
+        "2 tablespoons extra-virgin olive oil",
+        "1/2 teaspoon salt",
+        "2 sprigs thyme",
+        "1 sprig rosemary, cut in half",
+        "4 slices (4 ounces) bacon, cut into 1-inch pieces (optional)",
+        "2 cups brown or green lentils",
+        "2 garlic cloves, smashed and peeled",
+        "1 bay leaf",
+        "1 1/2 teaspoons kosher salt, more to taste",
+        "1/2 teaspoon black pepper",
+        "1/4 cup sherry vinegar, more to taste",
+        "2 teaspoons Dijon mustard",
+        "1/2 teaspoon salt",
+        "1/2 cup extra-virgin olive oil, more as needed",
+        "2 heads radicchio, sliced",
+        "2 scallions, thinly sliced (whites and greens)",
+        "Parsley, roughly chopped, for garnish",
+        "Flaky sea salt, to taste",
+        "Cracked black pepper, to taste",
+        "1 tangerine, halved and seeded"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 400 degrees. Place vegetables in one layer on one or two large rimmed baking pans, toss with olive oil and salt. Place thyme and rosemary on top of vegetables, cover pans with foil and roast for 25 minutes. Remove foil, stir in bacon and bake for 30 to 40 minutes longer, until vegetables are tender and golden all over."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large pot, combine lentils, 6 cups water, garlic, bay leaf, salt and pepper and bring to a boil over high heat. Reduce heat to low and simmer for 20 to 30 minutes, until lentils are tender."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a small bowl, whisk together vinegar, mustard and salt. Then whisk in olive oil."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Drain lentils and discard bay leaf; keep or discard garlic as you like. Toss lentils with half of the sherry vinaigrette while still warm. Add more salt, olive oil and vinegar as needed."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Toss radicchio with enough of remaining vinaigrette to lightly coat it and arrange it on a platter. Combine lentils and roasted vegetables, adding more of the vinaigrette to taste; spoon mixture on top of radicchio. Garnish with scallions, parsley, sea salt and black pepper. Squeeze tangerine juice over the lentils and drizzle with more olive oil if needed."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/e3a5f490-7405-5c09-9a82-698369577714",
+        "@type": "VideoObject",
+        "author": {
+          "@type": "Person",
+          "name": "Jenny Woodward"
+        },
+        "bitrate": "1500000",
+        "contentUrl": "http://vp.nyt.com/video/2015/01/08/31595_1_lentil-salad-clark_wg_480p.mp4",
+        "dateModified": "2024-10-15T23:49:53.361Z",
+        "datePublished": "2015-01-09T15:43:43.000Z",
+        "description": "Melissa Clark makes a bright lentil salad with roasted root vegetables and sherry vinaigrette.",
+        "duration": "PT3M57S",
+        "height": "480",
+        "inLanguage": "en-US",
+        "name": "Lentil Salad With Roasted Vegetables",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/abc9018d-34c6-586d-809a-d83a042b4d1c#videoSixteenByNine1050",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-videoSixteenByNine1050.jpg",
+            "creditText": "Andrew Scrivani for The New York Times ",
+            "dateModified": "2016-12-20T19:55:59.000Z",
+            "datePublished": "2015-01-06T15:06:21.000Z",
+            "height": "591",
+            "uploadDate": "2015-01-06T15:06:21.000Z",
+            "url": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-videoSixteenByNine1050.jpg",
+            "width": "1050"
+          },
+          {
+            "@id": "nyt://image/abc9018d-34c6-586d-809a-d83a042b4d1c#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-superJumbo.jpg",
+            "creditText": "Andrew Scrivani for The New York Times ",
+            "dateModified": "2016-12-20T19:55:59.000Z",
+            "datePublished": "2015-01-06T15:06:21.000Z",
+            "height": "1152",
+            "uploadDate": "2015-01-06T15:06:21.000Z",
+            "url": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-superJumbo.jpg",
+            "width": "2048"
+          },
+          {
+            "@id": "nyt://image/abc9018d-34c6-586d-809a-d83a042b4d1c#square640",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-square640-v3.jpg",
+            "creditText": "Andrew Scrivani for The New York Times ",
+            "dateModified": "2016-12-20T19:55:59.000Z",
+            "datePublished": "2015-01-06T15:06:21.000Z",
+            "height": "640",
+            "uploadDate": "2015-01-06T15:06:21.000Z",
+            "url": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-square640-v3.jpg",
+            "width": "640"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-videoSixteenByNine1050.jpg",
+        "transcript": "n/a",
+        "uploadDate": "2015-01-09T15:43:43.000Z",
+        "url": "https://www.nytimes.com/video/dining/100000003435044/lentil-salad-with-roasted-vegetables.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2015-01-14T00:00:00.000Z",
+      "dateModified": "2023-10-17T22:30:57.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KC"
+          },
+          "reviewBody": "This made way too many lentils and produced not enough dressing but very tasty. I used sweet potatoes and beets. Based on reviews, I just used the balsamic vinegar instead of sherry. For the salad portion, I had arugula and beet greens which worked well. I should have checked the cooking time on the lentil package since mine were a little mushy from following the recipe.",
+          "datePublished": "2025-04-20T16:50:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate"
+          },
+          "reviewBody": "I made the recipe as written.  Next time I will not put tin foil over the vegetables as they were more steamed than roasted.  I let them cook more without the foil then broiled for a couple of minutes.",
+          "datePublished": "2025-04-05T17:29:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ashley"
+          },
+          "reviewBody": "I added smoked paprika and omitted bacon. This really benefits from a little feta and some olives if you're omitting the bacon. I tried it this way the next day with the cold leftovers and it the salty creaminess of the cheese and the meaty bites of olive greatly improved this dish.",
+          "datePublished": "2025-03-20T17:19:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "diane"
+          },
+          "reviewBody": "This was delicious. Halved the recipe but kept the same amount of dressing. I roasted onion, fennel, and butternut squash. Used precooked beets. Used  arugula instead of radicchio. Added chopped cilantro. Added maple syrup to the dressing. Added goat cheese and roasted pepitas",
+          "datePublished": "2025-03-04T03:12:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carrie"
+          },
+          "reviewBody": "I try to always do a recipe exactly but used the vegetables i happened to have. I swapped out the celeriac and butter nut squash with parsnips, radishes fennel and extra carrots along with the beets. I didn’t have radicchio either, but red cabbage was a great substitute. All else exactly as written. This recipe is a keeper!",
+          "datePublished": "2025-01-15T17:24:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Frank"
+          },
+          "reviewBody": "note: check the lentils sooner then later (they cooked too long)\nsubstituted sweet potato for squash with great results",
+          "datePublished": "2025-01-12T01:38:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deb"
+          },
+          "reviewBody": "The leftovers didn’t hold up",
+          "datePublished": "2025-01-11T17:22:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debbie"
+          },
+          "reviewBody": "I served this as a composed salad with each item separate so people with various food restrictions could take just what they wanted. It was gorgeous and delicious and everyone ate.",
+          "datePublished": "2024-12-31T00:51:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Great for meal prep!"
+          },
+          "reviewBody": "Leave the radicchio separate and just pack it into the Tupperware each morning when you add the dressing, this works with beans instead of lentils too, mix the orange juice and zest into the dressing",
+          "datePublished": "2024-12-28T03:14:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Henrietta"
+          },
+          "reviewBody": "Summary Helpful notes from others:\nAny bitter green is fine - like arugula to serve it on\nCould add some feta at end\nSome folks put some roasted nut or seeds\nUse smoked paprika, if skipping the bacon.\nAny veg is good - broccoli, fennel\nMake more veg, less lentil.\nDouble the dressing\nCitrus pieces can be added instead of just juice. cut pieces on top at end, or near end of roasting.\nBalsamic recommended over sherry vinegar",
+          "datePublished": "2024-12-07T20:11:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Great for meal prep!"
+          },
+          "reviewBody": "Yum, made with red beans instead of lentils and added the orange zest. The celeriac was delicious",
+          "datePublished": "2024-12-02T22:47:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "watercupcake"
+          },
+          "reviewBody": "This was really good cold, but I decided to try as a warm salad for a main course.   I had about half cup of barley in my pantry so I cooked it up and added it to the salad.  Any hearty grain like farro would work.  Served with a side salad and it was delicious!  I replaced the sherry vinegar with balsamic.    This was so good, even my carnivore husband didn’t miss the meat.",
+          "datePublished": "2024-11-22T22:26:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lynn"
+          },
+          "reviewBody": "This was a great recipe for fall vegetables, which we had stocked up on. Next time I'll cut down the amount of lentils. I used Delicato squash, sliced 1/2\" with the skin on which worked perfectly.",
+          "datePublished": "2024-09-20T15:10:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nina"
+          },
+          "reviewBody": "What a great salad!  I make this and happily eat it myself all week.  It's tasty, healthy and filling.  I use French green lentils and butternut squash rather than acorn.  You can serve it without the radicchio but the radicchio provides a bitter counter to the sweetness of the roasted veggies and makes the salad more complex. This recipe makes it worth turning on my oven in the summer!",
+          "datePublished": "2024-08-18T15:40:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "loved this!"
+          },
+          "reviewBody": "This was so delicious!  Agree that the volume of lentils and roasted veggies is large, but was perfect for leftover second meal.  The flavors are excellent. I used the bacon and did not regret!",
+          "datePublished": "2024-05-07T01:41:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robin"
+          },
+          "reviewBody": "I made half of the lentils but a full recipe of the vegetables and was pleased with the proportion. Doubled the dressing  to have leftovers. Next time would use balsamic. Sherry vinegar seemed too muddy with the lentils. I used French lentils and would recommend. Also used Meyer lemons  and blood oranges instead of the tangerine. I would recommend using more citrus. A next time for me is to add some zest to the lentil salad mix.  Very satisfying as a main course.",
+          "datePublished": "2017-10-24T18:08:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Me"
+          },
+          "reviewBody": "No need to peel a squash. Once roasted, the peels of acorn, butternut and similar winter squashes are soft and delicious (think of apple peels).",
+          "datePublished": "2017-10-30T15:59:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeanie Cass"
+          },
+          "reviewBody": "Also skipped the bacon.  Have made it twice, once with sherry vinegar, once with balsamic vinegar.  I prefer the balsamic.  Tangerine makes the flavors pop!  A hit with my crowd!",
+          "datePublished": "2017-10-30T12:59:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Courtney"
+          },
+          "reviewBody": "I'm always a sucker for a new lentil recipe, and this one's a keeper. I've made it many times and used whatever root vegetables and bitter greens I've had on hand, and the results are always great. I've also tried it with several different kinds of lentils, and beluga are probably best. It tastes best to me the day after, cold! Just need another squeeze of lemon or splash of vinegar. Yum.",
+          "datePublished": "2017-10-30T12:52:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharon"
+          },
+          "reviewBody": "I had no beets, only their greens. Substituted smoked paprika for bacon. I will cheerfully eat this all week. Thank you.",
+          "datePublished": "2017-10-30T15:59:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cheryle"
+          },
+          "reviewBody": "LOVED THIS! <br/><br/>I left out the bacon, and used nearly 1/2 cup of parsley -- mixed it with the radicchio to make it more like a salad. In one of the editions, I added some firm feta cheese for saltiness. So earthy and good.",
+          "datePublished": "2017-10-24T18:05:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "tundra"
+          },
+          "reviewBody": "This was excellent and beautiful.  I used butternut squash, I think it has a deeper flavor than acorn.  Also, I live in a smaller town, so could not find decent radicchio, and one night I used romaine instead, another night, arugula.  I plan to bring this one to a potluck.",
+          "datePublished": "2017-10-30T12:44:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lizzy"
+          },
+          "reviewBody": "Made this for thanksgiving and everyone was so happy to have something fresh and (relatively) light in addition to all of the rich holiday dishes. Next time I'd probably include even more roasted vegetables, and substitute delicata for acorn squash because it was SUCH A PAIN TO PEEL.",
+          "datePublished": "2017-10-30T15:30:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gael C"
+          },
+          "reviewBody": "I LOVE this dish! I have prepared it a couple of times and always find it interesting. I'm not a great fan of sherry vinegar so I use a really good balsamic or I make a citrus vinaigrette. This is a keeper.",
+          "datePublished": "2017-10-30T12:45:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ray"
+          },
+          "reviewBody": "This was an absolute hit with my family. I also skipped the bacon. There was quite a bit of it when I first made it. It did get more flavorful as the week went on. Excellent recipe!!",
+          "datePublished": "2017-10-30T12:35:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bunnee"
+          },
+          "reviewBody": "This was so good. I subbed sweet potatoes, fennel, didn't peel the acorn squash. Be sure to line the roasting pan with foil to simplify clean-up. My husband had thirds - no leftovers!",
+          "datePublished": "2017-10-24T18:14:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steph"
+          },
+          "reviewBody": "A wonderful dish, even when skipping the bacon. Works great warm as a meal, or cold the next day for lunch. But just to warn, this recipe yields a MASSIVE amount.",
+          "datePublished": "2017-10-30T13:18:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kirsten"
+          },
+          "reviewBody": "This is really nutritious and a good choice for a hearty vegan entree (sans bacon) or to have on hand for easy lunches throughout the week. That said, if you're making it for a party, don't do it the day before as the colors bleed and the lentils turn a little dull and mushy. If you leave out the bacon, try replacing with toasted walnuts. The salad is missing walnuts.",
+          "datePublished": "2017-10-01T14:48:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TJ"
+          },
+          "reviewBody": "Flexible and delicious! I used this more as a template than a strict recipe: I already had a big batch of leftover roasted roots, I baked the lentils to help them keep their shape, added the tangerine juice to the whole batch, and used arugula instead of radicchio. This made a week's worth of lunches and was good as a wrap in addition to as a salad.",
+          "datePublished": "2019-01-11T19:01:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suzanne"
+          },
+          "reviewBody": "This was very good. I layered the various groups instead of mixing them up. Laid down the radicchio, the the lentils, and then the roasted veggies, with the parsley scattered over all. Visually appealing. Meyer lemon and tangerine. If you can get green garlic, I would add that as well, super tasty. Don’t over cook the lentils!",
+          "datePublished": "2019-03-15T15:51:47.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2015
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1017128-lentil-salad-with-roasted-vegetables",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2015,
+      "description": "This lentil salad looks and tastes bright, thanks to a combination of tangerine juice, sherry vinegar and colorful caramelized roasted root vegetables. It works either as a main course, served with good bread and butter, or as side dish with roasted meat or fish. For the maximum visual impact, use both golden and red beets. Vegetarians can feel free to leave out the bacon. Leftovers will keep for at least five days, though try to pack it up without the radicchio, which gets soggy in the fridge.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Lentil Salad With Roasted Vegetables",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/abc9018d-34c6-586d-809a-d83a042b4d1c#videoSixteenByNine1050",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-videoSixteenByNine1050.jpg",
+          "creditText": "Andrew Scrivani for The New York Times ",
+          "dateModified": "2016-12-20T19:55:59.000Z",
+          "datePublished": "2015-01-06T15:06:21.000Z",
+          "height": "591",
+          "representativeOfPage": true,
+          "uploadDate": "2015-01-06T15:06:21.000Z",
+          "url": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-videoSixteenByNine1050.jpg",
+          "width": "1050"
+        },
+        {
+          "@id": "nyt://image/abc9018d-34c6-586d-809a-d83a042b4d1c#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times ",
+          "dateModified": "2016-12-20T19:55:59.000Z",
+          "datePublished": "2015-01-06T15:06:21.000Z",
+          "height": "1152",
+          "representativeOfPage": true,
+          "uploadDate": "2015-01-06T15:06:21.000Z",
+          "url": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/abc9018d-34c6-586d-809a-d83a042b4d1c#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-square640-v3.jpg",
+          "creditText": "Andrew Scrivani for The New York Times ",
+          "dateModified": "2016-12-20T19:55:59.000Z",
+          "datePublished": "2015-01-06T15:06:21.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2015-01-06T15:06:21.000Z",
+          "url": "https://static01.nyt.com/images/2015/01/06/multimedia/lentil-salad-clark/lentil-salad-clark-square640-v3.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1017128-lentil-salad-with-roasted-vegetables"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:05:54.494Z",
+  "scraping_status": "scraped"
+}

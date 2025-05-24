@@ -1,0 +1,559 @@
+{
+  "id": "e81c1e09a145b871",
+  "original_url": "https://cooking.nytimes.com/recipes/1020613-celery-leek-soup-with-potato-and-parsley",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1020613-celery-leek-soup-with-potato-and-parsley",
+  "fetched_title": "Celery-Leek Soup With Potato and Parsley Recipe",
+  "main_text_content": "This celery-forward soup is in essence a potato-leek soup that substitutes most of the potatoes with brighter celery, and skips the vast quantities of cream in the original, resulting in a lighter flavor and texture Woodsy herbs like thyme and bay leaves, and fresh, raw parsley give the soup its intensely green, almost grassy taste It’s worth trying the soup without dairy, then admiring the transformative effect of a splash of crème fraîche or cream, which subdues the louder celery notes.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1021768-creamy-leek-and-parsnip-soup\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex1-soup/merlin_181734156_6d7d9a1e-9739-4920-a85b-b61265e3d03a-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex1-soup/merlin_181734156_6d7d9a1e-9739-4920-a85b-b61265e3d03a-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex1-soup/merlin_181734156_6d7d9a1e-9739-4920-a85b-b61265e3d03a-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex1-soup/merlin_181734156_6d7d9a1e-9739-4920-a85b-b61265e3d03a-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex1-soup/merlin_181734156_6d7d9a1e-9739-4920-a85b-b61265e3d03a-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex1-soup/merlin_181734156_6d7d9a1e-9739-4920-a85b-b61265e3d03a-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex1-soup/merlin_181734156_6d7d9a1e-9739-4920-a85b-b61265e3d03a-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex1-soup/merlin_181734156_6d7d9a1e-9739-4920-a85b-b61265e3d03a-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Creamy Leek and Parsnip Soup</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">David Tanis</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2019/11/20/dining/19celeryrex1/19celeryrex1-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/e81c1e09a145b871/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/ff41f904-8e6b-529d-9df0-3fdadba94958",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1020613-celery-leek-soup-with-potato-and-parsley",
+        "@type": "WebPage",
+        "name": "Celery-Leek Soup With Potato and Parsley"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020613-celery-leek-soup-with-potato-and-parsley",
+      "name": "Celery-Leek Soup With Potato and Parsley",
+      "description": "This celery-forward soup is in essence a potato-leek soup that substitutes most of the potatoes with brighter celery, and skips the vast quantities of cream in the original, resulting in a lighter flavor and texture. Woodsy herbs like thyme and bay leaves, and fresh, raw parsley give the soup its intensely green, almost grassy taste. It’s worth trying the soup without dairy, then admiring the transformative effect of a splash of crème fraîche or cream, which subdues the louder celery notes.",
+      "author": {
+        "@type": "Person",
+        "name": "Alexa Weibel"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/19b13bd6-908e-5c8f-816b-799e38b6ed4d#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/11/20/dining/19celeryrex1/19celeryrex1-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2019-11-19T17:32:01.092Z",
+          "datePublished": "2019-11-19T16:03:23.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-11-19T16:03:23.000Z",
+          "url": "https://static01.nyt.com/images/2019/11/20/dining/19celeryrex1/19celeryrex1-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/19b13bd6-908e-5c8f-816b-799e38b6ed4d#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/11/20/dining/19celeryrex1/19celeryrex1-superJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2019-11-19T17:32:01.092Z",
+          "datePublished": "2019-11-19T16:03:23.000Z",
+          "height": "1364",
+          "representativeOfPage": true,
+          "uploadDate": "2019-11-19T16:03:23.000Z",
+          "url": "https://static01.nyt.com/images/2019/11/20/dining/19celeryrex1/19celeryrex1-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/19b13bd6-908e-5c8f-816b-799e38b6ed4d#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/11/20/dining/19celeryrex1/19celeryrex1-square640.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2019-11-19T17:32:01.092Z",
+          "datePublished": "2019-11-19T16:03:23.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-11-19T16:03:23.000Z",
+          "url": "https://static01.nyt.com/images/2019/11/20/dining/19celeryrex1/19celeryrex1-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT45M",
+      "recipeYield": "6 to 8 servings (about 9 1/2 cups)",
+      "recipeCuisine": "american",
+      "recipeCategory": "dinner, easy, weeknight, vegetables, appetizer, main course, side dish",
+      "keywords": "bay leaves, celery, crème fraîche, leek, parsley, russet potato, soup, christmas, new year’s day, thanksgiving, fall, winter",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 1570
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 204,
+        "unsaturatedFatContent": "8 grams",
+        "carbohydrateContent": "20 grams",
+        "cholesterolContent": null,
+        "fatContent": "10 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "7 grams",
+        "saturatedFatContent": "2 grams",
+        "sodiumContent": "875 milligrams",
+        "sugarContent": "5 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1/4 cup extra-virgin olive oil, plus more for drizzling",
+        "2 large leeks (about 10 ounces each), halved lengthwise, thinly sliced crosswise and cleaned (about 3 cups)",
+        "3 garlic cloves, sliced",
+        "Kosher salt and freshly ground black pepper",
+        "1 pound celery (about 1 large bunch), leaves reserved, stalks trimmed, peeled and thinly sliced",
+        "1 large russet potato (about 12 ounces), peeled and roughly chopped",
+        "3 fresh bay leaves",
+        "1 1/2 teaspoons fresh thyme leaves",
+        "1/4 cup dry white wine",
+        "7 cups chicken or vegetable stock",
+        "1 cup chopped fresh parsley leaves, plus more for garnish",
+        "Crème fraîche or heavy cream, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large pot, heat the 1/4 cup oil over medium. Add the leeks and garlic, season with salt and pepper, and cook, stirring occasionally, until meltingly tender, about 7 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the celery, potato, bay leaves and thyme, season with salt and pepper, and cook, stirring occasionally, until vegetables are softened, about 5 minutes. Add the wine to deglaze, then cook, stirring occasionally, until liquid is almost dry, about 3 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the stock and bring to boil over high. Reduce the heat to medium and simmer until all the vegetables are fully tender and soft, about 20 minutes. Discard the bay leaves, then stir in 1 cup parsley leaves."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Working in two or three batches, transfer the soup to a blender and purée until smooth. (It’s almost always beneficial to let the soup blend for another minute or two past what seems necessary to emulsify as much as possible.) Season generously with salt and pepper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Transfer to bowls. Drizzle with olive oil; garnish with reserved celery leaves and parsley, and sprinkle with pepper. Serve with a dollop of crème fraîche or a drizzle of heavy cream."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lewis"
+          },
+          "reviewBody": "Not a hit at my house, seemed too many competing flavors, in part bc used my pepper grinder too much, in large part bc of the celery. and had only freeze dehydrated parley, and dried thyme.  And added about a pound of carrots.  Seemed slightly bitter and too complex, felt turned out only 1 of 5 stars, probably much my fault, will go back to a more traditional potato-leek soup.",
+          "datePublished": "2025-04-10T07:27:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carrie"
+          },
+          "reviewBody": "I made this only to use up things that were in my fridge but it was surprisingly tasty. I was a little short on the parsley, added 1 can of small white beans for protein, and used a little less broth than called for. I had an open container of sour cream so used that in place of creme fraiche, worked well. Blended well with immersion blender. Will make it again!",
+          "datePublished": "2025-03-31T23:06:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy"
+          },
+          "reviewBody": "Easy to make and delicious!",
+          "datePublished": "2025-03-09T16:57:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Namara"
+          },
+          "reviewBody": "I made this today for a meatless lunch. Followed the recipe as written (although I did not peel the celery). It is delicious -- I would not change a thing.",
+          "datePublished": "2025-03-05T17:52:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "Delightful.  Made as written.1/2 recipe for 2",
+          "datePublished": "2025-02-02T21:53:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mindy"
+          },
+          "reviewBody": "Did not peel celery or potatoes. Why? Otherwise cooked as directed. Delicious.",
+          "datePublished": "2025-01-13T12:08:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lmcl"
+          },
+          "reviewBody": "Made it with dried thyme (1/2 tsp) and parsley (handful) and vermouth instead of white wine because those were what I had in hand. Also added 1/8 tsp ground turmeric for anti inflammatory properties and bc I just like it. \nSoup was delicious and smooth with my ninja blender. Unfortunately I learned that the rubber stopper on top the blender that allows you to drizzle in oil to emulsify liquids will also pop open when blending very hot soups. Took a droplet right to the eye(lid, fortunately), and across much of the counter and cabinetry.\nStill, now I know, and I would make this again. I do love celery and parsley (next time I’ll make effort to have fresh parsley on hand).",
+          "datePublished": "2025-01-01T03:57:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "suzanne"
+          },
+          "reviewBody": "Would it matter much to reduce the parsley by a lot?   I don't like the flavor of parsley as a forward flavor (I understand its role as a subtle player).   A full cup?  seems like too much for me.    Did anyone make this without parsley?",
+          "datePublished": "2024-12-06T16:48:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "dimmerswitch"
+          },
+          "reviewBody": "A tip here for a trick that I'm pretty sure I learned from a Melissa Clark recipe some time ago, but a long enough time ago that I can't recall the recipe as I post this, is peel celery for more tender and flavor filled use in dishes like this.  And in salads.  I have a great serrated, swivel veggie peeler and it works like a charm on celery for a dish like this one.",
+          "datePublished": "2024-10-31T16:18:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen L"
+          },
+          "reviewBody": "I used about a 1/2 fresh parsley and coconut cream as I need to do dairy free. SOOOO good!",
+          "datePublished": "2024-10-12T17:57:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sammo"
+          },
+          "reviewBody": "Wonderful flavors- I found 7 cups to be too much liquid, recommend adding 5 cups and then titrating to the desired consistency.",
+          "datePublished": "2024-10-07T16:39:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "R Greve"
+          },
+          "reviewBody": "I added a chopped fennel bulb with the onions (substituted onion for the leeks). Also added 1 c heavy cream at the end after blending.",
+          "datePublished": "2024-08-17T15:15:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jess"
+          },
+          "reviewBody": "This was so delicious and springy, and an easy to follow/forgiving recipe. Adding white beans for protein which did not alter flavor dramatically!",
+          "datePublished": "2024-04-08T03:32:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Corned beef broth variation & water chestnuts"
+          },
+          "reviewBody": "Whenever I cook a Cb I save the broth to make leek soup. This year I used this recipe with my corned beef broth (it adds a buttery flavor). to this. I added a few tbsp. of rice vinegar to offset a slight bitterness and about 1/4 tsp. Of cayenne. 1 other change that worked great - lacking celery (oops!) I substituted 2- 8 oz. Cans of diced water chestnuts & it added the perfect crunch after light purée-ing. My 8 guests all loved it!",
+          "datePublished": "2024-03-23T15:25:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G. Smith"
+          },
+          "reviewBody": "This was really lovely as a nice light supper for the tail end of winter/beginning of spring to go with a freshly-baked loaf of homemade bread. I followed the tips in the comments and used two big russet potatoes, and was happy with the resulting thickness. (Would recommend cutting the potatoes into fairly small chunks in order for them to get cooked within the time given.) Immersion blended. Topped it with some vegan cashew & coconut yogurt rather than cream, and it was perfectly delicious.",
+          "datePublished": "2024-03-19T06:01:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara"
+          },
+          "reviewBody": "This is a most forgiving recipe. I used leeks, hearts of celery, and parsley all well past their prime.  I had no wine, used dried thyme, and peeled only half the celery.  I had 2 Yukon gold potatoes rather than one russet.  After Chopping one potato, I realized that I had no use for the remaining single potato and I added that one also.  I had no stock, so I used artificially chicken flavored soup and seasoning mix.  I puréed it in my 40 year old oster blender. It was smooth and delicious.",
+          "datePublished": "2021-03-05T04:38:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "UWSGrrl"
+          },
+          "reviewBody": "Lovely soup both pureed or not although it has a rustic brownish olive green  color before pureeing. First batch was eaten before it went in the blender. I added some leftover cooked chicken and bacon to the bowls and it made a fine weekday meal plus more space in the fridge.  \nAfter the blender the soup turned a lovely shade of green and will be a great start to our Thanksgiving meal.",
+          "datePublished": "2019-11-27T18:24:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peggy Sim"
+          },
+          "reviewBody": "Why not use an emulsion blender?",
+          "datePublished": "2019-11-23T15:27:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tom Kulaga"
+          },
+          "reviewBody": "All hail King Celery! This really resonated with that distinctive flavor from the first spoonful. I added a ripe pear for even more creamy lusciousness. Wonder what it would be like with celery salt to season it? Probably make your head explode!",
+          "datePublished": "2020-05-27T14:45:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "j"
+          },
+          "reviewBody": "brighten w/ lemon juice",
+          "datePublished": "2019-12-15T00:03:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PS"
+          },
+          "reviewBody": "I subbed in peeled, chopped celery root for the potato (and did not use cream or creme fraiche since it was quite creamy once puréed). Delicious - even better when made ahead and reheated!",
+          "datePublished": "2019-11-29T14:24:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joseph Wu"
+          },
+          "reviewBody": "Not bad. I added a teaspoon each of cumin and paprika in step 2. Might add some lemon juice or lemon zest next time at the end to brighten it up. Great way to use some extra celery I had lying around.",
+          "datePublished": "2019-11-24T00:52:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suzanne"
+          },
+          "reviewBody": "I am not a fan of celery but this soup is delicious. I made no changes to the recipe and did not use creme fraiche this time. The flavors blend very well and it’s easy to put together. I will make this again for sure.",
+          "datePublished": "2019-11-25T00:24:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Heather"
+          },
+          "reviewBody": "I’ve had the hot soup explosion problem that Quakera described but blenders have a built-in design feature to deal with it: the knob in the blender lid is removable. Take out the knob, then put a clean dish towel over the opening. Opening up the lid allows steam to escape. The towel prevents steam burns and splatters. You still have to leave air space in the container, but this method works with any hot liquid  - no need to wait for it to cool.",
+          "datePublished": "2022-11-13T21:48:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lorene"
+          },
+          "reviewBody": "I had to substitute the potato with cauliflower as I'm allergic to potatoes, but it worked quite well.",
+          "datePublished": "2019-11-22T18:09:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suze"
+          },
+          "reviewBody": "Make this soup. It is so good. I followed the recipe exactly, but halved it because I only had half the amount of leeks in my CSA. Oh my gosh, my kitchen smelled like heaven must smell. How the angels get anything done up there, I have no idea. And it tastes just as good as it smells.",
+          "datePublished": "2023-02-09T02:03:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Texanne"
+          },
+          "reviewBody": "Tastes like vichyssoise plus a little somethin’-somethin’. I cut the olive oil waaaaay back to a tablespoon or so and was perfectly satisfied.",
+          "datePublished": "2019-11-28T01:50:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris"
+          },
+          "reviewBody": "Since I grow all the veggies in this recipe, and more, I used equal parts potatoes, celery root (celeriac), and celery and followed the rest of the recipe as written. Very smooth and delicious. Celeriac is a little gnarly to deal with but I recommend that you try it!",
+          "datePublished": "2019-11-21T16:57:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Quakera"
+          },
+          "reviewBody": "For anyone new to blender soups: it's essential to let the soup cool before pressing play! Otherwise the hot vegetable-laden broth will blow the lid off the blender, spraying the walls (and you). Holding the top down with your hand will not contain the explosive force. Immersion users, you don't know what you're missing!  Even when the mixture has cooled to warm, I only fill the blender about half-way to allow room for the upward burst of puree.",
+          "datePublished": "2022-10-12T21:40:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Juliet Jones"
+          },
+          "reviewBody": "Important to note that the celery should be sliced THINLY! I just cut it into approximately 3/4 inch chunks, and I used the immersion blender to blend it. The resulting soup tasted good, but had too many celery fibers which was not so pleasant. Perhaps with a regular blender this would not have happened, but the immersion blender is SO much easier to clean up.",
+          "datePublished": "2019-12-18T20:44:52.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1020613-celery-leek-soup-with-potato-and-parsley",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Alexa Weibel"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019,
+      "description": "This celery-forward soup is in essence a potato-leek soup that substitutes most of the potatoes with brighter celery, and skips the vast quantities of cream in the original, resulting in a lighter flavor and texture. Woodsy herbs like thyme and bay leaves, and fresh, raw parsley give the soup its intensely green, almost grassy taste. It’s worth trying the soup without dairy, then admiring the transformative effect of a splash of crème fraîche or cream, which subdues the louder celery notes.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Celery-Leek Soup With Potato and Parsley",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/19b13bd6-908e-5c8f-816b-799e38b6ed4d#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/11/20/dining/19celeryrex1/19celeryrex1-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2019-11-19T17:32:01.092Z",
+          "datePublished": "2019-11-19T16:03:23.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-11-19T16:03:23.000Z",
+          "url": "https://static01.nyt.com/images/2019/11/20/dining/19celeryrex1/19celeryrex1-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/19b13bd6-908e-5c8f-816b-799e38b6ed4d#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/11/20/dining/19celeryrex1/19celeryrex1-superJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2019-11-19T17:32:01.092Z",
+          "datePublished": "2019-11-19T16:03:23.000Z",
+          "height": "1364",
+          "representativeOfPage": true,
+          "uploadDate": "2019-11-19T16:03:23.000Z",
+          "url": "https://static01.nyt.com/images/2019/11/20/dining/19celeryrex1/19celeryrex1-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/19b13bd6-908e-5c8f-816b-799e38b6ed4d#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/11/20/dining/19celeryrex1/19celeryrex1-square640.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2019-11-19T17:32:01.092Z",
+          "datePublished": "2019-11-19T16:03:23.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-11-19T16:03:23.000Z",
+          "url": "https://static01.nyt.com/images/2019/11/20/dining/19celeryrex1/19celeryrex1-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020613-celery-leek-soup-with-potato-and-parsley"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:29.797Z",
+  "scraping_status": "scraped"
+}

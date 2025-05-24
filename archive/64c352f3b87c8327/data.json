@@ -1,0 +1,556 @@
+{
+  "id": "64c352f3b87c8327",
+  "original_url": "https://cooking.nytimes.com/recipes/1025558-smoky-confit-tomato-and-lemon-pasta",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025558-smoky-confit-tomato-and-lemon-pasta",
+  "fetched_title": "Smoky Confit Tomato and Lemon Pasta Recipe",
+  "main_text_content": "This tomato pasta is a testament to simplicity: Just toss all the sauce ingredients into a roasting pan and let the oven — and pool of olive oil — gently simmer and “confit” the rest while you prepare your pasta The stars of this dish are the ancho chile, slowly releasing a subtle smoky spice as it softens in the oil, and the strips of lemon peel, which sweeten as they cook Heirloom tomatoes add wonderful fragrance and variety, as some break down into the sauce while others remain firm, adding textural contrast",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1021856-smoky-tomato-carbonara\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2022/02/14/dining/kc-tomato-carbonara/kc-tomato-carbonara-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2022/02/14/dining/kc-tomato-carbonara/kc-tomato-carbonara-blogSmallInline-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2022/02/14/dining/kc-tomato-carbonara/kc-tomato-carbonara-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2022/02/14/dining/kc-tomato-carbonara/kc-tomato-carbonara-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2022/02/14/dining/kc-tomato-carbonara/kc-tomato-carbonara-videoSixteenByNine310-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2022/02/14/dining/kc-tomato-carbonara/kc-tomato-carbonara-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2022/02/14/dining/kc-tomato-carbonara/kc-tomato-carbonara-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2022/02/14/dining/kc-tomato-carbonara/kc-tomato-carbonara-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Smoky Tomato Carbonara</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Kay Chun</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/07/16/multimedia/21EATrex-tomato-pastarex-fkzg/21EATrex-tomato-pastarex-fkzg-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/64c352f3b87c8327/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/6f9ac94d-0bba-5681-a59c-7ce2f6d7e7ea",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025558-smoky-confit-tomato-and-lemon-pasta",
+        "@type": "WebPage",
+        "name": "Smoky Confit Tomato and Lemon Pasta"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025558-smoky-confit-tomato-and-lemon-pasta",
+      "name": "Smoky Confit Tomato and Lemon Pasta",
+      "description": "This tomato pasta is a testament to simplicity: Just toss all the sauce ingredients into a roasting pan and let the oven — and pool of olive oil — gently simmer and “confit” the rest while you prepare your pasta. The stars of this dish are the ancho chile, slowly releasing a subtle smoky spice as it softens in the oil, and the strips of lemon peel, which sweeten as they cook. Heirloom tomatoes add wonderful fragrance and variety, as some break down into the sauce while others remain firm, adding textural contrast. This recipe is incredibly versatile: Swap the ancho chile for a long red chile and a teaspoon of smoked paprika, for example, or use other types of tomatoes if they are easier to come by. Foolproof in method and bursting with flavor, this dish is a perfect addition to any midweek repertoire.",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/e12e0d26-4046-593d-bcec-76431394cb0b#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/16/multimedia/21EATrex-tomato-pastarex-fkzg/21EATrex-tomato-pastarex-fkzg-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Maggie Ruggerio. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2024-07-15T20:39:28.123Z",
+          "datePublished": "2024-07-15T14:29:46.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-15T14:29:46.000Z",
+          "url": "https://static01.nyt.com/images/2024/07/16/multimedia/21EATrex-tomato-pastarex-fkzg/21EATrex-tomato-pastarex-fkzg-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/e12e0d26-4046-593d-bcec-76431394cb0b#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/16/multimedia/21EATrex-tomato-pastarex-fkzg/21EATrex-tomato-pastarex-fkzg-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Maggie Ruggerio. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2024-07-15T20:39:28.123Z",
+          "datePublished": "2024-07-15T14:29:46.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-15T14:29:46.000Z",
+          "url": "https://static01.nyt.com/images/2024/07/16/multimedia/21EATrex-tomato-pastarex-fkzg/21EATrex-tomato-pastarex-fkzg-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/e12e0d26-4046-593d-bcec-76431394cb0b#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/16/multimedia/21EATrex-tomato-pastarex-fkzg/21EATrex-tomato-pastarex-fkzg-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Maggie Ruggerio. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2024-07-15T20:39:28.123Z",
+          "datePublished": "2024-07-15T14:29:46.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-15T14:29:46.000Z",
+          "url": "https://static01.nyt.com/images/2024/07/16/multimedia/21EATrex-tomato-pastarex-fkzg/21EATrex-tomato-pastarex-fkzg-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, weeknight, pastas, main course",
+      "keywords": "ancho chile, cinnamon stick, garlic, heirloom tomato, lemon zest, oregano, rigatoni, summer, vegan",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 235
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 763,
+        "unsaturatedFatContent": "39 grams",
+        "carbohydrateContent": "76 grams",
+        "cholesterolContent": null,
+        "fatContent": "47 grams",
+        "fiberContent": "9 grams",
+        "proteinContent": "14 grams",
+        "saturatedFatContent": "7 grams",
+        "sodiumContent": "839 milligrams",
+        "sugarContent": "9 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2½ pounds mixed heirloom tomatoes, cut into 1½-inch pieces (or left whole, if bite-size)",
+        "1 1/4 cups olive oil",
+        "2 tablespoons tomato paste",
+        "2 lemons, zest peeled into strips, avoiding the white pith (save the juice for another use)",
+        "2 cinnamon sticks",
+        "2 small dried ancho chiles",
+        "1 head garlic, top 1/2 inch of the bulbs removed",
+        "10 fresh oregano sprigs, plus 1 sprig extra to serve",
+        "Fine sea salt and freshly ground black pepper",
+        "1 pound rigatoni pasta (or another similar shape)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 425 degrees."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large (about 11-by-15-inch) roasting pan, add all the ingredients except for the pasta, and season with 1½ teaspoons salt and ¼ teaspoon pepper. Spread into an even layer, with the head of garlic facing cut-side down. Nestle the ancho chiles under the tomatoes, tearing in half if necessary to immerse them, then roast the mixture for 35 minutes, until the tomatoes are tender and lightly charred. Use tongs to squeeze the garlic cloves into the pan, discarding the papery skins. Remove and finely chop the ancho chiles, then return to the pan, discarding the stems."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the tomato confit roasts, bring a large pot of well-salted water to a boil. Add the pasta a few minutes before the tomatoes have finished cooking, and cook as per packet instructions. Reserve ⅓ cup of the pasta water, then strain the pasta. Add the pasta to the roasting pan and gently stir to combine until the pasta has absorbed any cooking liquid from the pan. Add some pasta water, a few tablespoons at a time, until the sauce clings nicely to the pasta."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Discard the cinnamon sticks and serve straight from the pan, with the extra oregano sprinkled on top."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-07-16T00:00:00.000Z",
+      "dateModified": "2024-08-01T00:16:50.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Caroline"
+          },
+          "reviewBody": "To answer the lemon question, I peeled strips of zest off the entire lemon, then cut the actual fruit in half and placed one half cut-side down in the center of the baking dish. Having no ancho chiles, I doubled the tomato paste and used chili powder! Oregano? Dried from a bottle. Ditto with a sprinkling of cinnamon powder because I couldn’t find the sticks I swear I have somewhere. Instead of olive oil, I chopped up a good 10 ounces of raw bacon and sprinkled it over the tomatoes. Did it work? Yes! Delicious. Very forgiving recipe. You can wing it. Oh—and I didn’t save enough pasta water, so I used half-and-half to loosen the sauce. I know, I know—it’s hardly the original recipe, but it was great. I love recipes that are so forgiving with substitutions.",
+          "datePublished": "2025-05-20T00:33:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stephen Hall"
+          },
+          "reviewBody": "This was very tasty, and I would make it again. I omitted the chilli and added some smoked paprika, used half the oil and doubled the garlic.",
+          "datePublished": "2025-05-07T22:50:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "aly r."
+          },
+          "reviewBody": "I made this as a topping for a risotto rather than a pasta dish and the flavor was unique and delicious. I agree with other reviews that there is a lot of oil being used here (at the end it felt like the tomatoes were swimming in it) but it was very easy to separate, even as the tomatoes were becoming mushy and sauce-like. If I were using pasta I would add the confit to the pasta rather than the other way around so you can control the amount of oil you’re using. \n\nNone of my grocery stores carried whole dried ancho chilies so I used ground ancho chili powder and it came out great. I was light handed with it (used 1tsp) but I could have used more and it would have providing a smokier flavor.",
+          "datePublished": "2025-04-19T12:12:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeff C"
+          },
+          "reviewBody": "Excellent and unusual recipe.  I halved it, and used 1 1/2 pounds of heirloom tomatoes.  Good tomatoes are key, and I could have left the tomato portion larger.  I served with some chicken Italian sausage.  The comments about just the lemon zest, and cutting down the oil a bit were key.  I used a half cup of oil.",
+          "datePublished": "2025-03-17T12:31:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeff C"
+          },
+          "reviewBody": "I forgot to add oregano until the end.  I now see the recipe has you added most before cooking, then adding a few afterwards just for color.",
+          "datePublished": "2025-03-17T12:34:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeff C"
+          },
+          "reviewBody": "I also cut down the garlic, and just used about two cloves.",
+          "datePublished": "2025-03-17T12:33:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "EJ"
+          },
+          "reviewBody": "The late, great Anthony Bourdain couldn't stand the sight of Yotam Ottolenghi. Just watch the Gaza episode of No Reservations. His disdain is evident. RIP to a great man.",
+          "datePublished": "2025-02-16T01:19:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ldgcooks"
+          },
+          "reviewBody": "The first time I made this I used fresh thyme and it was extraordinary. The next time I used fresh oregano as called for and it didn’t have that same spark. Next time it’s thyme for the win. It’s a fabulous company dish, minimal prep and a big payoff.",
+          "datePublished": "2025-02-06T01:06:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam Chessen"
+          },
+          "reviewBody": "Definitely agree with other comments saying too much oil. This recipe does not need 1.25 cups of it. Loveddd the kick of the chili pepper and cinnamon!!",
+          "datePublished": "2025-01-29T16:58:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mariano"
+          },
+          "reviewBody": "I cooked it with small sweet grape tomatoes cut in half. Reduced a little the olive oil, too.\nAbsolutely delicious. Everybody, including kids 5 and 7, loved it.\nThe zest, garlic and cinnamon added a super nice kick. On the other hand, the oregano sprigs were superfluous. I used already less than the recommended amount, and next time, I will skip them completely. This dish made into our home's cook-it-again list!",
+          "datePublished": "2024-12-18T08:14:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diane C"
+          },
+          "reviewBody": "If I use dried ancho chili  pepper, instead of the whole ones, how much would you recommend?",
+          "datePublished": "2024-12-02T19:50:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate Cone Brancaccio"
+          },
+          "reviewBody": "I live in a Maine beach town where it would be dicey to find ancho chiles at the grocery store. But I shared the recipe with a coworker and she brought some dried anchos to our tiny art museum to give me. We both made the dish and were both impressed at how delicious it was! A keeper.",
+          "datePublished": "2024-10-30T10:23:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kfitz"
+          },
+          "reviewBody": "Remove most of lemon zest before puréing",
+          "datePublished": "2024-09-21T02:06:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mike"
+          },
+          "reviewBody": "There's definitely potential here flavor-wise and I look forward to experimenting with the concept, but the end result as written is an oily mess with leathery nubs of lemon peel that need to be picked out while eating. It doesn't really come together into a cohesive sauce at all.",
+          "datePublished": "2024-09-20T16:35:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NMM"
+          },
+          "reviewBody": "This was amazing. Roasting the tomatoes made my apartment smell wonderful. I had to make a few modifications and it still came out amazing: used 1 whole preserved lemon (ran out of regular lemons), accidentally used 2 dried chipotle peppers, reduced the olive oil to ~1 half cup, served with gnocchi and chickpeas. I also blended the sauce since my blender was already out (I blended in half of the preserved lemon and one chipotle).",
+          "datePublished": "2024-09-04T14:06:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gianni"
+          },
+          "reviewBody": "This looks fantastic, but I am a little confused: Should I add the whole lemon into the pan? Or just the strips?",
+          "datePublished": "2024-07-17T12:07:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Glenn"
+          },
+          "reviewBody": "I made this last night, and the dish was very flavorful.  However, it was also VERY oily.   If I made it again, I would use perhaps half the amount of olive oil indicated.",
+          "datePublished": "2024-07-20T18:06:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "erg"
+          },
+          "reviewBody": "Lemon or Zest: The following quote is from the NYT article that accompanied this recipe (July 18, 2024): “Today’s recipe sticks to only that zest, because tomatoes normally have enough acidity in them to give my pasta a nice sharpness. But extra juice would definitely not hurt, particularly if your tomatoes are extra sweet.”\nSo, zest only. \nBut the comments are right - the instructions in the recipe are unclear and the editor should revise the text regarding the lemon ingredient.",
+          "datePublished": "2024-07-18T04:27:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shashi"
+          },
+          "reviewBody": "In the recipe he says “Today’s recipe sticks to only that zest, because tomatoes normally have enough acidity in them to give my pasta a nice sharpness. But extra juice would definitely not hurt, particularly if your tomatoes are extra sweet.” So it sounds like just the zest.",
+          "datePublished": "2024-07-17T12:30:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Drake Baer"
+          },
+          "reviewBody": "Cinnamon sticks and lemon… Ottolenghi’s Palestine-by-way-of-London touch is subtly distinct and tasty here, as usual.",
+          "datePublished": "2024-07-17T12:49:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Donna D."
+          },
+          "reviewBody": "I made this last night and it was excellent! So flavorful. Rather than turn on the oven on a hot day, I sauteed everything in the stove top. Once the pasta was done I mixed it in with the sauce until all the liquid was absorbed.\nSimple to make and amazing flavor! I'll definetely keep this in the rotation.",
+          "datePublished": "2024-07-19T18:23:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "REM"
+          },
+          "reviewBody": "Sean, Assuming no other dried chile is available, you’re trying to replicate the fruity/chocolaty mildly spicy flavor of the ancho chile. So maybe a roasted & peeled sweet red pepper, a bit of smoked paprika and a dash of powdered cayenne for spiciness.",
+          "datePublished": "2024-07-19T21:14:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robert G"
+          },
+          "reviewBody": "I made this last night and will make it again.  The main flavor was the lemon.  Very nice.  The oil seemed like a lot but after mixing in the pasta seemed fine.  I might break the cinnamon sticks up a bit next time and go a bit easier on the chiles as it was kind of spicy for us.  I made it with GF pasta (Bionaturae) which seemed to absorb the sauce nicely so no need for the pasta water.  All in all a very tasty pasta dish worth trying again.",
+          "datePublished": "2024-07-19T16:22:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chef Carlos"
+          },
+          "reviewBody": "Make this dish a few hours before and reheat. You will be happy you waited. The tomatoes get jammier and the rest of the concoction melds perfectly!  Great recipe. Serve with claret",
+          "datePublished": "2024-07-23T02:10:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "keith"
+          },
+          "reviewBody": "Any kind of smoked chili or smoked chili powder (chipotle, mulatto etc.).  You want the smokiness and the subtle heat. You can also try a spoonful of canned chipotle peppers if you can find them (these won't be dried....sort of like a paste).  \nI don't think you reconstitute the chilies, otherwise they could break open and you don't want that",
+          "datePublished": "2024-07-19T11:19:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sean"
+          },
+          "reviewBody": "This was disgusting. Oily, not lemony, and not something I would make again. I really didn't get what this was supposed to be, I followed the recipe exactly. Chewing on lemon peels and giant cloves of garlic? Not appealing.",
+          "datePublished": "2024-07-20T20:41:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Graeme"
+          },
+          "reviewBody": "You probably didn't roast it for long enough. Garlic cloves cook down to a soft, sweet, sticky mush when cooked like this. I use a citrus zester tool <a href=\"https://www.procook.co.uk/product/procook-lemon-zester-stainless-steel1?cq_src=google_ads&cq_cmp\" target=\"_blank\">https://www.procook.co.uk/product/procook-lemon-zester-stainless-steel1?cq_src=google_ads&cq_cmp</a>={campaigned}&cq_net=x&cq_plt=gp&nbt=nb%3Aadwords%3Ax%3A21334087812%3A%3A&nb_adtype=pla_with_promotion&nb_mi=127414221&nb_pc=online&nb_pi=5782&nb_si={sourceid}&gad_source=1&gclid=CjwKCAjw4_K0BhBsEiwAfVVZ_z2bA3S6dsknbtnCG to zest lemons and limes.",
+          "datePublished": "2024-07-21T21:03:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DanielJ"
+          },
+          "reviewBody": "It's in the article that discusses his cooking with lemons in general, and not cooking with the juice specifically with this recipe.\n\nThe Most Important Seasoning After Salt and Pepper <a href=\"https://www.nytimes.com/2024/07/17/magazine/smoky-tomato-pasta-lemons-recipe.html?smid=nytcore-android-share\" target=\"_blank\">https://www.nytimes.com/2024/07/17/magazine/smoky-tomato-pasta-lemons-recipe.html?smid=nytcore-android-share</a>",
+          "datePublished": "2024-07-18T22:13:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "REM"
+          },
+          "reviewBody": "Step 2 of the recipe instructions state, “ Nestle the ancho chiles under the tomatoes, tearing in half if necessary to immerse them,”  which means the chile will rehydrate during the roasting process.",
+          "datePublished": "2024-07-19T17:37:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steve"
+          },
+          "reviewBody": "You add just the strips, as I read it.",
+          "datePublished": "2024-07-17T22:29:26.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025558-smoky-confit-tomato-and-lemon-pasta",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "This tomato pasta is a testament to simplicity: Just toss all the sauce ingredients into a roasting pan and let the oven — and pool of olive oil — gently simmer and “confit” the rest while you prepare your pasta. The stars of this dish are the ancho chile, slowly releasing a subtle smoky spice as it softens in the oil, and the strips of lemon peel, which sweeten as they cook. Heirloom tomatoes add wonderful fragrance and variety, as some break down into the sauce while others remain firm, adding textural contrast. This recipe is incredibly versatile: Swap the ancho chile for a long red chile and a teaspoon of smoked paprika, for example, or use other types of tomatoes if they are easier to come by. Foolproof in method and bursting with flavor, this dish is a perfect addition to any midweek repertoire.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Smoky Confit Tomato and Lemon Pasta",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/e12e0d26-4046-593d-bcec-76431394cb0b#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/16/multimedia/21EATrex-tomato-pastarex-fkzg/21EATrex-tomato-pastarex-fkzg-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Maggie Ruggerio. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2024-07-15T20:39:28.123Z",
+          "datePublished": "2024-07-15T14:29:46.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-15T14:29:46.000Z",
+          "url": "https://static01.nyt.com/images/2024/07/16/multimedia/21EATrex-tomato-pastarex-fkzg/21EATrex-tomato-pastarex-fkzg-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/e12e0d26-4046-593d-bcec-76431394cb0b#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/16/multimedia/21EATrex-tomato-pastarex-fkzg/21EATrex-tomato-pastarex-fkzg-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Maggie Ruggerio. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2024-07-15T20:39:28.123Z",
+          "datePublished": "2024-07-15T14:29:46.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-15T14:29:46.000Z",
+          "url": "https://static01.nyt.com/images/2024/07/16/multimedia/21EATrex-tomato-pastarex-fkzg/21EATrex-tomato-pastarex-fkzg-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/e12e0d26-4046-593d-bcec-76431394cb0b#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/16/multimedia/21EATrex-tomato-pastarex-fkzg/21EATrex-tomato-pastarex-fkzg-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Maggie Ruggerio. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2024-07-15T20:39:28.123Z",
+          "datePublished": "2024-07-15T14:29:46.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-15T14:29:46.000Z",
+          "url": "https://static01.nyt.com/images/2024/07/16/multimedia/21EATrex-tomato-pastarex-fkzg/21EATrex-tomato-pastarex-fkzg-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025558-smoky-confit-tomato-and-lemon-pasta"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:09:05.609Z",
+  "scraping_status": "scraped"
+}

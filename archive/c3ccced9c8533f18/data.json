@@ -1,0 +1,562 @@
+{
+  "id": "c3ccced9c8533f18",
+  "original_url": "https://cooking.nytimes.com/recipes/1026583-chicken-and-chickpea-tray-bake",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026583-chicken-and-chickpea-tray-bake",
+  "fetched_title": "Chicken and Chickpea Tray Bake Recipe",
+  "main_text_content": "This easy chicken sheet-pan supper brings bold, warming flavors with minimal fuss Tossed with ras el hanout, the chicken roasts alongside potatoes, sweet peppers and chickpeas, creating a richly flavored dish that practically makes its own sauce The sheet pan may look crowded, but everything melts beautifully together as it cooks",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026512-sheet-pan-malai-chicken-and-potatoes\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Sheet-Pan Malai Chicken and Potatoes </p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Zaynab Issa</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/02/11/multimedia/16EATrex-chicken-and-chickpea-hgvc/16EATrex-chicken-and-chickpea-hgvc-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/c3ccced9c8533f18/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/d2a73cf9-b607-56c4-a84e-d7f509c12393",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026583-chicken-and-chickpea-tray-bake",
+        "@type": "WebPage",
+        "name": "Chicken and Chickpea Tray Bake"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026583-chicken-and-chickpea-tray-bake",
+      "name": "Chicken and Chickpea Tray Bake",
+      "description": "This easy chicken sheet-pan supper brings bold, warming flavors with minimal fuss. Tossed with ras el hanout, the chicken roasts alongside potatoes, sweet peppers and chickpeas, creating a richly flavored dish that practically makes its own sauce. The sheet pan may look crowded, but everything melts beautifully together as it cooks. The peppers, potatoes and chickpeas simmer gently in the oil, while the chicken sits halfway in, its skin staying crispy as the juices mingle below. Any chickpeas peeking out get delightfully crisp, while the rest confit in the oil, becoming soft and smooth. A finishing drizzle of sherry vinegar adds a bright, tangy kick, balancing the warm spices and bringing out the dish’s deep roasted flavours. Best of all, the prep is simple, and the oven does the rest, making this perfect for a cozy midweek dinner that still feels special.",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/6007f3bd-c1a4-5e43-83b0-4c233df5a3c9#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/11/multimedia/16EATrex-chicken-and-chickpea-hgvc/16EATrex-chicken-and-chickpea-hgvc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-02-10T23:12:55.301Z",
+          "datePublished": "2025-02-10T23:12:55.301Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-10T23:12:55.301Z",
+          "url": "https://static01.nyt.com/images/2025/02/11/multimedia/16EATrex-chicken-and-chickpea-hgvc/16EATrex-chicken-and-chickpea-hgvc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/6007f3bd-c1a4-5e43-83b0-4c233df5a3c9#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/11/multimedia/16EATrex-chicken-and-chickpea-hgvc/16EATrex-chicken-and-chickpea-hgvc-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-02-10T23:12:55.301Z",
+          "datePublished": "2025-02-10T23:12:55.301Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-10T23:12:55.301Z",
+          "url": "https://static01.nyt.com/images/2025/02/11/multimedia/16EATrex-chicken-and-chickpea-hgvc/16EATrex-chicken-and-chickpea-hgvc-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/6007f3bd-c1a4-5e43-83b0-4c233df5a3c9#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/11/multimedia/16EATrex-chicken-and-chickpea-hgvc/16EATrex-chicken-and-chickpea-hgvc-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-02-10T23:12:55.301Z",
+          "datePublished": "2025-02-10T23:12:55.301Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-10T23:12:55.301Z",
+          "url": "https://static01.nyt.com/images/2025/02/11/multimedia/16EATrex-chicken-and-chickpea-hgvc/16EATrex-chicken-and-chickpea-hgvc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT1H20M",
+      "totalTime": "PT1H30M",
+      "recipeYield": "4 to 8 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, weeknight, poultry, main course",
+      "keywords": "chicken thigh, chickpea, extra virgin olive oil, garlic, plum tomato, sheet-pan, yukon gold potato, dairy-free, gluten-free",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 1421
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 833,
+        "unsaturatedFatContent": "42 grams",
+        "carbohydrateContent": "42 grams",
+        "cholesterolContent": null,
+        "fatContent": "58 grams",
+        "fiberContent": "10 grams",
+        "proteinContent": "37 grams",
+        "saturatedFatContent": "12 grams",
+        "sodiumContent": "1321 milligrams",
+        "sugarContent": "6 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "8 bone-in, skin-on chicken thighs (about 3 ¼ pounds)",
+        "2 tablespoons ras el hanout",
+        "Fine sea salt and black pepper",
+        "3 small Yukon Gold (or similar) potatoes, each cut into 1-inch-thick wedges",
+        "1 (15-ounce) can chickpeas, rinsed",
+        "3 medium Roma tomatoes, halved lengthwise",
+        "4 romano peppers, halved lengthwise and stems removed (or 12 mini bell peppers)",
+        "1 head garlic, top ½ inch removed to expose the tip of each clove",
+        "3/4 cup extra-virgin olive oil",
+        "2 tablespoons sherry vinegar",
+        "1/4 cup roughly chopped fresh cilantro"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 375 degrees."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Season the chicken with the ras el hanout, 2 teaspoons of salt and a good crack of black pepper on a 13-by-18-inch sheet pan and leave to marinate for 10 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the potatoes, chickpeas, tomatoes, peppers, garlic, oil and 1 tablespoon of the vinegar, and gently mix so that everything is coated with oil. Spread the mixture as evenly as possible across the baking sheet and set the chicken on top, skin-side up."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake for 30 minutes, then give the pan a gentle shake to encourage everything into an even layer. Cook for another 35 minutes, until the chicken is tender and well browned."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Use tongs to squeeze out the garlic cloves, discarding the papery skins. Use a fork to crush the tomatoes and the garlic cloves, then loosely mix them into the sauce. Sprinkle with the cilantro, mixing it in as well. Drizzle over the remaining 1 tablespoon vinegar before serving."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-02-11T00:00:00.000Z",
+      "dateModified": "2025-02-12T15:33:27.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CB"
+          },
+          "reviewBody": "Ottolenghi is the king. I have ALL of his books, and probably 80% of what I cook comes from his recipes. But admittedly, I don't usually think \"Ottolenghi\" when I need to prep a super easy meal after a long day. So this one really surprised me. It was wonderfully flavorful, and probably the easiest meal I cooked in years.",
+          "datePublished": "2025-05-23T03:55:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debra"
+          },
+          "reviewBody": "Delicious! I agree with the community's comments about decreasing the amount of olive oil. If I had done that, perhaps the potatoes would have been as crispy as the chicken. Overall so darn good.",
+          "datePublished": "2025-05-22T23:59:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Denis"
+          },
+          "reviewBody": "This was loved and worshiped by all, though I did adapt to my situation. I used zataar instead of ras el hanout because I had it to hand and liked the idea. I added v thin slices of lemon under the chicken halfway through, then nestled in 12 or so spears of asparagus cut to ~1.5 inch for more veg. Less chicken more chickpeas. If your family/guests aren't too fussy, consider cooking the garlic as cloves (skin on) rather than a whole head for easier serving and they can decide their own fate.",
+          "datePublished": "2025-05-22T21:17:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "reviewBody": "Romano peppers?",
+          "datePublished": "2025-05-22T13:01:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Angela Gyetvan"
+          },
+          "reviewBody": "For the first time ever, I met an Ottolenghi recipe I didn’t love. (Seriously, Yotam, I spent a whole year just cooking your food, like Julie & Julia.) I’m willing to try again, but I feel like I’d like to reduce the size of the potatoes - they came out undercooked - and add a few more spices, like smoked paprika & aleppo pepper. More tomatoes plus more garlic. I did have some very good ras al hanout and loved that on the chicken.",
+          "datePublished": "2025-05-21T00:20:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Claire from Elwood, VIC, Australia"
+          },
+          "reviewBody": "Absolutely delicious! I used Moroccan Spice instead of ras el hanout because that's all I had. Added some powdered ginger and nutmeg as well. Also substituted the chickpeas for butter beans because that was what I had in the cupboard. Like everyone else, I used less oil. I got so many compliments!",
+          "datePublished": "2025-05-20T09:36:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kress"
+          },
+          "reviewBody": "I didn't have peppers so I doubled the tomatoes and put orange slices on the tray for color and sweetness. I was not disappointed and will do this again even if I have peppers!  My husband and I loved this recipe.",
+          "datePublished": "2025-05-19T02:23:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lynn"
+          },
+          "reviewBody": "This was a bit of a miss for me as written. I took others advice and made my own Ras el hanout and it was fantastic! The kitchen smelled great while it was cooking. I didn't reduce the oil enough and  the potatoes were too soft for me. I added extra tomatoes  which was good. The chickpeas were perfect here. In all fairness, I prefer breasts to thighs, and particularly boneless. Next time I'd add more tomatoes, use cutlets, put some of the spice on the potatoes but cook them separately.",
+          "datePublished": "2025-05-18T21:33:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maurice"
+          },
+          "reviewBody": "Summary Recommendations:\nReduce oil to ⅓–½ cup.\n\nAdd onion or fennel for aromatics.\n\nSear chicken before roasting for crisper skin.\n\nScatter extra garlic cloves for fuller flavor.\n\nQuarter tomatoes for even cooking.\n\nFinish with lemon zest or juice.\n\nPair with bread or couscous.",
+          "datePublished": "2025-05-16T11:23:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jerry"
+          },
+          "reviewBody": "Instead of thighs I made little chicken meatballs seasoned with a version of the ras el hanout spice mix. Turned out great!",
+          "datePublished": "2025-05-15T14:46:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill W."
+          },
+          "reviewBody": "While I had to look up the spice blend and make my own, this was a great recipe.  Second time I made it, which is why I'm now just writing a review is because I really wasn't in the mood for chicken, so I subbed pork tenderloin and to be honest, preferred it over the chicken.  I also let the rub marinate for 30 minutes rather than the recommended 10 minutes.",
+          "datePublished": "2025-05-11T22:53:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marcia"
+          },
+          "reviewBody": "Wow! Everyone in my family, including one very picky child, devoured this. It was delicious! I recommend adding the spices under the skin as well as all around (underside of chicken thigh) and on top of the skin. I was worried it might be too salty with spices over and under the skin but it was perfect - savory, juicy thigh meat and crispy, packed-with-flavor skin.\nReduce oil to 1/4 cup as folks suggest.\nWW folks - 18 pts as 7 servings, 21 pts if 6 servings - high but worth it.",
+          "datePublished": "2025-05-09T17:14:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David Baldwin"
+          },
+          "reviewBody": "I used Ras el Hanout from Spice Leaf. I used two red bell peppers, and added some more potatoes. I also used only 1/2 cup of olive oil because I had a brain fart. I also forgot to put the cilantro on at the end. The result was unbelievably good. I'll certainly be making it again, and probably adding more raosted vegetables to the mix. Prep time for me was about thirty minutes and I'm an experienced cook (but not a virtuosos).",
+          "datePublished": "2025-05-05T00:25:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancee"
+          },
+          "reviewBody": "I recently prepared this easy dish for a group meal on a Sierra Club service trip and everyone went back for seconds, even the folks in the group who don't like 'spicy' dishes, raved about this one.  I used chicken breasts cut into chunks for my recipe and it turned out well.  I did find that the potatoes take quite a bit longer to cook through than the other veggies, so, I may parboil next time before adding.  Also, there was a lot of discussion about the amount of olive oil, so, I erred on the side of caution and used the 1/4 cup amount suggested in notes.  Next time, I will use the full amount in the recipe, as it will assist the veggies to cook better and make that delightful sauce. \nThank you to the contributor who wrote out the spices needed for the ras el hanout mixture🙏🏻.",
+          "datePublished": "2025-05-04T16:32:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Toni"
+          },
+          "reviewBody": "I was going to say i followed the recipe, but i guess I mostly did. Absolutely reduced the oil by more than half, and next time I'll use less again. \nUsed verjuice, lemon juice and lemon zest in place of the vinegar; used a commercial Moroccan spice mix in place of the recommended blend because i live in Brisbane and our supermarkets are kinda vanilla, added carrots and pumpkin. Next time I'll roast the potatoes, carrots and pumpkin for 15-20 minutes before adding.\nUsed culantro as no coriander",
+          "datePublished": "2025-05-02T09:34:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sid"
+          },
+          "reviewBody": "Ras El hanout recipe: \n\n1 teaspoon salt\n\n1 teaspoon ground cumin\n\n1 teaspoon ground ginger\n\n1 teaspoon ground turmeric\n\n¾ teaspoon ground cinnamon\n\n¾ teaspoon freshly ground black pepper\n\n½ teaspoon ground white pepper\n\n½ teaspoon ground coriander seed\n\n½ teaspoon ground cayenne pepper\n\n½ teaspoon ground allspice\n\n½ teaspoon ground nutmeg\n\n¼ teaspoon ground cloves",
+          "datePublished": "2025-02-16T22:02:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lynn"
+          },
+          "reviewBody": "3/4 cup oil???  Used 1/4 cup and even that 4 tablespoons was too much.good combo of ingredients but I do t get the excessive oil in a “tray bake”",
+          "datePublished": "2025-02-13T02:29:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kim"
+          },
+          "reviewBody": "Made my own ras el hanout mix and used boneless skinless chicken thighs. I was concerned that the thighs would be dry, so I put them in the bottom of the serving bowl and piled everything else on top. Squished the garlic over all and tossed it in. Delicious!",
+          "datePublished": "2025-02-13T01:18:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ty"
+          },
+          "reviewBody": "@Sid thank you so much! Came here from the print magazine which had a huge column of empty white space that could have been used for this. Surprised the recipe doesn’t have the oft-seen “tip.” Sure, there’s Google but that defeats the point. Thank you again for posting this!",
+          "datePublished": "2025-02-17T13:57:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul"
+          },
+          "reviewBody": "This was a winner. I went with half the oil and double the garlic and it came out perfectly. Great simple meal with lots of interesting flavors and textures. I'll definitely do it again, maybe add a few chili flakes for a touch of heat.",
+          "datePublished": "2025-02-17T12:39:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shannon"
+          },
+          "reviewBody": "Banging flavour. The mash of tomato and garlic mixed through the other ingredients is just heavenly. Next time I’ll throw in a few extra pieces of tomato and garlic so I can have more mash on the side, just in case! I used less oil than called for.",
+          "datePublished": "2025-02-13T16:17:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patti Veconi"
+          },
+          "reviewBody": "Soooo delicious. I made it for two, using only four thighs, but mostly everything else at full quantity with a good, crusty bread for sopping up. I agree that 1/4 cup or less oil is plenty, and I didn't bother with the extra garlic step, just put peeled cloves in with everything else and they were ready to smash and eat as part of the paste when everything else was done.",
+          "datePublished": "2025-02-16T01:02:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BeverlyR"
+          },
+          "reviewBody": "Delicious blend of flavors and textures as one would expect from Ottolenghi. Ras al hanout was a star on the crispy chicken skin. Quick weeknight dinner.",
+          "datePublished": "2025-02-12T05:45:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marti Mart"
+          },
+          "reviewBody": "And where would I get this spice?  As always his recipes feature hard to procure ingredients.",
+          "datePublished": "2025-02-13T15:04:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SteveD"
+          },
+          "reviewBody": "@Chickpea substitution, you could increase the potatoes, perhaps try some sliced carrots. Moroccan is a tough cuisine to work with if you can’t have chickpeas or lentils.",
+          "datePublished": "2025-02-16T19:39:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NLS"
+          },
+          "reviewBody": "Ras al hanout is a mix of cardamom, cumin, clove, cinnamon, nutmeg, mace, allspice, dry ginger, chili peppers, coriander seed, peppercorn, sweet and hot paprika, fenugreek, turmeric and sometimes rose petals. It has a kick, if you are sensitive to spice. Most markets are now carrying it and it's easy to order on-line.",
+          "datePublished": "2025-02-15T00:55:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bunni"
+          },
+          "reviewBody": "I was anxious that the potatoes would not cook, but all was well.  I do agree with the olive oil 3/4 cup, I would reduce the oil in future. Aside from that perfection to be repeated.",
+          "datePublished": "2025-02-17T04:07:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris"
+          },
+          "reviewBody": "Prepared as written. Had to work hard to find ras el hanout in my local market, but it was worth the search. I loved the new flavor profile and will continue using the moroccan spice mix in other dishes.  For my taste, the dish could use a bit more salt on the veg. I particularly liked the garlic and tomato mashup for sauce. Next time, I'll add a touch of green (green beans, asparagus, brussel sprouts or the like).",
+          "datePublished": "2025-02-16T03:02:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John"
+          },
+          "reviewBody": "Followed the recipe with exception of using skinless, boneless thighs. Did not change anything else. Absolutely incredible. Yes, there was some excess oil, but that made cleaning the sheet pan very easy. Flavors were fantastic, looking forward to the leftovers tonight!",
+          "datePublished": "2025-02-16T18:40:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hila"
+          },
+          "reviewBody": "@What is Ras El Hanout?  North african spice mix. See <a href=\"https://en.m.wikipedia.org/wiki/Ras_el_hanout\" target=\"_blank\">https://en.m.wikipedia.org/wiki/Ras_el_hanout</a>. Yum. Just yum.",
+          "datePublished": "2025-02-15T01:07:40.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026583-chicken-and-chickpea-tray-bake",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "This easy chicken sheet-pan supper brings bold, warming flavors with minimal fuss. Tossed with ras el hanout, the chicken roasts alongside potatoes, sweet peppers and chickpeas, creating a richly flavored dish that practically makes its own sauce. The sheet pan may look crowded, but everything melts beautifully together as it cooks. The peppers, potatoes and chickpeas simmer gently in the oil, while the chicken sits halfway in, its skin staying crispy as the juices mingle below. Any chickpeas peeking out get delightfully crisp, while the rest confit in the oil, becoming soft and smooth. A finishing drizzle of sherry vinegar adds a bright, tangy kick, balancing the warm spices and bringing out the dish’s deep roasted flavours. Best of all, the prep is simple, and the oven does the rest, making this perfect for a cozy midweek dinner that still feels special.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Chicken and Chickpea Tray Bake",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/6007f3bd-c1a4-5e43-83b0-4c233df5a3c9#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/11/multimedia/16EATrex-chicken-and-chickpea-hgvc/16EATrex-chicken-and-chickpea-hgvc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-02-10T23:12:55.301Z",
+          "datePublished": "2025-02-10T23:12:55.301Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-10T23:12:55.301Z",
+          "url": "https://static01.nyt.com/images/2025/02/11/multimedia/16EATrex-chicken-and-chickpea-hgvc/16EATrex-chicken-and-chickpea-hgvc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/6007f3bd-c1a4-5e43-83b0-4c233df5a3c9#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/11/multimedia/16EATrex-chicken-and-chickpea-hgvc/16EATrex-chicken-and-chickpea-hgvc-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-02-10T23:12:55.301Z",
+          "datePublished": "2025-02-10T23:12:55.301Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-10T23:12:55.301Z",
+          "url": "https://static01.nyt.com/images/2025/02/11/multimedia/16EATrex-chicken-and-chickpea-hgvc/16EATrex-chicken-and-chickpea-hgvc-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/6007f3bd-c1a4-5e43-83b0-4c233df5a3c9#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/11/multimedia/16EATrex-chicken-and-chickpea-hgvc/16EATrex-chicken-and-chickpea-hgvc-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-02-10T23:12:55.301Z",
+          "datePublished": "2025-02-10T23:12:55.301Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-10T23:12:55.301Z",
+          "url": "https://static01.nyt.com/images/2025/02/11/multimedia/16EATrex-chicken-and-chickpea-hgvc/16EATrex-chicken-and-chickpea-hgvc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026583-chicken-and-chickpea-tray-bake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:08:34.285Z",
+  "scraping_status": "scraped"
+}

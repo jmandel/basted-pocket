@@ -1,0 +1,1377 @@
+{
+  "id": "a2d875fbb3aca080",
+  "original_url": "https://www.maangchi.com/recipe/bibimbap",
+  "canonical_url": "https://www.maangchi.com/recipe/bibimbap",
+  "fetched_title": "Bibimbap (Mixed rice with vegetables) recipe by Maangchi",
+  "main_text_content": "Today&rsquo;s recipe is bibimbap, a super-popular Korean dish you might have heard about already! It&rsquo;s a Korean rice bowl made with saut&eacute;ed and seasoned vegetables (namul: 나물), a bit...",
+  "main_html_content": "<h1 class=\"entry-title mega-heading\">Bibimbap</h1><h2 class=\"entry-title mega-heading-translation\"><span class=\"korean-name\">비빔밥</span><br>Rice mixed with vegetables, meat, an egg, and chili pepper paste</h2><p class=\"author vcard postedby\">By <a href=\"/about\" rel=\"author\"><span class=\"fn n nickname\">Maangchi</span></a></p><p class=\"postdate updated\">Updated on April 15th, 2025</p><div  class=\"rmp-widgets-container rmp-wp-plugin rmp-main-container js-rmp-widgets-container js-rmp-widgets-container--112 \"  data-post-id=\"112\"><div class=\"rmp-rating-widget js-rmp-rating-widget\"><div class=\"rmp-rating-widget__icons\"><ul class=\"rmp-rating-widget__icons-list js-rmp-rating-icons-list\"><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Not at all useful\" data-value=\"1\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Somewhat useful\" data-value=\"2\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Good recipe\" data-value=\"3\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Great recipe\" data-value=\"4\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"The besttt!!!\" data-value=\"5\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--half-highlight js-rmp-replace-half-star\"></i></li></ul>",
+  "publication_date": "2008-01-07T04:14:00+00:00",
+  "author": "Maangchi",
+  "key_image_url": "https://i.ytimg.com/vi/6QQ67F8y2b8/maxresdefault.jpg?meta=og:image",
+  "local_image_path": "scraped/a2d875fbb3aca080/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "/recipe/bibimbap#sso/recipe/112",
+          "@context": "https://schema.org",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.maangchi.com/recipe/bibimbap",
+          "url": "https://www.maangchi.com/recipe/bibimbap",
+          "sameAs": [
+            "https://www.maangchi.com/?p=112"
+          ],
+          "name": "Bibimbap (Mixed rice with vegetables)",
+          "description": "Today&rsquo;s recipe is bibimbap, a super-popular Korean dish you might have heard about already! It&rsquo;s a Korean rice bowl made with saut&eacute;ed and seasoned vegetables (namul: 나물), a bit of hot pepper paste (gochujang: 고추장), and usually a bit of seasoned raw beef, too (yukhoe: 육회). Bibim (비빔) translates...",
+          "aggregateRating": {
+            "@id": "/recipe/bibimbap#sso/recipe/112/rating-aggregate/4-5/1030/1/5"
+          },
+          "image": [
+            {
+              "@id": "https://i.ytimg.com/vi/6QQ67F8y2b8/maxresdefault.jpg?meta=og:image#sso/image-object"
+            }
+          ],
+          "video": [
+            {
+              "@id": "https://www.youtube.com/embed/6QQ67F8y2b8#sso/video-object"
+            }
+          ],
+          "publisher": [
+            {
+              "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+            }
+          ],
+          "headline": "Bibimbap (Mixed rice with vegetables)",
+          "keywords": "bibimbap, bibimbap recipe, dolsot bibimbap, 비빔밥, 돌솥비빔밥, homemade bibimbap, hot stone bowl bibimbap, how to eat bibimbap, how to make bibimbap, how to make dolsot bibimbap, Korean earthenware bowl bibimbap, korean food, Korean Mixed Rice with Meat and Assorted vegetables, Korean mixed rice with vegetables and meat, Korean recipes, Korean stone pot bibimbap, rice mixed with vegetables, spicy mixed rice, stone bowl bibimbap",
+          "isFamilyFriendly": true,
+          "inLanguage": "en_US",
+          "datePublished": "2008-01-07T04:14:00+00:00",
+          "dateModified": "2025-04-15T15:48:28+00:00",
+          "author": {
+            "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+          },
+          "thumbnailUrl": "https://i.ytimg.com/vi/6QQ67F8y2b8/maxresdefault.jpg?meta=og:image",
+          "commentCount": 426,
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/54886"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/54870"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/54857"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/54623"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/53025"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/52802"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/52785"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/51886"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/51351"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/51114"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/51008"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/50808"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/50288"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/50277"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/50002"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/49371"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49304"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49298"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49133"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49111"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49110"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49109"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48595"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48575"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48150"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48143"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47974"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47818"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47661"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47588"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47542"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47534"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47532"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47354"
+            },
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/46799"
+            }
+          ],
+          "recipeCuisine": "Korean",
+          "recipeCategory": "Main dish",
+          "recipeYield": "Serves 4",
+          "cookingMethod": "Stir-frying, mixing",
+          "prepTime": "P0DT1H1M0S",
+          "cookTime": "P0DT0H15M0S",
+          "totalTime": "P0DT1H16M0S",
+          "recipeIngredient": [
+            "1 ounce dried bellflower roots (doraji), soaked in cold water for 18 to 24 hours.",
+            "4 eggs",
+            "kosher salt",
+            "vegetable oil",
+            "toasted sesame oil",
+            "toasted sesame seeds",
+            "garlic",
+            "soy sauce",
+            "honey (or sugar)",
+            "Korean hot pepper paste (gochujang)"
+          ],
+          "recipeInstructions": [
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 1,
+              "name": "Prepare dried fernbrake (gosari) for use",
+              "text": "If you have presoaked or fresh fernbrake you can use it straight away, but if you have dried fernbrake you’ll need to get it ready to eat. It’s fast if you have a pressure cooker. Wash ½ ounce of dried gosari and boil it with 5 cups of water in a pressure cooker for 30 minutes. Drain and rinse in cold water a couple of times. Drain. It should make 4 ounces."
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToSection",
+              "name": "Prepare and cook the ingredients for bibimbap",
+              "description": "I like to get a big platter and then put each vegetable on it as they’re ready. I think it looks really pretty, but you don’t have to do this. When all vegetables are prepared and ready to use, the platter looks pretty delicious!",
+              "numberOfItems": 5,
+              "itemListOrder": "https://schema.org/ItemListOrderAscending",
+              "itemListElement": [
+                {
+                  "@context": "https://schema.org",
+                  "@type": "HowToStep",
+                  "position": 1,
+                  "name": "Soybean sprouts",
+                  "text": "Put the soy bean sprouts in a pot and add 4 cups water and 2 or 3 teaspoons salt. Cover and cook for 20 minutes over medium high heat. Take out the sprouts with tongs and put them into a bowl, leaving about ½ cup of sprouts in the pot with the water you used to boil them. This is the soup to serve with bibimbap later. In a bowl, mix the sprouts by hand with ½ teaspoons salt, 1 teaspoon minced garlic, and 2 teaspoons toasted sesame oil. Put them on the large platter."
+                },
+                {
+                  "@context": "https://schema.org",
+                  "@type": "HowToStep",
+                  "position": 2,
+                  "name": "Spinach",
+                  "text": "Cut up the blanched spinach a few times and put it in a bowl. Mix by hand with 1 teaspoon garlic, 1 teaspoon toasted sesame oil, ½ teaspoon kosher salt, and 1 teaspoon sesame seeds. Cover and put it next to the soy bean sprouts on the platter."
+                },
+                {
+                  "@context": "https://schema.org",
+                  "@type": "HowToStep",
+                  "position": 3,
+                  "name": "Other fresh vegetables",
+                  "text": "Cut the carrot into matchsticks, put them in a bowl, and mix with a pinch of salt. Let stand for 5 to 10 minutes until sweating. Cut the red bell pepper into halves, deseed, and slice into strips. Put them in a bowl. Cut the zucchini into matchsticks and mix with ½ teaspoon kosher salt. Cut the cucumber into halves lengthwise and slice thinly crosswise. Mix with ¼ teaspoon kosher salt."
+                },
+                {
+                  "@context": "https://schema.org",
+                  "@type": "HowToStep",
+                  "position": 4,
+                  "name": "Beef",
+                  "text": "Cut the beef into matchsticks and put them in a bowl. Mix with 1 tablespoon minced garlic, 1 tablespoon soy sauce, 1 tablespoon honey, 2 teaspoons toasted sesame oil, and 1 teaspoon sesame seeds with a spoon. Cover and keep in the fridge until ready to use."
+                },
+                {
+                  "@context": "https://schema.org",
+                  "@type": "HowToStep",
+                  "position": 5,
+                  "name": "Mountain vegetables",
+                  "text": "Cut the fernbrake (gosari) a few times into bite size pieces. Set aside. Put the bellflower roots (doraji) in a large bowl. Add 1 or 2 tablespoons salt. Rub for a minute to wilt slightly and release some of the bitterness. Rinse them in cold water a couple of times and drain. If you find some roots are too thick, split them lengthwise. Set aside."
+                }
+              ]
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToSection",
+              "name": "Let’s cook!",
+              "description": "Let’s cook!",
+              "numberOfItems": 6,
+              "itemListOrder": "https://schema.org/ItemListOrderAscending",
+              "itemListElement": [
+                {
+                  "@context": "https://schema.org",
+                  "@type": "HowToStep",
+                  "position": 1,
+                  "name": "Carrot",
+                  "text": "Heat up a pan over medium high heat. Squeeze out excess water from the carrot. Add a few drops of cooking oil to the pan and sauté the carrot for 1 minute. Put it on the platter next to the soy bean sprouts and spinach. Clean the pan with wet paper towel or wash it."
+                },
+                {
+                  "@context": "https://schema.org",
+                  "@type": "HowToStep",
+                  "position": 2,
+                  "name": "Cucumber",
+                  "text": "Heat a few drops of cooking oil in the pan and squeeze out the excess water from the cucumber. Sauté with ½ teaspoon minced garlic and a few drops of toasted sesame oil for 30 seconds. Put it on the platter. Clean the pan."
+                },
+                {
+                  "@context": "https://schema.org",
+                  "@type": "HowToStep",
+                  "position": 3,
+                  "name": "Red bell pepper",
+                  "text": "Heat up the pan with a few drops of cooking oil. Add the red bell pepper and sprinkle a pinch of salt over top. Sauté for 30 seconds. Put it on the platter. Clean the pan."
+                },
+                {
+                  "@context": "https://schema.org",
+                  "@type": "HowToStep",
+                  "position": 4,
+                  "name": "Zucchini",
+                  "text": "Heat up the pan and squeeze out excess water from the zucchini. Add a few drops of cooking oil and sauté with 1 teaspoon minced garlic, 1 tablespoon chopped green onion, a drop of toasted sesame oil for 1 minute until slightly softened. Put it on the platter. Clean the pan."
+                },
+                {
+                  "@context": "https://schema.org",
+                  "@type": "HowToStep",
+                  "position": 5,
+                  "name": "Bellflower roots",
+                  "text": "Heat up the pan with a few drops of cooking oil. Add the bellflower roots and sauté for 2 to 3 minutes. Lower the heat to medium so as not to brown them. Add 1 teaspoon minced garlic and a drop of toasted sesame oil. Stir for another minute until a little softened. Put it on the platter. Clean the pan."
+                },
+                {
+                  "@context": "https://schema.org",
+                  "@type": "HowToStep",
+                  "position": 6,
+                  "name": "Gosari",
+                  "text": "Heat up the pan. Add a few drops of cooking oil. Stir the gosari for 2 minutes until a little softened. Add ½  teaspoon of minced garlic, 2 teaspoons soy sauce, and 2 teaspoons sugar, and keep stirring for another minute. Put it on the platter."
+                }
+              ]
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToSection",
+              "name": "Serve",
+              "description": "Here are a couple of ways to serve: bibimbap in a regular, shallow bowl, and dolsot-bibimbap in a stone or earthenware bowl.",
+              "numberOfItems": 3,
+              "itemListOrder": "https://schema.org/ItemListOrderAscending",
+              "itemListElement": [
+                {
+                  "@context": "https://schema.org",
+                  "@type": "HowToStep",
+                  "position": 1,
+                  "name": "In a regular, shallow bowl",
+                  "text": "Reheat the soybean sprout soup. Divide the cooked rice into 4 portions. Each portion will be a little more than 1 cup of rice. Put the rice in each of 4 bowls and arrange the vegetables and beef on the rice. Top with the egg yolk and gochujang. If you prefer your eggs and beef cooked, make sunny side up eggs and slightly pan-fry the beef before putting them on the top of rice. Sprinkle the bibimbap with the sesame seeds and drizzle with sesame oil to taste. Ladle the soup to a small bowl and sprinkle some chopped green onion over top. Serve right away with more hot pepper paste on the side."
+                },
+                {
+                  "@context": "https://schema.org",
+                  "@type": "HowToStep",
+                  "position": 2,
+                  "name": "Dolsot-bibimbap in an earthenware bowl (ttukbaegi) or stone pot (dolsot)",
+                  "text": "Reheat the soybean sprout soup. Put a few drops of toasted sesame oil in the bottom of each of 4 earthenware bowls. They should be big enough to hold 4 to 6 cups each. Divide the rice among the bowls. Arrange the vegetables and beef on the rice. Top each serving with an egg yolk and 1 tablespoon gochujang. If you prefer your eggs and beef cooked, make sunny side up eggs and slightly pan-fry the beef before putting them on the top of rice. Set each pot on a burner. Heat over medium high heat until you hear a ticking, crackling sound coming from the rice. Sprinkle the bibimbap with the sesame seeds, drizzle with sesame oil to taste. Ladle the soup to a small bowl and sprinkle some chopped green onion over top. Serve right away with more hot pepper paste on the side."
+                },
+                {
+                  "@context": "https://schema.org",
+                  "@type": "HowToStep",
+                  "position": 3,
+                  "name": "Mix and eat",
+                  "text": "Gently but firmly mix everything together in the bowl with your spoon. Try not to crush the more delicate ingredients. Eat with your spoon."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap#sso/recipe/112/rating-aggregate/4-5/1030/1/5",
+          "@context": "https://schema.org",
+          "@type": "AggregateRating",
+          "ratingValue": 4.5,
+          "ratingCount": 1030,
+          "worstRating": 1,
+          "bestRating": 5
+        },
+        {
+          "@id": "https://i.ytimg.com/vi/6QQ67F8y2b8/maxresdefault.jpg?meta=og:image#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://i.ytimg.com/vi/6QQ67F8y2b8/maxresdefault.jpg?meta=og:image",
+          "alternativeHeadline": "Bibimbap (ë¹ë¹ë°¥) & Dolsot-bibimbap (ëì¥ë¹ë¹ë°¥)",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1280",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1280"
+        },
+        {
+          "@id": "#sso/qv-height-px-720",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "720"
+        },
+        {
+          "@id": "https://www.youtube.com/embed/6QQ67F8y2b8#sso/video-object",
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "url": "https://www.youtube.com/embed/6QQ67F8y2b8",
+          "name": "Bibimbap (ë¹ë¹ë°¥) & Dolsot-bibimbap (ëì¥ë¹ë¹ë°¥)",
+          "description": "Todayâs recipe is bibimbap, a super-popular Korean dish you might have heard about already! Itâs made of a bowl of rice, sautÃ©ed and seasoned vegetables (nam...",
+          "embedUrl": "https://www.youtube.com/embed/6QQ67F8y2b8",
+          "encodingFormat": "text/html",
+          "duration": "PT23M42S",
+          "uploadDate": "2016-04-17T23:56:00+00:00",
+          "thumbnailUrl": "https://i.ytimg.com/vi/6QQ67F8y2b8/maxresdefault.jpg?meta=og:image",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ],
+          "keywords": "Korean food, Korean cooking, Maangchi, Maangchi recipes, Korean cuisine, bibimbap, ë¹ë¹ë°¥, ëì¥ë¹ë¹ë°¥, how to make dolsot bibimbap, Korean mixed rice with vegetables and meat, rice mixed with vegetables, spicy mixed rice, Korean Mixed Rice with Meat and Assorted vegetables, bibimbap recipe, how to make bibimbap, how to eat bibimbap, dolsot bibimbap, stone bowl bibimbap, homemade bibimbap, Korean stone pot bibimbap, Korean earthenware bowl bibimbap"
+        },
+        {
+          "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person",
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "url": "https://www.maangchi.com",
+          "name": "Maangchi",
+          "description": "Author archive page for Maangchi.",
+          "image": [
+            {
+              "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object"
+            }
+          ]
+        },
+        {
+          "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-1200"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "#sso/qv-height-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png",
+          "identifier": "93971-wpsso-schema-4x3",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-900"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-900",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "900"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png",
+          "identifier": "93971-wpsso-schema-16x9",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-675"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-675",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "675"
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/54886",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-54886",
+          "name": "Comment by any on September 2, 2024",
+          "description": "I&rsquo;ve just made colorful and delicious . Everyone loved it in the family. Thank you so much for your recipes,&hellip;",
+          "text": "I&rsquo;ve just made colorful and delicious . Everyone loved it in the family. Thank you so much for your recipes, Maanghi!&hearts;&#xfe0f; It&rsquo;s so much fun to cook korean food with your videos and your cookbook.",
+          "dateCreated": "2024-09-02T04:40:10-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "any"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/54870",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-54870",
+          "name": "Comment by lh2004 on August 20, 2024",
+          "description": "Bibimbap is one of my favorite comfort meals! I like to serve it with doenjjangguk, gim and some kimchi and&hellip;",
+          "text": "Bibimbap is one of my favorite comfort meals! I like to serve it with doenjjangguk, gim and some kimchi and pickles&mdash; it&rsquo;s really good to wrap spoonfuls of bibimbap in the gim This recipe is also great because it can be easily adapted to whatever ingredients you have on hand. I often make it to use up vegetables and sometimes banchan, such as kongnanul muchim or seasoned radish",
+          "dateCreated": "2024-08-20T19:10:52-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "lh2004"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/54878"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/54878",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-54878",
+          "name": "Reply by Maangchi on August 25, 2024",
+          "description": "Fantastic! That&#039;s right&mdash;Korean bibimbap can easily be adapted to whatever ingredients you have on hand. I also never skip the&hellip;",
+          "text": "Fantastic! That&#039;s right&mdash;Korean bibimbap can easily be adapted to whatever ingredients you have on hand. I also never skip the soybean sprout side dish (kongnamul-muchim), which adds a great crunchy texture to the bibimbap.",
+          "dateCreated": "2024-08-25T12:26:51-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/54857",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-54857",
+          "name": "Comment by weiwentg on August 6, 2024",
+          "description": "Fun fact: in Malaysia and Singapore, food courts sell rice with various toppings that you select a la carte. The&hellip;",
+          "text": "Fun fact: in Malaysia and Singapore, food courts sell rice with various toppings that you select a la carte. The Chinese name also translates as mixed rice!",
+          "dateCreated": "2024-08-06T22:45:55-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "weiwentg"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/54623",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-54623",
+          "name": "Comment by Chumley on November 2, 2023",
+          "description": "Made this for the first time to impress a romantic interest on a first date. She said it tasted like&hellip;",
+          "text": "Made this for the first time to impress a romantic interest on a first date. She said it tasted like memories of her trip to Korea. Mission accomplished.",
+          "dateCreated": "2023-11-02T00:53:59-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Chumley"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/53025",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-53025",
+          "name": "Comment by Pegster on January 19, 2022",
+          "description": "My 21-YO daughter and I made this for the first time yesterday and LOVED it. I was her sous chef&hellip;",
+          "text": "My 21-YO daughter and I made this for the first time yesterday and LOVED it. I was her sous chef and she cooked. We like milder food so I kept the sauce to 2 T. of gochujang. We&#039;re Chinese so it took visiting three Chinese markets to find gochujang (14 miles away). Looking forward to trying more of your recipes. The larger bowl is for my husband who also enjoyed our dinner. Thank you.",
+          "dateCreated": "2022-01-19T17:54:54-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Pegster"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/54316"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/54316",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-54316",
+          "name": "Reply by rosskane20 on March 18, 2023",
+          "description": "This is so wholesome. This delicious meal is something I hope to eat soon!",
+          "text": "This is so wholesome. This delicious meal is something I hope to eat soon!",
+          "dateCreated": "2023-03-18T22:24:46-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "rosskane20"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/52802",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-52802",
+          "name": "Comment by AustinChef on October 27, 2021",
+          "description": "You meant blanc the Mung Bean Sprouts for 30 seconds up to 2 minutes, correct? You did not bean to&hellip;",
+          "text": "You meant blanc the Mung Bean Sprouts for 30 seconds up to 2 minutes, correct? You did not bean to boil the mung bean sprouts for 20 minutes, correct?",
+          "dateCreated": "2021-10-27T12:49:09-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "AustinChef"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/53747"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/53747",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-53747",
+          "name": "Reply by JamieC on August 14, 2022",
+          "description": "It&#039;s soy bean sprouts, they&#039;re quite a bit more resilient than mung bean sprouts!",
+          "text": "It&#039;s soy bean sprouts, they&#039;re quite a bit more resilient than mung bean sprouts!",
+          "dateCreated": "2022-08-14T23:49:01-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "JamieC"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/52785",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-52785",
+          "name": "Comment by K. Lover on October 16, 2021",
+          "description": "I&#039;m in Nigeria and I really want to make this",
+          "text": "I&#039;m in Nigeria and I really want to make this",
+          "dateCreated": "2021-10-16T13:30:45-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "K. Lover"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/51886",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-51886",
+          "name": "Comment by Rosalie on December 4, 2020",
+          "description": "Dear Maangchi, I made this recipe with all the available ingredi&euml;nts and it turned out incredible! We do not eat&hellip;",
+          "text": "Dear Maangchi, I made this recipe with all the available ingredi&euml;nts and it turned out incredible! We do not eat meat, so I substituted with your Dubu-gangjeong and that also turned out really really delicious!!! Wow! Thank you for teaching me :)",
+          "dateCreated": "2020-12-04T09:02:17-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Rosalie"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/51351",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-51351",
+          "name": "Comment by kirakira on July 14, 2020",
+          "description": "My lunch today turned out great!",
+          "text": "My lunch today turned out great!",
+          "dateCreated": "2020-07-14T22:11:42-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "kirakira"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/51114",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-51114",
+          "name": "Comment by JLee29 on June 13, 2020",
+          "description": "Made this tonight! It turned out amazing!!",
+          "text": "Made this tonight! It turned out amazing!!",
+          "dateCreated": "2020-06-13T03:19:19-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "JLee29"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/51143"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/51143",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-51143",
+          "name": "Reply by Maangchi on June 15, 2020",
+          "description": "Yum!",
+          "text": "Yum!",
+          "dateCreated": "2020-06-15T14:20:56-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/51008",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-51008",
+          "name": "Comment by Ellyphanyy on May 28, 2020",
+          "description": "Love ur recipes maangchi!!! Omitted the beef and made barley rice and included more veges!!!",
+          "text": "Love ur recipes maangchi!!! Omitted the beef and made barley rice and included more veges!!!",
+          "dateCreated": "2020-05-28T02:25:52-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Ellyphanyy"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-8#sso/comment/51142"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/51142",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-51142",
+          "name": "Reply by Maangchi on June 15, 2020",
+          "description": "It looks so pretty, healthful, and fresh!",
+          "text": "It looks so pretty, healthful, and fresh!",
+          "dateCreated": "2020-06-15T14:20:15-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/50808",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-50808",
+          "name": "Comment by shimeringstars on May 5, 2020",
+          "description": "So exited to eat this again!!",
+          "text": "So exited to eat this again!!",
+          "dateCreated": "2020-05-05T23:51:59-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "shimeringstars"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/50288",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-50288",
+          "name": "Comment by Học Nấu Ăn CET on February 12, 2020",
+          "description": "it&#039;s look very delicious!",
+          "text": "it&#039;s look very delicious!",
+          "dateCreated": "2020-02-12T04:23:53-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.cet.edu.vn/dao-tao/che-bien-mon-an",
+            "name": "Học Nấu Ăn CET"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/50277",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-50277",
+          "name": "Comment by cosimaluise on February 9, 2020",
+          "description": "Hi Maangchi, today ist my 16th Birthday and I made Bibimbap for my family. For my mum and me I&hellip;",
+          "text": "Hi Maangchi, today ist my 16th Birthday and I made Bibimbap for my family. For my mum and me I substituted beef with tofu to make it vegan. (My brother and father ate it with beef) it tastes so delicious :) we will definitively make it again!! (I accidentally already commented this but as a reply to another comment so I&rsquo;ll post it again on its own :))",
+          "dateCreated": "2020-02-09T12:13:13-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "cosimaluise"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/50002",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-50002",
+          "name": "Comment by Kuckuck on November 17, 2019",
+          "description": "Hello Maangchi, I am new to your website, but I already love your recipes and videos! Thank you! Your crispy&hellip;",
+          "text": "Hello Maangchi, I am new to your website, but I already love your recipes and videos! Thank you! Your crispy chicken recipe led me here :-) (It&#039;s all because of Yoon Doo-Joon enjoying it so much in &quot;Let&#039;s Eat 2&quot;). I was wondering, if you usually eat the Bibimbap with the vegetable Banchan when they are cold and they become a little bit warm again with the steamed rice OR should I serve the Bibimbap quickly, when the vegetables are still hot? How about the Banchan in general? Do you usually eat them right out of the fridge? I am confused which to reheat, which to eat cold and which to serve only one time. Thank you!",
+          "dateCreated": "2019-11-17T18:25:49-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Kuckuck"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-8#sso/comment/49371",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-8#comment-49371",
+          "name": "Comment by lszkitti91 on April 28, 2019",
+          "description": "I&#039;ve just made colorful and delicious 비빔밥. Everyone loved it in the family. Thank you so much for your recipes,&hellip;",
+          "text": "I&#039;ve just made colorful and delicious 비빔밥. Everyone loved it in the family. Thank you so much for your recipes, Maanghi!&hearts;&#xfe0f; It&#039;s so much fun to cook korean food with your videos and your cookbook. 감사합니다! 사랑해 &hearts;&#xfe0f;",
+          "dateCreated": "2019-04-28T16:09:29-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "lszkitti91"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49304",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-49304",
+          "name": "Comment by winnie_inthesun on April 6, 2019",
+          "description": "Hi maangchi! I made bibimbap today to clear the leftover ingredients in my fridge. Although i didn&#039;t have all the&hellip;",
+          "text": "Hi maangchi! I made bibimbap today to clear the leftover ingredients in my fridge. Although i didn&#039;t have all the ingredients, the bibimbap was still really tasty! My sister loved the honey-marinated meat especially :) this is one of my first few tries at making korean food, so I&#039;m glad how well it turned out! Thank you!",
+          "dateCreated": "2019-04-06T13:03:59-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "winnie_inthesun"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49298",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-49298",
+          "name": "Comment by jacque maurice on April 4, 2019",
+          "description": "Oh, ThNk you Maangchi. This was so delicious. I used your recipe for a vegan bulgogi and I even made&hellip;",
+          "text": "Oh, ThNk you Maangchi. This was so delicious. I used your recipe for a vegan bulgogi and I even made a vegan egg yolk to pour on top. It was so yummy. Thank you thank you.",
+          "dateCreated": "2019-04-04T02:20:14-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "jacque maurice"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49133",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-49133",
+          "name": "Comment by LaEmeJota on February 26, 2019",
+          "description": "Hi, Maangchi! Today we made bibimbap! Unfortunately our Asian Supermarket does not bring fern or bellflower root, so I substituted&hellip;",
+          "text": "Hi, Maangchi! Today we made bibimbap! Unfortunately our Asian Supermarket does not bring fern or bellflower root, so I substituted them with mushrooms. It was A HIT! It was also very fun to cook. Can&#039;t wait to make more of your dishes.",
+          "dateCreated": "2019-02-26T17:08:14-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "LaEmeJota"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49156"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49156",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-49156",
+          "name": "Reply by Maangchi on February 27, 2019",
+          "description": "It looks great! Happy cooking!",
+          "text": "It looks great! Happy cooking!",
+          "dateCreated": "2019-02-27T13:55:39-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49294"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49294",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-49294",
+          "name": "Reply by andrewbigbus1@gmail.com on April 3, 2019",
+          "description": "when i was with my dad i went to a korean bbq i ate bimbap",
+          "text": "when i was with my dad i went to a korean bbq i ate bimbap",
+          "dateCreated": "2019-04-03T15:16:02-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "andrewbigbus1@gmail.com"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49111",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-49111",
+          "name": "Comment by Nora Nero on February 20, 2019",
+          "description": "For the veggies, I don&#039;t use zucchini; red bell pepper; gosari (fernbrakes); and doraji (bellflower roots) here. I don&#039;t think&hellip;",
+          "text": "For the veggies, I don&#039;t use zucchini; red bell pepper; gosari (fernbrakes); and doraji (bellflower roots) here. I don&#039;t think doraji is imported to our country. For the gosari, my mom once ever said if ferns are difficult to handle. Wrong cooking method could result in poisoning. And also I think that the one you use is different from the fernbrakes in our country (it&#039;s always green after cook, never turned brownish or even blackish). So to keep the color balanced, I replace the doraji with oyster mushrooms since they have the same color and look. With the same reason, I replace the gosari with wood ear mushroom. Sometimes, I replace the spinach with fresh lettuce (I&#039;ve ever watched it once on a Korean variety show). For the protein, I use chicken or sauteed sausage instead. Since I can&#039;t eat raw egg because of the Salmonella, I turn the egg into gyeran jidan to keep the beautiful color (here is the picture ^^)",
+          "dateCreated": "2019-02-20T09:05:03-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Nora Nero"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/50375"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/50375",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-50375",
+          "name": "Reply by Kualantokoso on March 1, 2020",
+          "description": "Hi Nora, i read your article and it says that your fernbrake is always green and your worried about not&hellip;",
+          "text": "Hi Nora, i read your article and it says that your fernbrake is always green and your worried about not being prepared right. I lived in Korea for about four years and i spent a lot of time out in the country where i wittnessed the harvesting and preparation of the ferns. First the folks would pick the young curly shoots and fill lots of bags, carry them home and they were set out in the sun to dry. After a day or so the fern cuttings would turn brown. They would then pack them up in portion size or in a basket and hang them up in storage shed. The rest was simple usally just soak them in water untill ready for the what ever recipie they were using. As for the species im not sure about the ones in your country, but here in the United states in particular in Oregon, Upstate New York and northern parts the Korean folks go out the woods and pick bags full of these fern. Good luck let me know how it turns out.",
+          "dateCreated": "2020-03-01T12:30:25-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Kualantokoso"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49110",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-49110",
+          "name": "Comment by Nora Nero on February 20, 2019",
+          "description": "Lately, I think maybe there&#039;s some Indonesian too out there who wants to try to cook bibimbab and still feels&hellip;",
+          "text": "Lately, I think maybe there&#039;s some Indonesian too out there who wants to try to cook bibimbab and still feels confused about the replacement ingredients. So, I&#039;ve decided to post my modification version (joesonghamnida, Maangchi-ssi ^^) for the gochujang and veggies. I mix 1 red chilli pepper, 3 cloves shallot, 2 cloves garlic, 1 candlenut, and ginger (about 1 cm in length). Sautee the mixture with 1 tbsp of vegetable oil, a bay leaf, a pinch of salt, a pinch of white pepper powder, 50 ml of water, and 1 tbsp of sweet soy sauce until the water reduced and the mixture gets its viscosity back.",
+          "dateCreated": "2019-02-20T08:54:21-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Nora Nero"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/49109",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-49109",
+          "name": "Comment by Nora Nero on February 20, 2019",
+          "description": "I&#039;ve followed your cooking website for about one year now, Maangchi-ssi. I was celebrating my birthday party at a Korean&hellip;",
+          "text": "I&#039;ve followed your cooking website for about one year now, Maangchi-ssi. I was celebrating my birthday party at a Korean restaurant and ordered a dolsot bibimbab. I couldn&#039;t forget the taste and really wanted to make it multiple times once I&#039;m home. I was searching the internet for how bibimbab is prepared, and then found this astonishing website. So, the first recipe I tried was this bibimbab. But, I rarely want to comment or post any photos because I always make a lot of modifications. I need to adjust the taste with our daily tongue. Besides, Korean spices and ingredients are difficult and expensive to buy too back then",
+          "dateCreated": "2019-02-20T08:29:06-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Nora Nero"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48595",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-48595",
+          "name": "Comment by Shanelle on October 29, 2018",
+          "description": "I made a simple version of this last night served with emergency kimchi. So delicious! Perfect comfort food :)",
+          "text": "I made a simple version of this last night served with emergency kimchi. So delicious! Perfect comfort food :)",
+          "dateCreated": "2018-10-29T07:22:34-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Shanelle"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48665"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48665",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-48665",
+          "name": "Reply by Maangchi on November 16, 2018",
+          "description": "Oh my it looks so colorful! Everything looks delicious!",
+          "text": "Oh my it looks so colorful! Everything looks delicious!",
+          "dateCreated": "2018-11-16T13:18:42-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48575",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-48575",
+          "name": "Comment by Adelina on October 27, 2018",
+          "description": "I have cooked this vegetarian version of bibimbab the other day, consisting of gaji namul , enoki mushrooms, tofu, bok&hellip;",
+          "text": "I have cooked this vegetarian version of bibimbab the other day, consisting of gaji namul , enoki mushrooms, tofu, bok choy, with a side of kimchi, all inspired from you! Thank you!",
+          "dateCreated": "2018-10-27T13:25:15-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Adelina"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48582"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48582",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-48582",
+          "name": "Reply by Maangchi on October 28, 2018",
+          "description": "Mouthwatering! And such a good presentation and photo!",
+          "text": "Mouthwatering! And such a good presentation and photo!",
+          "dateCreated": "2018-10-28T13:56:00-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48150",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-48150",
+          "name": "Comment by mirwur on July 27, 2018",
+          "description": "I used this recipe, it was delicious! I left out some side dishes cuz they were no available to me&hellip;",
+          "text": "I used this recipe, it was delicious! I left out some side dishes cuz they were no available to me at the time, but all in all it turned out wonderful.",
+          "dateCreated": "2018-07-27T23:54:25-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "mirwur"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48184"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48184",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-48184",
+          "name": "Reply by Maangchi on August 2, 2018",
+          "description": "Eating with 2 spoons means you are sharing with someone! I do it too When I want to make it&hellip;",
+          "text": "Eating with 2 spoons means you are sharing with someone! I do it too When I want to make it quickly I do it this way. All I need is some spoons!",
+          "dateCreated": "2018-08-02T13:00:44-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48143",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-48143",
+          "name": "Comment by shaunbf on July 26, 2018",
+          "description": "I tried this recipe, and it was delicious! Thank you for posting it! I love your web site and recipes!",
+          "text": "I tried this recipe, and it was delicious! Thank you for posting it! I love your web site and recipes!",
+          "dateCreated": "2018-07-26T18:31:21-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "shaunbf"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48183"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48183",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-48183",
+          "name": "Reply by Maangchi on August 2, 2018",
+          "description": "Wow, nice! Your bibimbap is so colorful and packed full of delicious stuff in one bowl. Yum!",
+          "text": "Wow, nice! Your bibimbap is so colorful and packed full of delicious stuff in one bowl. Yum!",
+          "dateCreated": "2018-08-02T12:59:03-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47974",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-47974",
+          "name": "Comment by Judecca on June 26, 2018",
+          "description": "Maangchi, first of all, Hello, love your recipes, been a long time fan, just wanted to say, this was recipe&hellip;",
+          "text": "Maangchi, first of all, Hello, love your recipes, been a long time fan, just wanted to say, this was recipe for bibimbap was great! It&#039;s been a bit of a struggle where I am to find Korean food like back home but your recipes always give me a little taste of my childhood that I can share with my family now. Thank you so much for all you&#039;ve done and continue to do.",
+          "dateCreated": "2018-06-26T04:52:56-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Judecca"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48001"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/48001",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-48001",
+          "name": "Reply by Maangchi on June 28, 2018",
+          "description": "First of all, you made a stunning looking bibimbap! You even used raw beef, which will cook a little bit&hellip;",
+          "text": "First of all, you made a stunning looking bibimbap! You even used raw beef, which will cook a little bit when you mix with the hot rice underneath. Looks very mouthwatering and colorful, you can&#039;t find this kind of bibimbap in any restaurant!",
+          "dateCreated": "2018-06-28T11:59:01-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47818",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-47818",
+          "name": "Comment by keshia_bailey@hotmail.co.uk on May 17, 2018",
+          "description": "Can i use mushrooms and shrimp with two eggs.?.I have a vision",
+          "text": "Can i use mushrooms and shrimp with two eggs.?.I have a vision",
+          "dateCreated": "2018-05-17T10:37:54-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "keshia_bailey@hotmail.co.uk"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47661",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-47661",
+          "name": "Comment by bertman4 on April 19, 2018",
+          "description": "Made bibimbap for dinner with friends. I also made algamja-jorim and bought two other banchan. It was delicious.",
+          "text": "Made bibimbap for dinner with friends. I also made algamja-jorim and bought two other banchan. It was delicious.",
+          "dateCreated": "2018-04-19T23:28:03-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "bertman4"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47702"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47702",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-47702",
+          "name": "Reply by Maangchi on April 24, 2018",
+          "description": "Oh my such a colorful and pretty presentation! I want to taste the shiny algamja-jorim!",
+          "text": "Oh my such a colorful and pretty presentation! I want to taste the shiny algamja-jorim!",
+          "dateCreated": "2018-04-24T12:26:53-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47588",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-47588",
+          "name": "Comment by ErinC875 on April 10, 2018",
+          "description": "Thank you Maangchi! You introduced me to amazing Korean food, gave me courage to go into a local Korean market,&hellip;",
+          "text": "Thank you Maangchi! You introduced me to amazing Korean food, gave me courage to go into a local Korean market, and to order from their Cafe, which is very traditional. I think about ordering from them everyday, but limit myself to once a week. Today I finally prepared my very own bibimpap and I even turned it into food prep for the upcoming week! All I need is to add a fried egg and a scoop of gochugaru and my lunch is ready!",
+          "dateCreated": "2018-04-10T03:05:17-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "ErinC875"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47542",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-47542",
+          "name": "Comment by Jhoy_melendrez14 on April 3, 2018",
+          "description": "I made another batch for my husband and for my younger sister today..as expected..it was so tasty my husband and&hellip;",
+          "text": "I made another batch for my husband and for my younger sister today..as expected..it was so tasty my husband and my sister love it so much!",
+          "dateCreated": "2018-04-03T08:12:50-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Jhoy_melendrez14"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47534",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-47534",
+          "name": "Comment by Jhoy_melendrez14 on April 2, 2018",
+          "description": "I just made my bibimbap a while ago and found it very delicious! i just skip two ingredients,fernbrake (gosari) and&hellip;",
+          "text": "I just made my bibimbap a while ago and found it very delicious! i just skip two ingredients,fernbrake (gosari) and dried bellflower roots (doraji) because i cant find it anywhere in my areas. I prepare this so that my husband have a delicious and healthy lunch today,i partner this one with our favorite kimchi and dumplings all that i watch in your recipes here..all i can say is wow..you made my cooking very tasty. I hope someday i can meet you in Korea or here in the Philippines!! I&#039;m your no.1 fan!! Happy Cooking!",
+          "dateCreated": "2018-04-02T09:00:16-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Jhoy_melendrez14"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47552"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47552",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-47552",
+          "name": "Reply by Maangchi on April 3, 2018",
+          "description": "Your bibimbap preparation looks awesome. That&#039;s exactly how I prepare i for many people. Someday if you find gosari or&hellip;",
+          "text": "Your bibimbap preparation looks awesome. That&#039;s exactly how I prepare i for many people. Someday if you find gosari or doraji, include it and you and your family will really love that, too. Congratulations!",
+          "dateCreated": "2018-04-03T12:56:27-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47532",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-47532",
+          "name": "Comment by camloanpham on April 2, 2018",
+          "description": "I made my first Bibimbap for dinner on Easter Sunday. My husband was pleasantly surprised how delicious it turned out!&hellip;",
+          "text": "I made my first Bibimbap for dinner on Easter Sunday. My husband was pleasantly surprised how delicious it turned out! A delicious labor of love. The fried egg came from one of our chickens. I got a little excited to mix my bowl before I took a picture. Thanks for the recipe!",
+          "dateCreated": "2018-04-02T05:28:52-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "camloanpham"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47553"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47553",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-47553",
+          "name": "Reply by Maangchi on April 3, 2018",
+          "description": "Your bibimbap looks colorful and a vivid, all in one bowl! Gorgeous!",
+          "text": "Your bibimbap looks colorful and a vivid, all in one bowl! Gorgeous!",
+          "dateCreated": "2018-04-03T12:57:54-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/47354",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-47354",
+          "name": "Comment by ThePickle on February 26, 2018",
+          "description": "Made the dolsot Bibimbap for the first time this evening. A bit time consuming but well worth the effort..Wonderful recipe&hellip;",
+          "text": "Made the dolsot Bibimbap for the first time this evening. A bit time consuming but well worth the effort..Wonderful recipe Maangchi.....:)",
+          "dateCreated": "2018-02-26T02:45:21-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "ThePickle"
+          }
+        },
+        {
+          "@id": "/recipe/bibimbap/comment-page-7#sso/comment/46799",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/bibimbap/comment-page-7#comment-46799",
+          "name": "Comment by Rabata on November 13, 2017",
+          "description": "Hello! Thank you so much &lt;3 Nice video btw! Me and my boyfriend loves korean food and We have been&hellip;",
+          "text": "Hello! Thank you so much &lt;3 Nice video btw! Me and my boyfriend loves korean food and We have been learning korean language for 2 mounth! We started to eat healthily :) I&#039;ve done bibimbap 5 times and kimchi more than 10 ^^ Korean food is so delicious!!! Today I did bibimbap with jasmine rice, mushrooms, &quot;dak bulgogi&quot;, but without gosari, doraji and beef. Best wishes and greetings from Poland :)",
+          "dateCreated": "2017-11-13T15:01:57-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Rabata"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "5",
+        "ratingCount": "1035",
+        "ratingValue": "4.5"
+      },
+      "image": "https://www.maangchi.com/wp-content/uploads/2008/01/bibimbap-bowl-620x443.jpg",
+      "name": "Bibimbap (Mixed rice with vegetables)",
+      "description": "Bibimbap (Mixed rice with vegetables)"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:38:03.653Z",
+  "scraping_status": "scraped"
+}

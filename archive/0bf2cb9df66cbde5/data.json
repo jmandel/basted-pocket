@@ -1,0 +1,582 @@
+{
+  "id": "0bf2cb9df66cbde5",
+  "original_url": "https://cooking.nytimes.com/recipes/1020666-japanese-cheesecake",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1020666-japanese-cheesecake",
+  "fetched_title": "Japanese Cheesecake Recipe",
+  "main_text_content": "Japanese cheesecakes, sometimes called soufflé or cotton cheesecakes, have a melt-in-the-mouth texture that’s like a classic cheesecake crossed with an ethereal sponge cake This one, adapted from Joanne Chang of Boston’s Flour Bakery, has bright lemon tanginess and crème fraîche richness as well It’s best made the day before you plan to serve it, and will keep for up to 4 days in the refrigerator",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026813-easy-carrot-cake-with-cream-cheese-frosting\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Easy Carrot Cake With Cream Cheese Frosting</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Genevieve Ko</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2019/12/04/dining/03bakingbookrex2/03bakingbookrex2-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/0bf2cb9df66cbde5/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/370fd4ad-e370-5e91-bae5-a6fed4ea989f",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1020666-japanese-cheesecake",
+        "@type": "WebPage",
+        "name": "Japanese Cheesecake"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020666-japanese-cheesecake",
+      "name": "Japanese Cheesecake",
+      "description": "Japanese cheesecakes, sometimes called soufflé or cotton cheesecakes, have a melt-in-the-mouth texture that’s like a classic cheesecake crossed with an ethereal sponge cake. This one, adapted from Joanne Chang of Boston’s Flour Bakery, has bright lemon tanginess and crème fraîche richness as well. It’s best made the day before you plan to serve it, and will keep for up to 4 days in the refrigerator. Serve it plain and minimalist, with a sprinkle of confectioners’ sugar on top, or with fresh berries for added color and juiciness.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/48b8cdb9-afbd-5821-97dd-18f29073fb06#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/04/dining/03bakingbookrex2/03bakingbookrex2-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2019-12-03T15:45:03.343Z",
+          "datePublished": "2019-12-03T15:45:03.343Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-03T15:45:03.343Z",
+          "url": "https://static01.nyt.com/images/2019/12/04/dining/03bakingbookrex2/03bakingbookrex2-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/48b8cdb9-afbd-5821-97dd-18f29073fb06#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/04/dining/03bakingbookrex2/03bakingbookrex2-superJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2019-12-03T15:45:03.343Z",
+          "datePublished": "2019-12-03T15:45:03.343Z",
+          "height": "1339",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-03T15:45:03.343Z",
+          "url": "https://static01.nyt.com/images/2019/12/04/dining/03bakingbookrex2/03bakingbookrex2-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/48b8cdb9-afbd-5821-97dd-18f29073fb06#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/04/dining/03bakingbookrex2/03bakingbookrex2-square640.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2019-12-03T15:45:03.343Z",
+          "datePublished": "2019-12-03T15:45:03.343Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-03T15:45:03.343Z",
+          "url": "https://static01.nyt.com/images/2019/12/04/dining/03bakingbookrex2/03bakingbookrex2-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT1H30M",
+      "recipeYield": "8 servings",
+      "recipeCuisine": "japanese",
+      "recipeCategory": "snack, dessert",
+      "keywords": "cake flour, cheesecake, cream cheese, crème fraîche, lemon zest, make-ahead, plan-ahead, thanksgiving",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 1715
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 302,
+        "unsaturatedFatContent": "7 grams",
+        "carbohydrateContent": "24 grams",
+        "cholesterolContent": null,
+        "fatContent": "20 grams",
+        "fiberContent": "0 grams",
+        "proteinContent": "7 grams",
+        "saturatedFatContent": "11 grams",
+        "sodiumContent": "197 milligrams",
+        "sugarContent": "17 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 tablespoons/45 grams unsalted butter, at room temperature, plus more for greasing",
+        "5 large eggs, at room temperature",
+        "1 cup/225 grams cream cheese",
+        "1/2 cup/120 grams crème fraîche",
+        "1 teaspoon grated lemon zest",
+        "1 teaspoon vanilla extract",
+        "1/4 teaspoon kosher salt",
+        "1/2 cup/100 grams plus 1 tablespoon superfine sugar",
+        "1/2 cup/65 grams cake flour",
+        "1 tablespoon confectioners’ sugar, for garnish"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place rack in the center of the oven and heat to 400 degrees. Line bottom of an 8-by-3-inch round cake pan with parchment paper and butter only the bottom of the pan (so the cheesecake can rise). You can also use a springform pan; just wrap the bottom and sides with a double layer of foil, so the seams are covered."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Separate eggs. Place whites in the bowl of an electric mixer fitted with the whisk attachment; place yolks in a small bowl."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place cream cheese in a large metal bowl or double boiler insert and place over a pot filled with 1 inch of simmering water. Stir until cream cheese is melted and smooth. Whisk in crème fraîche and 3 tablespoons butter until well combined and smooth. Remove from heat and whisk in lemon zest, vanilla and salt. Whisk in egg yolks and 3 tablespoons/40 grams superfine sugar. Sprinkle cake flour evenly over the top, then whisk it in."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Beat the egg whites on medium speed until you start to see the wires of the whisk leave a trail in the whites. Slowly add the remaining 6 tablespoons superfine sugar, a tablespoon at a time while beating. Continue to beat until whites are fluffy and hold a soft peak when beaters are lifted. Gently fold about one-quarter of the whites into the yolk mixture to lighten it. Then gently fold in remaining whites, taking care not to deflate batter. Pour into prepared pan."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place cake pan in a roasting pan or other pan that is at least as deep as the cake pan; transfer to the oven. Fill the larger pan with enough hot tap water to come one-quarter of the way up the sides of the cake pan. (The cake is really light, so if you pour in too much water it may float.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake until top of the cake is golden and doesn’t give when you press it gently in the middle, 35 to 40 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Turn off oven and crack the oven door so that it cools off. Leave cheesecake in the cooling-off oven for 2 hours so it cools slowly, which keeps the top from cracking."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Lift cheesecake pan out of water and place on a wire rack. Let cool for another 2 hours. Cheesecake will deflate slightly."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Run a knife around the edges of the cheesecake to loosen it from sides of pan. Remove sides of springform pan. If you used a regular cake pan, invert the cake onto a plate, lift off pan, peel off parchment, then invert it right side up on a serving plate."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Chill cake for at least 2 hours before serving. Cake can be stored, well wrapped, for up to 4 days in the refrigerator. Sift confectioners’ sugar over top of cake just before serving."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Catherine"
+          },
+          "reviewBody": "Worth the effort.\n\nAs others suggested, I doubled the vanilla and added all the zest and juice of one medium lemon. Did not add any additional flour. Next time, I’d be a little more aggressive folding in the whites — I think unfolded whites led to cracking — and I’d check it 3-5 minutes before the minimum time. Mine was just a skosh dry. Overall 9/10.",
+          "datePublished": "2024-10-12T15:30:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol"
+          },
+          "reviewBody": "I know we’re trying to get away from using so much plastic, but for those who had problems with their water bath leaking into their springform pans, use a plastic roasting bag instead of foil.",
+          "datePublished": "2024-05-05T03:33:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Allison"
+          },
+          "reviewBody": "I followed the advice in the comments to add the zest and juice of a whole lemon and double the vanilla. I also reduced the heat by 25 degrees F. I checked it after 35 minutes and it was golden brown on top (rather than borderline burnt as it appears in the photo). I made a berry sauce and drizzled a little of the leftover creme fraiche over it. It was excellent. It’s still excellent two days later.",
+          "datePublished": "2023-12-28T02:15:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suzanne"
+          },
+          "reviewBody": "I didn’t have an 8’ cake pan, so I used an oven safe saucepan and it worked great.",
+          "datePublished": "2023-11-24T07:06:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mik"
+          },
+          "reviewBody": "Made this without flour by mistake. It didn’t rise but it turned out creamy and light and fantastic. Like a NY style but less heavy. I actually really enjoyed this mistake. Made it again with flour and it’s more impressive looking due to the height but eats more like cake than cheesecake. Both are very good. For the gluten free people feel free to make it flourless it will still be delicious (:",
+          "datePublished": "2023-01-22T00:45:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lida a."
+          },
+          "reviewBody": "I am curious, what do you do when a recipe asks for superfine sugar? From my readings and forays into SMs, this is not commonly found in the US. Should I beat regular cane sugar in the blender but stop before it becomes confectioner’s sugar? Thank you.",
+          "datePublished": "2022-12-02T11:01:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jen in Atlanta"
+          },
+          "reviewBody": "I recommend stopping the mixer before the whites become too stiff and meringue-like. I watched a few videos of Japanese chefs making this cake and the whites were softer and easier to fold into the cheese and flour mixture. This also helps prevent overmixing.",
+          "datePublished": "2022-11-24T01:44:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jefe"
+          },
+          "reviewBody": "My error was some yolk in my whites which did not whip up.  Consequently, my cheese cake did not rise and aerate.  Saved it with some fresh farmers market strawberries on top.  I will try again.",
+          "datePublished": "2022-05-26T22:14:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tai"
+          },
+          "reviewBody": "I always line my entire pan with baking sheet as not a single cake I've made with just buttering the pan has ever come out unscathed by the oven heat. Also recommend reading the whole recipe once before making as the recommended cooling times are...very long!",
+          "datePublished": "2022-04-23T12:41:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tai"
+          },
+          "reviewBody": "I have a gas oven and only by turning on the broiler for 3 min at the end could I achieve the golden appearance shown in the photo. Keep a careful watch tho as the time between golden and burnt under a broiler is infinitesimal.",
+          "datePublished": "2022-04-23T12:44:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mariko"
+          },
+          "reviewBody": "My oven runs a little cool, but the cake still burned at 30 minutes. 400 is too hot!",
+          "datePublished": "2022-02-20T02:39:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nadya"
+          },
+          "reviewBody": "My cheesecake came out looking like the picture.  Unfortunately, it's darker than I would have liked and fell more than I would have expected.  I suspect that the oven temp was too hot and, after looking at other recipes, I probably should have lowered the temp from 400 to 350 at the most.  No cracks on the top, but it did crack around the outside edge.  That crack disappeared once the cheesecake cooled.  Have not yet cut into it.  Will update once we try it.",
+          "datePublished": "2022-02-08T18:03:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "South Ender"
+          },
+          "reviewBody": "Ethereal. We made ours in a 7” springform and just didn’t quite use all the batter. Turned out great and we will make again (and again).",
+          "datePublished": "2021-12-26T14:33:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "silke"
+          },
+          "reviewBody": "What an awesome cake. The first cake from a US cookbook where I didn’t have to cut the sugar. So light. So tasty. And the recipe worked at 6200’, where baking is complicated. \n\nI used Meyer lemon zest and rose water for flavor. Didn’t have an 8” pan, so I used a 9” pan and increased the ingredients by a quarter. Of course then I didn’t have enough cream cheese, so I used more Creme fraîche. Did have a crack on the top, so I inverted it, and decorated with almond slivers and confectioner’s sugar.",
+          "datePublished": "2021-12-20T15:29:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Douglas Nelson"
+          },
+          "reviewBody": "Just my opinion as a lover of cheesecakes.\nWe made this yesterday and followed the exact recipe and all the ingredients.\nThe cheesecake was bland and dull. A healthy amount of lemon curd helped the overall taste but this is one cheesecake I'll certainly avoid in the future.\nReally a total waste of time, effort and ingredients as there are far better cheesecake recipes than this one.",
+          "datePublished": "2021-12-13T15:39:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "I've made this cheesecake twice. The first time I made it as written, and though it rose beautifully, the taste was bland. I ended up making lemon curd to serve with it to amp up the flavor.\n\nThe second time, I took the advice of other reviewers and doubled the vanilla, and added the zest and juice of one lemon. This version was perfect! I topped it with raspberry whipped cream. Everyone loved it! I'll be making this recipe again and again.",
+          "datePublished": "2020-06-11T01:40:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "blurvert"
+          },
+          "reviewBody": "you butter the bottom only and stick the parchment only on the bottom, the butter being the adhesive (technically speaking you can use any neutral tasting fat for this purpose). No fat on the sides so the cheesecake can rise like a souffle",
+          "datePublished": "2019-12-05T10:35:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marty"
+          },
+          "reviewBody": "Cake flour is lower protein than AP flour (so less gluten).  You can make a substitute by sifting AP flour and corn starch (85g AP and 15g corn starch = 100g cake flour).",
+          "datePublished": "2019-12-09T05:15:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara"
+          },
+          "reviewBody": "Please explain this: Line bottom of pan with parchment and \"butter only the bottom of the pan (so the cheesecake can rise).\" \nDo you butter the parchment? Does the parchment rise up the sides of the pan?   I find this confusing. Anyone else?",
+          "datePublished": "2019-12-05T01:32:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G"
+          },
+          "reviewBody": "My second attempt at this cake was much better than my first, though I couldn’t get it to rise anything like the picture. Beating the egg whites longer seemed to help the rise on the second try. I added the juice of one lemon and doubled the vanilla the second time, and the flavor was significantly better. I also had more success baking at a high temperature (380) than at 320, which other commenters had suggested. 400 for the full 40 minutes would have burnt the cake in my oven, though.",
+          "datePublished": "2019-12-09T00:59:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa Holley"
+          },
+          "reviewBody": "I went to Joanne Chang's original recipe. She says either butter only the bottom of the pan OR cover the bottom of the pan with parchment paper (presumably unbuttered). Probably buttering the parchment wouldn't hurt anything, but might be overkill/unnecessary. Definitely does not sound like parchment goes up the sides, nor the butter for that matter.",
+          "datePublished": "2019-12-05T04:12:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Abigail"
+          },
+          "reviewBody": "On my third iteration of this cheesecake I realized that the 8x3” pan is critical for the rise, that I could substitute orange zest for lemon to make it a creamsicle cheesecake, and that letting the cream cheese/creme fraiche mixture cool a bit before adding it slowly to the egg yolks is the way to go.",
+          "datePublished": "2019-12-20T14:12:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MDelia"
+          },
+          "reviewBody": "Some trip-ups to avoid for an inexperienced baker: Watch the egg yolks, you will have to ascertain that the warm cheese mixture is not too warm when the eggs are added so that the eggs do not scramble. A 3\" deep 8\" pan is not something we all have. Springform would be the usual. But in order to use a springform in a bain marie you will have to tightly cover the bottom of the the tin  with foil. Lovely very light cake.",
+          "datePublished": "2020-03-02T15:37:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RMC.FOG"
+          },
+          "reviewBody": "Is this served chilled or at room temperature?",
+          "datePublished": "2019-12-04T02:07:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Yummy"
+          },
+          "reviewBody": "What I do is butter the bottom of the pan, not the sides of the pan, lay in parchment round (fits just the bottom of the pan) and then I butter the top of that. That's all they mean, don't butter the sides of the pan. Butter contains water, gives off steam, will make the sides \"doughy\" and the cheesecake will stick to the side of the pan.",
+          "datePublished": "2019-12-05T08:51:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ann"
+          },
+          "reviewBody": "Delicately-flavored and delicious. A big hit. I made two — one with regular AP flour and one in which I substituted cornstarch for the flour (to make it gluten-free) and they both turned out great. I think I liked the cornstarch version even better — more custardlike and soft. I followed others recommendations and increased lemon juice and vanilla. Baked at 400° for about 20 min, then turned the temp down to 350° for final 15 min (until it  didn't jiggle so much). Served with raspberry sauce.",
+          "datePublished": "2020-01-08T05:20:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Japanese Cheesecake"
+          },
+          "reviewBody": "Add the zest of a whole lemon.\n\nDO NOT forget to add the cake flour in the yolks because if you forget and add it at the end(like I did) you will knock the air out of the cake trying to mix it it or there will be large chunks of flour in your cake.\n\nOverall a nice and light cheesecake with a good flavor.\n\nBest served with powdered sugar and some fresh strawberries!",
+          "datePublished": "2020-01-06T03:27:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Salt of the Earth"
+          },
+          "reviewBody": "This can be served either ways - chilled or room temperature.",
+          "datePublished": "2019-12-04T11:07:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lloyd"
+          },
+          "reviewBody": "DELICIOUS! I did use a springform pan wrapped in aluminum foil, and buttered both base and parchment paper. 2x Vanilla + juice & zest of a full lemon - it might have been a dash much. Replaced Creme Fraiche with 1/2 nonfat Greek Yogurt and 1/2 Heavy Whipping Cream and used an 85%/15% mix of All Purpose Flour/Cornstarch. Ground regular sugar in coffee grinder to make superfine. Keep an eye on the egg whites - we slightly overbeat but managed to fold in, but it was a bit of work to do so! So good!",
+          "datePublished": "2020-12-13T14:53:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mavic"
+          },
+          "reviewBody": "I’d also like to add how achieving a good meringue is critical to making sure the cheesecake won’t deflate. Wait for those white peaks to form.",
+          "datePublished": "2020-12-15T23:14:54.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1020666-japanese-cheesecake",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019,
+      "description": "Japanese cheesecakes, sometimes called soufflé or cotton cheesecakes, have a melt-in-the-mouth texture that’s like a classic cheesecake crossed with an ethereal sponge cake. This one, adapted from Joanne Chang of Boston’s Flour Bakery, has bright lemon tanginess and crème fraîche richness as well. It’s best made the day before you plan to serve it, and will keep for up to 4 days in the refrigerator. Serve it plain and minimalist, with a sprinkle of confectioners’ sugar on top, or with fresh berries for added color and juiciness.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Japanese Cheesecake",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/48b8cdb9-afbd-5821-97dd-18f29073fb06#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/04/dining/03bakingbookrex2/03bakingbookrex2-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2019-12-03T15:45:03.343Z",
+          "datePublished": "2019-12-03T15:45:03.343Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-03T15:45:03.343Z",
+          "url": "https://static01.nyt.com/images/2019/12/04/dining/03bakingbookrex2/03bakingbookrex2-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/48b8cdb9-afbd-5821-97dd-18f29073fb06#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/04/dining/03bakingbookrex2/03bakingbookrex2-superJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2019-12-03T15:45:03.343Z",
+          "datePublished": "2019-12-03T15:45:03.343Z",
+          "height": "1339",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-03T15:45:03.343Z",
+          "url": "https://static01.nyt.com/images/2019/12/04/dining/03bakingbookrex2/03bakingbookrex2-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/48b8cdb9-afbd-5821-97dd-18f29073fb06#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/04/dining/03bakingbookrex2/03bakingbookrex2-square640.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2019-12-03T15:45:03.343Z",
+          "datePublished": "2019-12-03T15:45:03.343Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-03T15:45:03.343Z",
+          "url": "https://static01.nyt.com/images/2019/12/04/dining/03bakingbookrex2/03bakingbookrex2-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020666-japanese-cheesecake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:35:42.930Z",
+  "scraping_status": "scraped"
+}

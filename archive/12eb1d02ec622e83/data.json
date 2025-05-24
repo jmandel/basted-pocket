@@ -1,0 +1,683 @@
+{
+  "id": "12eb1d02ec622e83",
+  "original_url": "https://www.maangchi.com/recipe/wanja-jeon",
+  "canonical_url": "https://www.maangchi.com/recipe/wanja-jeon",
+  "fetched_title": "Pan-fried meat and tofu patties (Wanja-jeon) recipe by Maangchi",
+  "main_text_content": "Today&#039;s recipe is for pan-fried meat and tofu patties, called wanja-jeon in Korean. They&#039;re savory, soft, and juicy with a meaty texture. It&rsquo;s an all-time favorite item in...",
+  "main_html_content": "<h1 class=\"entry-title mega-heading\">Pan-fried meat and tofu patties</h1><h2 class=\"entry-title mega-heading-translation\"><span class=\"romanized-name\">Wanja-jeon</span> <span class=\"korean-name\">완자전</span></h2><p class=\"author vcard postedby\">By <a href=\"/about\" rel=\"author\"><span class=\"fn n nickname\">Maangchi</span></a></p><p class=\"postdate updated\">Updated on July 29th, 2021</p><div  class=\"rmp-widgets-container rmp-wp-plugin rmp-main-container js-rmp-widgets-container js-rmp-widgets-container--67537 \"  data-post-id=\"67537\"><div class=\"rmp-rating-widget js-rmp-rating-widget\"><div class=\"rmp-rating-widget__icons\"><ul class=\"rmp-rating-widget__icons-list js-rmp-rating-icons-list\"><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Not at all useful\" data-value=\"1\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Somewhat useful\" data-value=\"2\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Good recipe\" data-value=\"3\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Great recipe\" data-value=\"4\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"The besttt!!!\" data-value=\"5\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li></ul>",
+  "publication_date": "2016-04-08T02:44:34+00:00",
+  "author": "Maangchi",
+  "key_image_url": "https://i.ytimg.com/vi/elcH2ebWXLQ/maxresdefault.jpg?meta=og:image",
+  "local_image_path": "scraped/12eb1d02ec622e83/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "/recipe/wanja-jeon#sso/recipe/67537",
+          "@context": "https://schema.org",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.maangchi.com/recipe/wanja-jeon",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon",
+          "sameAs": [
+            "https://www.maangchi.com/?p=67537"
+          ],
+          "name": "Pan-fried meat and tofu patties (Wanja-jeon)",
+          "description": "Today&#039;s recipe is for pan-fried meat and tofu patties, called wanja-jeon in Korean. They&#039;re savory, soft, and juicy with a meaty texture. It&rsquo;s an all-time favorite item in Korean lunch boxes, but also for special occasions, too. This recipe is pretty easy and made with inexpensive ingredients...",
+          "aggregateRating": {
+            "@id": "/recipe/wanja-jeon#sso/recipe/67537/rating-aggregate/5/365/1/5"
+          },
+          "image": [
+            {
+              "@id": "https://i.ytimg.com/vi/elcH2ebWXLQ/maxresdefault.jpg?meta=og:image#sso/image-object"
+            }
+          ],
+          "video": [
+            {
+              "@id": "https://www.youtube.com/embed/elcH2ebWXLQ#sso/video-object"
+            }
+          ],
+          "publisher": [
+            {
+              "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+            }
+          ],
+          "headline": "Pan-fried meat and tofu patties (Wanja-jeon)",
+          "keywords": "동그랑땡, 완자전, 완자전 만드는법, jeon, Korean cooking, korean food, Korean meat patties, Korean meatballs, Korean recipes, meat &amp; tofu patties, meatball jeon, pan-fried beef patties, pan-fried meat patties, wanja-jeon, wanjajeon, wanjajeon recipe",
+          "isFamilyFriendly": true,
+          "inLanguage": "en_US",
+          "datePublished": "2016-04-08T02:44:34+00:00",
+          "dateModified": "2021-07-29T20:02:45+00:00",
+          "author": {
+            "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+          },
+          "thumbnailUrl": "https://i.ytimg.com/vi/elcH2ebWXLQ/maxresdefault.jpg?meta=og:image",
+          "commentCount": 21,
+          "comment": [
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/51035"
+            },
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/49338"
+            },
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/44462"
+            },
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/44421"
+            },
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43687"
+            },
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43674"
+            },
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43557"
+            },
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43555"
+            },
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43549"
+            },
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43541"
+            },
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43536"
+            }
+          ],
+          "recipeCuisine": "Korean",
+          "recipeCategory": "Side dish",
+          "recipeIngredient": [],
+          "recipeInstructions": [
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 1
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 2
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/wanja-jeon#sso/recipe/67537/rating-aggregate/5/365/1/5",
+          "@context": "https://schema.org",
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "ratingCount": 365,
+          "worstRating": 1,
+          "bestRating": 5
+        },
+        {
+          "@id": "https://i.ytimg.com/vi/elcH2ebWXLQ/maxresdefault.jpg?meta=og:image#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://i.ytimg.com/vi/elcH2ebWXLQ/maxresdefault.jpg?meta=og:image",
+          "alternativeHeadline": "Pan-fried meat & tofu patties (Wanja jeon: ììì )",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1280",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1280"
+        },
+        {
+          "@id": "#sso/qv-height-px-720",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "720"
+        },
+        {
+          "@id": "https://www.youtube.com/embed/elcH2ebWXLQ#sso/video-object",
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "url": "https://www.youtube.com/embed/elcH2ebWXLQ",
+          "name": "Pan-fried meat & tofu patties (Wanja jeon: ììì )",
+          "description": "Pan-fried meat and tofu patties, called wanja-jeon in Korean. http://www.maangchi.com/recipe/wanja-jeonTheyâre savory, soft, and juicy with a meaty texture. ...",
+          "embedUrl": "https://www.youtube.com/embed/elcH2ebWXLQ",
+          "encodingFormat": "text/html",
+          "duration": "PT12M44S",
+          "uploadDate": "2016-04-08T02:31:00+00:00",
+          "thumbnailUrl": "https://i.ytimg.com/vi/elcH2ebWXLQ/maxresdefault.jpg?meta=og:image",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ],
+          "keywords": "Korean food, Korean cooking, Maangchi, Maangchi recipes, Korean cuisine, wanjajeon, pan-fried meat patties, ììì , ëê·¸ëë¡, pan-fried beef patties, gogi wanjajeon, jeon, Korean meat patties, meatball jeon, Korean meatballs"
+        },
+        {
+          "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person",
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "url": "https://www.maangchi.com",
+          "name": "Maangchi",
+          "description": "Author archive page for Maangchi.",
+          "image": [
+            {
+              "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object"
+            }
+          ]
+        },
+        {
+          "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-1200"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "#sso/qv-height-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png",
+          "identifier": "93971-wpsso-schema-4x3",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-900"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-900",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "900"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png",
+          "identifier": "93971-wpsso-schema-16x9",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-675"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-675",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "675"
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/51035",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-51035",
+          "name": "Comment by Yu Li on June 1, 2020",
+          "description": "Thanks for sharing the recipe! We made it for dinner tonight, but didn&rsquo;t have dill. It tasted good!",
+          "text": "Thanks for sharing the recipe! We made it for dinner tonight, but didn&rsquo;t have dill. It tasted good!",
+          "dateCreated": "2020-06-01T10:10:12-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Yu Li"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/51151"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/51151",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-51151",
+          "name": "Reply by Maangchi on June 15, 2020",
+          "description": "Gorgeous!",
+          "text": "Gorgeous!",
+          "dateCreated": "2020-06-15T14:47:58-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/49338",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-49338",
+          "name": "Comment by finelychop on April 20, 2019",
+          "description": "What kind of pan are you using?",
+          "text": "What kind of pan are you using?",
+          "dateCreated": "2019-04-20T21:32:48-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "finelychop"
+          }
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/44462",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-44462",
+          "name": "Comment by Sophie85 on October 4, 2016",
+          "description": "Hello Maangchi I want to try to add more veggies for my kids, which one would you recommend? Maybe zucchini?&hellip;",
+          "text": "Hello Maangchi I want to try to add more veggies for my kids, which one would you recommend? Maybe zucchini? Do you think spinach would work well with this patties? Thank you!",
+          "dateCreated": "2016-10-04T03:33:19-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Sophie85"
+          }
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/44421",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-44421",
+          "name": "Comment by mobiniana on September 26, 2016",
+          "description": "Hi Maangchi! This recipe was so delicious!!! This is my new favorite recipe for my lunch boxes. (: Could this&hellip;",
+          "text": "Hi Maangchi! This recipe was so delicious!!! This is my new favorite recipe for my lunch boxes. (: Could this recipe be made with only tofu? I would love to learn how to substitute the meat to make a vegetarian version for my friends and family! &lt;3 Happy cooking.",
+          "dateCreated": "2016-09-26T15:50:14-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "mobiniana"
+          }
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43687",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43687",
+          "name": "Comment by Kaseixjaa on May 6, 2016",
+          "description": "Hey Maangchi! I made this recipe tonight, and it came out pretty good. I have a couple questions though: I&hellip;",
+          "text": "Hey Maangchi! I made this recipe tonight, and it came out pretty good. I have a couple questions though: I had a hard time getting my meat to shape into patties. Do I need to knead the meat longer next time? Secondly, I enjoyed the taste but want the veggies inside to be less crunchy next time, do you have any suggestions? Thanks a bunch. I can&#039;t wait to try some more of your recipes. :)",
+          "dateCreated": "2016-05-06T22:29:31-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Kaseixjaa"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43695"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43695",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43695",
+          "name": "Reply by Tediono on May 8, 2016",
+          "description": "Hey Kaseixjaa! For the patties not holding shape, I would first make sure you use firm tofu since it&#039;ll be&hellip;",
+          "text": "Hey Kaseixjaa! For the patties not holding shape, I would first make sure you use firm tofu since it&#039;ll be easier to squeeze out all the excess water because any moisture in the tofu will make it harder for the patties to bind and hold shape. If you still find it hard for them to hold shape you can add a pinch of flour to help it bind. As for the veggies if you don&#039;t want them as crunchy I would suggest giving them a quick saute in a pan, but make sure you drain any excess oil or moisture that had cooked out and to also let them cool completely before adding it into the mixture. Hope that helps! Happy cooking! -Teddy",
+          "dateCreated": "2016-05-08T17:07:34-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Tediono"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43697"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43697",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43697",
+          "name": "Reply by Kaseixjaa on May 8, 2016",
+          "description": "Thanks Tediono. :)",
+          "text": "Thanks Tediono. :)",
+          "dateCreated": "2016-05-08T17:32:31-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Kaseixjaa"
+          }
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43674",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43674",
+          "name": "Comment by wvtram on May 4, 2016",
+          "description": "hi maangchi! just a quick question; can you replace the firm tofu with silken tofu? thanks, warren",
+          "text": "hi maangchi! just a quick question; can you replace the firm tofu with silken tofu? thanks, warren",
+          "dateCreated": "2016-05-04T03:13:00-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "wvtram"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43677"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43677",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43677",
+          "name": "Reply by sanne on May 5, 2016",
+          "description": "Theoretically, yes - since firm tofu is further pressed silken tofu... But you won&#039;t have much left after you got&hellip;",
+          "text": "Theoretically, yes - since firm tofu is further pressed silken tofu... But you won&#039;t have much left after you got rid of excess water there. ;-) If it&#039;s ok for you to use milk-products with meat, you could use &quot;Topfen&quot; (pressed quark) instead. Bye, Sanne.",
+          "dateCreated": "2016-05-05T09:10:05-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "sanne"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43681"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43681",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43681",
+          "name": "Reply by wvtram on May 6, 2016",
+          "description": "thank you sanne for your advice!",
+          "text": "thank you sanne for your advice!",
+          "dateCreated": "2016-05-06T06:30:21-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "wvtram"
+          }
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43557",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43557",
+          "name": "Comment by tygerstryped on April 11, 2016",
+          "description": "hi maangchi! i made these tonight and they were very easy and relaxing to make :3 i used a mix&hellip;",
+          "text": "hi maangchi! i made these tonight and they were very easy and relaxing to make :3 i used a mix of beef and pork since we had some leftover minced pork. i wasnt able to get them as pretty and yellow as yours, but they tasted delicious! thank you for your recipe!",
+          "dateCreated": "2016-04-11T14:08:13-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "tygerstryped"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43684"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43684",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43684",
+          "name": "Reply by Maangchi on May 6, 2016",
+          "description": "Your wanjajeon looks gorgeous!",
+          "text": "Your wanjajeon looks gorgeous!",
+          "dateCreated": "2016-05-06T22:04:56-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43555",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43555",
+          "name": "Comment by RosalinaS on April 11, 2016",
+          "description": "Hi Maangchi, I have made this and my family loveed it.. the shape looks like &quot;perkedel&quot; (a traditional food from&hellip;",
+          "text": "Hi Maangchi, I have made this and my family loveed it.. the shape looks like &quot;perkedel&quot; (a traditional food from Indonesia which is made from potato as base ingredient).. Thank you Maangchi!!",
+          "dateCreated": "2016-04-11T06:04:13-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "RosalinaS"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43685"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43685",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43685",
+          "name": "Reply by Maangchi on May 6, 2016",
+          "description": "I&#039;m very happy to hear that your family loved your wanjajeon! I want some! : )",
+          "text": "I&#039;m very happy to hear that your family loved your wanjajeon! I want some! : )",
+          "dateCreated": "2016-05-06T22:09:39-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43549",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43549",
+          "name": "Comment by Andrew on April 10, 2016",
+          "description": "Dear Maangchi, I&#039;m sad I missed you when you came to New Zealand. I was in Tonga when you were&hellip;",
+          "text": "Dear Maangchi, I&#039;m sad I missed you when you came to New Zealand. I was in Tonga when you were there. Congratulations on your success! This recipe is very delicious. I tried before dongeurangtaeng. Is it the same type of food?",
+          "dateCreated": "2016-04-10T00:06:47-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "http://pseudoglyphs.wordpress.com",
+            "name": "Andrew"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43686"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43686",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43686",
+          "name": "Reply by Maangchi on May 6, 2016",
+          "description": "Yes, it&#039;s also called donggeurantttaeng. : )",
+          "text": "Yes, it&#039;s also called donggeurantttaeng. : )",
+          "dateCreated": "2016-05-06T22:10:24-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43541",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43541",
+          "name": "Comment by limon04 on April 9, 2016",
+          "description": "Hi Maangchi ! I discover your site few months ago and now i am an addict of corean food .&hellip;",
+          "text": "Hi Maangchi ! I discover your site few months ago and now i am an addict of corean food . Thank&#039;s for all recipes.",
+          "dateCreated": "2016-04-09T14:17:11-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "limon04"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43544"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43544",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43544",
+          "name": "Reply by Maangchi on April 9, 2016",
+          "description": "Good luck with your Korean cooking!",
+          "text": "Good luck with your Korean cooking!",
+          "dateCreated": "2016-04-09T16:10:50-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43536",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43536",
+          "name": "Comment by MikeyD on April 8, 2016",
+          "description": "Is 80% lean ground beef appropriate for this recipe or would 93% lean be a better choice? I&#039;ve made quite&hellip;",
+          "text": "Is 80% lean ground beef appropriate for this recipe or would 93% lean be a better choice? I&#039;ve made quite a few dishes from your recipes and they always get eaten very quickly.",
+          "dateCreated": "2016-04-08T06:22:09-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "MikeyD"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43546"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/wanja-jeon/comment-page-1#sso/comment/43546",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/wanja-jeon/comment-page-1#comment-43546",
+          "name": "Reply by Maangchi on April 9, 2016",
+          "description": "It doesn&#039;t matter much but I would choose 80% lean ground beef because it will be tastier.",
+          "text": "It doesn&#039;t matter much but I would choose 80% lean ground beef because it will be tastier.",
+          "dateCreated": "2016-04-09T16:17:05-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "5",
+        "ratingCount": "365",
+        "ratingValue": "5"
+      },
+      "image": "https://www.maangchi.com/wp-content/uploads/2016/04/wanjajeon-basket-620x384.jpg",
+      "name": "Pan-fried meat and tofu patties (Wanja-jeon)",
+      "description": "Pan-fried meat and tofu patties (Wanja-jeon)"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:38:10.145Z",
+  "scraping_status": "scraped"
+}

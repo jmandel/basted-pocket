@@ -1,0 +1,563 @@
+{
+  "id": "23285882f4e95924",
+  "original_url": "https://cooking.nytimes.com/recipes/1020637-lemony-turmeric-tea-cake",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1020637-lemony-turmeric-tea-cake",
+  "fetched_title": "Lemony Turmeric Tea Cake Recipe",
+  "main_text_content": "This cake, which is adapted from “Nothing Fancy: Unfussy Food for Having People Over,” is so good and so simple to put together, you might come to call it “house cake,” which is, of course, cake to keep in your house at all times Just slicing into it makes a bad day better, the baked equivalent of burning sage or palo santo to clear the energy It travels well, and can truly be brought anywhere for any occasion, but most of the time it won’t make it out of your kitchen.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1017151-lemon-almond-butter-cake\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2015/10/15/dining/15COOKING-BUTTERCAKE2/15COOKING-BUTTERCAKE2-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2015/10/15/dining/15COOKING-BUTTERCAKE2/15COOKING-BUTTERCAKE2-blogSmallInline-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2015/10/15/dining/15COOKING-BUTTERCAKE2/15COOKING-BUTTERCAKE2-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2015/10/15/dining/15COOKING-BUTTERCAKE2/15COOKING-BUTTERCAKE2-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2015/10/15/dining/15COOKING-BUTTERCAKE2/15COOKING-BUTTERCAKE2-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2015/10/15/dining/15COOKING-BUTTERCAKE2/15COOKING-BUTTERCAKE2-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2015/10/15/dining/15COOKING-BUTTERCAKE2/15COOKING-BUTTERCAKE2-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2015/10/15/dining/15COOKING-BUTTERCAKE2/15COOKING-BUTTERCAKE2-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Lemon-Almond Butter Cake</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Regina Schrambling</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2019/11/26/dining/ar-lemony-turmeric-tea-cake/merlin_165035286_7fd1d30a-adce-4f81-b363-9066f36471fe-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/23285882f4e95924/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/cfe30a32-4418-56c4-b42d-e6ebae502a05",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1020637-lemony-turmeric-tea-cake",
+        "@type": "WebPage",
+        "name": "Lemony Turmeric Tea Cake"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020637-lemony-turmeric-tea-cake",
+      "name": "Lemony Turmeric Tea Cake",
+      "description": "This cake, which is adapted from “Nothing Fancy: Unfussy Food for Having People Over,” is so good and so simple to put together, you might come to call it “house cake,” which is, of course, cake to keep in your house at all times. Just slicing into it makes a bad day better, the baked equivalent of burning sage or palo santo to clear the energy. It travels well, and can truly be brought anywhere for any occasion, but most of the time it won’t make it out of your kitchen.",
+      "author": {
+        "@type": "Person",
+        "name": "Alison Roman"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/7f2b9390-45e0-518b-87cc-e41e00dfc12e#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Alison Roman’s lemony turmeric tea cake.",
+          "contentUrl": "https://static01.nyt.com/images/2019/11/26/dining/ar-lemony-turmeric-tea-cake/merlin_165035286_7fd1d30a-adce-4f81-b363-9066f36471fe-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2019-12-03T15:22:00.936Z",
+          "datePublished": "2019-11-26T15:12:06.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-11-26T15:12:06.000Z",
+          "url": "https://static01.nyt.com/images/2019/11/26/dining/ar-lemony-turmeric-tea-cake/merlin_165035286_7fd1d30a-adce-4f81-b363-9066f36471fe-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/7f2b9390-45e0-518b-87cc-e41e00dfc12e#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Alison Roman’s lemony turmeric tea cake.",
+          "contentUrl": "https://static01.nyt.com/images/2019/11/26/dining/ar-lemony-turmeric-tea-cake/merlin_165035286_7fd1d30a-adce-4f81-b363-9066f36471fe-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2019-12-03T15:22:00.936Z",
+          "datePublished": "2019-11-26T15:12:06.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2019-11-26T15:12:06.000Z",
+          "url": "https://static01.nyt.com/images/2019/11/26/dining/ar-lemony-turmeric-tea-cake/merlin_165035286_7fd1d30a-adce-4f81-b363-9066f36471fe-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/7f2b9390-45e0-518b-87cc-e41e00dfc12e#square640",
+          "@type": "ImageObject",
+          "caption": "Alison Roman’s lemony turmeric tea cake.",
+          "contentUrl": "https://static01.nyt.com/images/2019/11/26/dining/ar-lemony-turmeric-tea-cake/ar-lemony-turmeric-tea-cake-square640.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2019-12-03T15:22:00.936Z",
+          "datePublished": "2019-11-26T15:12:06.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-11-26T15:12:06.000Z",
+          "url": "https://static01.nyt.com/images/2019/11/26/dining/ar-lemony-turmeric-tea-cake/ar-lemony-turmeric-tea-cake-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT1H30M",
+      "recipeYield": "One 9-inch loaf",
+      "recipeCuisine": "",
+      "recipeCategory": "snack, dessert",
+      "keywords": "birthday, mother’s day, thanksgiving, butter, egg, flour, lemon, loaf cake, make-ahead, sour cream, turmeric",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 6451
+      },
+      "recipeIngredient": [
+        "Nonstick cooking spray or butter, for greasing the pan",
+        "1 1/2 cups/215 grams all-purpose flour",
+        "2 teaspoons baking powder",
+        "1 teaspoon kosher salt",
+        "3/4 teaspoon ground turmeric",
+        "2 lemons",
+        "1 cup/200 grams granulated sugar, plus 2 tablespoons for sprinkling",
+        "3/4 cup/180 milliliters sour cream or full-fat Greek yogurt, plus more for serving (optional)",
+        "2 large eggs",
+        "1/2 cup/115 grams unsalted butter (1 stick), melted",
+        "Whipped cream (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 350 degrees. Lightly grease a 4-by-9-inch loaf pan (see Tip) with nonstick cooking spray or butter, and line it with parchment, leaving some overhang on both of the longer sides so you’re able to easily lift the cake out after baking."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Whisk the flour, baking powder, salt and turmeric in a large bowl."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Grate 2 tablespoons zest from 1 lemon into a medium bowl. Halve the zested lemon and squeeze 2 tablespoons juice into a small bowl. Cut half the remaining whole lemon into thin rounds, discarding seeds (save the other half for another use)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add 1 cup sugar to the lemon zest in the medium bowl; rub together with your fingertips until the sugar is fragrant and tinted yellow. Whisk in the sour cream, eggs and the 2 tablespoons lemon juice until well blended."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Using a spatula, add the wet mixture to the flour mixture, stirring just to blend. Fold in the melted butter. Scrape the batter into the prepared pan, smoothing the top. Scatter the top with the lemon slices and 2 tablespoons sugar."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake until the top of the cake is golden brown, the edges pull away from the sides of the pan, and a tester inserted into the center comes out clean, 50 to 60 minutes. (If the lemons are getting too dark, lay a piece of foil on top to prevent burning.) Let cool before slicing. (Cake can be baked up to 5 days ahead, wrapped tightly, and stored at room temperature.) Serve with whipped cream, if desired."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jm"
+          },
+          "reviewBody": "This is such a great tea cake! Perfect for the morning,  it's light and fresh tasting, and not too sweet. Perfect pairing with tea or coffee.",
+          "datePublished": "2025-05-08T17:02:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PMB"
+          },
+          "reviewBody": "Easy and excellent.  (I used a combination of sour cream & yoghurt because that's what I had at hand.)",
+          "datePublished": "2025-05-05T15:33:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cheryl"
+          },
+          "reviewBody": "Made double and substituted 2/3 c oil for butter and added a little whole wheat flour. Substituted soy milk with lemon juice as another reviewer. Was done at 40-45 min. Longer would have been too dry. Added a glaze of juice and powdered sugar. Very nice texture, cheerful color, as others note. But not much flavor. A good basic but needs something to punch it up either as snack or dessert.",
+          "datePublished": "2025-04-20T16:01:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mud"
+          },
+          "reviewBody": "It took more than 90 minutes to bake in an 8.5\" x 4.5\" metal pan. Followed to the letter, using 5% Greek yoghurt. Broiled it at the end as someone else did with the smaller loafs. Dense, but delicious",
+          "datePublished": "2025-04-12T17:00:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam"
+          },
+          "reviewBody": "Made in a silicone mini loaf pan (each loaf was approx 4-1/2x1-1/4x3/4D) filled 2/3 with batter. Made 15 mini loafs and baked in a zippy 15 mins @350. Didn't need the parchment paper in silicone; sprayed with non-stick spray only and they came out perfectly. Only issue was that the tops didn't brown due to the fast baking time, so I broiled them just a bit at the end to bronze them and caramelize the lemons.",
+          "datePublished": "2025-03-16T21:15:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KLT"
+          },
+          "reviewBody": "I have made this delicious cake many times.  I’ve made it per the recipe and also made a vegan-ish version keeping the eggs but substituting olive oil for the butter and plant yoghurt for the sour cream (skipping whipped cream topper).  Either version - raves. It’s still delicious without the lemon slice topping.",
+          "datePublished": "2025-03-06T14:58:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lea"
+          },
+          "reviewBody": "This was divine. I used Krusteaz gluten-free all-purpose flour, doubled the lemon and probably threw in extra turmeric, baked it in a round metal cake pan greased with butter and sprinkled with sugar and we all just loved it.",
+          "datePublished": "2025-03-05T00:07:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KLT"
+          },
+          "reviewBody": "Try using three egg whites, one yolk.  Whip egg whites to soft peaks and fold into batter at the end.",
+          "datePublished": "2025-03-06T15:00:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lindsay"
+          },
+          "reviewBody": "Delicious cake but mine turned out very dense - anyone have any suggestions for the next time I make it?",
+          "datePublished": "2025-02-27T10:35:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "From Toronto with Love"
+          },
+          "reviewBody": "This is so, so good, WOW. I have to stop myself from constantly nibbling on it before my wife  can try it! I followed the directions to the letter (although I didn't have greek yogurt or sour cream so I used regular yogurt which turned out great). I love the bright yellow color, the beautiful carmelized sweetness from the sugar and tartness from the lemon slices/juice/zest. I'm excited to make this for a crowd!",
+          "datePublished": "2025-02-11T16:53:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Darko"
+          },
+          "reviewBody": "This is not good, this is great. It's super soft and crumbly, tangy and buttery. \n\nDon't skip the lemon on top, you really want the sour kick in that bite. Just cut it super thin, a millimeter or less.",
+          "datePublished": "2025-02-04T21:59:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jill"
+          },
+          "reviewBody": "I forgot the 2 Tablespoons of sugar on top at the end.  What should I do?",
+          "datePublished": "2025-01-28T03:31:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lara"
+          },
+          "reviewBody": "This tastes good, but isn’t excellent or exciting. I don’t get the hype? Also, agree with most other commenters—skip the lemons on top.",
+          "datePublished": "2025-01-30T05:43:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lindsay"
+          },
+          "reviewBody": "If folks aren’t keen on the lemon slices on top, you can add some zing by grating some fresh ginger and mixing it with some turbinado or demerara sugar and sprinkling/spreading it on top before baking. The caramelization adds a nice crispy texture to the top, too.",
+          "datePublished": "2025-01-26T19:44:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gina"
+          },
+          "reviewBody": "I used a mixture of sour cream and low fat yogurt as that is what I had on hand. I also had meyer lemons and they worked beautifully. I skipped the lemon slices as many reviews mentioned they were tough. I baked it in a Nordicware Citrus Twist pan and added a lemon glaze. Turned out beautifully.",
+          "datePublished": "2025-01-20T02:29:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Park Slope"
+          },
+          "reviewBody": "This is a great and easy to make - I’ve made it several times. This time I was short on lemon so added some lime and orange zest to the mix. I upped the tumeric and added some cardamum as others recommended. Also added a bit more lemon juice and did a mix of sour cream and yogurt.  It baked for just over 60 minutes l. My family loved it and ate most of it in one sitting! I put slices of lemons and oranges on top - not particularly thinly sliced but they came out just right and my family liked them.",
+          "datePublished": "2025-01-20T02:25:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ruth"
+          },
+          "reviewBody": "How do you get 2 tablespoons of zest out of one lemon?",
+          "datePublished": "2019-11-29T17:14:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Linda Two Terriers"
+          },
+          "reviewBody": "I haven't made this yet but I've learned about baking with whole lemon slices from making shaker lemon pies. 1) Use thin-skinned lemons. Meyer lemons work well. 2) Partially freeze the lemons before slicing in order to get them as thin as possible.",
+          "datePublished": "2020-01-07T11:18:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gonzalo"
+          },
+          "reviewBody": "I don't think the lemon slices are nice at all. I found them quite bitter and rubbery, but they were really pretty. Maybe blanching and/or candying them first would help to make them more palatable.",
+          "datePublished": "2019-11-30T12:33:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris S."
+          },
+          "reviewBody": "Thank you, Alison Roman, for this marvelous recipe.  The idea of keeping a simple, refreshing and not-too-sweet cake on hand for ordinary use (unexpected or planned drop-by visits, a needed post-challenge pick-me-up, or whatever) brings back the notion of simpler village life when we could all expect unannounced visitors to whom it would be polite to offer a hospitable bite and a cup of coffee or tea.  The idea of a similarly nourishing ceremony just for ourselves when needed is uplifting.",
+          "datePublished": "2019-11-30T04:55:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cesaera"
+          },
+          "reviewBody": "You could also simmer the sliced lemons( as thick as you made them) in equal parts sugar and water just to cover them. These ’candied’ lemon slices are yummy",
+          "datePublished": "2019-12-07T15:35:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jason K"
+          },
+          "reviewBody": "I really like this cake.  It stores well and definitely didn't last more than two days in my house.  A couple of notes:\n1.  Use the full 2TBSP of sugar on the top which takes away the bitterness of the lemon slices and adds some needed sweetness.\n2.  At 60 min. bake time, the cake was still quite moist inside (and a toothpick did not come out clean).  I pulled it anyway and it was baked perfectly.  (My oven is calibrated)\n3.  You need more than two lemons to produce 2TBSP of zest",
+          "datePublished": "2019-12-10T20:05:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cequirk"
+          },
+          "reviewBody": "Favorite cake! To make it more lemony, I put very thin lemon slices on the bottom of the pan before adding the batter. They melt into the cake. Agree that the slices have to be super thin (mandoline). I let the slices for top and bottom sit in a bowl with sugar for a while before putting them on.\n\nI've added grated fresh ginger.\n\nI've added a Tsp of cardamon which gives the cake a slight spicy savory flavor. Next time I do that, I'll reduce the sugar a bit. More turmeric is nice too",
+          "datePublished": "2020-04-08T07:45:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gladys"
+          },
+          "reviewBody": "Quarter the lemons after thinly slicing and arrange in a pretty pattern on top to make slicing (and chewing) easier.",
+          "datePublished": "2019-12-08T14:29:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elisabeth Gern"
+          },
+          "reviewBody": "Saffron instead of turmeric. It works wonderfully well.",
+          "datePublished": "2019-12-03T16:53:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brandon"
+          },
+          "reviewBody": "Love this recipe and have made it a couple times already! It’s really great to bring to parties or small, casual gatherings and everyone’s been impressed. The only issue I’ve had is that the lemon slices on top need to be VERY thin or they’re hard to cut through when slicing the cake and the rind can be pretty chewy to eat if it’s not paper thin. Otherwise, the lemon is a lovely crystallized, caramelized texture on top.",
+          "datePublished": "2019-11-30T14:45:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elle C."
+          },
+          "reviewBody": "This is a nice simple & tasty recipe. Not too sweet & a light lemon taste. I wanted more of the crispy edges, so I baked them in a Madeleine pan about 18-20 min, made 2 doz. (Omitted the sliced lemon).\nIf you want them a little sweeter, I think a light lemon glaze would be perfect.",
+          "datePublished": "2019-11-29T22:08:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Audrey"
+          },
+          "reviewBody": "Using 9x5 loaf pan worked fine, just watch the cooking time.\nLemons on top need to be very thin, otherwise the rind can be difficult to slice/eat thru. Someone suggested using a mandolin, which could work well.\nCake becomes more moist, when wrapped/bagged and stored at room temp for 1-5 days after preparing.",
+          "datePublished": "2019-12-01T16:22:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cake baker"
+          },
+          "reviewBody": "Agree with a recent commenter--the lemon slices become rubbery and are impossible to cut nicely. Cake is pretty when comes out of oven, but a mess when serving. If I make it again, I'll sprinkle the top with zest and sugar instead using the slices. So, I just signed on to NYT Cooking. Did you test this recipe? Is this the level of user-friendliness I can expect from NYT recipes?",
+          "datePublished": "2019-12-09T16:25:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jocelyn"
+          },
+          "reviewBody": "Delicious. Will reduce the sugar by 1 or 2 TBS next time, as we don't like sweet.  Did the lemons very thinly on the mandolin and they were perfect.",
+          "datePublished": "2019-11-30T23:10:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mimi S."
+          },
+          "reviewBody": "This tea cake is incredible!\nI’m gluten intolerant, so substituted Cup4Cup flour.\nI used the mandolin to slice the lemons for the top- but they were weird, and frankly not necessary, so I pulled them off after cooking. Note- with the Cup4Cup flour- I had to cook for about 65-70 minutes total- which is normal for me when baking Gluten Free (always about 10 minutes longer).\nNext tim I’ll simply sprinkle the top with sugar before baking!",
+          "datePublished": "2019-12-07T19:38:51.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1020637-lemony-turmeric-tea-cake",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Alison Roman"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019,
+      "description": "This cake, which is adapted from “Nothing Fancy: Unfussy Food for Having People Over,” is so good and so simple to put together, you might come to call it “house cake,” which is, of course, cake to keep in your house at all times. Just slicing into it makes a bad day better, the baked equivalent of burning sage or palo santo to clear the energy. It travels well, and can truly be brought anywhere for any occasion, but most of the time it won’t make it out of your kitchen.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Lemony Turmeric Tea Cake",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/7f2b9390-45e0-518b-87cc-e41e00dfc12e#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Alison Roman’s lemony turmeric tea cake.",
+          "contentUrl": "https://static01.nyt.com/images/2019/11/26/dining/ar-lemony-turmeric-tea-cake/merlin_165035286_7fd1d30a-adce-4f81-b363-9066f36471fe-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2019-12-03T15:22:00.936Z",
+          "datePublished": "2019-11-26T15:12:06.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-11-26T15:12:06.000Z",
+          "url": "https://static01.nyt.com/images/2019/11/26/dining/ar-lemony-turmeric-tea-cake/merlin_165035286_7fd1d30a-adce-4f81-b363-9066f36471fe-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/7f2b9390-45e0-518b-87cc-e41e00dfc12e#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Alison Roman’s lemony turmeric tea cake.",
+          "contentUrl": "https://static01.nyt.com/images/2019/11/26/dining/ar-lemony-turmeric-tea-cake/merlin_165035286_7fd1d30a-adce-4f81-b363-9066f36471fe-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2019-12-03T15:22:00.936Z",
+          "datePublished": "2019-11-26T15:12:06.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2019-11-26T15:12:06.000Z",
+          "url": "https://static01.nyt.com/images/2019/11/26/dining/ar-lemony-turmeric-tea-cake/merlin_165035286_7fd1d30a-adce-4f81-b363-9066f36471fe-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/7f2b9390-45e0-518b-87cc-e41e00dfc12e#square640",
+          "@type": "ImageObject",
+          "caption": "Alison Roman’s lemony turmeric tea cake.",
+          "contentUrl": "https://static01.nyt.com/images/2019/11/26/dining/ar-lemony-turmeric-tea-cake/ar-lemony-turmeric-tea-cake-square640.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2019-12-03T15:22:00.936Z",
+          "datePublished": "2019-11-26T15:12:06.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-11-26T15:12:06.000Z",
+          "url": "https://static01.nyt.com/images/2019/11/26/dining/ar-lemony-turmeric-tea-cake/ar-lemony-turmeric-tea-cake-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020637-lemony-turmeric-tea-cake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:16:37.447Z",
+  "scraping_status": "scraped"
+}

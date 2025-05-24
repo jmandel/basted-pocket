@@ -1,0 +1,571 @@
+{
+  "id": "944e42cbe5ea6226",
+  "original_url": "https://cooking.nytimes.com/recipes/12637-mark-bittmans-bouillabaisse",
+  "canonical_url": "https://cooking.nytimes.com/recipes/12637-mark-bittmans-bouillabaisse",
+  "fetched_title": "Mark Bittman’s Bouillabaisse Recipe",
+  "main_text_content": "You can make any soup with water instead of stock, but the soups that drive you wild usually have a beautiful stock as their base This is doubly true of bouillabaisse, which should start with a stock so delicious that you can barely imagine improving on it There are a few ways to do this: Grab fish bones when you see them, and make the stock incrementally",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1017132-flavorful-fish-stock\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2015/01/18/magazine/18eat_stockmarket-slide-FQ6I/18eat_stockmarket-slide-FQ6I-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2015/01/18/magazine/18eat_stockmarket-slide-FQ6I/18eat_stockmarket-slide-FQ6I-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2015/01/18/magazine/18eat_stockmarket-slide-FQ6I/18eat_stockmarket-slide-FQ6I-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2015/01/18/magazine/18eat_stockmarket-slide-FQ6I/18eat_stockmarket-slide-FQ6I-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2015/01/18/magazine/18eat_stockmarket-slide-FQ6I/18eat_stockmarket-slide-FQ6I-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2015/01/18/magazine/18eat_stockmarket-slide-FQ6I/18eat_stockmarket-slide-FQ6I-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Flavorful Fish Stock</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Mark Bittman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-videoSixteenByNineJumbo1600-v2.jpg",
+  "local_image_path": "scraped/944e42cbe5ea6226/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/181e54f7-7b07-5547-a031-0c0f5ec5cce6",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/12637-mark-bittmans-bouillabaisse",
+        "@type": "WebPage",
+        "name": "Mark Bittman’s Bouillabaisse"
+      },
+      "url": "https://cooking.nytimes.com/recipes/12637-mark-bittmans-bouillabaisse",
+      "name": "Mark Bittman’s Bouillabaisse",
+      "description": "You can make any soup with water instead of stock, but the soups that drive you wild usually have a beautiful stock as their base. This is doubly true of bouillabaisse, which should start with a stock so delicious that you can barely imagine improving on it. There are a few ways to do this: Grab fish bones when you see them, and make the stock incrementally. Another is to use shrimp shells. A third is to accumulate lobster bodies, which make fantastic stock. In any case, you combine whatever you have with some aromatics (thyme branches, onion, celery, carrot, garlic, peppercorns) add water and simmer for 15 to 30 minutes. Cool, strain and freeze if you like. When you're ready to make the soup, procure your seafood – pretty much any combination of fish and shellfish will do, but avoid dark-fleshed fish – and go forth. From there, it's no more difficult than making a pot of vegetable soup.",
+      "author": {
+        "@type": "Person",
+        "name": "Mark Bittman"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/e7cce984-bfbe-5ec6-9da5-018481915ad4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2018-10-19T17:34:10.767Z",
+          "datePublished": "2017-05-16T21:49:19.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2017-05-16T21:49:19.000Z",
+          "url": "https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/e7cce984-bfbe-5ec6-9da5-018481915ad4#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-superJumbo.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2018-10-19T17:34:10.767Z",
+          "datePublished": "2017-05-16T21:49:19.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2017-05-16T21:49:19.000Z",
+          "url": "https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/e7cce984-bfbe-5ec6-9da5-018481915ad4#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-square640-v2.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2018-10-19T17:34:10.767Z",
+          "datePublished": "2017-05-16T21:49:19.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2017-05-16T21:49:19.000Z",
+          "url": "https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-square640-v2.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT1H",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "french",
+      "recipeCategory": "dinner, main course",
+      "keywords": "dairy-free, fish, shellfish, soup, tomato",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 1351
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 338,
+        "unsaturatedFatContent": "7 grams",
+        "carbohydrateContent": "26 grams",
+        "cholesterolContent": null,
+        "fatContent": "11 grams",
+        "fiberContent": "4 grams",
+        "proteinContent": "33 grams",
+        "saturatedFatContent": "2 grams",
+        "sodiumContent": "1013 milligrams",
+        "sugarContent": "6 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "Good olive oil, as needed",
+        "4 to 8 thick slices good bread",
+        "1 onion, chopped",
+        "4 cloves garlic, chopped",
+        "2 celery stalks, trimmed and chopped",
+        "1 carrot, trimmed and chopped",
+        "1 medium new potato, peeled and chopped",
+        "1 small bulb fennel, trimmed and chopped",
+        "1/4 teaspoon saffron, optional",
+        "3 cups lobster or fish stock",
+        "2 cups chopped tomatoes, with their juice (canned are O.K.)",
+        "Salt and pepper",
+        "1 to 1 1/2 pounds chopped boneless fish and shellfish, preferably a variety",
+        "8 littleneck clams",
+        "8 mussels",
+        "2 sea scallops",
+        "2 tablespoons Pernod or other pastis, optional",
+        "Chopped fennel fronds, for garnish",
+        "Chopped basil or parsley, for garnish",
+        "Rouille, optional"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 400 degrees; brush bread liberally with olive oil, and bake on a sheet, turning once, until golden and crisp, about 5 minutes. Set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add enough olive oil to a Dutch oven, deep skillet or shallow pot to make a thick layer (don't skimp) on the bottom. In it, cook onion, garlic, celery, carrot, potato, fennel and saffron until glossy. Add stock and tomato and bring to a moderate boil; cook until thick and stewy rather than soupy. Season to taste; it should be so delicious that you don’t even care whether you add fish."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Lower heat to a simmer, and, as you add fish, adjust heat so that the liquid continues to bubble gently. Add fish in order of how long they will take to cook. Monkfish, striped bass and squid are fish that might require more than a few minutes, so add them first. About five minutes later add clams and mussels, holding back any fish that has been cooked or will cook in a flash. When mollusks open, add remaining fish. Cut scallops into quarters and place in the bottom of 4 bowls."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add pastis if you're using it; taste and adjust seasoning. Ladle hot soup and fish over the scallops, distributing clams and mussels evenly. Garnish and serve with croutons and rouille, if you're using."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jbh"
+          },
+          "reviewBody": "What is pastis?",
+          "datePublished": "2025-05-01T17:25:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Agus"
+          },
+          "reviewBody": "It's delicious and easy!!!! I loved this recipe",
+          "datePublished": "2025-02-09T19:29:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patrice"
+          },
+          "reviewBody": "Mathew, can you share the rouille recipe?",
+          "datePublished": "2024-06-22T21:54:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Matthew"
+          },
+          "reviewBody": "Got great result from this.  Added more fennel and garnished with fennel fronts.  Used zest of 1 orange instead of orange section and used a great rouille recipe since the rouille makes the dish for me.  I also cooked the shellfish separately and then added at last minute to the stew to ensure that all were well cooked.  Lastly, I used cod, which is cheaper where I live.  Worked just fine and saved a bundle",
+          "datePublished": "2024-05-05T14:35:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Thomas"
+          },
+          "reviewBody": "The canned tomatoes vs fish broth balance felt wrong. I was ending up with a fishy tomato sauce rather than a bouillabaisse - which what the picture looks like. Fortunately I had made much more broth than what I needed, so I poured it in, and the result was great. \nAlso, the rouille recipe felt wrong. Make a mayonnaise with a fair amount of grated garlic, a little chili and a pinch of saffron is how we do it in Provence.",
+          "datePublished": "2023-12-26T17:50:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Billt T"
+          },
+          "reviewBody": "I add Saffron and coconut milk, its outareogiously good!",
+          "datePublished": "2023-12-08T18:43:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mireille"
+          },
+          "reviewBody": "I suggest adding anchovy paste to improve the flavor. I would also add it  to the rouille, that I described above",
+          "datePublished": "2023-09-21T19:51:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robin"
+          },
+          "reviewBody": "Made homemade fish stock and followed the recipe, except no Pernod, but something was missing.  Didn't have the depth and flavor I was seeking.  Maybe I needed more guidance on seasoning/salt and fish selection.  Used white fish, clams, mussels and scallops.  No other shellfish... maybe that was the problem?",
+          "datePublished": "2023-09-11T21:56:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Boone Williamson"
+          },
+          "reviewBody": "I Love this dish. It's a good weeknight dinner dish and it's also very good for supplementing. Personally I think this dish needs Paffron and Parsley to really bring out the taste. It One Hundred Percent needs a 5 star review.",
+          "datePublished": "2023-04-18T13:19:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "my. notes"
+          },
+          "reviewBody": "Add 1 T tomato paste when cooking vegetables.",
+          "datePublished": "2023-02-16T18:36:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TaiL"
+          },
+          "reviewBody": "Do not skip the saffron! It's not the same without it. Otherwise, this is yet another flexible, delicious recipe from Bittman/ NYTimes Cooking. I love the flexible recipes that you can eat for several days. When I went to my fish market, Cosentino's in Bay Ridge, the owner was behind the counter. When I ordered, he realized exactly what I was making!",
+          "datePublished": "2023-02-13T03:47:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LFT"
+          },
+          "reviewBody": "This soup dish (I called it “shrimp bouillabaisse”) was made very simple by using just branzini and a large number of very large shrimp.  The vegetables needed to be cooked longer for them to soften which then caused the tomatoes to break down.  I didn’t have enough fish stock so I added a quarter tsp of dashi which contributed to the umami.  And adding garlic and olive oil before roasting the bread was delicious (thank you previous contributor!). An easy version for a quick weekday dinner!",
+          "datePublished": "2023-01-03T12:02:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melissa"
+          },
+          "reviewBody": "Simple, flavorful, fabulous recipe easy to adjust to make it your own. Can't wait to make again.",
+          "datePublished": "2023-01-02T01:30:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Doug G"
+          },
+          "reviewBody": "Had no luck finding fish heads, bones, scraps…very disappointing! Luckily, I was able to rely on past experience with anchovies and fish sauce! I boiled a bunch of shrimp shells along with those amazing flavor enhancing anchovies and fish sauce…and WOW! Instant deliciousness!\n\nThen followed Bittman’s recipe. Just luscious….",
+          "datePublished": "2022-12-24T18:41:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill Thompson"
+          },
+          "reviewBody": "After I cooked everything but the fish I used an emulsifier to puree the stock then I added a can of light coconut milk. Our guests were blown away, most said it was the best they ever had. \nI also used homemade stock made out of lobster shells.",
+          "datePublished": "2022-12-19T00:40:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marypettyanderson"
+          },
+          "reviewBody": "You can make the base the day before and refrigerate, and add seafood the next day for a lunch party.",
+          "datePublished": "2022-12-03T19:48:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "George Grumbach"
+          },
+          "reviewBody": "The best essay on bouillabaisse was by A.J. Liebling in the New Yorker on Oct. 27, 1962 <a href=\"http://www.newyorker.com/magazine/1962/10/27/the-soul-of-bouillabaisse-town\" title=\"http://www.newyorker.com/magazine/1962/10/27/the-soul-of-bouillabaisse-town\" target=\"_blank\">http://www.newyorker.com/magazine/1962/10/27/the-soul-of-bouillabaisse-town</a>",
+          "datePublished": "2017-10-30T13:15:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nina"
+          },
+          "reviewBody": "must add saffron . does not taste authentic without it. and don't skip the rouille, it's the part all will remember! sure lobster stock is amazing but the recipe works also great with fish stock. home made or purchased",
+          "datePublished": "2017-10-30T13:15:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Yma"
+          },
+          "reviewBody": "This was a very good and very forgiving recipe. I had the seafood on hand, but got snowed in before I could get the rest of the stuff. I didn't have celery, fennel, Pernod or parsley/basil. I substituted leeks, a bit of baby bok choy (!), a teaspoon of fennel seeds, and ouzo. Even if my creation wasn't quite bouillabaisse, it was absolutely delicious and the texture superb. Something tells me that the originators of bouillabaisse would've just thrown in whatever they had on hand, too. ",
+          "datePublished": "2019-01-02T13:18:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Francois de Melogue"
+          },
+          "reviewBody": "Might be a good fish soup but nothing about this is bouillabaisse. Bouillabaisse soup base is made by making a broth in which lots of fish that is milled. This is essential and what gives volume and is the soul of bouillabaisse.  The best fish is rascasse, if you are in America like me use rockfish that is easily available. Rockfish has lots of gelatin that binds the broth \nThen you poach your seafood in this broth. Be sure to marinate fish first in evoo, saffron,  pastis...",
+          "datePublished": "2019-08-26T00:48:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hally"
+          },
+          "reviewBody": "The saffron and pastis are not optional! I made this for Christmas Eve tonight and my father-in-law said it is the best thing he has ever tasted. And it may be the most delicious meal I’ve ever made. ",
+          "datePublished": "2018-12-25T04:31:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chef Jeff"
+          },
+          "reviewBody": "What stands out to me, (and I'm surprised that I'm the only reviewer who mentioned it) is that this recipe purports to feed 4-6 people. Maybe I'm a garvone, but how do you divide 2 sea scallops between 6 people? This entire recipe needs to be doubled (at least) to feed 6 people!",
+          "datePublished": "2019-10-09T13:50:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patrick Chadd"
+          },
+          "reviewBody": "I made this as directed and it was simply FANTASTIC.  It needs an authentic rouille and some grilled bread for it to be literally THE BEST.  It can all be done ahead until it's time to add the shellfish and fish so it's a good dinner party dish as well.",
+          "datePublished": "2018-06-20T01:15:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LC"
+          },
+          "reviewBody": "This was by far the best recipe I’ve used for bouillabaisse. It was a bit soupy so I added a large spoonful of tomato paste and it helped thicken it up nicely, not too much. I used King crab legs, muscles, halibut, squid, jumbo shrimp, and scallops. It was delicious 😋 saffron was a must! I added parsley, basil, fennel and a bay leaf.",
+          "datePublished": "2019-05-19T05:53:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lloyd"
+          },
+          "reviewBody": "Definitely add in additional broth and let it simmer covered prior to adding all the seafood - brings out so much more of the flavor that way! If you can avoid using canned tomatoes - they don’t break down as easily and are a distraction. ",
+          "datePublished": "2017-10-20T11:45:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tim"
+          },
+          "reviewBody": "Lobster! Boil frozen tails (1 per serving) for 5-10 min, then remove the tails from the water and remove the lobster meat from the tails, dicing it and reserving in the fridge. Return the tails to the cooking water water and add mirepoix + aromatics to make the stock. After you've apportioned stew in the bowls, pile on the lobster and garnish with lemon zest, parsley, and evoo. Don't mix in the lobster–the cold lobster w/ a zesty garnish contrasts well with the scrumptiously warm stew.",
+          "datePublished": "2021-09-08T06:37:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diane"
+          },
+          "reviewBody": "Sounds great - like the idea of a chopped potato as a thickener versus the brothy versions I've made",
+          "datePublished": "2017-10-30T13:13:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jodi"
+          },
+          "reviewBody": "First time making bouillabaisse - this was probably the greatest dish I’ve ever made. Everybody at the table was stunned by this dish!! Saffron and Pernod made it perfect. I used halibut, clams, mussels, scallops and shrimp.",
+          "datePublished": "2022-07-27T12:26:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tom, SFBA"
+          },
+          "reviewBody": "Having made this great stew a number og times, I can recommend the addition of more shellfish than called for here. Add them early, they add to the flavor and are a treat.",
+          "datePublished": "2017-10-01T13:40:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "nylanyc"
+          },
+          "reviewBody": "Made my own stock using shrimp shells and was worried it was not going to be flavorful enough, but the final product was delicious. Saffron was a must; did not add the Pernod. Added the fish first and then had some difficulty getting the shellfish all submerged without breaking the fish apart (purchased too much shellfish, beyond what was called for in the recipe). The fish was the star of the show, so next time will cut back on the other seafood.",
+          "datePublished": "2019-01-05T14:29:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "townsend5"
+          },
+          "reviewBody": "* Add a pinch of crushed red pepper to give is a little zip.  \n* Adding orange zest gives it a nice dimension.\n* Don't stress about what seafood to include - it's basically a fisherman's stew made with whatever was caught today.\n* I like to cook the shellfish separately by steaming. When the clams open, they're done and can be added to the soup at the last minute so they're not overcooked.  Dump the liquid into the soup.\n* Be sure to make the roullle - not optional in my book.",
+          "datePublished": "2022-05-30T18:07:10.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2012
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/12637-mark-bittmans-bouillabaisse",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Mark Bittman"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2012,
+      "description": "You can make any soup with water instead of stock, but the soups that drive you wild usually have a beautiful stock as their base. This is doubly true of bouillabaisse, which should start with a stock so delicious that you can barely imagine improving on it. There are a few ways to do this: Grab fish bones when you see them, and make the stock incrementally. Another is to use shrimp shells. A third is to accumulate lobster bodies, which make fantastic stock. In any case, you combine whatever you have with some aromatics (thyme branches, onion, celery, carrot, garlic, peppercorns) add water and simmer for 15 to 30 minutes. Cool, strain and freeze if you like. When you're ready to make the soup, procure your seafood – pretty much any combination of fish and shellfish will do, but avoid dark-fleshed fish – and go forth. From there, it's no more difficult than making a pot of vegetable soup.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Mark Bittman’s Bouillabaisse",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/e7cce984-bfbe-5ec6-9da5-018481915ad4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2018-10-19T17:34:10.767Z",
+          "datePublished": "2017-05-16T21:49:19.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2017-05-16T21:49:19.000Z",
+          "url": "https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/e7cce984-bfbe-5ec6-9da5-018481915ad4#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-superJumbo.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2018-10-19T17:34:10.767Z",
+          "datePublished": "2017-05-16T21:49:19.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2017-05-16T21:49:19.000Z",
+          "url": "https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/e7cce984-bfbe-5ec6-9da5-018481915ad4#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-square640-v2.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2018-10-19T17:34:10.767Z",
+          "datePublished": "2017-05-16T21:49:19.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2017-05-16T21:49:19.000Z",
+          "url": "https://static01.nyt.com/images/2017/05/16/dining/16COOKING-BITTMAN-BOUILLABAISSE/16COOKING-BITTMAN-BOUILLABAISSE-square640-v2.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/12637-mark-bittmans-bouillabaisse"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:31:09.888Z",
+  "scraping_status": "scraped"
+}

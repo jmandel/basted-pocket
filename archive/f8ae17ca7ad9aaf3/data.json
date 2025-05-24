@@ -1,0 +1,565 @@
+{
+  "id": "f8ae17ca7ad9aaf3",
+  "original_url": "https://cooking.nytimes.com/recipes/1025951-miso-mushroom-and-leek-pasta",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025951-miso-mushroom-and-leek-pasta",
+  "fetched_title": "Miso Mushroom and Leek Pasta  Recipe",
+  "main_text_content": "Alchemy is at play here with the delightful union of miso and sherry vinegar, both working to amplify mushroom’s savory, umami notes, and create a rich, layered pasta in just over 30 minutes Sautéed leeks and mushrooms form the core flavors of the pasta, but it is the addition of miso that completes the dish: Whisked with the starchy pasta water and grated Parmesan, it forms a quick sauce to coat the noodles A farro, spelt or whole-wheat pasta would nicely complement the earthy flavors of this dish.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1021506-creamy-one-pot-mushroom-and-leek-pasta\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2021/03/28/dining/hm-one-pot-pasta/merlin_180213573_2640b2ea-44d7-4943-a67a-124da9b65d01-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2021/03/28/dining/hm-one-pot-pasta/merlin_180213573_2640b2ea-44d7-4943-a67a-124da9b65d01-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2021/03/28/dining/hm-one-pot-pasta/merlin_180213573_2640b2ea-44d7-4943-a67a-124da9b65d01-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2021/03/28/dining/hm-one-pot-pasta/merlin_180213573_2640b2ea-44d7-4943-a67a-124da9b65d01-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2021/03/28/dining/hm-one-pot-pasta/merlin_180213573_2640b2ea-44d7-4943-a67a-124da9b65d01-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2021/03/28/dining/hm-one-pot-pasta/merlin_180213573_2640b2ea-44d7-4943-a67a-124da9b65d01-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2021/03/28/dining/hm-one-pot-pasta/merlin_180213573_2640b2ea-44d7-4943-a67a-124da9b65d01-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2021/03/28/dining/hm-one-pot-pasta/merlin_180213573_2640b2ea-44d7-4943-a67a-124da9b65d01-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Creamy One-Pot Mushroom and Leek Pasta</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Hetty Lui McKinnon</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/09/12/multimedia/yf-miso-mushroom-and-leek-pastarex-zqjm/yf-miso-mushroom-and-leek-pastarex-zqjm-threeByTwoMediumAt2X-v2.jpg",
+  "local_image_path": "scraped/f8ae17ca7ad9aaf3/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/94a051ed-41b2-5f04-8e97-2aa6c2443f63",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025951-miso-mushroom-and-leek-pasta",
+        "@type": "WebPage",
+        "name": "Miso Mushroom and Leek Pasta "
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025951-miso-mushroom-and-leek-pasta",
+      "name": "Miso Mushroom and Leek Pasta ",
+      "description": "Alchemy is at play here with the delightful union of miso and sherry vinegar, both working to amplify mushroom’s savory, umami notes, and create a rich, layered pasta in just over 30 minutes. Sautéed leeks and mushrooms form the core flavors of the pasta, but it is the addition of miso that completes the dish: Whisked with the starchy pasta water and grated Parmesan, it forms a quick sauce to coat the noodles. A farro, spelt or whole-wheat pasta would nicely complement the earthy flavors of this dish.",
+      "author": {
+        "@type": "Person",
+        "name": "Yasmin Fahr"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/621583d1-62e5-50b9-b83f-b242ecd82ccd#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/12/multimedia/yf-miso-mushroom-and-leek-pastarex-zqjm/yf-miso-mushroom-and-leek-pastarex-zqjm-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-09-10T16:01:16.038Z",
+          "datePublished": "2024-09-09T19:49:23.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-09T19:49:23.000Z",
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/yf-miso-mushroom-and-leek-pastarex-zqjm/yf-miso-mushroom-and-leek-pastarex-zqjm-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/621583d1-62e5-50b9-b83f-b242ecd82ccd#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/12/multimedia/yf-miso-mushroom-and-leek-pastarex-zqjm/yf-miso-mushroom-and-leek-pastarex-zqjm-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-09-10T16:01:16.038Z",
+          "datePublished": "2024-09-09T19:49:23.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-09T19:49:23.000Z",
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/yf-miso-mushroom-and-leek-pastarex-zqjm/yf-miso-mushroom-and-leek-pastarex-zqjm-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/621583d1-62e5-50b9-b83f-b242ecd82ccd#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/12/multimedia/yf-miso-mushroom-and-leek-pastarex-zqjm/yf-miso-mushroom-and-leek-pastarex-zqjm-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-09-10T16:01:16.038Z",
+          "datePublished": "2024-09-09T19:49:23.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-09T19:49:23.000Z",
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/yf-miso-mushroom-and-leek-pastarex-zqjm/yf-miso-mushroom-and-leek-pastarex-zqjm-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, quick, weeknight, pastas, main course",
+      "keywords": "leek, miso, mushroom, parmesan, red wine vinegar, sherry vinegar, stovetop, ziti, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 3170
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 657,
+        "unsaturatedFatContent": "9 grams",
+        "carbohydrateContent": "96 grams",
+        "cholesterolContent": null,
+        "fatContent": "17 grams",
+        "fiberContent": "6 grams",
+        "proteinContent": "31 grams",
+        "saturatedFatContent": "6 grams",
+        "sodiumContent": "874 milligrams",
+        "sugarContent": "8 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "Salt",
+        "2 tablespoons olive oil, plus more as needed",
+        "2 medium leeks, trimmed, white and light green parts thinly sliced (about 2 cups)",
+        "1 1/2 pounds mushrooms (such as cremini, shiitake and/or oyster mushrooms), stemmed and sliced",
+        "1 pound short pasta, such as ziti or cavatappi",
+        "2 tablespoons white miso",
+        "3/4 cup grated Parmesan, plus more for garnishing",
+        "1 tablespoon sherry or red wine vinegar, plus more to taste",
+        "1 tablespoon chopped parsley leaves and tender stems"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bring a large pot of salted water to a boil."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, heat 2 tablespoons oil in a Dutch oven or deep 12-inch skillet over medium-high until shimmering. Add the leeks, season with salt and cook, stirring often, until softened, about 5 minutes. If they look dry at any point, add a drizzle of oil."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the mushrooms to the leeks, season lightly with salt, and cook, stirring every 2 minutes, until the mushrooms have browned, about 10 minutes. (If they are done before the pasta, then adjust the heat to low.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When the water is ready, add the pasta and cook until al dente. Halfway through the cooking process, reserve 1 cup of water and let cool slightly on the counter. Drain the pasta in a colander and drizzle with olive oil if done before the mushrooms."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When both the mushrooms and pasta are done, stir the miso into the reserved pasta water until mostly dissolved. Add it to the Dutch oven or skillet over medium-high heat along with the pasta, cheese and vinegar, stirring vigorously until a cheesy sauce forms and coats the noodles, 1 to 2 minutes. Remove from the heat and season to taste with more vinegar if needed."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Garnish with the parsley and more cheese; serve with a final drizzle of oil."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-09-12T00:00:00.000Z",
+      "dateModified": "2024-09-12T15:55:23.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gabriela"
+          },
+          "reviewBody": "I couldn't get the cheese/pasta sauce creamy enough to coat all of the pasta.  I had (delicious) creamy cheese clumps.  Great flavor, though.",
+          "datePublished": "2025-05-21T23:57:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Esther"
+          },
+          "reviewBody": "My husband is usually my \"finisher\" and puts the final seasoning in whatever I cook, making it taste good/better. When I asked him to taste this recipe after it was done, he gave it the highest compliment he has given no other dish I've ever made, from NYT or otherwise: \"It's fantastic;\" and then he promptly sat down and ate three bowls.",
+          "datePublished": "2025-05-18T00:58:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bridget"
+          },
+          "reviewBody": "I love this recipe so much. For a creamy, dairy-free version I blend the miso and pasta water with a handful of cashews and nutritional yeast. I also add in some thinly sliced zucchini to up the veggie factor. Make this at least twice a month.",
+          "datePublished": "2025-05-17T18:41:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Roscoesmom"
+          },
+          "reviewBody": "I have made this dish a couple of times.  I use Miso Man brand miso and it is reproducibly good.  Also, as I am dairy intolerant, I leave out the Parmesan so no problems with clumping.  This is a restaurant quality recipe.  I love it!",
+          "datePublished": "2025-05-07T20:58:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jonathan"
+          },
+          "reviewBody": "Turned out great! Lots of flavour. I cooked the pasta in a smaller quantity of water (just enough to cover the pasta) which concentrates the starch in the pasta water and makes for a nice creamy sauce. Important to not salt the water too heavily, as it boils down and concentrates the salt content. Didn’t cook the miso with pasta as directed. Finished the pasta to al dente in the pan with the mushrooms and leeks and a bit of pasta water, then stirred in only half a cup of water mixed with the miso, cheese and parsley off the heat. Will make again.",
+          "datePublished": "2025-05-04T04:14:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca"
+          },
+          "reviewBody": "I’ve made this twice almost as written. I used some Trader Joe’s frozen mixed mushrooms along with fresh. The results were delicious!",
+          "datePublished": "2025-05-04T02:17:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Notjeff"
+          },
+          "reviewBody": "Suggest adding carmelized onion w a little sugar and balsamic. Cook ahead of time and throw in after leaks are cooked",
+          "datePublished": "2025-05-02T01:11:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diane"
+          },
+          "reviewBody": "So easy!  Yes to mushroom bouillon, TJ’s mushroom medley and halved the pasta. Added asparagus. Cooking for one so I also love the leftovers.",
+          "datePublished": "2025-04-30T22:23:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ashley"
+          },
+          "reviewBody": "It was pretty bland and needed something, maybe garlic and more vinegar.",
+          "datePublished": "2025-04-30T01:20:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rana"
+          },
+          "reviewBody": "This was DELICIOUS! Completely agree with others that you can add more ‘stuff’. We didn’t have leeks and used green onions instead. Had a little bit of bacon laying around so diced and cooked that first, then added the sliced mushrooms and finally the green onions. Kept the pieces as uniform as we could. Used a protein pasta that was in the cavatelli family, in terms of shape and size. Kept the rest exactly as the recipe called for.",
+          "datePublished": "2025-04-30T01:35:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura Nak"
+          },
+          "reviewBody": "Outstanding! Simple recipe which has complex enough flavor for serving to company.  My discriminating husband loved it!",
+          "datePublished": "2025-04-27T21:58:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debbie"
+          },
+          "reviewBody": "I used half a pound of pasta, but otherwise followed the recipe. It is easy and tasty.",
+          "datePublished": "2025-04-23T23:01:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ColinC"
+          },
+          "reviewBody": "This was fantastic. As recommended, I browned the mushrooms first, in two batches. Will definitely make again",
+          "datePublished": "2025-04-23T14:46:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MarSon"
+          },
+          "reviewBody": "Made this with chick pea rotini and it burst with flavor! Surprised that quite a few comments labeled this dish as bland, cannot second that at all. I did use way less pasta as I always do when pairing with vegetables. The combination of miso and sherry vinegar made this outstanding. Recipe can easily be tried with other vegetables as well. Love Yasmin Fahr recipes, she deservedly has her own category in my NYT recipe box.",
+          "datePublished": "2025-04-13T17:43:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BorzoiLady"
+          },
+          "reviewBody": "I added a pound of fresh asparagus, cut in lengths to match the pasta size, and cooked it with the pasta for the last 2-3 minutes, depending on the diameter.\nYummmmy",
+          "datePublished": "2025-04-09T20:39:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sillyme"
+          },
+          "reviewBody": "For Mel M et al.: If you want dryer, crisper, crustier mushrooms without the wateriness, the general instruction these days is to cook them first--no salt!--until after they're cooked to your preferred shade of brown. See Ali Slagle's recipe for Sautéed Mushrooms on this website.",
+          "datePublished": "2024-09-26T16:43:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol from Chapel Hill"
+          },
+          "reviewBody": "How can I be the first note for this?! I'm honored. This is seriously one of the best pasta dishes we have ever had. Outstanding. I didn't have sherry vinegar, so used balsamic. Wowzer. Easy too.",
+          "datePublished": "2024-09-22T00:06:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lara"
+          },
+          "reviewBody": "The flavours were great and it was very simple to put together. I love sherry vinegar! That being said, I felt like it was too much pasta and not enough “stuff” so next time I would do more vegetables and 3/4 lb of pasta.",
+          "datePublished": "2024-09-24T02:05:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Beth"
+          },
+          "reviewBody": "Really yummy dish and so easy to make. You could add more mushrooms than the recipe calls for because they cook down so much. Also, I added baby spinach at the end for more fiber. Chicken would also be a great add. Will definitely make again!",
+          "datePublished": "2024-09-22T23:50:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karyn in Berkeley"
+          },
+          "reviewBody": "Several hacks to feed 2 hungry men! No leeks on hand- caramelized 2 large onions. Added TJ frozen mushroom medley to pan.. proceeded with the rest of recipe.. WILL REPEAT OVER AND OVER!!!",
+          "datePublished": "2024-09-26T16:34:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Craig"
+          },
+          "reviewBody": "This was a good, well-flavored dish. Made pretty much as directed, though added a zucchini from the garden which went nicely with the mushrooms and leeks. I found that adding the cheese bit by bit at the very end while stirring vigorously avoided the clumping problem, and produced a nice, creamy sauce. Will make again.",
+          "datePublished": "2024-09-23T02:35:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rach"
+          },
+          "reviewBody": "I added some anchovy paste to the sauce, which gave it a nice balance to the vinegar.",
+          "datePublished": "2024-09-24T19:48:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dspiranesi"
+          },
+          "reviewBody": "It is impossible to have this quantity of mushrooms brown at once. They need to be browned in two separate batches rather than steam. And the leeks with this recipe get destroyed. If I make this again I will brown the mushrooms in two batches then sautt the leeks, add the mushrooms and continue with the recipe as told.",
+          "datePublished": "2024-10-19T21:57:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Louise"
+          },
+          "reviewBody": "Absolutely OUTSTANDING. Followed the recipe but dared to halve it. (Can be tricky to downright dangerous for a sauce). Best pasta I’ve ever made. A woodsy, umami-packed flavour. Mmmmmmm. I used a non-stick pan: for the mushrooms to “roast” (shiitake for me), one MUST leave them alone and stir every 2 minutes, as specified. The parmesan should not clump if semi-evenly distributed and  pasta “tossed” as for a salad, with fork or spatula and wooden spoon. Fantastico! Buon appetito.",
+          "datePublished": "2024-09-28T00:55:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erica H."
+          },
+          "reviewBody": "This seemed like it would be absolutely delicious, but for some reason, it was underwhelming for me and our family. I made it exactly as written, too. I love each of the ingredients in other recipes, but this combo just didn't really shine like so many other NYT recipes I make. I won't make it again.",
+          "datePublished": "2024-09-22T17:49:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mel M"
+          },
+          "reviewBody": "This was pretty good, although it tasted borderline “watery.” I think this might be because I used a larger quantity of regular white mushrooms vs shiitake and oyster mushrooms. This caused the mushrooms to give up a TON of water in the pot, and while I managed to reduce the liquid down, the mushrooms never got as brown as they probably should have. Next time I’ll just stick with the more meaty mushrooms instead of regular supermarket white mushrooms.",
+          "datePublished": "2024-09-25T23:07:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erica"
+          },
+          "reviewBody": "This was great!  However, it needed a LOT more miso & a LOT more vinegar than the recipe called for to stop tasting bland.  I used a combination of sherry & rice vinegar until it tasted right, & got a million compliments on this.",
+          "datePublished": "2024-10-03T01:53:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KJC"
+          },
+          "reviewBody": "Easy and delicious. Made this exactly as written, using a mix of shiitake, oyster, and cremini mushrooms.",
+          "datePublished": "2024-09-22T13:51:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ben from Seattle"
+          },
+          "reviewBody": "I would add another vegetable, like a kale, to add a been more of a balance or to fill it out.",
+          "datePublished": "2024-09-23T02:02:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael"
+          },
+          "reviewBody": "Made this as written, and while good, I will make it differently next time. After softening and drying out the leeks, take them out! Brown the mushrooms on their own, then put the leeks back, and add the pasta and water. Making it as written, the leeks dried out, but then the mushrooms moistened them again, and the pan never dried out enough to brown anything. The \"sauce\" was grey and mushy. Cooking things separately would help.",
+          "datePublished": "2024-11-11T14:53:03.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025951-miso-mushroom-and-leek-pasta",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yasmin Fahr"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "Alchemy is at play here with the delightful union of miso and sherry vinegar, both working to amplify mushroom’s savory, umami notes, and create a rich, layered pasta in just over 30 minutes. Sautéed leeks and mushrooms form the core flavors of the pasta, but it is the addition of miso that completes the dish: Whisked with the starchy pasta water and grated Parmesan, it forms a quick sauce to coat the noodles. A farro, spelt or whole-wheat pasta would nicely complement the earthy flavors of this dish.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Miso Mushroom and Leek Pasta ",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/621583d1-62e5-50b9-b83f-b242ecd82ccd#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/12/multimedia/yf-miso-mushroom-and-leek-pastarex-zqjm/yf-miso-mushroom-and-leek-pastarex-zqjm-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-09-10T16:01:16.038Z",
+          "datePublished": "2024-09-09T19:49:23.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-09T19:49:23.000Z",
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/yf-miso-mushroom-and-leek-pastarex-zqjm/yf-miso-mushroom-and-leek-pastarex-zqjm-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/621583d1-62e5-50b9-b83f-b242ecd82ccd#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/12/multimedia/yf-miso-mushroom-and-leek-pastarex-zqjm/yf-miso-mushroom-and-leek-pastarex-zqjm-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-09-10T16:01:16.038Z",
+          "datePublished": "2024-09-09T19:49:23.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-09T19:49:23.000Z",
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/yf-miso-mushroom-and-leek-pastarex-zqjm/yf-miso-mushroom-and-leek-pastarex-zqjm-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/621583d1-62e5-50b9-b83f-b242ecd82ccd#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/12/multimedia/yf-miso-mushroom-and-leek-pastarex-zqjm/yf-miso-mushroom-and-leek-pastarex-zqjm-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-09-10T16:01:16.038Z",
+          "datePublished": "2024-09-09T19:49:23.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-09T19:49:23.000Z",
+          "url": "https://static01.nyt.com/images/2024/09/12/multimedia/yf-miso-mushroom-and-leek-pastarex-zqjm/yf-miso-mushroom-and-leek-pastarex-zqjm-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025951-miso-mushroom-and-leek-pasta"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:12:38.544Z",
+  "scraping_status": "scraped"
+}

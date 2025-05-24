@@ -1,0 +1,436 @@
+{
+  "id": "c793913b82015e78",
+  "original_url": "https://cooking.nytimes.com/recipes/1024242-merguez-and-kale-pasta",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1024242-merguez-and-kale-pasta",
+  "fetched_title": "Merguez and Kale Pasta Recipe",
+  "main_text_content": "To replicate the fragrant and earthy flavors of merguez, a traditional North African sausage, this recipe calls for browning ground beef with plenty of fennel, cumin and coriander seeds, paprika and dried mint Stirring in a jar of marinara results in a hearty, satisfying sauce much like classic Bolognese but with an added layer of warm, aromatic spices If using store-bought merguez (which is often made with lamb and can be spicy depending on your tolerance), remember to remove the casing",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/9530-lasagna\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2023/08/31/multimedia/RS-Lasagna-hkjl/RS-Lasagna-hkjl-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2023/08/31/multimedia/RS-Lasagna-hkjl/RS-Lasagna-hkjl-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2023/08/31/multimedia/RS-Lasagna-hkjl/RS-Lasagna-hkjl-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2023/08/31/multimedia/RS-Lasagna-hkjl/RS-Lasagna-hkjl-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2023/08/31/multimedia/RS-Lasagna-hkjl/RS-Lasagna-hkjl-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2023/08/31/multimedia/RS-Lasagna-hkjl/RS-Lasagna-hkjl-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2023/08/31/multimedia/RS-Lasagna-hkjl/RS-Lasagna-hkjl-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2023/08/31/multimedia/RS-Lasagna-hkjl/RS-Lasagna-hkjl-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Lasagna</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Regina Schrambling</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/04/18/multimedia/NB-Merguez-and-kale-pasta-hpzt/NB-Merguez-and-kale-pasta-hpzt-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/c793913b82015e78/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/dfccd5a8-a23c-50cf-b839-5faba325fabc",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1024242-merguez-and-kale-pasta",
+        "@type": "WebPage",
+        "name": "Merguez and Kale Pasta"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024242-merguez-and-kale-pasta",
+      "name": "Merguez and Kale Pasta",
+      "description": "To replicate the fragrant and earthy flavors of merguez, a traditional North African sausage, this recipe calls for browning ground beef with plenty of fennel, cumin and coriander seeds, paprika and dried mint. Stirring in a jar of marinara results in a hearty, satisfying sauce much like classic Bolognese but with an added layer of warm, aromatic spices. If using store-bought merguez (which is often made with lamb and can be spicy depending on your tolerance), remember to remove the casing. Ribbon-like pasta shapes like linguine, spaghetti or tagliatelle work best with the sauce, but feel free to use what’s on hand.",
+      "author": {
+        "@type": "Person",
+        "name": "Nargisse Benkabbou"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/56ab5345-36a8-56f6-9022-019775fe6414#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/18/multimedia/NB-Merguez-and-kale-pasta-hpzt/NB-Merguez-and-kale-pasta-hpzt-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-04-18T19:56:20.941Z",
+          "datePublished": "2024-04-18T19:56:20.941Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-18T19:56:20.941Z",
+          "url": "https://static01.nyt.com/images/2024/04/18/multimedia/NB-Merguez-and-kale-pasta-hpzt/NB-Merguez-and-kale-pasta-hpzt-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/56ab5345-36a8-56f6-9022-019775fe6414#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/18/multimedia/NB-Merguez-and-kale-pasta-hpzt/NB-Merguez-and-kale-pasta-hpzt-googleFourByThree.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-04-18T19:56:20.941Z",
+          "datePublished": "2024-04-18T19:56:20.941Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-18T19:56:20.941Z",
+          "url": "https://static01.nyt.com/images/2024/04/18/multimedia/NB-Merguez-and-kale-pasta-hpzt/NB-Merguez-and-kale-pasta-hpzt-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/56ab5345-36a8-56f6-9022-019775fe6414#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/18/multimedia/NB-Merguez-and-kale-pasta-hpzt/NB-Merguez-and-kale-pasta-hpzt-mediumSquareAt3X.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-04-18T19:56:20.941Z",
+          "datePublished": "2024-04-18T19:56:20.941Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-18T19:56:20.941Z",
+          "url": "https://static01.nyt.com/images/2024/04/18/multimedia/NB-Merguez-and-kale-pasta-hpzt/NB-Merguez-and-kale-pasta-hpzt-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT5M",
+      "cookTime": "PT40M",
+      "totalTime": "PT45M",
+      "recipeYield": "6 to 8 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, weeknight, pastas, main course",
+      "keywords": "budget, coriander seed, cumin seed, fennel seed, ground beef, kale, linguine, marinara sauce, stovetop, sweet paprika",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 80
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 492,
+        "unsaturatedFatContent": "14 grams",
+        "carbohydrateContent": "53 grams",
+        "cholesterolContent": null,
+        "fatContent": "23 grams",
+        "fiberContent": "5 grams",
+        "proteinContent": "19 grams",
+        "saturatedFatContent": "6 grams",
+        "sodiumContent": "487 milligrams",
+        "sugarContent": "7 grams",
+        "transFatContent": "1 gram"
+      },
+      "recipeIngredient": [
+        "1 tablespoon fennel seeds",
+        "1 tablespoon cumin seeds",
+        "1 tablespoon coriander seeds",
+        "5 tablespoons olive oil",
+        "1 pound ground beef, at least 20-percent fat",
+        "3 garlic cloves, grated ",
+        "2 tablespoons finely chopped fresh cilantro ",
+        "2 ½ tablespoons sweet paprika",
+        "1 tablespoon granulated sugar",
+        "1 tablespoon dried mint",
+        "Fine sea salt ",
+        "Ground black pepper",
+        "5 cups coarsely chopped kale leaves",
+        "2 cups store-bought or homemade marinara sauce",
+        "1 pound dry linguine ",
+        "Grated or shredded Parmesan for serving "
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Toast the fennel, cumin and coriander seeds in a dry frying pan over medium for about 3 minutes or until fragrant; transfer to a plate to cool. Pour seeds into a spice (or coffee) grinder or mortar to finely grind the seeds. Set aside until ready to use. You can prepare this mixture in advance and keep it in a container for up to 7 days. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oil in a large pot over medium-high. Add the beef, ground fennel, cumin and coriander mixture, garlic, cilantro, paprika, sugar, mint, 1 1/4 teaspoons salt and 1/4 teaspoon pepper. Cook, breaking up the meat with a wooden spoon, for about 7 minutes or until it is no longer pink. Add the kale and 3 tablespoons of water. Cook, stirring to combine, for about 5 minutes or until the kale begins to soften. Add the marinara and leave to cook for about 10 minutes, stirring occasionally and reducing heat if sauce begins to boil."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, cook the pasta: Place a large pot of water over high heat, add 1 tablespoon salt and bring to a boil. Cook the pasta until almost al dente, reserving 1 cup of cooking water, and drain."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour the pasta into the sauce pot. Stir to combine, adding a couple tablespoons of cooking water at a time until the sauce nicely coats the pasta. Remove from heat, taste and season with salt and serve, with Parmesan on side, right away."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-04-19T00:00:00.000Z",
+      "dateModified": "2024-04-19T16:17:10.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MJ"
+          },
+          "reviewBody": "I made this from start to finish including making the marinara from scratch in 40 minutes. I think if you already had the marinara made and have more than 2 burners so you can boil the pasta while the sauce is cooking, you can slim this down to a tight 30! Is it my most favoritest pasta dish ever? No. Is it tasty, warming on a cool winter evening, and surprisingly fast? Yes yes and yes.",
+          "datePublished": "2025-03-04T02:23:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gary -"
+          },
+          "reviewBody": "Delicious! Made it with spaghetti squash grater than pasta - turned out great. Will make again",
+          "datePublished": "2025-02-18T19:14:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam"
+          },
+          "reviewBody": "Made tiny adjustments and it was wonderful. Ended up using 3/4lb of kale, tomato basil sauce instead of marinara (same ingredients, more basil), scant tbsp cumin seeds, and ground the spices in my food processor as I am now ordering a spice grinder. Such a great combo of flavors. Adding this to my rotation!",
+          "datePublished": "2025-02-10T23:34:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kay"
+          },
+          "reviewBody": "Love this recipe! A great alternative to our standard weeknight rotation of spaghetti with marina. \n\nOne note: step 1 largely comes together in the amount of time it takes for water to come to boil, and then the pasta I typically get takes ten minutes to cook. I always start the water to boil before cooking anything else, drop the pasta when you are waiting on the ten minutes of sauce simmer time. Then pasta and sauce finish together right at the same time!",
+          "datePublished": "2024-08-21T22:18:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jtshome"
+          },
+          "reviewBody": "I’d like to try this as written, but my wife is vegetarian so I substituted an excellent mix of mushrooms I was fortunate to find at the farmers market in Carlsbad CA. Rather than canned marinara I prepared the simple but better recipe from NYTimes. Prepped mushrooms first with dry heated sauté pan then a little butter, olive oil, garlic. My conclusion from this experiment is that this recipe provides some great ideas to make a hearty, tomato based pasta sauce with a novel flavor profile.",
+          "datePublished": "2024-06-07T10:14:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chels"
+          },
+          "reviewBody": "Used 3 cups of marinara and an extra tablespoon of sugar, reduced the salt a little and skipped the Parmesan and found it perfectly met the description of the recipe as a Bolognese with extra warmth. The kale looks like a lot, but I’ll double it next time. Passes the next day leftover test re-heated with some saved pasta water.",
+          "datePublished": "2024-05-13T17:04:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cheryl"
+          },
+          "reviewBody": "Agree that it was too salty...otherwise delicious!  My husband asked that it be a \"keeper!\"",
+          "datePublished": "2024-05-09T21:38:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "I have the same question but it's dinner time so I'll try it with Merguez and maybe some added paprika and see what happens!",
+          "datePublished": "2024-11-13T02:10:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sparky"
+          },
+          "reviewBody": "Am I correct in omitting the fennel, cumin, coriander seeds, paprika and dried mint if using Merguez and keeping the garlic and sugar?",
+          "datePublished": "2024-05-08T16:53:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lucky Peach"
+          },
+          "reviewBody": "I had ground lamb on hand so I used that and no mint so I just doubled up on the cilantro (which I probably would have done anyways - I love cilantro). Otherwise I pretty much followed the recipe as written. Delicious. Will definitely make this again.",
+          "datePublished": "2024-04-28T00:33:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Don"
+          },
+          "reviewBody": "For a tad healthier, I doubled the meat (15% fat, not greasy), increased the spices by a multiple of 1/2 except for the sweet paprika added 1 Tbsp smoked paprika, nixed the sugar (there is plenty in the marinara), reduced salt to my taste, doubled the kale, used chickpea fusilli (put it in at the end and be gentle when stirring, it is fragile), added more water along the way, and skipped the parmesan.  The family loves it--we try Mediterranean foods frequently and appreciate the forward spices.",
+          "datePublished": "2024-04-24T04:30:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chels"
+          },
+          "reviewBody": "Used 3 cups of marinara and an extra tablespoon of sugar, reduced the salt a little and skipped the Parmesan and found it perfectly met the description of the recipe as a Bolognese with extra warmth. The kale looks like a lot, but I’ll double it next time. Passes the next day leftover test re-heated with some saved pasta water.",
+          "datePublished": "2024-05-13T17:04:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Don"
+          },
+          "reviewBody": "For a tad healthier, I doubled the meat (15% fat, not greasy), increased the spices by a multiple of 1/2 except for the sweet paprika added 1 Tbsp smoked paprika, nixed the sugar (there is plenty in the marinara), reduced salt to my taste, doubled the kale, used chickpea fusilli (put it in at the end and be gentle when stirring, it is fragile), added more water along the way, and skipped the parmesan.  The family loves it--we try Mediterranean foods frequently and appreciate the forward spices.",
+          "datePublished": "2024-04-24T04:30:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jtshome"
+          },
+          "reviewBody": "I’d like to try this as written, but my wife is vegetarian so I substituted an excellent mix of mushrooms I was fortunate to find at the farmers market in Carlsbad CA. Rather than canned marinara I prepared the simple but better recipe from NYTimes. Prepped mushrooms first with dry heated sauté pan then a little butter, olive oil, garlic. My conclusion from this experiment is that this recipe provides some great ideas to make a hearty, tomato based pasta sauce with a novel flavor profile.",
+          "datePublished": "2024-06-07T10:14:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kay"
+          },
+          "reviewBody": "Love this recipe! A great alternative to our standard weeknight rotation of spaghetti with marina. \n\nOne note: step 1 largely comes together in the amount of time it takes for water to come to boil, and then the pasta I typically get takes ten minutes to cook. I always start the water to boil before cooking anything else, drop the pasta when you are waiting on the ten minutes of sauce simmer time. Then pasta and sauce finish together right at the same time!",
+          "datePublished": "2024-08-21T22:18:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lucky Peach"
+          },
+          "reviewBody": "I had ground lamb on hand so I used that and no mint so I just doubled up on the cilantro (which I probably would have done anyways - I love cilantro). Otherwise I pretty much followed the recipe as written. Delicious. Will definitely make this again.",
+          "datePublished": "2024-04-28T00:33:37.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1024242-merguez-and-kale-pasta",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Nargisse Benkabbou"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "To replicate the fragrant and earthy flavors of merguez, a traditional North African sausage, this recipe calls for browning ground beef with plenty of fennel, cumin and coriander seeds, paprika and dried mint. Stirring in a jar of marinara results in a hearty, satisfying sauce much like classic Bolognese but with an added layer of warm, aromatic spices. If using store-bought merguez (which is often made with lamb and can be spicy depending on your tolerance), remember to remove the casing. Ribbon-like pasta shapes like linguine, spaghetti or tagliatelle work best with the sauce, but feel free to use what’s on hand.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Merguez and Kale Pasta",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/56ab5345-36a8-56f6-9022-019775fe6414#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/18/multimedia/NB-Merguez-and-kale-pasta-hpzt/NB-Merguez-and-kale-pasta-hpzt-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-04-18T19:56:20.941Z",
+          "datePublished": "2024-04-18T19:56:20.941Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-18T19:56:20.941Z",
+          "url": "https://static01.nyt.com/images/2024/04/18/multimedia/NB-Merguez-and-kale-pasta-hpzt/NB-Merguez-and-kale-pasta-hpzt-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/56ab5345-36a8-56f6-9022-019775fe6414#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/18/multimedia/NB-Merguez-and-kale-pasta-hpzt/NB-Merguez-and-kale-pasta-hpzt-googleFourByThree.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-04-18T19:56:20.941Z",
+          "datePublished": "2024-04-18T19:56:20.941Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-18T19:56:20.941Z",
+          "url": "https://static01.nyt.com/images/2024/04/18/multimedia/NB-Merguez-and-kale-pasta-hpzt/NB-Merguez-and-kale-pasta-hpzt-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/56ab5345-36a8-56f6-9022-019775fe6414#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/18/multimedia/NB-Merguez-and-kale-pasta-hpzt/NB-Merguez-and-kale-pasta-hpzt-mediumSquareAt3X.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-04-18T19:56:20.941Z",
+          "datePublished": "2024-04-18T19:56:20.941Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-18T19:56:20.941Z",
+          "url": "https://static01.nyt.com/images/2024/04/18/multimedia/NB-Merguez-and-kale-pasta-hpzt/NB-Merguez-and-kale-pasta-hpzt-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024242-merguez-and-kale-pasta"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:09:51.678Z",
+  "scraping_status": "scraped"
+}

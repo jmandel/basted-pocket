@@ -1,0 +1,565 @@
+{
+  "id": "1a5a77516427070d",
+  "original_url": "https://cooking.nytimes.com/recipes/1024295-gingery-meatballs-in-tomato-sauce",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1024295-gingery-meatballs-in-tomato-sauce",
+  "fetched_title": "Gingery Meatballs in Tomato Sauce Recipe",
+  "main_text_content": "Most meatballs in tomato sauce rely on canned tomatoes for the kind of heady, garlicky recipe that’s typically spooned over spaghetti But this recipe is made from briefly cooked fresh tomatoes for something lighter and brighter, seasoned with ginger, cilantro, lime juice and a dusting of cumin It’s a perfect place to use up those overripe summer tomatoes, and it works well with just-ripe tomatoes, too",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1018723-turkey-meatballs-in-tomato-sauce\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2020/10/25/dining/23sauce/14COOKING-TURKEY-MEATBALL-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2020/10/25/dining/23sauce/14COOKING-TURKEY-MEATBALL-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2020/10/25/dining/23sauce/14COOKING-TURKEY-MEATBALL-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2020/10/25/dining/23sauce/14COOKING-TURKEY-MEATBALL-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2020/10/25/dining/23sauce/14COOKING-TURKEY-MEATBALL-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2020/10/25/dining/23sauce/14COOKING-TURKEY-MEATBALL-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2020/10/25/dining/23sauce/14COOKING-TURKEY-MEATBALL-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2020/10/25/dining/23sauce/14COOKING-TURKEY-MEATBALL-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Turkey Meatballs in Tomato Sauce</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/06/21/multimedia/14appetite-meatballs-kvqt/14appetite-meatballs-kvqt-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/1a5a77516427070d/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/ca8e36ad-9099-560b-9d1a-803f53dbf16a",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1024295-gingery-meatballs-in-tomato-sauce",
+        "@type": "WebPage",
+        "name": "Gingery Meatballs in Tomato Sauce"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024295-gingery-meatballs-in-tomato-sauce",
+      "name": "Gingery Meatballs in Tomato Sauce",
+      "description": "Most meatballs in tomato sauce rely on canned tomatoes for the kind of heady, garlicky recipe that’s typically spooned over spaghetti. But this recipe is made from briefly cooked fresh tomatoes for something lighter and brighter, seasoned with ginger, cilantro, lime juice and a dusting of cumin. It’s a perfect place to use up those overripe summer tomatoes, and it works well with just-ripe tomatoes, too. Feel free to use any kind of ground meat here: pork, beef, turkey, chicken, lamb or vegan meat. Then, serve it with crusty bread or rice to catch all of the zippy, fragrant sauce.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/7eab7f3d-f5cd-542d-8b65-acd1c856df2a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Any kind of ground meat can step in for this recipe: pork, chicken, vegan meat. Use whatever you like.",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/21/multimedia/14appetite-meatballs-kvqt/14appetite-meatballs-kvqt-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2023-06-14T16:59:39.646Z",
+          "datePublished": "2023-06-14T16:59:39.646Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-14T16:59:39.646Z",
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/14appetite-meatballs-kvqt/14appetite-meatballs-kvqt-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/7eab7f3d-f5cd-542d-8b65-acd1c856df2a#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Any kind of ground meat can step in for this recipe: pork, chicken, vegan meat. Use whatever you like.",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/21/multimedia/14appetite-meatballs-kvqt/14appetite-meatballs-kvqt-superJumbo.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2023-06-14T16:59:39.646Z",
+          "datePublished": "2023-06-14T16:59:39.646Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-14T16:59:39.646Z",
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/14appetite-meatballs-kvqt/14appetite-meatballs-kvqt-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/7eab7f3d-f5cd-542d-8b65-acd1c856df2a#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "caption": "Any kind of ground meat can step in for this recipe: pork, chicken, vegan meat. Use whatever you like.",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/21/multimedia/14appetite-meatballs-kvqt/14appetite-meatballs-kvqt-mediumSquareAt3X.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2023-06-14T16:59:39.646Z",
+          "datePublished": "2023-06-14T16:59:39.646Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-14T16:59:39.646Z",
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/14appetite-meatballs-kvqt/14appetite-meatballs-kvqt-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, weeknight, meatballs, main course",
+      "keywords": "fresh ginger, ground beef, ground chicken, ground lamb, ground pork, ground turkey, panko, stovetop, tomato, summer",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 1299
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 416,
+        "unsaturatedFatContent": "19 grams",
+        "carbohydrateContent": "13 grams",
+        "cholesterolContent": null,
+        "fatContent": "31 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "21 grams",
+        "saturatedFatContent": "10 grams",
+        "sodiumContent": "560 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 tablespoons finely grated or minced fresh ginger",
+        "3 garlic cloves, finely grated or minced",
+        "1 teaspoon ground cumin, more for serving",
+        "1 teaspoon fine sea or table salt, more as needed",
+        "1/2 teaspoon ground coriander",
+        "1 pound ground pork (or turkey, chicken, beef, lamb or vegan meat)",
+        "1/2 cup panko bread crumbs (or use plain)",
+        "2 tablespoons finely chopped fresh cilantro leaves and tender stems, more for serving",
+        "2 tablespoons extra-virgin olive oil",
+        "2 cups diced fresh ripe or overripe tomatoes",
+        "1 teaspoon fish sauce or soy sauce",
+        "4 scallions, thinly sliced",
+        "1 lime, halved"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large bowl, mix together 1 tablespoon ginger, the garlic, cumin, salt and coriander. Add pork, panko and cilantro. Using your hands, gently mix everything together, making sure not to overwork the mixture. (Otherwise, the meatballs get tough.) Form into 1 1/4-inch balls."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat a large skillet over medium-high, then add the oil and let it heat up until it thins out. Add meatballs in one layer. Cook, turning and shaking the pan, until meatballs are browned all over, 5 to 7 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Move meatballs to one side of the pan, scraping up any browned bits. Add the remaining 1 tablespoon ginger to the empty side of the pan and sauté for 1 minute. Add tomatoes, fish sauce and a pinch of salt to the empty side of the pan. When tomatoes are simmering, cover the pan, lower the heat to medium, and let cook until the meatballs are no longer pink at the center, about 5 to 8 minutes longer."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Uncover the pan. Mix the scallions into the sauce. Squeeze lime juice all over everything, then stir together. Taste, and add salt and lime juice as needed. Serve the meatballs sprinkled with more cumin and topped with cilantro."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-06-14T00:00:00.000Z",
+      "dateModified": "2023-10-12T16:58:44.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JD"
+          },
+          "reviewBody": "made this with turkey, turned out great. I used fresh cherry tomatoes, but a small box would have also been fine! next time I may do this with a 28oz can for even more sauce. I didnt have cilantro and it was still ok! used lots of lime juice.",
+          "datePublished": "2025-05-10T00:31:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debbie"
+          },
+          "reviewBody": "I have made this with beef, turkey, and pork. My personal favorite is the turkey. The light tomato sauce is so yummy with the turkey. I follow the recipe, using the soy sauce option, and I’ve never had trouble with the meatball sticking. I think that’s because I also follow her advice to heat the skillet and then add the oil and let it spread.",
+          "datePublished": "2025-05-04T12:50:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elena"
+          },
+          "reviewBody": "Great recipe! I added mushrooms in with the tomatoes since I had them on hand. Also substituted ground turkey and soy sauce and it turned out great!",
+          "datePublished": "2025-04-22T00:44:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa G"
+          },
+          "reviewBody": "Outstanding.  I made some additions like roasted pine nuts, chili crisp and and egg but the flavors were just perfect.  I also put the scallions into the meatballs. Used fresh summer tomatoes that had been roasted and frozen for a simple sauce.  Rice, green beans and salad.  What a wonderful meal!\nA new addition to the meatball repertoire!",
+          "datePublished": "2025-04-10T12:23:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bethany"
+          },
+          "reviewBody": "I was pleasantly surprised to make this in a 1/2 hour while prepping kids’ dinner at the same time. Accidentally put some fish sauce in the meatballs and it wasn’t too bad. I used ground chicken. I think I’ll take someone’s tip on adding some tomato paste in there and possibly some coconut milk. I felt like it needed more fat. I definitely like the idea of throwing in some beans too. Nice recipe. Nice and different.",
+          "datePublished": "2025-02-25T00:15:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "klo"
+          },
+          "reviewBody": "Very good and easy. Used beef but I'll try pork or chicken next time\nUsed canned diced tomatoes and the soy sauce option. I like the idea someone mentioned about throwing in some coconut. \nthe twelve year old gobbled them up!",
+          "datePublished": "2025-02-20T04:50:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erica"
+          },
+          "reviewBody": "Absolute winner! Turns ground poultry into something we squabble over rather than \"it's healthy, should eat it.\" And when I make it with ground lamb (or lamb-turkey combo), I have to triple the recipe and fight my teenagers for the leftovers. This is going to be a go-to for many years!\n(Use the fish sauce, and don't skimp, especially if you're using poultry!)",
+          "datePublished": "2025-02-10T17:10:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Margarita"
+          },
+          "reviewBody": "Simple, quick and delicious. I chose pork for meatballs. Next time I will double tomato sauce. Will definitely make again!",
+          "datePublished": "2025-02-03T22:46:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Zeldie"
+          },
+          "reviewBody": "Love this recipe and have shared it many times either w beef or chicken (dark and white meat). I use parsley and cilantro w a few basil leaves blitzed in my mini food processor.  I Don’t use any crumbs and the meat stays in little balls .  just shape w damp hands and let it rest a bit.  I use the oval Roma tomatoes which are always available. sometimes bland so I add a bit of brown sugar and a squeeze of tomato taste.",
+          "datePublished": "2025-01-31T05:10:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Haley"
+          },
+          "reviewBody": "Delicious-made this during the winter and didn’t have any good tomatoes available, so I subbed a can of diced tomatoes. Did the job perfectly!",
+          "datePublished": "2025-01-12T01:33:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "VeggieMama89"
+          },
+          "reviewBody": "Added a grated zucchini to the meatball for an added veggie. These meatballs are tasty and easy. You could also added a grated carrot for more added veggies!",
+          "datePublished": "2025-01-05T23:30:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Claire"
+          },
+          "reviewBody": "Add 1 egg to meat mixture. For sauce, add 1 tsp fish sauce, 1 tsp soy sauce, and a splash of chicken broth",
+          "datePublished": "2024-12-19T16:33:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kat Jardine"
+          },
+          "reviewBody": "Made exactly as posted except added 1 egg for texture.  Very tasty and a good alternative to a classic Italian meatball.  Tasted quite gingery which we liked.  I think the proportions as written really only served 3.  We each had 5 or 6, inch and a quarter meatballs.  Served over rice pilaf which worked well with it.  I only gave it 4 because we would all be happy to eat it again but it’s not craveable.  Next time we might serve it with a dollop of fresh ricotta or chopped up ricotta salata in the center of the rice.  This might elevate the dish to a 5.",
+          "datePublished": "2024-11-08T00:46:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Colleen"
+          },
+          "reviewBody": "I accidentally put both tablespoons of ginger in the meatballs - but we loved them, so I’ll do that on purpose next time! I caught my mistake in time to make the sauce and grated more for it. Only had enough fresh tomatoes for one cup, so I used Trader Joe’s fire roasted tomatoes for the second cup. I served the meatballs and sauce over rice, with a tossed salad. Delicious! Adding this to our rotation.",
+          "datePublished": "2024-11-06T01:17:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FF"
+          },
+          "reviewBody": "Made this with ground pork, fresh tomatoes and a little less fish sauce. Turned out fabulous.",
+          "datePublished": "2024-11-04T16:33:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Beth"
+          },
+          "reviewBody": "Made it as the recipe was written. Used soy sauce option.  Absolutely delicious!  Easy to make. Was able to use a surplus of garden tomatoes in this dish. Will be putting it into regular rotation.",
+          "datePublished": "2023-06-17T02:38:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brie"
+          },
+          "reviewBody": "Flat leaf parsley. It looks almost identical and will give an herby flavor without the soapy taste cilantro gives off to certain individuals. I would just double the quantity as parsley has a much milder flavor\\herby-ness than cilantro.",
+          "datePublished": "2023-06-19T16:53:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Irving"
+          },
+          "reviewBody": "I would think an egg mixed in the meatballs would make them more tender and hold together better.",
+          "datePublished": "2023-06-19T16:26:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AEG"
+          },
+          "reviewBody": "Or, try putting the meat mixture into the fridge for a little while, then roll the balls with wet hands and cook before they get all soft again. haven’t made this recipe but that’s what I do when my meatballs crumble.",
+          "datePublished": "2023-06-15T19:00:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bree"
+          },
+          "reviewBody": "It's June and I'm in NJ so I don't have summer tomatoes just yet. I do have an impulse buy of way too many Costco roasted tomato packets that were loudly shaming me with their best by date. Happened to have started to make meatballs when seeing this and also happened to have all the other ingredients on hand. Took that as a sign. Voila, dinner we both enjoyed. Thanks, Melissa.",
+          "datePublished": "2023-06-14T22:09:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mimi"
+          },
+          "reviewBody": "I like making meatballs ahead to allow flavors to meld, and I’d make it through step 3 and then fridge it. I’d finish it up by reheating and doing step 4 when I actually wanted to eat them.",
+          "datePublished": "2023-06-15T00:35:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Caty C"
+          },
+          "reviewBody": "Made this tonight and it was delicious. Used ground turkey and threw the balls in the freezer for a few minutes to firm up. They browned up beautifully and didn’t fall apart. Used the full amount of freshly grated ginger and thought it was perfect. Served with basmati rice - very good!",
+          "datePublished": "2023-06-19T23:56:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Balthazar Sims"
+          },
+          "reviewBody": "Using panko bread crumbs in a ground meat recipe is like using castor sugar in a sauce: It's a showy way to accomplish nothing. Once they absorb liquids and cook in the dish, they break down completely. They cost a lot more, so why not use them where they count? Kind of like using Malton salt flakes in a soup. Do the experiments yourself, and if you can tell the difference in a meatball, then hats off to you.",
+          "datePublished": "2023-06-21T01:38:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "The best way to \"gently mix everything together, making sure not to overwork the mixture. (Otherwise, the meatballs get tough.)\" is to use a Danish dough whisk. I made 6 little \"burgers\" from this mixture and 2 greedy people enjoyed 4 for dinner and 2 for lunch the next day.",
+          "datePublished": "2023-06-19T18:33:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aimée Ross"
+          },
+          "reviewBody": "Delicious!!!!   I made them with ground chicken and less oil in the pan and added a very small egg but otherwise stuck to the recipe - no very ripe tomatoes so used a 14 ounce can of chopped tomatoes and it came out great.  So tasty and light.  A keeper for sure",
+          "datePublished": "2023-06-21T23:52:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julia Gould"
+          },
+          "reviewBody": "I am going to try it with mint.",
+          "datePublished": "2023-06-19T16:50:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Valerie"
+          },
+          "reviewBody": "Can this recipe be made ahead and reheated?",
+          "datePublished": "2023-06-14T22:25:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne B"
+          },
+          "reviewBody": "I made this exactly as written—with pork and fish sauce. It was great. I refrigerated the meatballs for a couple of hours before cooking them, although I am not sure this is necessary. I don't think it would work well with anything but pork. Really good tomatoes, lots of fresh ginger, and a bunch of fresh cilantro seem to be key.",
+          "datePublished": "2023-06-19T01:58:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ron"
+          },
+          "reviewBody": "This turned out great with turkey. Followed as written, but went wild and used 1 t fish sauce plus 1 t soy sauce. Wonderful recipe and will definitely repeat.",
+          "datePublished": "2023-06-20T02:08:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maureen"
+          },
+          "reviewBody": "Delicious - I finished through step three and then reheated about 2 hours later. The tomatoes had really cooked down and were delicious, but I would not hesitate to add more tomatoes for more sauce.",
+          "datePublished": "2023-06-20T15:28:24.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1024295-gingery-meatballs-in-tomato-sauce",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "Most meatballs in tomato sauce rely on canned tomatoes for the kind of heady, garlicky recipe that’s typically spooned over spaghetti. But this recipe is made from briefly cooked fresh tomatoes for something lighter and brighter, seasoned with ginger, cilantro, lime juice and a dusting of cumin. It’s a perfect place to use up those overripe summer tomatoes, and it works well with just-ripe tomatoes, too. Feel free to use any kind of ground meat here: pork, beef, turkey, chicken, lamb or vegan meat. Then, serve it with crusty bread or rice to catch all of the zippy, fragrant sauce.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Gingery Meatballs in Tomato Sauce",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/7eab7f3d-f5cd-542d-8b65-acd1c856df2a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Any kind of ground meat can step in for this recipe: pork, chicken, vegan meat. Use whatever you like.",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/21/multimedia/14appetite-meatballs-kvqt/14appetite-meatballs-kvqt-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2023-06-14T16:59:39.646Z",
+          "datePublished": "2023-06-14T16:59:39.646Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-14T16:59:39.646Z",
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/14appetite-meatballs-kvqt/14appetite-meatballs-kvqt-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/7eab7f3d-f5cd-542d-8b65-acd1c856df2a#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Any kind of ground meat can step in for this recipe: pork, chicken, vegan meat. Use whatever you like.",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/21/multimedia/14appetite-meatballs-kvqt/14appetite-meatballs-kvqt-superJumbo.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2023-06-14T16:59:39.646Z",
+          "datePublished": "2023-06-14T16:59:39.646Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-14T16:59:39.646Z",
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/14appetite-meatballs-kvqt/14appetite-meatballs-kvqt-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/7eab7f3d-f5cd-542d-8b65-acd1c856df2a#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "caption": "Any kind of ground meat can step in for this recipe: pork, chicken, vegan meat. Use whatever you like.",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/21/multimedia/14appetite-meatballs-kvqt/14appetite-meatballs-kvqt-mediumSquareAt3X.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2023-06-14T16:59:39.646Z",
+          "datePublished": "2023-06-14T16:59:39.646Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-14T16:59:39.646Z",
+          "url": "https://static01.nyt.com/images/2023/06/21/multimedia/14appetite-meatballs-kvqt/14appetite-meatballs-kvqt-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024295-gingery-meatballs-in-tomato-sauce"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:08:23.152Z",
+  "scraping_status": "scraped"
+}

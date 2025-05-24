@@ -1,0 +1,559 @@
+{
+  "id": "ca384ea5a8eb8eeb",
+  "original_url": "https://cooking.nytimes.com/recipes/1022719-moroccan-spiced-chicken-meatballs",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1022719-moroccan-spiced-chicken-meatballs",
+  "fetched_title": "Moroccan-Spiced Chicken Meatballs Recipe",
+  "main_text_content": "Chicken meatballs may not be a traditionally Moroccan dish, but they work beautifully when spiced with paprika, cumin, cinnamon, ginger and garlic, which are commonly found in the country’s cuisine Whole-milk yogurt does double duty here: It’s used to make the meatballs moist and tender, and makes for a speedy sauce to serve with them Don’t use ground chicken made with ultralean breasts; look for labels that show a mix of white and dark meat",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025342-one-pot-chicken-meatballs-with-greens\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"A large white bowl holds chicken meatballs with rainbow chard and lemon slices.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">One-Pot Chicken Meatballs With Greens </p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Yasmin Fahr</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/11/01/dining/lh-moroccan-chicken-meatballs/merlin_195006738_f4dc78be-a3d4-43ef-a902-69069e4bc75f-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/ca384ea5a8eb8eeb/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/d3480ac9-73fe-5dc2-a8c7-4703fb0f48eb",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1022719-moroccan-spiced-chicken-meatballs",
+        "@type": "WebPage",
+        "name": "Moroccan-Spiced Chicken Meatballs"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022719-moroccan-spiced-chicken-meatballs",
+      "name": "Moroccan-Spiced Chicken Meatballs",
+      "description": "Chicken meatballs may not be a traditionally Moroccan dish, but they work beautifully when spiced with paprika, cumin, cinnamon, ginger and garlic, which are commonly found in the country’s cuisine. Whole-milk yogurt does double duty here: It’s used to make the meatballs moist and tender, and makes for a speedy sauce to serve with them. Don’t use ground chicken made with ultralean breasts; look for labels that show a mix of white and dark meat. (Or if you’re feeling ambitious, grind your own boneless, skinless chicken thighs in the food processor.) Serve the meatballs with couscous and a green vegetable for a flavorful weeknight dinner that’s well worth the effort.",
+      "author": {
+        "@type": "Person",
+        "name": "Lidey Heuck"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/1dcc18c3-1324-559d-b2fb-759f7faf16b4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/11/01/dining/lh-moroccan-chicken-meatballs/merlin_195006738_f4dc78be-a3d4-43ef-a902-69069e4bc75f-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Kate Sears for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2021-11-02T17:04:21.384Z",
+          "datePublished": "2021-11-02T17:04:21.384Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-02T17:04:21.384Z",
+          "url": "https://static01.nyt.com/images/2021/11/01/dining/lh-moroccan-chicken-meatballs/merlin_195006738_f4dc78be-a3d4-43ef-a902-69069e4bc75f-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/1dcc18c3-1324-559d-b2fb-759f7faf16b4#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/11/01/dining/lh-moroccan-chicken-meatballs/merlin_195006738_f4dc78be-a3d4-43ef-a902-69069e4bc75f-superJumbo.jpg",
+          "creditText": "Kate Sears for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2021-11-02T17:04:21.384Z",
+          "datePublished": "2021-11-02T17:04:21.384Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-02T17:04:21.384Z",
+          "url": "https://static01.nyt.com/images/2021/11/01/dining/lh-moroccan-chicken-meatballs/merlin_195006738_f4dc78be-a3d4-43ef-a902-69069e4bc75f-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/1dcc18c3-1324-559d-b2fb-759f7faf16b4#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/11/01/dining/lh-moroccan-chicken-meatballs/lh-moroccan-chicken-meatballs-mediumSquareAt3X.jpg",
+          "creditText": "Kate Sears for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2021-11-02T17:04:21.384Z",
+          "datePublished": "2021-11-02T17:04:21.384Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-02T17:04:21.384Z",
+          "url": "https://static01.nyt.com/images/2021/11/01/dining/lh-moroccan-chicken-meatballs/lh-moroccan-chicken-meatballs-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings ",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, weeknight, poultry, main course",
+      "keywords": "chicken, cinnamon, cumin, ginger, panko, yogurt",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 2932
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 344,
+        "unsaturatedFatContent": "14 grams",
+        "carbohydrateContent": "14 grams",
+        "cholesterolContent": null,
+        "fatContent": "21 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "26 grams",
+        "saturatedFatContent": "6 grams",
+        "sodiumContent": "549 milligrams",
+        "sugarContent": "6 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 1/3 cups plain whole-milk yogurt",
+        "1 tablespoon, plus 1 teaspoon minced or grated garlic (about 4 cloves) ",
+        "2 teaspoons lemon juice (from 1 lemon)",
+        "Kosher salt and black pepper",
+        "1 pound ground chicken (not 100 percent breast meat) ",
+        "1/2 cup panko bread crumbs",
+        "1 large egg, lightly beaten",
+        "3 tablespoons minced fresh parsley, plus more for serving",
+        "1 tablespoon olive oil, plus more for frying ",
+        "1 teaspoon light brown or granulated sugar ",
+        "1 teaspoon sweet paprika",
+        "1/2 teaspoon ground cumin ",
+        "1/2 teaspoon ground ginger ",
+        "1/4 teaspoon ground cinnamon",
+        "3 tablespoons toasted pine nuts (optional) "
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "First, make the yogurt sauce: Combine 1 cup of the yogurt, 1 teaspoon of the garlic, the lemon juice, 1/4 teaspoon salt and black pepper to taste in a small bowl. Mix well, and chill until ready to use. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the meatballs: In a large bowl, combine the remaining 1/3 cup yogurt, remaining 1 tablespoon garlic, chicken, panko, egg, parsley, olive oil, sugar, paprika, cumin, ginger, cinnamon, 1 1/2 teaspoons salt and a few generous grinds of black pepper. Mix gently but thoroughly, until incorporated. Using an ice cream scoop or two spoons, form meatballs about 1 1/2-inches in diameter, then place them on a plate or sheet pan until ready to use."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large skillet, heat 1/8-inch olive oil over medium-high heat. When the oil is hot, fry the meatballs in batches, flipping occasionally, until browned all over and cooked through, 4 to 5 minutes. (If the meatballs begin browning too quickly or the oil begins smoking, lower the heat.) Transfer the cooked meatballs to a paper towel-lined plate."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To serve, spread the yogurt sauce in an even layer on a flat platter. Arrange the meatballs on top, and top with a sprinkle of chopped parsley and the pine nuts, if using. Serve hot."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-11-01T00:00:00.000Z",
+      "dateModified": "2021-11-04T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "xteats"
+          },
+          "reviewBody": "These came so good! I had to finish cooking them in the oven to make sure they were cooked all the way through. I didn’t have panko so I used regular seasoned breadcrumbs and the recipe still came delicious!",
+          "datePublished": "2025-05-23T00:01:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sierra"
+          },
+          "reviewBody": "These are amazing!! So moist and flavorful! \n\nI mixed 0.5 lb 93/7 ground turkey with 0.5 lb 99/1 ground chicken to try and get the benefit of the fat but have a slightly higher protein ratio, and it worked really well! \n\nI also used 1 tbsp dried parsley instead of 3 tbsp fresh because I didn’t have fresh on hand and have a hard time using up the rest when I buy a bundle of it.",
+          "datePublished": "2025-05-12T19:23:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenna"
+          },
+          "reviewBody": "Made this recipe and loved it! So delicious. I took the advice of some others and added a bit of Kashmiri chili to the meatball mix, let the garlic sit in lemon juice before adding to yogurt for the dip, and also subbed on some green garlic stalks for parsley (because it was what I had in the fridge). I also opted to bake for 20 mins at 400 and then finished in the broiler.",
+          "datePublished": "2025-05-06T01:07:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Scott"
+          },
+          "reviewBody": "Delicious! Made the dish as outlined. My husband said it was company worth--his highest compliment. It also makes for a beautiful presentation on a platter when served.",
+          "datePublished": "2025-04-30T17:07:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "A.S"
+          },
+          "reviewBody": "This was delicious, made it with turkey, loved it, so easy",
+          "datePublished": "2025-04-27T16:28:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ThatGirlAnna"
+          },
+          "reviewBody": "I made it in a pan like the recipe says, the meatball was too soft. It was a bit like baby food to be honest. The right move is likely to bake them and use less yogurt. Maybe using Greek yogurt was a mistake. It also only a bit flavorful, maybe the yogurt sauce helps (I didn’t make it).",
+          "datePublished": "2025-04-26T01:54:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lucy"
+          },
+          "reviewBody": "@modificatioms I used confited garlic in the sauce and it was very mellow, maybe try that",
+          "datePublished": "2025-03-15T17:33:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carrie"
+          },
+          "reviewBody": "Wow -- this was really good. I took the advice from others and increased the spices (2.5X) and  baked them at 375 for 20 minutes. Turned out perfectly. The yogurt sauce was delicious.  Really impressed with this.",
+          "datePublished": "2025-03-04T03:24:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "acooksud"
+          },
+          "reviewBody": "This was spectacular! I had ground breast on hand and didn’t feel the meatballs were dry at all. I used 1tsp salt and it seemed like enough. I added oil and vinegar to the yogurt sauce to make it more of a dressing to serve the meatballs on a salad.",
+          "datePublished": "2025-02-20T05:55:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JustJayne"
+          },
+          "reviewBody": "I didn't care for the recipe, preferring fresh herbs chopped in and perhaps chicken meatballs aren't my thing.",
+          "datePublished": "2025-02-05T15:25:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kel"
+          },
+          "reviewBody": "I can't do dairy so I just skipped the yogurt sauce and yogurt in the meatballs and they came out great. Swiped hummus on the plate instead of the sauce and it was delicious.",
+          "datePublished": "2025-02-03T21:17:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "aj"
+          },
+          "reviewBody": "baked for 20 @ 400 like many others suggested! \n\nthen browned on high heat in a pan for a few min to get them a bit crispy.\n\nsubbed sweet paprika for chili powder\n\nwould also recommend omitting garlic from the sauce, when you catch a raw piece in your mouth it’s way too strong\n\nserved with some spiced rice & chickpea salad :)",
+          "datePublished": "2025-02-03T04:40:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristina B."
+          },
+          "reviewBody": "This is a staple in my house! I recommend adding chili flakes if you want a little spice. I divide these into 8 large meatballs and bake in the oven at 450 for 10 mins per side, rotating the sheet pan half way through. Tender and perfect and the garlic sauce always gets rave reviews. Even better with some dill and sumas added in. Sometimes I use fresh minced ginger instead of ground, which produces a more ginger-forward flavor.",
+          "datePublished": "2025-01-24T21:34:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robin"
+          },
+          "reviewBody": "Was easy to make and normally we love this kind of meal and flavor profile. I prepared it exactly to recipe but it was totally bland. Will not make again.",
+          "datePublished": "2025-01-20T05:23:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "me"
+          },
+          "reviewBody": "Yummmmm. Subbed cilantro for parsley, chopped pistachios for pine nuts. Baked on a sheet pan with plenty of olive oil (400° convection, 10 min, flip over, 10-12 min more). Cooked onions and peppers at the same time, served on whole wheat tortillas: tortilla, yogurt sauce, peppers/onions, halved meatballs, cilantro, pistachios.",
+          "datePublished": "2025-01-08T00:30:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RPR"
+          },
+          "reviewBody": "Delicious and easy recipe! Instead of frying I baked for 20 min. at 400 and they came out perfectly (and minimized the kitchen mess!). Tossed some zucchini on the same baking sheet and it was an easy side. Flavors are wonderful and this will definitely be a weeknight staple. For those asking about a nondairy alternative to the sauce - I’ve made a coconut yogurt tzatziki before with great success; this is a very similar sauce so it will probably be an easy swap.",
+          "datePublished": "2021-11-08T02:08:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "modificatioms"
+          },
+          "reviewBody": "Recipe came out great as is. A few possible modifications for next time:\nOmit the garlic from the yogurt sauce, it’s really strong.\nBake the meatballs in the oven after browning them  or make them into little patties instead of balls because they took a long time in the pan and got a little too dark. \nServe with lots of fresh mint.",
+          "datePublished": "2021-11-07T15:37:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kevin S"
+          },
+          "reviewBody": "Delicious weeknight meal! We used ground turkey instead of chicken because that’s what we had on hand. Also opted to bake for 20 minutes @ 400° like some others suggested and they turned out great.",
+          "datePublished": "2022-02-08T02:40:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "reviewBody": "I think a tahini and lemon juice sauce would go nicely.",
+          "datePublished": "2021-11-06T00:04:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michelle"
+          },
+          "reviewBody": "Delicious. I baked them, too. Next time, I’m punching up the spice, either cayenne or I’m adding scallions, or both! I had leftover tabouli and tzasziki sauce and made a salad to go with. Pinot blanc is a nice plus ;)",
+          "datePublished": "2021-11-18T02:00:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Miss Pickers"
+          },
+          "reviewBody": "Tahini sauce would be a great alternative as would serving on/with hummus.  Will try as part of a larger mezze platter with tabbouleh, stuffed vine leaves, fattoush etc.",
+          "datePublished": "2021-11-07T12:14:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lori"
+          },
+          "reviewBody": "I substituted tahini for the yogurt and cilantro for the parsley.  The result was delicious.  It’s a keeper!",
+          "datePublished": "2021-11-17T12:34:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "chrissy"
+          },
+          "reviewBody": "This is my new favorite weeknight dinner recipe. \nI used a combination of ground chicken and turkey and they turned out incredible. \n\nAs always, I double the amount of prescribed spices. You definitely want the cinnamon to come through on this one. \n\nI doubled the recipe for 5 people and had some left overs. \n\nI paired this with a chickpea “potato” salad. DIVINE.",
+          "datePublished": "2023-03-21T18:21:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "melissa"
+          },
+          "reviewBody": "Replying to myself...Yes, Melissa, the labne was a wonderful sub, as was the cauliflower rice in place of panko. I baked them for convince, slightly higher temp to adjust for altitude in Colorado, 415 for 20 minutes, and they were so good had them 2 nights in a row. :)",
+          "datePublished": "2023-11-17T03:45:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "randi"
+          },
+          "reviewBody": "Skipped the yogurt part to save time and just added 1/3 cup of prepared tzatziki to mixture. Used GF panko Also baked at 400 for 25 minutes. Delicious!",
+          "datePublished": "2023-04-24T22:59:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dan"
+          },
+          "reviewBody": "Meatballs took longer to cook than anticipated but was delicious.",
+          "datePublished": "2021-11-04T12:10:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ilene Africk"
+          },
+          "reviewBody": "I broiled the dark meat chicken meat balls for 7 minutes.  Then flipped them and broiled for another 8 minutes.  I add them to my chicken soup for additional flavor.",
+          "datePublished": "2021-11-08T21:53:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maralicious"
+          },
+          "reviewBody": "Delicious!  After reading some comments, I used ground turkey and baked them instead of frying. I added more of the spices including red pepper flakes and also grated a large shallot. Had fresh mint and dill, so I added some of that as well to the meat mix and the yogurt sauce.  Stuffed them into a pita with the sauce, thinly sleced persian cucumber and sweet little tomatoes sliced in half.  So yummy!",
+          "datePublished": "2024-08-14T19:01:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Annie G"
+          },
+          "reviewBody": "Made with ground turkey (used the less lean option). Bought a jar of tahini sauce and substituted that for the yogurt except I added 1/4 cup to the meatballs instead of 1/3. Oven at 400 F for 20 mins, flipped once. Came out great, tahini is a great flavor in meatballs! We served with olive bread and taktouka",
+          "datePublished": "2024-05-18T18:00:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Name sharon"
+          },
+          "reviewBody": "I just made this. Using less oil and salt. It was good.  But i did sprinkle feta on top…feta makes everything taste betta.",
+          "datePublished": "2024-05-28T02:12:12.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1022719-moroccan-spiced-chicken-meatballs",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Lidey Heuck"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "Chicken meatballs may not be a traditionally Moroccan dish, but they work beautifully when spiced with paprika, cumin, cinnamon, ginger and garlic, which are commonly found in the country’s cuisine. Whole-milk yogurt does double duty here: It’s used to make the meatballs moist and tender, and makes for a speedy sauce to serve with them. Don’t use ground chicken made with ultralean breasts; look for labels that show a mix of white and dark meat. (Or if you’re feeling ambitious, grind your own boneless, skinless chicken thighs in the food processor.) Serve the meatballs with couscous and a green vegetable for a flavorful weeknight dinner that’s well worth the effort.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Moroccan-Spiced Chicken Meatballs",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/1dcc18c3-1324-559d-b2fb-759f7faf16b4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/11/01/dining/lh-moroccan-chicken-meatballs/merlin_195006738_f4dc78be-a3d4-43ef-a902-69069e4bc75f-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Kate Sears for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2021-11-02T17:04:21.384Z",
+          "datePublished": "2021-11-02T17:04:21.384Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-02T17:04:21.384Z",
+          "url": "https://static01.nyt.com/images/2021/11/01/dining/lh-moroccan-chicken-meatballs/merlin_195006738_f4dc78be-a3d4-43ef-a902-69069e4bc75f-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/1dcc18c3-1324-559d-b2fb-759f7faf16b4#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/11/01/dining/lh-moroccan-chicken-meatballs/merlin_195006738_f4dc78be-a3d4-43ef-a902-69069e4bc75f-superJumbo.jpg",
+          "creditText": "Kate Sears for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2021-11-02T17:04:21.384Z",
+          "datePublished": "2021-11-02T17:04:21.384Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-02T17:04:21.384Z",
+          "url": "https://static01.nyt.com/images/2021/11/01/dining/lh-moroccan-chicken-meatballs/merlin_195006738_f4dc78be-a3d4-43ef-a902-69069e4bc75f-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/1dcc18c3-1324-559d-b2fb-759f7faf16b4#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/11/01/dining/lh-moroccan-chicken-meatballs/lh-moroccan-chicken-meatballs-mediumSquareAt3X.jpg",
+          "creditText": "Kate Sears for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2021-11-02T17:04:21.384Z",
+          "datePublished": "2021-11-02T17:04:21.384Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-02T17:04:21.384Z",
+          "url": "https://static01.nyt.com/images/2021/11/01/dining/lh-moroccan-chicken-meatballs/lh-moroccan-chicken-meatballs-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022719-moroccan-spiced-chicken-meatballs"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:17.308Z",
+  "scraping_status": "scraped"
+}

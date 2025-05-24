@@ -1,0 +1,145 @@
+{
+  "id": "6661ea4cdf05d411",
+  "original_url": "https://www.bbcgoodfood.com/recipes/166615/walkers-wild-mushroom-bacon-and-barley-broth",
+  "canonical_url": "https://www.bbcgoodfood.com/recipes/walkers-wild-mushroom-bacon-barley-broth",
+  "fetched_title": "Walkers&#x27; wild mushroom, bacon &amp; barley broth recipe | Good Food",
+  "main_text_content": "This is the perfect welcome-home warmer after a cold country walk, simply add some crusty bread, from BBC Good Food magazine. ",
+  "main_html_content": "<div class=\"card__section card__media\"><div class=\"d-block p-relative\"><div class=\"p-absolute card__media-buttons pa-xs\"></div></div><a class=\"link d-block p-relative card__image-container\" href=\"https://www.bbcgoodfood.com/get-good-food-app?af_xp=custom&amp;amp;pid=website&amp;amp;c=footer&amp;amp;is_retargeting=true&amp;amp;af_reengagement_window=30d\" data-component=\"Link\" aria-label=\"View Our mobile app\"><div class=\"image chromatic-ignore card__img image--fluid image--scaled-up\"><div class=\"image__container\"><picture class=\"image__picture\" width=\"93\" height=\"84.444\"><source type=\"image/webp\" sizes=\"93px\" srcSet=\"https://images.immediate.co.uk/production/volatile/sites/30/2024/12/App-assets-c10dc12.jpg?quality=90&amp;webp=true&amp;resize=93,84 93w,https://images.immediate.co.uk/production/volatile/sites/30/2024/12/App-assets-c10dc12.jpg?quality=90&amp;webp=true&amp;resize=186,169 186w,https://images.immediate.co.uk/production/volatile/sites/30/2024/12/App-assets-c10dc12.jpg?quality=90&amp;webp=true&amp;resize=279,253 279w,https://images.immediate.co.uk/production/volatile/sites/30/2024/12/App-assets-c10dc12.jpg?quality=90&amp;webp=true&amp;resize=372,338 372w\"/><source sizes=\"93px\" srcSet=\"https://images.immediate.co.uk/production/volatile/sites/30/2024/12/App-assets-c10dc12.jpg?quality=90&amp;resize=93,84 93w,https://images.immediate.co.uk/production/volatile/sites/30/2024/12/App-assets-c10dc12.jpg?quality=90&amp;resize=186,169 186w,https://images.immediate.co.uk/production/volatile/sites/30/2024/12/App-assets-c10dc12.jpg?quality=90&amp;resize=279,253 279w,https://images.immediate.co.uk/production/volatile/sites/30/2024/12/App-assets-c10dc12.jpg?quality=90&amp;resize=372,338 372w\"/><img class=\"image__img\" src=\"https://images.immediate.co.uk/production/volatile/sites/30/2024/12/App-assets-c10dc12.jpg?quality=90&amp;resize=93,84\" alt=\"\" data-item-name=\"\" title=\"GF APP\" style=\"aspect-ratio:1 / 0.908;object-fit:cover\" loading=\"lazy\" width=\"93\" height=\"84.444\"/></picture></div></div></a></div><div class=\"card__section card__content\"><a class=\"link d-block\" href=\"https://www.bbcgoodfood.com/get-good-food-app?af_xp=custom&amp;amp;pid=website&amp;amp;c=footer&amp;amp;is_retargeting=true&amp;amp;af_reengagement_window=30d\" data-component=\"Link\"><h4 class=\"heading-7\" style=\"color:inherit\">Our mobile app</h4></a><div class=\"line-clamper\"><p class=\"card__description d-block body-copy-extra-small fs-italic\">Search, save and sort your favourite recipes and view them offline.</p></div><a class=\"button button--small\" href=\"https://www.bbcgoodfood.com/get-good-food-app?af_xp=custom&amp;amp;pid=website&amp;amp;c=footer&amp;amp;is_retargeting=true&amp;amp;af_reengagement_window=30d\" data-component=\"Button\" role=\"button\"><div class=\"button__content\">Get the app</div></a></div>",
+  "key_image_url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-229565_11-dab4809.jpg?resize=440%2C230",
+  "local_image_path": "scraped/6661ea4cdf05d411/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.bbcgoodfood.com/recipes/walkers-wild-mushroom-bacon-barley-broth#Recipe",
+      "@type": "Recipe",
+      "description": "This is the perfect welcome-home warmer after a cold country walk, simply add some crusty bread",
+      "image": [
+        {
+          "@type": "ImageObject",
+          "url": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-229565_11-dab4809.jpg?resize=440,400",
+          "width": 440,
+          "height": 400
+        }
+      ],
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://www.bbcgoodfood.com/recipes/walkers-wild-mushroom-bacon-barley-broth"
+      },
+      "name": "Walkers' wild mushroom, bacon & barley broth",
+      "url": "https://www.bbcgoodfood.com/recipes/walkers-wild-mushroom-bacon-barley-broth",
+      "author": [
+        {
+          "@type": "Person",
+          "name": "Good Food team",
+          "url": "https://www.bbcgoodfood.com/author/goodfood"
+        }
+      ],
+      "dateModified": "2022-11-08T13:29:23+00:00",
+      "datePublished": "2010-03-23T05:45:30+00:00",
+      "headline": "Walkers' wild mushroom, bacon & barley broth",
+      "keywords": " Josh Eagleton, 400 kcal or less, 6 servings, Bacon, Family recipes, Good Food, Italian soup, Low-fat recipes, Make ahead, Make-ahead recipes, Minestrone soup, Mixed vegetable soup, Over an hour, Pearl barley, Porcini, Soup recipes, Warming recipes, Winter recipes",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Good Food",
+        "url": "https://www.bbcgoodfood.com",
+        "logo": {
+          "@type": "ImageObject",
+          "height": 65,
+          "url": "https://images.immediate.co.uk/production/volatile/sites/30/2024/03/cropped-GF-new-teal-1-7004649-a80b70d.png?resize=265,65",
+          "width": 265
+        }
+      },
+      "isAccessibleForFree": "False",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "isAccessibleForFree": "False",
+        "cssSelector": ".js-piano-locked-content"
+      },
+      "cookTime": "PT1H15M",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "290 calories",
+        "fatContent": "9 grams fat",
+        "saturatedFatContent": "3 grams saturated fat",
+        "carbohydrateContent": "35 grams carbohydrates",
+        "sugarContent": "9 grams sugar",
+        "fiberContent": "5 grams fiber",
+        "proteinContent": "18 grams protein",
+        "sodiumContent": "1.75 milligram of sodium"
+      },
+      "prepTime": "PT20M",
+      "recipeCategory": "Lunch, Soup",
+      "recipeCuisine": "British",
+      "recipeIngredient": [
+        "200g pack bacon lardons or rashers",
+        "2 onions",
+        "4 medium carrots",
+        "3 celery sticks",
+        "2 garlic cloves crushed",
+        "1 sprig rosemary and thyme",
+        "30g pack dried porcini or dried mixed wild mushrooms",
+        "1 glass white wine",
+        "1 ½l chicken stock",
+        "175g pearl barley well rinsed",
+        "1 small head spring greens or chunk of Savoy cabbage",
+        "parmesan or any strong hard cheese, grated, to serve"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Put a large saucepan over a medium heat. Sizzle the lardons or bacon for 10 mins until golden, stirring now and then. While they cook, chop the onions, carrots and celery into smallish pieces. When the bacon is ready, stir in the veg, garlic and herbs, cover and gently cook for 10 mins."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, put the mushrooms into a jug, then fill up to the 600ml mark with boiling water. Leave to soak for 10 mins."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lift the mushrooms out of their juice with a slotted spoon and roughly chop. Turn up the heat under the pan, add the mushrooms, fry for 1 min, then pour in the wine. Let it evaporate right down, then pour the liquid from the mushroom jug into the pan, avoiding the last drops, as they can be gritty. Add the stock and barley. Simmer for 40 mins until the barley is tender. Lift out the thyme and rosemary stalks. Can be made up to 2 days ahead or frozen for up to 1 month. If you make ahead, the soup will need loosening with a little more stock as the barley will thicken it over time."
+        },
+        {
+          "@type": "HowToStep",
+          "text": "When ready to serve, finely shred the greens and simmer in the soup for 5 mins until tender. Season to taste, then serve with cheese for sprinkling over the top, crusty bread and buttter."
+        }
+      ],
+      "recipeYield": 6,
+      "totalTime": "PT1H35M"
+    },
+    {
+      "@context": "https://schema.org/",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.bbcgoodfood.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Recipes",
+          "item": "https://www.bbcgoodfood.com/recipes"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Walkers' wild mushroom, bacon & barley broth"
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org/",
+      "@id": "https://www.bbcgoodfood.com/recipes/walkers-wild-mushroom-bacon-barley-broth#Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "reviewCount": 26,
+        "bestRating": 5,
+        "worstRating": 1
+      }
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:37:06.245Z",
+  "scraping_status": "scraped"
+}

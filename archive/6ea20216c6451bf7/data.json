@@ -1,0 +1,592 @@
+{
+  "id": "6ea20216c6451bf7",
+  "original_url": "https://cooking.nytimes.com/recipes/1026645-lazy-daisy-cake",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026645-lazy-daisy-cake",
+  "fetched_title": "Lazy Daisy Cake Recipe",
+  "main_text_content": "Also called Danish dream cake (drømmekage), this vintage recipe has a tender cake topped with a “lazy” frosting of butter, brown sugar and coconut Then the whole cake, still in its pan, is run under the broiler until the brown sugar melts, turning fudgy, and the coconut toasts and singes in spots It makes for a lovely treat that keeps well, too",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026813-easy-carrot-cake-with-cream-cheese-frosting\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Easy Carrot Cake With Cream Cheese Frosting</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Genevieve Ko</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/03/07/multimedia/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/6ea20216c6451bf7/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/81689940-205d-527d-b246-d529d5072766",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026645-lazy-daisy-cake",
+        "@type": "WebPage",
+        "name": "Lazy Daisy Cake"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026645-lazy-daisy-cake",
+      "name": "Lazy Daisy Cake",
+      "description": "Also called Danish dream cake (drømmekage), this vintage recipe has a tender cake topped with a “lazy” frosting of butter, brown sugar and coconut. Then the whole cake, still in its pan, is run under the broiler until the brown sugar melts, turning fudgy, and the coconut toasts and singes in spots. It makes for a lovely treat that keeps well, too. The topping, brittle and crunchy on the day it’s baked, gets softer and creamier after sitting at room temperature overnight, where it will last for three days.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/a368c98b-08ff-5a0a-9ac2-2d6866a87a56#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/07/multimedia/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-07T15:52:54.522Z",
+          "datePublished": "2025-03-07T15:52:54.522Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-07T15:52:54.522Z",
+          "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a368c98b-08ff-5a0a-9ac2-2d6866a87a56#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/07/multimedia/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-07T15:52:54.522Z",
+          "datePublished": "2025-03-07T15:52:54.522Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-07T15:52:54.522Z",
+          "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/a368c98b-08ff-5a0a-9ac2-2d6866a87a56#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/07/multimedia/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-07T15:52:54.522Z",
+          "datePublished": "2025-03-07T15:52:54.522Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-07T15:52:54.522Z",
+          "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H",
+      "recipeYield": "8 to 12 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "easy, cakes, dessert",
+      "keywords": "all-purpose flour, brown sugar, danish, dried coconut, make-ahead, whole milk, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 915
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 366,
+        "unsaturatedFatContent": "5 grams",
+        "carbohydrateContent": "45 grams",
+        "cholesterolContent": null,
+        "fatContent": "20 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "4 grams",
+        "saturatedFatContent": "14 grams",
+        "sodiumContent": "200 milligrams",
+        "sugarContent": "33 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 tablespoons unsalted butter, plus more for the pan",
+        "2 large eggs, at room temperature",
+        "3/4 cup/150 grams granulated sugar",
+        "1 cup/128 grams all-purpose flour",
+        "1 teaspoon baking powder",
+        "1/2 teaspoon fine sea or table salt",
+        "2 teaspoons vanilla extract or 1 teaspoon ground cardamom (optional)",
+        "1/2 cup/118 milliliters whole milk",
+        "1/2 cup/113 grams unsalted butter",
+        "3/4 cup/165 grams packed dark or light brown sugar",
+        "1/4 cup/60 milliliters whole milk  ",
+        "Pinch of fine sea or table salt",
+        "1 1/4 cups/105 grams shredded coconut (either unsweetened or sweetened)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the cake: Heat oven to 350 degrees. Butter a 9-inch square or round baking pan and line the bottom with parchment paper, then butter the paper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Using an electric mixer or beaters, beat the eggs and sugar until fluffy and pale yellow, about 2 minutes. (You can also do this with a wire whisk, though it will take some time and effort.) Beat in flour, baking powder and salt. Beat in vanilla or cardamom, if using."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a small saucepan, heat the milk and 2 tablespoons butter, stirring until the butter melts and the milk steams, but don’t let the mixture boil (a gentle simmer at the edges of the pan is fine). Pour the hot mixture into the eggs, beating briefly until you have a smooth, runny batter. Pour into the prepared pan."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake for 22 to 32 minutes, until the surface is pale golden and the top springs back when lightly pressed with your finger."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the cake is baking, prepare the topping: In a small saucepan (you can use the same one you used for the milk, and you don’t have to wash it), melt the butter. Add brown sugar, milk and salt, and stir until the mixture comes to a simmer. Turn off the heat and stir in coconut."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When the cake is done, pour the coconut mixture evenly on top and place it under the broiler for 1 to 4 minutes, until the topping is bubbling and browned. Watch it carefully so it doesn’t burn (a few singed coconut shreds are nice)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Transfer to a wire rack to cool before serving. If not serving on the same day, store at room temperature and serve within 2 days."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-03-07T00:00:00.000Z",
+      "dateModified": "2025-03-11T14:44:54.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John"
+          },
+          "reviewBody": "@pforsyth I’ve made this twice now (both with GF flour) and it doesn’t rise much. I think the picture is a real close up. That said the second time I made sure the eggs were really room temp and added a half tsp more baking powder and the rise was better 1.5” as opposed to 1” the first time.",
+          "datePublished": "2025-05-22T16:58:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "pforsyth"
+          },
+          "reviewBody": "My husbands’s childhood favorite so when I stumbled across it in the NYT I had to bake it for his birthday. (I lost his mom’s recipe). He loved it but the cake did not rise as expected. Not sure why…but it would have been better had it been light and fluffy.",
+          "datePublished": "2025-05-22T00:06:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stan"
+          },
+          "reviewBody": "Just made this yet again.  Will I ever stop?  Nope!  Everyone who tries it loves it.  So easy, so good.  This time, blasphemous as it may be, I stirred in chocolate chips and used pecans in the place of coconut.",
+          "datePublished": "2025-05-20T23:14:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CJ"
+          },
+          "reviewBody": "So stinking GOOD!! I think I had a piece of this cake every time I walked into the kitchen. The coconut caramel is everything you could ever want and the cake comes together so fast and easy. Perfection!!",
+          "datePublished": "2025-05-20T04:09:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharon Simmons"
+          },
+          "reviewBody": "Super easy and super satisfying….added pecans to topping.",
+          "datePublished": "2025-05-13T21:57:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Xsavage3"
+          },
+          "reviewBody": "Excellent !!!",
+          "datePublished": "2025-05-11T01:15:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Colleen"
+          },
+          "reviewBody": "This is the best cake and so easy to make. It's better the second day, the top's caramelized frosting seems to sink into the cake. It also freezes great! My aunt and mom made this in the fifties and sixties. I make it for family parties.",
+          "datePublished": "2025-05-10T21:57:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sunny"
+          },
+          "reviewBody": "Oh my goodness, this was out of this world! It melted in my mouth like a dream. I followed the recipe exactly, and it came out beyond perfect. My family loved it!",
+          "datePublished": "2025-05-09T21:33:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathy"
+          },
+          "reviewBody": "My grandma from rural Nebraska made this and 4 generations of her family continues to make and enjoy this recipe. It’s quick to make and most ingredients are on hand other than coconut.",
+          "datePublished": "2025-05-06T21:29:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate Jiras"
+          },
+          "reviewBody": "Substituted with thai coconut milk, both batter and topping and it does wonder. The topping came out a bit caramel-ish with some nice toasted coconut flakes. I only had salted butter so I opted out the amount of salt listed on the recipe, and thought it might be on a salty side for the cake, but! the saltiness picks up the sweet coconut-flavor nicely.",
+          "datePublished": "2025-05-06T01:51:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LiaPet"
+          },
+          "reviewBody": "The topping was fantastic, will definitely make that part again, and it could be added to any kind of cake. But the cake itself was lackluster. It came out tough, I think because there's no way to get the hot milk to incorporate without over beating.",
+          "datePublished": "2025-05-04T15:48:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jim"
+          },
+          "reviewBody": "This recipe brings back memories of my mother’s baking skills.  The smell, texture and taste were perfect.",
+          "datePublished": "2025-05-03T18:55:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MarieB"
+          },
+          "reviewBody": "Third time making this. Everyone loves the crunchy topping but so sweet. This time added a sprinkling of Maldon salt on top for a salted caramel effect.  Served with blueberries and ice cream on side for individual tastes. Might also work with a sprinkle of orange zest on top.",
+          "datePublished": "2025-05-03T13:40:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cara"
+          },
+          "reviewBody": "My family (3 adults, 2 kids) ate the entire cake in one go. My son in law was on a 'cheat day' so that's his excuse, but no excuse for the rest of us, except that the cake is utterly delicious. Even with the singed coconut",
+          "datePublished": "2025-04-28T22:44:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eva"
+          },
+          "reviewBody": "@Mark butter the pan is so that the cake doesn’t stick to the baking sheet, cranberries would be a very interesting addition. Good luck!",
+          "datePublished": "2025-04-30T11:05:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mark"
+          },
+          "reviewBody": "First time baker here, so pardon my ignorance. What does “butter the pan” mean? what does “best in flour” mean? \nCan I skip parchment paper and the topping all together ? \nCan I add cranberries to the batter ?\nThank you all!!",
+          "datePublished": "2025-04-26T17:42:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "C Clark"
+          },
+          "reviewBody": "I've been making this cake forever.  I found it in the Fannie Farmer Cookbook I received for a wedding gift 50  years ago.  It's a family favorite.  Everyone, make it!  It is easy and simply delish.  NYTimes, thank you for bringing this lovely cake recipe to new generations.",
+          "datePublished": "2025-04-23T22:05:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "reviewBody": "Oh, my goodness!  Memory lane!  My mother used to bake this for my birthday!  One year when no one was looking I scraped off and ate the entire icing!",
+          "datePublished": "2025-03-07T23:08:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marian Bishop"
+          },
+          "reviewBody": "This was the cake recipe 8th graders learned how to bake in Home Economics in the late 1960's. It was delicious. Then, we learned how to sew an apron!",
+          "datePublished": "2025-03-08T13:39:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "Lazy Daisy cake was a childhood favorite.  My mom made this cake often.  Now, let's bring back\nPineapple Upside Down cake - another 1950-60's classic.",
+          "datePublished": "2025-03-08T16:46:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Samantha"
+          },
+          "reviewBody": "After you bake the cake, remove it from the 350 degree oven and switch your oven to broil. Spread your topping on the just baked cake, and pop it back in the oven under the broil setting. Watch it carefully. Mine took 4 minutes. Then allow the cake to cool in the pan on a wire rack.  Once it begins to cool, the topping firms up into a delicious almost caramel like topping.  Slice and serve from the pan.  No need to remove the entire cake from the pan.",
+          "datePublished": "2025-03-08T14:45:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "dimmerswitch"
+          },
+          "reviewBody": "A sweet walk down memory lane for my taste buds in seeing this recipe that is almost exactly that a family friend first baked for us in the my grade school days in the early 60's, JFK was POTUS, and I still have in recipe card form, the sharing 'technology' of the day, in a box in my pantry.  Her recipe used nutmeg but otherwise, pretty darned close.  I am eager to try this comfort-bake recipe and for a little while escape the chaos in the country in the zen of the kitchen.",
+          "datePublished": "2025-03-08T16:43:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Richard"
+          },
+          "reviewBody": "I just made this and can confirm this is a very good recipe. I temped my melted milk and butter mixture to 150F before pouring into the batter. Note the batter is very runny, but bakes up into a light and fluffy cake. Used unsweetened coconut as there is plenty of brown sugar in the topping. It might be too sweet otherwise. The topping went onto the cake just after it had finished baking. Easy to make with excellent results. Recommend.",
+          "datePublished": "2025-03-08T00:56:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cynthia"
+          },
+          "reviewBody": "Cut the granulated sugar to at most 1/2 cup in the cake. The topping contains 3/4 cup brown sugar, for a ratio of 1 cup flour to 1 1/2 cups sugars.   I cut the brown sugar to 1/2 cup and added chopped walnuts in addition to the coconut (unsweetened). Even though I love Melissa Clark’s recipes you want to taste the cake not just sugar.",
+          "datePublished": "2025-03-09T02:20:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rietta"
+          },
+          "reviewBody": "I made this a couple nights ago and it was really good. I was surprised how moist and fluffy the cake part is. I used unsweetened flaked coconut and it was plenty sweet for us.  I might try reducing the about of butter in the topping a bit next time.  That’s not for a calorie thing but because it was more runny and I felt like it puddled on the sides a bit (because the cake was a little domed). I was glad I had left the parchment paper go up the sides of the cake (but don’t leave much poking up because that could catch fire under the broiler). Or I might poke holes in the top of the cake or let the topping sit and thicken a bit as the butter cools. Oh, and do try to keep the cake level by walking it up the sides of the pan after you pour the batter in. I didn’t but will next time - and there will be a next time!  \nPS - if you don’t know what I mean by walking the batter up the side of the pan: tilt the pan and roll the batter around the entire outside of the pan to create a “high water mark” that gives the cake something to climb on in the oven as it rises. I always do that for tiered cakes and quick breads but didn’t think of it here.",
+          "datePublished": "2025-03-11T16:08:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elyse"
+          },
+          "reviewBody": "Unflavored, unsweetened soy milk is the closest substitute to cow's milk when cooking and baking--better than nut or oat milks. My son had a casein allergy and I had to completely relearn how to cook without dairy.",
+          "datePublished": "2025-03-08T14:44:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lynn"
+          },
+          "reviewBody": "We used to call this butter crunch cake in 70s home ec!  Sometimes would substitute almond flake for coconut. Delicious then, delicious now!",
+          "datePublished": "2025-03-07T23:47:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jean Miller"
+          },
+          "reviewBody": "This is the cake of my childhood… the one I learned to bake as part of a Girl Scout badge; the one that was whipped up (because it’s fast to make) and taken to new neighbors who just moved in; the one taken to potlucks. It’s homey, delicious, and comforting. I have and treasure my grandmother’s annotated recipe, which is quite similar to this one. Whatever recipe you have or use, I hope everyone will bake this cake soon to share with loved ones. Thanks for resurfacing this oldie-but-goodie!",
+          "datePublished": "2025-03-08T12:44:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CN"
+          },
+          "reviewBody": "@Barbara from Ottawa\nDanger! Parchment sticking out at the top is likely to catch fire when you put the cake under the broiler to cook the icing.",
+          "datePublished": "2025-03-08T17:07:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Wendy"
+          },
+          "reviewBody": "I let the cake cool a bit, then my husband and I cut pieces...then another piece each, then we just started picking directly from the pan...this is addicting and so scrumptious! It was fun to make and I used a whole vanilla bean AND the teaspoon of cardamom. You're correct, our house smells amazing!",
+          "datePublished": "2025-03-08T02:44:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JudyF"
+          },
+          "reviewBody": "I would forget the parchment paper completely. Even the suggestion to use it like a sling doesn’t address the problem that you won’t be able to remove the paper from the bottom of the cake without first turning the cake upside down. I made the mistake once of using parchment paper on the bottom of a cake that couldn’t be turned over  -  the paper ended up wrinkling and tearing and was a real pain.",
+          "datePublished": "2025-03-08T15:38:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharon B"
+          },
+          "reviewBody": "My mom was a county level politician.  She printed campaign cards with her version of this recipe \"Lazy Daisy Oatmeal Cake\".  Her version had oats and chopped pecans in the topping.  Her advice was to put it in the broiler and keep your hand on the oven handle.  Don't let go and walk away or you'll forget and torch it!",
+          "datePublished": "2025-03-10T12:35:26.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026645-lazy-daisy-cake",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "Also called Danish dream cake (drømmekage), this vintage recipe has a tender cake topped with a “lazy” frosting of butter, brown sugar and coconut. Then the whole cake, still in its pan, is run under the broiler until the brown sugar melts, turning fudgy, and the coconut toasts and singes in spots. It makes for a lovely treat that keeps well, too. The topping, brittle and crunchy on the day it’s baked, gets softer and creamier after sitting at room temperature overnight, where it will last for three days.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Lazy Daisy Cake",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/a368c98b-08ff-5a0a-9ac2-2d6866a87a56#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/07/multimedia/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-07T15:52:54.522Z",
+          "datePublished": "2025-03-07T15:52:54.522Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-07T15:52:54.522Z",
+          "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a368c98b-08ff-5a0a-9ac2-2d6866a87a56#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/07/multimedia/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-07T15:52:54.522Z",
+          "datePublished": "2025-03-07T15:52:54.522Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-07T15:52:54.522Z",
+          "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/a368c98b-08ff-5a0a-9ac2-2d6866a87a56#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/07/multimedia/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-07T15:52:54.522Z",
+          "datePublished": "2025-03-07T15:52:54.522Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-03-07T15:52:54.522Z",
+          "url": "https://static01.nyt.com/images/2025/03/07/multimedia/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp/07APPE-CAKEREX-MC-Lazy-Daisy-Cake-fctp-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026645-lazy-daisy-cake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:04:49.677Z",
+  "scraping_status": "scraped"
+}

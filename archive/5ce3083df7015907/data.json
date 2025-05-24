@@ -1,0 +1,568 @@
+{
+  "id": "5ce3083df7015907",
+  "original_url": "https://cooking.nytimes.com/recipes/1020401-warm-fig-and-chocolate-sponge-cake?action=click&module=Recirculation%20Band%20Recipe%20Card&region=More%20recipes%20from%20Yotam%20Ottolenghi&pgType=recipedetails&rank=3",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1020401-warm-fig-and-chocolate-sponge-cake?action=click&module=Recirculation+Band+Recipe+Card&region=More+recipes+from+Yotam+Ottolenghi&pgType=recipedetails&rank=3",
+  "fetched_title": "Warm Fig and Chocolate Sponge Cake Recipe",
+  "main_text_content": "This dessert is somewhere between a sponge cake and a clafoutis: light and airy, yet rich from the addition of dark chocolate and rum Make sure you use really ripe, in-season figs, as they make all the difference here The figs release their juices with the caramel, rum and orange to create a sauce that is perfect to scoop over the sponge cake when serving",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1014976-fig-and-almond-cake\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2013/08/21/dining/21KITCHEN1_SPAN/21KITCHEN1_SPAN-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2013/08/21/dining/21KITCHEN1_SPAN/21KITCHEN1_SPAN-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2013/08/21/dining/21KITCHEN1_SPAN/21KITCHEN1_SPAN-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2013/08/21/dining/21KITCHEN1_SPAN/21KITCHEN1_SPAN-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2013/08/21/dining/21KITCHEN1_SPAN/21KITCHEN1_SPAN-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Fig and Almond Cake</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">David Tanis</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2019/08/16/dining/16ottorex01/16ottorex01-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/5ce3083df7015907/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/8b499b70-268e-5a23-9dbc-07ad60437a85",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1020401-warm-fig-and-chocolate-sponge-cake",
+        "@type": "WebPage",
+        "name": "Warm Fig and Chocolate Sponge Cake"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020401-warm-fig-and-chocolate-sponge-cake",
+      "name": "Warm Fig and Chocolate Sponge Cake",
+      "description": "This dessert is somewhere between a sponge cake and a clafoutis: light and airy, yet rich from the addition of dark chocolate and rum. Make sure you use really ripe, in-season figs, as they make all the difference here. The figs release their juices with the caramel, rum and orange to create a sauce that is perfect to scoop over the sponge cake when serving. For a more concentrated flavor, roast your figs separately before adding them to the caramel. A spoonful of crème fraîche is all you need here, but you could serve this with some vanilla ice cream, if you’re looking for a supertreat.",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/a3bb270b-d43c-5c0c-aaf6-3186c35f6835#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/08/16/dining/16ottorex01/16ottorex01-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Andrew Scrivani for The New York Times. Food Stylist: Iah Pinkney",
+          "dateModified": "2019-08-20T14:37:00.877Z",
+          "datePublished": "2019-08-16T17:44:45.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-08-16T17:44:45.000Z",
+          "url": "https://static01.nyt.com/images/2019/08/16/dining/16ottorex01/16ottorex01-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a3bb270b-d43c-5c0c-aaf6-3186c35f6835#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/08/16/dining/16ottorex01/16ottorex01-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times. Food Stylist: Iah Pinkney",
+          "dateModified": "2019-08-20T14:37:00.877Z",
+          "datePublished": "2019-08-16T17:44:45.000Z",
+          "height": "1296",
+          "representativeOfPage": true,
+          "uploadDate": "2019-08-16T17:44:45.000Z",
+          "url": "https://static01.nyt.com/images/2019/08/16/dining/16ottorex01/16ottorex01-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/a3bb270b-d43c-5c0c-aaf6-3186c35f6835#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/08/16/dining/16ottorex01/16ottorex01-square640.jpg",
+          "creditText": "Andrew Scrivani for The New York Times. Food Stylist: Iah Pinkney",
+          "dateModified": "2019-08-20T14:37:00.877Z",
+          "datePublished": "2019-08-16T17:44:45.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-08-16T17:44:45.000Z",
+          "url": "https://static01.nyt.com/images/2019/08/16/dining/16ottorex01/16ottorex01-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT1H",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dessert",
+      "keywords": "chocolate, chocolate cake, crème fraîche, figs, orange, rum",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 269
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 477,
+        "unsaturatedFatContent": "8 grams",
+        "carbohydrateContent": "56 grams",
+        "cholesterolContent": null,
+        "fatContent": "25 grams",
+        "fiberContent": "4 grams",
+        "proteinContent": "7 grams",
+        "saturatedFatContent": "15 grams",
+        "sodiumContent": "167 milligrams",
+        "sugarContent": "43 grams",
+        "transFatContent": "1 gram"
+      },
+      "recipeIngredient": [
+        "1/2 cup/100 grams superfine (caster) sugar",
+        "2 tablespoons dark rum",
+        "2 teaspoons finely grated orange zest, plus 1 tablespoon juice (from 1 orange)",
+        "12 ripe black figs (about 14 ounces/400 grams), tough stems removed and figs halved lengthwise",
+        "2 eggs, whites and yolks separated",
+        "1/3 cup plus 2 tablespoons/100 milliliters heavy cream (double cream)",
+        "1/4 cup/35 grams all-purpose (plain) flour",
+        "2 tablespoons/15 grams cocoa powder",
+        "1 teaspoon vanilla extract",
+        "1/4 teaspoon flaky sea salt",
+        "1 1/2 ounces/40 grams dark chocolate (70 percent), roughly chopped into scant 1/2-inch/1-centimeter pieces",
+        "Crème fraîche, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 375 degrees Fahrenheit/190 degrees Celsius."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add 1/4 cup/50 grams sugar to a small, oven-proof, high-sided sauté pan with a 6-inch/15-centimeter base (or similar). Cook over medium-high heat, swirling the pan a few times, until the sugar has melted and turned a dark caramel color, 5 to 8 minutes. Carefully add the rum — it will spit and seize up a little — and cook for another 30 seconds, stirring until combined and thick. Remove from the heat, stir in the orange juice and figs, and set aside to cool."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the egg yolks to a medium bowl along with 2 tablespoons/25 grams sugar. Whisk by hand until pale and thick, about 3 minutes. Add the cream, flour, cocoa powder, vanilla, salt and orange zest, then whisk until smooth and thick."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In another medium bowl, using a clean whisk, whisk the egg whites by hand with the remaining 2 tablespoons/25 grams sugar until they form stiff peaks, 4 to 5 minutes. Fold gently into the yolk batter, then pour the  mixture over the figs in the sauté pan (it should cover the figs completely)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Sprinkle all over with the chocolate and bake until the batter rises and is cooked through, about 25 minutes. Remove from the oven, divide among four bowls and drizzle with any remaining liquid from the pan. Serve hot, with some crème fraîche alongside."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura"
+          },
+          "reviewBody": "@Robert McConnell No",
+          "datePublished": "2025-03-04T20:44:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robert McConnell"
+          },
+          "reviewBody": "Can I use dried Mission Figs for this cake?",
+          "datePublished": "2024-06-01T20:45:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ava"
+          },
+          "reviewBody": "This recipe is my go to. I’ve made it with both fresh and dried figs and I think dried gives you better flavor and texture (not to mention they’re easier and cheaper to find year round). Just soak them in water for 20mins or so and remove the stems. \nThe caramel is annoying to make, but keep stirring it over low heat when it seizes and it’ll work out. As for hand whisking…not necessary unless you feel like it.",
+          "datePublished": "2024-01-02T23:30:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tree"
+          },
+          "reviewBody": "Delicious and interesting but you gotta put in the work. Used a cast iron pan which was fine except for when we burnt the sugar. second time around used dark brown sugar and mixed it into the cooked rum rather than making a caramel. We roasted some figs at 425 for 15 minutes / until juicy. Also used black cocoa powder which made such a beautifully rich chocolate cake with less sweetness. Finally, sour cream is better than ice cream on this !!",
+          "datePublished": "2023-11-29T03:36:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate"
+          },
+          "reviewBody": "I've made this twice in the last couple weeks (fig tree in overdrive!) and the first time my hand twitched at the wrong moment and I ended up with twice as much cocoa as necessary. Added a little more cream to get a more stir-able consistency. Well, tonight I made it with the right amounts of things and good golly was the texture better with more cocoa and cream! Soft and cloudlike like a souffle. Will mess up on purpose from here on out!\n\nIn general, absolutely delicious.",
+          "datePublished": "2023-09-25T01:17:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lu"
+          },
+          "reviewBody": "This was a lot of effort for something with the flavors and textures of a figgy brownie",
+          "datePublished": "2023-07-17T03:01:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christine b"
+          },
+          "reviewBody": "Caramel notes\nI made as instructed and the caramel siezed so I added the orange juice and reheated gently, stirring, added a little more oj untill I got the consistency I wanted coaxing the caramel to melt into the sauce… worked well",
+          "datePublished": "2022-09-12T01:38:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christine b"
+          },
+          "reviewBody": "Spectacular impressive dessert, any ideas as a sub for fig’s in off season? My little mixer for the egg whites next time!",
+          "datePublished": "2022-09-12T01:27:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan Allen"
+          },
+          "reviewBody": "I grow brown figs. Do I need to increase sugar?",
+          "datePublished": "2022-05-04T21:56:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JDM"
+          },
+          "reviewBody": "Sadly I’m not enthused. I like the flavors: chocolate, rum, orange, but not a fan of the figs. Maybe pureed — maybe some preserves — but either way, way less.  A cast iron bottom of the dutch oven worked great.",
+          "datePublished": "2021-07-23T03:54:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "porkslap"
+          },
+          "reviewBody": "\"skip making the caramel all together, and just mix the rum, orange juice, and figs with 1/4 cup dark brown sugar.\" recommended to roast figs before adding - \"400 degrees in one layer, sliced - depending on how ripe, 15 to 30 minutes\"",
+          "datePublished": "2021-07-03T18:12:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "how to do sugar"
+          },
+          "reviewBody": "Make sure it’s hot enough and fully melted. I used a little sauce pan successfully. I put it on actual medium high and waited until it was fully brown and bubbly",
+          "datePublished": "2020-12-24T21:59:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MCcooks"
+          },
+          "reviewBody": "1. You truly do not need to whip by hand \n2. I would agree with nearly everyone else to decrease the number of figs \n3. It’s delicious for those who love the orange and chocolate combination - the orange really came through and I loved it.",
+          "datePublished": "2020-10-19T18:47:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liza"
+          },
+          "reviewBody": "I made this for a friend’s birthday and everyone loved it, it was light and spongey and the figs were amazing! Definitely will make every gig season! I didn’t beat egg whites by hand and I used a clay pot that I can put in the oven. Worked fine!",
+          "datePublished": "2020-09-27T19:03:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Les"
+          },
+          "reviewBody": "Decadent! Not your everyday dessert. Perfect for a special treat.\nBecause I have a job and two small kids I decided to ignore the advice to whip the whites by hand while enjoying an opera overture and instead they were done in a jiffy in my kitchen aid.\n\nNote that the sugar is divided into three separate uses to don’t put all 100g in at first. I was moving quickly and didn’t read closely enough. Oops. Was still quite delicious, if a bit sweet.",
+          "datePublished": "2020-09-23T04:10:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elaine"
+          },
+          "reviewBody": "I'm confused about how this dessert is supposed to turn out.  Mine was soupy at the bottom, yet soufflé-like at the top.  It was lovely, but I wonder if it's supposed to be dry mostly through.",
+          "datePublished": "2020-09-22T05:40:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Irene"
+          },
+          "reviewBody": "Why do you need to whisk by hand??",
+          "datePublished": "2019-08-18T15:34:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Roslyn"
+          },
+          "reviewBody": "Can you use dried black mission figs that have been rehydrated?",
+          "datePublished": "2019-08-18T16:31:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NEE"
+          },
+          "reviewBody": "What size, what kind of pan is recommended for this cake ?  Grease the sides, or not ?",
+          "datePublished": "2019-08-18T15:33:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alison"
+          },
+          "reviewBody": "Pick your figs first thing in the morning: plants and trees pull back some of the sugar into themselves in the heat of the day for protection and let it go back into the fruit by night.",
+          "datePublished": "2019-08-18T22:26:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy C"
+          },
+          "reviewBody": "No beaters to wash, good arm workout, way to get out frustrations, only a few egg whites, immense satisfaction from making magic happen in one little bowl. As a total low-tech baker, I love all recipes that don't require things that plug in (except for the oven). Put on a Rossini overture and start beating! :)",
+          "datePublished": "2019-08-18T23:18:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Judy Schwab"
+          },
+          "reviewBody": "This sounds so delicious! At what temperature would you roast the figs beforehand?",
+          "datePublished": "2019-08-18T15:33:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne"
+          },
+          "reviewBody": "I love the idea of \"fog jam\". It would be light, wispy, yet mysterious tasting.",
+          "datePublished": "2019-08-18T17:19:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Reshma A"
+          },
+          "reviewBody": "In this case, my solution would be to skip making the caramel all together, and just mix the rum, orange juice, and figs with 1/4 cup dark brown sugar. I'm a seasoned baker as well and this seems like one of those recipes where the caramel may get lost anyway in all the other flavors. While you may not get the exact results as this recipe, you save a little time and sanity, and your flavors and textures will likely come pretty close. Hope this helps!",
+          "datePublished": "2019-08-22T03:07:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "VeggieVeggington"
+          },
+          "reviewBody": "So I made this. Three things stand out: 1. Don't put the rum in too quickly otherwise you get fire in the kitchen--should've known better--but it was a pretty fire. 2. Make it in an iron skillet and 3. Cut the amount of figs down to maybe 6 to 8. Otherwise good. Despite the fig protests from my family.",
+          "datePublished": "2019-08-18T23:53:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Yvette"
+          },
+          "reviewBody": "What's a good substitute for figs? I can never find them. Where do people buy them? I live in PA.",
+          "datePublished": "2019-08-18T15:20:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Judith Sayad"
+          },
+          "reviewBody": "Usually recipes say to whisk the whites by hand because if you whisk them with the same beaters after you have whisked the yolks, they will not get nice and fluffy. I usually do the whites first and then the rest of the recipe. My grandmother taught me to wash the beaters in hot water with a little vinegar before beating the whites to make sure there's nothing oily on them as that will prevent fluffiness.",
+          "datePublished": "2019-08-20T13:27:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NanceG"
+          },
+          "reviewBody": "I made this two nights ago - followed the recipe EXACTLY (gasp!!!).  \nI was concerned about getting all the figs into a tiny pan.  \nUsed my smallest saute pan (8\" instead of 6\".)  \nCooked the figs down in the caramel, skipping pre-roasting.  \nDidn't have creme fraiche (too busy getting ready for Hurricane Dorian here) and we decided that vanilla ice cream would overpower the delicate choco and fig flavors, so ate it as is, warm.  \nIt was delightful.  I wouldn't change a thing.",
+          "datePublished": "2019-08-31T16:38:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane"
+          },
+          "reviewBody": "Would it be possible to substitute the all purpose flour with another type of flour to make this gluten free? If so, what flour would you recommend? Thanks.",
+          "datePublished": "2019-08-18T18:29:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DeanDean15"
+          },
+          "reviewBody": "You bake the cake in the saute pan you cooked the sugar/rum/fig mixture in.  See Step 2.",
+          "datePublished": "2019-08-18T17:52:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jacqueline"
+          },
+          "reviewBody": "400 degrees in one layer, sliced - depending on how ripe, 15 to 30 minutes. <a href=\"https://www.davidlebovitz.com/roasted-figs-recipe\" target=\"_blank\">https://www.davidlebovitz.com/roasted-figs-recipe</a>/",
+          "datePublished": "2019-08-19T00:07:50.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1020401-warm-fig-and-chocolate-sponge-cake",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019,
+      "description": "This dessert is somewhere between a sponge cake and a clafoutis: light and airy, yet rich from the addition of dark chocolate and rum. Make sure you use really ripe, in-season figs, as they make all the difference here. The figs release their juices with the caramel, rum and orange to create a sauce that is perfect to scoop over the sponge cake when serving. For a more concentrated flavor, roast your figs separately before adding them to the caramel. A spoonful of crème fraîche is all you need here, but you could serve this with some vanilla ice cream, if you’re looking for a supertreat.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Warm Fig and Chocolate Sponge Cake",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/a3bb270b-d43c-5c0c-aaf6-3186c35f6835#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/08/16/dining/16ottorex01/16ottorex01-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Andrew Scrivani for The New York Times. Food Stylist: Iah Pinkney",
+          "dateModified": "2019-08-20T14:37:00.877Z",
+          "datePublished": "2019-08-16T17:44:45.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-08-16T17:44:45.000Z",
+          "url": "https://static01.nyt.com/images/2019/08/16/dining/16ottorex01/16ottorex01-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a3bb270b-d43c-5c0c-aaf6-3186c35f6835#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/08/16/dining/16ottorex01/16ottorex01-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times. Food Stylist: Iah Pinkney",
+          "dateModified": "2019-08-20T14:37:00.877Z",
+          "datePublished": "2019-08-16T17:44:45.000Z",
+          "height": "1296",
+          "representativeOfPage": true,
+          "uploadDate": "2019-08-16T17:44:45.000Z",
+          "url": "https://static01.nyt.com/images/2019/08/16/dining/16ottorex01/16ottorex01-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/a3bb270b-d43c-5c0c-aaf6-3186c35f6835#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/08/16/dining/16ottorex01/16ottorex01-square640.jpg",
+          "creditText": "Andrew Scrivani for The New York Times. Food Stylist: Iah Pinkney",
+          "dateModified": "2019-08-20T14:37:00.877Z",
+          "datePublished": "2019-08-16T17:44:45.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-08-16T17:44:45.000Z",
+          "url": "https://static01.nyt.com/images/2019/08/16/dining/16ottorex01/16ottorex01-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020401-warm-fig-and-chocolate-sponge-cake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:36:33.314Z",
+  "scraping_status": "scraped"
+}

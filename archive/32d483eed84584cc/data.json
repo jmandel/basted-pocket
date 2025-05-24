@@ -1,0 +1,565 @@
+{
+  "id": "32d483eed84584cc",
+  "original_url": "https://cooking.nytimes.com/recipes/1021769-herbed-chicken-and-spinach-meatballs",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021769-herbed-chicken-and-spinach-meatballs",
+  "fetched_title": "Herbed Chicken and Spinach Meatballs Recipe",
+  "main_text_content": "These are meatballs to make when you want to eat on the light side, without sacrificing flavor They are highly seasoned, with chopped spinach and cilantro and lots of aromatic spices No need for a sauce, they can be served alongside a leafy salad or with steamed rice",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1019762-chicken-miso-meatballs\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2020/11/29/dining/kc-chicken-miso-meatballs/kc-chicken-miso-meatballs-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2020/11/29/dining/kc-chicken-miso-meatballs/kc-chicken-miso-meatballs-blogSmallInline-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2020/11/29/dining/kc-chicken-miso-meatballs/kc-chicken-miso-meatballs-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2020/11/29/dining/kc-chicken-miso-meatballs/kc-chicken-miso-meatballs-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2020/11/29/dining/kc-chicken-miso-meatballs/kc-chicken-miso-meatballs-videoSixteenByNine310-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2020/11/29/dining/kc-chicken-miso-meatballs/kc-chicken-miso-meatballs-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2020/11/29/dining/kc-chicken-miso-meatballs/kc-chicken-miso-meatballs-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2020/11/29/dining/kc-chicken-miso-meatballs/kc-chicken-miso-meatballs-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Chicken Miso Meatballs</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Kay Chun</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex2-meatballs/merlin_181734129_082da169-321a-49a4-b4d5-58bbd0015909-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/32d483eed84584cc/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/cbdeb3b1-c7e6-54c4-bfca-8a4545aaa477",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021769-herbed-chicken-and-spinach-meatballs",
+        "@type": "WebPage",
+        "name": "Herbed Chicken and Spinach Meatballs"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021769-herbed-chicken-and-spinach-meatballs",
+      "name": "Herbed Chicken and Spinach Meatballs",
+      "description": "These are meatballs to make when you want to eat on the light side, without sacrificing flavor. They are highly seasoned, with chopped spinach and cilantro and lots of aromatic spices. No need for a sauce, they can be served alongside a leafy salad or with steamed rice. Make the meatball mixture a day or two in advance, if desired.",
+      "author": {
+        "@type": "Person",
+        "name": "David Tanis"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/ac70e975-4648-52d4-bb7d-1127cd9df1b0#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex2-meatballs/merlin_181734129_082da169-321a-49a4-b4d5-58bbd0015909-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-12-31T21:04:53.673Z",
+          "datePublished": "2020-12-31T21:04:53.673Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-12-31T21:04:53.673Z",
+          "url": "https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex2-meatballs/merlin_181734129_082da169-321a-49a4-b4d5-58bbd0015909-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ac70e975-4648-52d4-bb7d-1127cd9df1b0#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex2-meatballs/merlin_181734129_082da169-321a-49a4-b4d5-58bbd0015909-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-12-31T21:04:53.673Z",
+          "datePublished": "2020-12-31T21:04:53.673Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2020-12-31T21:04:53.673Z",
+          "url": "https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex2-meatballs/merlin_181734129_082da169-321a-49a4-b4d5-58bbd0015909-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/ac70e975-4648-52d4-bb7d-1127cd9df1b0#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex2-meatballs/merlin_181734129_082da169-321a-49a4-b4d5-58bbd0015909-mediumSquareAt3X.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-12-31T21:04:53.673Z",
+          "datePublished": "2020-12-31T21:04:53.673Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2020-12-31T21:04:53.673Z",
+          "url": "https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex2-meatballs/merlin_181734129_082da169-321a-49a4-b4d5-58bbd0015909-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT45M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "weeknight, meatballs, poultry, main course",
+      "keywords": "cilantro, ground chicken, lemon, spinach",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 1086
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 590,
+        "unsaturatedFatContent": "38 grams",
+        "carbohydrateContent": "8 grams",
+        "cholesterolContent": null,
+        "fatContent": "52 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "24 grams",
+        "saturatedFatContent": "12 grams",
+        "sodiumContent": "615 milligrams",
+        "sugarContent": "1 gram",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 pound spinach, washed",
+        "1 1/2 pounds ground chicken",
+        "2 teaspoons kosher salt",
+        "1/2 teaspoon black pepper",
+        "1/2 teaspoon lemon zest",
+        "Pinch of ground cayenne",
+        "Pinch of ground nutmeg",
+        "1/2 teaspoon crushed fennel seeds",
+        "Pinch of ground cinnamon",
+        "1 cup roughly chopped cilantro leaves and tender stems",
+        "1 serrano chile, with seeds, finely chopped",
+        "1 egg, beaten",
+        "1 cup soft fresh bread crumbs, from about 4 slices of crustless sandwich bread",
+        "1/2 cup heavy cream, half-and-half or milk",
+        "All-purpose flour, for dusting",
+        "Extra-virgin olive oil, for frying",
+        "Lime or lemon wedges, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Blanch the spinach: Plunge leaves a handful at a time into a pot of boiling water. Leave just long enough to wilt, about 30 seconds, then drain in a colander and cool under running water. Remove and squeeze wilted leaves into a ball. Using a large knife, roughly chop spinach on a cutting board — you should have about 2 cups. Squeeze into a ball again to remove excess water. (This may be done several hours or up to a day in advance and refrigerated.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large bowl, put chicken, salt, pepper, lemon zest, cayenne, nutmeg, fennel seeds, cinnamon, spinach, cilantro, chile, egg, bread crumbs and cream. Using your clean hands, knead everything together, mixing well. Leave to absorb seasoning for 15 minutes or overnight."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Test for seasoning: Take a small amount and flatten into a thin patty. Quickly cook in a small skillet, about 1 minute per side. Taste, then adjust the mixture’s seasoning if necessary."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Using an ice cream scoop or spoon, form 24 rough balls and place on a baking sheet. (The mixture will be soft.) Lightly sprinkle the balls with a very small amount of flour."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Set a large, wide skillet over medium-high heat. Add olive oil to a depth of 1/4 inch. When oil is wavy, use a spoon to help slip in balls into skillet. Gently fry the balls without crowding. Adjust heat as necessary (high heat will make them tough.) Cook for about 4 minutes per side; they should be golden brown, not too dark. Serve with lime or lemon wedges."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-01-06T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mike from Charleston"
+          },
+          "reviewBody": "Very easy to make and absolutely delicious. I followed the recipe - fried them in a wok, didn't bake them as some others. I'll try that next time.  I like the crispy texture you get from frying.  I used a combo of olive and canola, then set them to drain on paper towels.  I'm going to make a light, lemony cream sauce I think....",
+          "datePublished": "2025-05-05T21:37:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy O."
+          },
+          "reviewBody": "I bought almost everything I needed here but honestly thought I was embarking on the other recipe where you smother the chicken meatballs in greens, so couldn’t figure out for the life of me why I was mixing spinach in with the other stuff. But I kept going and my boyfriend and son (not youngsters) gobbled them up anyway! I will bake them next time as long as they’re already on a sheet pan! Thanks for an unusual and delicious recipe. I’ll try the other one next week!",
+          "datePublished": "2025-03-29T11:44:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deane"
+          },
+          "reviewBody": "Have made this a number of times. For our GF family, we substitute the flour for wild rice that is cooked and pulsed in the food processor. It adds a deeper flavor, good texture, and avoids highly processed GF flour. Served on a bed of sautéed rainbow chard. Delicious.",
+          "datePublished": "2025-01-08T01:59:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "greta 9-2024"
+          },
+          "reviewBody": "425 convection for 30 minutes",
+          "datePublished": "2024-10-08T03:40:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janet M"
+          },
+          "reviewBody": "Best NYT recipe in a long time. So much flavor! Used Panko and frozen spinach; baked instead of fried; made 12 rather than 24 meatballs. Otherwise made as written.",
+          "datePublished": "2024-02-19T16:43:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carla"
+          },
+          "reviewBody": "I used one package of frozen chopped spinach and one lb. of ground chicken, reducing proportions of other ingredients accordingly, then cooked the resulting 20 meatballs in the air fryer at 400 degrees for 10 minutes.  Perfectly crisp on the outside, tender and moist on the inside with no oil.  Really delicious.",
+          "datePublished": "2024-01-25T01:18:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kirby"
+          },
+          "reviewBody": "I put pepper, cilantro, blanched spinach, herbs and bread in food processor before adding to meat, eggs and milk. This saved time and worked well. I also baked meatballs as other suggested.  Mine only took about 20 mins at 400 degrees.",
+          "datePublished": "2021-01-19T16:34:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CC"
+          },
+          "reviewBody": "Yes bake them! The frying (which also snuck up on me) isn't as quick or efficient as the recipe makes it out to be and they are soaked in oil. Oops!",
+          "datePublished": "2023-03-29T02:57:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debra"
+          },
+          "reviewBody": "Delicious \n\nI made the balls a little bigger, made about 16, served 3 pp so enough for 5 servings\n\nBaked at 425 about 30 minutes, brushed with a little olive oil\n\nGood for leftovers\n\nServed with mashed potatos, steamed green beans and carrots",
+          "datePublished": "2023-02-14T00:01:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Uma"
+          },
+          "reviewBody": "I love the flavors in this, but ground chicken is oddly expensive and sometimes hard to find in my area, so I made this into a soup.  I started with roasted whole chicken, removed the meat to add to the soup, and used the bones to make a stock.  To the finished stock, I added thawed/drained spinach, chopped serranos and cilantro, all of the spices, lemon zest, diced roasted chicken and it is done.  Lemon juice and salt to taste.  Even better with a spoon of cooked rice or steel cut oats added.",
+          "datePublished": "2022-12-22T16:38:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jacqueline"
+          },
+          "reviewBody": "400 for 30 minutes, flip half way.",
+          "datePublished": "2022-12-11T18:49:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura G."
+          },
+          "reviewBody": "These were delicious, even though I riffed considerably.--Had no cilantro or serrano, usec sour cream for the dairy, baked rather than fried, at 375 for about 25 minutes (which makes them less attractively brown less spherical, but probably more healthy).  Served with brown basmati rice and a yogurt sauce. You could probably do this as two mini meatloaves as well.",
+          "datePublished": "2022-12-10T00:39:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Terry"
+          },
+          "reviewBody": "Please don't tell people to \"plunge a handful of spinach into boiling water\". Someone will do it.",
+          "datePublished": "2022-10-10T17:39:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LeRoi"
+          },
+          "reviewBody": "Excellent- 1/2ed recipe: made 10 patties.\nMake a sauce next time.",
+          "datePublished": "2022-10-01T02:26:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "M.R."
+          },
+          "reviewBody": "Becky\nHow do you grind the chicken in the cuisinart? Frozern, semi-frozen ,cold?\nUsing the regular blade?",
+          "datePublished": "2022-09-29T00:14:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LKB"
+          },
+          "reviewBody": "I'm going to bake mine. I've made a similar meatball for years that is baked. In fact, I thought this was going to be baked when I got to step 4, putting them on a baking sheet. Mine are staying there, going in the oven at 425 for 20-25 minutes.",
+          "datePublished": "2021-01-01T22:48:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Uncle Beary"
+          },
+          "reviewBody": "I baked mine @ 400 degrees for 30 minutes and drizzled some olive oil over them about halfway through.  Very flavorful and tender, and I'll make this again for sure, but I might decrease the salt a bit next time.",
+          "datePublished": "2021-01-02T21:28:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Allison"
+          },
+          "reviewBody": "The best item to use to squeeze water from any cooked leafy green - a potato ricer.",
+          "datePublished": "2021-01-03T19:32:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "c"
+          },
+          "reviewBody": "OMG! Delicious!\nBut ... I went the vegan, no oil, no dairy, route.\nInstead of chicken, I crumbled tofu. Skipped the cream, flaxseed replaced the egg, and instead of frying in oil, I baked the \"meatballs\" at 350 for 30 minutes, turning them half way of the cooking time.\nThey are so tasty, I will be making these over and over again.",
+          "datePublished": "2021-01-02T00:38:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Claudia"
+          },
+          "reviewBody": "Like all good meatball recipes, open to adaptations. This recipe a great riff on mid-eastern meatballs.  Used ground turkey (personal preference) and baked at 400 for about 20+ min...Wanted them spicier so added extra of all listed plus a healthy amount of Berbere. Also added a couple of glugs of olive oil to mix for flavor and fat. Served with a Greek yogurt dip (garlic/dill/lemon juice/cumin) and pitas. Lovely Saturday night supper.",
+          "datePublished": "2021-01-03T12:25:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jill"
+          },
+          "reviewBody": "that's a lovely fresh aromatic menu - thanks for putting it together and Happy New Year David Tanis! always such a pleasure to see your recipes here.",
+          "datePublished": "2020-12-31T22:49:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ameeta"
+          },
+          "reviewBody": "Add 6-8 finely chopped mint leaves to the meatball mixture. Takes it to another level.",
+          "datePublished": "2021-01-03T16:33:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol"
+          },
+          "reviewBody": "In a pinch, can one use frozen chopped spinach, defrosted and squeezed well?",
+          "datePublished": "2021-01-03T20:07:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "barbara"
+          },
+          "reviewBody": "I made these as burgers and used turkey instead, topping it with jack cheese and spreading a mayo/hot sauce on bun with arugula.",
+          "datePublished": "2021-01-03T22:08:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "plumping iron"
+          },
+          "reviewBody": "Made this as instructed and loved it! \n\nAdding this recipe to the regular rotation with slight modifications: \n\n—baking as opposed to frying\n—a much finer chop on the spinach (my bad)\n—ground turkey rather than ground chicken\n—less oil\n—drizzle of light garlic yogurt sauce",
+          "datePublished": "2021-01-03T17:13:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Becky"
+          },
+          "reviewBody": "I do this often to make ground chicken, as I find the texture of the stored-purchased ground chicken sort of gross.  And I can be sure I know exactly what chicken parts are in there.",
+          "datePublished": "2021-01-02T02:57:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cherie"
+          },
+          "reviewBody": "Would it be OK to use my Cuisinart to make the ground chicken? A mix of breast meat and thighs?",
+          "datePublished": "2021-01-01T18:29:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LTCT"
+          },
+          "reviewBody": "The flavors were great and the kids liked them. \n\n* I used a 1lb bag of frozen spinach. Just defrosted and wrung it in a cheese cloth. \n\n* I soaked the bread slices in the cream and then broke them up by hand like how I make Italian meatballs. I think it also helps everything mix more easily\n\n* I baked them on parchment lined baking sheets at 425 for 20 minutes\n\n* I made sauce with greek yogurt and the zest and juice of a lime. They taste great with lime. The kids made sandwiches with pita.",
+          "datePublished": "2021-01-07T23:21:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TP in Toronto"
+          },
+          "reviewBody": "These meatballs were superb, and pleasantly flavourful. Noting those who found them bland, I addressed the matter by using the same amount of aromatics and greens with only 1 lb ground chicken. The estimated time of 45 mins is ridiculous. I would recommend spreading your prep over a couple of days, and then removing the fully prepared balls from the fridge, letting them come to room temp, and then popping them into the oven at 425 for about 22 mins. I then gave them a few min under the broiler.",
+          "datePublished": "2021-01-16T22:46:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate"
+          },
+          "reviewBody": "I don’t care for ground chicken.  Has anyone made this with beef, pork or a combo?  \nAs to the comment about the cream, 1/2 cup for the whole recipe doesn’t seem like much per serving.  Substitute or don’t make it. Sheez...",
+          "datePublished": "2021-01-01T15:16:03.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021769-herbed-chicken-and-spinach-meatballs",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "David Tanis"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "These are meatballs to make when you want to eat on the light side, without sacrificing flavor. They are highly seasoned, with chopped spinach and cilantro and lots of aromatic spices. No need for a sauce, they can be served alongside a leafy salad or with steamed rice. Make the meatball mixture a day or two in advance, if desired.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Herbed Chicken and Spinach Meatballs",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/ac70e975-4648-52d4-bb7d-1127cd9df1b0#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex2-meatballs/merlin_181734129_082da169-321a-49a4-b4d5-58bbd0015909-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-12-31T21:04:53.673Z",
+          "datePublished": "2020-12-31T21:04:53.673Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-12-31T21:04:53.673Z",
+          "url": "https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex2-meatballs/merlin_181734129_082da169-321a-49a4-b4d5-58bbd0015909-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ac70e975-4648-52d4-bb7d-1127cd9df1b0#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex2-meatballs/merlin_181734129_082da169-321a-49a4-b4d5-58bbd0015909-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-12-31T21:04:53.673Z",
+          "datePublished": "2020-12-31T21:04:53.673Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2020-12-31T21:04:53.673Z",
+          "url": "https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex2-meatballs/merlin_181734129_082da169-321a-49a4-b4d5-58bbd0015909-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/ac70e975-4648-52d4-bb7d-1127cd9df1b0#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex2-meatballs/merlin_181734129_082da169-321a-49a4-b4d5-58bbd0015909-mediumSquareAt3X.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-12-31T21:04:53.673Z",
+          "datePublished": "2020-12-31T21:04:53.673Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2020-12-31T21:04:53.673Z",
+          "url": "https://static01.nyt.com/images/2020/01/06/dining/31Tanisrex2-meatballs/merlin_181734129_082da169-321a-49a4-b4d5-58bbd0015909-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021769-herbed-chicken-and-spinach-meatballs"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:36:28.763Z",
+  "scraping_status": "scraped"
+}

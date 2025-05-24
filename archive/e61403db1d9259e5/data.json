@@ -1,0 +1,644 @@
+{
+  "id": "e61403db1d9259e5",
+  "original_url": "https://cooking.nytimes.com/recipes/1021938-ginger-dill-salmon",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021938-ginger-dill-salmon",
+  "fetched_title": "Ginger-Dill Salmon Recipe (with Video)",
+  "main_text_content": "Salmon, gently roasted to a buttery medium-rare, stars in this make-ahead-friendly dish Fruity citrus and dill join spicy radishes and ginger, and the result is a refreshing, jostling mix of juicy, crunchy, creamy, spicy and sweet Both the salad and the salmon can be made two days ahead, and everything is good at room temperature or cold",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026765-lemon-butter-salmon-with-dill\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-blogSmallInline-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-videoSixteenByNine310-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Lemon Butter Salmon With Dill</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Genevieve Ko</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/e61403db1d9259e5/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/4b85f351-af8f-52fc-ac59-e07e04bdef22",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021938-ginger-dill-salmon",
+        "@type": "WebPage",
+        "name": "Ginger-Dill Salmon"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021938-ginger-dill-salmon",
+      "name": "Ginger-Dill Salmon",
+      "description": "Salmon, gently roasted to a buttery medium-rare, stars in this make-ahead-friendly dish. Fruity citrus and dill join spicy radishes and ginger, and the result is a refreshing, jostling mix of juicy, crunchy, creamy, spicy and sweet. Both the salad and the salmon can be made two days ahead, and everything is good at room temperature or cold. To embellish further, consider baby greens, thinly sliced cucumbers or fennel, roasted beets, soba noodles, tostadas, furikake or chile oil.",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/b70ab7b6-5ff1-5eb6-8f91-c61e9f1a8b8b#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2021-06-04T20:14:25.877Z",
+          "datePublished": "2021-06-04T20:14:25.877Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-06-04T20:14:25.877Z",
+          "url": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/b70ab7b6-5ff1-5eb6-8f91-c61e9f1a8b8b#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-superJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2021-06-04T20:14:25.877Z",
+          "datePublished": "2021-06-04T20:14:25.877Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-06-04T20:14:25.877Z",
+          "url": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/b70ab7b6-5ff1-5eb6-8f91-c61e9f1a8b8b#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2021-06-04T20:14:25.877Z",
+          "datePublished": "2021-06-04T20:14:25.877Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-06-04T20:14:25.877Z",
+          "url": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, lunch, seafood, main course",
+      "keywords": "fresh ginger, grapefruit, make-ahead, orange, salmon fillet",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 7160
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 560,
+        "unsaturatedFatContent": "25 grams",
+        "carbohydrateContent": "21 grams",
+        "cholesterolContent": null,
+        "fatContent": "37 grams",
+        "fiberContent": "6 grams",
+        "proteinContent": "37 grams",
+        "saturatedFatContent": "7 grams",
+        "sodiumContent": "864 milligrams",
+        "sugarContent": "11 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 (1 1/2-pound) salmon fillet, skin-on or skinless",
+        "Kosher salt and black pepper",
+        "6 tablespoons finely chopped dill",
+        "1 (2-inch) piece ginger, scrubbed and finely grated (no need to peel)",
+        "2 tablespoons extra-virgin olive oil, plus more for serving",
+        "1 grapefruit",
+        "2 oranges",
+        "6 small radishes, cut into thin wedges",
+        "1 avocado",
+        "Flaky sea salt, for finishing (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 325 degrees. Line a sheet pan with parchment paper. Pat the salmon dry, then place on the tray skin-side down (if there is skin) and season with salt and pepper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a medium bowl, stir together the dill, ginger and olive oil until combined. Season with salt and pepper. Spread half of the dill-ginger mixture over the top of the salmon. (Reserve the remaining dill-ginger mixture.) Bake until cooked through, 15 to 20 minutes. (You’ll know the salmon is done when the fish flakes or an instant-read thermometer inserted into the thickest part is 120 degrees.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "As the salmon cooks, cut off the top and bottom of the grapefruit and set the grapefruit down on one of the cut sides. Follow the curve of the fruit to cut away the peel and pith. Squeeze the peels into the remaining dill-ginger mixture to get out any juice. Cut the fruit in half from top to bottom, then slice into 1/4-inch-thick half-moons and remove the seeds. If your pieces are especially large, halve them again. Transfer the fruit and any juice on the cutting board to the bowl. Repeat with the oranges. Add the radishes, season generously with salt, and stir gently to combine."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Break the salmon into large pieces, and divide across plates with the citrus salad. Peel and pit the avocado, then quarter lengthwise and add to plates. Season with salt. Spoon the juices from the bowl over top, and season with black pepper, another drizzle of olive oil, and flaky sea salt, if using."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/8f457b2f-8cbf-5b35-9929-ae132adc13bc",
+        "@type": "VideoObject",
+        "author": [
+          {
+            "@id": "nyt://person/ab492048-5204-58ca-887b-ee4dc55e37cd",
+            "@type": "Person",
+            "name": "Scott Loitsch",
+            "url": "https://www.nytimes.com/by/scott-loitsch"
+          },
+          {
+            "@id": "nyt://person/ac7011de-c1a3-5ecb-8c14-aad5954df12b",
+            "@type": "Person",
+            "name": "Vaughn Vreeland",
+            "sameAs": "https://www.nytimes.com/by/vaughn-vreeland",
+            "url": "https://cooking.nytimes.com/author/vaughn-vreeland"
+          }
+        ],
+        "bitrate": "0",
+        "contentSize": "105583204",
+        "contentUrl": "https://vp.nyt.com/video/2022/03/30/99744_1_AS-Ginger-Dill-Salmon-Video_wg_480p.mp4",
+        "creator": [
+          {
+            "@id": "nyt://person/ab492048-5204-58ca-887b-ee4dc55e37cd",
+            "@type": "Person",
+            "name": "Scott Loitsch",
+            "url": "https://www.nytimes.com/by/scott-loitsch"
+          },
+          {
+            "@id": "nyt://person/ac7011de-c1a3-5ecb-8c14-aad5954df12b",
+            "@type": "Person",
+            "name": "Vaughn Vreeland",
+            "sameAs": "https://www.nytimes.com/by/vaughn-vreeland",
+            "url": "https://cooking.nytimes.com/author/vaughn-vreeland"
+          }
+        ],
+        "dateModified": "2024-10-15T20:21:55.870Z",
+        "datePublished": "2022-03-30T20:22:42.000Z",
+        "description": "Ali Slagle is in the studio kitchen making her Ginger-Dill Salmon, a recipe that she refers to as “the salmon to get your groove back,” or “the salmon to make the clouds go away.” It is THAT magical, folks. Salmon is gently roasted, then joined by fruity citrus, spicy radishes and soft avocado, tossed in a dill and ginger mixture. The result is a refreshing, jostling mix of juicy, crunchy, creamy, spicy and sweet.",
+        "duration": "PT8M37S",
+        "height": "480",
+        "name": "Ginger-Dill Salmon",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/b70ab7b6-5ff1-5eb6-8f91-c61e9f1a8b8b#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-videoSixteenByNineJumbo1600.jpg",
+            "creditText": "Christopher Simpson for The New York Times. Food Stylist: Barrett Washburne.",
+            "dateModified": "2021-06-04T20:14:25.877Z",
+            "datePublished": "2021-06-04T20:14:25.877Z",
+            "height": "900",
+            "uploadDate": "2021-06-04T20:14:25.877Z",
+            "url": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-videoSixteenByNineJumbo1600.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/b70ab7b6-5ff1-5eb6-8f91-c61e9f1a8b8b#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-superJumbo.jpg",
+            "creditText": "Christopher Simpson for The New York Times. Food Stylist: Barrett Washburne.",
+            "dateModified": "2021-06-04T20:14:25.877Z",
+            "datePublished": "2021-06-04T20:14:25.877Z",
+            "height": "1365",
+            "uploadDate": "2021-06-04T20:14:25.877Z",
+            "url": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-superJumbo.jpg",
+            "width": "2048"
+          },
+          {
+            "@id": "nyt://image/b70ab7b6-5ff1-5eb6-8f91-c61e9f1a8b8b#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-mediumSquareAt3X.jpg",
+            "creditText": "Christopher Simpson for The New York Times. Food Stylist: Barrett Washburne.",
+            "dateModified": "2021-06-04T20:14:25.877Z",
+            "datePublished": "2021-06-04T20:14:25.877Z",
+            "height": "1800",
+            "uploadDate": "2021-06-04T20:14:25.877Z",
+            "url": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-mediumSquareAt3X.jpg",
+            "width": "1800"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-videoSixteenByNineJumbo1600.jpg",
+        "uploadDate": "2022-03-30T20:22:42.000Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000008280493/ginger-dill-salmon.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-02-22T00:00:00.000Z",
+      "dateModified": "2021-03-03T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "konagirl"
+          },
+          "reviewBody": "This dish is delicious and so great for company. I do a shortcut version for weeknight dinners that cuts out the citrus salad. I make the salmon with the dill and ginger mixture and then squeeze whatever citrus I have laying around over it just before serving (usually lime and orange).",
+          "datePublished": "2025-05-03T15:23:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jo"
+          },
+          "reviewBody": "It was good but not worth the effort. Perhaps if you “cheated” and bought pre-sectioned orange and grapefruit at the grocery store.",
+          "datePublished": "2025-03-31T11:53:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "karen koop"
+          },
+          "reviewBody": "This was a BIG deal",
+          "datePublished": "2025-03-26T00:20:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lorry Kennedy"
+          },
+          "reviewBody": "Really good! I added fresh peas in the pod for crunch, and a small splash of balsamic dressing and agave syrup to the sauce.",
+          "datePublished": "2025-03-25T03:09:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "leigh k"
+          },
+          "reviewBody": "This seemed too simple to be great but it really came together into something real nice. No changes.",
+          "datePublished": "2025-03-25T03:17:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rich L"
+          },
+          "reviewBody": "Wow. What an explosion of flavors! Just loved it.",
+          "datePublished": "2025-03-23T23:31:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lynn"
+          },
+          "reviewBody": "This was awesome, even my non-fish eating husband liked it, a miracle! I used a lot of grated ginger in the dill mixture and it was a bit too much heat, so I added a tad of maple syrup which not only toned down the heat, but it also helped the mixture stick to the fish better!  just a dab will do it.",
+          "datePublished": "2025-03-22T04:23:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Naomi"
+          },
+          "reviewBody": "I substituted about 6 thinly sliced kumquats for the grapefruit. I had lots of kumquats left on trees and thought this might be a good way to use them. I sautéed them first for few minutes and then added to the oven about 10 minutes before serving. It was very nice substitution and could be an addition for those who eat grapefruit",
+          "datePublished": "2025-03-21T02:42:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "We made this as written and didn’t particularly enjoy the combination of flavors.  It was pretty, but didn’t work in our opinion.",
+          "datePublished": "2025-03-17T01:30:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "live your life"
+          },
+          "reviewBody": "Very good and easily adaptable. I didn’t have grapefruit nor my fam doesn’t like it so just used 4 mandarin oranges I wanted to clean out in the fridge. Flaky sea salt and black pepper over everything at the end adds a lot imo.",
+          "datePublished": "2025-02-24T02:09:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara"
+          },
+          "reviewBody": "Instead of radishes, some shaved fennel bulb provides great crunch and a flavor/aroma that is fantastic with citruses and salmon.",
+          "datePublished": "2025-02-22T22:11:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jill"
+          },
+          "reviewBody": "Can't do grapefruit because I take a statin drug. Substituted clementines for the grapefruit and oranges, and also put the citrus salad atop a bed of arugula. Otherwise made as written, and it was delish!",
+          "datePublished": "2025-02-16T23:38:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kurt"
+          },
+          "reviewBody": "This is a fantastic recipe, and I am not a “dill” guy. The citrus and ginger moderates and matures the flavor. I varied the fruit a little based on what I had in the house- mandarins, melon, kiwi and a splash of lime, but anything works with that dressing. I could eat a quart of the salad alone. Bonus points for being quick and very little cleanup. 5 stars for Ali!",
+          "datePublished": "2025-01-29T12:35:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy H"
+          },
+          "reviewBody": "This is one of my favorite recipes Absolutely delicious",
+          "datePublished": "2025-01-28T08:51:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Adam G"
+          },
+          "reviewBody": "I did not love this recipe. A bit too much dill - it overpowers everything else, especially the base of the citrus salad. I did not hate but also did not love this combination of ingredients (salmon, dill, radish, & citrus). I guess others can try this recipe, but I don't think that I will be revisiting it. Nevertheless, I recommend using less dill and more ginger than recommended.",
+          "datePublished": "2024-12-28T00:39:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kim"
+          },
+          "reviewBody": "What could I substitute for the grapefruit?  I cannot eat that in any form, due to some medication I take?  This recipe sounds delicious and I'm wondering if I could use lemon or lime with the orange and radish.",
+          "datePublished": "2021-02-24T16:04:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PS Lynx"
+          },
+          "reviewBody": "Instead of grapefruit use blood orange.",
+          "datePublished": "2021-02-25T03:08:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LEC"
+          },
+          "reviewBody": "I agree that it's not entirely clear from the recipe what to do with the second half of the mixture; I had to read the recipe several times to figure this out. You make the dill-ginger mixture in a bowl, right? Then half goes onto the salmon. The other half remains in the bowl. Step 3 has you \"squeeze the peels\" into the bowl with the remaining dill-ginger mixture, and then has you add the fruit and juice to the same bowl. Thus the remaining dill-ginger mixture becomes part of the citrus salad.",
+          "datePublished": "2021-03-10T19:48:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jmers"
+          },
+          "reviewBody": "Ok, I’m sure it’s me but the recipe calls for applying half the ginger/dill/olive oil mix to the salmon before placing in oven. I for the life of me or my eyeballs can’t find the instructions for the other half of this mix!",
+          "datePublished": "2021-02-28T02:43:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cindy"
+          },
+          "reviewBody": "The key to a perfectly cooked salmon is to follow the cooking method in the NYT's recipe: Salmon With Sautéed Mushrooms, Shallots and Fresh Herbs By Martha Rose Shulman.\n\nFill a roasting pan with boiling water and place it on the oven floor.\n\nThis works every time!",
+          "datePublished": "2021-02-27T17:23:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stephen F"
+          },
+          "reviewBody": "Statins and grapefruit:  I suspect most of the questions regarding substitution for grapefruit are related to the advice about concurrent use with statin cholesterol lowering drugs.  This might help ease the anxiety for some:  <a href=\"https://www.health.harvard.edu/heart-health/grapefruit-juice-and-statins\" target=\"_blank\">https://www.health.harvard.edu/heart-health/grapefruit-juice-and-statins</a>",
+          "datePublished": "2021-02-27T16:12:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy"
+          },
+          "reviewBody": "My husband and I can't eat grapefruit either.  I will substitute with mango and perhaps another orange.",
+          "datePublished": "2021-02-24T17:46:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sofi"
+          },
+          "reviewBody": "Made this tonight as written and served on baby spinach. Pretty good, but next time I’d definitely double the dill-ginger mixture and add more radishes. The flaky salt at the end was a great addition.",
+          "datePublished": "2021-02-25T03:22:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elaine"
+          },
+          "reviewBody": "This was insanely delicious. I used more ginger than called for. Since it was Easter, I blanched some asparagus and added them to the \"salad\" mix.  Sliced cherry tomatoes. Basically any lovely small veggies that you want to eat with salmon.  This is going to be my go-to summer luncheon for guests...it easily increases. For presentation's sake, I will get a large salmon center cut (or whole filet) and let guests cut into it for their own serving.",
+          "datePublished": "2021-04-30T23:53:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lari"
+          },
+          "reviewBody": "I prefer ruby red grapefruit, but where I live, I can only get sour/bland pink and white, so I would definitely skip the grapefruit and add an extra orange with a squeeze of lemon or lime.",
+          "datePublished": "2021-02-24T17:15:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jackie"
+          },
+          "reviewBody": "Delicious! Agree with others - would increase the ginger/dill mix. Served over baby spinach/arugula mix for a more traditional salad feel. Used blood oranges instead of regular oranges. Will definitely make again!",
+          "datePublished": "2021-02-25T04:24:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Viv"
+          },
+          "reviewBody": "Rather than add lemon or lime as some have suggested, mango with the orange slices sounds wonderful! Thank you for the suggestion.",
+          "datePublished": "2021-02-24T19:45:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Radicchio"
+          },
+          "reviewBody": "Had to make some substitutions and they were great - had no radishes or grapefruit, but had clementines and radicchio. 2 clementines mixed into dill/ginger, plus the juice of 1 more clementine. Castelfranco radicchio cut into thin slaw, tossed with dill/ginger/clementine and a little extra olive oil. Served over brown rice.",
+          "datePublished": "2021-02-28T00:55:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cathy"
+          },
+          "reviewBody": "How about substituting different types of oranges for the grapefruit. Blood oranges would look pretty.",
+          "datePublished": "2021-02-24T17:39:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ruth"
+          },
+          "reviewBody": "I discovered that my dill was no good so used cilantro instead, and it was delicious.",
+          "datePublished": "2021-03-01T19:27:01.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021938-ginger-dill-salmon",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "Salmon, gently roasted to a buttery medium-rare, stars in this make-ahead-friendly dish. Fruity citrus and dill join spicy radishes and ginger, and the result is a refreshing, jostling mix of juicy, crunchy, creamy, spicy and sweet. Both the salad and the salmon can be made two days ahead, and everything is good at room temperature or cold. To embellish further, consider baby greens, thinly sliced cucumbers or fennel, roasted beets, soba noodles, tostadas, furikake or chile oil.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Ginger-Dill Salmon",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/b70ab7b6-5ff1-5eb6-8f91-c61e9f1a8b8b#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2021-06-04T20:14:25.877Z",
+          "datePublished": "2021-06-04T20:14:25.877Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-06-04T20:14:25.877Z",
+          "url": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/b70ab7b6-5ff1-5eb6-8f91-c61e9f1a8b8b#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-superJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2021-06-04T20:14:25.877Z",
+          "datePublished": "2021-06-04T20:14:25.877Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-06-04T20:14:25.877Z",
+          "url": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/b70ab7b6-5ff1-5eb6-8f91-c61e9f1a8b8b#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2021-06-04T20:14:25.877Z",
+          "datePublished": "2021-06-04T20:14:25.877Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-06-04T20:14:25.877Z",
+          "url": "https://static01.nyt.com/images/2021/06/04/dining/04staff-roundup-Ginger-Dill-Salmon/merlin_182770569_5544939c-f76d-43f8-a3c0-b958c90e1e52-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021938-ginger-dill-salmon"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:24.330Z",
+  "scraping_status": "scraped"
+}

@@ -1,0 +1,870 @@
+{
+  "id": "da6fa443463a2fce",
+  "original_url": "https://cooking.nytimes.com/recipes/1024238-toasted-sesame-and-citrus-wedding-cake",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1024238-toasted-sesame-and-citrus-wedding-cake",
+  "fetched_title": "Toasted Sesame and Citrus Wedding Cake Recipe (with Video)",
+  "main_text_content": "Everyone loves receiving a homemade gift, but how about a showstopping, two-tiered, citrus-festooned, sesame-laced wedding cake With a little planning (and an organized freezer), it’s so much easier than you think Thin, even layers of vanilla sponge cake, soaked with a vivid citrus syrup, are draped like lasagna sheets into pans, along with swaths of nutty sesame buttercream, charred citrus compote and a granola-adjacent sesame crunch",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026813-easy-carrot-cake-with-cream-cheese-frosting\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/05/07/multimedia/07FD-KOREX-Easiest-Carrot-Cake-lmgz/07FD-KOREX-Easiest-Carrot-Cake-lmgz-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Easy Carrot Cake With Cream Cheese Frosting</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Genevieve Ko</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/da6fa443463a2fce/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/488f9df6-b38f-5501-8d76-f930b94c6384",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1024238-toasted-sesame-and-citrus-wedding-cake",
+        "@type": "WebPage",
+        "name": "Toasted Sesame and Citrus Wedding Cake"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024238-toasted-sesame-and-citrus-wedding-cake",
+      "name": "Toasted Sesame and Citrus Wedding Cake",
+      "description": "Everyone loves receiving a homemade gift, but how about a showstopping, two-tiered, citrus-festooned, sesame-laced wedding cake? With a little planning (and an organized freezer), it’s so much easier than you think. Thin, even layers of vanilla sponge cake, soaked with a vivid citrus syrup, are draped like lasagna sheets into pans, along with swaths of nutty sesame buttercream, charred citrus compote and a granola-adjacent sesame crunch. The cake rests while you do, then is removed from the pans, coated in buttercream, packed up and assembled the day of the wedding. There's no finer — or more delicious — way to allow the effort, care and creativity of its maker to come through. And don’t forget to save and freeze the excess cake scraps for ice cream sandwiches, trifles or snacking. \n\nFor the equipment you’ll need to put this cake together, check our Wirecutter’s recommendations for baking essentials and cake decorating tools.",
+      "author": {
+        "@type": "Person",
+        "name": "Natasha Pickowicz"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/016c611a-c272-53c2-a983-a0e6a9466f03#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2023-06-02T15:28:07.457Z",
+          "datePublished": "2023-06-02T15:27:34.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-02T15:27:34.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/016c611a-c272-53c2-a983-a0e6a9466f03#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-superJumbo.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2023-06-02T15:28:07.457Z",
+          "datePublished": "2023-06-02T15:27:34.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-02T15:27:34.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/016c611a-c272-53c2-a983-a0e6a9466f03#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-mediumSquareAt3X.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2023-06-02T15:28:07.457Z",
+          "datePublished": "2023-06-02T15:27:34.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-02T15:27:34.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT40M",
+      "cookTime": "PT6H",
+      "totalTime": "PT18H",
+      "recipeYield": "About 60 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "project, dessert",
+      "keywords": "citrus, egg white, freezer friendly, layer cake, lemon, make-ahead, orange, party, sesame oil, sesame seed, tahini",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 169
+      },
+      "recipeIngredient": [
+        "12 large cold eggs ",
+        "1 cup/240 grams neutral oil, like grapeseed",
+        "2 tablespoons vanilla extract",
+        "4 cups/800 grams granulated sugar",
+        "3 1/2 cups/480 grams all-purpose flour",
+        "2 tablespoons plus 2 teaspoons baking powder",
+        "2 teaspoons kosher salt (such as Diamond Crystal) or 1 teaspoon fine sea salt",
+        "Nonstick cooking spray",
+        "4 large egg whites ",
+        "1/2 packed cup/120 grams light brown sugar",
+        "1 teaspoon vanilla extract ",
+        "1/2 teaspoon kosher salt (such as Diamond Crystal) or 1/4 teaspoon fine sea salt",
+        "1 3/4 cups/226 grams toasted white sesame seeds",
+        "2 large navel oranges",
+        "3 lemons or Meyer lemons",
+        "1 1/2 cups/300 grams granulated sugar",
+        "1/2 teaspoon citric acid, plus more to taste (optional; see Tip)",
+        "1/2 cup/120 grams fresh lemon juice",
+        "1/3 cup/70 grams granulated sugar",
+        "12 large egg whites",
+        "3 cups/600 grams granulated sugar",
+        "1 cup/150 grams confectioners’ sugar",
+        "1 tablespoon vanilla extract",
+        "1 teaspoon kosher salt (such as Diamond Crystal) or 1/2 teaspoon fine sea salt, plus more if needed",
+        "2 pounds/912 grams unsalted butter, cut into tablespoons, at room temperature",
+        "1 tablespoon toasted sesame oil",
+        "1 cup/240 grams tahini ",
+        "Assortment of fresh citrus, such as small tangerines, lemons and kumquats, washed and scrubbed",
+        "Fresh food-safe greenery, such as bay leaves or olive branches"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToSection",
+          "name": "Prepare the chiffon cake layers:",
+          "itemListElement": [
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Heat oven to 350 degrees. Line the bottoms of 3 half-sheet pans (13-by-18-by-1-inch) with sheets of parchment."
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Carefully crack eggs into a bowl without breaking the yolks. Pluck out yolks one at a time with clean fingertips, transferring to a large bowl. Transfer the egg whites to the bowl of a stand mixer; set aside. To yolks, add 1 cup/240 grams water, the oil, vanilla and 3 cups/600 grams granulated sugar; whisk until smooth. "
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "In a very large bowl, whisk flour, baking powder and salt. Pour yolk mixture into dry ingredients and gently stir to combine. (Small lumps are OK.) "
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Using the whisk attachment, beat egg whites in the stand mixer on medium-high speed until a soft peak forms, about 2 minutes. With the mixer running, stream in remaining 1 cup/200 grams granulated sugar and continue whisking until a glossy, floppy meringue forms, another 3 to 4 minutes. "
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Scrape one-third of the meringue into yolk mixture and gently fold with a spatula until mixture is loosened. Add remaining meringue and fold until batter feels billowy and some white streaks remain. Divide batter evenly among prepared pans. Smooth the surfaces evenly with an offset spatula and transfer to the oven, working in batches if needed. "
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Bake until centers of cakes spring back to the touch and edges are lightly golden, about 18 minutes. If oven heat is uneven, switch the positions of the pans halfway through. Let cakes cool completely in pans until ready to use. The cakes, tightly wrapped in their pans, can be refrigerated for up to 1 week, or frozen for up to 1 month."
+            }
+          ],
+          "text": ""
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToSection",
+          "name": "Prepare the sesame crunch:",
+          "itemListElement": [
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "If the oven is off, heat to 350 degrees. Line a 13-by-18-inch sheet pan with a sheet of parchment and coat with nonstick spray."
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "In a medium bowl, whisk egg whites, light brown sugar, vanilla and salt until glossy, about 3 minutes. Stir in sesame seeds. Pour batter onto prepared pan and smooth to the edges with a small offset spatula. "
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Bake for 6 minutes. Remove from oven and use a bench scraper or butter knife to chop. Bake for another 5 to 6 minutes, or until pieces no longer feel sticky. "
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Let sesame crunch cool completely in the pan; it will continue to crisp as it rests. If it still seems chewy after cooling, bake for an additional 3 to 4 minutes. Finely chop into tiny clusters. The sesame crunch can be stored in an airtight container at room temperature for up to 2 weeks, or in the freezer for up to 1 month."
+            }
+          ],
+          "text": ""
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToSection",
+          "name": "Prepare the citrus compote:",
+          "itemListElement": [
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Wash and scrub the oranges and lemons. Cut each in half crosswise. Heat a large pot or Dutch oven over medium-low and add fruit, cut sides down. They should sizzle upon contact. Let sear, undisturbed, for about 10 minutes, until the cut sides of the fruit are blackened in spots. Use tongs to carefully flip each piece and continue to cook for another 10 minutes, until the peel is softened and charred in spots. "
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Transfer citrus to a cutting board to cool. Add 8 cups water to the pot, scrape the bottom and bring water to a simmer. "
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Peel the fruit, and reserve citrus segments. (You should have about 2 cups segments.) Roughly chop peels. "
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Add chopped peels to the simmering water and simmer, stirring occasionally, until peels are tender, 10 to 15 minutes. Drain peels in a colander, discarding the water. "
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Press citrus segments through a strainer into a small bowl to yield 1/2 cup juice. Set juice aside for the charred citrus soak (see Make the Citrus Soak)."
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Transfer spent pulp in the strainer to the pot, and add granulated sugar, cooked peels and 1 cup/240 grams water. Bring to a simmer over medium-low heat and cook, stirring occasionally, until mixture is thickened and saucy, 25 to 30 minutes. If mixture looks tight or dry, add 1/4 cup/60 grams water at a time and continue to cook until peels are tender."
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Remove from heat and use an immersion blender or food processor and pulse until the mixture is smoothed out but retains a little texture. Stir in citric acid, if using. The compote should taste sweet and sour. Add more citric acid if desired. Let cool completely. The compote can be stored in an airtight container in the refrigerator for up to 2 weeks, or in the freezer for up to 1 month."
+            }
+          ],
+          "text": ""
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToSection",
+          "name": "Make the citrus soak:",
+          "itemListElement": [
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Make the citrus soak: Combine 1/2 cup reserved charred citrus juice (see Step 5 of Prepare the Citrus Compote) with 1/2 cup/120 grams water, the fresh lemon juice and granulated sugar in a small saucepan. Gently warm over low heat, stirring occasionally, until sugar melts, about 5 minutes. Cool completely. The soak can be refrigerated in an airtight container for up to 1 week, or frozen for up to 1 month. Thaw before use."
+            }
+          ],
+          "text": ""
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToSection",
+          "name": "Prepare the buttercream:",
+          "itemListElement": [
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Add egg whites and granulated sugar to a stand mixer bowl or other large heatproof bowl and set over a medium saucepan of steaming water set over low heat. (The water should not touch the bottom of the bowl.) Whisk continuously until mixture registers 155 degrees, about 10 minutes. "
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Remove the bowl from the pot and fit into the stand mixer with the whisk attachment. Whisk on medium-high speed until the mixture has cooled slightly, about 4 minutes. Add confectioners’ sugar and mix on low speed to combine. Mix in vanilla and salt."
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Check the temperature of the meringue with a clean fingertip: It should be room temperature. With the mixer on medium speed, add butter, piece by piece, until fully incorporated, then increase speed to medium-high and whisk until smooth and fluffy, another 3 to 5 minutes."
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "If the buttercream looks runny, refrigerate for 10 to 15 minutes to cool and then beat again until it is creamy and spreadable. With machine running, add sesame oil and mix to combine, then add tahini and whisk just until incorporated. Taste and add more salt if desired. The buttercream can be refrigerated in an airtight container for up to 2 weeks, or frozen for up to 1 month. If frozen, thaw overnight in the refrigerator, then bring to room temperature before use (this will take at least 2 hours and possibly more)."
+            }
+          ],
+          "text": ""
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToSection",
+          "name": "Assemble the cake tiers:",
+          "itemListElement": [
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Line an 8-inch round cake form or pan (at least 3 inches deep) with plastic wrap, being sure to leave  plenty of overhang. Repeat with a 10-inch round cake form or pan (also at least 3 inches deep). Peel off and discard parchment from cake layers."
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Cut out the 8-inch cake rounds: Using the bottom of the 8-inch pan as a guide, trace and cut out an 8-inch circle with a small serrated knife on the upper left corner of one of the cake sheets. Trace and cut another 8-inch circle on the lower right corner of the sheet. Trace and cut a half-moon shape on the upper right corner of the sheet, and then the lower left corner. Lay those half-moons over a whole circle and cut out strips of cake from the scraps to complete the circle. You will have three 8-inch rounds total (including the two half-moons and their cake strips)."
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Build the 8-inch cake tier: Invert one cake round into the bottom of the plastic wrap-lined pan. Brush cake with 3 tablespoons citrus soak. Spoon 3/4 cup buttercream on top, and spread it evenly with a small offset spatula. Dollop 1/2 cup citrus compote on top of buttercream. Scatter about 3/4 cup sesame crunch on top."
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Arrange the two half-moons and strips of cake on top to form the second 8-inch cake layer. Apply another 3 tablespoons citrus soak, then 3/4 cup buttercream, followed by another 1/2 cup citrus compote, plus another 3/4 cup sesame crunch. Place the remaining 8-inch cake round on top and brush on 3 tablespoons citrus soak. Wrap the cake pan securely with plastic wrap and refrigerate for at least 12 hours. "
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Cut out the 10-inch cake rounds: Using the bottom of the 10-inch pan as a guide, trace and cut a 10-inch circle with a small serrated knife on the left side of one of the cake sheets. Trace and cut part of another 10-inch circle on the right side and a smaller crescent moon on one of the edges. Lay the partial pieces over the whole circle and cut cake scraps to fill in the gaps. Repeat with the third sheet of sponge; you will have four 10-inch rounds total."
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Next, build the 10-inch cake tier: Invert one cake round in the bottom of the plastic wrap-lined pan. Brush cake with 1/4 cup citrus soak. Spoon 1 cup buttercream on top, and spread it evenly with a small offset spatula. Dollop 2/3 cup citrus compote on top. Scatter about 1 1/4 cups sesame crunch on top. "
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Place a cake layer with a missing edge on next and complete the round with its matching pieces. Apply another 1/4 cup citrus soak, then 1 cup buttercream, followed by another 2/3 cup compote, plus another 1 1/4 cups sesame crunch. Repeat this sequence with a third layer of cake and its matching pieces, then place the remaining whole 10-inch cake round on top, and brush on the remaining 1/4 cup citrus soak. Wrap the cake pan securely with plastic wrap and refrigerate for at least 12 hours. Both cake tiers can be refrigerated for up to 3 days or, preferably, frozen for up to 3 weeks. "
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Refrigerate the remaining buttercream until ready to apply. If the cakes have been frozen, they do not need to thaw. Completely frozen cakes are more stable and easier to handle and frost. "
+            }
+          ],
+          "text": ""
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToSection",
+          "name": "Frost the cake tiers:",
+          "itemListElement": [
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Let the reserved refrigerated buttercream sit at room temperature for an hour, then whisk with a stand mixer until fluffy and spreadable, about 3 minutes."
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Invert the 8-inch cake onto an 8- to 8 1/2-inch cardboard cake round set on top of a baking sheet. Remove the cake form or pan, then peel off the plastic wrap. Dollop 2 cups buttercream on top and use an offset spatula to spread it all the way to the edges of the cake."
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Dab 1 cup buttercream on the sides of the cake, smoothing each dab to touch the one before, until none of the cake is visible. Once the sides of the cake are roughly covered in buttercream, run the offset spatula along the top surface again to smooth it out. Run the offset again along the sides of the cake, where excess buttercream will have gathered, to pull away any excess frosting; the cardboard cake round should not be visible. Refrigerate the cake uncovered while you frost the second cake."
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Invert the 10-inch cake onto an 11- to  12-inch cardboard cake round, large flat serving platter or decorative cutting board. Remove the cake form or pan, then peel off the plastic wrap. Dollop 2 cups buttercream on top and use an offset spatula to spread it all the way to the edges of the cake. "
+            },
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Dab 2 cups buttercream on the sides of the cake, smoothing each dab to touch the one before, until none of the cake is visible. Once the sides of the cake are roughly covered in buttercream, run the offset spatula along the top again to smooth it out. Run the offset again along the sides of the cake, where excess buttercream will have gathered, to pull away any excess frosting. Refrigerate uncovered for at least 1 hour before stacking the tiers. The tiers can be refrigerated separately for up to 2 days."
+            }
+          ],
+          "text": ""
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToSection",
+          "name": "Assemble the wedding cake:",
+          "itemListElement": [
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "If the wedding is in another location, transport the separate tiers in deep cardboard boxes or crates to the venue. To assemble, simply place the 8-inch tier with its cardboard base on top of the 10-inch cake. Decorate the edges and sides of the cake with the fresh citrus and greenery. The cake can be displayed in a shaded, cool outdoor space or in a cool or air-conditioned indoor space for up to 5 hours. Do not let the assembled cake sit in direct sun for longer than an hour. The cake is not in danger of collapsing or shifting because the tiers are so wide, but the buttercream may melt in a warm setting."
+            }
+          ],
+          "text": ""
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToSection",
+          "name": "When ready to serve, cut the cake:",
+          "itemListElement": [
+            {
+              "@context": "http://schema.org",
+              "@type": "HowToStep",
+              "text": "Using a chef’s knife, cut the 8-inch cake into thirds by making two parallel slices, then cut crosswise into 1-inch-thick pieces, wiping the knife clean between each new cut. Cut the 10-inch cake into quarters by making three parallel slices, then cut those pieces crosswise into 1-inch-thick pieces. The 8-inch cake yields about 24 small slices; the 10-inch cake about 36 slices."
+            }
+          ],
+          "text": ""
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/411a8b45-37b8-5677-9036-d4fbc9f0dd4f",
+        "@type": "VideoObject",
+        "author": {
+          "@id": "nyt://person/0f1a5b18-7e38-59fe-8132-b5015cd37148",
+          "@type": "Person",
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/by/the-new-york-times"
+        },
+        "bitrate": "0",
+        "contentSize": "429858309",
+        "contentUrl": "https://vp.nyt.com/video/2023/10/16/112300_1_NP-wedding-cake-CV_wg_480p.mp4",
+        "creator": {
+          "@id": "nyt://person/0f1a5b18-7e38-59fe-8132-b5015cd37148",
+          "@type": "Person",
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/by/the-new-york-times"
+        },
+        "dateModified": "2024-09-11T16:50:57.007Z",
+        "datePublished": "2023-10-17T14:11:11.000Z",
+        "description": "Everyone loves receiving a homemade gift, but how about a showstopping, two-tiered, citrus-festooned, sesame-laced wedding cake? With a little planning (and an organized freezer), it’s so much easier than you think. Thin, even layers of vanilla sponge cake, soaked with a vivid citrus syrup, are draped like lasagna sheets into pans, along with swaths of nutty sesame buttercream, charred citrus compote and a granola-adjacent sesame crunch. The cake rests while you do, then is removed from the pans, coated in buttercream, packed up and assembled the day of the wedding. There’s no finer — or more delicious — way to allow the effort, care and creativity of its maker to come through. And don’t forget to save and freeze the excess cake scraps for ice cream sandwiches, trifles or snacking.",
+        "duration": "PT35M7S",
+        "height": "480",
+        "name": "Toasted Sesame and Citrus Wedding Cake",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/016c611a-c272-53c2-a983-a0e6a9466f03#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-videoSixteenByNineJumbo1600.jpg",
+            "creditText": "Ryan Liebe for The New York Times. Food Stylist: Maggie Ruggiero.",
+            "dateModified": "2023-06-02T15:28:07.457Z",
+            "datePublished": "2023-06-02T15:27:34.000Z",
+            "height": "900",
+            "uploadDate": "2023-06-02T15:27:34.000Z",
+            "url": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-videoSixteenByNineJumbo1600.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/016c611a-c272-53c2-a983-a0e6a9466f03#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-superJumbo.jpg",
+            "creditText": "Ryan Liebe for The New York Times. Food Stylist: Maggie Ruggiero.",
+            "dateModified": "2023-06-02T15:28:07.457Z",
+            "datePublished": "2023-06-02T15:27:34.000Z",
+            "height": "1365",
+            "uploadDate": "2023-06-02T15:27:34.000Z",
+            "url": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-superJumbo.jpg",
+            "width": "2048"
+          },
+          {
+            "@id": "nyt://image/016c611a-c272-53c2-a983-a0e6a9466f03#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-mediumSquareAt3X.jpg",
+            "creditText": "Ryan Liebe for The New York Times. Food Stylist: Maggie Ruggiero.",
+            "dateModified": "2023-06-02T15:28:07.457Z",
+            "datePublished": "2023-06-02T15:27:34.000Z",
+            "height": "1800",
+            "uploadDate": "2023-06-02T15:27:34.000Z",
+            "url": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-mediumSquareAt3X.jpg",
+            "width": "1800"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-videoSixteenByNineJumbo1600.jpg",
+        "transcript": "“- People go nuts for those tiers. Once you add the decor and really have fun with it, that’s a showstopping moment that people are just not going to forget.” [BRIGHT MUSIC] “I’m Natasha Pickowicz. I am a pastry chef and writer based in New York City. And we are here today in the NYT Cooking Studio. And we’re going to make a wedding cake. Making a wedding cake is this final frontier in pastry and cake making. It’s the thing that we look to professionals to make for us. But I’m here to say that we should be making wedding cakes for your family members, your friends. It’s really just the most special way that you can participate in someone’s big day. If you have a relationship to the couple at the wedding, then already you’ve, like, elevated the event into something that feels bespoke and specific and personal. The decor moment of a wedding cake is definitely my favorite part of the process. I think that’s when you can really infuse the cake with your own personality, your style, but also your environment. Maybe you have a small container garden and you’re growing little edible herbs. It’s about bringing those unexpected elements into a cake to create something that’s more than the sum of its parts. And you can really do that with just about anything. A lot of times when you think about a wedding cake, you’re thinking about classic flavors that everyone loves, so things like citrus, vanilla bean. So I wanted to put my own twist on those flavor profiles. So we have a toasted sesame buttercream, a vanilla bean chiffon sponge, and a charred citrus compote. I think that this is definitely a wedding cake that you can make year-round. The idea is we’re pulling citrus that you can find in a grocery store anywhere, so oranges, lemons. It’s really whatever you want to find. And it’s going to taste fresh and vibrant no matter when you make it. ‘Chiffon’ means it’s kind of like a light, airy, absorbent cake. It’s almost like a sponge, hence it’s going to be receptive to those flavorful soaks. It’s going to freeze really well. But it really starts with 12 eggs. And I’m going to show you how I have always separated eggs from working in restaurants. You really want to crack all your eggs all at once. I always start with cold eggs. And that is going to let the yolk be more separate from the white. And you’ll have less of a chance of it bleeding into your whites, because we want those clean whites because we’re going to whip them into an airy meringue. So if you have clean hands, just go right in there and pull out the yolks. So I do that by passing the yolk from hand to hand. So I guarantee you this is so much faster. It’s so much more efficient. I hope you’ll take this into your home and try it. It’s really the best. And now we’re going to do the cake mix. So we’ll start with the dry ingredients. And you want to make sure you’re seasoning all of your components really well. It’s not just about adding flaky sea salt at the end. It’s about making sure everything feels balanced in the actual cake itself. So just use a whisk and kind of whisk it all up. And now we’re going to do our wet ingredients. Sugar does so much more than make things sweet. It also makes cakes tender and makes them light. It gives them that great texture. I wouldn’t recommend olive oil. That’s a very distinct flavor. And we really want to make kind of, like, a delicate vanilla-scented cake. And you just want to whisk everything until it’s well combined. O.K., and then we’re going to add 2 tablespoons of vanilla extract, which it does seem like a lot. But this is really the flavor of the cake that we want to come across. So I really go for it, and it just tastes incredible. We’re going to transfer the wet and the dries into a bigger bowl. I’m running my spatula around the edges of the bowl and kind of lifting and pulling up the center of the mix to get it all combined. So it’s fine just like this with a little bit of dry showing. And now we can get to work making our meringue. So I’ll just get it going on high speed. What you’re really looking for is the egg white to start foaming up around the edges. It’s going to start getting aerated. It’s going to start turning white. So you want to look for all of these visual cues before you add in the sugar. So I won’t add it in all at once. I’ll add a little bit while the mixer is running so the meringue has its best chance of being really voluminous and light. I always err on the side of under-whipping my meringue because this structure of the sugar bonded with the egg whites is very stable and will actually re-inflate in the oven as the cake bakes. Let’s see. You can use your whisk as an indicator. So it’s, like, floppy but yet stiff. O.K., so I’ll start with just 1/3 of this mixture. In bakeries, we call this sacrificing the egg whites. So we’re going to sacrifice a bit of the meringue to make this mixture easier to work with. I’m just very gently folding. And I’m kind of twisting the mixing bowl as I’m folding, gently stirring in this meringue. So once it kind of looks streaky and is halfway incorporated, I’ll add the rest. And you can see how billowy and light and delicious-looking this cake batter is. So I’ll almost stop right here. It has kind of, like, an under-mixed quality to it. But again, once we transfer it into the sheet pans, we’re going to ‘mix’ it more when we spread it out. So there’s no need to over-mix it at this point. O.K., so we’re going to make a two-tier wedding cake from three sheet trays of cake, which I love. It kind of feels like magic. It doesn’t seem like that much. But then after it bakes and you put everything together, you’re like, whoa, I have a huge cake now. This is lined with parchment paper cut to fit. Sponges that are leavened with eggs have a better chance of rising if you’re not greasing the pan. So here, I would not use a nonstick pan. I mean, you can. But I think you’re going to get a better rise if you don’t have that nonstick coating. So I’ll just eyeball this into three pans. You could bake this as a deeper cake, as well. But for me, a great wedding cake is all about those really thin layers that kind of interchange with those creamy moussey fillings. So just use this offset spatula to kind of pull the cake batter into the corners. You just want it to fill the cake pan evenly. Have you ever made a cake in a round cake pan that’s deep and it has that dome on top? When you’re baking really thin cake layers like this, there’s no doming. Everything comes out perfectly flat and even, and it’s so satisfying. And we will bake them off together all at once. Wow, three racks. Amazing. I think most home ovens only have two racks. So you can have a sheet of cake sitting out ready to go. Once those two come out, just put the third one in.” [MUSIC PLAYING] “Whenever I’m making a layer cake, I’m thinking about the way that different textures are going to come together, different flavors. You want things sweet and salty and acidic, crunchy and smooth and creamy. I think that’s what takes wedding cakes into this whole other place. So this is our crunchy element. This is actually how I make granola. If I want to make like a lighter granola that doesn’t have oil or butter in it, I’ll make it with whisked egg whites. And what the egg whites do is they bind things to each other. And they act as a glue. But also, when you bake them at a low temperature, they make things crispy. It’s barely a recipe. It’s more of a technique that we’re using to crisp things like seeds and nuts up. You can buy sesame seeds toasted already, which I find very handy. Or you can toast them yourself, like in a skillet. Just watch them. Make sure they don’t burn. And it’s going to make this thick, beautiful mixture. Because this mixture can get very sticky, you want to be able to easily peel back the parchment when you’re done. So just a nice thin coat. We’ll pour it right onto the sheet pan. Oh, my God, it’s so pretty. I’ll take the offset and spread it to fill the entire tray. I think black sesame seeds would be really yummy here, too. But I think what we’re going for is those clean light flavors of white sesame, citrus, vanilla -- super elegant for a wedding. So once it’s all evenly in, transfer to the oven. And we’re going to let this go for, like, six minutes. And then we’re going to chop it up a little bit to let it crisp up into these little nuggets, these little shards. And then we’ll bake it until it’s completely crunchy all the way through. So we have two beautiful navel oranges and three Meyer lemons. You can also use regular lemons, blood oranges, tangerines. It’s really whatever you have available to you that you’re excited about. We’re going to use this pot, not just for searing the citrus but for cooking the compote later. Get the heat on. This is actually something that I picked up working in restaurants on the savory side because all the time, I would see savory chefs developing intense flavor through grilling fruits, vegetables, making them into sauces, purees. And I think that this is a technique that can be worked really well for building flavor into wedding cakes, too. We don’t need these little stems here. We’re going to sear the fruit completely. As the cut citrus interacts with the hot surface of the pot, it’s going to blacken. It might stick to the bottom. Totally O.K. Just let it do its thing. That’s where all that flavor is going to come from and really add this surprising depth to a layer cake. So it’s not just citrus, but you also get that incredible blackened flavor. It’s so cute, like, tucked into its little pot bed. O.K., so we’re going to let this rock for, like, 8, 10 minutes over a strong medium heat. So I think our cakes are done. So I think we can pull them out of the oven now. I will just go in with my finger, see that the top is kind of springing back to the touch. Sometimes I’ll just pull back a bit and just look at the crumb. And I’ll see that the crumb’s set up. See how our sesame crunch is doing. Still feels a little tacky. So I think we’ll let it dry out a little bit more. It’s been about 10 minutes. And so you want to look for this kind of beautiful, blackened edges. The fruit is caramelizing. So just flip everything over. And don’t worry about scraping anything up if anything sticks because we’re actually going to loosen those blackened bits with water when we blanch the peel. So we’re going to let the other side now cook for another 10 minutes because we also want those peels to get kind of blackened. This is just such a great way to add another layer of depth, building flavor by treating citrus in this different way. O.K., so we added water to this to loosen the charred bits on the bottom. And we’re going to use this charred water to blanch the peels in. And as soon as it’s cool enough to peel, just get in there and remove the blackened fruit from the peel. And we’ll transfer this fruit into a strainer because we’re going to press out some juice and strain it for our citrus soak for the cake layers. Wow, these are so juicy. Once you have all of your fruit peeled, we’re just going to roughly chop the peel so it cooks evenly and quickly in this water bath. O.K., and then this is almost up to a simmer. So we’ll dump our peel in. We’re looking for 10 minutes or until it kind of feels tender but not mushy. When I’m thinking about soaks, I’m really thinking more about adding richness or acidity or bitterness or something surprising. This cake that we just made, the chiffon cake, it’s literally called a sponge because it’s deeply absorbent. And it can really handle added moisture without becoming soggy. So this is how we’re going to add a citrus component to it. But it’s not even in the cake, it’s built in secretly after. We’re going to press 1/2 a cup of juice for the charred citrus soak. You want a clear juice that doesn’t have the pulp in it. So I’ll just strain it one more time so it’s super smooth. We don’t want anything to taste too sweet. The cake already has sugar in it. So it’s really about adding another dimension of flavor to the cake. And then we’re going to dissolve this granulated sugar in this liquid. So we don’t need to bring it to a crazy boil or anything like that. We just want to melt out the sugar. I love multitasking when I’m baking, too. I’m like, I have a jam working. I have something in the oven. I have a soak going. If you’re organized and have a clean workstation, then it’s a lot easier than you think. So I’ll even just take a piece of peel out like you’re testing pasta for doneness. It’s on the very crisp side of al dente. And again, you want it to feel tender and toothsome but not falling apart. It’s really just going to give the compote a head start when we’re cooking it with the sugar later. So even in this soak, you can see little bits of the charred peel, which is so pretty. Mm, it’s sour and charred and a little sweet, but not too sweet. And that’s, again, for every cake layer of both tiers of the cake. So it’s really not about the sweetness. It’s more about the acidity of the citrus. So we’ll just set this aside for when we’re building our cake. Our peel is fork tender. And we’re going to get rid of all this water. It would taste bitter because of all the peel that’s been soaking in it. And you can see how it loosened up all this blackened bits from the bottom of the pot, which I love. This is going to take about 25 to 30 minutes, kind of simmering over medium-low heat. You don’t have to babysit it. Just come in every couple of minutes, give it a stir. Make sure it’s not sticking or scorching on the bottom. What you’re looking for is a bubbly, even, delicious, jammy mixture.” [GROOVY MUSIC] “This is about after 30 minutes. The peel is candied and glossy. The mixture has really come together. But it’s still quite chunky. So for the purposes of putting it into a cake, we’re going to buzz it up.” [LIGHT WHIRRING] “And if your peel is properly cooked all the way through, it’ll almost disappear into the compote and make it the best, yummiest texture. You can see there are a couple of bigger pieces. Totally fine. But you’re mostly getting this beautiful, fine, chunky compote. I also wanted to show one of my favorite pastry secret ingredients. This is citric acid. So it’s totally food safe. It’s actually used as a preservative. But it’s also a great flavor enhancer. A little bit goes a long way. Totally optional, but I just love how this really makes things balanced and pop and sing. Mm, so now, wow, on the back end, you get that great little acidity plus the sweetness. It’s so good. Once the cake gets built, you kind of say goodbye to it, and it’s done. So this is the chance where you have to adjust flavors, seasonings for your palate. We’ve made the vanilla chiffon sponge. We’ve made the charred citrus soak. We’ve made the charred citrus compote. We’ve made the sesame crunch. Like, we’ve done so much. So now what we’re going to do is while these components cool and rest, we’ll make the buttercream. And then while that relaxes, we’ll build the cakes. So yeah, we’re in the home stretch. A Swiss buttercream is what this recipe is based on. So this is kind of my go-to for wedding cakes. I think a lot of European-style buttercreams have this egg component worked into them to balance the sweetness of the sugar. Also, because you’re cooking the meringue, it’s incredibly stable for making something like a tiered wedding cake. What we’re going to do is cook this meringue mixture to a temperature of 155 Fahrenheit. You want a heatproof bowl perched over a pot that it will sit snugly into. So I always reach for a bowl that’s almost a little bit too big because then I have space to make the gestures and movements that I want to make. This will take anywhere from 6 to 7 to 8 to 10 minutes. You have to keep moving the mixture as it’s cooking, otherwise you’re going to get a weird omelet on the bottom of your bowl. When I was working in restaurants and we would make massive batches of buttercream at a time, this times four in a really wide bowl is -- [CHUCKLING]:: -- actually very exhausting. But we always joke that if you’re a pastry chef, you have ripped forearms from whisking all the time. Always make sure you have your digital thermometer here. This is really just going to tell you that exact moment you’re done. And I find that very comforting. I think we’re ready to go. It almost looks like melted marshmallow. So what we’re going to do now is transfer this mixture right from this bowl into our stand mixer. Oh, be careful. It’s super hot at this phase. And then we will beat it until it feels more room temperature. And you can see that it’s cooling from the steam that’s getting released as it’s being whisked up. You can already see how it’s getting fluffier, has that marshmallowy look. The mixer bowl still feels pretty warm to me. So I’m going to let this go for a few more minutes until it’s easier to handle. And so you’re not kicking up all the powdered sugar, just start on a low speed just to get it to fall into the bowl. People ask me, what does the powdered sugar do here? It’s going to make the buttercream more stable. But it also adds this great mouthfeel of that matte texture you can only get from powdered sugar because it’s also cut with cornstarch. It just feels great in the palate. It helps offset the richness of the butter. I’ll start with just a little salt. And once the buttercream is finished, you can really assess it and be like, it needs more of this, it needs more of that. And a lot of butter. We’re making buttercream. There’s a lot of butter in here. And you want your butter to be room-temperature soft. I just put a finger into it. And if it can easily go down and hold that fingerprint but it’s not greasy, then your butter is tempered. So I’ll just check the temp before we add the butter because ideally, the butter and the meringue are the same temperature. So this is like room temp. So this is just cut into tablespoon chunks. And you really don’t want the butter to melt out here because you can’t beat air into melted butter. So you want it to all work and emulsify into the buttercream as evenly as possible. So I’ll crank this beat up. This is the part I think where people lose faith a little bit because it changes the texture of the buttercream so radically. So it might look a little grainy. It might look a little weird. Again, just have faith. It’s this crazy moment where it looks like a disaster and then all of a sudden it’s beautiful buttercream. This is Swiss buttercream. It’s finished. It’s ready to go. Perfect for icing. Room temperature. Not too warm. Not too cool. O.K., so we’re going to start with the sesame oil. So we want it toasted because it has this incredible depth of flavor to it, which really makes it taste very unique and its own thing. Then we’re going to add this tahini. You could also use a white sesame paste from a Chinese grocery store. But this is great for a sweeter context. Taste it. See if it needs salt. So pretty. It’s just got this incredible lightness to it. I think it could use a little more. At this point, I’ll just add small pinches at a time. If the cake is going to be sitting out at high temps, this is really going to be your workhorse. When it gets chilled, because there’s so much butter in it, it gets very hard again, hard like a block of butter. So that’s why it’s perfect for wedding cakes, is it’s easy to apply in this state. And it’s so gorgeous and creamy. But it’ll set up in the fridge and really provide that final buttress and level of support for a wedding cake.” [MUSIC PLAYING] “I’m so excited to talk about the way that I do this. Basically, this is an 8-inch cake pan round, nice, deep sides. We have a 10-inch cake pan. Also, you want those really tall sides. First, what we have to do is cut out our circles for the cake. So to loosen it, I take this little offset guy, just run it all along the edges. I’ll just invert it and then peel back the parchment. So you can see this beautiful, moist, tender vanilla crumb. So we’re going to get three 8-inch circles from this sheet of half-sheet tray cake. And get a little knife. And we’re just going to trace around the outside. We’re going to punch one out from the top corner, one from this bottom corner. And then with these extra scraps, we’re going to get half moons that we’re going to Frankenstein together. We have one. Another one. And they’re all perfectly flat, totally even, the exact same size. What I’ll do is I’ll almost, kind of, line it right up in the cake. And then you can fill in this middle bar by just cutting a strip out of the cake, putting it right in the center. There’s something about it that feels like the assembly of it all is very craftsy. But it makes me feel really good to be like, we can make that third layer with these scraps. And this way, you’re getting the best yield possible for this guy. O.K., so good. Oh, my gosh. Let’s set these aside. And we’ll do the 10-inch guys. O.K., so we’re going to cut these a little bit differently because we’re working with a 10-inch cake pan. We’re going to get one full one. And then we’re going to get almost a full one. 10-Inch circle here. And then we have half of one. And then we have our final sheet of cake. So what we’re going to actually get to do is make two circles from this sheet using one full here and then almost a full one. And then we’ll get the rest of it, the yield, through the scrap going this way. So I just will hold the cake pan right up to the edges where I see there’s extra. And then we’ll be able to all piece it together. So we have this guy, this guy. Here, we’re going to fill in that little hole. And this cake is so forgiving. You can really press it in, have it be where you want. So this way, we’re going to get four rounds for our cake layer. O.K. And as long as you have the rough shape, it’s all going to work out in the end. Perfect. So this is my biggest trick for making cakes -- lining these pans with plastic wrap so they’re easy to remove at the end. So what we’re going to do is put in one round of cake, add a little bit of soak. We’re going to put some buttercream down. And then we’re going to dollop on the citrus compote and the sesame crunch. So I mean, it’s just like we’re just building flavor like crazy here. So think, the bottom layer that you put in is actually going to be the top of your cake. So I always pick my nicest, roundest cake for that top surface. And you can see that these chiffon-style cakes almost have a skin on top. And the visible crumb is actually the underside. And that side will receive the soak more readily. So I always will flip them over. So just put it right in. And you can see it fits perfectly. So the first thing we’re going to start with is the soak. I love using a pastry brush for something like this rather than a squeeze bottle because this way, you actually get to feel the liquid being released from the bristles. And I really want that tactile connection to everything that I’m making. So you don’t want it to be so soggy that you can see the liquid seeping out of it. You want it to be absorbed and fully integrated into the cake crumb. O.K. This looks like a ton of buttercream, but that’s because it’s going to be for not only the inside of our cakes, for both of them, but also for the outside. So we’ll just put a bit down. O.K., so this is the perfect spreadable texture. It’s amazing. And just kind of spread it out all the way to the edges because when we peel back that plastic later, you’re going to see how it’s all flush, and it’s going to be very satisfying. I’ll just flick a little bit off my spoon onto the cake just like this. So you don’t want to mix the compote with the buttercream. So this helps keep the layers really distinct. And then the sesame crunch. So you can kind of crumble it up and just kind of crunch it in to the cake layer. I just think that’s the best thing about the layer cake, is it looks spectacular on the outside. But then you’re getting into it, and you’re like, oh, my God, there’s even more goodness. Now we’re going to add this sneaky inside layer. So we’ll start with this big piece. And press it in. So you want to knock out any air that might be in between those cake layers. So you put in the smaller piece and then these weird little scraps in the center. But then what you have is a perfectly flat, smooth, even little cake layer.” [BRIGHT MUSIC] “Now we’re just going to put the lid on. I’ll put the kind of skin side of the cake down. Nestle it right in. Press the air out, like this. And then three more tablespoons of soak. And at this point, you can put it in your fridge, let it rest overnight. You could put it in your freezer. It could rest there for a couple weeks. We’re going to do the exact same thing to the 10-inch guy next. We’re going to use slightly more of everything for this cake because the cake layers are bigger. So we’re going to do a full cup of buttercream in between the layers. So we’re going to basically divide this compote into thirds. So we have three layers that we’re going to hit here. And the sesame crunch is going to soften as the cake rests. And it’s just going to become this delicious chewy, nutty aspect to the filling, complement all that citrus. We’re going to do both of our stitched together layers on the center. And then we have our last weird little guy. I also will build that kind of perpendicular to the last one, if you remember, because that way they’re kind of supporting each other at an axis. And then the cake will be more stable. And the third layer of fillings. So because these layers are so thin, alternating with the creamy layers, the compote, the cake layers, this means the cake is going to be really solid and nothing is sliding around. Our final cap of cake. And this cake is a little taller because we have an extra layer of cake. We have an extra layer of creamy filling. I’m always just trying to set myself up for success. And that means if I’m freezing the cakes all the way through, when you take them to the wedding, when you transport them in your vehicle, they’re going to stay firm. When they’re sitting out, maybe under sun or outside or all night long during dinner, they’re going to stay firm. So I think this is a step not to skip, but you can certainly condense the process, as well. O.K., so these can go right into the freezer. And then we’re going to wrap up this buttercream. And we can keep that in the fridge until we’re ready to ice these cakes. Oh, they’re heavy, O.K. This is the extra buttercream that will coat the outside of our 10-inch and 8-inch cake tiers. I like to chill it overnight or at least for a few hours so you get that perfect consistency. So I’ll just get it going on medium-high speed. And you can let this go for four or five minutes. And it might look a little grainy or broken. And this is completely normal for a Swiss buttercream. With enough time, enough speed, the buttercream will kind of re-emulsify, look really smooth and shiny. It sort of looks like hummus right now actually. [CHUCKLES]:: And this is kind of the perfect consistency, temperature, texture for applying to the cakes that we have made. This is a cake turntable. It rotates and sits on a very heavy piece here, which makes it easier to get that professional finish to your buttercream. But if you don’t have that, just right on your countertop. But you definitely want a piece of cardboard or some kind of support for your top cake layer. Put your piece of cardboard right in the center of your turntable. Because we’re inverting the cake, the bottom of the cake is the top, which is the flat perfectly even side. So the cardboard cake round should basically almost be completely covered. So this is like 2 cups of buttercream. So once I’ve pushed it off the sides this way, you can kind of pull it down. And the buttercream is so rich, you really just want that thin coating on the sides. A lot of professional bakeries do apply what you call a crumb-coat layer, which is a very, very small amount of buttercream, where you can almost still see the visible cake layers through it. And that kind of seals or traps in those cake crumbs. We’re not trying to make a perfectly frosted, even, immaculate cake. We want to see that it was made by hand, by you. Where I’m applying the buttercream is obscuring the cake cardboard on the bottom so that when we put this on top of the bottom tier, you won’t even be able to see it at all. If you’re using the turntable, you can add buttercream and then move it like this. And that’s how you’re going to get those beautiful sharp layers. So once you have the sides coated, that’s when you can go back to the top and make it look pretty. Because the buttercream has been rewhipped, there are some bubbles in the buttercream. If you kind of work it with your spatula like this, that’s how you’re going to press out some of those bubbles. And then I’ll go back, kind of clean up the edges. And you can kind of pull off this excess here. But I also kind of like that look. The whole point is we’re making a wedding cake from scratch at home for a friend or a loved one. It’s like, what is your preference? What do you think looks pretty? So this can go back in the fridge. This is the 10-inch guy, the big guy, nice and tall. This is going to be our base. The cardboard cake round, this one is a little bit wider than the cake. And that’s intentional. And if it’s not perfectly centered, this is your time to adjust it into place. This is completely frozen. This is going to defrost like a dream. So I’m going to do the exact same thing. I’m just going to pile it on top. This is the moment where I’m like, oh, my gosh, the wedding cake is happening. Like, I’m seeing it all come together. So I’ve got the cake roughly coated. And now I’m just going to use the extra buttercream I have to make it look really pretty and nice. O.K., I might switch to a larger spat now just to get this even look all the way. So I’m spinning the turntable while I’m keeping my hand in place. That’s what’s creating this level, flat surface. Again, you can take a peek, see how you’re doing. I love having a little bit of excess buttercream on the sides. I think it looks really pretty. And this kind of little lip here is going to be so great to hold in maybe you have little kumquats that want to tumble around. That will give it a place to knock up against. And that’s it. All of the work that you’re going to do at home is finished. So these cakes can be chilled in your fridge for one, two days in advance. And then all you’ll do the day of the wedding is bring the cakes with you, bring your decor, and you’ll build it on site.” [MUSIC PLAYING] “So we’ve stored these cakes on sheet trays. It’s something I can hold. You can put it down on something, and it won’t slide around. So we have our two cakes that have been rested, are thoroughly chilled. The buttercream is cold. We have this beautiful platter here that’s inverted so you have this great little inch-height lip to kind of elevate it from the table that you’re putting it on. So this is really the part I think that makes people nervous. But I am here to tell you it’s all fine. So to loosen the cake, just kind of run the offset along the edges. And then you can kind of pull it away. [CHUCKLES]:: There are a lot of things you could do at this point. You could put it right in the center. I also kind of like the look of a cake layer being slightly offset because then you get that nice beautiful shelf for decorating. So usually when I’m starting, I’ll build like a larger message or concept at the top. So maybe we’re, like, just doing the full lemon and adding little fresh wedges. I’m so taken by this, calamansi. And then we can kind of just use this to fill in and create these beautiful little moments. These kumquats look so cute cut in half. So I love how these kind of sit on the edges here. Maybe one more tiny sprig here. Do a little more lemon, a few more kumquats. And then we have these beautiful olive branches. And these actually already have this kind of natural curl. Maybe we’ll add some olive right on top. And then I’ll take a look at it from all the angles. Oh, my God, it’s so pretty. It’s going to also be so fragrant. It’s really showstopping. I’m sorry, but I just don’t think you can buy cakes like this. But I do think that you can make it yourself, which is what makes this feel so revelatory. Just a little more here. So pretty. I mean, this really takes it over the top. The moment that everyone at the wedding is going to be waiting for is to eat the cake. So the things that you really need if you want the clean sharp lines that you get from portioning a cake is you want a container with hot water in it because that’s going to make the cake slices look really perfect and great. We’ll remove some of the decor from the cake. If you have a cake helper handing you plates, bringing you fresh water, everyone’s had a little champagne at this point, everyone’s ready to dance, it’s like, this is the fun part that can get kind of chaotic. But this is always what people remember. We’re going to cut it into thirds this way, all the way down until you feel that cardboard. Dunk your knife into the hot bain to clean it. That way, you’re not dragging crumbs through your next cut. It’s like, think about all the work you just did. It’s like you want that cake slice to look really great. So instead of pie wedges from a radius from the center of the cake, we’re making a grid. And you’re aiming for a 1-inch slice. So you’ll get a smaller portion, which is more traditional, I think, for weddings. You’re going to get a larger yield. And that’s really what people want, is just that perfect size of cake. I love nothing more than a beautiful cross-section. And this is really one of the prettiest I’ve ever seen. I think we should try it. [CHUCKLES]:: We’re not at a wedding, but it’s time. Wow, I mean, it’s absolutely delicious. It’s not too sweet. The citrus flavor is really pronounced, but there are also these cool burnt notes in the back end. The sesame oil, it adds this richness and nuttiness that is so great with fruit. I think this is a cake that everybody will love. This will surprise them but also feel comforting and delicious. I hope that everyone gives this a shot. It’s a big project. But when two people decide to get married, it’s such a monumental and symbolic occasion. There’s nothing more special that you can do than making it from scratch. It’s really a way to say, I want to celebrate and I love you guys, so.” [MUSIC PLAYING]",
+        "uploadDate": "2023-10-17T14:11:11.000Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000009134838/toasted-sesame-and-citrus-wedding-cake.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-06-02T00:00:00.000Z",
+      "dateModified": "2023-10-25T19:23:20.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CharlotteHL"
+          },
+          "reviewBody": "Apologies if this has been asked and answered.  Is it okay to freeze the chiffon cake and then freeze *again* once assembled?  I worry about two freezes compromising texture.  Thank you!  Planning on trying to as a possibility for my daughter's wedding.",
+          "datePublished": "2025-04-29T17:29:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sibéal"
+          },
+          "reviewBody": "Hi, Thank you for this recipe. I used it to make six cakes for my son's wedding last August. I filled them with citrus compote and homemade lemon curd, assembled them, and froze them in their tins. We drove for two days with them in coolers over the Rockie Mts. to the wedding. They were perfect. I iced them on-site and decorated them with pressed wildflowers. from my garden They received rave reviews, and I told all who asked about your recipe and inspiring video.",
+          "datePublished": "2024-12-20T01:20:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Annie"
+          },
+          "reviewBody": "Made a smaller version of this cake. The cake’s flavors are very interesting but ended up not being my absolute favorite. The icing’s sesame/tahini flavor is quite strong, and the bitterness of the chutney has a strong flavor at the end. Glad I made it, but also glad I made a test cake before committing to these flavors for my wedding",
+          "datePublished": "2024-09-22T13:51:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rachel K"
+          },
+          "reviewBody": "How long does this cake take to thaw? If we were to eat it at 9pm would taking it out of the freezer to finish icing the tiers in the morning and leaving it in the fridge be enough time? Thank you",
+          "datePublished": "2024-08-06T15:06:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "christine"
+          },
+          "reviewBody": "A surprising and sublime combination of flavors and textures. A labor of love that was worth it in every way. I made it for a big birthday party and was so pained that I didn’t set aside a piece for myself for the next day, I made a half recipe again the following week (original recipe made more than enough compote and syrup so just used those leftovers).",
+          "datePublished": "2024-07-28T17:34:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jo Butler"
+          },
+          "reviewBody": "I just made this for our monthly work birthday celebrations. I did halve the amounts and used gluten free and it wassstill amazing. Everyone was still raving about this cak the next day. I was thrilled.",
+          "datePublished": "2024-06-20T09:24:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jo Butler"
+          },
+          "reviewBody": "I halved the recipe and used gluten free flour and it was still amazing. Everyone was still talking about it the next day.",
+          "datePublished": "2024-06-20T09:27:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kacie"
+          },
+          "reviewBody": "I made this for my dear friend's wedding, and it turned out fab! The groom didn't like sesame, so I made an almond crunch and substituted thin, slivered almonds for sesame seeds (turned out yum). I begrudgingly had to omit sesame oil and tahini from the buttercream, but I highly suggest keeping at least the tahini - so rich and flavorful. I doubled the recipe for a 3-tier cake (extra batter for wiggle room) and baked in round tins to achieve thicker cake layers. The cake was a flavorful smash!",
+          "datePublished": "2024-06-12T14:56:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bookish in Baltimore"
+          },
+          "reviewBody": "I made this cake for a wedding celebration and our guests loved it. Don’t be intimidated by the length of the recipe. Although I was grateful that it articulated every single step, layer by layer, you will get the hang of assembling the cake pretty quickly. And do watch the video if you are at all nervous. Lots of tips there that are not included in the written instructions.",
+          "datePublished": "2024-06-10T14:51:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol"
+          },
+          "reviewBody": "Scaled this down for a smaller party and oh wow. It is amazing. I will definitely be making again and i'm going right out to buy Natasha Pickowicz's book More. The written instructions are clear and the video is great too - highly recommend watching before you get started.",
+          "datePublished": "2024-06-01T17:48:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pam K"
+          },
+          "reviewBody": "I scaled down the recipe and only made the 8\" cake, and it was AMAZING, by far the best cake I've ever made. The flavours all complement each other beautifully: the bitterness of the charred citrus marmalade, the toastiness of the sesame in the icing, the sourness of the soak, and the perfectly sweet vanilla sponge. The recipe is involved, but nothing is technically too difficult - highly recommend making this one!",
+          "datePublished": "2024-05-27T16:26:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Denver"
+          },
+          "reviewBody": "Don't do what I did- swap butter for cream cheese. It was too loose. Next time I will do the same but skip the egg whites.",
+          "datePublished": "2024-05-05T20:18:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lore"
+          },
+          "reviewBody": "The cake is delicious but I’m having trouble getting level layers, it’s hard to get the batter even in the sheet pan. Any tips? Has anyone tried using round cake pans and then using a cake leveler to trim the top, and/or cut layers?",
+          "datePublished": "2024-05-04T13:40:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lydia"
+          },
+          "reviewBody": "For a cake for 40 people, I made a 2/3 recipe as an 11\" square cake: bake in two 13x18 sheet pans, it shrinks to just about 11\" when cool. Cut each cooled cake to make an 11x11 square, using the remaining pieces for the middle layer. No scraps left. If you make 2/3 of the butter cream, go light on the interior to have enough for a thick enough outer coat.",
+          "datePublished": "2024-04-22T18:48:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lydia"
+          },
+          "reviewBody": "Having made the cake as-is before - it's AMAZING! - I translated components for a lemon poppyseed cake for a baby shower:\n\n- Rub zest of 3 lemons into sugar before adding to the yolk mixture in the cake\n- Add poppyseeds when folding in the egg whites. Maybe 1/2 cup? I eyeballed it! \n- Swap lemon curd for the tahini in the buttercream (I used store-bought, bonne maman)\n- Made a soak using only fresh lemon juice\n- Spread lemon curd as well as buttercream between the layers\n\nIt was a hit!",
+          "datePublished": "2024-04-22T19:12:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristine"
+          },
+          "reviewBody": "Looks SO tasty\nHow about a scaled down version for those who are not planning to serve cake to 60 of our closest friends",
+          "datePublished": "2023-06-03T15:25:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martine E"
+          },
+          "reviewBody": "I made a scaled down version that came out amazingly! One 8-inch cake with three tiers. Here are the measurements I used: \n\nCAKE (bake on one sheet tray)\n4 eggs\n1/3 cup oil \n2 tsps vanilla\n1   1/3 cups sugar\n1  cup   2 tbsps   2 tsps flour\n2   2/3 tsps baking powder \n2/3 tsp kosher salt or 1/3 tsp sea salt\n\nSESAME CRUNCH (1/4)\n1 egg white\n1/8 cup light brown sugar\n1/4 tsp vanilla\n1/8 tsp kosher salt or 1/16 tsp sea salt\n7 tbsp sesame seeds",
+          "datePublished": "2023-06-18T21:36:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katie"
+          },
+          "reviewBody": "I echo the request for a scaled down version! I would love to make this cake to try my hand at making a wedding cake, but I don't want to waste money/food working on my skills!",
+          "datePublished": "2023-06-04T02:00:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen Tabor"
+          },
+          "reviewBody": "OMG, OF COURSE separate eggs the old fashioned way, one at a time. Doing it while they're cold will make it easier to avoid breaking the yolks, but let the whites come to room temp before whipping so they whip up higher. Also, as you know, break the eggs one at a time and let each white fall into a separate bowl; once it's safely decanted from the egg, you can combine them. If a yolk does break, you'll only lose one white rather than an entire bowl of whites.",
+          "datePublished": "2023-06-05T15:47:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John  F"
+          },
+          "reviewBody": "There is a video; it was fun to see it all come together:\n\n<a href=\"https://www.youtube.com/watch?v=YDL_6pn7MjY&t=1s\" target=\"_blank\">https://www.youtube.com/watch?v=YDL_6pn7MjY&t=1s</a>",
+          "datePublished": "2023-06-03T18:39:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melissa"
+          },
+          "reviewBody": "For converting huge-scale cake measures AND important differences when you size-down OR up, your cake recipe, The Cake Bible is a \"bible\" to consult.  It allowed me successfully to make a wedding cake for 200 guests--and it was the first and only wedding cake I've made.  ; )",
+          "datePublished": "2023-06-05T16:44:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rena"
+          },
+          "reviewBody": "If you convert all ingredient amounts to weight (preferably metric) it’s easier to scale up and/or down.\nAlso, in general weighing baking ingredients is more accurate and you will be more successful. \nThis looks so yummy!  I want to make that Tahini buttercream!",
+          "datePublished": "2023-06-05T13:47:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie"
+          },
+          "reviewBody": "For all the comments about making a smaller cake, watching the YouTube video that NYT put up for this recipe is really helpful for visualizing what goes into each tier. For making the smaller 8\" top tier sponge, she uses one sheet pan out of the three in the recipe. All the other components for that tier use probably a third of the original recipe as well. If you want to err on the side of caution, you could make half recipes. Planning on making an 8\" version soon for my birthday!",
+          "datePublished": "2023-06-06T05:04:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Caroline"
+          },
+          "reviewBody": "Made recipe exactly as written.  Had tiny farm eggs so needed to weight out egg whites to equal  12 large.  One large egg white is 30 gm.  Used 360 gms for both cake and buttercream and they   were perfect!  The texture of the buttercream is wonderful.  The fruit I used was quite large and therefore I used a little extra sugar in the compote.   Also had 1 c juice so added the 1/2 c extra in the compote.  There are many steps but they are all straightforward and the layering is quick and easy",
+          "datePublished": "2023-06-10T12:35:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne K."
+          },
+          "reviewBody": "I think this would easily scale down by making 1/3 of the recipe  That's enough to make the 8\" three-layer cake.  According to the directions, it would yield 24 small servings, but for an event that doesn't feature a million dessert options my guess would be more like 16. \n\nFor the buttercream and toppings, you can make a full recipe or a half recipe if you want and just keep the excess in the freezer.  I'm sure they would all be delicious in other applications.",
+          "datePublished": "2023-06-06T14:31:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katherine G."
+          },
+          "reviewBody": "I made this cake for my daughter's wedding.  Not only gorgeous but really delicious as well.  The flavors and textures are sublime.  The process is extensive but not overwhelming if you make the cake in steps provided over multiple days vs all at once.  You will need freezer space.  It may seem like a lot, but use amount of fillings for each layer as written especially citrus soak.  Follow the video as you make the cake, Natasha gives excellent tips, encouragement and direction.",
+          "datePublished": "2023-12-29T16:31:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Annie"
+          },
+          "reviewBody": "Made a smaller version of this cake. The cake’s flavors are very interesting but ended up not being my absolute favorite. The icing’s sesame/tahini flavor is quite strong, and the bitterness of the chutney has a strong flavor at the end. Glad I made it, but also glad I made a test cake before committing to these flavors for my wedding",
+          "datePublished": "2024-09-22T13:51:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Charlie"
+          },
+          "reviewBody": "Love this cake so much. \n\nScaled down (1/3) version of the cake for anyone who needs it. I cooked this in one pan and built it in a six-inch tin with 4 layers: \n\nCAKE\n\n4 large cold eggs\n80 grams neutral oil, like grapeseed\n80 grams water\n1 tablespoon vanilla extract\n260 grams caster sugar\n160 grams plain flour\n2.5 teaspoons baking powder\n1/2 teaspoon fine sea salt",
+          "datePublished": "2023-08-22T14:48:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lydia"
+          },
+          "reviewBody": "Having made the cake as-is before - it's AMAZING! - I translated components for a lemon poppyseed cake for a baby shower:\n\n- Rub zest of 3 lemons into sugar before adding to the yolk mixture in the cake\n- Add poppyseeds when folding in the egg whites. Maybe 1/2 cup? I eyeballed it! \n- Swap lemon curd for the tahini in the buttercream (I used store-bought, bonne maman)\n- Made a soak using only fresh lemon juice\n- Spread lemon curd as well as buttercream between the layers\n\nIt was a hit!",
+          "datePublished": "2024-04-22T19:12:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sibéal"
+          },
+          "reviewBody": "Hi, Thank you for this recipe. I used it to make six cakes for my son's wedding last August. I filled them with citrus compote and homemade lemon curd, assembled them, and froze them in their tins. We drove for two days with them in coolers over the Rockie Mts. to the wedding. They were perfect. I iced them on-site and decorated them with pressed wildflowers. from my garden They received rave reviews, and I told all who asked about your recipe and inspiring video.",
+          "datePublished": "2024-12-20T01:20:21.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1024238-toasted-sesame-and-citrus-wedding-cake",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Natasha Pickowicz"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "Everyone loves receiving a homemade gift, but how about a showstopping, two-tiered, citrus-festooned, sesame-laced wedding cake? With a little planning (and an organized freezer), it’s so much easier than you think. Thin, even layers of vanilla sponge cake, soaked with a vivid citrus syrup, are draped like lasagna sheets into pans, along with swaths of nutty sesame buttercream, charred citrus compote and a granola-adjacent sesame crunch. The cake rests while you do, then is removed from the pans, coated in buttercream, packed up and assembled the day of the wedding. There's no finer — or more delicious — way to allow the effort, care and creativity of its maker to come through. And don’t forget to save and freeze the excess cake scraps for ice cream sandwiches, trifles or snacking. \n\nFor the equipment you’ll need to put this cake together, check our Wirecutter’s recommendations for baking essentials and cake decorating tools.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Toasted Sesame and Citrus Wedding Cake",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/016c611a-c272-53c2-a983-a0e6a9466f03#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2023-06-02T15:28:07.457Z",
+          "datePublished": "2023-06-02T15:27:34.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-02T15:27:34.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/016c611a-c272-53c2-a983-a0e6a9466f03#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-superJumbo.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2023-06-02T15:28:07.457Z",
+          "datePublished": "2023-06-02T15:27:34.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-02T15:27:34.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/016c611a-c272-53c2-a983-a0e6a9466f03#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-mediumSquareAt3X.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Maggie Ruggiero.",
+          "dateModified": "2023-06-02T15:28:07.457Z",
+          "datePublished": "2023-06-02T15:27:34.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-06-02T15:27:34.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/02/multimedia/02-WEDDING-REX1-qcgf/02-WEDDING-REX1-qcgf-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024238-toasted-sesame-and-citrus-wedding-cake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:31:32.678Z",
+  "scraping_status": "scraped"
+}

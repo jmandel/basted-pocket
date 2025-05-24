@@ -1,0 +1,648 @@
+{
+  "id": "da04987151959b11",
+  "original_url": "https://cooking.nytimes.com/recipes/1026437-chile-oil-wontons",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026437-chile-oil-wontons",
+  "fetched_title": "Chile Oil Wontons Recipe (with Video)",
+  "main_text_content": "This classic recipe shows you how easy — and satisfying — it is to make your own chile oil wontons at home Here, they’re shaped to resemble gold ingots, a Chinese symbol of good fortune and wealth, but feel free to wrap them however you like A crucial step here is making the sauce for the wontons, which can be done in advance and starts with mixing your own chile oil",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026260-hoisin-garlic-noodles\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Hoisin Garlic Noodles</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Hetty Lui McKinnon</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/da04987151959b11/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/7e0c29e1-0d47-5806-879b-121adbcc3f68",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026437-chile-oil-wontons",
+        "@type": "WebPage",
+        "name": "Chile Oil Wontons"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026437-chile-oil-wontons",
+      "name": "Chile Oil Wontons",
+      "description": "This classic recipe shows you how easy — and satisfying — it is to make your own chile oil wontons at home. Here, they’re shaped to resemble gold ingots, a Chinese symbol of good fortune and wealth, but feel free to wrap them however you like. A crucial step here is making the sauce for the wontons, which can be done in advance and starts with mixing your own chile oil. (Save any extra sauce to use with fried eggs, tofu, potatoes, rice, chicken or anything, really.)",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Li"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/ba4ba70e-6d13-5fc7-8543-9933685dccc4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2025-01-24T16:02:20.034Z",
+          "datePublished": "2025-01-22T17:15:29.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-22T17:15:29.000Z",
+          "url": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ba4ba70e-6d13-5fc7-8543-9933685dccc4#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2025-01-24T16:02:20.034Z",
+          "datePublished": "2025-01-22T17:15:29.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-22T17:15:29.000Z",
+          "url": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/ba4ba70e-6d13-5fc7-8543-9933685dccc4#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2025-01-24T16:02:20.034Z",
+          "datePublished": "2025-01-22T17:15:29.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-22T17:15:29.000Z",
+          "url": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H30M",
+      "recipeYield": "About 50 wontons",
+      "recipeCuisine": "chinese",
+      "recipeCategory": "dinner, dumplings, project, appetizer, main course",
+      "keywords": "freezer friendly, ground chicken, ground pork, lunar new year, red pepper flake, sesame seed, shrimp, small plate",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 384
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 156,
+        "unsaturatedFatContent": "5 grams",
+        "carbohydrateContent": "19 grams",
+        "cholesterolContent": null,
+        "fatContent": "6 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "6 grams",
+        "saturatedFatContent": "1 gram",
+        "sodiumContent": "244 milligrams",
+        "sugarContent": "0 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 pound ground pork or ground chicken",
+        "1/4 pound large peeled and deveined shrimp, chopped into 1/4-inch pieces",
+        "1 tablespoon sesame oil",
+        "1 tablespoon soy sauce",
+        "1 tablespoon Shaoxing wine or sherry (optional)",
+        "1 teaspoon ground white pepper",
+        "Kosher salt (such as Diamond Crystal)",
+        "Cornstarch, for dusting",
+        "About 50 homemade or store-bought wonton wrappers (from one 12- to 14-ounce package), thawed if frozen",
+        "6 garlic cloves, smashed and coarsely chopped into 1/4-inch pieces",
+        "2 scallions, trimmed and cut into 1-inch pieces",
+        "3 tablespoons crushed red pepper",
+        "2 tablespoons white sesame seeds",
+        "1 bay leaf (dried or fresh)",
+        "1 whole star anise",
+        "2/3 cup vegetable oil",
+        "1 tablespoon sweet soy sauce",
+        "1 tablespoon dark soy sauce",
+        "1 tablespoon rice vinegar",
+        "3 tablespoons roasted, unsalted peanuts, finely ground or chopped",
+        "1 tablespoon finely ground Sichuan peppercorns (optional)",
+        "4 scallions, thinly sliced"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the wontons: Combine the pork, shrimp, sesame oil, soy sauce, Shaoxing wine (if using), white pepper and 1 teaspoon kosher salt in a large bowl. Mix with a spatula until the ingredients are thoroughly combined."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare your tools for wrapping the wontons: Dust a large rimmed baking sheet or large platter with cornstarch and fill a small bowl with water."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Assemble the wontons: Hold a wonton wrapper in your hand and rotate it so it sits like a diamond, with a tip at the top. Spoon about 1 scant tablespoon of the filling in the middle of the wrapper. Dip a finger into the water and dab the top triangle of the diamond and fold in half, lifting the bottom corner to meet the top corner and aligning the wrapper edges so you get a triangular shape, then press firmly to seal. Dab some more water on one corner of the triangle and then press the opposite dry corner on top to seal. Set the wonton on the cornstarch-dusted tray or platter and proceed with the rest of the filling and wrappers, making about 50 wontons."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Cover the wontons with plastic wrap and place in the fridge while you prepare the sauce. (See Tip for freezing instructions.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the sauce: Combine the garlic, scallions, crushed red pepper, sesame seeds, bay leaf and star anise in a medium heat-proof bowl. Heat the vegetable oil in a small pot over medium-high until it is very hot and almost smoking, 4 to 5 minutes. Carefully pour the hot oil into the bowl over the garlic mixture. Allow the sizzling to subside and then add the sweet soy sauce, dark soy sauce and rice vinegar. (You can make the sauce up to 3 days in advance; keep it covered and refrigerated.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the garnish: Combine the ground peanuts, Sichuan peppercorns and 1/2 teaspoon kosher salt in a small bowl."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Boil and serve the wontons: Bring a large pot of water to a boil. Cook the wontons in batches, depending on the size of your pot. Gently drop the wontons in the boiling water and cook over medium heat until they float to the top, 5 to 6 minutes. Remove the wontons with a slotted spoon or a spider, making sure to shake out the water with each removal and transfer them to a serving bowl right away."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Spoon the sauce over the hot wontons and sprinkle with the ground peanut mixture and scallions."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/837d258d-9556-5cc4-b2c3-7cfda9faf976",
+        "@type": "VideoObject",
+        "bitrate": "1478335",
+        "contentSize": "89117223",
+        "contentUrl": "https://vp.nyt.com/video/2025/01/23/133021_1_SL-dumpling-week-video-25_wg_480p.mp4",
+        "dateModified": "2025-01-24T18:58:46.264Z",
+        "datePublished": "2025-01-24T17:16:05.000Z",
+        "duration": "PT7M23S",
+        "height": "480",
+        "name": "Chile Oil Wontons",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/ba4ba70e-6d13-5fc7-8543-9933685dccc4#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-videoSixteenByNineJumbo1600.jpg",
+            "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+            "dateModified": "2025-01-24T16:02:20.034Z",
+            "datePublished": "2025-01-22T17:15:29.000Z",
+            "height": "900",
+            "uploadDate": "2025-01-22T17:15:29.000Z",
+            "url": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-videoSixteenByNineJumbo1600.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/ba4ba70e-6d13-5fc7-8543-9933685dccc4#googleFourByThree",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-googleFourByThree.jpg",
+            "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+            "dateModified": "2025-01-24T16:02:20.034Z",
+            "datePublished": "2025-01-22T17:15:29.000Z",
+            "height": "600",
+            "uploadDate": "2025-01-22T17:15:29.000Z",
+            "url": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-googleFourByThree.jpg",
+            "width": "800"
+          },
+          {
+            "@id": "nyt://image/ba4ba70e-6d13-5fc7-8543-9933685dccc4#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-mediumSquareAt3X.jpg",
+            "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+            "dateModified": "2025-01-24T16:02:20.034Z",
+            "datePublished": "2025-01-22T17:15:29.000Z",
+            "height": "1800",
+            "uploadDate": "2025-01-22T17:15:29.000Z",
+            "url": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-mediumSquareAt3X.jpg",
+            "width": "1800"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-videoSixteenByNineJumbo1600.jpg",
+        "transcript": "“Yeah. And then we just like sprinkle on top, because it could be optional. It’s not really optional. Everyone should do it, actually. Nothing is optional.” [MUSIC PLAYING] “Hi, I’m Sue Li. I am a food stylist, as well as a ‘New York Times’ contributor. And today we are going to make wontons for Dumpling Week. I love this version of a chili oil wonton. It’s a flavor that I tasted when I was a line cook in New York City. We would have late night takeout meals sometimes, and it was just a very familiar flavor. It was a pork and shrimp wonton with a chili oil sauce. It was like slightly sweet, and salty, and had peanuts on it. Here, I’ve tried to recreate it for you. So this wonton is actually a very classic wonton recipe. Let’s make the filling. I’m going to chop some shrimp. You don’t need to chop it super finely. I’m going to combine ground pork, chopped up shrimp, white pepper, salt, Shaoxing wine, sesame oil, and soy sauce. You don’t really have to be afraid of overmixing. I’m going to combine all of these ingredients together until the flavors are evenly distributed.” [MUSIC PLAYING] “Now let’s head into wrapping our wontons. Set yourself up with a sheet tray, or any tray. Get a small bowl of water so that you can seal them properly. Dust it thoroughly with cornstarch. This is a wonton wrapper that you can pretty much buy in any grocery store. I hold it up in my hand like this, so that the two points are here and here. Scoop about 1 tablespoon of the filling in the center. Dab my finger in a little bit of water. Wet the top edges of the wrapper, then seal it in half into a triangle. Make a divot in the center where the filling is. Shape it so that it looks like a fortune cookie, and then join showing the two edges together, like so. Now this is a shape that resembles a gold ingot. It’s a very lucky symbol that resembles wealth and fortune, and just good vibes to come.” [MUSIC PLAYING] “I think making dumplings is very meditative. I do go into a trance when I make it. I listen to a podcast or I work in silence.” Solo? “Solo. I don’t -- I don’t really like it when you come into the kitchen when I’m cooking, because people are messy, and I’m very controlling. This is my personality. And you can come and eat, and also do not help clean up.” “I’m blushing because I’m embarrassed. It’s true, though.” “You want to make some with me? Remember how I was like, ‘don’t come in my kitchen?’ That’s O.K. I’m just joking. I want you to stand right here. I’m going to tell you exactly what to do. We’ll do it together one time, and then there’s a test. Wrapper, just put the whole spoon in your wrapper. Water. And dab in the other.” “One strip, one strip that way.” “Pick the side up. Fold it in half into a triangle. Pinch, pinch, pinch to make a tight seal. Divot with your finger. And then what I would like you to do, you see this.” “Oh, it’s a very demure lady.” “It is a very -- I do think these are very demure.” “Oh, I did it.” “Yeah. Oh my God, it’s beautiful. Do this. Look at this perfect thing you made.” - [LAUGHS]: “Who’s holding it?” “Do it again. So here we have a tray of the wontons already assembled, cover it with plastic wrap, and set it in the refrigerator while we prepare the chili oil sauce. The sauce is so delicious. I made a recipe where you have to make a little extra. And that’s because you can add as much of the sauce as you want onto your wontons, or you can save it for another meal. I would like you to put in a heatproof bowl, preferably stainless, your scallions, garlic, pepper flakes, sesame seeds, Bay leaf, star anise. And then we’re going to heat up some vegetable oil in a saucepan over medium-high heat until it’s almost at a smoking point. The surface of the oil will first start to look like it’s shimmering, and it’s a little wavy, but all of a sudden, it’ll stop doing the shimmer. And that is about when you want to take it off and pour it over your seasoning.” [MUSIC PLAYING] [LAUGHS] “So the dark soy sauce and the sweet soy sauce are essential. I almost want to say that they’re my cheats. You kind of can’t substitute that with sugar and soy sauce. You need to have these two ingredients to really add to the deep savoriness of this recipe. Let’s make some wontons. Let’s bring a pot of water to a boil. I’m going to do it in two batches. What I normally would like to do is swirl the water before I add the wontons. Think of it as your poultry and egg. You want to swirl your water so it doesn’t stick to the bottom. In about five to seven minutes, depending on how fast your pot comes back up to a boil, the wontons are now ready.” [MUSIC PLAYING] “And then you just do a nice drizzle. When I say a drizzle, I mean, flood it with a lot of sauce. And it can be finished here. You can serve it right away, but it’s also a very traditional thing to add the ground peanuts on top. And the extra bonus is the Sichuan peppercorns, which has that slight numbing flavor that people crave when they’re eating a dish like this. You want another bit of this bright, thinly sliced scallions on top. My mouth is watering. Let’s break for lunch.” [MUSIC PLAYING] “What I like to do is I like to toss them in the sauce a little while they’re in my bowl. They’re so good. I’m so proud of this recipe. You can taste the shrimp and the pork, and then the sauce on top. There’s a bit of a sweetness and the tanginess. Some crunch from the peanuts and the garlic that was in the sauce that has now crisped up. So these are the chili oil wontons. They’re so beautiful, actually. Look at that. Happy New Year. Happy New Year. Very good fortune to you. Very good fortune to you. And if you want to find this recipe and the other dumpling recipes, please go to New York Times’ Cooking. I did it. Let’s eat. Are we done? O.K., great. Milton, I’m sorry you had to hear me chew.”",
+        "uploadDate": "2025-01-24T17:16:05.000Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000009944904/chile-oil-wontons.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-01-24T00:00:00.000Z",
+      "dateModified": "2025-01-28T16:48:58.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Catherine Oliver"
+          },
+          "reviewBody": "I've made this recipe twice and it's incredible IMneverHO :) It's just the two of us so this makes a lot. What I've done each time is to divide the recipe into thirds and freeze two of them. And THEN (listen to this!) I've made burgers with one of the portions! And I took some of the dipping sauce and mixed with mayo to put on the buns. I've always love NYT Cooking!!!!!",
+          "datePublished": "2025-05-17T17:07:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jing G"
+          },
+          "reviewBody": "Made according to recipe for a dinner party, used organic crushed red paper from mccormick, was not too spicy. Guests and I all loved this dish! Easy peasy and a winner for sure.",
+          "datePublished": "2025-05-12T17:35:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Candy7876"
+          },
+          "reviewBody": "So much fun and delicious! I would decrease the amount of sichuan peppercorns for kids for sure, but it was just right for me. Making the dumplings did take some time but was easy to do. The video is a must-watch and made this simple to understand.",
+          "datePublished": "2025-04-29T02:43:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AlliH"
+          },
+          "reviewBody": "I had high hopes with this recipe. I went to my local Asian supermarket and bought sweet and dark soy sauces...but the chili oil flopped for me, despite following the instructions faithfully. It was flavorless and way too oily. I used the only \"vegetable\" oil that I had on hand, which was avocado, and I am guessing it was too heavy.",
+          "datePublished": "2025-04-02T18:52:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "P"
+          },
+          "reviewBody": "These spicy dumplings are addictive! The written recipe and steps look daunting, but the video shows that it’s achievable and fun! Sue Li is really good at explaining the technique and what various ingredients bring to the recipe. (Her baking videos and recipes are also really good—and hilarious.) This was my first time making wontons, and I can’t believe how well they turned out. New cooking achievement unlocked!",
+          "datePublished": "2025-04-02T16:52:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erica"
+          },
+          "reviewBody": "I've never tried making wontons before, but after watching the helpful video, it seemed pretty doable, and I'm so glad I did! They taste just like the delicious wontons from our favorite Chinese restaurant. I've made this recipe three times so far and have followed others' advice about using 2 tablespoons of crushed red pepper, which is just the right amount of heat.",
+          "datePublished": "2025-03-31T14:58:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Adriene"
+          },
+          "reviewBody": "I’ve never tried making wontons before and now I’m hooked. I’ve stashed a lot away in the freezer for future joy.",
+          "datePublished": "2025-03-10T01:03:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Benji"
+          },
+          "reviewBody": "This recipe is soooo amazing. I'm wondering when the mahjong is going to start....",
+          "datePublished": "2025-03-05T01:26:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "William Sweet"
+          },
+          "reviewBody": "I fried the leftovers today for lunch. Yum! I had them two ways: with the sauce, with dry roasted peanuts, but no sichuan pepper nor scallions. Wonderfully delicious. I would have enjoyed a modest sichuan scallion hit. Last night we had a simple spaghetti in tomato sauce. Just for fun, I had some of the wontons in the gravy. Oooooo. Like some light fluffy raviolis.",
+          "datePublished": "2025-02-27T20:00:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "William Sweet"
+          },
+          "reviewBody": "Thank you! I’ve wanted to make wontons since our local paper, the Portland Press Herald in Maine published articles of families and friends getting together to make wontons to celebrate the Chinese New Year. The first batch lacked special soy sauces, no star anise. I substituted tamari and white wine. So good! So I ordered dark and sweet soy sauces and shouxing wine from Amazon, and made it again last night. Worth it as Sue Li says.Sichuan peppercorns are worth it too, but spicy. Yum!",
+          "datePublished": "2025-02-25T13:01:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BoardwalkNJMom"
+          },
+          "reviewBody": "Easy to make and delicious! \nMaking the wonton was fun and would do this again with friends over.\nWill make it again.",
+          "datePublished": "2025-02-22T20:59:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alphonsine"
+          },
+          "reviewBody": "I don't comment on recipes too much, although there are so many good ones here on NYT.  However, this was so delicious!!  It is one of the best things I have made in awhile.  We gobbled these up.  And have made them again.  I would recommend some thicker wrappers for boiling.  The ones we buy are called shanghai style.  I think the thinner ones that you fry and steam don't hold up as nicely when boiled.  I loved the whole series of dumpling recipes and their videos.",
+          "datePublished": "2025-02-22T00:40:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erica H."
+          },
+          "reviewBody": "These were fantastic! I used the same wonton wrappers that were in the video, but I found that they could really only hold about 3/4 of a tablespoon max of filling (compared to the 1 tablespoon mentioned in the video). Per others' suggestions, I used only 2 tablespoons of crushed red pepper and thought it was a perfect amount of heat without being crazy hot. I didn't have sweet soy sauce either, so I just doubled up on the regular soy sauce. The sauce was still delicious!",
+          "datePublished": "2025-02-21T18:01:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kristine"
+          },
+          "reviewBody": "These are divine! I have made a few batches now and am faster each time. I have used both ground pork and ground chicken. Equally delicious. The sauce is perfect too",
+          "datePublished": "2025-02-21T00:45:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Coffeespoon"
+          },
+          "reviewBody": "Great recipe - way easier than expected to make dumplings! Used light soy sauce instead of sweet soy sauce, tasted great. We were pretty careful not to overstuff the dumplings (wrappers didn't feel that pliable) and used less than the scant tablespoon amount, which worked well (dumplings all stayed intact during cooking). The leftover filling fries up very nicely on a non-stick skillet, great over rice for breakfast!",
+          "datePublished": "2025-02-17T13:56:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SJ Kurtz"
+          },
+          "reviewBody": "Wait. 15 min prep time for 50 wonton? More like 15 min cook time, 1 hour prep time.",
+          "datePublished": "2025-01-25T00:14:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kiyo"
+          },
+          "reviewBody": "Aloha Sue Li!  \nI'm planning to make this delicious dish you shared.  Quick question.  What brand of sweet soy sauce do you use?  I see ABC Kecap Manis but I'm thinking you use something else.  Hope to know which brand you use.  Also dark soy sauce,  can I use Kikkoman regular soy sauce?  I'm allergic to shellfish so will have to leave out the shrimp.",
+          "datePublished": "2025-01-25T02:00:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Todd"
+          },
+          "reviewBody": "I would like more info on \"sweet soy sauce.\" Was this discussed already as part of dumpling week? I have ABC sweet soy sauce, which is Indonesian. Will this work? There are so many types of soy sauce, with different names. In Japanese cuisine, \"dark soy sauce\" refers to the everyday common soy sauce such as Kikkoman, which is by far the most common type found in American homes. Perhaps the New York Times cooking team could put together a comprehensive guide the recipe writers could link to.",
+          "datePublished": "2025-01-26T20:07:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharon B"
+          },
+          "reviewBody": "The recipe just lists \"crushed red pepper\".  Are we talking about the common crushed red pepper used in Italian cooking?  Because 3 tablespoons is going to provide a whole lot of heat there.  Or is there some other crushed red pepper that would be more traditional here?",
+          "datePublished": "2025-01-27T13:46:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "hillary hillary"
+          },
+          "reviewBody": "if you watch the video, you will want to make these dumplings. I can't wait!",
+          "datePublished": "2025-01-25T02:53:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RuthL"
+          },
+          "reviewBody": "The wontons are really delicious but the chili oil was so spicy (even with just 2 tbsp of flakes) that I actually found it hard to breathe after tasting just a tiny amount. I had to chug cold milk to calm my throat down! \n\nLuckily we had some chili crisp at hand and I added the dark soy, sweet soy and rice wine vinegar to some of that for the perfect amount of heat. \n\nIf you think you may have some especially spicy red pepper flakes then be careful you don’t make the same mistake.",
+          "datePublished": "2025-01-28T10:40:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maggie Bee"
+          },
+          "reviewBody": "I'm substituting Korean red pepper flakes (gochujaru) in most recipes calling vaguely for \"red pepper flakes.\" The ones commonly found in USA and Canada have dried seeds and membrane in with the dried pepper flesh, and yes, it is *hot*! Gochujaru has no seeds, and although it definitely provides heat, it also has a pleasant fruity pepper flavor.",
+          "datePublished": "2025-01-28T22:28:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andy R."
+          },
+          "reviewBody": "There's a newish restaurant in Oakland Chinatown called Mr. Liu's Noodle House where I am addicted to their Chongqing noodles (小麺). I tried to recreate the sauce several times, without much success — and then I found this recipe! It is fantastic — delivering a lot of the same complexity in the chili oil sauce that I love at the restaurant. I wound up making my own sweet soy sauce from a recipe I found online.",
+          "datePublished": "2025-01-27T05:30:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Todd"
+          },
+          "reviewBody": "Please elucidate further regarding dark soy sauce and sweet soy sauce. Is ABC Sweet Soy Sauce, a widely known Indonesian product, suitable for this recipe? From what I've read, Japanese dark soy sauce is similar to Chinese light soy sauce--soy sauces are confusing! If individual recipe developers don't want to clarify exactly what they're calling for, perhaps the Cooking team could develop a soy sauce guide that could be linked to in all recipes calling for soy sauce.",
+          "datePublished": "2025-01-28T18:49:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hermando Kornhauser"
+          },
+          "reviewBody": "Add ground water chestnuts to the mixture it makes it so chunchy and good",
+          "datePublished": "2025-01-27T17:22:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SueBerk"
+          },
+          "reviewBody": "All 3 of my teenagers chowed them. Lots of mmmmmm noises. Spouse said best dumplings he’s had in his life. Followed recipe except 2 Tbl. red pepper flakes instead of three. Thought the spice level was really delicious and left space on the palate for all the other yummy flavors.",
+          "datePublished": "2025-01-28T01:56:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melissa"
+          },
+          "reviewBody": "Would love to have a link to soy sauce types and their useslike previous comments have voiced. Also recipe substitutes for those of us who live in areas without Asian markets.",
+          "datePublished": "2025-01-28T22:06:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chrissy"
+          },
+          "reviewBody": "This sounds really delicious but, I'm wondering if the hot oil tempers the heat of the red pepper flakes.   As written, just how spicy is this?",
+          "datePublished": "2025-01-27T23:42:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LC"
+          },
+          "reviewBody": "@Andy R.\nWhat kind of crushed red pepper are you using for your sauce?",
+          "datePublished": "2025-01-28T18:54:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Virginia"
+          },
+          "reviewBody": "Dark soy sauce adds color and depth of flavor and has a slightly different taste and consistency than regular soy sauce. You can find it at Asian grocery stores or on Amazon but it needs to say that it's dark soy sauce. There are many brands but the one I’ve been able to find at the Asian grocery store is Pearl River Bridge Superior dark soy sauce, which is also available on Amazon. The ABC sweet soy sauce should work for this recipe.",
+          "datePublished": "2025-01-28T23:40:13.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026437-chile-oil-wontons",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Li"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "This classic recipe shows you how easy — and satisfying — it is to make your own chile oil wontons at home. Here, they’re shaped to resemble gold ingots, a Chinese symbol of good fortune and wealth, but feel free to wrap them however you like. A crucial step here is making the sauce for the wontons, which can be done in advance and starts with mixing your own chile oil. (Save any extra sauce to use with fried eggs, tofu, potatoes, rice, chicken or anything, really.)",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Chile Oil Wontons",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/ba4ba70e-6d13-5fc7-8543-9933685dccc4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2025-01-24T16:02:20.034Z",
+          "datePublished": "2025-01-22T17:15:29.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-22T17:15:29.000Z",
+          "url": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ba4ba70e-6d13-5fc7-8543-9933685dccc4#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2025-01-24T16:02:20.034Z",
+          "datePublished": "2025-01-22T17:15:29.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-22T17:15:29.000Z",
+          "url": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/ba4ba70e-6d13-5fc7-8543-9933685dccc4#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2025-01-24T16:02:20.034Z",
+          "datePublished": "2025-01-22T17:15:29.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-22T17:15:29.000Z",
+          "url": "https://static01.nyt.com/images/2025/01/29/multimedia/29DUMPLINGWEEKrex5-wontons-wcjh/24DUMPLINGWEEKrex5-wontons-wcjh-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026437-chile-oil-wontons"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:09:18.138Z",
+  "scraping_status": "scraped"
+}

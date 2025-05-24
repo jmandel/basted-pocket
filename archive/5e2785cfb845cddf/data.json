@@ -1,0 +1,552 @@
+{
+  "id": "5e2785cfb845cddf",
+  "original_url": "https://cooking.nytimes.com/recipes/1019789-spicy-slow-roasted-salmon-with-cucumbers-and-feta",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1019789-spicy-slow-roasted-salmon-with-cucumbers-and-feta",
+  "fetched_title": "Spicy Slow-Roasted Salmon With Cucumbers and Feta Recipe",
+  "main_text_content": "Roasting salmon low and slow in a shallow pool of olive oil guarantees that it won&#x27;t overcook — and that it&#x27;ll soak up whatever other flavors are swimming in the oil Dried chile, fennel and coriander provide a crunchy bite and sneaky heat to the buttery salmon Serve it warm or at room temperature, with cucumbers, drizzles of more spicy oil, and feta, for a little more plushness",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1019871-everyday-salmon-with-tangy-cucumbers-and-fried-shallots\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2019/01/02/dining/02Roman2/merlin_148228140_743ce034-6cdc-41d3-bff2-6ec010ac123c-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2019/01/02/dining/02Roman2/merlin_148228140_743ce034-6cdc-41d3-bff2-6ec010ac123c-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2019/01/02/dining/02Roman2/merlin_148228140_743ce034-6cdc-41d3-bff2-6ec010ac123c-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2019/01/02/dining/02Roman2/merlin_148228140_743ce034-6cdc-41d3-bff2-6ec010ac123c-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2019/01/02/dining/02Roman2/merlin_148228140_743ce034-6cdc-41d3-bff2-6ec010ac123c-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2019/01/02/dining/02Roman2/merlin_148228140_743ce034-6cdc-41d3-bff2-6ec010ac123c-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2019/01/02/dining/02Roman2/merlin_148228140_743ce034-6cdc-41d3-bff2-6ec010ac123c-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2019/01/02/dining/02Roman2/merlin_148228140_743ce034-6cdc-41d3-bff2-6ec010ac123c-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Everyday Salmon With Tangy Cucumbers and Fried Shallots</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Alison Roman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2018/11/27/dining/as-chile-roasted-salmon/as-chile-roasted-salmon-threeByTwoMediumAt2X-v2.jpg",
+  "local_image_path": "scraped/5e2785cfb845cddf/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/b68d1f91-d4f4-501c-aba9-fad5bef61f77",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1019789-spicy-slow-roasted-salmon-with-cucumbers-and-feta",
+        "@type": "WebPage",
+        "name": "Spicy Slow-Roasted Salmon With Cucumbers and Feta"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019789-spicy-slow-roasted-salmon-with-cucumbers-and-feta",
+      "name": "Spicy Slow-Roasted Salmon With Cucumbers and Feta",
+      "description": "Roasting salmon low and slow in a shallow pool of olive oil guarantees that it won't overcook — and that it'll soak up whatever other flavors are swimming in the oil. Dried chile, fennel and coriander provide a crunchy bite and sneaky heat to the buttery salmon. Serve it warm or at room temperature, with cucumbers, drizzles of more spicy oil, and feta, for a little more plushness. Store any leftover salmon for up to 2 days in the oil, so it doesn’t dry out.",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/3e2f05b1-cbd4-5e3b-8e6c-829b3146052a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/11/27/dining/as-chile-roasted-salmon/as-chile-roasted-salmon-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-08-31T08:58:17.424Z",
+          "datePublished": "2018-11-27T18:27:14.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2018-11-27T18:27:14.000Z",
+          "url": "https://static01.nyt.com/images/2018/11/27/dining/as-chile-roasted-salmon/as-chile-roasted-salmon-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3e2f05b1-cbd4-5e3b-8e6c-829b3146052a#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/11/27/dining/as-chile-roasted-salmon/as-chile-roasted-salmon-superJumbo-v2.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-08-31T08:58:17.424Z",
+          "datePublished": "2018-11-27T18:27:14.000Z",
+          "height": "1218",
+          "representativeOfPage": true,
+          "uploadDate": "2018-11-27T18:27:14.000Z",
+          "url": "https://static01.nyt.com/images/2018/11/27/dining/as-chile-roasted-salmon/as-chile-roasted-salmon-superJumbo-v2.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3e2f05b1-cbd4-5e3b-8e6c-829b3146052a#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/11/27/dining/as-chile-roasted-salmon/as-chile-roasted-salmon-square640-v2.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-08-31T08:58:17.424Z",
+          "datePublished": "2018-11-27T18:27:14.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2018-11-27T18:27:14.000Z",
+          "url": "https://static01.nyt.com/images/2018/11/27/dining/as-chile-roasted-salmon/as-chile-roasted-salmon-square640-v2.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT30M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, weeknight, seafood, main course",
+      "keywords": "cucumber, feta, salmon, low-carb",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 3782
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 632,
+        "unsaturatedFatContent": "36 grams",
+        "carbohydrateContent": "3 grams",
+        "cholesterolContent": null,
+        "fatContent": "53 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "35 grams",
+        "saturatedFatContent": "12 grams",
+        "sodiumContent": "520 milligrams",
+        "sugarContent": "0 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3/4 cup extra-virgin olive oil",
+        "2 1/2 teaspoons red-pepper flakes",
+        "1/2 teaspoon smoked paprika",
+        "1 tablespoon fennel seeds, crushed",
+        "1 tablespoon coriander seeds, crushed",
+        "Kosher salt and black pepper",
+        "1 (2-pound) skinless salmon fillet",
+        "1 large English cucumber or 3 Persian cucumbers",
+        "4 ounces feta, crumbled (about 1 cup)",
+        "1/4 cup parsley leaves"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 300 degrees. In an ovenproof skillet large enough to hold the salmon, combine olive oil, red-pepper flakes, paprika, fennel seeds, coriander seeds and a pinch each of salt and pepper. Cook over low heat, stirring occasionally, until fragrant and just simmering, about 5 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pat the salmon dry, then sprinkle with salt and place in the spiced oil flesh side up. Spoon some of the oil over the salmon, then bake, basting occasionally, until cooked through, 15 to 25 minutes. (You will know if the salmon is done when the fish flakes when cut into with a knife or fork or when an instant-read thermometer inserted into the thickest part reaches 120 degrees.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the salmon roasts, peel the cucumber and cut into bite-size pieces. Sprinkle with salt."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Break the salmon into large pieces on a serving platter. (Alternatively, you can make the salmon in advance, and eat it at room temperature.) Scatter the cucumbers around the salmon, then top with feta and parsley. Drizzle chile oil over everything to taste. (You will have more than you need — dip bread into any remaining oil.)"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kim M"
+          },
+          "reviewBody": "Very good and simple to make! I didn't have fennel and used Italian seasoning.",
+          "datePublished": "2025-01-01T23:30:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Clover's human"
+          },
+          "reviewBody": "Prepare some orzo pasta and place a bed of it on the plate. Spoon some of the spiced cooking oil over the pasta. Put a piece of the salmon on the orzo.  Serve the feta and cucumber on the side with some cherry tomatoes if you like them.",
+          "datePublished": "2024-12-31T01:22:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bambi Kelley"
+          },
+          "reviewBody": "Loved cooking this and it turned out wonderful but it is winter time ... cucumbers are out of season in our zone 7. Thought about what to use instead that would give the crunchiness of cucumbers. Settled on a combo of endives, escarole, and radicchio. Surely do miss my tomatoes and cucumbers right about now.  :)",
+          "datePublished": "2024-12-27T16:58:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janet Pgh"
+          },
+          "reviewBody": "Love this technique and recipe.  Very easy and I had everything on hand except the coriander, for which I subbed garam masala and it was delicious.   The presentation was nice too. I added greens with the feta and cucumber on a separate dish but definitely combined all on my plate. This will make an impressive oven to table main course. Next time I will include  bread to accompany the yummy oil.",
+          "datePublished": "2024-11-17T14:12:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diane"
+          },
+          "reviewBody": "The salmon was perfectly cooked and very moist. I served pine nut couscous along side and brought the spiced oil to the table to spoon over everything. Next time I may pickle some red onion slides to go with the cucumbers - as others have noted, some acid would be welcome. Otherwise delish!",
+          "datePublished": "2024-11-05T03:52:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Blygirl"
+          },
+          "reviewBody": "This was absolutely delish, I may have been  heavy on the seasonings, but I must have flavor. I also used fresh cilantro as I didn’t have coriander seeds. I did have a lemon, a squeeze on top of the salmon was amazing! \n\nI had scallions that I added to the cucumbers & Mediterranean feta from traders joes. Impressive dish and I don’t write reviews often, this was worthy!!!",
+          "datePublished": "2024-10-30T00:00:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sissy"
+          },
+          "reviewBody": "I’ve made this several times but I use much less oil—maybe 1/4 cup. I bake the salmon 40 minutes at 225 degrees and it is melt-in-your-mouth tender, something I learned from Jacques Pepin. I like the idea of storing leftovers but there aren’t any!",
+          "datePublished": "2024-09-23T14:07:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alan"
+          },
+          "reviewBody": "Agree that some acid is needed. I made a simple cucumber-watermelon-feta salad dressed with only lime juice, and a squirt of lime juice on the salmon when serving. I roasted it at 225 for 45 minutes per Samin Nosrat’s method, which results in a great texture. We thought the spice balance was good.",
+          "datePublished": "2024-08-01T01:44:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ali"
+          },
+          "reviewBody": "Here’s the deal. You have to simmer the spices in the oil for quite a bit longer than the recipe calls for. I had this on a very low temperature on the stove for about 35/40 minutes (low, careful not to burn) before adding the salmon and baking.. The flavor was exceptional! Great spice. Didn’t need to add a thing. \nServed with some couscous and it was a hit!",
+          "datePublished": "2024-06-22T01:36:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ray"
+          },
+          "reviewBody": "Probably best served at room temp.",
+          "datePublished": "2024-03-23T12:52:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ray"
+          },
+          "reviewBody": "Be careful not to burn the crushed pepper",
+          "datePublished": "2024-03-22T19:45:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "wren"
+          },
+          "reviewBody": "Very easy and good. I used cumin in place of coriander because that’s what I had.",
+          "datePublished": "2024-03-06T22:27:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paola Davila"
+          },
+          "reviewBody": "I’ve made this one a thousand times. So good. I substitute the feta with labneh and add preserved lemons. Love it.",
+          "datePublished": "2024-03-01T20:46:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Margaret"
+          },
+          "reviewBody": "I had jalapeño peppers to add—very good (no fennel seeds on hand but still tasty) so easy–salad fruit cup while salmon baked",
+          "datePublished": "2024-02-21T23:47:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Greg"
+          },
+          "reviewBody": "0.5lb overcooked at 12mins. 8mins tops. 15 mins for 1.5-2lbs.\n\nOtherwise a great flavorfull dish. 4/5",
+          "datePublished": "2024-02-20T01:36:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "brooke"
+          },
+          "reviewBody": "Salmon was perfectly cooked and the oil was delicious. We put the fish and cucumbers over a bed of baby kale for a full meal. The only thing missing was acid- this really needed some lime juice to bring it alive.",
+          "datePublished": "2019-03-16T14:20:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paige"
+          },
+          "reviewBody": "I doubled all the spices except the smoked paprika and hot peppers, added a tablespoon of cumin, toasted the spices first in a dry skillet, ground them gently in a mortar and pestle and then warmed in the oil and let it infuse for half an hour before roasting the salmon. Added last of the summer sungolds to the cukes, and a healthy squeeze of lime over all. Total keeper.",
+          "datePublished": "2019-10-02T00:06:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bicka"
+          },
+          "reviewBody": "This looked so delicious!  But I was underwhelmed by the flavors.  You could taste the coriander and a bit of the red pepper flakes, but the only saving grace was a squeeze of lemon when served.  Seemed like a waste of good oil although if I do this again, I would infuse the oil, then let sit out to blend and intensify the flavors before using.  Could be tasty on all sorts of dishes.",
+          "datePublished": "2019-04-04T03:03:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KK13"
+          },
+          "reviewBody": "I make a very similar dish, actually 2-3 variations with touches of Indian spices, esp. using onion seeds in one such dish. Paprika, red chili peppers, cilantro garnish are a must. The flavor of salmon and the spices, and the aroma of the dish are mind blowing! Nothing such can be found in any restaurant.",
+          "datePublished": "2018-12-06T02:29:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "EBA"
+          },
+          "reviewBody": "Delicious! Added:\n-lemon zest to the oil\n- chili paste to the oil (in addition to chili flakes- it won’t get too spicy) \n- brown rice as a bed below the salmon\n- spooned spices from the oil over the fish when plating \n-  squeeze of lemon over cucumbers\n- diced green onion with the cucumbers\n\nReplaced parsley with diced fresh basil",
+          "datePublished": "2019-06-24T02:23:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "bacongougere"
+          },
+          "reviewBody": "We found this to be less than the sum of its parts.  Oil was good, salmon was fine (regional, wild-caught Copper River salmon), cucumber/feta combo was fine; nothing added up to anything super special.  Reviewers who insisted on acid are 100% correct.   Lemon and more salt pumped up the dish.  There are other salmon dishes on NYT that are far better.",
+          "datePublished": "2019-06-16T15:01:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PJ"
+          },
+          "reviewBody": "Looked at notes and added a tablespoon of cumin. Let the oil infuse for 5 hours and added fresh lemon juice over the fish before serving. Fabulous. Had for a dinner party where even the guest whose not wild about salmon loved it.",
+          "datePublished": "2020-01-19T00:12:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J. Clarke"
+          },
+          "reviewBody": "I laid a bed of mixed greens on each of our plates and topped with the crumbled feta and cucumbers along with some pickled red onions (to add that needed acid). Salmon on top, drizzled with extra spiced oil plus a squeeze of lime. Small bowl on the side filled with extra spiced oil - we dipped in pieces of homemade no-knead bread with black olives. Winner winner salmon dinner.",
+          "datePublished": "2019-09-29T22:55:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KBoss"
+          },
+          "reviewBody": "Made this with roasted baby potatoes, added feta and balsamic to the cucumbers. The salmon was perfectly cooked and the oil had just the right amount of heat. Delicious with a glass of chilled rose.",
+          "datePublished": "2019-04-07T23:27:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "rebecca"
+          },
+          "reviewBody": "This recipe resulted in very moist, tender salmon.  The spices were very nice with the fish.  We ate it warm, but I think it would be equally tasty chilled in a salad.",
+          "datePublished": "2018-12-04T20:29:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christopher Perra"
+          },
+          "reviewBody": "This is a wonderful recipe. I’m not a fan of using crushed coriander seeds, though. There’s something about the texture and potency that is off putting to me. I substituted ground coriander. On the other hand, crushed fennel seeds are fine. Who knows why. I upped slightly the crushed red pepper flakes and smoked paprika because I prefer the added heat.  I also added some ground cumin. I think I stayed within the spirit of the recipe.",
+          "datePublished": "2020-03-29T18:50:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jon_norstog"
+          },
+          "reviewBody": "My own experience vis salmon and spices is this: unless the fish is getting fish-y, fresh, less is more.  A little basil is nice. Salmon is done when salmon fat, like white beads of sweat, pops out over the whole filet, including the thickest part.",
+          "datePublished": "2020-01-12T18:58:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christina"
+          },
+          "reviewBody": "Love this recipe! I’ve used the technique with different herbs weekly for the last 4 weeks! Texture of the salmon is perfectly tender! I’ve also saved the spiced oil in a jar refrigerated for future use in a seafood dish or toasted bread or a seafood dip!",
+          "datePublished": "2019-05-04T17:53:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "patefoiegras"
+          },
+          "reviewBody": "Cooked sous vide with oil mixture at 122F for one hour. Added 3 Tbsp of oil mix and 2 Tbsp of white wine vinegar to stripe peeled English cucumber salad for acid and used sheep’s milk feta for brighter flavor. Served over hot Carolina rice pilaf for juxtaposition of temperature. Fantastic",
+          "datePublished": "2019-04-12T23:36:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Merrie"
+          },
+          "reviewBody": "Add lime or lemon.",
+          "datePublished": "2019-06-14T20:55:08.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1019789-spicy-slow-roasted-salmon-with-cucumbers-and-feta",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018,
+      "description": "Roasting salmon low and slow in a shallow pool of olive oil guarantees that it won't overcook — and that it'll soak up whatever other flavors are swimming in the oil. Dried chile, fennel and coriander provide a crunchy bite and sneaky heat to the buttery salmon. Serve it warm or at room temperature, with cucumbers, drizzles of more spicy oil, and feta, for a little more plushness. Store any leftover salmon for up to 2 days in the oil, so it doesn’t dry out.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Spicy Slow-Roasted Salmon With Cucumbers and Feta",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/3e2f05b1-cbd4-5e3b-8e6c-829b3146052a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/11/27/dining/as-chile-roasted-salmon/as-chile-roasted-salmon-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-08-31T08:58:17.424Z",
+          "datePublished": "2018-11-27T18:27:14.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2018-11-27T18:27:14.000Z",
+          "url": "https://static01.nyt.com/images/2018/11/27/dining/as-chile-roasted-salmon/as-chile-roasted-salmon-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3e2f05b1-cbd4-5e3b-8e6c-829b3146052a#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/11/27/dining/as-chile-roasted-salmon/as-chile-roasted-salmon-superJumbo-v2.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-08-31T08:58:17.424Z",
+          "datePublished": "2018-11-27T18:27:14.000Z",
+          "height": "1218",
+          "representativeOfPage": true,
+          "uploadDate": "2018-11-27T18:27:14.000Z",
+          "url": "https://static01.nyt.com/images/2018/11/27/dining/as-chile-roasted-salmon/as-chile-roasted-salmon-superJumbo-v2.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3e2f05b1-cbd4-5e3b-8e6c-829b3146052a#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/11/27/dining/as-chile-roasted-salmon/as-chile-roasted-salmon-square640-v2.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-08-31T08:58:17.424Z",
+          "datePublished": "2018-11-27T18:27:14.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2018-11-27T18:27:14.000Z",
+          "url": "https://static01.nyt.com/images/2018/11/27/dining/as-chile-roasted-salmon/as-chile-roasted-salmon-square640-v2.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019789-spicy-slow-roasted-salmon-with-cucumbers-and-feta"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:04:46.218Z",
+  "scraping_status": "scraped"
+}

@@ -1,0 +1,539 @@
+{
+  "id": "636207d5f2a227dc",
+  "original_url": "https://cooking.nytimes.com/recipes/1021487-mapo-tofu-spaghetti",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021487-mapo-tofu-spaghetti",
+  "fetched_title": "Mapo Tofu Spaghetti Recipe",
+  "main_text_content": "Conventional mapo tofu calls for cubed tofu, but, if you blend silken tofu for a twist on the Sichuan favorite, you’ll yield a creamy pasta sauce with deep numbing, spicy mala flavor For velvety results, select silken tofu that’s molded into its refrigerated tub Shop at a Chinese market for the doubanjiang (fermented chile bean sauce or paste)",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1021459-mapo-tofu\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2020/10/07/dining/05mapo1/merlin_177593325_1efeecd0-e478-4f8a-ab03-36a9553ca3c9-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2020/10/07/dining/05mapo1/merlin_177593325_1efeecd0-e478-4f8a-ab03-36a9553ca3c9-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2020/10/07/dining/05mapo1/merlin_177593325_1efeecd0-e478-4f8a-ab03-36a9553ca3c9-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2020/10/07/dining/05mapo1/merlin_177593325_1efeecd0-e478-4f8a-ab03-36a9553ca3c9-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2020/10/07/dining/05mapo1/merlin_177593325_1efeecd0-e478-4f8a-ab03-36a9553ca3c9-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2020/10/07/dining/05mapo1/merlin_177593325_1efeecd0-e478-4f8a-ab03-36a9553ca3c9-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2020/10/07/dining/05mapo1/merlin_177593325_1efeecd0-e478-4f8a-ab03-36a9553ca3c9-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2020/10/07/dining/05mapo1/merlin_177593325_1efeecd0-e478-4f8a-ab03-36a9553ca3c9-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Mapo Tofu</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Andrea Nguyen</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2020/10/07/dining/05mapo2/merlin_177593271_16f2d766-e655-44bc-a88f-afa8e95c5b81-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/636207d5f2a227dc/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/44ac8773-2ad0-5f2b-a220-7ac8ecac8f94",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021487-mapo-tofu-spaghetti",
+        "@type": "WebPage",
+        "name": "Mapo Tofu Spaghetti"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021487-mapo-tofu-spaghetti",
+      "name": "Mapo Tofu Spaghetti",
+      "description": "Conventional mapo tofu calls for cubed tofu, but, if you blend silken tofu for a twist on the Sichuan favorite, you’ll yield a creamy pasta sauce with deep numbing, spicy mala flavor. For velvety results, select silken tofu that’s molded into its refrigerated tub. Shop at a Chinese market for the doubanjiang (fermented chile bean sauce or paste). Look for the kind that is jarred and labeled as toban djan or packaged as plastic-sealed paper cubes, and originating from Pixian. Also grab some Sichuan peppercorns, and for extra umami oomph, some douchi (fermented black beans), too. If beef or pork isn’t your thing, try ground turkey, lamb or a plant-based meat alternative. Chefs (Mei Lin of Nightshade in Los Angeles, and Yu Bo of Yu’s Family Kitchen in Chengdu) and home cooks (the family of Zhong Yi, a former graduate student at Sichuan University) alike have tinkered with mapo tofu, pushing its definition and inspiring this cross-cultural iteration.",
+      "author": {
+        "@type": "Person",
+        "name": "Andrea Nguyen"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/ca7ea32c-291c-5b4a-a9f8-af318787b298#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Mapo tofu can be the foundation of a creamy sauce that&rsquo;s perfect for spaghetti.",
+          "contentUrl": "https://static01.nyt.com/images/2020/10/07/dining/05mapo2/05mapo2-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-10-05T17:05:21.787Z",
+          "datePublished": "2020-10-05T14:24:46.000Z",
+          "height": "900",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2020-10-05T14:24:46.000Z",
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05mapo2/05mapo2-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ca7ea32c-291c-5b4a-a9f8-af318787b298#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Mapo tofu can be the foundation of a creamy sauce that&rsquo;s perfect for spaghetti.",
+          "contentUrl": "https://static01.nyt.com/images/2020/10/07/dining/05mapo2/merlin_177593271_16f2d766-e655-44bc-a88f-afa8e95c5b81-superJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-10-05T17:05:21.787Z",
+          "datePublished": "2020-10-05T14:24:46.000Z",
+          "height": "1365",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2020-10-05T14:24:46.000Z",
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05mapo2/merlin_177593271_16f2d766-e655-44bc-a88f-afa8e95c5b81-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/ca7ea32c-291c-5b4a-a9f8-af318787b298#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "caption": "Mapo tofu can be the foundation of a creamy sauce that&rsquo;s perfect for spaghetti.",
+          "contentUrl": "https://static01.nyt.com/images/2020/10/07/dining/05mapo2/05mapo2-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-10-05T17:05:21.787Z",
+          "datePublished": "2020-10-05T14:24:46.000Z",
+          "height": "1800",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2020-10-05T14:24:46.000Z",
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05mapo2/05mapo2-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT40M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "chinese",
+      "recipeCategory": "dinner, meat, noodles, pastas, main course",
+      "keywords": "doubanjiang, ginger, ground beef, parmesan, scallion, sichuan peppercorn, spaghetti, tofu",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 534
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 445,
+        "unsaturatedFatContent": "10 grams",
+        "carbohydrateContent": "52 grams",
+        "cholesterolContent": null,
+        "fatContent": "16 grams",
+        "fiberContent": "4 grams",
+        "proteinContent": "22 grams",
+        "saturatedFatContent": "4 grams",
+        "sodiumContent": "414 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 (14- or 16-ounce) package silken tofu",
+        "1 1/2 teaspoons Sichuan peppercorns",
+        "2 tablespoons neutral oil, such as canola oil",
+        "8 ounces ground beef or pork (preferably 80 or 85 percent lean), roughly chopped to loosen",
+        "2 1/2 to 3 tablespoons doubanjiang (fermented chile bean sauce or paste)",
+        "1 tablespoon douchi (fermented black beans, optional)",
+        "1 teaspoon minced fresh ginger",
+        "1/2 teaspoon red-pepper flakes (optional)",
+        "2 teaspoons regular soy sauce",
+        "1 rounded teaspoon granulated sugar, plus more as needed",
+        "Fine sea salt",
+        "1 large scallion, trimmed and sliced on a sharp bias into 2-inch-long pieces",
+        "1 tablespoon cornstarch dissolved in 2 tablespoons water",
+        "1 tablespoon fine sea salt",
+        "12 ounces dried spaghetti",
+        "1 large scallion, trimmed and cut on a sharp bias into 2-inch-long pieces",
+        "2 to 3 tablespoons grated Parmesan"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the mapo tofu sauce: If the tofu came as a block in water, discard the water. Cut the tofu into large chunks, then use a stand blender or immersion blender to whirl the tofu into an ivory smoothie."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a medium (3- or 4-quart) pot over medium heat, toast the Sichuan peppercorns for 2 to 3 minutes, until super fragrant and slightly darkened. (A wisp of smoke is OK.) Let cool briefly, then pound with a mortar and pestle or pulse in a spice grinder."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the remaining sauce ingredients and set them near the stove."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Warm the oil in the pot over high heat. When shimmering, add the meat. Stir and mash into cooked and crumbly pieces, 1 to 2 minutes. Add 2 1/2 tablespoons doubanjiang, the douchi (if using), ginger and red-pepper flakes (if using). Fry about 2 minutes longer, stirring constantly, until the mixture is a rich reddish brown."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Reduce the heat to medium-low, then stir in the soy sauce and sugar. Scrape in the blended tofu. (If there’s much left in the blender jar, add 1 tablespoon water and whirl to loosen it.) Stir to combine well, partly cover and bring to simmer. Cook for about 3 minutes, stirring occasionally, to develop flavor throughout. Expect orange oil to appear on top."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Taste the sauce and if needed, add the remaining 1/2 tablespoon doubanjiang (for heat), or a pinch of salt (for savoriness) or sugar (to tame heat)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Stir in the scallions, then add the cornstarch slurry and stir until thickened. Turn off the heat. Stir in half the crushed Sichuan peppercorns to seed a bit of zing. Let sit for 5 to 10 minutes to deepen flavor and color before using; a little lingering orange oiliness is normal. Makes about 2 1/2 cups. (You can also cool completely then refrigerate in an airtight container for up to 3 days.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the spaghetti: Fill a large pot about halfway with water and add no more than 1 tablespoon of salt to lightly season. Bring to a boil over high heat, then add the spaghetti and boil until al dente according to package instructions. Ladle out about 3/4 cup of the pasta cooking water, then drain the spaghetti. Briefly rinse to remove some of the starch and shake to expel excess water."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In the same pot (or a clean large skillet, if you wish), warm the tofu sauce and 1/3 cup of the reserved pasta cooking water over medium heat. When hot and bubbling, add the spaghetti to the sauce. Use tongs to stir and coat the strands. Stir in extra pasta water by the tablespoon for a creamier, silkier finish, if desired."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When satisfied, stir in the scallion and cook very briefly until just softened. Divide the pasta among plates or shallow bowls and serve topped with the cheese and the remaining ground peppercorns."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2020-10-07T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SK19118"
+          },
+          "reviewBody": "Wow this is epic good! And not complicated to make. The hardest part was finding the ingredients. Subbed black pepper & coriander for Szechuan pepper. Ordered bean paste on Amazon. Added a squeeze of lemon to the sauce. Did not use parm. Had a little sauce left over. Delicious!",
+          "datePublished": "2025-01-18T02:06:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Di"
+          },
+          "reviewBody": "This really hit the spot, with zing! A nice variation to the usual Mapo Tofu (vegan). Used chunky mushrooms in lieu of meat, used the douchi, Korean red pepper, and extra ginger. Did not use the cornstarch and the texture was perfect. Couldn't wait until this afternoon to polish off the leftovers. Next time I will make just one change and try a short pasta like casarecci or med shell--I prefer to eat my creamy pastas with a spoon!",
+          "datePublished": "2024-09-04T18:07:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pat Shepherd"
+          },
+          "reviewBody": "I made substitutions with what was available in my refrigerator --  Firm tofu with some water added during processing, Thai green curry paste instead of the doubanjiang , vegan ground b'ef -- and it turned out delicious.",
+          "datePublished": "2024-01-16T19:45:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "stacey"
+          },
+          "reviewBody": "Use miso instead of black bean paste for that extra umami kick! I also subbed in gochujang.",
+          "datePublished": "2022-03-29T04:44:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katherine"
+          },
+          "reviewBody": "This recipe is formatted in such a confusing way that it’s hard to know what goes into the blender with that tofu. So, below the words SAUCE, the recipe writer means that all the ingredients EVENTUALLY go into the sauce. Read the whole thing through a few times before you start cooking.",
+          "datePublished": "2022-03-19T23:44:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "The Clar's"
+          },
+          "reviewBody": "Also for another vegetarian option we used beans instead of meat, and it was so good!",
+          "datePublished": "2022-02-10T00:51:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "seana"
+          },
+          "reviewBody": "Well, I was excited to prepare this and am terribly disappointed. I made it with Beyond Meat, and other than adding a bit more than a tablespoon of water to get my tofu out of the blender, I followed the recipe faithfully.\n\nThe end result delivered on “numb” but offered no other significant flavor, and once out of the pan for more than a few minutes, the creamy tofu became pasty and lost its appeal. We ended up not only not finishing dinner, but we tossed the rest. Again, disappointing.",
+          "datePublished": "2022-01-31T01:09:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathryn"
+          },
+          "reviewBody": "So delicious and so easy! The fermented bean paste and fermented beans can be found at a Asian grocery but you can also sub a chili crisp! I also had ramen noodles instead of spaghetti which made it extra delightful! Do not forget the Szechwan peppercorns—they add that wonderful slightly numbing sensation! Can’t wait to eat this again!",
+          "datePublished": "2022-01-23T23:20:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leah"
+          },
+          "reviewBody": "We made this vegetarian by using 8oz black beans in place of the meat. It was great! The dusting of ground Szechuan peppers before serving is a very happy addition. My kids ate this up, even the 7 year old who spurns tofu. In this recipe, he didn’t even know it was there!",
+          "datePublished": "2021-12-18T00:34:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "skyandstars"
+          },
+          "reviewBody": "Rob,\nYour criticism about the amount of pasta called for is easily solved- if you purchase the same brand of pasta for each shape you prefer ( spaghettini, fettuccini, linguini) , wrap the unused, uncooked portion in plastic wrap and save until the next time you cook.  Alternatives? Cook the whole pound and have either left overs or eat more than you need.",
+          "datePublished": "2021-11-20T00:56:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ty"
+          },
+          "reviewBody": "Try with wild mushrooms, fried and caramelized as Claire suggested. Use the largest calphelon sauce pan. Start spaghetti water pot sooner so you don’t have to reheat. Double the doubugang and douchi. Put 1 tbs douchi in with tofu chunks before blending. Can add gouchugang for more heat. Strain the crushed Szechuan peppercorns through a lil strainer before adding to remove sharp husks. Disregard first mention of scallions and add them at the end or on top for brightness.",
+          "datePublished": "2021-11-05T01:10:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lauren"
+          },
+          "reviewBody": "I liked this a lot especially after adding hot chili oil on top",
+          "datePublished": "2021-10-31T20:17:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lnr"
+          },
+          "reviewBody": "gluten free pasta options: Jovial brown rice pasta has the best taste and texture by a mile.",
+          "datePublished": "2021-10-10T15:39:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kim"
+          },
+          "reviewBody": "We used Beyond Beef instead of chopped meat and was excellent providing 30 grams of protein.",
+          "datePublished": "2021-08-19T00:10:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christine"
+          },
+          "reviewBody": "There a better uses for tofu. Disappointed that this recipe came from a really great cook.",
+          "datePublished": "2021-06-29T02:21:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "claire"
+          },
+          "reviewBody": "For all the vegetarians out there: I used assorted wild mushrooms instead of “meat” substitutes and IT. WAS. AMAZING. Fried the mushrooms until caramelize and crisp then continued with the recipe as is. I am a spice fiend so I used all the bean-chili paste.",
+          "datePublished": "2020-10-10T20:26:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rob"
+          },
+          "reviewBody": "Made a vegetarian rendition.  Beyond meat worked great. I think the amount of peppercorn was but much, I found this more numbing than I usually like. But otherwise a very clever dish. One other gripe, why do recipes insist on using 12oz of pasta when it comes in 16oz packages. Every time I see this I assume the writer is just oblivious to the realities of a home cook.",
+          "datePublished": "2020-10-24T04:29:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rachael"
+          },
+          "reviewBody": "The addition of the parmesan seems a little strange to me, and could see toasted sesame seeds (that you could even blitz in a food processor to mimic the parm texture) as a sub that lends more to the flavor profile of this recipe.",
+          "datePublished": "2020-10-07T15:54:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Zizzie"
+          },
+          "reviewBody": "This is really good on rice noodles, too.",
+          "datePublished": "2020-10-05T18:07:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nadia"
+          },
+          "reviewBody": "Thanks to the comment section of the other Mapo Tofu David Tanis recipe I stumbled on the Fly By Jing doubanjiang and their amazing Chile Crisp which I used in lieu of the fermented black beans. Pricy but well worth it. \nFor the commenter about the 12 oz of spaghetti, I found that De Cecco sells their Organic Spaghetti in that size and it is so far superior to the 16 oz regular spaghetti out there because it’s bronze died and that rough exterior is a marvel when it comes to absorbing sauce.",
+          "datePublished": "2021-01-28T23:49:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joe"
+          },
+          "reviewBody": "How does this work without the meat, ie veggie?",
+          "datePublished": "2020-10-07T16:47:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katherine"
+          },
+          "reviewBody": "This recipe is formatted in such a confusing way that it’s hard to know what goes into the blender with that tofu. So, below the words SAUCE, the recipe writer means that all the ingredients EVENTUALLY go into the sauce. Read the whole thing through a few times before you start cooking.",
+          "datePublished": "2022-03-19T23:44:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bicka"
+          },
+          "reviewBody": "I really loved the idea of using tofu in this way.  I had firm tofu but adding some water allowed me to get a pretty silky puree.  I followed the directions, but subbed in gochujang sauce since its what I had.  Subbed chopped mushrooms for meat and cooked until nicely brown.  My sauce was super think, so didn't add the cornstarch.  I was surprised by how bland this was.  It was hot, but there was little depth.  Next time, lime juice, fish sauce to give it more depth, plus more ginger and garlic",
+          "datePublished": "2021-04-14T00:15:38.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021487-mapo-tofu-spaghetti",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Andrea Nguyen"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020,
+      "description": "Conventional mapo tofu calls for cubed tofu, but, if you blend silken tofu for a twist on the Sichuan favorite, you’ll yield a creamy pasta sauce with deep numbing, spicy mala flavor. For velvety results, select silken tofu that’s molded into its refrigerated tub. Shop at a Chinese market for the doubanjiang (fermented chile bean sauce or paste). Look for the kind that is jarred and labeled as toban djan or packaged as plastic-sealed paper cubes, and originating from Pixian. Also grab some Sichuan peppercorns, and for extra umami oomph, some douchi (fermented black beans), too. If beef or pork isn’t your thing, try ground turkey, lamb or a plant-based meat alternative. Chefs (Mei Lin of Nightshade in Los Angeles, and Yu Bo of Yu’s Family Kitchen in Chengdu) and home cooks (the family of Zhong Yi, a former graduate student at Sichuan University) alike have tinkered with mapo tofu, pushing its definition and inspiring this cross-cultural iteration.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Mapo Tofu Spaghetti",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/ca7ea32c-291c-5b4a-a9f8-af318787b298#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Mapo tofu can be the foundation of a creamy sauce that&rsquo;s perfect for spaghetti.",
+          "contentUrl": "https://static01.nyt.com/images/2020/10/07/dining/05mapo2/05mapo2-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-10-05T17:05:21.787Z",
+          "datePublished": "2020-10-05T14:24:46.000Z",
+          "height": "900",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2020-10-05T14:24:46.000Z",
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05mapo2/05mapo2-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ca7ea32c-291c-5b4a-a9f8-af318787b298#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Mapo tofu can be the foundation of a creamy sauce that&rsquo;s perfect for spaghetti.",
+          "contentUrl": "https://static01.nyt.com/images/2020/10/07/dining/05mapo2/merlin_177593271_16f2d766-e655-44bc-a88f-afa8e95c5b81-superJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-10-05T17:05:21.787Z",
+          "datePublished": "2020-10-05T14:24:46.000Z",
+          "height": "1365",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2020-10-05T14:24:46.000Z",
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05mapo2/merlin_177593271_16f2d766-e655-44bc-a88f-afa8e95c5b81-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/ca7ea32c-291c-5b4a-a9f8-af318787b298#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "caption": "Mapo tofu can be the foundation of a creamy sauce that&rsquo;s perfect for spaghetti.",
+          "contentUrl": "https://static01.nyt.com/images/2020/10/07/dining/05mapo2/05mapo2-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2020-10-05T17:05:21.787Z",
+          "datePublished": "2020-10-05T14:24:46.000Z",
+          "height": "1800",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2020-10-05T14:24:46.000Z",
+          "url": "https://static01.nyt.com/images/2020/10/07/dining/05mapo2/05mapo2-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021487-mapo-tofu-spaghetti"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:35:39.544Z",
+  "scraping_status": "scraped"
+}

@@ -1,0 +1,564 @@
+{
+  "id": "d47fe1853d39950c",
+  "original_url": "https://cooking.nytimes.com/recipes/1019934-roasted-cauliflower-soup",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1019934-roasted-cauliflower-soup",
+  "fetched_title": "Roasted Cauliflower Soup Recipe",
+  "main_text_content": "The color of sunflowers, this gently spiced soup comes from Yasmin Khan’s “Zaitoun: Recipes From the Palestinian Kitchen,” in which Ms. Khan explains that cauliflower is elemental in Palestinian cooking Here, cauliflower florets and leaves are roasted in the oven with cumin and coriander until browned, the vegetable’s deep, nutty flavors coaxed out by the heat Reserve some roasted florets and leaves for garnish, then simmer the remaining cauliflower mixture with turmeric and potato, which adds creamy texture to this thick, velvety soup",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026847-roasted-cauliflower-caesar\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/05/14/multimedia/ab-roasted-cauliflower-caesar-hftw/ab-roasted-cauliflower-caesar-hftw-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/05/14/multimedia/ab-roasted-cauliflower-caesar-hftw/ab-roasted-cauliflower-caesar-hftw-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/05/14/multimedia/ab-roasted-cauliflower-caesar-hftw/ab-roasted-cauliflower-caesar-hftw-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/05/14/multimedia/ab-roasted-cauliflower-caesar-hftw/ab-roasted-cauliflower-caesar-hftw-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/05/14/multimedia/ab-roasted-cauliflower-caesar-hftw/ab-roasted-cauliflower-caesar-hftw-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/05/14/multimedia/ab-roasted-cauliflower-caesar-hftw/ab-roasted-cauliflower-caesar-hftw-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/05/14/multimedia/ab-roasted-cauliflower-caesar-hftw/ab-roasted-cauliflower-caesar-hftw-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/05/14/multimedia/ab-roasted-cauliflower-caesar-hftw/ab-roasted-cauliflower-caesar-hftw-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Roasted Cauliflower Caesar </p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Andy Baraghani</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2019/02/06/dining/06Khanrex1/merlin_149765442_1974b603-81dd-448c-bcbe-456066c12f53-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/d47fe1853d39950c/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/f62998e4-60b0-54f3-82ce-a77fcb4e1edc",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1019934-roasted-cauliflower-soup",
+        "@type": "WebPage",
+        "name": "Roasted Cauliflower Soup"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019934-roasted-cauliflower-soup",
+      "name": "Roasted Cauliflower Soup",
+      "description": "The color of sunflowers, this gently spiced soup comes from Yasmin Khan’s “Zaitoun: Recipes From the Palestinian Kitchen,” in which Ms. Khan explains that cauliflower is elemental in Palestinian cooking. Here, cauliflower florets and leaves are roasted in the oven with cumin and coriander until browned, the vegetable’s deep, nutty flavors coaxed out by the heat. Reserve some roasted florets and leaves for garnish, then simmer the remaining cauliflower mixture with turmeric and potato, which adds creamy texture to this thick, velvety soup. Sprinkle the soup with any remaining cauliflower, crunchy toasted almonds and as much fresh parsley as you’d like.",
+      "author": {
+        "@type": "Person",
+        "name": "Mayukh Sen"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/43ca8fa1-5ca9-5960-b629-1ea6f1081aaa#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/02/06/dining/06Khanrex1/merlin_149765442_1974b603-81dd-448c-bcbe-456066c12f53-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Susan Spungen",
+          "dateModified": "2021-02-10T05:19:40.876Z",
+          "datePublished": "2019-02-04T16:24:58.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-02-04T16:24:58.000Z",
+          "url": "https://static01.nyt.com/images/2019/02/06/dining/06Khanrex1/merlin_149765442_1974b603-81dd-448c-bcbe-456066c12f53-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/43ca8fa1-5ca9-5960-b629-1ea6f1081aaa#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/02/06/dining/06Khanrex1/merlin_149765442_1974b603-81dd-448c-bcbe-456066c12f53-superJumbo.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Susan Spungen",
+          "dateModified": "2021-02-10T05:19:40.876Z",
+          "datePublished": "2019-02-04T16:24:58.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2019-02-04T16:24:58.000Z",
+          "url": "https://static01.nyt.com/images/2019/02/06/dining/06Khanrex1/merlin_149765442_1974b603-81dd-448c-bcbe-456066c12f53-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/43ca8fa1-5ca9-5960-b629-1ea6f1081aaa#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/02/06/dining/06Khanrex1/06Khanrex1-square640.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Susan Spungen",
+          "dateModified": "2021-02-10T05:19:40.876Z",
+          "datePublished": "2019-02-04T16:24:58.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-02-04T16:24:58.000Z",
+          "url": "https://static01.nyt.com/images/2019/02/06/dining/06Khanrex1/06Khanrex1-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT45M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "middle eastern",
+      "recipeCategory": "dinner, easy, lunch, weeknight, appetizer",
+      "keywords": "almond, cauliflower, parsley, potato, soup, turmeric, fall, spring, winter, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 3330
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 270,
+        "unsaturatedFatContent": "10 grams",
+        "carbohydrateContent": "28 grams",
+        "cholesterolContent": null,
+        "fatContent": "15 grams",
+        "fiberContent": "6 grams",
+        "proteinContent": "9 grams",
+        "saturatedFatContent": "4 grams",
+        "sodiumContent": "1008 milligrams",
+        "sugarContent": "8 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 large head cauliflower (about 2 pounds), stem discarded, florets cut into 2-inch pieces, leaves reserved (if available)",
+        "2 medium white onions, halved and thinly sliced",
+        "3 tablespoons extra-virgin olive oil",
+        "1 1/2 teaspoons ground cumin",
+        "1 1/2 teaspoons ground coriander",
+        "Sea salt and ground black pepper",
+        "2 tablespoons salted butter",
+        "4 garlic cloves, crushed",
+        "1 large potato (about 14 ounces), skin on, cut into 1-inch pieces",
+        "1 teaspoon ground turmeric",
+        "1 quart vegetable or chicken stock",
+        "2 tablespoons sliced almonds",
+        "Coarsely chopped fresh parsley leaves, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 400 degrees. Arrange the chopped cauliflower, any cauliflower leaves and the onions on a large baking sheet. Drizzle with the olive oil and sprinkle with cumin, coriander, 1 teaspoon salt and 1/2 teaspoon pepper. Use your hands to mix everything together, then arrange in an even layer. Roast until the cauliflower is browned and cooked through but still has some bite, about 25 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, melt the butter in a large saucepan over low heat. Add the garlic and cook until fragrant, about 3 minutes. Stir in the potato and turmeric, add the stock and bring to a simmer over medium heat. Cover and cook until the potato is soft, about 10 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When the cauliflower is done, reserve about 1 cup cauliflower for the topping (including leaves, if you have them) and add the remaining cauliflower and onions to the soup. Return the soup to a simmer and cook until flavors meld, about 5 minutes. Blitz with an immersion blender until smooth. Taste and adjust the seasoning."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Toast the almonds in a dry skillet over low heat, stirring occasionally, until golden, about 4 minutes. When you are ready to serve, ladle the soup into warmed bowls. Top with the reserved roasted cauliflower and a scattering of almonds and parsley."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jay B"
+          },
+          "reviewBody": "Excellent!",
+          "datePublished": "2025-04-03T22:43:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susigaj"
+          },
+          "reviewBody": "This was good.  I had trouble with the white onions.  This is the first time I used them.  I thought I peeled them well enough before slicing them.  But I ended up with a lot of onion strips that I couldn't chew even after I used the immersion blender on the soup.  Many strips of onion got stuck in the blades of my immersion blender.  I'd use yellow onions if I make this again.",
+          "datePublished": "2025-02-21T00:17:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nina"
+          },
+          "reviewBody": "Added a touch of milk at the end to balance the saltiness and voila!",
+          "datePublished": "2025-02-19T18:19:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leslye Borden"
+          },
+          "reviewBody": "I served this at a small party with 8 friends.  Everyone loved it.  Could have had more stock; the potato thickened it a lot.  I made a second batch of roasted cauliflower and onions with the cumin and coriander.  I think it will make a good side dish, not in the soup.  It was good in the soup too.",
+          "datePublished": "2025-02-17T04:29:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KJS"
+          },
+          "reviewBody": "My family calls this one \"Liquid gold!\"  It's on our regular winter rotation now....\nThe only thing I did differently was to substitute olive oil for the butter.",
+          "datePublished": "2025-02-16T18:34:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martha"
+          },
+          "reviewBody": "Used an orange cauliflower. Not sure what the thing is with the leaves, but roasted them too. Followed the suggestions here for more spice and fewer onions. Also roasted four fat garlic cloves instead of adding them later. For garnish I had the brilliant idea of riffing on the pecorino breadcrumbs from Alison Romans creamy cauliflower pasta - I reserved some cauliflower crumbs,  chopped some walnuts, toasted all that with panko and then added Parmesan, white pepper, and bit of salt. Yum.",
+          "datePublished": "2025-02-13T20:30:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AC"
+          },
+          "reviewBody": "This soup is delicious! My main gripe is it took far longer than 45 mins. The cauliflower needed 40 mins of roasting and still didn't crisp like it looks in the pic (and yes I have an oven thermometer). Potato (chopped small) took 15 mins to soften. Like some other commenters, I added a teaspoon of smoked paprika with the turmeric and the color and flavor are just lovely. Don't skip the herbs and almonds. I also served with a dollop of plain yogurt.",
+          "datePublished": "2025-02-11T21:43:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emme"
+          },
+          "reviewBody": "I used 1 onion and swapped in a sweet potato, since that’s what was on hand.  After reading the comments, glad it worked out that way.  Added 1-1/2 cups water.  Normally I pile on a bunch of extra seasonings, but I mostly kept to the recipe here.  Did add some paprika.  Baked the cauliflower and onions with 1t each coriander and cumin, the remaining 1/2t of each spice I used in the broth & taters mix.  Soup is delicious - loved the flavor and ease - will make again!",
+          "datePublished": "2025-02-11T21:08:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rose M"
+          },
+          "reviewBody": "Delicious and easy. I had a leek on hand so I sautéed the whole leek- yes, I don’t waste the green, and roasted a bulb of garlic, and omitted the potato. I added a squeeze of lemon and dill. It’s a good basic to palette to add anything else. My next bowl I added goat cheese, and my partner added a little shredded cheddar and  chile crisp… divine!",
+          "datePublished": "2025-02-09T23:54:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ching"
+          },
+          "reviewBody": "It tastes great! I also substitute potato with sweet potato. skipped onion. Didn't double the spices but add a lot more olive oil, add salt to taste. Substitute almond with walnut. used one and a half pounds instead of two pounds cauliflower so the soap is less thick.",
+          "datePublished": "2025-02-02T23:48:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joyce, Highlands, NC"
+          },
+          "reviewBody": "Too thick, too bland, too much trouble for not much flavor.  I doubled all seasonings, added lime juice, etc.  Won't make again.",
+          "datePublished": "2025-01-24T22:05:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cookin with induction"
+          },
+          "reviewBody": "I made a bunch of modifications based on comments and it turned out great.  Primary drivers were more flavor and too lazy for sautéing. \nDoubled cumin and coriander\nRoasted garlic with veggies\nAdded a scoop of miso and a bit of chipotles in adobo into broth",
+          "datePublished": "2025-01-11T20:29:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pretty bland"
+          },
+          "reviewBody": "I wanted to like this but it was really lacking in flavour. I followed the recipe exactly.",
+          "datePublished": "2025-01-07T16:34:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Name"
+          },
+          "reviewBody": "@MER exactly! What is wrong with people",
+          "datePublished": "2025-02-09T16:53:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MER"
+          },
+          "reviewBody": "It might not be traditional, but I suggest keeping and dicing the stalks (rather than discarding them), and letting them soften along with the potatoes. I make a creamy cauliflower soup where I use the stalks, leeks and potatoes, and it's delicious!",
+          "datePublished": "2025-01-04T16:46:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DL"
+          },
+          "reviewBody": "I added the juice of half a lemon, which I think really added a brightness this soup needed.",
+          "datePublished": "2024-12-09T01:48:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "Very good. Agree that I would double the amount of cumin and coriander, and mix it in with the oil before tossing with the cauliflower. Also substituted a sweet potato for the white potato as suggested by another reviewer. \nAs is, the recipe is too thick - I added somewhere between 1 and 2 cups of additional broth to get it to a reasonable consistency. Will definitely make this again.",
+          "datePublished": "2019-04-13T01:17:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Spatchcock"
+          },
+          "reviewBody": "DELICIOUS! I upped the cumin and coriander by a teaspoon for each, and added it to the oil. Made tossing a lot easier. You might also consider a pinch of cayenne, to brighten and add a little heat.\nAlso added some salt and garam masala to the toasted almond slices. Made them a bit more interesting. Do not leave these out! They add to the complexity of the soup.\nFinally, if you can, use home made chicken stock. I happened to have some frozen stuff made from a fire roasted bird. Deep and rich!\n",
+          "datePublished": "2019-02-06T02:47:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RS"
+          },
+          "reviewBody": "I found this a little bland in terms of the cauliflower/potato taste but too heavy on the onion flavor. I added a bunch of the fresh parsley before using the immersion blender for color and taste, and squeezed a lemon for acidity. It helped.",
+          "datePublished": "2019-03-04T16:04:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Neill"
+          },
+          "reviewBody": "Loved BabsD’s honesty..& in appreciating this culinary humour & frankness ( haven’t we all done this once!?) I’m wondering why the important & very easily achieved garnish ( at least the cauliflower pieces!) wasn’t done?\nMy issue is being directed to lay out raw cauliflower pieces ..only to be later told to mix them up ..& lay’em all out again! \nWhere’s the mixing bowl to begin with..& THEN lay out on the baking sheet! \nMore efficient & easily achieved.",
+          "datePublished": "2019-04-17T12:37:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Turtle Toms"
+          },
+          "reviewBody": "Followed the recipe with these modifications: increased the cumin and coriander to 2 tsps each, added a tsp of smoked hot paprika, subbed cilantro for parsley, added a can of coconut milk at the end as the soup was a bit too thick, and squeezed lime over the soup before serving. Really lovely with a side of feta honey spoonbread.",
+          "datePublished": "2019-04-17T22:49:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeddie"
+          },
+          "reviewBody": "When preparing the cauliflower to roast, slice it in even \"steaks\". It cooks more evenly and we are blending anyway. Used one large onion and roasted half with the cauliflower, used the other half cooked with the garlic.\nAdded 1/2 tsp cayenne, 1 Tbs balsamic vinegar to the soup.\nGarnished with sour cream, cilantro and toasted almonds.",
+          "datePublished": "2021-06-25T02:54:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "tbucks"
+          },
+          "reviewBody": "I switched a sweet potato for the white potato. It was so good! ",
+          "datePublished": "2019-02-08T12:02:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jsenbrink"
+          },
+          "reviewBody": "I thought it needed a little bite so I added cayenne pepper, and it was perfect.  Also, I skipped the almonds and garnished with a handful of chopped scallions plus the parsley.  It was a big hit with six out of six diners.",
+          "datePublished": "2019-02-11T16:56:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maggie Sennish"
+          },
+          "reviewBody": "Added a can of cannellini beans at the end and puréed into the white bean cauli sweet potato mix- divine and a little more protein for a lovely winter meal.",
+          "datePublished": "2020-12-29T04:06:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CSN"
+          },
+          "reviewBody": "Terrific!  Made it exactly as written and the homemade stock I had probably helped.  Almonds pretty key, I think.  Might add a bit more onions and maybe even put the onions in the oven earlier than the cauliflower to really roast them. ",
+          "datePublished": "2019-02-13T00:31:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nandika"
+          },
+          "reviewBody": "I cooked this dish as shown, except the parsley, as I was out.  My whole family enjoyed the soup.  To me it tasted similar to a cauliflower curry with lot of sauce.  I am thinking about making it again without cumin, coriander and turmeric.  I will use thyme and may be cardamom.  \n\nUsing the cauliflower leaves was a good touch.  Normally I cut and throw away the leaves when I cook a cauliflower.  I will definitely use the leaves from now on.",
+          "datePublished": "2019-02-18T15:57:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex"
+          },
+          "reviewBody": "Great! On convection roast 400deg, the onions and cauli take 15 minutes, making this exceedingly quick and easy. \nNeeds more salt, so added tamari for depth.\nSomeone suggested Garam Masala on the almonds:  I added a bit to the soup itself, and some red pepper flakes as well.",
+          "datePublished": "2019-02-17T06:33:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BabsD"
+          },
+          "reviewBody": "EVO instead of butter.  Skipped the parsley,almonds and cauliflower pieces for topping. Also roasted longer than 25 minutes.  No immersion blender and I was impatient to finish the soup - used the blender before soup had cooled sufficiently. Oops - had a bit of a mess to clean up but the soup was great!",
+          "datePublished": "2019-03-06T03:01:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ERH"
+          },
+          "reviewBody": "Was excited to make this soup, but it didn’t quite do it for me, even though I love roasted cauliflower and turmeric. The onion and garlic were a bit too strong and the cauliflower and potato a bit too muted. If I make it again, I think I’ll add some cream, chili flakes and maybe another potato. I will say that the toasted almonds were a great addition!",
+          "datePublished": "2019-02-28T04:27:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jo Jo"
+          },
+          "reviewBody": "Hi I made this and it’s Devine. My recommendation is to toast whole cumin and coriander and grind fresh. It’s terrible how stale store bought (especially coriander) can be. Yes increase amounts (turmeric too)  I finished with some cream, but not necessary.",
+          "datePublished": "2019-05-11T03:24:38.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1019934-roasted-cauliflower-soup",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Mayukh Sen"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019,
+      "description": "The color of sunflowers, this gently spiced soup comes from Yasmin Khan’s “Zaitoun: Recipes From the Palestinian Kitchen,” in which Ms. Khan explains that cauliflower is elemental in Palestinian cooking. Here, cauliflower florets and leaves are roasted in the oven with cumin and coriander until browned, the vegetable’s deep, nutty flavors coaxed out by the heat. Reserve some roasted florets and leaves for garnish, then simmer the remaining cauliflower mixture with turmeric and potato, which adds creamy texture to this thick, velvety soup. Sprinkle the soup with any remaining cauliflower, crunchy toasted almonds and as much fresh parsley as you’d like.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Roasted Cauliflower Soup",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/43ca8fa1-5ca9-5960-b629-1ea6f1081aaa#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/02/06/dining/06Khanrex1/merlin_149765442_1974b603-81dd-448c-bcbe-456066c12f53-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Susan Spungen",
+          "dateModified": "2021-02-10T05:19:40.876Z",
+          "datePublished": "2019-02-04T16:24:58.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-02-04T16:24:58.000Z",
+          "url": "https://static01.nyt.com/images/2019/02/06/dining/06Khanrex1/merlin_149765442_1974b603-81dd-448c-bcbe-456066c12f53-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/43ca8fa1-5ca9-5960-b629-1ea6f1081aaa#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/02/06/dining/06Khanrex1/merlin_149765442_1974b603-81dd-448c-bcbe-456066c12f53-superJumbo.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Susan Spungen",
+          "dateModified": "2021-02-10T05:19:40.876Z",
+          "datePublished": "2019-02-04T16:24:58.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2019-02-04T16:24:58.000Z",
+          "url": "https://static01.nyt.com/images/2019/02/06/dining/06Khanrex1/merlin_149765442_1974b603-81dd-448c-bcbe-456066c12f53-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/43ca8fa1-5ca9-5960-b629-1ea6f1081aaa#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/02/06/dining/06Khanrex1/06Khanrex1-square640.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Susan Spungen",
+          "dateModified": "2021-02-10T05:19:40.876Z",
+          "datePublished": "2019-02-04T16:24:58.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-02-04T16:24:58.000Z",
+          "url": "https://static01.nyt.com/images/2019/02/06/dining/06Khanrex1/06Khanrex1-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019934-roasted-cauliflower-soup"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:21.094Z",
+  "scraping_status": "scraped"
+}

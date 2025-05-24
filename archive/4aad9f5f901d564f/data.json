@@ -1,0 +1,575 @@
+{
+  "id": "4aad9f5f901d564f",
+  "original_url": "https://cooking.nytimes.com/recipes/1025022-miso-leeks-with-white-beans",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025022-miso-leeks-with-white-beans",
+  "fetched_title": "Miso Leeks With White Beans Recipe",
+  "main_text_content": "In this reinterpretation of the classic French dish leeks vinaigrette, tender braised leeks are bathed in a punchy miso vinaigrette, tossed with creamy white beans then served with an oozy soft egg for an easy, comforting midweek meal Steady, gentle heat is the key to achieving the rich, jamlike leeks, coaxing out their sweetness while ensuring that they stay silky The miso leeks can also be eaten in other ways — on a slice of toast, stirred through warm potatoes or pasta, or tossed with French lentils and peppery arugula for a simple salad",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1020185-white-beans-with-radishes-miso-and-greens\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2021/04/11/dining/ch-white-beans-with-radishes-and-miso-butter/merlin_152985297_78a5ea88-a25c-4e0a-9be5-b2c28e4db46d-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2021/04/11/dining/ch-white-beans-with-radishes-and-miso-butter/merlin_152985297_78a5ea88-a25c-4e0a-9be5-b2c28e4db46d-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2021/04/11/dining/ch-white-beans-with-radishes-and-miso-butter/merlin_152985297_78a5ea88-a25c-4e0a-9be5-b2c28e4db46d-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2021/04/11/dining/ch-white-beans-with-radishes-and-miso-butter/merlin_152985297_78a5ea88-a25c-4e0a-9be5-b2c28e4db46d-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2021/04/11/dining/ch-white-beans-with-radishes-and-miso-butter/merlin_152985297_78a5ea88-a25c-4e0a-9be5-b2c28e4db46d-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2021/04/11/dining/ch-white-beans-with-radishes-and-miso-butter/merlin_152985297_78a5ea88-a25c-4e0a-9be5-b2c28e4db46d-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2021/04/11/dining/ch-white-beans-with-radishes-and-miso-butter/merlin_152985297_78a5ea88-a25c-4e0a-9be5-b2c28e4db46d-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2021/04/11/dining/ch-white-beans-with-radishes-and-miso-butter/merlin_152985297_78a5ea88-a25c-4e0a-9be5-b2c28e4db46d-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">White Beans With Radishes, Miso and Greens</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Colu Henry</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/4aad9f5f901d564f/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/ba00b849-e0d0-5ed0-8c42-5c6c82e95a29",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025022-miso-leeks-with-white-beans",
+        "@type": "WebPage",
+        "name": "Miso Leeks With White Beans"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025022-miso-leeks-with-white-beans",
+      "name": "Miso Leeks With White Beans",
+      "description": "In this reinterpretation of the classic French dish leeks vinaigrette, tender braised leeks are bathed in a punchy miso vinaigrette, tossed with creamy white beans then served with an oozy soft egg for an easy, comforting midweek meal. Steady, gentle heat is the key to achieving the rich, jamlike leeks, coaxing out their sweetness while ensuring that they stay silky. The miso leeks can also be eaten in other ways — on a slice of toast, stirred through warm potatoes or pasta, or tossed with French lentils and peppery arugula for a simple salad. Make sure you use the whole leek. Many recipes recommend the white part only, but the green parts, while slightly tougher with a stronger flavor, can also be cooked and tenderized, especially in recipes where they are braised. The miso leeks improve over time and can be prepared up to 3 days ahead and stored in the fridge.",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/fdbc97eb-e2ab-55e6-a594-2be0cf331a73#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-09-12T20:04:02.617Z",
+          "datePublished": "2024-03-05T17:25:10.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-05T17:25:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/fdbc97eb-e2ab-55e6-a594-2be0cf331a73#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-09-12T20:04:02.617Z",
+          "datePublished": "2024-03-05T17:25:10.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-05T17:25:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/fdbc97eb-e2ab-55e6-a594-2be0cf331a73#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-09-12T20:04:02.617Z",
+          "datePublished": "2024-03-05T17:25:10.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-05T17:25:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT5M",
+      "cookTime": "PT40M",
+      "totalTime": "PT45M",
+      "recipeYield": "4 servings (about 4 heaping cups)",
+      "recipeCuisine": "",
+      "recipeCategory": "brunch, dinner, easy, lunch, weeknight, beans, vegetables, main course",
+      "keywords": "fall, spring, winter, leek, make-ahead, miso, stovetop, thyme, white bean, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 3940
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 488,
+        "unsaturatedFatContent": "14 grams",
+        "carbohydrateContent": "59 grams",
+        "cholesterolContent": null,
+        "fatContent": "19 grams",
+        "fiberContent": "12 grams",
+        "proteinContent": "23 grams",
+        "saturatedFatContent": "4 grams",
+        "sodiumContent": "925 milligrams",
+        "sugarContent": "6 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 large leeks (about 1 pound), roots and wrinkled tops trimmed, stalks halved lengthwise, white and green parts thinly sliced",
+        "Extra-virgin olive oil",
+        "Salt and pepper",
+        "2 garlic cloves, thinly sliced",
+        "2 fresh thyme sprigs",
+        "4 eggs",
+        "2 (14-ounce) cans white beans, such as cannellini or butter beans, drained",
+        "Handful tarragon or parsley leaves, roughly chopped, to serve",
+        "Toasted bread (optional), for serving",
+        "4 teaspoons white miso paste",
+        "1 teaspoon Dijon mustard",
+        "1 garlic clove, grated",
+        "2 teaspoons red-wine vinegar",
+        "2 tablespoons extra-virgin olive oil"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the leeks: Place the sliced leeks into a colander and rinse them well, rubbing to loosen any dirt. Rinse them again and drain well. (There is no need to dry them, as the residual water is useful in cooking the leeks.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat a large Dutch oven or skillet on medium-high for 1 to 2 minutes. Add 2 tablespoons of olive oil, along with the leeks. Season generously with salt and black pepper and cook, stirring occasionally, until the liquid cooks off and leeks start to stick to the pan, 5 to 6 minutes. Stir in the garlic and thyme. Reduce heat to low, cover, and cook for 20 minutes, stirring occasionally."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, bring a medium pot of water to a boil over high. Add the eggs and continue to cook over medium-high for 7 minutes. (Make sure you set a timer.) Set up an ice bath. Using a spider ladle or slotted spoon, remove the eggs from the water and immediately add them to the ice bath. Cool for 3 to 4 minutes, then peel and set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the vinaigrette: In a large bowl, whisk together the miso paste, Dijon mustard, garlic, vinegar and olive oil."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Uncover the leeks — they will have reduced into a silky, jammy consistency. Discard the thyme, transfer the leeks to the bowl and stir to coat in the miso vinaigrette."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Stir in the white beans and leave to cool for a few minutes. Add about 3/4 of the tarragon or parsley leaves and toss gently to combine."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide the leeks and beans among bowls and drizzle each with olive oil. Top with a halved jammy egg and finish with the remaining herbs. Serve with toast, if desired."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-03-06T00:00:00.000Z",
+      "dateModified": "2024-04-22T21:29:54.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NoorieBoorie"
+          },
+          "reviewBody": "Substituted soy sauce (1-2 tsp) and a bit of hondashi in place of miso, and also used fresh rosemary instead of thyme because that's what I had on hand. I cooked down the beans a bit before adding the vinaigrette. Turned out all great!",
+          "datePublished": "2025-05-21T16:09:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NoorieBoorie"
+          },
+          "reviewBody": "This is a great recipe with pantry staples! I substituted soy sauce (1-2 tsps) in the vinaigrette and added bit of hondashi broth while cooking the leeks because I ran out of miso. I also used a combination of dried Italian herbs and fresh rosemary instead of the other herbs because that's what I had on hand. I cooked the beans down a bit before adding the vinaigrette.\n\nI think this would be better with fried eggs on top. :)",
+          "datePublished": "2025-05-21T16:19:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen E."
+          },
+          "reviewBody": "This is fantastic! A gem.",
+          "datePublished": "2025-05-10T14:40:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Needs Texture"
+          },
+          "reviewBody": "Wish it had more of a crunchy or crispy texture as opposed to the jamminess of the leeks. Perhaps toasted panko?\nAdditionally, used doenjang instead of white miso paste and since doenjang is stronger than miso I thought I'd use less, but ended up smearing the doenjang on the bread before eating it with the leeks and thought that was much better. Used Honey Mustard because I didn't have dijon and that was a mistake",
+          "datePublished": "2025-05-06T04:21:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J. Rose"
+          },
+          "reviewBody": "Tossed together with farro. Unreal! So delicious and the textures work well together.",
+          "datePublished": "2025-04-30T02:03:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "EH?"
+          },
+          "reviewBody": "Served crispy skin seared salmon filets on top of this.  It was a big hit.  The family loved it.  IMHO, I think might have used a bit too much fresh tarragon.  It gave it a wonderful anise flavored sweetness, which complimented the savory flavors from the miso and the fish.  But go easy!  Served it with with a pinot noir.",
+          "datePublished": "2025-04-27T15:26:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anna"
+          },
+          "reviewBody": "This is delicious. I have also made a ten minute version where I heat the can of beans with olive oil, salt and lots of black pepper, and place sprigs of thyme on top. Cover and let them heat through over medium low heat for approximately the same amount of time it takes to make the soft boiled egg. If I have green onions, I’ll sprinkle those in and then toss it all with the miso dressing. \n\nThe leeks are wonderful, but if you’re in a hurry, this is a quick and delicious version as well.",
+          "datePublished": "2025-04-24T22:23:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jazz"
+          },
+          "reviewBody": "The end result was quite dry and a little bland",
+          "datePublished": "2025-04-24T00:47:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy"
+          },
+          "reviewBody": "This was delicious. I added some asparagus with the garlic and thyme and it worked perfectly. I also added a touch extra vinegar as that's my taste. Easy weeknight vegetarian meal!",
+          "datePublished": "2025-04-22T19:33:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Russ"
+          },
+          "reviewBody": "I love this recipe. Made it with rancho gordo royal corona beans and some homemade sourdough. Wouldn’t change a thing. The vinaigrette really makes the dish - I will be saving that for use on other things. Fantastic hearty meal with high protein for a meatless night.",
+          "datePublished": "2025-04-08T20:21:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "randall"
+          },
+          "reviewBody": "My leeks stuck to the pan a bit TOO much, so I took advantage of the glass of white wine in my hand and deglazed before I added the beans. It added a very nice brightness!",
+          "datePublished": "2025-04-04T00:52:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth H"
+          },
+          "reviewBody": "Absolutely Perfect!\n\nI made this recipe exactly as written, and it came out perfectly! The ingredients were common and ones I had on hand. The flavors were spot-on, the instructions were easy to follow, and the final result looked just like the pictures. \n\nI especially loved how well the ingredients balanced each other.  It also got rave reviews from my family—there wasn’t a single bite left!\n\nI wouldn't change a thing.",
+          "datePublished": "2025-04-02T15:00:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dale R"
+          },
+          "reviewBody": "I made this today, and it’s like nothing I’ve ever tasted. SO GOOD! This will be put into rotation!",
+          "datePublished": "2025-03-29T19:13:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maura"
+          },
+          "reviewBody": "My suggestion: scoop it up with thick slices of marmite toast (ifykyk). I wanted more veg so tossed it with a bunched of scorched dino kale and added another leek. Elevated beans on toast.",
+          "datePublished": "2025-03-25T03:55:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy R"
+          },
+          "reviewBody": "Excellent comfort food. I used Rancho Gordon Marcella beans, and, since no white miso, I used 2 1/2 t of toban djan chili bean sauce. Used tarragon, interesting tasty combo. I’ll try with the miso paste next time.",
+          "datePublished": "2025-03-25T02:32:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emmy"
+          },
+          "reviewBody": "Jamie Oliver has a great recipe for leeks and white beans in his Cook with Jamie which I make with or without the beans. But I always add a little liquid (chicken stock or white wine) when I braise the leeks, and I use both olive oil and a bit of butter to start the leeks. It's a fantastic base for any number of variations. Recently I added small cubed Yukon gold potatoes to the leeks before adding white wine and thyme. I finished the whole thing off with a little cream. A winner!",
+          "datePublished": "2024-03-10T14:50:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cold Beans"
+          },
+          "reviewBody": "I heated the beans for 5 minutes with the leaks and it came out very nice. I would not leave the beans cold",
+          "datePublished": "2024-03-09T15:26:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ediv"
+          },
+          "reviewBody": "This dressing is delicious. Another fabulous Hetty recipe. A riff for pescatarians/tinned fish enthusiasts: Replace the egg with good quality tinned mackerel in oil. Use the oil from the can to cook the leeks. Put a little scoop of the leek/bean mixture, a hunk of mackerel, and some pickled onion on a saltine. Devour and repeat.",
+          "datePublished": "2024-03-15T23:33:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Les is More"
+          },
+          "reviewBody": "What great timing - we actually had just about everything on hand to make this (and admittedly not much else!). Subbed 4 scallions and half a yellow onion for the leeks, subbed TJ Everything but the Leftovers seasoning for the thyme. We warmed the beans for a couple minutes at the end - didn’t seem to need or benefit from 20 minutes. Perfect weekday dinner - quick, easy, cheap and tasty. A repeater.",
+          "datePublished": "2024-03-08T02:50:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "M"
+          },
+          "reviewBody": "Something very out of whack in the nutritional information for this recipe  .. 1600 calories a serving?",
+          "datePublished": "2024-03-17T00:47:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amber"
+          },
+          "reviewBody": "ABSOLUTELY DELICIOUS! The only reason I gave it 4/5 stars is I because I would rather have the white beans a little softer but I think it works well either way! Literally licking the bowl. So good.",
+          "datePublished": "2024-03-07T23:21:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jola"
+          },
+          "reviewBody": "Made it exactly as written except adding drained beans to the leaks in the pan for a couple of minutes to warm up. Absolutely delicious! Lovely flavor of miso vinaigrette.",
+          "datePublished": "2024-03-09T19:50:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diane D."
+          },
+          "reviewBody": "I loved this recipe, though I think I follow others' advice next time I make it and warm the beans a bit before mixing with the leek mixture. This won't be a problem when I heat up the leftovers for tomorrow's lunch.\n\nIt also occurs to me that if you throw this mixture into a mixer and mash the beans together with the leeks until it almost smooth, it would make a great party dip/spread to serve with crackers and a sliced baguette as an appetizer at a party.",
+          "datePublished": "2024-03-10T01:59:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LCJ"
+          },
+          "reviewBody": "Ok, this is definitely a big riff, but it was great: mix the vinaigrette, beans, garlic, and scallions (instead of leeks) together. Prepare parchment packets layering a lemon slice, the bean mix, and chunks of salmon. Drizzle a TB of EVOO and a TB of vermouth & salt and pepper and another lemon slice and thyme sprig. Seal up and bake at 450 for about 14 min. Very tasty and straight forward to make",
+          "datePublished": "2024-03-10T19:45:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leah"
+          },
+          "reviewBody": "Was thinking that the miso vinaigrette plus the tarragon would make a killer potato salad.  Has anyone tried that?",
+          "datePublished": "2024-03-10T02:24:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kerri"
+          },
+          "reviewBody": "I also added the beans and cooked them for a couple of minutes. We ate with arugula and French bread. It was delicious. I will definitely make again.",
+          "datePublished": "2024-03-10T00:30:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alexandra G."
+          },
+          "reviewBody": "I hate runny and hard boiled eggs (sorry). What can I serve this with to make it a complete entree? I’m thinking pork loin…thoughts?",
+          "datePublished": "2024-03-09T16:27:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aliska"
+          },
+          "reviewBody": "I was skeptical of using the entire leek but it works.  I used navy beans, skipped the egg, and just served it on toast like bruschetta - it was delicious.  The miso dressing is wonderful.",
+          "datePublished": "2024-03-12T21:36:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "suggestions"
+          },
+          "reviewBody": "Are the beans not warmed up?",
+          "datePublished": "2024-03-07T07:45:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jan Powell"
+          },
+          "reviewBody": "This is a delicious dish. The miso dressing is amazing. But when I make it again, and I will, I’ll cut the leeks even smaller. They are jammy but a little stringy. Great recipe!",
+          "datePublished": "2024-03-13T00:15:17.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025022-miso-leeks-with-white-beans",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "In this reinterpretation of the classic French dish leeks vinaigrette, tender braised leeks are bathed in a punchy miso vinaigrette, tossed with creamy white beans then served with an oozy soft egg for an easy, comforting midweek meal. Steady, gentle heat is the key to achieving the rich, jamlike leeks, coaxing out their sweetness while ensuring that they stay silky. The miso leeks can also be eaten in other ways — on a slice of toast, stirred through warm potatoes or pasta, or tossed with French lentils and peppery arugula for a simple salad. Make sure you use the whole leek. Many recipes recommend the white part only, but the green parts, while slightly tougher with a stronger flavor, can also be cooked and tenderized, especially in recipes where they are braised. The miso leeks improve over time and can be prepared up to 3 days ahead and stored in the fridge.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Miso Leeks With White Beans",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/fdbc97eb-e2ab-55e6-a594-2be0cf331a73#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-09-12T20:04:02.617Z",
+          "datePublished": "2024-03-05T17:25:10.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-05T17:25:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/fdbc97eb-e2ab-55e6-a594-2be0cf331a73#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-09-12T20:04:02.617Z",
+          "datePublished": "2024-03-05T17:25:10.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-05T17:25:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/fdbc97eb-e2ab-55e6-a594-2be0cf331a73#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-09-12T20:04:02.617Z",
+          "datePublished": "2024-03-05T17:25:10.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-05T17:25:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025022-miso-leeks-with-white-beans"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:12:33.192Z",
+  "scraping_status": "scraped"
+}

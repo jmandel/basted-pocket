@@ -1,0 +1,572 @@
+{
+  "id": "8971160e386baa43",
+  "original_url": "https://cooking.nytimes.com/recipes/1022127-lemony-pea-and-spinach-soup",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1022127-lemony-pea-and-spinach-soup",
+  "fetched_title": "Lemony Pea and Spinach Soup Recipe",
+  "main_text_content": "This verdant soup has nuance: Celery, leeks and vermouth provide grassy notes, just subtle enough so as not to obscure the delicate flavor of the peas Bright and sunny — and hearty and comforting with the optional addition of pasta — it tastes like spring, but can be prepared perennially Unlike many one-note blended pea soups, this one celebrates textures and flavors: Divide your soup across several bowls, then add a spoonful of pasta and a dollop of crème fraîche for bright tanginess",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/12550-creamy-leek-soup\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2012/06/19/science/22recipehealth/22recipehealth-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2012/06/19/science/22recipehealth/22recipehealth-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2012/06/19/science/22recipehealth/22recipehealth-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2012/06/19/science/22recipehealth/22recipehealth-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2012/06/19/science/22recipehealth/22recipehealth-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2012/06/19/science/22recipehealth/22recipehealth-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Creamy Leek Soup</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Martha Rose Shulman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/04/21/dining/aw-pea-soup/merlin_186703233_a6076400-31d9-46ba-8bd6-1b36d1b076d2-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/8971160e386baa43/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/f6f44eea-0014-538b-8e36-4e3a7b3d2d2c",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1022127-lemony-pea-and-spinach-soup",
+        "@type": "WebPage",
+        "name": "Lemony Pea and Spinach Soup"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022127-lemony-pea-and-spinach-soup",
+      "name": "Lemony Pea and Spinach Soup",
+      "description": "This verdant soup has nuance: Celery, leeks and vermouth provide grassy notes, just subtle enough so as not to obscure the delicate flavor of the peas. Bright and sunny — and hearty and comforting with the optional addition of pasta — it tastes like spring, but can be prepared perennially. Unlike many one-note blended pea soups, this one celebrates textures and flavors: Divide your soup across several bowls, then add a spoonful of pasta and a dollop of crème fraîche for bright tanginess. Because this light soup is vegetable-based, drizzle it with plenty of olive oil, for richness, and pile on as many fresh herbs as you can. Lemon zest is a garnish, but nonnegotiable for this dish to sparkle.",
+      "author": {
+        "@type": "Person",
+        "name": "Alexa Weibel"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/02edad61-e0ad-5fb6-a612-d2f1f1b2a3ae#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/21/dining/aw-pea-soup/merlin_186703233_a6076400-31d9-46ba-8bd6-1b36d1b076d2-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-03-31T16:29:39.399Z",
+          "datePublished": "2021-04-21T15:23:51.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-21T15:23:51.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/21/dining/aw-pea-soup/merlin_186703233_a6076400-31d9-46ba-8bd6-1b36d1b076d2-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/02edad61-e0ad-5fb6-a612-d2f1f1b2a3ae#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/21/dining/aw-pea-soup/merlin_186703233_a6076400-31d9-46ba-8bd6-1b36d1b076d2-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-03-31T16:29:39.399Z",
+          "datePublished": "2021-04-21T15:23:51.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-21T15:23:51.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/21/dining/aw-pea-soup/merlin_186703233_a6076400-31d9-46ba-8bd6-1b36d1b076d2-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/02edad61-e0ad-5fb6-a612-d2f1f1b2a3ae#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/21/dining/aw-pea-soup/merlin_186703233_a6076400-31d9-46ba-8bd6-1b36d1b076d2-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-03-31T16:29:39.399Z",
+          "datePublished": "2021-04-21T15:23:51.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-21T15:23:51.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/21/dining/aw-pea-soup/merlin_186703233_a6076400-31d9-46ba-8bd6-1b36d1b076d2-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT30M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "main course",
+      "keywords": "celery, leek, parsley, pasta, pea, soup, spinach, spring",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 602
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 440,
+        "unsaturatedFatContent": "10 grams",
+        "carbohydrateContent": "61 grams",
+        "cholesterolContent": null,
+        "fatContent": "14 grams",
+        "fiberContent": "8 grams",
+        "proteinContent": "17 grams",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "1167 milligrams",
+        "sugarContent": "11 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1/4 cup extra-virgin olive oil, plus more for serving",
+        "2 medium leeks (about 1 pound), trimmed, white and green portions halved lengthwise, then thinly sliced and rinsed (about 4 packed cups)",
+        "2 celery stalks, trimmed and thinly sliced (about 1 1/2 cups)",
+        "Kosher salt and black pepper",
+        "1/4 cup vermouth or white wine",
+        "3 garlic cloves, minced",
+        "5 cups chicken stock",
+        "16 ounces frozen peas (about 3 3/4 cups) (see Tip)",
+        "5 ounces fresh baby spinach (about 5 packed cups)",
+        "1/2 packed cup coarsely chopped fresh parsley leaves and tender stems, plus more for serving",
+        "1 to 1 1/2 cups small shaped pasta, such as ditali or shells (optional), cooked (about 2 to 3 cups)",
+        "Crème fraîche, for serving",
+        "Chopped chives and torn fresh dill, for serving",
+        "1 lemon, for zesting"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large pot, heat 1/4 cup oil over medium. Add the leeks and celery, season with salt and pepper, and cook, stirring occasionally, until softened, about 10 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Stir in the vermouth and garlic, and cook until the liquid evaporates, about 3 minutes. Add the chicken stock and bring to a boil over high."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Once it comes to a boil, add the frozen peas and cook, stirring occasionally, just until tender, about 3 minutes. Remove from heat, then stir in the spinach until wilted. Stir in the parsley."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Working in batches, transfer to a high-power blender and purée until creamy. (A food processor or immersion blender would work as well, though may take a little longer.) Return to the pot and season to taste with salt and pepper. (Makes about 12 cups.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide among bowls. Add pasta, if using, then top with a dollop of crème fraiche. Drizzle generously — nay, recklessly! — with olive oil. Sprinkle with a pile of herbs; grate fresh lemon zest on top; and serve immediately."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-04-19T00:00:00.000Z",
+      "dateModified": "2021-04-26T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sussy Nolan"
+          },
+          "reviewBody": "Very easy and tasty soup. Added lemon juice and more vermouth at the end. Garnished with scallion parsley olive oil, sour cream, lemon zest, toasted pine nuts and violets.",
+          "datePublished": "2025-05-04T11:51:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tiana"
+          },
+          "reviewBody": "So good and fresh! I followed the other user’s suggestion of using spring onions and miso paste. I skipped the vermouth. Was delicious.",
+          "datePublished": "2024-10-27T00:03:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lanie"
+          },
+          "reviewBody": "Is this soup good cold?",
+          "datePublished": "2024-07-27T23:54:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "T. Smith"
+          },
+          "reviewBody": "Made this with fresh peas because, well, I love my wife. But the only other adjustment was to add some actual lemon juice rather than just zest to balance the flavors. Delightful.",
+          "datePublished": "2024-07-15T03:52:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amanda"
+          },
+          "reviewBody": "Made this just as written with the pasta, but added in some prosciutto crisped in a pan and it really took it to the next level! The recipe made a large batch and it froze and reheated well (I froze it without the pasta and reheated and then added new noodles).",
+          "datePublished": "2024-06-09T21:35:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tom"
+          },
+          "reviewBody": "Delicious, and easy. Loved the flavor",
+          "datePublished": "2024-01-02T01:21:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mica"
+          },
+          "reviewBody": "I recommended serving this with some Cholula, brewer's yeast, and a dash of soy sauce. Adds flavor and pretty colors for presentation. I also often sub in quinoa for the farro.",
+          "datePublished": "2023-12-27T17:18:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DPRoberts"
+          },
+          "reviewBody": "I made this as recommended with 3 slight flavor mods - added 2tsps of mixed dry herbs d’provence, 1/4 cup nutritional yeast for a umami punch, and 1 can of cannellini  beans (before emulsifying) for additional body. Very fresh and delicious soup, nice peppery punch from the fresh parsley.",
+          "datePublished": "2023-10-08T22:31:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David Maxfield, Washington, DC"
+          },
+          "reviewBody": "I made this half recipe and found it very gluggy, if that's a word.   No added pasta and it already seem olive-oily without more at the end.  Maybe the lemon zest would have added a jolt.   Btw, I thought it might be delicious cold, since its ingredients are so \"salad-y\".  One wishes....  \nI'd make again per readers' comments. But  life is short !   Too many recipes to test and keep.",
+          "datePublished": "2023-07-25T20:30:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ruxandra"
+          },
+          "reviewBody": "Easy to make and pretty too. \nI used white wine, instead of vermouth, homemade vegetable stock, doubled the spinach, and replaced the parsley with lots of basil. I added a bit of butter at the end, and lots of olive oil. I served it with a sourdough grilled cheese sandwich. Light and divine.",
+          "datePublished": "2023-07-16T13:49:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "name"
+          },
+          "reviewBody": "I freeze pea soup all the time, I see no reason why this recipe would be any different",
+          "datePublished": "2024-10-16T02:54:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa T"
+          },
+          "reviewBody": "Has anyone tried to freeze this?  Wondering how that would work.",
+          "datePublished": "2023-07-07T06:44:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rachel"
+          },
+          "reviewBody": "Delicious! Added fresh mint & juice of two lemons for acid, which I thought it needed. Also used vegetarian “no chicken” stock. Will make again.",
+          "datePublished": "2023-06-17T19:17:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peggy S."
+          },
+          "reviewBody": "The note about the frozen peas and freezer burn - just rinse the peas in a colander. I always do this with any frozen vegetable - actually anything frozen- to remove the ice. No need to throw the darn peas away.",
+          "datePublished": "2023-06-12T00:36:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Owen"
+          },
+          "reviewBody": "Not lemony.  Not insubstantial, either, but needs acid.  Solution?  Juice of a lemon (or lime, or more) added post cook.  This soup is finer without pasta, and served cold, an excellent response to the overwhelming volume of gazpachos we see in this season.  Consider either a fruity olive oil (as per recipe) or sesame oil.  Another substitution:  tarragon vs the dill ... or both!",
+          "datePublished": "2023-06-09T11:55:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris T"
+          },
+          "reviewBody": "Zesty spring soup for a foggy night by the ocean.  We substituted in butter, dry sherry, and wild rice and added 1 tsp cayenne, 1 tbsp cumin, and juice from the lemon.  Would make again!",
+          "datePublished": "2023-06-07T03:58:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Claire"
+          },
+          "reviewBody": "I used wine instead of vermouth and then added the juice of a whole lemon. After a taste I felt it definitely needed that acid so I'm happy with the result! I didn't have pasta so I did some wild rice and I love the thickness that brings to the soup. This is a great way to get so many veggies in one meal!",
+          "datePublished": "2021-05-06T16:08:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Munch"
+          },
+          "reviewBody": "I didn’t have baby spinach so I used frozen spinach. It worked out fine. I used the Vitamix for pureeing.  I used spring onions instead of chives. The next day it was still fresh as can be. I fried up pumpkin seeds, coriander, red pepper flakes and almond slivers. All in a bit of canola oil, mixed Garam massala and some sugar and salt.  \nSo the soup was decorated with parsley, lemon zest, spring onion,seed mix and crème fraîche. It needed contrasting flavors. It worked out beautifully.",
+          "datePublished": "2022-01-30T00:37:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dave"
+          },
+          "reviewBody": "Wow! This was one of the tastiest recipes I’ve ever made. Who knew that a soup that is so healthy and so quick to make could be so satisfying?  Great the way it is written but I found a couple of additions that were a slight improvement IMHO. I added a half avocado chopped up and 1/4c fresh mint.  I think the avocado gives the soup a great mouthfeel when blended with the other ingredients.  Enjoy!",
+          "datePublished": "2022-04-10T20:23:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diana"
+          },
+          "reviewBody": "Easy, fresh, and really delicious. I made a few swaps based on what I had in my fridge (fennel for celery, dill for parsley), and bulked up the last of my spinach with a few handfuls of arugula. It all made for a light and very springy   soup.",
+          "datePublished": "2022-04-04T02:24:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DJ"
+          },
+          "reviewBody": "Used what I had: 4 fat spring onions, 4 cloves garlic, 6 stalks chopped celery, a pound of frozen peas, 2 chopped zucchini, green veg broth, and an entire bunch of finely chopped dill, salt & pepper.  Added a couple tablespoons of miso and juice of whole lemon after cooking/before blending. This was delicious! Will not wait until frig needs cleaning to make this soup again :-)",
+          "datePublished": "2021-05-23T14:53:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gigi"
+          },
+          "reviewBody": "A lovely, fresh and healthy pea soup - a great take on what is often a tad lacklustre. Super easy and took about 40 mins in total. I used white wine and omitted the pasta at the end and instead served with Ali Slagle's Garlic Bread (<a href=\"https://cooking.nytimes.com/recipes/1019684-garlic-bread?action=click&module=Global\" target=\"_blank\">https://cooking.nytimes.com/recipes/1019684-garlic-bread?action=click&module=Global</a>%20Search%20Recipe%20Card&pgType=search&rank=2). What a wonderful dinner, highly recommend!",
+          "datePublished": "2021-05-11T07:22:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Haley"
+          },
+          "reviewBody": "Made this soup and was absolutely wonderful when eaten immediately after making. I had leftovers for the next day and it was awful. I tried adding more seasoning and some brown rice, but it has a bad smell and sour taste. Don’t know what to do to salvage the leftovers.",
+          "datePublished": "2022-01-18T18:23:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lmcl"
+          },
+          "reviewBody": "I used garlic infused olive oil to cook, added a few red pepper flakes and only had frozen spinach so doubled up on parsley for freshness (which I love) and it was very good. Immersion blender worked well. The leeks are stars here.",
+          "datePublished": "2021-05-07T05:10:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janet"
+          },
+          "reviewBody": "Great recipe, so easy. I added lemon juice and cayenne at the end, and dolloped with yogurt. \n\nThanks.",
+          "datePublished": "2022-04-05T21:25:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily"
+          },
+          "reviewBody": "Delicious!! Season well with salt and pepper and use a flavorful broth (I used Better Than Bouillon Chicken Base) and this soup is not by any means bland! I inadvertently tossed the green parts of my leeks so I added in some additional scallions I had wasting away in the fridge to pad the leeks a bit - worked perfectly! I do recommend using a blender to puree - I tried with my immersion blender and it just didn't get it smooth enough. Re-blended in my blender and the texture was perfect!",
+          "datePublished": "2021-08-07T22:55:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Theresa"
+          },
+          "reviewBody": "Wow! This rocked!! I cut the recipe in half. I did add half a lemon's juice and a tablespoon of miso. I did not add any pasta or rice. Served with saltine crackers and an albarino. Divine meal!! Will make again.",
+          "datePublished": "2022-04-14T01:23:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "alexgoodson"
+          },
+          "reviewBody": "One of my new favorite recipes. Added lots more salt, lemon, and approx 2 cups of freshly grated Parm to the mixture while using the immersion blender (just my personal preference). Paired so nicely with a gorgeous Chenin Blanc, and a fresh baguette with radishes and butter with Maldon salt. Wonderfully easy to make and adapt to your taste.",
+          "datePublished": "2022-06-06T02:12:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen 75017"
+          },
+          "reviewBody": "Didn't have celery but use some onion instead. Had the greens of organic radishes that were still looking good, so added those. Used white wine, not as much broth then followed the recipe. Very good and easy!",
+          "datePublished": "2021-05-01T20:57:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Yummy2me2"
+          },
+          "reviewBody": "This one's a keeper! Substitutions I made based on what I had: no parsley, added juice of half a lemon, used white wine in place of vermouth, sour cream in place of creme fraiche. Came out fresh and vibrant!",
+          "datePublished": "2022-04-23T23:25:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DN"
+          },
+          "reviewBody": "Closest thing I've ever had to a salad in soup form (in a good way). I made this without any of the pasta or garnishes, except the lemon zest (per Alexa's note), and it was still delicious. Seems like a great way to clear out any wilted greens or herbs in the bottom of your fridge, too. I added a handful of basil which was wonderful. I think mint would be good as well. Alternatively, I might even add a parmesan rind next time for an extra savory kick.",
+          "datePublished": "2021-05-12T18:28:32.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1022127-lemony-pea-and-spinach-soup",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Alexa Weibel"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "This verdant soup has nuance: Celery, leeks and vermouth provide grassy notes, just subtle enough so as not to obscure the delicate flavor of the peas. Bright and sunny — and hearty and comforting with the optional addition of pasta — it tastes like spring, but can be prepared perennially. Unlike many one-note blended pea soups, this one celebrates textures and flavors: Divide your soup across several bowls, then add a spoonful of pasta and a dollop of crème fraîche for bright tanginess. Because this light soup is vegetable-based, drizzle it with plenty of olive oil, for richness, and pile on as many fresh herbs as you can. Lemon zest is a garnish, but nonnegotiable for this dish to sparkle.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Lemony Pea and Spinach Soup",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/02edad61-e0ad-5fb6-a612-d2f1f1b2a3ae#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/21/dining/aw-pea-soup/merlin_186703233_a6076400-31d9-46ba-8bd6-1b36d1b076d2-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-03-31T16:29:39.399Z",
+          "datePublished": "2021-04-21T15:23:51.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-21T15:23:51.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/21/dining/aw-pea-soup/merlin_186703233_a6076400-31d9-46ba-8bd6-1b36d1b076d2-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/02edad61-e0ad-5fb6-a612-d2f1f1b2a3ae#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/21/dining/aw-pea-soup/merlin_186703233_a6076400-31d9-46ba-8bd6-1b36d1b076d2-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-03-31T16:29:39.399Z",
+          "datePublished": "2021-04-21T15:23:51.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-21T15:23:51.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/21/dining/aw-pea-soup/merlin_186703233_a6076400-31d9-46ba-8bd6-1b36d1b076d2-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/02edad61-e0ad-5fb6-a612-d2f1f1b2a3ae#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/04/21/dining/aw-pea-soup/merlin_186703233_a6076400-31d9-46ba-8bd6-1b36d1b076d2-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-03-31T16:29:39.399Z",
+          "datePublished": "2021-04-21T15:23:51.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-04-21T15:23:51.000Z",
+          "url": "https://static01.nyt.com/images/2021/04/21/dining/aw-pea-soup/merlin_186703233_a6076400-31d9-46ba-8bd6-1b36d1b076d2-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022127-lemony-pea-and-spinach-soup"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:27.517Z",
+  "scraping_status": "scraped"
+}

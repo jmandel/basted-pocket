@@ -1,0 +1,564 @@
+{
+  "id": "f0de5058057f7623",
+  "original_url": "https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts",
+  "fetched_title": "Spicy Sesame Noodles With Chicken and Peanuts Recipe",
+  "main_text_content": "In this quick and spicy weeknight noodle dish, sizzling hot oil is poured over red-pepper flakes, orange peel, crunchy peanuts, soy sauce and sesame oil While you brown the ground chicken, the mixture sits, and the flavors become more pronounced and fiery Tossed with soft noodles and browned chicken, the bright chile-peanut oil shines",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1024512-sesame-chicken\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2023/11/04/multimedia/VC-Sesame-Chicken-wvbz/VC-Sesame-Chicken-wvbz-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2023/11/04/multimedia/VC-Sesame-Chicken-wvbz/VC-Sesame-Chicken-wvbz-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2023/11/04/multimedia/VC-Sesame-Chicken-wvbz/VC-Sesame-Chicken-wvbz-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2023/11/04/multimedia/VC-Sesame-Chicken-wvbz/VC-Sesame-Chicken-wvbz-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2023/11/04/multimedia/VC-Sesame-Chicken-wvbz/VC-Sesame-Chicken-wvbz-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2023/11/04/multimedia/VC-Sesame-Chicken-wvbz/VC-Sesame-Chicken-wvbz-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2023/11/04/multimedia/VC-Sesame-Chicken-wvbz/VC-Sesame-Chicken-wvbz-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2023/11/04/multimedia/VC-Sesame-Chicken-wvbz/VC-Sesame-Chicken-wvbz-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Sesame Chicken</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Vivian Chan-Tam</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/f0de5058057f7623/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/d3078da6-68d7-5554-89f5-260c52f6b6f1",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts",
+        "@type": "WebPage",
+        "name": "Spicy Sesame Noodles With Chicken and Peanuts"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts",
+      "name": "Spicy Sesame Noodles With Chicken and Peanuts",
+      "description": "In this quick and spicy weeknight noodle dish, sizzling hot oil is poured over red-pepper flakes, orange peel, crunchy peanuts, soy sauce and sesame oil. While you brown the ground chicken, the mixture sits, and the flavors become more pronounced and fiery. Tossed with soft noodles and browned chicken, the bright chile-peanut oil shines. If you crave something green, throw in a quick-cooking green vegetable when you break up the chicken in Step 3. You can also swap the chicken with ground pork or beef, or crumbled tofu.",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/3bf2431b-1492-508f-80ab-6a33afe2da40#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Ali Slagle’s spicy sesame noodles with chicken and peanuts.",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2019-12-18T17:11:45.990Z",
+          "datePublished": "2019-12-18T17:11:45.990Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-18T17:11:45.990Z",
+          "url": "https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3bf2431b-1492-508f-80ab-6a33afe2da40#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Ali Slagle’s spicy sesame noodles with chicken and peanuts.",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-superJumbo.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2019-12-18T17:11:45.990Z",
+          "datePublished": "2019-12-18T17:11:45.990Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-18T17:11:45.990Z",
+          "url": "https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3bf2431b-1492-508f-80ab-6a33afe2da40#square640",
+          "@type": "ImageObject",
+          "caption": "Ali Slagle’s spicy sesame noodles with chicken and peanuts.",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/as-sesame-noodles-square640.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2019-12-18T17:11:45.990Z",
+          "datePublished": "2019-12-18T17:11:45.990Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-18T17:11:45.990Z",
+          "url": "https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/as-sesame-noodles-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, lunch, quick, weeknight, noodles, main course",
+      "keywords": "ground chicken, orange zest, partial-access-ic, peanut, ramen noodle, red pepper flake, sesame oil, soy sauce, udon noodle",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 13081
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 564,
+        "unsaturatedFatContent": "13 grams",
+        "carbohydrateContent": "64 grams",
+        "cholesterolContent": null,
+        "fatContent": "19 grams",
+        "fiberContent": "5 grams",
+        "proteinContent": "34 grams",
+        "saturatedFatContent": "4 grams",
+        "sodiumContent": "532 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 1/2 tablespoons red-pepper flakes",
+        "1 1/2 tablespoons low-sodium soy sauce",
+        "1 1/2 teaspoons toasted sesame oil, plus more as needed",
+        "Kosher salt and black pepper",
+        "1/2 cup plus 1 tablespoon neutral oil, like grapeseed or vegetable",
+        "6 tablespoons roasted, salted peanuts, coarsely chopped",
+        "Rind of 1/2 orange, peeled into 2- to 3-inch strips",
+        "1 pound ground chicken",
+        "10 to 12 ounces ramen or udon noodles, preferably fresh",
+        "3 tablespoons finely chopped chives"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a medium heatproof bowl, stir together the red-pepper flakes, soy sauce and sesame oil. Set next to the stovetop."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bring a large pot of salted water to boil. Meanwhile, in a large (12-inch) skillet over medium heat, cook the 1/2 cup oil, peanuts and orange rind, shaking the pan occasionally, until the peanuts are golden and bubbling, 3 to 5 minutes. Immediately pour the contents of the skillet over the red-pepper mixture (be careful of splattering!) and set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, in the same skillet, heat the remaining tablespoon oil over medium-high. Add the chicken and press it down with a wooden spoon into a thin layer. Season with salt and a generous amount of black pepper and cook, without stirring, occasionally pressing the layer of chicken down, until the bottom is browned, 5 to 7 minutes. Break the chicken up into small pieces and cook, stirring occasionally, until cooked through, 1 to 2 minutes more."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the chicken cooks, cook the noodles according to package directions, until chewy but not soft. Drain and toss with a bit of sesame oil."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Remove and discard the orange rind from the chile oil. Off the heat, add enough chile oil to coat the chicken and stir, scraping up any browned bits from the pan. Add the noodles and toss, adding more chile oil to fully coat the noodles and chicken. (If you don't use all of the chile oil, you can store it in the refrigerator for 2 weeks in an airtight container.) Top with chives and serve at once."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-03-04T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Scallops And Sardines"
+          },
+          "reviewBody": "I substituted chicken for ground sausage, cut bokchoy into small strips and added it after the sausage was finished cooking, cooking for about 10 more minutes to add some veggies to the dish!",
+          "datePublished": "2025-05-22T16:59:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tracy"
+          },
+          "reviewBody": "We have had this dish in our regular rotation for over a year now. It’s amazing! We tend to double up on the oil and use a mix of ground chicken and pork, but otherwise it’s almost a perfect recipe!",
+          "datePublished": "2025-05-15T19:20:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "john"
+          },
+          "reviewBody": "it was \"ok\". to be honest, a bit bland and one dimensional flavor wise, but super easy to prepare",
+          "datePublished": "2025-05-10T12:33:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mrs D"
+          },
+          "reviewBody": "@RC Same! It's a mystery to me that it's so highly rated.",
+          "datePublished": "2025-05-09T10:36:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chef"
+          },
+          "reviewBody": "I subbed the noodles with spaghetti and instead of chicken I used ground beef. I didn’t have sesame oil so I used the leftover massage oil I had in the nightstand. I chopped up some basil and added some fresh mozzarella with the chili flakes. Needs more oil?",
+          "datePublished": "2025-05-06T00:36:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RC"
+          },
+          "reviewBody": "This was so bland. I even added orange zest, garlic and ginger as others had suggested. Ending up dousing in soy sauce. It’s a pass.",
+          "datePublished": "2025-04-28T23:10:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joan-Carol Brigham"
+          },
+          "reviewBody": "Halve the pasta\nCook peanuts in oil in a small pan\nThen add 3 TBS soy, 1 TBS sesame oil and pepper flakes\nCool a bit and add 2 oranges worth of grated orange peel (I think the orange is key!)\nMarinate chicken in salt, pepper, ginger and garlic befee cooking\nCook as directed; add 8oz of spinach just befor adding pasta",
+          "datePublished": "2025-04-28T23:26:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah M"
+          },
+          "reviewBody": "Overall this felt very flat. Needed some umami and another aromatic. I see lots of people adding ginger. If I made this again I would also add ginger, and more soy. A green veg and mushrooms sautéed with the chicken would also be nice. I did enjoy the addition of orange peels into the hot oil, it added a brightness to the spicy element of the dish.",
+          "datePublished": "2025-04-16T02:08:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katy"
+          },
+          "reviewBody": "My husband cooked this with modifications. Orange zest, not rind.  Red peppers for crunch. The crispy chicken is key.  Also added ginger and garlic.",
+          "datePublished": "2025-04-09T13:09:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennifer S"
+          },
+          "reviewBody": "Delicious and quick! I added in oyster mushroom and bok choy for a complete meal, and only used about half the oil.  I can't have garlic & onion; its great to find a stir fry that doesn't rely on them for flavor.",
+          "datePublished": "2025-04-04T19:39:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kent"
+          },
+          "reviewBody": "It had heat, but it was missing some zing.  Perhaps ponzu soy sauce next time, and I'm not find of the chicken mince.  Perhaps breast or thigh chunked.  Not sure if I will need the orange rind fried since I will use ponzu, maybe just pour the oil and preanuts on it and let it steep.",
+          "datePublished": "2025-04-01T11:57:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leslie Cottrill"
+          },
+          "reviewBody": "After reading the comments, and being a garlic lover, I added garlic to the hot oil with orange peel and peanuts. Got it crispy, then drained the oil over the pepper flake mixture. Then I chopped up the strained, crispy garlic/peanut mixture and added it all together. Was a huge hit with me and my husband.",
+          "datePublished": "2025-03-21T00:20:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura Berger"
+          },
+          "reviewBody": "Too spicy! Even my kids who like flavorful foods thought so. I double the recipe and decrease the red pepper flakes to one tablespoon total.",
+          "datePublished": "2025-03-20T02:07:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kim R"
+          },
+          "reviewBody": "I love this recipe. I usually serve w a side of chunked cucumbers, extra peanuts, and kimchi. Family favorite.",
+          "datePublished": "2025-03-18T18:44:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jennifer"
+          },
+          "reviewBody": "Yum, but pretty spicey. Needed a veggie side.",
+          "datePublished": "2025-03-09T21:38:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Adrienne"
+          },
+          "reviewBody": "I added 4 cloves of minced garlic, and 2 inches of sliced ginger to the chicken, and finished the whole thing with chopped cilantro, green onions, and cucumber. I had to use gf spaghetti. Next time I will grate orange zest into the pepper sauce instead of just cooking the big pieces and taking them out. I will also use a little less pepper .",
+          "datePublished": "2019-12-24T04:31:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andy"
+          },
+          "reviewBody": "After making it once, I would try garlic next time... I found the taste a bit, well, two dimensional— heat and everything else.  \n\nJust as a thought experiment, I wonder sometimes how many ingredients can be omitted or replaced with the commenter still able to claim they ‘made’ a recipe.  I sure see a lot of:\n\n‘Skipped a and b, added x, y, z and c, and I know my way is better!’",
+          "datePublished": "2019-12-30T03:13:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mushroom Bites Back"
+          },
+          "reviewBody": "Too much oil!",
+          "datePublished": "2019-12-23T19:45:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jen"
+          },
+          "reviewBody": "Why not use good Chinese chili oil to taste and omit the large amount of oil and chili flakes? Add some grated zest to the soy and sesame oil. You can add extra chili flakes to taste.",
+          "datePublished": "2020-02-08T21:18:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Daniel Backman"
+          },
+          "reviewBody": "Save the leftover orange from peeling and generously squeeze the orange juice into the ramen before even. It craved some citrus acid with all of the oil/fat. I chopped the remaining fruit and tossed it with the noodles. Pretty good overall.",
+          "datePublished": "2019-12-27T00:15:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cy"
+          },
+          "reviewBody": "It’s not meant to all be used in the recipe. You make the Chile oil and have extra. They could have noted this in the recipe, but most experienced cooks would see that after reading the recipe through",
+          "datePublished": "2019-12-27T03:24:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maggie"
+          },
+          "reviewBody": "4 cloves of minced garlic, and 2 inches of sliced ginger to the chicken, and finished the whole thing with chopped cilantro, green onions, and cucumber.",
+          "datePublished": "2019-12-27T19:26:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Philip M Fortman"
+          },
+          "reviewBody": "When doing sesame noodles, I start with a small dry cast iron pan with the bottom completely covered with white sesame seeds. Start with low heat, slowly increase, stirring and turning with a flat edge spatula. If the heat gots too high, some seeds may pop out of the pan. Work sesame seeds to develop a nice brown with a few smokey black. Pull the pan off heat and let cool while preparing the other ingredients. Stir the crispy sesame seeds into the noodles as you add your other ingredients.",
+          "datePublished": "2020-02-08T23:25:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Philip"
+          },
+          "reviewBody": "i cooked this exactly as directed—it was delicious and full of flavor. i was quite surprised how much flavor the orange peel added. be sure to get the rind and not much of the white pith (it can add bitterness). i just used a knife to peel of the top layer of the rind. will definitely make again.",
+          "datePublished": "2019-12-23T23:36:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MB"
+          },
+          "reviewBody": "Cy - I haven’t made this yet so have no idea how much of the chili oil I won’t use. But nowhere in the recipe does it say or imply not to use all of it (just that it will keep).",
+          "datePublished": "2019-12-27T16:12:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kay"
+          },
+          "reviewBody": "I will cut the amount of red pepper flakes in half next time.",
+          "datePublished": "2019-12-23T20:18:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christine"
+          },
+          "reviewBody": "Very easy, very tasty. Made half the oil blend, scraped the peanuts into the mix and then added a little more oil. Threw in some sad mushrooms near the end of the chicken but in hindsight could’ve added some red peppers for sweetness and crunch. \nAccidentally cooked rice noodles - next time will stick to ramen or udon as I felt the mix needed a beefier noodle base. Def add some lime juice at the end to brighten the dish. Will def make again!",
+          "datePublished": "2019-12-28T03:45:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kathyinct"
+          },
+          "reviewBody": "Quickest and best true Chinese restaurant cold sesame noodles -- the one where all the ingredients go into a blender, dump over the noodles.  DONE.\nOnly grating the ginger takes a bit of time -- into blender with sesame oil, chicken broth, peanut butter, garlic (I buy pre-minced), hot oil, soy sauce.\n\nThis one is probably good, but a LOT of steps at 9 at night.  And NOT true sesame noodles.",
+          "datePublished": "2020-02-07T18:13:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andy"
+          },
+          "reviewBody": "I second the observation that the recipe nowhere implies omitting some of the Chile oil.  It implies you could make the oil 2 weeks in advance.",
+          "datePublished": "2019-12-30T03:16:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "William Doran"
+          },
+          "reviewBody": "Added tsp orange marmalade to soy/sesame/chili and whisked to make vinaigrette (skipped rinds altogether). Only used 2 tbsp grapeseed oil to toast peanuts and removed with a slotted spoon instead of emptying whole pan into the chili oil. Did not add any additional oil to cook chicken and needed a 14” skillet to brown that much meat. Lastly, I squeezed some OJ into the skillet to deglaze the pan and served with chopped mint, chives, and cilantro.",
+          "datePublished": "2019-12-28T05:34:31.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "In this quick and spicy weeknight noodle dish, sizzling hot oil is poured over red-pepper flakes, orange peel, crunchy peanuts, soy sauce and sesame oil. While you brown the ground chicken, the mixture sits, and the flavors become more pronounced and fiery. Tossed with soft noodles and browned chicken, the bright chile-peanut oil shines. If you crave something green, throw in a quick-cooking green vegetable when you break up the chicken in Step 3. You can also swap the chicken with ground pork or beef, or crumbled tofu.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Spicy Sesame Noodles With Chicken and Peanuts",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/3bf2431b-1492-508f-80ab-6a33afe2da40#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Ali Slagle’s spicy sesame noodles with chicken and peanuts.",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2019-12-18T17:11:45.990Z",
+          "datePublished": "2019-12-18T17:11:45.990Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-18T17:11:45.990Z",
+          "url": "https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3bf2431b-1492-508f-80ab-6a33afe2da40#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Ali Slagle’s spicy sesame noodles with chicken and peanuts.",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-superJumbo.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2019-12-18T17:11:45.990Z",
+          "datePublished": "2019-12-18T17:11:45.990Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-18T17:11:45.990Z",
+          "url": "https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3bf2431b-1492-508f-80ab-6a33afe2da40#square640",
+          "@type": "ImageObject",
+          "caption": "Ali Slagle’s spicy sesame noodles with chicken and peanuts.",
+          "contentUrl": "https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/as-sesame-noodles-square640.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2019-12-18T17:11:45.990Z",
+          "datePublished": "2019-12-18T17:11:45.990Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-12-18T17:11:45.990Z",
+          "url": "https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/as-sesame-noodles-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:17:11.360Z",
+  "scraping_status": "scraped"
+}

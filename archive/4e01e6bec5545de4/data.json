@@ -1,0 +1,556 @@
+{
+  "id": "4e01e6bec5545de4",
+  "original_url": "https://cooking.nytimes.com/recipes/1019308-caramelized-scallion-sauce",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1019308-caramelized-scallion-sauce",
+  "fetched_title": "Caramelized-Scallion Sauce Recipe",
+  "main_text_content": "A twist on the Cantonese classic ginger-scallion sauce, this aromatic purée focuses on the flavor of scallions slow-cooked to draw out their gentle sweetness Adding more scallions at the end brings a fresh complexity to the sauce, but if you want to keep the whole thing mellow and sweet, feel free to omit that step, and just cook all the scallions at once It&#x27;s great as a dressing for noodles, boiled or roasted vegetables and simple meats and fish.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1022471-buttery-scallops-with-lemon-and-herbs\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2021/08/25/dining/23scallopsrex2/merlin_193269258_c4cb12bd-599d-4ad6-ab4b-2221eafb62d2-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2021/08/25/dining/23scallopsrex2/merlin_193269258_c4cb12bd-599d-4ad6-ab4b-2221eafb62d2-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2021/08/25/dining/23scallopsrex2/merlin_193269258_c4cb12bd-599d-4ad6-ab4b-2221eafb62d2-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2021/08/25/dining/23scallopsrex2/merlin_193269258_c4cb12bd-599d-4ad6-ab4b-2221eafb62d2-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2021/08/25/dining/23scallopsrex2/merlin_193269258_c4cb12bd-599d-4ad6-ab4b-2221eafb62d2-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2021/08/25/dining/23scallopsrex2/merlin_193269258_c4cb12bd-599d-4ad6-ab4b-2221eafb62d2-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2021/08/25/dining/23scallopsrex2/merlin_193269258_c4cb12bd-599d-4ad6-ab4b-2221eafb62d2-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2021/08/25/dining/23scallopsrex2/merlin_193269258_c4cb12bd-599d-4ad6-ab4b-2221eafb62d2-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Buttery Scallops With Lemon and Herbs</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2018/05/13/magazine/13Eat2/13Eat2-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/4e01e6bec5545de4/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/50dffef9-4c4d-5e9b-b91d-93defc16be73",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1019308-caramelized-scallion-sauce",
+        "@type": "WebPage",
+        "name": "Caramelized-Scallion Sauce"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019308-caramelized-scallion-sauce",
+      "name": "Caramelized-Scallion Sauce",
+      "description": "A twist on the Cantonese classic ginger-scallion sauce, this aromatic purée focuses on the flavor of scallions slow-cooked to draw out their gentle sweetness. Adding more scallions at the end brings a fresh complexity to the sauce, but if you want to keep the whole thing mellow and sweet, feel free to omit that step, and just cook all the scallions at once. It's great as a dressing for noodles, boiled or roasted vegetables and simple meats and fish.",
+      "author": {
+        "@type": "Person",
+        "name": "Francis Lam"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/a900a4d7-1f80-5506-b657-0449f1a0542b#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Caramelized-scallion sauce.",
+          "contentUrl": "https://static01.nyt.com/images/2018/05/13/magazine/13Eat2/13Eat2-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Gentl and Hyers for The New York Times. Food stylist: Frances Boswell. Prop stylist: Amy Wilson.",
+          "dateModified": "2021-06-18T16:20:25.915Z",
+          "datePublished": "2018-05-07T17:57:02.000Z",
+          "height": "899",
+          "representativeOfPage": true,
+          "uploadDate": "2018-05-07T17:57:02.000Z",
+          "url": "https://static01.nyt.com/images/2018/05/13/magazine/13Eat2/13Eat2-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a900a4d7-1f80-5506-b657-0449f1a0542b#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Caramelized-scallion sauce.",
+          "contentUrl": "https://static01.nyt.com/images/2018/05/13/magazine/13Eat2/13Eat2-superJumbo-v2.jpg",
+          "creditText": "Gentl and Hyers for The New York Times. Food stylist: Frances Boswell. Prop stylist: Amy Wilson.",
+          "dateModified": "2021-06-18T16:20:25.915Z",
+          "datePublished": "2018-05-07T17:57:02.000Z",
+          "height": "1548",
+          "representativeOfPage": true,
+          "uploadDate": "2018-05-07T17:57:02.000Z",
+          "url": "https://static01.nyt.com/images/2018/05/13/magazine/13Eat2/13Eat2-superJumbo-v2.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/a900a4d7-1f80-5506-b657-0449f1a0542b#square640",
+          "@type": "ImageObject",
+          "caption": "Caramelized-scallion sauce.",
+          "contentUrl": "https://static01.nyt.com/images/2018/05/13/magazine/13Eat2/13Eat2-square640.jpg",
+          "creditText": "Gentl and Hyers for The New York Times. Food stylist: Frances Boswell. Prop stylist: Amy Wilson.",
+          "dateModified": "2021-06-18T16:20:25.915Z",
+          "datePublished": "2018-05-07T17:57:02.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2018-05-07T17:57:02.000Z",
+          "url": "https://static01.nyt.com/images/2018/05/13/magazine/13Eat2/13Eat2-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT40M",
+      "recipeYield": "1 3/4 cups.",
+      "recipeCuisine": "chinese",
+      "recipeCategory": "sauces and gravies, side dish",
+      "keywords": "peanut oil, scallion",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 1212
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 602,
+        "unsaturatedFatContent": "57 grams",
+        "carbohydrateContent": "8 grams",
+        "cholesterolContent": null,
+        "fatContent": "64 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "2 grams",
+        "saturatedFatContent": "4 grams",
+        "sodiumContent": "412 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 cup peanut or vegetable oil, plus more if needed",
+        "1 pound scallions (3 to 4 bunches)",
+        "2 teaspoons kosher salt, or to taste"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a tall-sided saucepan, heat the oil over medium-low heat."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Trim the roots from 2/3 of the scallions, and cut them into 1-inch pieces. Pulse the scallions in a food processor until finely minced. (You may need to scrape down the sides once or twice.) Add 3/4 to 1 teaspoon kosher salt, and pulse until wet and puréed. Carefully add the purée to the oil (the oil should be warm, not hot, but be careful of splatters)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Raise the heat to high, and cook, stirring, until it reaches a boil. Turn the heat down to maintain a mellow but insistent sizzle. Cook, stirring every few minutes to make sure the bottom and sides aren’t sticking and browning, until the purée is army green, just starting to take on brownish tones, and goes from thick and clumpy to very liquid in the pot, around 35 minutes. In truth, it’s ugly. (You can cook it further to get a more browned, caramelized flavor if you like, but don’t let it get dark.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, trim the roots off the remaining scallions, and cut them into 1-inch pieces. Pulse them in the food processor until they are finely minced but not puréed. Remove the scallions to a bowl and stir in another 3/4 to 1 teaspoon salt. When the purée in the pot is ready, carefully stir in the minced scallions, and turn the heat up to high. Bring it back to a boil, stirring, and then remove the sauce to a heatproof bowl to cool to room temperature. When it has cooled, taste, and add more salt if desired."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Store in a jar, topping it with a little oil if necessary to keep everything submerged. The sauce keeps, refrigerated and under oil, for a couple of weeks."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JLC"
+          },
+          "reviewBody": "We are onion heads Love ginger, but this is The Bomb!",
+          "datePublished": "2025-04-01T22:57:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JLC"
+          },
+          "reviewBody": "Addictive for an onion-face like me.",
+          "datePublished": "2025-01-23T19:53:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John"
+          },
+          "reviewBody": "I made this as a sauce for green beans and loved it.  I drained off a lot of oil at the end, and that seemed to prevent it from being too greasy.",
+          "datePublished": "2025-01-01T13:37:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MLeeP"
+          },
+          "reviewBody": "One of my favorite local restaurants makes a ginger scallion rice (with salmon) that I just can’t get enough of. So glad to have found this AND all of the lovely, helpful notes and comments.",
+          "datePublished": "2024-09-03T18:59:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennifer H"
+          },
+          "reviewBody": "To quote the unsinkable Molly Brown: \"With that sauce, you could eat erasers.” \nMake it in the Instant Pot: effortless and delectable!",
+          "datePublished": "2024-08-28T23:51:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carter"
+          },
+          "reviewBody": "This can go on everything. But here's one thing it must go on - a breakfast sandwich with egg, avocado, and bacon on brioche. It is so good I might start a restaurant that specializes in this pairing. Will make this sauce for the rest of my life.",
+          "datePublished": "2024-04-04T14:52:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lafayette Ann"
+          },
+          "reviewBody": "Made as written. It is fabulous. It doesn't need ginger IMHO. Just a good hit of kosher salt. Added some to turkey burger mix. Next it's going on noodles.",
+          "datePublished": "2024-03-15T16:31:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "D"
+          },
+          "reviewBody": "can this be frozen?",
+          "datePublished": "2023-08-05T15:23:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth"
+          },
+          "reviewBody": "So sweet and tasty. Loved it folded into scrambled eggs and dressing roasted veggies.",
+          "datePublished": "2023-06-27T23:23:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "elena"
+          },
+          "reviewBody": "The whole business with two different preparations of scallions is unnecessarily fussy. Put all your scallions (/ramps/green garlic, whatever) into the food processor and mince. Scoop out around 1/5 of the mixture in a measuring cup and reserve. Now puree the rest. I liked the zinginess of adding the raw minced scallions at the end but only wanted to chop once.",
+          "datePublished": "2023-06-26T02:16:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "This was a bit of a revelation. While it was cooking I was highly doubtful but when I tasted it at the 'army green' stage it was wonderful.  As promised, sweet, salty, and savory a perfect way to add some excitement to so many things.  We had it with rice, eggs and bok choy, yum!",
+          "datePublished": "2023-01-31T14:48:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vicki"
+          },
+          "reviewBody": "I made this. Did not turn out good. Probably because I had to use a wand mixer. Do you think I could use it as a mqrinqde?",
+          "datePublished": "2022-08-19T20:04:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jen C"
+          },
+          "reviewBody": "So easy.  I agree with other notes, 3/4 cup oil vs cup. And just go low and slow, all of the bite goes out and you’re left with a scallion elixir. I had it over grilled chicken and added a bit of chili crisp. Delicious.",
+          "datePublished": "2022-07-30T01:49:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shari"
+          },
+          "reviewBody": "I made this using a giant amount of garlic scapes from my CSA box. I added the ginger and soy sauce as others suggested. This is unbelievably delicious! I also added a little toasted sesame oil. I know this limits the sauce in the flavor profile, but no complaints here! It is ugly and I can’t stop eating it!",
+          "datePublished": "2022-07-12T00:30:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "reviewBody": "When you chop off the roots, take about an inch and stick them in random space in flowerpots, or neatly in a row, and they make lotsa scallion greens.",
+          "datePublished": "2022-07-05T04:06:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Delee"
+          },
+          "reviewBody": "The article talks about scallion-ginger sauce, but this recipe is for plain scallion sauce. It's missing a whole world of flavor without the ginger, and since you're using a food processor, it's nothing to add about 2 inches of ginger root to the puree.  You will not regret it.  It goes on everything -rice, noodles, chicken, pork, fish, dumplings. etc.",
+          "datePublished": "2018-05-11T00:53:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Walter"
+          },
+          "reviewBody": "Read the full article in the link to understand the reason that the sauce does not have ginger in the recipe.  Nothing says that you cannot add it however, but one should recognize that Francis Lam knows what he is doing by leaving it out of this particular prep.",
+          "datePublished": "2018-05-11T16:19:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diane"
+          },
+          "reviewBody": "I thought the listed proportions would be too oily for my taste and I wasn't prepared to babysit it. So, I pureed 5oz scallions and 1/8c olive oil with enough water to make a slurry and lotsa salt. Poured it into a Pyrex dish, loosely covered w/foil and cooked it in the Instant Pot on Manual for 30 min, NR.\nI'm not sure if it's 'correct' but it's army green, sweet, mellow and so good. Put over pasta with melty cheese and peas. Curl-up-on-the-couch, face-in-the-bowl, leave-me-be meal.",
+          "datePublished": "2019-03-13T00:54:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ajewel"
+          },
+          "reviewBody": "This recipe is delicious when you FOLLOW THE LITTLE DETAILS--the oil needs to be WARM, not hot, so you can regulate the cooking and prevent it from becoming a scummy mess.  Using peanut oil this time but it was delicious with olive oil, too.  Left out the ginger until I knew with what I wanted to serve it.  \nBTW, you can be lazy/efficient: pulse all the 1\" pieces together, add salt and remove 1/3 of the scallions to a bowl, then proceed with pureeing the 2/3 left in processor. Yummm!",
+          "datePublished": "2018-11-27T13:19:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "W"
+          },
+          "reviewBody": "Original Ginger Scallion Recipe\n\n2oz ginger\n6oz scallions\n2t sea salt\n1C peanut oil\n\n1. Place the ginger in the bowl of a food processor and process until the ginger is finely minced but not mushy. Scrape it into a large, tall, heatproof bowl\n2. Mince scallions in processor. Add to bowl with the ginger.\n3. Add salt, should be too salty\n4. Heat oil to smoking and pour over ginger/scallions. Stir lightly. Let cool to room temperature",
+          "datePublished": "2019-04-09T17:26:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ze'ev Silverman"
+          },
+          "reviewBody": "I made two consequential changes:\n\n1. I used leeks instead of scallions\n2. I chopped them with a 'wand processor'. It wasn't working with the traditional food processor.\n\nThe result is sweet and tasty, and I have quite a few dishes I will be experimenting on with it. For one, onion soup. Wish me luck!",
+          "datePublished": "2018-05-09T15:22:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stacy Hall"
+          },
+          "reviewBody": "As others have noted, this is a fantastic, terrible-looking sauce that also makes a great condiment for eggs, fish, steamed veggies, etc. \nHowever, 2 points that are important to note:\n- It really does take a solid hour of gentle cooking to bring out the truly rich umami, so plan ahead.\n- I'm skeptical of a 2-week lifespan when refrigerated - even covered in oil, my batch smelled/tasted off after a week in a 37-degree fridge. \n",
+          "datePublished": "2019-01-05T17:43:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maura"
+          },
+          "reviewBody": "I followed the quantities carefully and it ended up yummy but too oily.  I'll used 3/4 cup of oil next time.  It does freeze well in my opinion.",
+          "datePublished": "2018-05-13T13:23:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Seona"
+          },
+          "reviewBody": "Try spooning it onto plastic wrap and freezing a few blobs. It will keep better at freezing point. Or put into ice cube tray, pop the frozen cubes and keep in a zip lock bag in the freezer. Then can make up a mug of noodles in microwave with added sauce.....yum.",
+          "datePublished": "2019-03-25T10:06:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LouiseM."
+          },
+          "reviewBody": "Best tips:\n- reduce oil to 3/4 cup\n- add about 2 inches of ginger root to the puree.\n-  I used leeks instead of scallions\n- delicious with olive oil, too\n- you can be lazy/efficient: pulse all the 1\" pieces together, add salt and remove 1/3 of the scallions to a bowl, then proceed with pureeing the 2/3 left in processor. Yummm!\n- freezes well",
+          "datePublished": "2019-04-08T16:38:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JC"
+          },
+          "reviewBody": "Add soy sauce while making this sauce will produce the key ingredient of my favorite Shanghainese comfort food- \" Scallion Oil Tossed noodle\".  Just toss the sauce with boiled Chinese dry noodle.  To get a better and less oily texture, I finished the noodle in a hot pan ( or wok) with the sauce.  Meat and vegetables are optional.",
+          "datePublished": "2018-05-11T20:24:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melody"
+          },
+          "reviewBody": "I've been making this for several years now. I find the recipe strange that it omits ginger. I also find it weird that they insist on using a food processor. I slice the scallions very thin. And I add maybe 1/2 volume of grated (with a microplane) ginger. I personally use olive oil because that tends to be what I have, and it doesn't offend me - as someone who grew up eating this. I generously add salt. For me, that is sea salt, but I could see why kosher salt is used in the recipe.",
+          "datePublished": "2018-05-21T20:35:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janis"
+          },
+          "reviewBody": "Lam's original recipe for the classic Cantonese ginger scallion sauce is here: https://www.salon.com/2010/06/19/ginger_scallion_sauce_recipe/",
+          "datePublished": "2018-05-23T22:39:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Theresa"
+          },
+          "reviewBody": "Best tips: - reduce oil to 3/4 cup - add about 2 inches of ginger root to the puree. - I used leeks instead of scallions - delicious with olive oil, too - you can be lazy/efficient: pulse all the 1\" pieces together, add salt and remove 1/3 of the scallions to a bowl, then proceed with pureeing the 2/3 left in processor. Yummm! - freezes well",
+          "datePublished": "2019-05-03T15:19:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Danielle"
+          },
+          "reviewBody": "Execellent! I added some garlic and ginger with the green onions at the end, then made dumplings with it. For a vegetarian version, I sautéed mushrooms in the sauce, added soy sauce, cilantro, cabbage and toasted sesame oil. For pork dumplings, I sautéed the cabbage in the sauce and soy sauce, then added that mixture when cooled to ground pork and cilantro. I’ll definitely be making the sauce again, although I might reduce oil slightly for my purposes.",
+          "datePublished": "2018-05-29T23:13:10.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1019308-caramelized-scallion-sauce",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Francis Lam"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018,
+      "description": "A twist on the Cantonese classic ginger-scallion sauce, this aromatic purée focuses on the flavor of scallions slow-cooked to draw out their gentle sweetness. Adding more scallions at the end brings a fresh complexity to the sauce, but if you want to keep the whole thing mellow and sweet, feel free to omit that step, and just cook all the scallions at once. It's great as a dressing for noodles, boiled or roasted vegetables and simple meats and fish.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Caramelized-Scallion Sauce",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/a900a4d7-1f80-5506-b657-0449f1a0542b#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Caramelized-scallion sauce.",
+          "contentUrl": "https://static01.nyt.com/images/2018/05/13/magazine/13Eat2/13Eat2-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Gentl and Hyers for The New York Times. Food stylist: Frances Boswell. Prop stylist: Amy Wilson.",
+          "dateModified": "2021-06-18T16:20:25.915Z",
+          "datePublished": "2018-05-07T17:57:02.000Z",
+          "height": "899",
+          "representativeOfPage": true,
+          "uploadDate": "2018-05-07T17:57:02.000Z",
+          "url": "https://static01.nyt.com/images/2018/05/13/magazine/13Eat2/13Eat2-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a900a4d7-1f80-5506-b657-0449f1a0542b#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Caramelized-scallion sauce.",
+          "contentUrl": "https://static01.nyt.com/images/2018/05/13/magazine/13Eat2/13Eat2-superJumbo-v2.jpg",
+          "creditText": "Gentl and Hyers for The New York Times. Food stylist: Frances Boswell. Prop stylist: Amy Wilson.",
+          "dateModified": "2021-06-18T16:20:25.915Z",
+          "datePublished": "2018-05-07T17:57:02.000Z",
+          "height": "1548",
+          "representativeOfPage": true,
+          "uploadDate": "2018-05-07T17:57:02.000Z",
+          "url": "https://static01.nyt.com/images/2018/05/13/magazine/13Eat2/13Eat2-superJumbo-v2.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/a900a4d7-1f80-5506-b657-0449f1a0542b#square640",
+          "@type": "ImageObject",
+          "caption": "Caramelized-scallion sauce.",
+          "contentUrl": "https://static01.nyt.com/images/2018/05/13/magazine/13Eat2/13Eat2-square640.jpg",
+          "creditText": "Gentl and Hyers for The New York Times. Food stylist: Frances Boswell. Prop stylist: Amy Wilson.",
+          "dateModified": "2021-06-18T16:20:25.915Z",
+          "datePublished": "2018-05-07T17:57:02.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2018-05-07T17:57:02.000Z",
+          "url": "https://static01.nyt.com/images/2018/05/13/magazine/13Eat2/13Eat2-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019308-caramelized-scallion-sauce"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:04:36.840Z",
+  "scraping_status": "scraped"
+}

@@ -1,0 +1,580 @@
+{
+  "id": "d8c8b3de9b6188ef",
+  "original_url": "https://cooking.nytimes.com/recipes/1022670-persian-rice-stuffed-onions",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1022670-stuffed-onions",
+  "fetched_title": "Stuffed Onions Recipe",
+  "main_text_content": "These elegant onions are stuffed with beautiful saffron-tinged basmati rice The fluffy rice is infused with fragrant spices and studded with toasted nuts and dried fruit for a vibrant and textured jeweled look The onion layers and rice can be prepared a day ahead and kept refrigerated",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1022068-skillet-chicken-with-mushrooms-and-caramelized-onions\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"A cast-iron skillet filled with chicken, mushrooms and caramelized onions. A spoon is in the skillet, and some of the chicken is being served on top of noodles in a separate plate.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2021/03/30/dining/yf-chicken-with-mushrooms-and-onions/merlin_185308269_36ffc313-cc76-49cf-b406-3e6e20a4d34f-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2021/03/30/dining/yf-chicken-with-mushrooms-and-onions/merlin_185308269_36ffc313-cc76-49cf-b406-3e6e20a4d34f-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2021/03/30/dining/yf-chicken-with-mushrooms-and-onions/merlin_185308269_36ffc313-cc76-49cf-b406-3e6e20a4d34f-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2021/03/30/dining/yf-chicken-with-mushrooms-and-onions/merlin_185308269_36ffc313-cc76-49cf-b406-3e6e20a4d34f-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2021/03/30/dining/yf-chicken-with-mushrooms-and-onions/merlin_185308269_36ffc313-cc76-49cf-b406-3e6e20a4d34f-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2021/03/30/dining/yf-chicken-with-mushrooms-and-onions/merlin_185308269_36ffc313-cc76-49cf-b406-3e6e20a4d34f-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2021/03/30/dining/yf-chicken-with-mushrooms-and-onions/merlin_185308269_36ffc313-cc76-49cf-b406-3e6e20a4d34f-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2021/03/30/dining/yf-chicken-with-mushrooms-and-onions/merlin_185308269_36ffc313-cc76-49cf-b406-3e6e20a4d34f-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Skillet Chicken With Mushrooms and Caramelized Onions</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Yasmin Fahr</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/02/27/multimedia/KC-Stuffed-Onions-vhck/KC-Stuffed-Onions-vhck-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/d8c8b3de9b6188ef/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/8dd065eb-51d2-5f55-9903-1dc612c534ad",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1022670-stuffed-onions",
+        "@type": "WebPage",
+        "name": "Stuffed Onions"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022670-stuffed-onions",
+      "name": "Stuffed Onions",
+      "description": "These elegant onions are stuffed with beautiful saffron-tinged basmati rice. The fluffy rice is infused with fragrant spices and studded with toasted nuts and dried fruit for a vibrant and textured jeweled look. The onion layers and rice can be prepared a day ahead and kept refrigerated. These festive onions are a great accompaniment to any large protein roast (fish, chicken, steak) and make for a stunning vegetarian main dish. Use any mix of preferred chopped dried fruit; apricots, dates and currants are all nice alternatives.",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/eafc25d3-6e8d-5569-bd11-d9933db02fef#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/27/multimedia/KC-Stuffed-Onions-vhck/KC-Stuffed-Onions-vhck-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist:Simon Andrews. Prop Stylist: Christina Lane.",
+          "dateModified": "2025-02-27T15:32:30.480Z",
+          "datePublished": "2025-02-27T15:32:30.480Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-27T15:32:30.480Z",
+          "url": "https://static01.nyt.com/images/2025/02/27/multimedia/KC-Stuffed-Onions-vhck/KC-Stuffed-Onions-vhck-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/eafc25d3-6e8d-5569-bd11-d9933db02fef#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/27/multimedia/KC-Stuffed-Onions-vhck/KC-Stuffed-Onions-vhck-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist:Simon Andrews. Prop Stylist: Christina Lane.",
+          "dateModified": "2025-02-27T15:32:30.480Z",
+          "datePublished": "2025-02-27T15:32:30.480Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-27T15:32:30.480Z",
+          "url": "https://static01.nyt.com/images/2025/02/27/multimedia/KC-Stuffed-Onions-vhck/KC-Stuffed-Onions-vhck-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/eafc25d3-6e8d-5569-bd11-d9933db02fef#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/27/multimedia/KC-Stuffed-Onions-vhck/KC-Stuffed-Onions-vhck-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist:Simon Andrews. Prop Stylist: Christina Lane.",
+          "dateModified": "2025-02-27T15:32:30.480Z",
+          "datePublished": "2025-02-27T15:32:30.480Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-27T15:32:30.480Z",
+          "url": "https://static01.nyt.com/images/2025/02/27/multimedia/KC-Stuffed-Onions-vhck/KC-Stuffed-Onions-vhck-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT1H30M",
+      "recipeYield": "6 to 8 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "grains and rice, vegetables, side dish",
+      "keywords": "almond, onion, saffron, thanksgiving, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 911
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 285,
+        "unsaturatedFatContent": "10 grams",
+        "carbohydrateContent": "32 grams",
+        "cholesterolContent": null,
+        "fatContent": "16 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "4 grams",
+        "saturatedFatContent": "5 grams",
+        "sodiumContent": "386 milligrams",
+        "sugarContent": "7 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "Kosher salt (Diamond Crystal)",
+        "3 large yellow onions (2 pounds), ends trimmed and peeled",
+        "1/4 cup sliced almonds",
+        "1/2 teaspoon loosely packed saffron, crumbled",
+        "1 tablespoon lemon juice",
+        "4 tablespoons extra-virgin olive oil, plus more for drizzling",
+        "1 cup basmati rice, rinsed until water runs clear",
+        "4 tablespoons unsalted butter, melted",
+        "1/4 teaspoon black pepper, plus more for seasoning",
+        "1 (3-inch) cinnamon stick",
+        "1/2 teaspoon ground cumin",
+        "1/8 teaspoon ground green cardamom",
+        "1/4 cup shelled salted pistachios, chopped",
+        "2 tablespoons golden raisins, chopped",
+        "2 tablespoons dried tart cherries, chopped",
+        "1/4 cup chopped parsley, plus more for garnish"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bring a large pot of salted water to a boil over high. Make a lengthwise cut into each onion from the top to root end, slicing only halfway through to the middle of the onion. (This will make it easier to separate the layers.) Reduce heat to medium-high and simmer briskly until the onions are softened through the middle and the layers separate easily, about 25 minutes. Transfer onions to a cutting board and let cool."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, heat oven to 350 degrees. Spread almonds on a baking sheet and toast until lightly golden, 6 to 7 minutes; transfer to a plate to cool. Increase oven temperature to 400 degrees."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a small bowl, combine saffron and lemon juice, and let sit."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Separate the onion layers until just the centers remain. (You may have to trim the root ends a bit more if the layers don’t completely separate.) Cut the 2 largest outer layers from each onion in half for 12 equal pieces, then count out more of the inner layers for a total of 20 to 24 stuffed onions. (The number will vary depending on the size of onions.) Finely chop the remaining onion centers and any remaining onion layers to make 1 cup; a little less or more is OK."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat 2 tablespoons of the oil in a high-sided, 12-inch ovenproof skillet with a lid over medium. Add chopped onion and cook, stirring occasionally, until tender, 3 minutes. Stir in rice and 2 tablespoons of the melted butter, and stir until evenly coated. Stir in 1 teaspoon salt, the pepper, saffron-lemon juice, cinnamon stick, cumin, cardamom and 1 cup of water. Bring to a boil over high, then cover and reduce heat to medium-low. Cook until the liquid is just absorbed, about 3 minutes (rice will still be undercooked). Stir in toasted almonds, pistachios, raisins, cherries and parsley."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Spoon 2 tablespoons of the rice mixture in the center of each onion layer so that the onion loosely covers the filling. (Rice will expand; bundles should be partly open.) Scrape out and discard any remaining rice (or reserve for future use) and clean out the skillet."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Coat the bottom of the skillet with the remaining 2 tablespoons oil, and arrange onions seam side up in a single layer. Add 1 cup of water to the pan, season onions with salt and pepper, and drizzle with the remaining 2 tablespoons butter. Bring to a boil over high, cover tightly and transfer to the oven to bake until all the liquid has been absorbed, rice is cooked through and onions are tender, about 30 to 40 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Garnish with parsley and drizzle with oil. Serve warm."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-11-14T00:00:00.000Z",
+      "dateModified": "2025-02-27T15:33:22.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura W"
+          },
+          "reviewBody": "I’ve made this for dinner parties multiple times. Great veg main/additional side. Agree with doubling all of the spices, the first time I made it I was underwhelmed. It’s great to make ahead also—put all the stuffed onions in whenever you have time in the schedule. In a Dutch oven they’ll stay warm for a good 20-30 minutes after they come out.",
+          "datePublished": "2024-12-08T15:47:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cornelia Guest"
+          },
+          "reviewBody": "This was incredible! I prepared the onions the night before to lessen my cooking time on the day I was serving the dish. I had it as a side dish, and everyone went back for more. Presents beautifully as well!",
+          "datePublished": "2024-11-30T23:29:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LouisaBee"
+          },
+          "reviewBody": "I made these for thanksgiving so my vegetarian mother in law would have something that felt a little special and fancy as her main dish. She loved them so much, she requested that I make them again next time she comes over! The meat eaters loved them, too. They're gorgeous and delicious. I might add a bit more salt to the rice next time.",
+          "datePublished": "2024-11-29T15:46:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Could Use More Flavor"
+          },
+          "reviewBody": "I found the flavors weren't very balanced and was pretty bland in the end. It mostly tasted like a boiled onion. I think the ratio of onion to filling might be challenging to get right. I see some comments have spruced up the recipe with vegetable stock and more spices, so it could be worth another try. Visually it makes a good dish on the table, but nobody will remember tasting it.",
+          "datePublished": "2024-11-28T06:00:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Charles Michener"
+          },
+          "reviewBody": "This looks a bit tricky (and messy) to eat with utensils. Or are we to pretend it's a taco and use our fingers? I'll go with the rice part and skip the slippery, slimy onions.",
+          "datePublished": "2024-11-27T23:33:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liza"
+          },
+          "reviewBody": "Must you cook the onions first? Is there a way around this? Thanks!",
+          "datePublished": "2024-05-14T16:30:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ruthie"
+          },
+          "reviewBody": "I forgot to mention that they really turned out just like the photo— and the photo was helpful to show what they should look like. Thank you!",
+          "datePublished": "2024-04-01T14:15:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ruthie"
+          },
+          "reviewBody": "Made a double recipe for Easter dinner for 10 of us. Served alongside lamb and it was a novel hit and delicious! The tzatziki sauce went with both the lamb and the stuffed onions. I will definitely make this again — but only for a special occasion, as it does take time and planning ahead. I boiled and separated the onions a day ahead, which did help.",
+          "datePublished": "2024-04-01T12:50:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "I made this & OMG it was terrific.  A lot of time/effort but investment well worth it.  Due to veganism & serious allergies involving cinnamon & dried fruit, had to make some adjustments.  In lieu of dried fruit, chopped up sweet baby carrots & fresh ginger.  Latter added quite bites of zest.  The onions & carrots added all the sweetness my family needed.  I can’t imagine making this with all the dried fruit as we are not big on sweetness.  Do it again?  Absolutely!",
+          "datePublished": "2023-12-26T23:27:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pranay"
+          },
+          "reviewBody": "Looks impressive on the table, but taste wise the result is not greater than the sum of its parts. Next time, I will make the rice on its own (delicious) and top it with freshly fried onions, toasted nuts and fresh herbs (mint would go especially well with the flavors).",
+          "datePublished": "2023-12-13T06:29:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill"
+          },
+          "reviewBody": "Since the amount of salt is unspecified, why the recommendation for Diamond Crystal salt? Would Morton's work? Sea salt? Morton's table salt? Pink Himalayan salt?\n\nCurious minds want know.",
+          "datePublished": "2023-12-06T23:07:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "rachel"
+          },
+          "reviewBody": "Followed the directions as written and thought it was perfect as is. I did sprinkle a little feta on the leftovers and that was quite nice, but absolutely not necessary. This will be be a permanent addition to future holiday menus.",
+          "datePublished": "2023-11-26T03:34:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joe Becci"
+          },
+          "reviewBody": "I made this last Thanksgiving and again this year for my Afghan friends at a big Thanksgiving bash. I followed the suggestion to up the spices and use veggie stock. Perfect for a crowd where vegetarian is preferred over meat dishes that your not sure is Halal.",
+          "datePublished": "2023-11-23T02:29:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "beginner"
+          },
+          "reviewBody": "Silly question - planning to make this for my vegan/gf guests at thanksgiving (subbing margarine for butter) and was wondering if any of this can be made ahead of time? Any suggestions on improving timing for a kitchen with one oven cooking turkey would be greatly appreciated!",
+          "datePublished": "2023-11-21T02:20:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J. Cosmo"
+          },
+          "reviewBody": "Were I to make this dish, the cups of water in steps 5 and 7 would come from the water used to simmer the onions in step 1.",
+          "datePublished": "2023-11-18T03:31:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maggie"
+          },
+          "reviewBody": "@pmc I had trouble visualizing how to cut the onions, too, so I did a google video search for other stuffed onion recipes. I found one for Lebanese Roasted Stuffed Onions (hosted on a cooking site and also on youtube). That video shows how to cut and roll the onions—and it aligns closely with Kay Chun's instructions. Good luck!",
+          "datePublished": "2021-11-14T02:25:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carrie"
+          },
+          "reviewBody": "I'm not so sure it is good to microwave plastic. Can I just put the onions in a small dish and microwave them? Why do I have to wrap in plastic?",
+          "datePublished": "2021-11-11T18:34:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Veggie Chef"
+          },
+          "reviewBody": "After reading the other comments I made the following edits and wow! This dish is spectacular. \n\n-sub veg stock for the water\n-double the cumin & cardamom\n-add 0.5 tsp. Mild Aleppo pepper\n-add 0.25 tsp. Sumac\n-add 3 cloves garlic, microplaned when sautéing onion\n-I used pistachios, slivered almonds, currants and dried apricots (diced) for the fruit/nut mix. \n-sprinkle zaatar over top (instead of salt) before baking\n-garnish with chopped parsley and mint and serve with garlicy yogurt/tzatziki",
+          "datePublished": "2022-07-18T02:58:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "dimmerswitch"
+          },
+          "reviewBody": "If visual of 'how to' handle the onion in steps 1 and 4 is confusing based on this recipe instructions, take a look at these 2 videos, neither are for this recipe but for stuffed onions using similar technique.  In the 1st video up to about 1:10 to see 'how to'.  In the 2nd starting about 0:49 to 1:19 then again 1:41 to 1:52.  Note:  In this recipe 25 min cook is too long in step 1 - consider 15 to 20.\n\n<a href=\"https://www.youtube.com/watch?v=vC7S908x94I\" target=\"_blank\">https://www.youtube.com/watch?v=vC7S908x94I</a>\n<a href=\"https://www.youtube.com/watch?v=G1eXZOt_-V\" target=\"_blank\">https://www.youtube.com/watch?v=G1eXZOt_-V</a>",
+          "datePublished": "2021-11-14T19:34:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "eastern sierra cook"
+          },
+          "reviewBody": "Use a glass casserole lid instead of plastic wrap: better for you and the environment.",
+          "datePublished": "2021-11-12T20:54:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jean from NC"
+          },
+          "reviewBody": "Much easier than boiling: wrap the slit onions  in a couple layers of plastic wrap and microwave until they start to feel soft. Be careful--the insides will be hot! Easier and more flavor-preserving than boiling--and I'm speaking as a person who uses plastic wrap for almost nothing else.\n\nThese stuffed onions are often baked in a tamarind sauce--also lovely.",
+          "datePublished": "2021-11-10T02:17:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "pmc"
+          },
+          "reviewBody": "Please excuse my ignorance, but I am still trying to wrap my head around 3 large onions becoming these small picturesque vessels.  (Wish there were a video with this one.)  You work from the outside inward, but cutting in half?  Any hints would be appreciated, and happy Thanksgiving!",
+          "datePublished": "2021-11-13T00:13:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "S"
+          },
+          "reviewBody": "Green cardamom is just the regular cardamom that is available in ground form in almost all grocery stores. In 'ethnic' grocery stores you can get the whole pods, or ground versions.\n\nIt's called green cardamom because it's made from the smaller green podded cardamom, to distinguish it from the smoky flavoured large black cardamom.  \n\nBlack cardamom cannot be substituted for green cardamom, the flavours are too different.",
+          "datePublished": "2021-11-13T19:03:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Yoshie"
+          },
+          "reviewBody": "very pretty and fun (or fussy) to make, great vegetarian centerpiece but I thought it lacked a couple of flavor elements on its own. despite the tart cherry in the recipe, barely tasted it which is a shame, maybe needs more but afraid it’ll be too sweet. also lacked zestiness/acidity, maybe needs some lemon juice. hard to gauge how much salt. flavor salvaged with a side of zaatar yogurt (greek yogurt, lemon juice, olive oil, zaatar)   garlicky cumin-coriander carrot salad.",
+          "datePublished": "2021-11-16T02:31:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeri"
+          },
+          "reviewBody": "I loved this dish, as did my Seder guests. I found it easy to make (I microwaved the onions in plastic wrap as suggested by another reader). In the future, I wouldn’t bother chopping the raisins and would likely include more cherries. I made the dish in advance, up until the add water and bake step. Then I refrigerated it overnight. An hour or so before dinner I added the boiling water and put it in the oven to cook. Worked perfectly.",
+          "datePublished": "2022-04-19T21:27:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kate sf"
+          },
+          "reviewBody": "To pmc: I am going to approach this like stuffed cabbage (leaves). You separate the onion layers (=leaves) and the larger outside ones, you cut in half. The leaves/layers are kind of rolled to form the final stuffed onions in the picture. I anticipate mine will not look so neat. These professional NYT pics always look better than my home dish.\nWishing us both the best - it will taste good even if things fall apart.",
+          "datePublished": "2021-11-13T22:33:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sabrina"
+          },
+          "reviewBody": "Doesn’t need the onion shells. Quadruple spices. Added sumac and aleppo",
+          "datePublished": "2021-11-24T00:43:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "dimmerswitch"
+          },
+          "reviewBody": "New to stuffing / rolling onions asin this delicious recipe, I thought a video would be helpful.  Sometimes NYT Cooking videos can be found on youtube but not for this recipe.  So I referenced others.  For cooks who also might find video helpful on handling / rolling onions I'll link here.  The handling of onions is at 00:42 - 1:17, 1:55-2:20 & 2:50-3:15.  <a href=\"https://www.youtube.com/watch?v=rDSuRL0H6hY\" target=\"_blank\">https://www.youtube.com/watch?v=rDSuRL0H6hY</a>",
+          "datePublished": "2022-11-15T17:36:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mas"
+          },
+          "reviewBody": "Am I the only one who doesn't understand the onion-cutting directions? Also with no microwave, maybe I would try roasting in the oven to preserve flavor.",
+          "datePublished": "2021-11-14T07:59:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marie"
+          },
+          "reviewBody": "Penzeys has whole green pods, you will have to grind them in a mortar and pestle.  Or any Indian foods market will have the whole pods and ground.  Regular ground will work as well.",
+          "datePublished": "2021-11-09T14:13:45.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1022670-stuffed-onions",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "These elegant onions are stuffed with beautiful saffron-tinged basmati rice. The fluffy rice is infused with fragrant spices and studded with toasted nuts and dried fruit for a vibrant and textured jeweled look. The onion layers and rice can be prepared a day ahead and kept refrigerated. These festive onions are a great accompaniment to any large protein roast (fish, chicken, steak) and make for a stunning vegetarian main dish. Use any mix of preferred chopped dried fruit; apricots, dates and currants are all nice alternatives.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Stuffed Onions",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/eafc25d3-6e8d-5569-bd11-d9933db02fef#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/27/multimedia/KC-Stuffed-Onions-vhck/KC-Stuffed-Onions-vhck-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist:Simon Andrews. Prop Stylist: Christina Lane.",
+          "dateModified": "2025-02-27T15:32:30.480Z",
+          "datePublished": "2025-02-27T15:32:30.480Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-27T15:32:30.480Z",
+          "url": "https://static01.nyt.com/images/2025/02/27/multimedia/KC-Stuffed-Onions-vhck/KC-Stuffed-Onions-vhck-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/eafc25d3-6e8d-5569-bd11-d9933db02fef#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/27/multimedia/KC-Stuffed-Onions-vhck/KC-Stuffed-Onions-vhck-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist:Simon Andrews. Prop Stylist: Christina Lane.",
+          "dateModified": "2025-02-27T15:32:30.480Z",
+          "datePublished": "2025-02-27T15:32:30.480Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-27T15:32:30.480Z",
+          "url": "https://static01.nyt.com/images/2025/02/27/multimedia/KC-Stuffed-Onions-vhck/KC-Stuffed-Onions-vhck-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/eafc25d3-6e8d-5569-bd11-d9933db02fef#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/02/27/multimedia/KC-Stuffed-Onions-vhck/KC-Stuffed-Onions-vhck-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist:Simon Andrews. Prop Stylist: Christina Lane.",
+          "dateModified": "2025-02-27T15:32:30.480Z",
+          "datePublished": "2025-02-27T15:32:30.480Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-02-27T15:32:30.480Z",
+          "url": "https://static01.nyt.com/images/2025/02/27/multimedia/KC-Stuffed-Onions-vhck/KC-Stuffed-Onions-vhck-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022670-stuffed-onions"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:35:47.241Z",
+  "scraping_status": "scraped"
+}

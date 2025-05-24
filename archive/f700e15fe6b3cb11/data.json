@@ -1,0 +1,362 @@
+{
+  "id": "f700e15fe6b3cb11",
+  "original_url": "https://omnivorescookbook.com/chinese-tea-eggs/",
+  "canonical_url": "https://omnivorescookbook.com/chinese-tea-eggs/",
+  "fetched_title": "Chinese Tea Eggs (w/ Soft and Hard Boiled Eggs, 茶叶蛋) - Omnivore&#039;s Cookbook",
+  "main_text_content": "Julia 02/02/25 Thanks for the recipe! How many times can you reuse the marinade? Also in the recipe you say pour marinade and dry ingredients into the quart bag. What dry ingredients? I thought all the dry ingredients went into the marinade? Thanks! Reply",
+  "main_html_content": "<div class=\"comavatar\"></div>\r\n\t\t\t<div class=\"comright\">\r\n\t\t\t\t<div class=\"commeta\">\r\n\t\t\t\t\t<h3 class=\"comauth\">Julia</h3>\r\n\t\t\t\t\t<div class=\"comdate\"><time datetime=\"2025-02-02T20:04:46-05:00\">02/02/25</time></div>\r\n\t\t\t\t\t\t\t\t\t</div>\t\t\r\n\t\t\t\t<div class=\"comcontent notop nobot\">\r\n\t\t\t\t\t<p>Thanks for the recipe! How many times can you reuse the marinade? Also in the recipe you say pour marinade and dry ingredients into the quart bag. What dry ingredients? I thought all the dry ingredients went into the marinade? Thanks!</p>\n\t\t\t\t</div>\t\t\t\t\r\n\t\t\t\t\t\t\t\t\r\n\t\t\t\t<div class=\"comactions\">\r\n\t\t\t\t\t<ul>\r\n\t\t\t\t\t\t<li class=\"reply\"><a rel=\"nofollow\" class=\"comment-reply-link\" href=\"#comment-239085\" data-commentid=\"239085\" data-postid=\"2324\" data-belowelement=\"comment-239085\" data-respondelement=\"respond\" data-replyto=\"Reply to Julia\" aria-label=\"Reply to Julia\">Reply</a></li>\t\t\t\t\t</ul>\r\n\t\t\t\t</div>\r\n\t\t\t\t\t\t\t</div>",
+  "publication_date": "2018-06-01T13:13:55+00:00",
+  "author": "Maggie Zhu",
+  "key_image_url": "https://omnivorescookbook.com/wp-content/uploads/2018/05/1805_Tea-Eggs_001.jpg",
+  "local_image_path": "scraped/f700e15fe6b3cb11/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "@id": "https://omnivorescookbook.com/chinese-tea-eggs/#article",
+          "isPartOf": {
+            "@id": "https://omnivorescookbook.com/chinese-tea-eggs/"
+          },
+          "author": {
+            "name": "Maggie Zhu",
+            "@id": "https://omnivorescookbook.com/#/schema/person/0237ebb4117b875ec4b3779d88ee7165"
+          },
+          "headline": "Chinese Tea Eggs (w/ Soft and Hard Boiled Eggs, 茶叶蛋)",
+          "datePublished": "2018-06-01T13:13:55+00:00",
+          "dateModified": "2024-03-21T13:30:27+00:00",
+          "wordCount": 1100,
+          "commentCount": 89,
+          "publisher": {
+            "@id": "https://omnivorescookbook.com/#/schema/person/0237ebb4117b875ec4b3779d88ee7165"
+          },
+          "image": {
+            "@id": "https://omnivorescookbook.com/chinese-tea-eggs/#primaryimage"
+          },
+          "thumbnailUrl": "https://omnivorescookbook.com/wp-content/uploads/2018/05/1805_Tea-Eggs_001.jpg",
+          "articleSection": [
+            "Side Dishes",
+            "Video"
+          ],
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "CommentAction",
+              "name": "Comment",
+              "target": [
+                "https://omnivorescookbook.com/chinese-tea-eggs/#respond"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://omnivorescookbook.com/chinese-tea-eggs/",
+          "url": "https://omnivorescookbook.com/chinese-tea-eggs/",
+          "name": "Chinese Tea Eggs (w/ Soft and Hard Boiled Eggs, 茶叶蛋) - Omnivore&#039;s Cookbook",
+          "isPartOf": {
+            "@id": "https://omnivorescookbook.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://omnivorescookbook.com/chinese-tea-eggs/#primaryimage"
+          },
+          "image": {
+            "@id": "https://omnivorescookbook.com/chinese-tea-eggs/#primaryimage"
+          },
+          "thumbnailUrl": "https://omnivorescookbook.com/wp-content/uploads/2018/05/1805_Tea-Eggs_001.jpg",
+          "datePublished": "2018-06-01T13:13:55+00:00",
+          "dateModified": "2024-03-21T13:30:27+00:00",
+          "description": "Chinese Tea Eggs (w/ Soft and Hard Boiled Eggs, 茶叶蛋) - Make delicious marbled eggs that are bursting with flavor. {Gluten Free adaptable}",
+          "breadcrumb": {
+            "@id": "https://omnivorescookbook.com/chinese-tea-eggs/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://omnivorescookbook.com/chinese-tea-eggs/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "https://omnivorescookbook.com/chinese-tea-eggs/#primaryimage",
+          "url": "https://omnivorescookbook.com/wp-content/uploads/2018/05/1805_Tea-Eggs_001.jpg",
+          "contentUrl": "https://omnivorescookbook.com/wp-content/uploads/2018/05/1805_Tea-Eggs_001.jpg",
+          "width": 800,
+          "height": 1198,
+          "caption": "Chinese Tea Eggs (marbled eggs) using soft boiled and hard boiled eggs"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://omnivorescookbook.com/chinese-tea-eggs/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://omnivorescookbook.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Video",
+              "item": "https://omnivorescookbook.com/category/cooking-video/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Chinese Tea Eggs (w/ Soft and Hard Boiled Eggs, 茶叶蛋)"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://omnivorescookbook.com/#website",
+          "url": "https://omnivorescookbook.com/",
+          "name": "Omnivore&#039;s Cookbook",
+          "description": "Modern Chinese Recipes",
+          "publisher": {
+            "@id": "https://omnivorescookbook.com/#/schema/person/0237ebb4117b875ec4b3779d88ee7165"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://omnivorescookbook.com/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": [
+            "Person",
+            "Organization"
+          ],
+          "@id": "https://omnivorescookbook.com/#/schema/person/0237ebb4117b875ec4b3779d88ee7165",
+          "name": "Maggie Zhu",
+          "logo": {
+            "@id": "https://omnivorescookbook.com/#/schema/person/image/"
+          },
+          "description": "Hi I'm Maggie Zhu! Welcome to my site about modern Chinese cooking - including street food, family recipes, and restaurant dishes. I take a less labor-intensive approach while maintaining the taste and look of the dish. I am originally from Beijing, and now cook from my New York kitchen.",
+          "sameAs": [
+            "https://omnivorescookbook.com/about/",
+            "http://www.facebook.com/omnivorescookbook",
+            "https://x.com/omnivorcookbook"
+          ]
+        },
+        {
+          "@type": "Recipe",
+          "name": "Chinese Tea Eggs (w/ Soft and Hard Boiled Eggs, 茶叶蛋)",
+          "author": {
+            "@type": "Person",
+            "name": "Maggie Zhu"
+          },
+          "description": "To make this dish gluten-free, use tamari instead of soy sauce.",
+          "datePublished": "2018-06-01T09:13:55+00:00",
+          "image": [
+            "https://omnivorescookbook.com/wp-content/uploads/2018/05/1805_Tea-Eggs_550.jpg",
+            "https://omnivorescookbook.com/wp-content/uploads/2018/05/1805_Tea-Eggs_550-500x500.jpg",
+            "https://omnivorescookbook.com/wp-content/uploads/2018/05/1805_Tea-Eggs_550-500x375.jpg",
+            "https://omnivorescookbook.com/wp-content/uploads/2018/05/1805_Tea-Eggs_550-480x270.jpg"
+          ],
+          "video": {
+            "name": "How to Make Soft-Boiled Chinese Tea Eggs (Recipe) 茶叶蛋",
+            "description": "A super easy recipe showing you how to make delicious soft boiled (and hard boiled) marbled tea eggs that are bursting with flavor: https://omnivorescookbook.com/chinese-tea-eggs/\n\n⬇︎⬇︎⬇︎Click more to see ingredients ⬇︎⬇︎⬇︎\n\nINGREDIENTS\n\n12 large eggs\nMarinade \n4 tablespoons light soy sauce (or soy sauce)\n2 tablespoons dark soy sauce \n2 bay leaves\n1 teaspoon Sichuan peppercorns\n1 star anise\n1 small cinnamon stick\n2 teaspoons sugar\n1 teaspoon salt\n2 black tea bags (or 2 tablespoons black tea leaves)\n2 1/2 cups water\n\nCheck out more cooking notes at ➡︎ https://omnivorescookbook.com/chinese-tea-eggs/\n\nCOOKING EQUIPMENT & INGREDIENTS\n\nSichuan peppercorns: https://themalamarket.com/products/red-sichuan-pepper-hua-jiao?aff=2\nLight soy sauce: https://amzn.to/2QG8m1c\nDark soy sauce: https://amzn.to/2rZZeea\n\n***\nVisit my blog to get more delicious Chinese recipes!\nhttp://omnivorescookbook.com/\n***\n\n❤︎❤︎❤︎\nFollow Omnivore's Cookbook on\n\nPinterest: http://www.pinterest.com/OmnivorCookbook/\nInstagram: http://instagram.com/omnivorescookbook\nFacebook: http://www.facebook.com/omnivorescookbook\nTwitter: https://twitter.com/omnivorcookbook\n❤︎❤︎❤︎\n\nVIDEO EQUIPMENT\n\nCamera: https://amzn.to/2Q6QBb9\nLens: http://amzn.to/1UUFFai\nTripod: http://amzn.to/1K5Xi6s\nSoftware: Final Cut Pro\n\nMUSIC CREDIT\nhttps://artlist.io",
+            "uploadDate": "2020-02-09T16:00:10+00:00",
+            "duration": "PT1M51S",
+            "thumbnailUrl": "https://i.ytimg.com/vi/zFWMUx3vSQ4/hqdefault.jpg",
+            "embedUrl": "https://www.youtube.com/embed/zFWMUx3vSQ4?feature=oembed",
+            "contentUrl": "https://www.youtube.com/watch?v=zFWMUx3vSQ4",
+            "@type": "VideoObject"
+          },
+          "recipeYield": [
+            "12"
+          ],
+          "prepTime": "PT15M",
+          "cookTime": "PT15M",
+          "totalTime": "PT30M",
+          "recipeIngredient": [
+            "12  large eggs",
+            "4 tablespoons light soy sauce ((or soy sauce))",
+            "2 tablespoons dark soy sauce ((or soy sauce))",
+            "2  bay leaves",
+            "1 teaspoon Sichuan peppercorns",
+            "1  star anise",
+            "1  small cinnamon stick",
+            "2 teaspoons sugar",
+            "1 teaspoon salt",
+            "2  black tea bags ((or 2 tablespoons black tea leaves))",
+            "2 1/2 cups water"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Mix all the marinade ingredients in a small pot. Cook over medium heat until bringing to a boil. Turn to medium-low heat. Simmer for 10 minutes. Remove the pot from your stove and let cool completely. Once done, remove and discard the tea bags.",
+              "name": "Mix all the marinade ingredients in a small pot. Cook over medium heat until bringing to a boil. Turn to medium-low heat. Simmer for 10 minutes. Remove the pot from your stove and let cool completely. Once done, remove and discard the tea bags.",
+              "url": "https://omnivorescookbook.com/chinese-tea-eggs/#wprm-recipe-16700-step-0-0"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "To boil the eggs, heat a pot of water (enough to cover all the eggs) over high heat until boiling. Turn to low heat. Carefully place the eggs in the pot using a ladle, to prevent the eggs from cracking.",
+              "name": "To boil the eggs, heat a pot of water (enough to cover all the eggs) over high heat until boiling. Turn to low heat. Carefully place the eggs in the pot using a ladle, to prevent the eggs from cracking.",
+              "url": "https://omnivorescookbook.com/chinese-tea-eggs/#wprm-recipe-16700-step-0-1"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Boil 5 minutes for soft-boiled eggs, 7 minutes for medium eggs, or 10 minutes for hard-boiled eggs.",
+              "name": "Boil 5 minutes for soft-boiled eggs, 7 minutes for medium eggs, or 10 minutes for hard-boiled eggs.",
+              "url": "https://omnivorescookbook.com/chinese-tea-eggs/#wprm-recipe-16700-step-0-2"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "While cooking the eggs, prepare an ice bath by combining ice and tap water in a big bowl.",
+              "name": "While cooking the eggs, prepare an ice bath by combining ice and tap water in a big bowl.",
+              "url": "https://omnivorescookbook.com/chinese-tea-eggs/#wprm-recipe-16700-step-0-3"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Once the eggs are cooked, immediately transfer them to the ice bath to cool for 2 to 3 minutes. If you don’t have ice on hand, simply run cool tap water over the eggs for a couple minutes until they cool down.",
+              "name": "Once the eggs are cooked, immediately transfer them to the ice bath to cool for 2 to 3 minutes. If you don’t have ice on hand, simply run cool tap water over the eggs for a couple minutes until they cool down.",
+              "url": "https://omnivorescookbook.com/chinese-tea-eggs/#wprm-recipe-16700-step-0-4"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Gently crack the eggs using the back of a spoon. You want to make sure the egg shells are cracked enough so the marinade will reach the interior, without cracking the eggs apart (especially if you made soft boiled eggs). If you’re in a hurry, you can also peel the eggs and marinate them peeled. The eggs will be ready in 12 hours this way.",
+              "name": "Gently crack the eggs using the back of a spoon. You want to make sure the egg shells are cracked enough so the marinade will reach the interior, without cracking the eggs apart (especially if you made soft boiled eggs). If you’re in a hurry, you can also peel the eggs and marinate them peeled. The eggs will be ready in 12 hours this way.",
+              "url": "https://omnivorescookbook.com/chinese-tea-eggs/#wprm-recipe-16700-step-0-5"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Transfer the eggs to a quart-size ziplock bag, then carefully pour in the marinade along with the dry ingredients. Marinate overnight for peeled eggs, or 24 hours for cracked “marble” eggs.",
+              "name": "Transfer the eggs to a quart-size ziplock bag, then carefully pour in the marinade along with the dry ingredients. Marinate overnight for peeled eggs, or 24 hours for cracked “marble” eggs.",
+              "url": "https://omnivorescookbook.com/chinese-tea-eggs/#wprm-recipe-16700-step-0-6"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Peel the eggs and enjoy them cold or at room temperature!",
+              "name": "Peel the eggs and enjoy them cold or at room temperature!",
+              "url": "https://omnivorescookbook.com/chinese-tea-eggs/#wprm-recipe-16700-step-0-7"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "You can store the leftover eggs in the marinade for 4 to 5 days in the fridge. The marinade will help with preserving the eggs. Note, the eggs will become more flavorful and saltier over time.",
+              "name": "You can store the leftover eggs in the marinade for 4 to 5 days in the fridge. The marinade will help with preserving the eggs. Note, the eggs will become more flavorful and saltier over time.",
+              "url": "https://omnivorescookbook.com/chinese-tea-eggs/#wprm-recipe-16700-step-0-8"
+            }
+          ],
+          "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.91",
+            "ratingCount": "32",
+            "reviewCount": "5"
+          },
+          "review": [
+            {
+              "@type": "Review",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+              },
+              "reviewBody": "These were even better than the ones I got recently at a local Chinese restaurant. It's my new favorite way to prepare hard boiled eggs. I can't wait to use them to make Asian-inspired deviled eggs.",
+              "author": {
+                "@type": "Person",
+                "name": "Greg C."
+              },
+              "datePublished": "2024-07-23"
+            },
+            {
+              "@type": "Review",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+              },
+              "reviewBody": "I am currently marinating these eggs now, and I’m so excited to try them!! Is there a specific way to warm them before serving? Every time I’ve had them from food stands they have been served warm. Thanks in advance! (Also my husband and I love all your recipes I’ve tried so far!!!! Thank you thank you!!)",
+              "author": {
+                "@type": "Person",
+                "name": "Hannah"
+              },
+              "datePublished": "2024-06-01"
+            },
+            {
+              "@type": "Review",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "4"
+              },
+              "reviewBody": "I’m really keen to try this but is there a substitute for soy sauce you could suggest?",
+              "author": {
+                "@type": "Person",
+                "name": "Lester"
+              },
+              "datePublished": "2024-04-09"
+            },
+            {
+              "@type": "Review",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+              },
+              "reviewBody": "This is sooo good!!! I kept this recipe since I love boiled egg since a child. I'm so glad I finally got to this. After I started boiling water for eggs, I realized I did not have plain black tea tea bags. I used oolong but it was still really great. Thank you for the recipe!",
+              "author": {
+                "@type": "Person",
+                "name": "J-Mom"
+              },
+              "datePublished": "2024-03-12"
+            },
+            {
+              "@type": "Review",
+              "reviewRating": {
+                "@type": "Rating",
+                "ratingValue": "5"
+              },
+              "reviewBody": "I love You, I mean I love this recipe 😉",
+              "author": {
+                "@type": "Person",
+                "name": "Radek"
+              },
+              "datePublished": "2023-10-14"
+            }
+          ],
+          "recipeCategory": [
+            "Side"
+          ],
+          "recipeCuisine": [
+            "Chinese"
+          ],
+          "keywords": "street food",
+          "nutrition": {
+            "@type": "NutritionInformation",
+            "servingSize": "1 serving",
+            "calories": "72 kcal",
+            "carbohydrateContent": "0.4 g",
+            "proteinContent": "6.3 g",
+            "fatContent": "5 g",
+            "saturatedFatContent": "1.6 g",
+            "cholesterolContent": "186 mg",
+            "sodiumContent": "70 mg",
+            "sugarContent": "0.4 g"
+          },
+          "@id": "https://omnivorescookbook.com/chinese-tea-eggs/#recipe",
+          "isPartOf": {
+            "@id": "https://omnivorescookbook.com/chinese-tea-eggs/#article"
+          },
+          "mainEntityOfPage": "https://omnivorescookbook.com/chinese-tea-eggs/"
+        }
+      ]
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:37:17.972Z",
+  "scraping_status": "scraped"
+}

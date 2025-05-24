@@ -1,0 +1,552 @@
+{
+  "id": "4843260f235274e7",
+  "original_url": "https://cooking.nytimes.com/recipes/1013115-spanish-style-lamb-stew",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1013115-spanish-style-lamb-stew",
+  "fetched_title": "Spanish-Style Lamb Stew Recipe",
+  "main_text_content": "John Willoughby fell in love with pimentón, a smoky Spanish paprika, after a trip to La Vera, a region west of Madrid, first encountering it in a lamb stew “The stew, rich with the slight gaminess of lamb, the tang of sherry and the smooth comfort of white beans, was brought to greatness by the subtle heat and almost mysterious smokiness of the pimentón,” he wrote He drew inspiration from the stew, making his own version at home and bringing this recipe to The Times in 2010.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/12300-lamb-and-white-bean-chili\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2012/02/15/dining/15APPE_SPAN/15APPE_SPAN-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2012/02/15/dining/15APPE_SPAN/15APPE_SPAN-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2012/02/15/dining/15APPE_SPAN/15APPE_SPAN-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2012/02/15/dining/15APPE_SPAN/15APPE_SPAN-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2012/02/15/dining/15APPE_SPAN/15APPE_SPAN-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2012/02/15/dining/15APPE_SPAN/15APPE_SPAN-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Lamb and White Bean Chili</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2014/04/01/dining/spanish-style-lamb-stew/spanish-style-lamb-stew-superJumbo.jpg",
+  "local_image_path": "scraped/4843260f235274e7/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/61917793-a8e3-5c9b-afd6-de75460aad85",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1013115-spanish-style-lamb-stew",
+        "@type": "WebPage",
+        "name": "Spanish-Style Lamb Stew"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1013115-spanish-style-lamb-stew",
+      "name": "Spanish-Style Lamb Stew",
+      "description": "John Willoughby fell in love with pimentón, a smoky Spanish paprika, after a trip to La Vera, a region west of Madrid, first encountering it in a lamb stew.\n\n“The stew, rich with the slight gaminess of lamb, the tang of sherry and the smooth comfort of white beans, was brought to greatness by the subtle heat and almost mysterious smokiness of the pimentón,” he wrote.\n\nHe drew inspiration from the stew, making his own version at home and bringing this recipe to The Times in 2010.",
+      "author": {
+        "@type": "Person",
+        "name": "John Willoughby"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/ddb8351f-779c-5319-987c-c89e999f6510#videoSixteenByNine1050",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2014/04/01/dining/spanish-style-lamb-stew/spanish-style-lamb-stew-videoSixteenByNine1050.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2024-09-19T21:56:50.098Z",
+          "datePublished": "2014-04-01T21:17:11.000Z",
+          "height": "591",
+          "representativeOfPage": true,
+          "uploadDate": "2014-04-01T21:17:11.000Z",
+          "url": "https://static01.nyt.com/images/2014/04/01/dining/spanish-style-lamb-stew/spanish-style-lamb-stew-videoSixteenByNine1050.jpg",
+          "width": "1050"
+        },
+        {
+          "@id": "nyt://image/ddb8351f-779c-5319-987c-c89e999f6510#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2014/04/01/dining/spanish-style-lamb-stew/spanish-style-lamb-stew-googleFourByThree-v2.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2024-09-19T21:56:50.098Z",
+          "datePublished": "2014-04-01T21:17:11.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2014-04-01T21:17:11.000Z",
+          "url": "https://static01.nyt.com/images/2014/04/01/dining/spanish-style-lamb-stew/spanish-style-lamb-stew-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/ddb8351f-779c-5319-987c-c89e999f6510#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2014/04/01/dining/spanish-style-lamb-stew/spanish-style-lamb-stew-square640.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2024-09-19T21:56:50.098Z",
+          "datePublished": "2014-04-01T21:17:11.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2014-04-01T21:17:11.000Z",
+          "url": "https://static01.nyt.com/images/2014/04/01/dining/spanish-style-lamb-stew/spanish-style-lamb-stew-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT2H30M",
+      "recipeYield": "6 servings",
+      "recipeCuisine": "spanish",
+      "recipeCategory": "dinner, easy, one pot, main course",
+      "keywords": "gluten-free, lamb",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 1218
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 951,
+        "unsaturatedFatContent": "33 grams",
+        "carbohydrateContent": "41 grams",
+        "cholesterolContent": null,
+        "fatContent": "63 grams",
+        "fiberContent": "14 grams",
+        "proteinContent": "51 grams",
+        "saturatedFatContent": "25 grams",
+        "sodiumContent": "1585 milligrams",
+        "sugarContent": "8 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 tablespoons olive oil",
+        "3 pounds boneless lamb stew meat (preferably shoulder), cut into 1 1/2-inch chunks",
+        "Salt",
+        "pepper",
+        "2 medium onions, chopped",
+        "1 large red bell pepper, stemmed, seeded and chopped",
+        "4 garlic cloves, minced",
+        "1 tablespoon pimentón de la Vera, preferably picante or agridulce",
+        "1 28-ounce can whole peeled tomatoes, with their juice",
+        "3/4 cup red wine, preferably Rioja",
+        "3 cups chicken stock",
+        "2 tablespoons sherry vinegar or red wine vinegar",
+        "3 bay leaves",
+        "3 cups cooked white beans, rinsed and drained if canned",
+        "1/4 cup chopped fresh parsley"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Warm oil in a large heavy-bottom pot with a lid or Dutch oven over medium-high heat. When oil is hot, sprinkle lamb generously with salt and pepper and cook in batches to avoid overcrowding, turning once or twice, until each piece is well browned all over, about 15 minutes total. Transfer pieces to a plate as they brown."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour off all but 2 tablespoons of fat and add onions, bell pepper, garlic and a generous sprinkle of salt and pepper. Cook, stirring occasionally, until onions and peppers are softened, about 5 minutes. Add pimentón and stir for a minute. Stir in tomatoes, breaking them into bite-size pieces and scraping browned bits from the pot. Add wine, chicken stock, vinegar and bay leaves and bring just to a boil."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Return lamb to pot and reduce heat so mixture is bubbling very gently. Partly cover pot and cook, stirring every 20 minutes or so, until lamb is very tender, about 2 hours. Discard bay leaves. Stir in beans and cook another 10 minutes to heat them through. Stir in parsley and adjust the seasoning if necessary."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PLB"
+          },
+          "reviewBody": "Made this a few days ago: the best lamb I've ever tasted! Used 1 TBL “La Dallia” (picante) pimentón de la Vera (Amazon) which took 3 days to settle into the stew, but when it did it was absolutely spectacular! Two pounds of lamb shoulder (with bones--fished them out at the end) was perfect proportion with the Cannellini beans. Thank you Chef Willoughby for this gift!",
+          "datePublished": "2025-04-22T20:54:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bernice"
+          },
+          "reviewBody": "This was fairly easy to make and following the lead of others, I added small potatoes about 45 minutes to the end.  I did not find the flavors particularly interesting or complex.  It felt like a tomatoey soup with lamb, beans and potatoes that had the hint of paprika but mainly just a salt/pepper flavor.  It was not bad but to me, not interesting at all.",
+          "datePublished": "2025-04-20T22:24:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrew"
+          },
+          "reviewBody": "Really easy and tasty dish. The pimenton is super important and adds some smoky heat. Would definitely make again.",
+          "datePublished": "2025-04-17T10:58:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeff Curran"
+          },
+          "reviewBody": "do you completely cover the pot when you do this? @Bill Owens",
+          "datePublished": "2025-04-15T23:36:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deb T."
+          },
+          "reviewBody": "Made as written and thought it was kind of bland.  I agree with others; one could cut back on the chicken broth.  I upped the salt, vinegar and added a bit of piment d'espelette and it really was delicious after these tweaks.",
+          "datePublished": "2025-03-01T01:06:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BayCook"
+          },
+          "reviewBody": "I made some changes (I usually do) based on what I had in the house. Browned some sliced Spanish chorizo with the lamb. Added some small yellow potatoes and used 2 cans of Great Northern beans. I only had one 14 oz can of tomatoes, so I added a large blob of concentrated tomato paste. Tossed the meat with a bit of flour before browning. And I was out of parsley. Next time I'll thicken the sauce more and add parsley, but otherwise we loved it!",
+          "datePublished": "2025-02-06T02:22:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "Amazing dish.  We used the Frontier CO-OP smoked paprika (oak wood smoked) and it turned out amazing.  For the vinegar we used a Balsamic Cream from Spanish Sherry Vinegar.",
+          "datePublished": "2025-01-27T22:09:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathleen M."
+          },
+          "reviewBody": "I clipped this recipe out of a paper copy of the NYT around 15 years ago. I have always used wine and usually beans. Last night, I used shoulder chops with 2 bones, browned with no flour, and added no wine. An easy way, though fat which was skimmed off. I added three times the peppers but a mix of colors. This is a flexible recipe which we love and can be used for multiple meals.",
+          "datePublished": "2025-01-17T21:29:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol Friends"
+          },
+          "reviewBody": "This is the best slowed cooked lamb recipe I have found. The wonderful flavors lingered in my mouth. I checked the meat every 20 minutes and it was tender and still moist in about 1 1/2 hours.",
+          "datePublished": "2025-01-10T04:14:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robyn"
+          },
+          "reviewBody": "If you are cooking just for yourself or the family tonight and want to make this FAST AND EASY - just throw all the ingredients into a pressure cooker and turn on the stove and voila.  I stayed mostly true to the recipe, changing only what I couldn’t easily find in the store today: I used two lamb shanks (2.25 lbs with bone), 20 oz of fresh tomatoes coz that’s what I had in the house and substituted a mixture of achiote pepper, cayenne and regular ol’ paprika for that Spanish pimenton because even Whole Foods didn’t have that.  I used about a cup and a half of inexpensive red wine and probably only a cup of chicken broth because that’s all I had.  Never put the beans in coz I forgot.  Came out gloriously and so fast and easy (40 mins in the pressure cooker). Save yourself all the trouble of browning the meat and all the rest and just enjoy!",
+          "datePublished": "2024-12-25T03:57:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vicki"
+          },
+          "reviewBody": "Less Fluid: 11/2 c chicken stock, Less spicy/hot:  I tbsp smoked dulce paprika, and a pinch of the picante. Add vegetables:  Small yukon gold potatoes, carrots in 1\"chunks, added in final hour, snap peas in final 10-20 min. Used 2, 18 oz cans of white beans added at the end. For the meat, my butcher only had lamb stew made from leg of lamb. it was good, but next time (and there Will be a next time) I will use lamb shoulder. A Keeper & Repeater!",
+          "datePublished": "2024-10-24T03:33:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "e. f."
+          },
+          "reviewBody": "A very good fall/winter stew. Made as written with the exception of only adding 2 cups of chicken broth and cooked in the oven for 3 hours at 300 after browning the lamb on the stovetop, I agree with the commenter that added the lemon juice at the end, it did elevate the flavors.",
+          "datePublished": "2024-10-18T14:36:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gael"
+          },
+          "reviewBody": "The juice from half of a lemon at the end really elevated this.",
+          "datePublished": "2024-10-15T02:43:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Phenomenal for either family or company!"
+          },
+          "reviewBody": "This lamb stew is a new favorite! Be sure to take your time, however, and let it fill your home with the most intoxicating aromas.  I took the recommendations of others here and used some potatoes in the drawer instead of beans.  I also let it go low and slow in the oven at 300F for a couple of hours.  Then I baked a cake and put it back in the oven at 200F for a few more hours. Moreover, after browning the lamb and veggies, I put the stew in a large tagine.  I think that made it extra moist and tender.  I also agree that a good quality hot paprika is key for this recipe.",
+          "datePublished": "2024-09-21T12:24:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tamara"
+          },
+          "reviewBody": "Made it as is with white rice except substituted 1/2 balsamic and 1/2 white vinegar for the red wine vinegar. It was delicious \n\nI would only add a bit of lemon at the end to round up the flavor.",
+          "datePublished": "2024-06-18T12:36:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill Owens"
+          },
+          "reviewBody": "Like all dishes of this type, if you cook in the oven instead of on the top of the stove, everything will be more tender and delicious.  2 hours in the oven at 350 = 2 hours on top.  Good for osso buco, any other meat cooked in a dutch oven.",
+          "datePublished": "2017-10-24T22:46:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suzanne M"
+          },
+          "reviewBody": "Made with 2 lb of lamb, and added about a half pound each of carrots and potatoes about 45 minutes before the end of cooking.  Delicious!",
+          "datePublished": "2017-10-30T14:35:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate"
+          },
+          "reviewBody": "My Asturian partner was over the moon with this one. I made this numerous times over the winter, using pimenton de la vera picante and--when the Park Slope Coop had them--real Spanish fabada beans (soaked overnight and precooked), to great accolades. This great stew really lends itself to a long simmer in a slow cooker, until you want to add the beans and eat.",
+          "datePublished": "2017-10-30T13:22:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "tdalec"
+          },
+          "reviewBody": "Very tasty and got good reviews. Were I to make this again, I would use half again more tomato and beans and half as much lamb. As much for ratio of meat to veggies as for economy.",
+          "datePublished": "2017-10-30T14:36:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kary"
+          },
+          "reviewBody": "Recommend pimenton picante... The hot one.  Parsley is important and a flavor, not a garnish.  Double garlic.  Sherry vinegar important flavor.  Can leave beans out or lessen amount.  We serve over boiled paella rice.  Often.  It's a marvelous, very Spanish dish.",
+          "datePublished": "2017-10-30T15:22:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lori"
+          },
+          "reviewBody": "I braised my stew in a 250° oven for the suggested 2 hours instead of on the stovetop and my lamb came out meltingly tender. I also threw in a bunch of sugar snap peas along with the parsley -- at the very end, after taking it off the heat -- so that by serving time the peas were bright green and still firm to the bite. Perfect counterpart to the richness of what is really more a soup than a stew. Delicious!",
+          "datePublished": "2017-10-24T18:08:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tony"
+          },
+          "reviewBody": "Made twice now, almost exactly as written except instead of adding cooked beans at the end, I added soaked dried beans an hour into the braising.  They needed an another hour and 20 min. in a 330-degree oven to cook to the right consistency, by which point the lamb was falling apart as it should.  The results were delicious both times.  Highly recommended.",
+          "datePublished": "2019-01-05T20:54:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kevin Osinski"
+          },
+          "reviewBody": "Nice combination of flavors. Used 4 lb of bone-in shoulder chops. Made a more elegant presentation but might increase to 5 lb next time. Also reduce stock to 2 cups.  Too much liquid.",
+          "datePublished": "2017-10-30T15:27:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ali"
+          },
+          "reviewBody": "I liked this dish a lot. I used less lamb only 2lbs and it was plenty. I also increased the amount of beans, which was fine to do. I think next time I may try potatoes instead of beans. I think the potatoes will work well in this dish.",
+          "datePublished": "2017-10-30T15:20:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rick Teller"
+          },
+          "reviewBody": "Made as directed, except followed suggestion to cook 2 hours in 350 degree oven instead of on stovetop.  Removed Dutch oven lid for last half hour to reduce sauce a little.  Many layers of flavor.  Incidentally, the sherry vinegar is distinctive; I would not substitute red wine vinegar.",
+          "datePublished": "2021-04-12T03:22:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kary"
+          },
+          "reviewBody": "I have made this many times now, and I need to say that \"pimenton picante\" (hot Spanish paprika) is essential to this dish.   And....we are always astonished by how much better it is 2 or 3 days later.  We serve it over rice with good \"peasant\" bread for soaking up the sauce.",
+          "datePublished": "2019-03-12T20:26:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patti"
+          },
+          "reviewBody": "I used lamb stew meat with bones and cooked it an additional hour.  The meat was fork-tender, pulled off of the bones and back into the pot.  Then, left in the fridge for two days, spooned off the congealed fat at the top and then added the beans and parsley.  I substituted red wine vinegar for the sherry vinegar as suggested, which I think was a mistake.  I'm thinking it really needed that sherry taste.  Otherwise, a big hit and I'll be making it again and will buy the sherry vinegar.",
+          "datePublished": "2018-03-11T04:05:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "igiinthesky"
+          },
+          "reviewBody": "SO good. I made this exactly as per recipe (just a bit less lamb and a bit more beans) and it turned out delicious. I served it the way we serve stews in northern Italy - with polenta to soak up the juices. It makes a great combination, I recommend to everyone - instant polenta would do.",
+          "datePublished": "2020-11-22T13:59:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "improvisatrice"
+          },
+          "reviewBody": "I shook the lamb pieces before browning with a little flour to coat, and the sauce had a lovely silky texture. Also only had sweet smoked paprika, so added a quarter teaspoon cayenne to liven it up.",
+          "datePublished": "2021-12-04T19:06:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lauren"
+          },
+          "reviewBody": "Husband thought vinegar too strong but he's sensitive to that.  To make it more of a stew, I might thicken the broth with a bit of cornstarch at end.  Our lamb wasn't very fat so I only cooked it about 1 1/4 hours so as not to cause the lamb to be too dry.  It's LOTS of lamb and I think would feed 8 people.",
+          "datePublished": "2017-10-30T15:01:20.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2010
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1013115-spanish-style-lamb-stew",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "John Willoughby"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2010,
+      "description": "John Willoughby fell in love with pimentón, a smoky Spanish paprika, after a trip to La Vera, a region west of Madrid, first encountering it in a lamb stew.\n\n“The stew, rich with the slight gaminess of lamb, the tang of sherry and the smooth comfort of white beans, was brought to greatness by the subtle heat and almost mysterious smokiness of the pimentón,” he wrote.\n\nHe drew inspiration from the stew, making his own version at home and bringing this recipe to The Times in 2010.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Spanish-Style Lamb Stew",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/ddb8351f-779c-5319-987c-c89e999f6510#videoSixteenByNine1050",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2014/04/01/dining/spanish-style-lamb-stew/spanish-style-lamb-stew-videoSixteenByNine1050.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2024-09-19T21:56:50.098Z",
+          "datePublished": "2014-04-01T21:17:11.000Z",
+          "height": "591",
+          "representativeOfPage": true,
+          "uploadDate": "2014-04-01T21:17:11.000Z",
+          "url": "https://static01.nyt.com/images/2014/04/01/dining/spanish-style-lamb-stew/spanish-style-lamb-stew-videoSixteenByNine1050.jpg",
+          "width": "1050"
+        },
+        {
+          "@id": "nyt://image/ddb8351f-779c-5319-987c-c89e999f6510#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2014/04/01/dining/spanish-style-lamb-stew/spanish-style-lamb-stew-googleFourByThree-v2.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2024-09-19T21:56:50.098Z",
+          "datePublished": "2014-04-01T21:17:11.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2014-04-01T21:17:11.000Z",
+          "url": "https://static01.nyt.com/images/2014/04/01/dining/spanish-style-lamb-stew/spanish-style-lamb-stew-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/ddb8351f-779c-5319-987c-c89e999f6510#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2014/04/01/dining/spanish-style-lamb-stew/spanish-style-lamb-stew-square640.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2024-09-19T21:56:50.098Z",
+          "datePublished": "2014-04-01T21:17:11.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2014-04-01T21:17:11.000Z",
+          "url": "https://static01.nyt.com/images/2014/04/01/dining/spanish-style-lamb-stew/spanish-style-lamb-stew-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1013115-spanish-style-lamb-stew"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:07:15.677Z",
+  "scraping_status": "scraped"
+}

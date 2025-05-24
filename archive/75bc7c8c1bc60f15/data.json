@@ -1,0 +1,570 @@
+{
+  "id": "75bc7c8c1bc60f15",
+  "original_url": "https://cooking.nytimes.com/recipes/1021789-fried-tagliatelle-with-chickpeas-and-smoky-tomatoes",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021789-fried-tagliatelle-with-chickpeas-and-smoky-tomatoes",
+  "fetched_title": "Fried Tagliatelle With Chickpeas and Smoky Tomatoes Recipe",
+  "main_text_content": "Two pantry staples, chickpeas and pasta, come together to give you this hearty vegan main (Do check the ingredient list on the packaging for your tagliatelle, as some may contain egg.) Frying the pasta nests before cooking them provides plenty of texture, even as the pasta softens and releases its starches into the chickpeas and their cooking water Feel free to play around with the smoky tomato oil, adding different chiles or spices, such as cumin or coriander seeds",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1020529-creamy-chickpea-pasta-with-spinach-and-rosemary\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-blogSmallInline-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-videoSixteenByNine310-v3.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Creamy Chickpea Pasta With Spinach and Rosemary</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Alexa Weibel</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/01/20/dining/15Ottorex/merlin_182197905_4db9d7d3-8862-462c-8bd0-234f46ffde90-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/75bc7c8c1bc60f15/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/f5b819bf-b986-5228-8a1c-369392893b98",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021789-fried-tagliatelle-with-chickpeas-and-smoky-tomatoes",
+        "@type": "WebPage",
+        "name": "Fried Tagliatelle With Chickpeas and Smoky Tomatoes"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021789-fried-tagliatelle-with-chickpeas-and-smoky-tomatoes",
+      "name": "Fried Tagliatelle With Chickpeas and Smoky Tomatoes",
+      "description": "Two pantry staples, chickpeas and pasta, come together to give you this hearty vegan main. (Do check the ingredient list on the packaging for your tagliatelle, as some may contain egg.) Frying the pasta nests before cooking them provides plenty of texture, even as the pasta softens and releases its starches into the chickpeas and their cooking water. Feel free to play around with the smoky tomato oil, adding different chiles or spices, such as cumin or coriander seeds. And be sure to start the night before by soaking your chickpeas. However, if you’re running low on time, you can also use two drained 14-ounce cans of chickpeas, adjusting liquid levels as necessary.",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/f050491c-0a4d-5b47-8bb4-867fc5835ce5#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/01/20/dining/15Ottorex/merlin_182197905_4db9d7d3-8862-462c-8bd0-234f46ffde90-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2021-01-15T15:41:21.869Z",
+          "datePublished": "2021-01-15T15:41:21.869Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-01-15T15:41:21.869Z",
+          "url": "https://static01.nyt.com/images/2021/01/20/dining/15Ottorex/merlin_182197905_4db9d7d3-8862-462c-8bd0-234f46ffde90-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/f050491c-0a4d-5b47-8bb4-867fc5835ce5#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/01/20/dining/15Ottorex/merlin_182197905_4db9d7d3-8862-462c-8bd0-234f46ffde90-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2021-01-15T15:41:21.869Z",
+          "datePublished": "2021-01-15T15:41:21.869Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-01-15T15:41:21.869Z",
+          "url": "https://static01.nyt.com/images/2021/01/20/dining/15Ottorex/merlin_182197905_4db9d7d3-8862-462c-8bd0-234f46ffde90-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/f050491c-0a4d-5b47-8bb4-867fc5835ce5#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/01/20/dining/15Ottorex/merlin_182197905_4db9d7d3-8862-462c-8bd0-234f46ffde90-mediumSquareAt3X.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2021-01-15T15:41:21.869Z",
+          "datePublished": "2021-01-15T15:41:21.869Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-01-15T15:41:21.869Z",
+          "url": "https://static01.nyt.com/images/2021/01/20/dining/15Ottorex/merlin_182197905_4db9d7d3-8862-462c-8bd0-234f46ffde90-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT9H",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, beans, pastas, main course",
+      "keywords": "cherry tomato, chickpea, chipotle, olive oil, tagliatelle, tomato, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 1793
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 650,
+        "unsaturatedFatContent": "31 grams",
+        "carbohydrateContent": "65 grams",
+        "cholesterolContent": null,
+        "fatContent": "38 grams",
+        "fiberContent": "10 grams",
+        "proteinContent": "16 grams",
+        "saturatedFatContent": "5 grams",
+        "sodiumContent": "445 milligrams",
+        "sugarContent": "10 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "8 ounces/250 grams datterini or cherry tomatoes",
+        "1/2 cup/120 milliliters olive oil",
+        "1 tablespoon tomato paste",
+        "2 1/2 teaspoons chipotle chile flakes",
+        "1 1/2 teaspoons sweet paprika",
+        "1/2 teaspoon kosher salt",
+        "2 tablespoons olive oil",
+        "8 dried tagliatelle nests",
+        "1 cup/200 grams dried chickpeas, soaked 8 to 24 hours in plenty of cold water with 1/2 teaspoon baking soda (bicarbonate of soda)",
+        "1/2 teaspoon baking soda (bicarbonate of soda)",
+        "2 garlic cloves, minced",
+        "2 lemons, 1 halved and the other cut into 4 wedges",
+        "1 tablespoon roughly chopped fresh parsley"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the smoky tomato oil: Place a medium sauté pan over high heat. Once hot, add the tomatoes and cook for 4 minutes, shaking the pan as needed, until tomatoes are charred on the outside but still retaining their shape. Remove the pan from the heat and set aside to cool for 5 minutes. Stir in everything else and return to medium-low heat. Cook for 15 minutes, stirring occasionally as it bubbles very gently. Remove from the heat and set aside to infuse."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the pasta: While the tomato oil infuses, add the 2 tablespoons olive oil to a large, high-sided sauté pan and heat over medium-high. Once hot, add the tagliatelle nests and cook for 1 1/2 to 2 minutes on each side, or until nicely golden. (Don’t worry if you don’t get color on the sides.) Set the toasted tagliatelle nests aside and rinse out the pan."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Drain the soaked chickpeas and add them to the same pan along with 4 1/4 cups/1 liter water and 1/2 teaspoon baking soda (bicarbonate of soda). Return the pan to medium-high heat and bring to the boil, skimming the scum as needed. Turn the heat to medium-low, cover with a lid and cook for 10 to 15 minutes. Add 1 1/2 teaspoons salt and test the chickpeas at this point. They should be soft but still retain their shape. Turn the heat to medium-high and bring to a simmer."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Stir in the garlic, then nestle in the fried tagliatelle nests. Replace the lid and cook, undisturbed, until pasta is tender and most of the liquid has been absorbed, about 5 to 10 minutes, or according to package directions. Remove the lid and, without stirring, squeeze over the juice from the lemon halves."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Spoon the smoky tomato oil on top, sprinkle with the parsley and serve directly from the pan. Serve with the extra lemon wedges to squeeze on top to taste."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-01-20T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Salserina"
+          },
+          "reviewBody": "This recipe is amazing!  I, too, was skeptical about the chickpeas actually cooking in such a short time, but as @Ekk wrote, \"trust the recipe.\"  Through some cooking alchemy, it all works!  I have made it several times for impressed guests.",
+          "datePublished": "2025-01-23T00:44:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Audrey Nickel"
+          },
+          "reviewBody": "Yes, the chickpeas do get tender! (I was concerned too, but as someone else said below, trust the recipe). The baking soda is the magic ingredient. Also be prepared to lower the heat and cook just a little bit longer than advised after you add the pasta, to make sure it gets tender without absorbing all the sauce (It will be a little chewy where it's fried, but that's part of the charm). Really delicious!",
+          "datePublished": "2024-03-25T02:01:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jaylbyrd"
+          },
+          "reviewBody": "Having made this twice, here are my tips/preferences: 1) ~9 oz pasta (gluten-free works fine), 2) 1/4tsp chipotle powder rather than flakes, 3) 1/3c oil rather than 1/2, 5) veggie stock rather than water, 5) dried rather than canned chickpeas for more bite (if you use canned, 3.5c liquid is enough).",
+          "datePublished": "2023-03-07T13:20:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "The flavor profile is great but not sure tagliatelle nests are the right choice.  I had trouble nesting them deep in the fluid, and they ended up in an odd state of noodle rigor mortis that was difficult to eat without splashing sauce all over my face.  \n\nNext time, I will try frying about 1/3 lb rotini and STIRRING this into the chickpea mixture to burble along at a deeper level.",
+          "datePublished": "2023-02-22T00:54:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David"
+          },
+          "reviewBody": "I've made this so many times it's become muscle memory. But today, what? No tomato paste?? Hmm. I've got this tube of Gochujang paste. Boom. Another depth of richness. New muscles taking over...",
+          "datePublished": "2023-01-28T00:10:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Audrey Nickel"
+          },
+          "reviewBody": "I can buy chipotle chili flakes at Safeway here in Northern California. Also known as crushed chipotle pepper.",
+          "datePublished": "2024-03-25T02:05:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hamish"
+          },
+          "reviewBody": "Delicious dish, but two changes would make this clearer and easier for most of us:\n\n1. Despite traveling to nearly every state in Mexico, I've never seen or heard of \"chipotle chili flakes\" - must be a UK thing?  Substitute 2 teaspoons of chipotle powder, more if you want more heat and smoke.\n\n2. Canned garbanzos are infinitely easier and faster, and with all those other powerful flavors, they're all about the texture anyway - but then knowing how much water or stock to add becomes tricky.",
+          "datePublished": "2022-11-11T16:14:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AnneH"
+          },
+          "reviewBody": "Pretty plain. I used 1 tsp ground chipotle plus 1/2 tsp ancho. Was slightly too hot for my friend.",
+          "datePublished": "2022-10-27T01:39:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Myra"
+          },
+          "reviewBody": "I love Ottolenghi.   His are brilliant and always delicious, but this was odd.  All the pieces of the recipe turned out very well, but after putting it all together, it ended up as mush. The chickpeas did not appear to be overcooked, but after cooking the pasta, waiting for the all water to absorb, it ultimately became too mushy when it was all done.  The flavors were good but the final product was far less than I expected - especially from the always incredible Ottolenghi.",
+          "datePublished": "2022-10-22T01:30:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SarahT"
+          },
+          "reviewBody": "I have made this multiple times. I use canned chickpeas. It's fine. Also, I don't see the point of frying the pasta. So, the tomato oil per the recipe, add the garlic and chickpeas towards the end. Boil pasta and add to the tomato/chickpea mixture. Yum. Tonight, because I needed to use it up, I added fresh spinach to the  tomato/chickpea mix. Really good and adds a bit of healthy! This is a great and flexible recipe!",
+          "datePublished": "2022-09-22T00:57:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rob"
+          },
+          "reviewBody": "Pretty good. Don't cook pasta for more than 10 min (too much water evaporates); Liliana suggests not frying the nests, which seems fine.\n\nVery hearty.",
+          "datePublished": "2022-07-27T23:13:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne"
+          },
+          "reviewBody": "this also works with regular pasta shapes like penne. canned chickpeas work fine too, just maybe cook them a little less. use fresh lemon juice and even add a little zest",
+          "datePublished": "2022-07-25T17:27:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SFBAYGIRL"
+          },
+          "reviewBody": "Amazing vegan recipe.  This will wow your crowd. I used canned chickpeas and only 3 cups water to cook. Also doubled the sauce and the ratio was perfect.  Easy and quick to make after the first run through so a good weeknight dinner.",
+          "datePublished": "2022-07-25T01:57:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "R C"
+          },
+          "reviewBody": "I made this with canned chick peas. The tagliatelli nests didn't cook. I'm thinking I messed up on the liquid.",
+          "datePublished": "2022-07-17T00:10:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SKB"
+          },
+          "reviewBody": "Followed the recipe, the nests were raw and inedible. Cooking longer to try to soften the pasta made the chickpeas mush. Might try again with the sauce spooned over the properly cooked pasta.",
+          "datePublished": "2022-06-06T17:18:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stephanie in California"
+          },
+          "reviewBody": "A lot of questions about the water, making me think few people cook dried beans regularly. All you need to do is make sure there’s enough H2O to cover the beans. I usually bring the water line approximately 1-2 centimeters above the top of the beans as they will absorb it. Of course, be sure to drain once they’ve softened.",
+          "datePublished": "2022-04-24T19:40:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janis Richter"
+          },
+          "reviewBody": "I oven roast surplus eating tomatoes from our garden every summer, freezing them for winter use. This summer I poured the oil from the pan (infused with tomato juice and salt from the roasting) into freezer containers. I have been using this salty, tomato-flavored liquid to add a zing of flavor to sauces, stews and soups. An easy way to have tomato oil handy all year.",
+          "datePublished": "2021-01-17T13:12:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JMF"
+          },
+          "reviewBody": "Just made it with canned chickpeas and it was delicious (skipped the soaking step, obviously)!",
+          "datePublished": "2021-01-17T07:43:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul"
+          },
+          "reviewBody": "Added fresh thyme, rosemary and some spare anchovies to the oil. Turned out really great.",
+          "datePublished": "2021-01-16T20:19:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Silke"
+          },
+          "reviewBody": "How about using fresh pasta? Would you dry it before frying?",
+          "datePublished": "2021-01-17T01:09:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mimi"
+          },
+          "reviewBody": "how do you adjust the liquid / baking soda when using canned chickpeas?",
+          "datePublished": "2021-01-23T15:31:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DW99"
+          },
+          "reviewBody": "According to an article from Food52, which quotes a place called the Bean Institute (!), adding baking soda to the cooking water cuts the cooking time by about half; the person who wrote the Food52 article surmised that adding it to the soaking water *further* cut the cook time.\n\nAs someone who cooks dried beans about 1x/week, I too am skeptical that beans will cook in so short a time -- but Mr. Ottolenghi knows his stuff, so I'm gonna try it his way.",
+          "datePublished": "2021-01-19T23:10:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DW99"
+          },
+          "reviewBody": "You buy them in nest form.  My not-fancy supermarket sells two -- angel-hair nests and fettucine nests -- from Colavita, for $3.29/lb; I'm guessing that most supermarkets sell some. \n\nI'm on a tight budget -- can't spend that much on pasta -- so I'm going to try it with loose penne and see how that goes. Worst-case scenario will be penne cooked in the regular way with a delicious sauce.",
+          "datePublished": "2021-01-19T22:59:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ekk"
+          },
+          "reviewBody": "This was amazing! Trust the recipe. At multiple points, I didn’t think the recipe would work. The sauce seemed separated and almost grainy until it infused together, I didn’t believe the chickpeas would be soft (they were), and because the nests weren’t fully submerged in the liquid, I thought I would have half al dente, half crunchy pasta, which was not the case! So delightful.",
+          "datePublished": "2021-01-22T02:11:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AB"
+          },
+          "reviewBody": "How much water did you add in Step 3?",
+          "datePublished": "2021-01-17T15:29:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susantg"
+          },
+          "reviewBody": "How can dried, soaked chickpeas be done in 25 minutes? They usually take a full hour, at least, to cook?",
+          "datePublished": "2021-01-17T19:52:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JMF"
+          },
+          "reviewBody": "Used one dehydrated chipotle pepper chopped. Topped it off with 1/2  lemon worth of juice.",
+          "datePublished": "2021-01-17T07:45:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Neil and Laura"
+          },
+          "reviewBody": "Delicious and a big hit! I made this mostly as written but with canned chickpeas because I was out of dried. Like some others, I was at a loss about the amount of water. I measured out the liter, started by using half but ended up using most of it in order to get the pasta to soften. I used my standard red pepper flakes and I found it a little too spicy. I will scale back a smidge next time. Which will be soon as my Colavita fettuccine nests available from basic supermarket come in a large bag.",
+          "datePublished": "2021-01-21T00:46:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pen M."
+          },
+          "reviewBody": "Sounds great! Is it possible to cook this with canned chickpeas? Or do the dried offer better flavor?",
+          "datePublished": "2021-01-16T16:08:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "nikkileeks"
+          },
+          "reviewBody": "Ottolenghi is a stickler for the dried because they are better really but in a pinch the canned ones left out drained overnight will work just fine too....",
+          "datePublished": "2021-01-17T01:09:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lane"
+          },
+          "reviewBody": "In keeping with the spirit of this recipe, I made a lot of substitutions to use what was in my pantry. I used a can of diced tomatoes instead of cherry tomatoes, loose rotini instead of tagliatelle, dried parsley instead of fresh, chili powder instead of chipotle flakes,  and I added oregano. It came out amazing. If anyone wants to use loose pasta instead of nested, just keep a close eye and stir frequently so they don't burn.",
+          "datePublished": "2021-01-21T02:43:01.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021789-fried-tagliatelle-with-chickpeas-and-smoky-tomatoes",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "Two pantry staples, chickpeas and pasta, come together to give you this hearty vegan main. (Do check the ingredient list on the packaging for your tagliatelle, as some may contain egg.) Frying the pasta nests before cooking them provides plenty of texture, even as the pasta softens and releases its starches into the chickpeas and their cooking water. Feel free to play around with the smoky tomato oil, adding different chiles or spices, such as cumin or coriander seeds. And be sure to start the night before by soaking your chickpeas. However, if you’re running low on time, you can also use two drained 14-ounce cans of chickpeas, adjusting liquid levels as necessary.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Fried Tagliatelle With Chickpeas and Smoky Tomatoes",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/f050491c-0a4d-5b47-8bb4-867fc5835ce5#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/01/20/dining/15Ottorex/merlin_182197905_4db9d7d3-8862-462c-8bd0-234f46ffde90-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2021-01-15T15:41:21.869Z",
+          "datePublished": "2021-01-15T15:41:21.869Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-01-15T15:41:21.869Z",
+          "url": "https://static01.nyt.com/images/2021/01/20/dining/15Ottorex/merlin_182197905_4db9d7d3-8862-462c-8bd0-234f46ffde90-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/f050491c-0a4d-5b47-8bb4-867fc5835ce5#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/01/20/dining/15Ottorex/merlin_182197905_4db9d7d3-8862-462c-8bd0-234f46ffde90-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2021-01-15T15:41:21.869Z",
+          "datePublished": "2021-01-15T15:41:21.869Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-01-15T15:41:21.869Z",
+          "url": "https://static01.nyt.com/images/2021/01/20/dining/15Ottorex/merlin_182197905_4db9d7d3-8862-462c-8bd0-234f46ffde90-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/f050491c-0a4d-5b47-8bb4-867fc5835ce5#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/01/20/dining/15Ottorex/merlin_182197905_4db9d7d3-8862-462c-8bd0-234f46ffde90-mediumSquareAt3X.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2021-01-15T15:41:21.869Z",
+          "datePublished": "2021-01-15T15:41:21.869Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-01-15T15:41:21.869Z",
+          "url": "https://static01.nyt.com/images/2021/01/20/dining/15Ottorex/merlin_182197905_4db9d7d3-8862-462c-8bd0-234f46ffde90-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021789-fried-tagliatelle-with-chickpeas-and-smoky-tomatoes"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:36:25.093Z",
+  "scraping_status": "scraped"
+}

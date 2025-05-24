@@ -1,0 +1,560 @@
+{
+  "id": "b536414aaad3cf47",
+  "original_url": "https://cooking.nytimes.com/recipes/1025150-grilled-asparagus-with-miso-and-olives",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025150-grilled-asparagus-with-miso-and-olives",
+  "fetched_title": "Grilled Asparagus With Miso and Olives Recipe",
+  "main_text_content": "Grilling asparagus brings out its natural sweetness and adds delightful charred notes Here, the asparagus is doused in a salty, nutty and umami-rich olive, pine nut and miso dressing This recipe calls to cook the asparagus in a grill pan, but you can instead opt for a cast-iron skillet or set your asparagus on an outdoor grill",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026846-miso-parmesan-asparagus\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/05/08/multimedia/ab-miso-parmesan-asparagus-kcbt/ab-miso-parmesan-asparagus-kcbt-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/05/08/multimedia/ab-miso-parmesan-asparagus-kcbt/ab-miso-parmesan-asparagus-kcbt-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/05/08/multimedia/ab-miso-parmesan-asparagus-kcbt/ab-miso-parmesan-asparagus-kcbt-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/05/08/multimedia/ab-miso-parmesan-asparagus-kcbt/ab-miso-parmesan-asparagus-kcbt-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/05/08/multimedia/ab-miso-parmesan-asparagus-kcbt/ab-miso-parmesan-asparagus-kcbt-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/05/08/multimedia/ab-miso-parmesan-asparagus-kcbt/ab-miso-parmesan-asparagus-kcbt-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/05/08/multimedia/ab-miso-parmesan-asparagus-kcbt/ab-miso-parmesan-asparagus-kcbt-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/05/08/multimedia/ab-miso-parmesan-asparagus-kcbt/ab-miso-parmesan-asparagus-kcbt-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Miso-Parmesan Asparagus</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Andy Baraghani</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/04/09/multimedia/14EATrex-asparagusrex/14EATrex-asparagusrex-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/b536414aaad3cf47/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/5fec1822-8c64-5320-b924-7679c8c9ffbc",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025150-grilled-asparagus-with-miso-and-olives",
+        "@type": "WebPage",
+        "name": "Grilled Asparagus With Miso and Olives"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025150-grilled-asparagus-with-miso-and-olives",
+      "name": "Grilled Asparagus With Miso and Olives",
+      "description": "Grilling asparagus brings out its natural sweetness and adds delightful charred notes. Here, the asparagus is doused in a salty, nutty and umami-rich olive, pine nut and miso dressing. This recipe calls to cook the asparagus in a grill pan, but you can instead opt for a cast-iron skillet or set your asparagus on an outdoor grill. You can also achieve similar flavor by popping the asparagus into the broiler or roasting at the highest temperature your oven can reach. A touch of dill adds a fragrant note, enhancing the overall aroma of the dish, but feel free to omit, or use other soft herbs that you have on hand, like chives. Eat alongside a roast chicken, or incorporate into a spring salad spread.",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/eaee1234-00c6-58b9-b70a-1e4ec7e5916f#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/09/multimedia/14EATrex-asparagusrex/14EATrex-asparagusrex-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Megan Hedgpeth.",
+          "dateModified": "2024-04-09T15:43:18.849Z",
+          "datePublished": "2024-04-09T15:43:18.849Z",
+          "height": "900",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-09T15:43:18.849Z",
+          "url": "https://static01.nyt.com/images/2024/04/09/multimedia/14EATrex-asparagusrex/14EATrex-asparagusrex-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/eaee1234-00c6-58b9-b70a-1e4ec7e5916f#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/09/multimedia/14EATrex-asparagusrex/14EATrex-asparagusrex-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Megan Hedgpeth.",
+          "dateModified": "2024-04-09T15:43:18.849Z",
+          "datePublished": "2024-04-09T15:43:18.849Z",
+          "height": "600",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-09T15:43:18.849Z",
+          "url": "https://static01.nyt.com/images/2024/04/09/multimedia/14EATrex-asparagusrex/14EATrex-asparagusrex-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/eaee1234-00c6-58b9-b70a-1e4ec7e5916f#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/09/multimedia/14EATrex-asparagusrex/14EATrex-asparagusrex-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Megan Hedgpeth.",
+          "dateModified": "2024-04-09T15:43:18.849Z",
+          "datePublished": "2024-04-09T15:43:18.849Z",
+          "height": "1801",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-09T15:43:18.849Z",
+          "url": "https://static01.nyt.com/images/2024/04/09/multimedia/14EATrex-asparagusrex/14EATrex-asparagusrex-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT5M",
+      "cookTime": "PT20M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, quick, weeknight, vegetables, appetizer, side dish",
+      "keywords": "asparagus, green olive, miso, pine nut, spring, vegan",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 539
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 270,
+        "unsaturatedFatContent": "21 grams",
+        "carbohydrateContent": "9 grams",
+        "cholesterolContent": null,
+        "fatContent": "26 grams",
+        "fiberContent": "4 grams",
+        "proteinContent": "5 grams",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "497 milligrams",
+        "sugarContent": "4 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 ½ pounds asparagus, woody ends trimmed",
+        "1 tablespoon plus 1/3 cup olive oil",
+        "Fine sea salt",
+        "1/3 cup pitted green olives (preferably Castelvetrano) plus 1 tablespoon brine, olives crushed with the palm of your hand then finely chopped",
+        "1 1/2 tablespoons pine nuts",
+        "1 tablespoon white miso",
+        "2 teaspoons lemon juice",
+        "½ teaspoon dill (optional), finely chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat a grill pan over high heat."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Season the asparagus with 1 tablespoon of olive oil and ⅛ teaspoon salt. Grill in two batches for 3 to 5 minutes on each side, or until tender and charred. Transfer to a serving plate once cooked."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the olives, pine nuts and the remaining 1/3 cup oil to a small saucepan and cook over medium-high heat, stirring often, for 7 minutes, until the pine nuts have turned golden brown. Carefully whisk in the miso, lemon juice and olive brine."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour the sauce over the asparagus and sprinkle the dill on top, if using."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-04-09T00:00:00.000Z",
+      "dateModified": "2024-04-11T14:13:56.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Es"
+          },
+          "reviewBody": "Served this as a side to grilled salmon. The sauce went nicely with the salmon too. I omitted the dill. Very tasty, adds depth and texture to the asparagus. I might substitute butter for the oil next time or add a dab of butter at the end.",
+          "datePublished": "2025-04-30T17:33:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "WillKS"
+          },
+          "reviewBody": "A typically esoteric Yotam Ottolenghi sauce, but one I could try because I had the ingredients on hand (save the optional dill). After starting step 3, I thought it might be better to brown the pine nuts before cooking with the olives, but I did it as written and it worked. The sauce is strong (even with mild Castelvetrano olives) and flavorful, so a little goes a long way. Use sparingly and you will enjoy it. Grilled asparagus is not as subtle as steamed, so this sauce works with it.",
+          "datePublished": "2025-04-21T14:27:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PBS"
+          },
+          "reviewBody": "Overall, good dish, worth making again but without dill or miso. I substituted walnuts for the pine nuts, which worked fine. No need to use a small saucepan to heat up the sauce. Just remove the asparagus when it's done and make the sauce in the large skillet. I may have had closer to 1 lb than 1.5 lbs, and all the asparagus fit nicely. No need for batches.",
+          "datePublished": "2025-04-18T05:13:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kat"
+          },
+          "reviewBody": "The best asparagus I've ever had at home our out. I absolutely loved this, so did my kids. I went very heavy handed on the pine nuts, but why not..? I also skipped the dill & will definitely make again. Love it!",
+          "datePublished": "2025-04-16T16:07:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy"
+          },
+          "reviewBody": "Help readers - I loved the taste of this, but when I carefully whisked in the miso/brine/lemon combination to the hot oil mix, it seized up and would not incorporate into the oil. The only change I made was to use heavy cream instead of EVOO. (Kidding. I used Italian lemon flavored EVOO) Advice?",
+          "datePublished": "2025-03-19T00:03:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patty"
+          },
+          "reviewBody": "Well, we had crummy olives with bland brine, and I am allergic to tree nuts, but I made a version with pepitas.  It was tasty but very oily and I did not love the way the sauce did not emulsify.  We used broccolini based on the comments, and with our new stove it cooked on convection and the flowers got crispy. It was quite delicious all in all.  I would make it with a finer texture, less oil, and far more lemon in the future.  The added garlic we used was a good idea…",
+          "datePublished": "2025-03-04T05:27:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bebe"
+          },
+          "reviewBody": "Delicious! I cooked the asparagus cut in 1 inch pieces in a hot cast iron skillet and served over orzo with fresh  grated Parmesan.  Absolutely fantastic",
+          "datePublished": "2025-03-02T23:59:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharanya"
+          },
+          "reviewBody": "Not terrible, but definitely not greater than the sum of its parts. Unlike other ottolenghi recipes there didn’t seem to be any harmony of flavor here so I will skip next time!",
+          "datePublished": "2025-02-19T00:36:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sally in New York"
+          },
+          "reviewBody": "I did not use the olives, replaced them with some crispy diced pancetta.  Delicious.  Would use this sauce on many things!",
+          "datePublished": "2024-10-22T13:33:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kimberly"
+          },
+          "reviewBody": "Made the recipe exactly as is except I heated up the toppings before I grilled the asparagus.  Otherwise you’d definitely have cold vegetables.  This dish is bursting with umami and so delicious.  All the comments saying to just roast asparagus with oil and seasonings, DUH!  Do that on a weekday, this is a special occasion or weekend dish.  Yes it’s decadent and high in sodium, make a few times a year and enjoy.",
+          "datePublished": "2024-09-28T04:10:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate K"
+          },
+          "reviewBody": "I thought it was excellent.  I did make the sauce concurrently rather than after cooking the asparagus, but that is the only change.  I love love love the flavors and felt it elevated the entire plate!",
+          "datePublished": "2024-08-03T00:37:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Notes"
+          },
+          "reviewBody": "i made as directed, then chopped up the asparagus and put it all over pasta. highly recommend for turning into a meal!",
+          "datePublished": "2024-06-25T01:11:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jv"
+          },
+          "reviewBody": "This recipe is genius. I’ve made it repeatedly since asparagus came into season and it is the centerpiece of the meal. I do like my vegetables simple but did any of the naysayers actually make and eat this? The asparagus is not overpowered at all but richly and deliciously complemented. It doesn’t need the dill if you don’t have it but- yes- the dill goes. What’s up with all these food rules in other comments? Ottolenghi rules the taste buds- that’s for sure.",
+          "datePublished": "2024-05-30T02:03:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anthony"
+          },
+          "reviewBody": "At medium high my oil was vigorously frying. At seven minutes, my chopped cashews(What I had on hand) were perfectly golden brown. I turned off the heat and added the miso, olive brine, and lemon juice. But I think the oil was too hot practically exploded and the sauce broke. Should I have allowed it to cool for a while before I added the liquids?",
+          "datePublished": "2024-05-27T16:51:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Traci"
+          },
+          "reviewBody": "Delicious.  I know a lot of people have commented, saying why deviate from a classic olive oil or butter and lemon dressing, but I have to say this was delicious.  My husband Raved about it, saying it is his new favorite way to eat asparagus.  I followed the ingredients-including the dill- and it all worked well together.  I roasted the asparagus in the oven for a few minutes, then finished them under the broiler.  The caramelized tips blended beautifully with the sauce. I'll try chives next!",
+          "datePublished": "2024-05-22T17:50:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Max"
+          },
+          "reviewBody": "Made this with miso butter, pine nuts, lemon but no dill. I put the olives in my martini instead. And I grilled a steak. Good times.",
+          "datePublished": "2024-04-11T20:51:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John"
+          },
+          "reviewBody": "The sauce seriously overpowers the flavor of the asparagus and is much too heavy for this delicate and wonderful vegetable.  The dill is optional, fortunately; dill does not complement asparagus at all.  Nothing is better than asparagus, butter, and a bit of salt.",
+          "datePublished": "2024-04-11T13:12:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Annabella"
+          },
+          "reviewBody": "I still love my Neapolitan grandmother's simple asparagus: boiled or steamed, dressed with olive oil, a crushed garlic clove, and a hint of vinegar or lemon, salt & pepper. Or she tucked it into a frittata!  My greatest pleasure was to visit my grandparents' farm, where they grew at least an acre of it.  It is a delicate vegetable, so less is more.",
+          "datePublished": "2024-04-11T14:44:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maria S."
+          },
+          "reviewBody": "I disagree with many of the comments on this recipe. This was DIVINE. My boyfriend said he would literally drink the sauce it was that good. I did make slight alterations, as I added a bit extra olive brine and lemon to the dressing- just cause I personally like things a bit acidic. I also had garlic I’d already chopped on hand and included that. Out of this world delicious.\n\nWe had very thick asparagus vs thin stalks, so I think that helped it hold up to this sauce.  This is a new fave.",
+          "datePublished": "2024-04-15T01:04:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue"
+          },
+          "reviewBody": "Wow. The comments are so negative. Tried this tonight as an appetizer. It was delicious, my guests loved it and every last bit was lapped up. No changes to recipe.",
+          "datePublished": "2024-04-17T05:46:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liza"
+          },
+          "reviewBody": "Tried it specifically because it was different from my usual approach, liked it. I will say I made the sauce first and kept it warm while quickly cooking the asparagus. I asked my hubby how he liked the sauce and he said \"what sauce\", so some won't find it overpowering as others have commented. \nI always get a laugh out of people who comment with their own recipes. If you prefer yours, well... easy decision, don't make this. :-) I find it fun to try something new.",
+          "datePublished": "2024-04-15T01:20:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane"
+          },
+          "reviewBody": "Made this dish exactly as directed and it was wonderful. Castelvetrano olives are much less salty than the typical martini olive, perhaps that is the issue some people are having.  I thought this dish was a great way to showcase asparagus.  Served with a simple lobster salad and baby potatoes.",
+          "datePublished": "2024-04-18T01:32:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Montana"
+          },
+          "reviewBody": "Disagree with all the comments from people who did not make the recipe but felt the need to comment it would be bad. I really enjoyed this. Made as written but swapped the dill for parsley and served over orzo so it would be dinner.",
+          "datePublished": "2024-04-19T03:19:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "angelique craney"
+          },
+          "reviewBody": "I cut them diagonally into 1 inch pieces, sautee them in a dab of butter and olive oil, crushed garlic, hot pepper flakes,  and salt in a hot pan for about 3 minutes. They are perfection!",
+          "datePublished": "2024-04-12T14:53:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steven"
+          },
+          "reviewBody": "I felt it was a wonderful tangy “vinaigrette” on top of last night’s asparagus.  So much better than just olive oil and a nice change of pace.  I’ll make it again for asparagus as well as other vegetables.",
+          "datePublished": "2024-04-15T21:09:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "eengberg"
+          },
+          "reviewBody": "I made this according to the recipe with fresh dill. I loved it. The two of us ate the full 1.5 pounds with a small grilled steak and a salad. Excellent!",
+          "datePublished": "2024-04-17T01:38:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "deb"
+          },
+          "reviewBody": "I roasted the asparagus. Made the sauce minus the dill and was very pleased. When you have eaten so much spring asparagus either roasted or grilled this recipe is a great alternative!",
+          "datePublished": "2024-04-17T17:18:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Richard P."
+          },
+          "reviewBody": "For those in the comments spewing vitriol, I certainly understand the purpose of simple preparations, however, I wouldn't look to Ottolenghi for that. That being said, this is a wonderful recipe, rich in flavors as one would come to expect from Ottolenghi. For those poo-pooing on the preparation, it is a fantastic recipe that will work in any season, especially in those winter months when we might be tempted to reach for an imported asparagus bunch.",
+          "datePublished": "2024-05-16T00:42:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anthony"
+          },
+          "reviewBody": "At medium high my oil was vigorously frying. At seven minutes, my chopped cashews(What I had on hand) were perfectly golden brown. I turned off the heat and added the miso, olive brine, and lemon juice. But I think the oil was too hot practically exploded and the sauce broke. Should I have allowed it to cool for a while before I added the liquids?",
+          "datePublished": "2024-05-27T16:51:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kimberly"
+          },
+          "reviewBody": "Made the recipe exactly as is except I heated up the toppings before I grilled the asparagus.  Otherwise you’d definitely have cold vegetables.  This dish is bursting with umami and so delicious.  All the comments saying to just roast asparagus with oil and seasonings, DUH!  Do that on a weekday, this is a special occasion or weekend dish.  Yes it’s decadent and high in sodium, make a few times a year and enjoy.",
+          "datePublished": "2024-09-28T04:10:01.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025150-grilled-asparagus-with-miso-and-olives",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "Grilling asparagus brings out its natural sweetness and adds delightful charred notes. Here, the asparagus is doused in a salty, nutty and umami-rich olive, pine nut and miso dressing. This recipe calls to cook the asparagus in a grill pan, but you can instead opt for a cast-iron skillet or set your asparagus on an outdoor grill. You can also achieve similar flavor by popping the asparagus into the broiler or roasting at the highest temperature your oven can reach. A touch of dill adds a fragrant note, enhancing the overall aroma of the dish, but feel free to omit, or use other soft herbs that you have on hand, like chives. Eat alongside a roast chicken, or incorporate into a spring salad spread.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Grilled Asparagus With Miso and Olives",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/eaee1234-00c6-58b9-b70a-1e4ec7e5916f#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/09/multimedia/14EATrex-asparagusrex/14EATrex-asparagusrex-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Megan Hedgpeth.",
+          "dateModified": "2024-04-09T15:43:18.849Z",
+          "datePublished": "2024-04-09T15:43:18.849Z",
+          "height": "900",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-09T15:43:18.849Z",
+          "url": "https://static01.nyt.com/images/2024/04/09/multimedia/14EATrex-asparagusrex/14EATrex-asparagusrex-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/eaee1234-00c6-58b9-b70a-1e4ec7e5916f#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/09/multimedia/14EATrex-asparagusrex/14EATrex-asparagusrex-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Megan Hedgpeth.",
+          "dateModified": "2024-04-09T15:43:18.849Z",
+          "datePublished": "2024-04-09T15:43:18.849Z",
+          "height": "600",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-09T15:43:18.849Z",
+          "url": "https://static01.nyt.com/images/2024/04/09/multimedia/14EATrex-asparagusrex/14EATrex-asparagusrex-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/eaee1234-00c6-58b9-b70a-1e4ec7e5916f#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/09/multimedia/14EATrex-asparagusrex/14EATrex-asparagusrex-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Megan Hedgpeth.",
+          "dateModified": "2024-04-09T15:43:18.849Z",
+          "datePublished": "2024-04-09T15:43:18.849Z",
+          "height": "1801",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-09T15:43:18.849Z",
+          "url": "https://static01.nyt.com/images/2024/04/09/multimedia/14EATrex-asparagusrex/14EATrex-asparagusrex-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025150-grilled-asparagus-with-miso-and-olives"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:17:04.220Z",
+  "scraping_status": "scraped"
+}

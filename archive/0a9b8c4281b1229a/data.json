@@ -1,0 +1,571 @@
+{
+  "id": "0a9b8c4281b1229a",
+  "original_url": "https://cooking.nytimes.com/recipes/1025467-black-lime-salmon",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025467-black-lime-salmon",
+  "fetched_title": "Black Lime Salmon Recipe",
+  "main_text_content": "This deceptively simple salmon dish is as striking in flavor as in appearance, and will serve just as well for a dinner party centerpiece as a quick midweek dinner The salmon is covered in a punchy black lime marinade, then baked in the oven and topped with fresh bursts of sour cream and grated tomato Black limes (also known as Omani or Persian limes) are limes that have been boiled in salt water before being dried and blackened in the sun",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026765-lemon-butter-salmon-with-dill\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-blogSmallInline-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-videoSixteenByNine310-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/04/15/multimedia/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht/15FD-KO-EASTERREX-GK-Honey-Lemon-Salmon-kcht-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Lemon Butter Salmon With Dill</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Genevieve Ko</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/06/18/multimedia/yo-blackened-salmon-sour-cream-saucerex-pkqb/yo-blackened-salmon-sour-cream-saucerex-pkqb-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/0a9b8c4281b1229a/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/b8ef03d7-2232-56a5-a290-076d9b7fdc4b",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025467-black-lime-salmon",
+        "@type": "WebPage",
+        "name": "Black Lime Salmon"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025467-black-lime-salmon",
+      "name": "Black Lime Salmon",
+      "description": "This deceptively simple salmon dish is as striking in flavor as in appearance, and will serve just as well for a dinner party centerpiece as a quick midweek dinner. The salmon is covered in a punchy black lime marinade, then baked in the oven and topped with fresh bursts of sour cream and grated tomato. Black limes (also known as Omani or Persian limes) are limes that have been boiled in salt water before being dried and blackened in the sun. They have an intensely sweet, citrusy flavor, with a hint of bitterness. Serve this salmon alongside a bowl of rice.",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/1e75acd2-8e6a-565b-97bb-9285c15bbd32#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/06/18/multimedia/yo-blackened-salmon-sour-cream-saucerex-pkqb/yo-blackened-salmon-sour-cream-saucerex-pkqb-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times Food stylist: Maggie Ruggiero. Prop stylist: Heather Greene.",
+          "dateModified": "2024-06-18T14:57:37.166Z",
+          "datePublished": "2024-06-18T14:09:01.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-06-18T14:09:01.000Z",
+          "url": "https://static01.nyt.com/images/2024/06/18/multimedia/yo-blackened-salmon-sour-cream-saucerex-pkqb/yo-blackened-salmon-sour-cream-saucerex-pkqb-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/1e75acd2-8e6a-565b-97bb-9285c15bbd32#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/06/18/multimedia/yo-blackened-salmon-sour-cream-saucerex-pkqb/yo-blackened-salmon-sour-cream-saucerex-pkqb-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times Food stylist: Maggie Ruggiero. Prop stylist: Heather Greene.",
+          "dateModified": "2024-06-18T14:57:37.166Z",
+          "datePublished": "2024-06-18T14:09:01.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-06-18T14:09:01.000Z",
+          "url": "https://static01.nyt.com/images/2024/06/18/multimedia/yo-blackened-salmon-sour-cream-saucerex-pkqb/yo-blackened-salmon-sour-cream-saucerex-pkqb-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/1e75acd2-8e6a-565b-97bb-9285c15bbd32#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/06/18/multimedia/yo-blackened-salmon-sour-cream-saucerex-pkqb/yo-blackened-salmon-sour-cream-saucerex-pkqb-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times Food stylist: Maggie Ruggiero. Prop stylist: Heather Greene.",
+          "dateModified": "2024-06-18T14:57:37.166Z",
+          "datePublished": "2024-06-18T14:09:01.000Z",
+          "height": "1799",
+          "representativeOfPage": true,
+          "uploadDate": "2024-06-18T14:09:01.000Z",
+          "url": "https://static01.nyt.com/images/2024/06/18/multimedia/yo-blackened-salmon-sour-cream-saucerex-pkqb/yo-blackened-salmon-sour-cream-saucerex-pkqb-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT5M",
+      "cookTime": "PT30M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, quick, weeknight, seafood, main course",
+      "keywords": "lime, party, plum tomato, salmon fillet, sour cream, summer",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 191
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 401,
+        "unsaturatedFatContent": "20 grams",
+        "carbohydrateContent": "11 grams",
+        "cholesterolContent": null,
+        "fatContent": "31 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "22 grams",
+        "saturatedFatContent": "7 grams",
+        "sodiumContent": "543 milligrams",
+        "sugarContent": "5 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 dried black limes (or 5 teaspoons black lime powder; see Tip)",
+        "2 1/2 teaspoons light brown sugar",
+        "1 teaspoon ground cumin",
+        "1/2 teaspoon cayenne powder",
+        "1 1/2 teaspoons sweet paprika",
+        "Fine sea salt",
+        "4 tablespoons extra-virgin olive oil",
+        "1 whole (1½- to 2-pound) salmon fillet (skin on or off)",
+        "3 plum tomatoes",
+        "1 small garlic clove, minced",
+        "1/3 cup/80 grams sour cream, plus extra to serve"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 475 degrees."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place the limes, sugar, cumin, cayenne, 1 teaspoon of the paprika and 1 teaspoon of salt in a spice grinder and grind to a fine powder. Transfer to a small bowl and mix with the oil."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place the salmon in a large roasting pan, skin-side down if using a skin-on fillet, and cover the salmon with all of the oil mixture. Roast until the salmon is just cooked through and flaky, about 12 minutes, then let rest for 2 minutes before serving."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the salmon roasts, grate the tomatoes on the coarse side of a box grater, discarding the spent skins. Transfer into a fine sieve set over a bowl and stir a few times, then discard the strained liquid. Transfer the tomato pulp into the bowl, and season with the remaining ½ teaspoon paprika, the garlic and ¼ teaspoon salt."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To serve, carefully transfer the salmon to a serving platter, then dollop the sour cream over the salmon followed by half of the tomato mixture. Spoon the roasting oil back over the salmon and serve with the extra sour cream and tomato on the side to taste."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-06-18T00:00:00.000Z",
+      "dateModified": "2024-06-21T13:42:33.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peg"
+          },
+          "reviewBody": "I made this with boneless, skinless chicken thighs. Yum. I bought the Ground Omani Black Limes at Oakltown Spice in Albany, California. I didn’t have any fresh tomatoes so used some canned, diced tomatoes and some vegan sour cream. It was delicious.",
+          "datePublished": "2025-04-09T02:36:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jarmila"
+          },
+          "reviewBody": "This was an amazing meal, thank you so much! I added steam to the oven and the salmon was really melting. WOW. I prepared the tomatoes in advance, putting them in halves on a little bit of olive oil, pinch of salt, cayenne and sugar 1 hr at 180° C , peeled them (very easy when warm), then let them sit overnight in the fridge. What a treat!",
+          "datePublished": "2025-04-05T21:23:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hungry Karl"
+          },
+          "reviewBody": "This was a weird one for me. Too sweet. All together with sour cream and tomato in one bite was edible, but won't be making this again. Disappointed as it's such a gorgeous presentation.",
+          "datePublished": "2025-03-25T00:16:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Niki Mistry"
+          },
+          "reviewBody": "@CatB Riesling is great. Also try Sauv Blanc like a Sancerre, Chablis, Albariño, Etna Bianco (Carricante grape). Any white with some salty or mineral properties to highlight those notes in the black limes. Cheers!",
+          "datePublished": "2025-03-02T02:06:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CatB"
+          },
+          "reviewBody": "Any recommendations for a wine to serve with this? I’m thinking a lively riesling but would love for others to weigh in.",
+          "datePublished": "2025-02-20T14:18:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ekaterina"
+          },
+          "reviewBody": "I have made this recipe for guests several times and always to rave reviews. It is delicious and easy. I have used both ground whole black limes and preground black limes. I find no significant difference. In fact, I prefer the ground lime because my spice grinder tends to leave some larger pieces of the whole black limes. Also, I always have made this with four individually cut pieces of salmon instead of one large. The cooking time obviously is less. I prefer that each person has a stand alone piece of art on the plate. The presentation is very dramatic with the vibrant colors of the salmon, the sour cream, the black lime spice mix and the grated tomatoes. Wonderful!",
+          "datePublished": "2025-02-11T16:34:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Serena"
+          },
+          "reviewBody": "loved the flavor of black lime. totally worth getting.  adds so much flavor to the salmon. I didn't have sour cream so i used greek yogurt, which was also very nice.",
+          "datePublished": "2025-02-08T18:56:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pdx Pete"
+          },
+          "reviewBody": "Correction: Photo in fact \"shows\" the salmon flesh covered in the roasted black-lime oil mixture, which happens to \"look like\" roasted salmon skin.",
+          "datePublished": "2025-01-18T09:58:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rita"
+          },
+          "reviewBody": "Perfectly spiced as written, did reduce cooking time slightly. Used creme fraiche. Tomato was delicious, and the creme fraiche melted deliciously over the salmon. Beautiful dish!",
+          "datePublished": "2025-01-10T15:42:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa B"
+          },
+          "reviewBody": "Has anybody tried to make their own black limes?",
+          "datePublished": "2024-12-19T00:28:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Charla Wright"
+          },
+          "reviewBody": "475 degrees for 12 minutes is too hot and overcooks the salmon.  400 degrees for 10 minutes worked perfectly for me.",
+          "datePublished": "2024-12-11T14:53:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "M.E."
+          },
+          "reviewBody": "Any thoughts on what to serve with this? Just wondering if the flavors will go well with fall vegetables?",
+          "datePublished": "2024-11-18T02:26:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ginny M"
+          },
+          "reviewBody": "Good.   I cooked the grated tomatoes for a few minutes because I wanted them saucier and hot.  The sour cream wasn’t necessary.",
+          "datePublished": "2024-10-30T02:29:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "wallabee"
+          },
+          "reviewBody": "This was delicious and full of bold flavors. I think I would cut the salt in half next time and it would still be outstanding.",
+          "datePublished": "2024-10-12T23:48:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Connie"
+          },
+          "reviewBody": "Has anyone substituted dried lime for the black lime?  Wondering if there’s a taste difference.",
+          "datePublished": "2024-10-05T17:19:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cfureslo"
+          },
+          "reviewBody": "Use less black lime.",
+          "datePublished": "2024-09-23T01:49:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandra Kistner"
+          },
+          "reviewBody": "Photo shown is deceptive. Recipe specifies cook with skin down and place toppings on salmon flesh. One would need to scrape the off to get at the flesh is the picture we’re followed.",
+          "datePublished": "2024-06-21T11:58:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jo"
+          },
+          "reviewBody": "I would use hot lime pickle, sold in Indian food stores. Both Swad and Atak brands are good. The pickle contains all of the spices listed, plus mustardseed, which is always good with salmon.",
+          "datePublished": "2024-06-20T08:26:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rob"
+          },
+          "reviewBody": "I thought that also but magnifying picture makes me think that's not skin, its the black lime coating.",
+          "datePublished": "2024-06-22T16:18:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "pardeegirl"
+          },
+          "reviewBody": "From one of Yotam’s cookbooks, 1/2 oz / 15g dried black limes equals about 3 large ones.",
+          "datePublished": "2024-06-20T14:42:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ted"
+          },
+          "reviewBody": "Burlap & Barrel sells a ground black lime, which you can purchase on Amazon. Since it’s going to be ground up anyways I would think this would work. Anybody know how much ground to substitute for the whole limes?",
+          "datePublished": "2024-06-20T18:23:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily F"
+          },
+          "reviewBody": "I think that the black you're seeing in the photo is the black lime marinade and not the skin.",
+          "datePublished": "2024-06-22T15:42:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "pardeegirl"
+          },
+          "reviewBody": "This is incredible!  Prepared exactly as written, cooking 12 minutes at 475, delicious.  Served w roasted zucchini spears.  Only change I would suggest is less oil in the marinade and also less salt.  SO GOOD.",
+          "datePublished": "2024-06-23T01:20:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "marie-claude garneau"
+          },
+          "reviewBody": "You can buy lime powder, thus eliminating the need to grind it.  Iranian épiceries have it and my Indian épicerie has it as well.  I'm sure it can be purchased online as well.  It also makes a wonderful ingredient in kebab marinades.",
+          "datePublished": "2024-06-20T16:00:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Really Good And Easy"
+          },
+          "reviewBody": "Dried limes can be easily ordered on Amazon and delivered within a day or two. Once you have them, Google recipes for them. Worthwhile to be adventuresome.",
+          "datePublished": "2024-06-20T15:21:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tim"
+          },
+          "reviewBody": "Hi! Photo is pretty accurate. The black lime paste is definitely black. It does look like skin in the picture, but it’s the glaze.\nWent to a Middle Eastern market to find black limes and couldn’t resist the most gorgeous flat bread-still warm! \nThis one should be fun.",
+          "datePublished": "2024-06-22T23:21:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bob"
+          },
+          "reviewBody": "Burlap & Barrel sells ground black lime which might work in this dish. They’re an online spice and herb company. (Full disclosure: the company’s founder is my cousin.)",
+          "datePublished": "2024-06-20T14:59:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rob"
+          },
+          "reviewBody": "I thought also but magnifying picture makes me think that's not skin, its the black lime coating.",
+          "datePublished": "2024-06-22T16:17:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CarolB"
+          },
+          "reviewBody": "Put the dried limes on a cutting board and bash them with a heavy pan. Then put the pieces in with the rest of the spice mix in a blender and you'll have a wonderfully fragrant spice mix easily. Fabulous recipe!",
+          "datePublished": "2024-06-26T14:57:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate"
+          },
+          "reviewBody": "Sandra, I thought the same thing but after looking closely at the photo, realized the black is the black lime marinade, not the skin.",
+          "datePublished": "2024-06-22T15:46:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Yoda Naman"
+          },
+          "reviewBody": "For this recipe, you'd be safe with two tablespoons.  You can actually add more if you're not getting the desired citrus kick.",
+          "datePublished": "2024-06-21T02:33:26.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025467-black-lime-salmon",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "This deceptively simple salmon dish is as striking in flavor as in appearance, and will serve just as well for a dinner party centerpiece as a quick midweek dinner. The salmon is covered in a punchy black lime marinade, then baked in the oven and topped with fresh bursts of sour cream and grated tomato. Black limes (also known as Omani or Persian limes) are limes that have been boiled in salt water before being dried and blackened in the sun. They have an intensely sweet, citrusy flavor, with a hint of bitterness. Serve this salmon alongside a bowl of rice.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Black Lime Salmon",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/1e75acd2-8e6a-565b-97bb-9285c15bbd32#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/06/18/multimedia/yo-blackened-salmon-sour-cream-saucerex-pkqb/yo-blackened-salmon-sour-cream-saucerex-pkqb-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times Food stylist: Maggie Ruggiero. Prop stylist: Heather Greene.",
+          "dateModified": "2024-06-18T14:57:37.166Z",
+          "datePublished": "2024-06-18T14:09:01.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-06-18T14:09:01.000Z",
+          "url": "https://static01.nyt.com/images/2024/06/18/multimedia/yo-blackened-salmon-sour-cream-saucerex-pkqb/yo-blackened-salmon-sour-cream-saucerex-pkqb-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/1e75acd2-8e6a-565b-97bb-9285c15bbd32#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/06/18/multimedia/yo-blackened-salmon-sour-cream-saucerex-pkqb/yo-blackened-salmon-sour-cream-saucerex-pkqb-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times Food stylist: Maggie Ruggiero. Prop stylist: Heather Greene.",
+          "dateModified": "2024-06-18T14:57:37.166Z",
+          "datePublished": "2024-06-18T14:09:01.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-06-18T14:09:01.000Z",
+          "url": "https://static01.nyt.com/images/2024/06/18/multimedia/yo-blackened-salmon-sour-cream-saucerex-pkqb/yo-blackened-salmon-sour-cream-saucerex-pkqb-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/1e75acd2-8e6a-565b-97bb-9285c15bbd32#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/06/18/multimedia/yo-blackened-salmon-sour-cream-saucerex-pkqb/yo-blackened-salmon-sour-cream-saucerex-pkqb-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times Food stylist: Maggie Ruggiero. Prop stylist: Heather Greene.",
+          "dateModified": "2024-06-18T14:57:37.166Z",
+          "datePublished": "2024-06-18T14:09:01.000Z",
+          "height": "1799",
+          "representativeOfPage": true,
+          "uploadDate": "2024-06-18T14:09:01.000Z",
+          "url": "https://static01.nyt.com/images/2024/06/18/multimedia/yo-blackened-salmon-sour-cream-saucerex-pkqb/yo-blackened-salmon-sour-cream-saucerex-pkqb-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025467-black-lime-salmon"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:10:09.812Z",
+  "scraping_status": "scraped"
+}

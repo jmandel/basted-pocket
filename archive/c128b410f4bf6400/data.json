@@ -1,0 +1,573 @@
+{
+  "id": "c128b410f4bf6400",
+  "original_url": "https://cooking.nytimes.com/recipes/1021939-sholeh-zard-persian-rice-pudding",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021939-sholeh-zard-persian-rice-pudding",
+  "fetched_title": "Sholeh Zard (Persian Rice Pudding) Recipe",
+  "main_text_content": "This cozy dessert from Sara Mardanbigi and Edgar Rico, the owners of Nixta Taqueria in Austin, Texas, is a take on sholeh zard, a loose, heavily spiced Persian rice pudding Ms Mardanbigi grew up eating It also borrows influence from the Mexican arroz con leche of Mr",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1012950-persian-jeweled-rice\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2014/04/17/dining/Persian-Jeweled-Rice/Persian-Jeweled-Rice-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2014/04/17/dining/Persian-Jeweled-Rice/Persian-Jeweled-Rice-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2014/04/17/dining/Persian-Jeweled-Rice/Persian-Jeweled-Rice-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2014/04/17/dining/Persian-Jeweled-Rice/Persian-Jeweled-Rice-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2014/04/17/dining/Persian-Jeweled-Rice/Persian-Jeweled-Rice-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2014/04/17/dining/Persian-Jeweled-Rice/Persian-Jeweled-Rice-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Persian Jeweled Rice</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Harvey Araton</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/03/03/dining/26ricepuddingrex1/26ricepuddingrex1-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/c128b410f4bf6400/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/76e4b44e-9069-5d62-bbe8-0f1f4761ef0e",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021939-sholeh-zard-persian-rice-pudding",
+        "@type": "WebPage",
+        "name": "Sholeh Zard (Persian Rice Pudding)"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021939-sholeh-zard-persian-rice-pudding",
+      "name": "Sholeh Zard (Persian Rice Pudding)",
+      "description": "This cozy dessert from Sara Mardanbigi and Edgar Rico, the owners of Nixta Taqueria in Austin, Texas, is a take on sholeh zard, a loose, heavily spiced Persian rice pudding Ms. Mardanbigi grew up eating. It also borrows influence from the Mexican arroz con leche of Mr. Rico’s childhood. Their take is warm and smoky with black cardamom and saffron, velvety from egg yolks and butter, and has a savory finish. It calls for arborio rice instead of the usual basmati to add a slight chew, and strawberry powder instead of rosewater to provide similar floral notes with a punch of acid.",
+      "author": {
+        "@type": "Person",
+        "name": "Priya Krishna"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/5968fd4c-dac6-5d17-929b-06d74c0018a0#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/03/dining/26ricepuddingrex1/26ricepuddingrex1-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-03-01T15:30:00.525Z",
+          "datePublished": "2021-02-26T22:47:38.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-26T22:47:38.000Z",
+          "url": "https://static01.nyt.com/images/2021/03/03/dining/26ricepuddingrex1/26ricepuddingrex1-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/5968fd4c-dac6-5d17-929b-06d74c0018a0#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/03/dining/26ricepuddingrex1/26ricepuddingrex1-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-03-01T15:30:00.525Z",
+          "datePublished": "2021-02-26T22:47:38.000Z",
+          "height": "1448",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-26T22:47:38.000Z",
+          "url": "https://static01.nyt.com/images/2021/03/03/dining/26ricepuddingrex1/26ricepuddingrex1-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/5968fd4c-dac6-5d17-929b-06d74c0018a0#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/03/dining/26ricepuddingrex1/26ricepuddingrex1-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-03-01T15:30:00.525Z",
+          "datePublished": "2021-02-26T22:47:38.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-26T22:47:38.000Z",
+          "url": "https://static01.nyt.com/images/2021/03/03/dining/26ricepuddingrex1/26ricepuddingrex1-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT1H30M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "mexican, middle eastern",
+      "recipeCategory": "custards and puddings, dessert",
+      "keywords": "arborio rice, freeze-dried strawberries, heavy cream, pistachio, saffron, thanksgiving",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 652
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 541,
+        "unsaturatedFatContent": "12 grams",
+        "carbohydrateContent": "57 grams",
+        "cholesterolContent": null,
+        "fatContent": "31 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "11 grams",
+        "saturatedFatContent": "16 grams",
+        "sodiumContent": "616 milligrams",
+        "sugarContent": "26 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 cup arborio rice, unrinsed",
+        "3 cups whole milk",
+        "1 cup heavy cream",
+        "1/2 cup granulated sugar",
+        "1 tablespoon pure vanilla extract or 1 vanilla bean (see Notes)",
+        "1 cinnamon stick",
+        "1 black cardamom pod (see Notes)",
+        "1 tablespoon ground turmeric",
+        "2 saffron threads, preferably Persian, ground then stirred into 1 tablespoon water",
+        "1/8 teaspoon kosher salt",
+        "3 tablespoons cold unsalted butter, cut into 1/4-inch cubes",
+        "2 large egg yolks",
+        "1 teaspoon ground cinnamon",
+        "1 cup freeze-dried strawberries, finely ground",
+        "1/2 cup coarsely chopped roasted salted pistachios",
+        "Flaky sea salt, for sprinkling"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bring 4 cups of water to a hard boil in a Dutch oven or other large pot over high heat. Add the rice and let it boil, stirring regularly, until the grains begin to soften around the edges but are still crunchy in the center, 1 to 2 minutes. Strain the rice, but do not rinse it. Rinse the pot with cold water to cool it down, then return it to the stove."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To the rinsed pot, add the milk, cream, sugar, vanilla, cinnamon stick, cardamom, turmeric, saffron water and kosher salt. Bring to a gentle boil over medium heat, stirring occasionally. You may be tempted to turn the heat up to make it boil faster — resist this urge. The goal is to let the spices slowly infuse the milk and cream, like a tea, for deep flavor."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Slowly stir in the rice, making sure the grains are all well coated. Cover, turn the heat down to low, and simmer, stirring a few times to make sure the grains don’t stick to the bottom, until the mixture has the consistency of a loose pudding, 35 to 45 minutes. It should be thick enough to coat the back of a spoon, with the rice maintaining a slight chew."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the cubes of butter a few at a time, stirring to incorporate fully between each addition. Remove from the heat and let cool until warm, stirring regularly, about 5 minutes. Stir in the egg yolks, one at a time. The consistency should be velvety."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide the sholeh zard among bowls, and divide the ground cinnamon, strawberry powder and pistachios — in that order — over the top of each one. The strawberry powder should be the thickest layer, covering the entire surface. Crown the bowls with a light sprinkling of flaky salt and serve."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-03-03T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Frida Hosseini"
+          },
+          "reviewBody": "I would say that this is not an authentic Sholeh Zard. If you want to make a vegan version boil water and add jasmine rice (cups 1rice:4water)  until the rice is so soft when you eat it you feel little to no grain. After that add rose water and sugar to taste and saffron till you have a vibrant yellow color. Also add about a tablespoon of unsalted butter (optional), cardamon is typically added but I don't add it and it's perfcect. Finish with almonds pistachio, and cinnamon.",
+          "datePublished": "2024-08-04T01:41:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "T"
+          },
+          "reviewBody": "Made this to break my Ramadan fast, it was such a treat.",
+          "datePublished": "2024-03-18T06:01:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Food for thought"
+          },
+          "reviewBody": "Yum.",
+          "datePublished": "2024-03-18T05:31:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "WOW this was good. Amazing texture and flavors. Although the ingredients were a bit of an investment, now we have enough to make this again a few times more. It was perfect to make for guests - the rice cooked while we ate dinner, and by the time it was cooled and assembled everyone was ready for dessert.",
+          "datePublished": "2023-04-22T21:41:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ali Mostofi"
+          },
+          "reviewBody": "One of my all time favourites. Surprised to see you recommend it. So little of our unique cuisine is known, since the Ayatollah Regime made Iran a pariah state.",
+          "datePublished": "2023-04-09T16:33:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hassan Moghaddam"
+          },
+          "reviewBody": "Greetings and thanks to Mrs. Mardanbeigi for the recipe for the sholeh zard. I am an Iranian living in the city of Parand near Tehran. It's been a long time since I've eaten sholeh zard, you know it's very delicious, whether you want to eat it plain or add cinnamon or saffron to it, it's enjoyable and very delicious. I hope that one day I will be able to make sholeh zard because everyone's cooking is very different. hope to see another recipe from you in the New York Times. I wish you success.",
+          "datePublished": "2023-03-29T08:08:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne J"
+          },
+          "reviewBody": "I have made this many times and love it. Two notes: \n1. I divide it into 8 servings. It is rich and flavorful and 1/8th of this is plenty satisfying.\n2. Tried it with coconut milk instead of milk/cream for a friend who can't have dairy. Left out the butter (coconut milk has plenty of fat) and it was delicious. Not as coconutty tasting as I thought it might be.",
+          "datePublished": "2023-03-09T19:40:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MS"
+          },
+          "reviewBody": "I don't think should be called sholeh zard, but rather given its own name (or even just called a rice pudding) given it's only similarity is some base ingredients. Sholeh zard is a very specific dish, and this is far from it.",
+          "datePublished": "2023-03-07T09:14:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Helenaz Moteabbed"
+          },
+          "reviewBody": "Strawberries? No, hard no. I grew up with this delicious pudding, and you need a dusting of cinnamon. Strawberry will change the flavor profile of this cardamom, saffron, rose water delight.",
+          "datePublished": "2022-12-21T16:29:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MGL"
+          },
+          "reviewBody": "This was amazing. Eggs didn’t seem entirely necessary but did make the pudding slightly more velvety. I could not tell from the recipe whether this should be served slightly warm or if it should be refrigerated and served cold.",
+          "datePublished": "2022-12-16T00:22:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Imabli126"
+          },
+          "reviewBody": "The rice pudding is well worth it alone; and I would do much less of the strawberry and pistachios;   I did 50% less on strawberry and it was still over powering the rice.  While it wont look as pretty; maybe an alternative is to let people spoon on the toppings to their liking.",
+          "datePublished": "2022-01-02T17:06:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amanda"
+          },
+          "reviewBody": "This is a wonderful recipe. Omitted the eggs and used coconut mike instead of cream. Chef’s kiss!",
+          "datePublished": "2021-11-26T02:11:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Baxter"
+          },
+          "reviewBody": "It's in the recipe.",
+          "datePublished": "2022-10-31T15:34:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "eddy"
+          },
+          "reviewBody": "what is strawberry powder ? how is it made. Thanks",
+          "datePublished": "2021-05-28T18:55:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fattaneh"
+          },
+          "reviewBody": "This dish absolutely has nothing to do with what Iranians call Sholeh Zard, All it has in common with the Persian recipe is the name and almost nothing else. I don’t think it is right to use the name of a foreign dish then complexly butcher it .",
+          "datePublished": "2021-05-31T19:47:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SS in CA"
+          },
+          "reviewBody": "OMG, if you use ANY Turmeric, forget about a whole tablespoon of it, you have to throw the whole thing out.  I would be very interested to know who has tried it with turmeric and found it edible.",
+          "datePublished": "2021-05-29T17:31:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JKF in NYC"
+          },
+          "reviewBody": "Can ordinary cardamom be used as a substitute for black cardamom?",
+          "datePublished": "2021-03-01T16:33:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lauren"
+          },
+          "reviewBody": "I live in Austin and eat at Nixta almost weekly. This is the best rice pudding I’ve ever had. Can’t wait to try making it myself. Wish you had more of their recipes. Best tacos in town and that’s a high bar.",
+          "datePublished": "2021-02-27T18:48:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mjan"
+          },
+          "reviewBody": "Had no freeze-dried strawberries, but did have freeze-dried raspberry powder.  Works great!",
+          "datePublished": "2021-02-27T13:08:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christina"
+          },
+          "reviewBody": "This looks amazing. Anybody have suggestions for a vegan version? Maybe it’s not possible to come close.",
+          "datePublished": "2021-03-01T16:08:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MMinCA"
+          },
+          "reviewBody": "This looks good, but it’s far from sholeh zard. I see a few people asked about vegan/no egg options? Traditional sholeh zard doesn’t have any dairy or eggs. jasmine rice, salt, sugar, saffron, unsalted butter, cardamom, rose water, ground cinnamon and slivered almonds for topping. You can Google the recipe - so yummy and a more traditional texture (this one looks soupy).",
+          "datePublished": "2021-03-01T17:17:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ryan"
+          },
+          "reviewBody": "I think the description freely admits it's a \"take on sholeh zard\" that borrows some Mexican influence and replaces the traditional ingredients with others.  I'm sure both versions are delicious.",
+          "datePublished": "2021-03-01T19:11:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carl"
+          },
+          "reviewBody": "Black cardamom is very different from green cardamom. Alton Brown describes the flavor as “Like somebody put a menthol cigarette out in a cup of dark, sweet coffee into which one drop of pine resin had fallen, and some dirt...only in a good way.”  That said, subbing in green cardamom would likely be good.  Just different.",
+          "datePublished": "2021-03-02T13:01:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan A"
+          },
+          "reviewBody": "If I use rosewater instead of the strawberries, how much should I use?",
+          "datePublished": "2021-03-01T16:42:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Thomas"
+          },
+          "reviewBody": "FYI, butter is a dairy product",
+          "datePublished": "2021-03-02T15:58:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janet H."
+          },
+          "reviewBody": "Wow this was great!  Due to my location and pandemic-related supply shortages, I could not find the black cardamom or the strawberry powder so that got left out.  But incredibly I found fresh turmeric root, so I trimmed a knob of it and let it infuse along with the cinnamon stick.  Like another, I had raspberry powder on hand, which worked wonderfully.  I prepared layers of the rice pudding, raspberry powder, and chopped pistachios in a tall slender glass and it looked so lovely.",
+          "datePublished": "2021-03-01T17:07:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lucy Gorham"
+          },
+          "reviewBody": "This sounds delicious.  The instructions don't indicate when the cinnamon stick and black cardamom pod are removed.  Before the rice is added to the milk or does it all cook together and only removed before serving?  I guess if the pod doesn't open up and release the seeds when cooking, it could be either.",
+          "datePublished": "2021-03-01T16:57:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Desi"
+          },
+          "reviewBody": "Hello,\n\nFirst of all, this looks delicious. Second, Arroz con Leche is not exclusively Mexican, I'm Venezuelan and I grew up eating it too and it is because it is a Hispanic recipe, and the original recipe is from Spain and France, it arrived to The Americas during the Colony.",
+          "datePublished": "2021-03-02T13:52:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fede KS."
+          },
+          "reviewBody": "Quite delicious, but:\nIt doesn’t matter in how many cups of water you cook the rice.\nUse different/any pot for the rice while you start Step 2 in Dutch oven. No reason to use the same pot for two steps and make the whole procedure lengthier.\nUse more milk, more heavy cream and more sugar!\nBlack cardamon? No, just cardamom. Even ground one is delicious.\nStrawberries powder: not great. I’ll use only cinnamon next time.  \nMuch tastier after refrigeration. Rice pudding ought to be eaten cold.",
+          "datePublished": "2021-03-05T15:20:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Conor"
+          },
+          "reviewBody": "OMG i didn't even look at the context for the recipe until your comment, yes I HAVE had this! Nixta is amazing and really has something for everyone. I'm obsessed with rice based desserts and theirs is truly unbeatable. It has some flavors reminiscent of kheer, but is very much it's own thing.",
+          "datePublished": "2021-03-01T19:56:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Skitchen"
+          },
+          "reviewBody": "I’m persian and for those asking yes you can use tapioca or barley or regular basmati (that’s been soaked). No eggs, the sugar and starch will set the pudding. You can use black or green cardamom. Every family makes Sholeh Zaard differently but the base concept is the same. And yes I get this is a riff. Always slivered almonds and pistachio dust on top with some cinnamon (light dusting).",
+          "datePublished": "2021-03-10T02:36:01.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021939-sholeh-zard-persian-rice-pudding",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Priya Krishna"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "This cozy dessert from Sara Mardanbigi and Edgar Rico, the owners of Nixta Taqueria in Austin, Texas, is a take on sholeh zard, a loose, heavily spiced Persian rice pudding Ms. Mardanbigi grew up eating. It also borrows influence from the Mexican arroz con leche of Mr. Rico’s childhood. Their take is warm and smoky with black cardamom and saffron, velvety from egg yolks and butter, and has a savory finish. It calls for arborio rice instead of the usual basmati to add a slight chew, and strawberry powder instead of rosewater to provide similar floral notes with a punch of acid.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Sholeh Zard (Persian Rice Pudding)",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/5968fd4c-dac6-5d17-929b-06d74c0018a0#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/03/dining/26ricepuddingrex1/26ricepuddingrex1-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-03-01T15:30:00.525Z",
+          "datePublished": "2021-02-26T22:47:38.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-26T22:47:38.000Z",
+          "url": "https://static01.nyt.com/images/2021/03/03/dining/26ricepuddingrex1/26ricepuddingrex1-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/5968fd4c-dac6-5d17-929b-06d74c0018a0#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/03/dining/26ricepuddingrex1/26ricepuddingrex1-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-03-01T15:30:00.525Z",
+          "datePublished": "2021-02-26T22:47:38.000Z",
+          "height": "1448",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-26T22:47:38.000Z",
+          "url": "https://static01.nyt.com/images/2021/03/03/dining/26ricepuddingrex1/26ricepuddingrex1-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/5968fd4c-dac6-5d17-929b-06d74c0018a0#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/03/dining/26ricepuddingrex1/26ricepuddingrex1-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-03-01T15:30:00.525Z",
+          "datePublished": "2021-02-26T22:47:38.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-26T22:47:38.000Z",
+          "url": "https://static01.nyt.com/images/2021/03/03/dining/26ricepuddingrex1/26ricepuddingrex1-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021939-sholeh-zard-persian-rice-pudding"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:57.758Z",
+  "scraping_status": "scraped"
+}

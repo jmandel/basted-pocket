@@ -1,0 +1,588 @@
+{
+  "id": "e7d235928fe5a1a7",
+  "original_url": "https://cooking.nytimes.com/recipes/1022438-cumin-tofu-stir-fry",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1022438-cumin-tofu-stir-fry",
+  "fetched_title": "Cumin Tofu Stir-Fry Recipe",
+  "main_text_content": "Many people may not think of cumin as a traditional seasoning for Chinese food, but the earthy spice is found regularly in the cuisine of Xi’an, a city in northwest China that is the eastern origin of the ancient trade route known as the Silk Road Cumin, chile and Sichuan peppercorns are used generously, resulting in bold, not-for-the-faint-of-heart dishes that combine Chinese and Middle Eastern flavors This recipe, which is adapted from “To Asia, With Love” by Hetty McKinnon, is a vegan riff on the signature lamb dish at Xi’an Famous Foods, a restaurant chain in New York, that is made with chunks of meat dry-fried in a heavy cumin spice mix",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1013036-crispy-lamb-with-cumin-scallions-and-red-chiles\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"A serving of crispy lamb with lots of bright-red ciles is piled high on a white oval plate with a blue rim.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2014/04/01/dining/lamb-cumin-scallions/lamb-cumin-scallions-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2014/04/01/dining/lamb-cumin-scallions/lamb-cumin-scallions-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2014/04/01/dining/lamb-cumin-scallions/lamb-cumin-scallions-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2014/04/01/dining/lamb-cumin-scallions/lamb-cumin-scallions-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2014/04/01/dining/lamb-cumin-scallions/lamb-cumin-scallions-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2014/04/01/dining/lamb-cumin-scallions/lamb-cumin-scallions-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Crispy Lamb With Cumin, Scallions and Red Chiles</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Julia Moskin</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/07/28/dining/hm-cumin-tofu/hm-cumin-tofu-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/e7d235928fe5a1a7/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/a1245759-699e-5618-ac64-bfabc07f325d",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1022438-cumin-tofu-stir-fry",
+        "@type": "WebPage",
+        "name": "Cumin Tofu Stir-Fry"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022438-cumin-tofu-stir-fry",
+      "name": "Cumin Tofu Stir-Fry",
+      "description": "Many people may not think of cumin as a traditional seasoning for Chinese food, but the earthy spice is found regularly in the cuisine of Xi’an, a city in northwest China that is the eastern origin of the ancient trade route known as the Silk Road. Cumin, chile and Sichuan peppercorns are used generously, resulting in bold, not-for-the-faint-of-heart dishes that combine Chinese and Middle Eastern flavors. This recipe, which is adapted from “To Asia, With Love” by Hetty McKinnon, is a vegan riff on the signature lamb dish at Xi’an Famous Foods, a restaurant chain in New York, that is made with chunks of meat dry-fried in a heavy cumin spice mix. This version features tofu and cauliflower.\n \nTo get vegetarian recipes like this one delivered to your inbox, sign up for The Veggie newsletter.",
+      "author": {
+        "@type": "Person",
+        "name": "Margaux Laskey"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/c13c38c0-13de-583d-a259-1d551e1d9308#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Hetty McKinnon’s cumin tofu stir-fry.",
+          "contentUrl": "https://static01.nyt.com/images/2021/07/28/dining/hm-cumin-tofu/hm-cumin-tofu-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-02-08T22:11:47.897Z",
+          "datePublished": "2021-07-28T14:54:14.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-07-28T14:54:14.000Z",
+          "url": "https://static01.nyt.com/images/2021/07/28/dining/hm-cumin-tofu/hm-cumin-tofu-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/c13c38c0-13de-583d-a259-1d551e1d9308#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Hetty McKinnon’s cumin tofu stir-fry.",
+          "contentUrl": "https://static01.nyt.com/images/2021/07/28/dining/hm-cumin-tofu/hm-cumin-tofu-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-02-08T22:11:47.897Z",
+          "datePublished": "2021-07-28T14:54:14.000Z",
+          "height": "1373",
+          "representativeOfPage": true,
+          "uploadDate": "2021-07-28T14:54:14.000Z",
+          "url": "https://static01.nyt.com/images/2021/07/28/dining/hm-cumin-tofu/hm-cumin-tofu-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/c13c38c0-13de-583d-a259-1d551e1d9308#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "caption": "Hetty McKinnon’s cumin tofu stir-fry.",
+          "contentUrl": "https://static01.nyt.com/images/2021/07/28/dining/hm-cumin-tofu/hm-cumin-tofu-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-02-08T22:11:47.897Z",
+          "datePublished": "2021-07-28T14:54:14.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-07-28T14:54:14.000Z",
+          "url": "https://static01.nyt.com/images/2021/07/28/dining/hm-cumin-tofu/hm-cumin-tofu-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, main course",
+      "keywords": "cauliflower, cumin, extra-firm tofu, gochugaru, ground cumin, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 2092
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 627,
+        "unsaturatedFatContent": "42 grams",
+        "carbohydrateContent": "41 grams",
+        "cholesterolContent": null,
+        "fatContent": "47 grams",
+        "fiberContent": "4 grams",
+        "proteinContent": "14 grams",
+        "saturatedFatContent": "4 grams",
+        "sodiumContent": "716 milligrams",
+        "sugarContent": "4 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 tablespoon tamari or soy sauce",
+        "1 tablespoon shaoxing rice wine (or dry sherry, mirin or white wine)",
+        "1/2 teaspoon kosher salt",
+        "1 (14-ounce) package extra-firm tofu, drained and cut into ¾-inch cubes",
+        "3 tablespoons potato starch or cornstarch",
+        "2 tablespoons ground cumin",
+        "2 teaspoons gochugaru (Korean red chile flakes), red-pepper flakes or Sichuan chile flakes",
+        "1/2 teaspoon granulated sugar",
+        "1/2 teaspoon kosher salt",
+        "Vegetable or other neutral oil",
+        "1 onion, finely sliced",
+        "1 (1/2- to 1-inch) red chile, such as serrano (or jalapeno), sliced diagonally (seeds removed if you like less heat)",
+        "1 (1-inch) piece of ginger, peeled and finely chopped",
+        "1 garlic clove, finely chopped",
+        "10 ½ ounces cauliflower, cut into bite-size florets (about 3½ cups)",
+        "Big handful of cilantro leaves",
+        "1 tablespoon toasted white sesame seeds",
+        "Kosher salt",
+        "Rice, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the marinated tofu: Combine the tamari or soy sauce, shaoxing rice wine and salt in a bowl. Add the tofu cubes and toss to coat. Allow to marinate at room temperature for 20 to 30 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, make the spice mix: Combine cumin, gochugaru, sugar and salt in a small bowl and set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Drain the tofu. Place the potato starch or cornstarch in an even layer on a plate, add the marinated tofu cubes and turn gently to coat."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat a large frying pan over high for 3 minutes. Drizzle with 2 tablespoons oil and add a tofu cube. If the oil sizzles, it’s hot enough. Add all the tofu cubes, being careful of spattering, arranging them in one layer and separating them from one another. Reduce the heat to medium and allow the tofu to cook, undisturbed, for 1 to 2 minutes, until the bottom is golden. Flip the tofu and cook until golden on all sides. Transfer the tofu to a plate lined with paper towels. Wipe out the pan."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add a little more oil to the pan, toss in the onion, chile, ginger and garlic, and stir-fry for about 1 minute until fragrant. Add the cauliflower, season with salt and stir-fry for 4 to 6 minutes, until the cauliflower is just tender. (Add 1 to 2 tablespoons of water, if needed, to help move it along, while still keeping the dish dry.) Add the tofu, along with the spice mix, and stir to combine. Take the pan off the heat."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Taste and season with a touch of salt, if needed. Top with the cilantro and sesame seeds, then toss everything together, and serve with rice."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-02-18T00:00:00.000Z",
+      "dateModified": "2024-06-10T20:48:46.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SF Home Chef"
+          },
+          "reviewBody": "I didn't bother with the cornstarch, and the tofu had a nice brown crust without it. You can really use any veggie, not just cauliflower. I prefer green beans or broccoli for more balanced color. Tofu, cauliflower and rice is too much white. I doubled the sauce and threw the remainder of it into the veggies after adding the cumin mixture. This came out really well, love the flavors.",
+          "datePublished": "2025-05-04T03:41:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amdeca"
+          },
+          "reviewBody": "I made it per the recipe but didnt have gochugaru so subbed 1/2 chile powder and 1/2 paprika.  It came out SOOO delicious.  Would definitely male again.",
+          "datePublished": "2025-03-15T05:00:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "HolMas"
+          },
+          "reviewBody": "This was delicious!  We served on rice with cilantro and lime at the end and it was over the top!\nWe followed advice to cut cumin and red pepper flakes in half and appreciated the info.  The cauliflower took much longer to cook and I think I will steam it first a bit to soften.\nDefinitely recommend!!",
+          "datePublished": "2025-02-12T00:14:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chloé"
+          },
+          "reviewBody": "Great recipe for a bit of a different, lighter stir fry! I will say thanks to other comments I reduced by half the quantity of spices used and it’s more than enough flavour for the dish. I served mine some black rice, a dollop of Greek yogurt and some more chili sauce and it was a great mix!",
+          "datePublished": "2024-11-19T23:23:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gabe"
+          },
+          "reviewBody": "Agree with everyone else who has said you should add the spice blend when you’re cooking the onions.  Also think I’d prefer to just roast the cauliflower for a bit first then stir it in with the tofu and onion mixture",
+          "datePublished": "2024-11-17T00:22:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "quick, delish and healthy."
+          },
+          "reviewBody": "Too dry. Needs moisture. Too cuminy. 2tbsp in retrospect seems like a lot. \nIt just seemed a little less flavorful than I had anticipated. I spiced up my dish with a little chili crisp and a couple dashes of extra soy sauce.",
+          "datePublished": "2024-08-13T00:08:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robert"
+          },
+          "reviewBody": "Followed the recipe but hotter than I expected. I’ll reduce the peppers next time.",
+          "datePublished": "2024-07-23T00:57:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CaliCook"
+          },
+          "reviewBody": "Following others' suggestions, I fried the onions before adding the garlic and ginger (no chili), and then the spice mix (1 tbsp cumin, 1 tsp chile flakes), then the cauliflower. I steamed the cauliflower for maybe 5 minutes.  The only thing I would change would be to chop the onions rather than slice them; chopping them would distribute them more evenly across the dish. Delicious!",
+          "datePublished": "2024-06-30T05:04:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dave B"
+          },
+          "reviewBody": "Good recipe. Followed the suggestion of adding spices with the onions and garlic and ginger. Used a mixture of gochugaru and sichuan peppercorns both ground and whole.  Also added a tsp of sesame oil which gave a nice subtle nutty undertone.\n\n2 tbsp of cumin was not too much, but it did need some more kick. I would add a little crushed red pepper or some of the dried Chinese chilies I got at the Asian market to give it a little more heat next time.",
+          "datePublished": "2024-06-12T00:28:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cooking for teens"
+          },
+          "reviewBody": "They should have said that if you used pepper flakes/crushed red pepper to use much less!   I thought they were the same and it came out inedible. Too spicy :(.   It smelled great cooking it.  Too bad.",
+          "datePublished": "2024-06-03T02:14:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Name"
+          },
+          "reviewBody": "Agreed! Spices are so much better toasted and ground in your own kitchen",
+          "datePublished": "2025-02-03T21:08:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Raphaëlle"
+          },
+          "reviewBody": "Used tofu that had previously been frozen and that I drained really well; it gives it that meaty texture Im looking for whenever I make these kind of stir- fry. I never buy cumin powder ( the comments on this recipe are why I never cook with that) so I used 2 tbsp as called for of cumin seeds that I put with the rest of the spice mix in a mortar and pillar. I prefer brocoli so I used that. I think it was great and very tasty!",
+          "datePublished": "2024-04-13T20:17:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suja"
+          },
+          "reviewBody": "I put in only half the quantity as suggested by another poster and it was still too much. If I make this dish again, I’d add 1 tsp of whole cumin to the hot oil and skip the cumin powder altogether.",
+          "datePublished": "2024-04-05T21:28:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "GM"
+          },
+          "reviewBody": "This didn’t work for me- way too much cumin, completely raw. Should have read the other reviews first. I ended up having to put the whole mess in the pressure cooker. Would not recommend even with adaptations.",
+          "datePublished": "2024-03-23T22:21:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "den"
+          },
+          "reviewBody": "Very good as is, but you have to love cumin. We thought it needed a sauce. Next time would add something like avocado lime or perhaps Perinaise.",
+          "datePublished": "2024-03-23T19:24:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christine"
+          },
+          "reviewBody": "Cauliflower definitely needs water and much longer to soften but it’s delicious.",
+          "datePublished": "2024-03-23T13:51:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul from Long Island"
+          },
+          "reviewBody": "I've made dishes like this, and I prefer roasting the marinated tofu on parchment at 400 degrees for about 25 minutes instead of frying.  It's less messy and more consistent.",
+          "datePublished": "2021-08-03T17:23:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex"
+          },
+          "reviewBody": "Thank you for listing ingredient substitutions right in the recipe! It's so refreshing to have that info right at hand, and to know that I don't have to go out and buy potato starch or shaoxing wine. I know it won't taste *exactly* the same but but I'm actually willing to try making it. Seems like a good trade off.",
+          "datePublished": "2021-07-30T16:55:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Indian dude"
+          },
+          "reviewBody": "This recipe has the potential to be good, but as written it has some shortcomings. First, the ratio of cumin to cauliflower and tofu is way too high. I'm Indian and eat a lot of cumin and love it. I would halve the cumin. Second, it's added too late in the recipe. It was too raw/powdery/overwhelming. Now, I add it, right after I add the onions to the pan, sauté for a minute or two, then add cauliflower and a little bit of water, give it a good stir, and cover the pan.",
+          "datePublished": "2021-09-10T15:36:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "renee"
+          },
+          "reviewBody": "I always dredge tofu in cornstarch when I stir-fry. The easier way to do it is to put the cornstarch in a ziplock bag, toss in the tofu, and shake it. (I also always sub mirin for Shaoxing wine. How many rice wines do I really need?)",
+          "datePublished": "2021-07-30T17:55:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ms D"
+          },
+          "reviewBody": "And if you don't want to use/waste a plastic for tossing the tofu in cornstarch, just use a small paper bag if you have them hanging around.   We use sooooo much plastic in this country.",
+          "datePublished": "2022-01-21T16:58:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joan"
+          },
+          "reviewBody": "Always freeze tofu to improve texture. When defrosted you just have to hand-press it on a plate & tip the liquid into the sink (no wet towels.) Repeat until most of the liquid is gone.  Then the marinade will absorb completely; nothing to drain. Plastic bag for cornstarch tossing. Spices added with the onions. So delicious! Nothing but crumbs left on the plate but my dog licked it for 20 min!",
+          "datePublished": "2021-08-01T17:20:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cory"
+          },
+          "reviewBody": "Here are some I did to make this dish perfect:\n\n1. Add the spice mixture after the Chile,ginger,garlic, and onion have cooked for a minute. Cook the spices until fragrant, about 30 seconds. \n\n2. Add the cauliflower and 2 tablespoons of water. Cover the pans/wok and let it steam for a minimum of 3 minutes over medium-high heat. The cauliflower should be crisp tender and maybe even slightly charred. Then add tofu and continue as listed. \n\nNotes:\n1. I love cumin but I found this a bit much.",
+          "datePublished": "2021-08-03T01:00:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Georgina"
+          },
+          "reviewBody": "This sounds delicious.  Thank you for the vegan adaptation.  Grateful to have recipes showing that tempting and flavorful dishes don't have to be unhealthily drenched in cream, butter, cheese, other fats, and meat--most of the world doesn't eat the way the U.S. does!",
+          "datePublished": "2021-07-30T18:04:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "anne"
+          },
+          "reviewBody": "try with just a touch of crushed red pepper or cayenne instead of gochugaru (to taste).\nsubstitute a mild pepper for the jalapeno if you don't want any heat",
+          "datePublished": "2021-07-30T15:15:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ken"
+          },
+          "reviewBody": "Also, the cumin tastes raw when added at the last.  Would suggest putting the spices in when cooking the veggies, then add back the fried tofu at the very end.",
+          "datePublished": "2021-07-31T22:32:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alice"
+          },
+          "reviewBody": "A few roasted cashews provide heft, texture, and flavor, and complement the tofu. Such a versatile recipe! To the cauliflower, I added a red bell pepper, a few baby broccoli heads, and some tiny yellow squash from the garden. Preferred cooking the onions alone until they began to caramelize, and then adding the garlic & ginger (used 2x what is called for), cauliflower, etc. A drizzle of toasted sesame oil replaced the seeds, and gochugaru paste, a bit like spicy hoisin, complemented as a dip.",
+          "datePublished": "2021-08-13T04:53:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Posy Gering"
+          },
+          "reviewBody": "I made this with a fraction of the oil, cooked the tofu in one pan and the veg in another. I know it’s not the same, but good enough - and fast enough-  for a delicious weight watcher lunch. And sub’d green beans for cauliflower. \nDefinitely will do again",
+          "datePublished": "2021-07-30T21:09:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Norma Lehmeier Hartie"
+          },
+          "reviewBody": "Strange recipe. Way too little liquid--especially if serving with rice, as suggested. Also, adding spices after veggies and water are cooking is wrong. One needs to cook spices in oil to bring out their flavours and to avoid that chaulky taste. If you do make this, add spices after onion and stir well for a minute or two. I also added about a cup of stock to make some sauce to mix with rice.",
+          "datePublished": "2021-11-10T15:09:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cassidy"
+          },
+          "reviewBody": "Loved, loved loved this recipe. Tasted just like the cumin lamb we get at our favorite Chinese restaurant in town, and was so easy to replicate. Used bok choy, carrots, eggplant as veggies, skipped the chile. Next time would probably also cut red pepper flakes in half. Added water to the spice mix and put it in with the bok choy leaves at end of veggie cooking time and then threw the tofu back in at the very end to keep it crispy. Delicious.",
+          "datePublished": "2021-08-03T01:46:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jaime"
+          },
+          "reviewBody": "This was great; two very minor modifications. I covered the tofu cubes top and bottom with clean towels and pressed them dry between two half-sheets for half an hour before marinating and I added a couple of sliced scallions to the sesame seeds and cilantro when I dressed it up at the end. Fantastic stuff. Just a great great recipe. Thank you.",
+          "datePublished": "2021-08-01T02:38:20.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1022438-cumin-tofu-stir-fry",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Margaux Laskey"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "Many people may not think of cumin as a traditional seasoning for Chinese food, but the earthy spice is found regularly in the cuisine of Xi’an, a city in northwest China that is the eastern origin of the ancient trade route known as the Silk Road. Cumin, chile and Sichuan peppercorns are used generously, resulting in bold, not-for-the-faint-of-heart dishes that combine Chinese and Middle Eastern flavors. This recipe, which is adapted from “To Asia, With Love” by Hetty McKinnon, is a vegan riff on the signature lamb dish at Xi’an Famous Foods, a restaurant chain in New York, that is made with chunks of meat dry-fried in a heavy cumin spice mix. This version features tofu and cauliflower.\n \nTo get vegetarian recipes like this one delivered to your inbox, sign up for The Veggie newsletter.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Cumin Tofu Stir-Fry",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/c13c38c0-13de-583d-a259-1d551e1d9308#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Hetty McKinnon’s cumin tofu stir-fry.",
+          "contentUrl": "https://static01.nyt.com/images/2021/07/28/dining/hm-cumin-tofu/hm-cumin-tofu-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-02-08T22:11:47.897Z",
+          "datePublished": "2021-07-28T14:54:14.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-07-28T14:54:14.000Z",
+          "url": "https://static01.nyt.com/images/2021/07/28/dining/hm-cumin-tofu/hm-cumin-tofu-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/c13c38c0-13de-583d-a259-1d551e1d9308#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Hetty McKinnon’s cumin tofu stir-fry.",
+          "contentUrl": "https://static01.nyt.com/images/2021/07/28/dining/hm-cumin-tofu/hm-cumin-tofu-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-02-08T22:11:47.897Z",
+          "datePublished": "2021-07-28T14:54:14.000Z",
+          "height": "1373",
+          "representativeOfPage": true,
+          "uploadDate": "2021-07-28T14:54:14.000Z",
+          "url": "https://static01.nyt.com/images/2021/07/28/dining/hm-cumin-tofu/hm-cumin-tofu-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/c13c38c0-13de-583d-a259-1d551e1d9308#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "caption": "Hetty McKinnon’s cumin tofu stir-fry.",
+          "contentUrl": "https://static01.nyt.com/images/2021/07/28/dining/hm-cumin-tofu/hm-cumin-tofu-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-02-08T22:11:47.897Z",
+          "datePublished": "2021-07-28T14:54:14.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-07-28T14:54:14.000Z",
+          "url": "https://static01.nyt.com/images/2021/07/28/dining/hm-cumin-tofu/hm-cumin-tofu-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022438-cumin-tofu-stir-fry"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:13.925Z",
+  "scraping_status": "scraped"
+}

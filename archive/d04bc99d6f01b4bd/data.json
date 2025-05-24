@@ -1,0 +1,257 @@
+{
+  "id": "d04bc99d6f01b4bd",
+  "original_url": "https://niksharmacooks.com/passion-fruit-curd-2/",
+  "canonical_url": "https://niksharmacooks.com/passion-fruit-curd-2/",
+  "fetched_title": "Passion Fruit Curd | Desserts | Nik Sharma Cooks",
+  "main_text_content": "Jump to Recipe &middot; Print Recipe",
+  "main_html_content": "<div class=\"elementor-widget-container\">\n\t\t\t\t\t<div class=\"tasty-recipes-quick-links\">\n<a class=\"tasty-recipes-jump-link tasty-recipes-scrollto\" href=\"#tasty-recipes-5187-jump-target\">Jump to Recipe</a><span>&middot;</span><a class=\"tasty-recipes-print-link\" href=\"https://niksharmacooks.com/passion-fruit-curd-2/print/5187/\">Print Recipe</a>",
+  "publication_date": "2023-12-05T15:09:56+00:00",
+  "author": "Nik Sharma",
+  "key_image_url": "https://niksharmacooks.com/wp-content/uploads/2022/03/passionfruitcurd_blog.jpg",
+  "local_image_path": "scraped/d04bc99d6f01b4bd/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "TechArticle",
+          "@id": "https://niksharmacooks.com/passion-fruit-curd-2/#article",
+          "isPartOf": {
+            "@id": "https://niksharmacooks.com/passion-fruit-curd-2/"
+          },
+          "author": {
+            "name": "Nik Sharma",
+            "@id": "https://niksharmacooks.com/#/schema/person/e6f2ee9ab233f0bdbf438f228fb55536"
+          },
+          "headline": "Passion Fruit Curd",
+          "datePublished": "2023-12-05T15:09:56+00:00",
+          "dateModified": "2023-12-05T15:09:57+00:00",
+          "wordCount": 94,
+          "publisher": {
+            "@id": "https://niksharmacooks.com/#/schema/person/e6f2ee9ab233f0bdbf438f228fb55536"
+          },
+          "image": {
+            "@id": "https://niksharmacooks.com/passion-fruit-curd-2/#primaryimage"
+          },
+          "thumbnailUrl": "https://niksharmacooks.com/wp-content/uploads/2022/03/passionfruitcurd_blog.jpg",
+          "keywords": [
+            "baking",
+            "butter",
+            "christmas",
+            "dessert",
+            "desserts",
+            "eggs",
+            "food",
+            "food photography",
+            "food styling",
+            "fruit",
+            "gluten free",
+            "holidays",
+            "passion fruit",
+            "passion fruit curd",
+            "sugar",
+            "sweets",
+            "vegetarian"
+          ],
+          "articleSection": [
+            "Christmas",
+            "Desserts",
+            "Easter",
+            "Fruit",
+            "Gluten Free",
+            "Holidays",
+            "July 4th",
+            "linkinbio",
+            "Memorial Day",
+            "Sweet Bites",
+            "Vegetarian"
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://niksharmacooks.com/passion-fruit-curd-2/",
+          "url": "https://niksharmacooks.com/passion-fruit-curd-2/",
+          "name": "Passion Fruit Curd | Desserts | Nik Sharma Cooks",
+          "isPartOf": {
+            "@id": "https://niksharmacooks.com/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://niksharmacooks.com/passion-fruit-curd-2/#primaryimage"
+          },
+          "image": {
+            "@id": "https://niksharmacooks.com/passion-fruit-curd-2/#primaryimage"
+          },
+          "thumbnailUrl": "https://niksharmacooks.com/wp-content/uploads/2022/03/passionfruitcurd_blog.jpg",
+          "datePublished": "2023-12-05T15:09:56+00:00",
+          "dateModified": "2023-12-05T15:09:57+00:00",
+          "breadcrumb": {
+            "@id": "https://niksharmacooks.com/passion-fruit-curd-2/#breadcrumb"
+          },
+          "inLanguage": "en-US",
+          "potentialAction": [
+            {
+              "@type": "ReadAction",
+              "target": [
+                "https://niksharmacooks.com/passion-fruit-curd-2/"
+              ]
+            }
+          ]
+        },
+        {
+          "@type": "ImageObject",
+          "inLanguage": "en-US",
+          "@id": "https://niksharmacooks.com/passion-fruit-curd-2/#primaryimage",
+          "url": "https://niksharmacooks.com/wp-content/uploads/2022/03/passionfruitcurd_blog.jpg",
+          "contentUrl": "https://niksharmacooks.com/wp-content/uploads/2022/03/passionfruitcurd_blog.jpg",
+          "width": 1132,
+          "height": 1698,
+          "caption": "exc-61e88d0e5262800d040026ad"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://niksharmacooks.com/passion-fruit-curd-2/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://niksharmacooks.com/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Recipes",
+              "item": "https://niksharmacooks.com/recipes/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Recipe Index",
+              "item": "https://niksharmacooks.com/recipes/recipe-index/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Desserts",
+              "item": "https://niksharmacooks.com/recipes/recipe-index/desserts/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Passion Fruit Curd"
+            }
+          ]
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://niksharmacooks.com/#website",
+          "url": "https://niksharmacooks.com/",
+          "name": "Nik Sharma Cooks",
+          "description": "Approachable Food Science and Delicious Recipes For Everyone",
+          "publisher": {
+            "@id": "https://niksharmacooks.com/#/schema/person/e6f2ee9ab233f0bdbf438f228fb55536"
+          },
+          "potentialAction": [
+            {
+              "@type": "SearchAction",
+              "target": {
+                "@type": "EntryPoint",
+                "urlTemplate": "https://niksharmacooks.com/?s={search_term_string}"
+              },
+              "query-input": {
+                "@type": "PropertyValueSpecification",
+                "valueRequired": true,
+                "valueName": "search_term_string"
+              }
+            }
+          ],
+          "inLanguage": "en-US"
+        },
+        {
+          "@type": [
+            "Person",
+            "Organization"
+          ],
+          "@id": "https://niksharmacooks.com/#/schema/person/e6f2ee9ab233f0bdbf438f228fb55536",
+          "name": "Nik Sharma",
+          "image": {
+            "@type": "ImageObject",
+            "inLanguage": "en-US",
+            "@id": "https://niksharmacooks.com/#/schema/person/image/",
+            "url": "https://niksharmacooks.com/wp-content/uploads/2022/11/logo_blu_bg.png",
+            "contentUrl": "https://niksharmacooks.com/wp-content/uploads/2022/11/logo_blu_bg.png",
+            "width": 600,
+            "height": 429,
+            "caption": "Nik Sharma"
+          },
+          "logo": {
+            "@id": "https://niksharmacooks.com/#/schema/person/image/"
+          },
+          "sameAs": [
+            "https://www.facebook.com/abrowntableblog",
+            "https://www.instagram.com/abrowntable/",
+            "https://www.pinterest.ca/abrowntable/",
+            "https://x.com/https://twitter.com/abrowntable",
+            "https://www.youtube.com/channel/UCb8wjiFbyqqGtd3AFSsSeyg"
+          ]
+        },
+        {
+          "@context": "https://schema.org/",
+          "@type": "Recipe",
+          "name": "Passion Fruit Curd",
+          "description": "The irresistible combination of tangy and sweet flavors come together in this passion fruit curd marked by the fruit’s signature tropical aroma. I eat it straight by the spoon or fold it into ice creams, or as a filling for cakes and cookies, and over fresh fruit on a hot summer day.",
+          "author": {
+            "@type": "Person",
+            "name": "Nik Sharma",
+            "url": "/author/nik-sharma/"
+          },
+          "image": [
+            "https://niksharmacooks.com/wp-content/uploads/2022/09/1_passionfruitcurd_blog-225x225.jpg",
+            "https://niksharmacooks.com/wp-content/uploads/2022/09/1_passionfruitcurd_blog-260x195.jpg",
+            "https://niksharmacooks.com/wp-content/uploads/2022/09/1_passionfruitcurd_blog-320x180.jpg",
+            "https://niksharmacooks.com/wp-content/uploads/2022/09/1_passionfruitcurd_blog.jpg"
+          ],
+          "url": "https://niksharmacooks.com/passion-fruit-curd-2/",
+          "recipeIngredient": [
+            "2 large eggs",
+            "2 additional yolks",
+            "1 cup/200 g sugar",
+            "1 cup/240 ml passion fruit extract",
+            "½ cup/110 g unsalted butter, cubed and softened to room temperature",
+            "¼ tsp fine sea salt"
+          ],
+          "recipeInstructions": [
+            {
+              "@type": "HowToStep",
+              "text": "Fill an electric kettle with water and set it to a boil.",
+              "url": "https://niksharmacooks.com/passion-fruit-curd-2/#instruction-step-1"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Fill a medium saucepan with about 1 in/2.5 cm of water and bring to a simmer over low heat. Place a large heatproof bowl over the saucepan. The water should not touch the base of the bowl. Place the eggs and sugar in the bowl and whisk using an electric whisk till the mixture thickens and turns pale yellow at about 151F/66C, around 6 to 8 minutes.",
+              "url": "https://niksharmacooks.com/passion-fruit-curd-2/#instruction-step-2"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Whisk in the passion fruit juice, butter, and salt over low speed while continuing to heat the mixture. If, at any time, the water in the saucepan gets low, you can add a bit of hot water from the kettle. Whisk the mixture till combined, then switch to a silicone spatula and stir the mixture constantly while cooking. Cook till the mixture thickens at about 165F to 170F/74C to 77C, about 10 to 12 minutes, scraping the sides of the bowl with the spatula. The liquid curd should be very thick like a custard. Coat the back of a spoon with the custard, and draw a line with your finger; the line should stay. Remove and transfer the curd to a container. You can also strain the curd through a fine-mesh sieve lined with cheesecloth to remove any bits. Press a piece of plastic film on the surface and refrigerate for at least 4 hours until chilled. This curd can be prepared and refrigerated for up to 1 week or frozen for 3 months.",
+              "url": "https://niksharmacooks.com/passion-fruit-curd-2/#instruction-step-3"
+            }
+          ],
+          "recipeYield": [
+            "2",
+            "2.5 cups/520 g"
+          ],
+          "datePublished": "2023-12-05",
+          "@id": "https://niksharmacooks.com/passion-fruit-curd-2/#recipe",
+          "isPartOf": {
+            "@id": "https://niksharmacooks.com/passion-fruit-curd-2/#article"
+          },
+          "mainEntityOfPage": "https://niksharmacooks.com/passion-fruit-curd-2/"
+        }
+      ]
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:19:33.804Z",
+  "scraping_status": "scraped"
+}

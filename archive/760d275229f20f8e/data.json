@@ -1,0 +1,585 @@
+{
+  "id": "760d275229f20f8e",
+  "original_url": "https://cooking.nytimes.com/recipes/1024701-roasted-vegetables-with-creamy-coconut-dressing",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1024701-roasted-vegetables-with-creamy-coconut-dressing",
+  "fetched_title": "Roasted Vegetables With Creamy Coconut Dressing Recipe",
+  "main_text_content": "A creamy, tangy dressing enlivens a warm vegetable salad of roast carrots, beets and fennel Coconut cream adds a lovely richness to the vinaigrette while ginger brings a bite and the acidity of rice vinegar and limes deliver a slight pucker To achieve a nice golden brown caramelization while roasting your vegetables, make sure the cut pieces are dry and spread evenly on the sheet pan",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1022209-roasted-carrots-with-shallots-mozzarella-and-spicy-bread-crumbs\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"A sheet pan containing bread crumb-topped roasted carrots sits on a marble surface. Dill and mint garnish the dish.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2021/05/19/dining/17alliumrex2-carrots/17alliumrex2-carrots-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2021/05/19/dining/17alliumrex2-carrots/17alliumrex2-carrots-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2021/05/19/dining/17alliumrex2-carrots/17alliumrex2-carrots-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2021/05/19/dining/17alliumrex2-carrots/17alliumrex2-carrots-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2021/05/19/dining/17alliumrex2-carrots/17alliumrex2-carrots-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2021/05/19/dining/17alliumrex2-carrots/17alliumrex2-carrots-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2021/05/19/dining/17alliumrex2-carrots/17alliumrex2-carrots-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2021/05/19/dining/17alliumrex2-carrots/17alliumrex2-carrots-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Roasted Carrots With Shallots, Mozzarella and Spicy Bread Crumbs</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/10/06/multimedia/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/760d275229f20f8e/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/ffe42f7c-a605-54b4-8c19-712c9ff36b37",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1024701-roasted-vegetables-with-creamy-coconut-dressing",
+        "@type": "WebPage",
+        "name": "Roasted Vegetables With Creamy Coconut Dressing"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024701-roasted-vegetables-with-creamy-coconut-dressing",
+      "name": "Roasted Vegetables With Creamy Coconut Dressing",
+      "description": "A creamy, tangy dressing enlivens a warm vegetable salad of roast carrots, beets and fennel. Coconut cream adds a lovely richness to the vinaigrette while ginger brings a bite and the acidity of rice vinegar and limes deliver a slight pucker. To achieve a nice golden brown caramelization while roasting your vegetables, make sure the cut pieces are dry and spread evenly on the sheet pan. And those fennel fronds — save them! They add a nice licorice flavor to tingle your palate ever so slightly once chopped and tossed over the finished dish.",
+      "author": {
+        "@type": "Person",
+        "name": "Yewande Komolafe"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/c43c488a-94cf-5f69-af14-fe63981a1ae7#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/10/06/multimedia/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Kelly Marshall for The New York Times. Food Stylist: Roscoe Betsill. Prop Stylist: Paige Hicks.",
+          "dateModified": "2023-12-14T17:13:36.899Z",
+          "datePublished": "2023-10-10T19:44:41.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-10-10T19:44:41.000Z",
+          "url": "https://static01.nyt.com/images/2023/10/06/multimedia/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/c43c488a-94cf-5f69-af14-fe63981a1ae7#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/10/06/multimedia/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz-superJumbo.jpg",
+          "creditText": "Kelly Marshall for The New York Times. Food Stylist: Roscoe Betsill. Prop Stylist: Paige Hicks.",
+          "dateModified": "2023-12-14T17:13:36.899Z",
+          "datePublished": "2023-10-10T19:44:41.000Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2023-10-10T19:44:41.000Z",
+          "url": "https://static01.nyt.com/images/2023/10/06/multimedia/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/c43c488a-94cf-5f69-af14-fe63981a1ae7#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/10/06/multimedia/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz-mediumSquareAt3X.jpg",
+          "creditText": "Kelly Marshall for The New York Times. Food Stylist: Roscoe Betsill. Prop Stylist: Paige Hicks.",
+          "dateModified": "2023-12-14T17:13:36.899Z",
+          "datePublished": "2023-10-10T19:44:41.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-10-10T19:44:41.000Z",
+          "url": "https://static01.nyt.com/images/2023/10/06/multimedia/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT50M",
+      "totalTime": "PT1H5M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, vegetables, main course, side dish",
+      "keywords": "beet, carrot, coconut cream, fennel, healthy, salad, fall, winter, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 702
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 379,
+        "unsaturatedFatContent": "14 grams",
+        "carbohydrateContent": "47 grams",
+        "cholesterolContent": null,
+        "fatContent": "22 grams",
+        "fiberContent": "13 grams",
+        "proteinContent": "6 grams",
+        "saturatedFatContent": "7 grams",
+        "sodiumContent": "1106 milligrams",
+        "sugarContent": "25 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1½ pounds carrots, trimmed, scrubbed and cut into 3-inch pieces, halved lengthwise if thick",
+        "1 pound yellow beets, trimmed, scrubbed and quartered or cut into eighths if large",
+        "1 pound fennel bulbs, tops and fronds trimmed and fronds saved, bulbs cut into eighths",
+        "1/4 cup neutral oil, such as grapeseed",
+        "Salt and pepper",
+        "1/3 cup unsweetened coconut cream",
+        "One 1-inch piece ginger, scrubbed and finely grated",
+        "1 tablespoon honey",
+        "2 teaspoons rice vinegar",
+        "2 teaspoons fish sauce or soy sauce",
+        "1 teaspoon Dijon mustard",
+        "1 lime"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 400 degrees."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "On a half-sheet pan, drizzle vegetables with oil and toss to evenly coat. Season lightly with salt and pepper. Roast until vegetables are tender and golden brown, about 40 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, in a small bowl, whisk together coconut cream, ginger, honey, vinegar, fish sauce and mustard. Zest the lime right into the bowl. Squeeze in a tablespoon of lime juice and season lightly with salt and pepper. Taste the sauce and add lime juice or salt and pepper if necessary."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Drizzle the dressing over the roasted vegetables while they’re still hot and toss to evenly coat. Top with fennel fronds and serve warm or at room temperature."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-10-10T00:00:00.000Z",
+      "dateModified": "2023-10-10T21:20:30.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ann S"
+          },
+          "reviewBody": "This recipe is absolutely delicious, I used carrots, parsnip, and fennel. As far as veggies go this is a super adaptable recipe. I doubled the dressing and paired with a five spice rubbed pork tenderloin along with honey and ginger flavored coconut rice. My carnivore leaning husband raved and it has been voted a place in the regular rotation by the entire family.",
+          "datePublished": "2025-04-02T17:41:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rheta"
+          },
+          "reviewBody": "The sauce is great! I doubled it as suggested and used the fish sauce option. I also used different vegetables as I had them on hand (potatoes, carrots, sweet potatoes, broccoli) and serve it all on jasmine rice. Will try it as written but really this sauce can go with whatever roasted vegetables you like.",
+          "datePublished": "2025-04-01T02:12:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sara"
+          },
+          "reviewBody": "Delicious. I forgot the mustard and it was still great. Also sprinkled top with chopped carrot greens along with the fennel fronds--a lovely earthy-green addition.",
+          "datePublished": "2025-03-27T17:35:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hillary"
+          },
+          "reviewBody": "Heavenly",
+          "datePublished": "2025-02-16T06:56:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Randy"
+          },
+          "reviewBody": "Made this with leeks substituted for fennel. Was delicious with our friends requesting the recipe.",
+          "datePublished": "2025-02-15T22:10:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hillary"
+          },
+          "reviewBody": "Made this yesterday and it was the perfect winter pick-me-up warm salad. The dressing is gorgeous and the lime...heavenly. Served it on coconut rice I made with the left over coconut cream and I was over the moon.",
+          "datePublished": "2025-01-19T10:39:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie"
+          },
+          "reviewBody": "My meat and potatoes-eating husband loved this dish. I followed the recipe exactly except that I doubled the sauce, as one can of coconut cream was double the amount in the recipe. I have sauce left over but will roast more veggies tonight.",
+          "datePublished": "2025-01-15T13:32:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bryan"
+          },
+          "reviewBody": "I took some of the commenters’ advice and doubled the sauce recipe, so I would have extra for the vegetables and some sautéed shrimp. I mixed half of the sauce in with the vegetables and then reduced the rest a little bit in the oil I cooked the shrimp with some garlic and ginger in. Dressed the whole dish with some of the reduced sauce. Turned out great!",
+          "datePublished": "2025-01-09T04:06:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bryan"
+          },
+          "reviewBody": "With the sauce having such strong sweet, sour and salty flavors, I felt it was almost a crime to not add some spice stronger than black pepper. I added a large pinch of red pepper flakes to it.",
+          "datePublished": "2025-01-09T04:16:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "European"
+          },
+          "reviewBody": "I cut my fennel into chopped pieces I guess 1in. It takes 12-15 minutes at 200C fan on a not crowded baking tin. Same as bell peppers, carrots, onions, parsnips. Therefore I think you cut the fennel too large.",
+          "datePublished": "2025-03-26T18:48:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "froggs"
+          },
+          "reviewBody": "This was pretty good. Made as written, as a Thanksgiving side. \n\nI had never prepared fennel as a roasted vegetable before. I found that even when cut into eighths to speed cooking, fennel bulbs are very tough. They were not done at the same time as the carrots & yellow beets. Dressing is tasty, if you like lime-coconut flavors. \n\nIf I made this again, I’d put the fennel in for 10-15 min first on its own.",
+          "datePublished": "2024-11-29T03:33:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "No hate, all love"
+          },
+          "reviewBody": "Coconut milk is the issue - not enough fat. Coconut cream is all fat. Both fat and sugar (honey) softens tart flavours. That's why a certain coffee chain, latte using Monin ginger syrup and whole milk tastes less bitter (coffee) than a the same coffee swapping whole milk for semi skimmed milk. It's the combination of fat and sugar. BUT the author notes it's a tart dressing. Which I agree with, you want a tart dressing to counteract the greasy vegetables. But each to their own.",
+          "datePublished": "2025-03-26T18:56:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathy G"
+          },
+          "reviewBody": "Nice combination but sauce is unbalanced. Too tart even with more honey. I used coconut milk, could be why. Still good but would not serve sauce to company. If there is a next time, I would reduce the lime zest, lime juice and vinegar. Then add to taste.",
+          "datePublished": "2024-11-28T18:15:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah BH"
+          },
+          "reviewBody": "Wonderful!  Substituted 2% Greek yogurt for the coconut cream for health reasons.  Based on the comments, I doubled the sauce. That wasn’t necessary, possibly due to the substitution for coconut cream.  Substituted parsnips for fennel as suggested to make it sweeter. 3 TBS of oil would be plenty.",
+          "datePublished": "2024-11-25T00:34:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "deborah"
+          },
+          "reviewBody": "Excellent! Beets, cauliflower, small potatoes AND a sweet potato, carrots, chickpeas…the sauce tied everything together.",
+          "datePublished": "2024-11-24T19:04:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "A"
+          },
+          "reviewBody": "I sub fennel for celery and vice versa all the time to make \"mirepoix\" for less waste (fennel is one use, packet of celery is 3 uses). Leeks are another good substitute for a unique flavour.  Or go completely opposite and use aubergine (and vegetables that work in a Thai curry) which you know works with  coconut and lime.",
+          "datePublished": "2025-03-26T19:01:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie Stroeve"
+          },
+          "reviewBody": "What's the substitute for Fennel?",
+          "datePublished": "2024-10-31T22:59:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "Fantasy recipe. Very tasty. Made as directed will definitely make again",
+          "datePublished": "2024-10-29T18:09:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenn"
+          },
+          "reviewBody": "If you only have coconut milk instead of the cream…Place 1 can of full fat coconut milk in the refrigerator for a few hours. After refrigeration, open the can and use a spoon to pull out the coconut cream from the top, leaving the coconut water on the bottom. It makes about ½ cup coconut cream.",
+          "datePublished": "2023-12-16T21:29:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pluto in SF"
+          },
+          "reviewBody": "I made this dish last night. Delish! I added a small sweet potato. Served it with a naan. A complete and satisfying dinner for the two of us.",
+          "datePublished": "2023-10-13T17:03:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Su"
+          },
+          "reviewBody": "Just use whatever you have and whatever you like! Any sturdy vegetable is delicious roasted: root veg, of course, but also broccoli & cauliflower, cabbage, mushrooms, sweet peppers, onions... If you're using less dense options like mushrooms, you may want to give the carrots and other dense roots a head-start. Lots of instructions on the internet (including NYT cooking) will give you a general sense of timings.",
+          "datePublished": "2023-10-15T18:19:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jhsea"
+          },
+          "reviewBody": "If you don’t like coconut, why make something called creamy COCONUT dressing?",
+          "datePublished": "2023-10-17T14:34:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth M"
+          },
+          "reviewBody": "I think some people are confusing coconut cream with “cream of coconut”. \n\nThe first is simply a richer, higher fat version of coconut milk and NOT sweetened. \n\nThe latter is nearly half sugar and is used for making piña coladas.",
+          "datePublished": "2023-10-27T17:47:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andy Mehrotra"
+          },
+          "reviewBody": "This was a winner at my bookclub! We ate it with the veggies and then soaked up the extra sauce with popcorn. Even better!",
+          "datePublished": "2023-10-15T00:37:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amira S."
+          },
+          "reviewBody": "Probably don't make this then, as coconut is one of the primary flavors (I mean, coconut is in the title).",
+          "datePublished": "2023-10-21T13:38:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ExDC"
+          },
+          "reviewBody": "If you don't like coconut, use nonfat plain Greek yogurt - it will be a different dish, but adding parsnips to the mix adds some of the sweetness of the coconut, and the ginger/honey/rice vinegar/fish sauce/mustard/lime flavors are still wonderful (she says, having had no beets or coconut cream). This recipe is wonderfully adaptable.",
+          "datePublished": "2023-11-07T19:31:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rolla"
+          },
+          "reviewBody": "Very good.  I used leeks instead of fennel, and it worked great.  I also cut up a small Delica Squash and added it.  My only suggestion is to double the coconut cream mix.  I like a little sauce with each bite, and as the recipe is written, a lot is absorbed into the cooked veggies, so doubling it made it more saucy.",
+          "datePublished": "2023-10-22T00:53:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mandy"
+          },
+          "reviewBody": "Amazing. Stunning, bright sauce that could be used on a number of different veg combos. Will make again.",
+          "datePublished": "2023-10-16T01:29:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KSWinCA"
+          },
+          "reviewBody": "I didn’t have coconut cream, so I used a combo of coconut milk and coconut oil. Might have resulted in a different consistency, but it tasted just fine. As for the vegetables, the fennel and beets were done in 40 min; the carrots needed another 10.",
+          "datePublished": "2023-10-29T05:41:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jen"
+          },
+          "reviewBody": "Coconut cream is much thicker and sweeter than coconut milk.  So it might lead to a different result",
+          "datePublished": "2023-10-17T12:12:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lcg"
+          },
+          "reviewBody": "Absolutely fantastic! So easy, flavorful, satisfying. I was making another recipe with leeks in tandem, so the last 5 or so minutes of roasting, I added some of those leeks to roast on top. Since there’s just two of us at home, we had leftovers, which made for a very satisfying lunch the next day. I saved the beet greens to sauté in a simple neutral oil, salt & pepper, & put the roasted veg on top with the dressing & fixins. Did not disappoint. Will make this again, no doubt!",
+          "datePublished": "2023-11-17T18:03:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mandy"
+          },
+          "reviewBody": "You can't taste the coconut in my opinion.",
+          "datePublished": "2023-10-16T15:32:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "rp"
+          },
+          "reviewBody": "yogurt?",
+          "datePublished": "2023-10-19T13:23:02.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1024701-roasted-vegetables-with-creamy-coconut-dressing",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yewande Komolafe"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "A creamy, tangy dressing enlivens a warm vegetable salad of roast carrots, beets and fennel. Coconut cream adds a lovely richness to the vinaigrette while ginger brings a bite and the acidity of rice vinegar and limes deliver a slight pucker. To achieve a nice golden brown caramelization while roasting your vegetables, make sure the cut pieces are dry and spread evenly on the sheet pan. And those fennel fronds — save them! They add a nice licorice flavor to tingle your palate ever so slightly once chopped and tossed over the finished dish.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Roasted Vegetables With Creamy Coconut Dressing",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/c43c488a-94cf-5f69-af14-fe63981a1ae7#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/10/06/multimedia/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Kelly Marshall for The New York Times. Food Stylist: Roscoe Betsill. Prop Stylist: Paige Hicks.",
+          "dateModified": "2023-12-14T17:13:36.899Z",
+          "datePublished": "2023-10-10T19:44:41.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-10-10T19:44:41.000Z",
+          "url": "https://static01.nyt.com/images/2023/10/06/multimedia/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/c43c488a-94cf-5f69-af14-fe63981a1ae7#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/10/06/multimedia/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz-superJumbo.jpg",
+          "creditText": "Kelly Marshall for The New York Times. Food Stylist: Roscoe Betsill. Prop Stylist: Paige Hicks.",
+          "dateModified": "2023-12-14T17:13:36.899Z",
+          "datePublished": "2023-10-10T19:44:41.000Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2023-10-10T19:44:41.000Z",
+          "url": "https://static01.nyt.com/images/2023/10/06/multimedia/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/c43c488a-94cf-5f69-af14-fe63981a1ae7#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/10/06/multimedia/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz-mediumSquareAt3X.jpg",
+          "creditText": "Kelly Marshall for The New York Times. Food Stylist: Roscoe Betsill. Prop Stylist: Paige Hicks.",
+          "dateModified": "2023-12-14T17:13:36.899Z",
+          "datePublished": "2023-10-10T19:44:41.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-10-10T19:44:41.000Z",
+          "url": "https://static01.nyt.com/images/2023/10/06/multimedia/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz/YK-roasted-vegetable-salad-with-creamy-coconut-dressing-qgtz-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024701-roasted-vegetables-with-creamy-coconut-dressing"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:05:06.854Z",
+  "scraping_status": "scraped"
+}

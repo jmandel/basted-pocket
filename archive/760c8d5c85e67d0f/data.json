@@ -1,0 +1,572 @@
+{
+  "id": "760c8d5c85e67d0f",
+  "original_url": "https://cooking.nytimes.com/recipes/1021943-lemony-chicken-feta-meatball-soup-with-spinach",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021943-lemony-chicken-feta-meatball-soup-with-spinach",
+  "fetched_title": "Lemony Chicken-Feta Meatball Soup With Spinach Recipe",
+  "main_text_content": "Some might be suspicious of the rolled oats called for in this recipe, but used in place of breadcrumbs, they help create a light and tender chicken meatball A half-cup more is simmered in the broth, which thickens it and provides a pleasant texture The meatballs, made with ground chicken, feta and fresh dill, swim in a lemony, spinach-filled broth that’s comforting and light, perfect for lunch or dinner",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025342-one-pot-chicken-meatballs-with-greens\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"A large white bowl holds chicken meatballs with rainbow chard and lemon slices.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/05/09/multimedia/yf-meatballs-and-greens-zcwb/yf-meatballs-and-greens-zcwb-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">One-Pot Chicken Meatballs With Greens </p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Yasmin Fahr</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/02/23/dining/yf-meatball-soup-copy/yf-meatball-soup-copy-threeByTwoMediumAt2X-v4.jpg",
+  "local_image_path": "scraped/760c8d5c85e67d0f/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/690b67a2-30e0-53d1-8802-073f5e9ca57a",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021943-lemony-chicken-feta-meatball-soup-with-spinach",
+        "@type": "WebPage",
+        "name": "Lemony Chicken-Feta Meatball Soup With Spinach"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021943-lemony-chicken-feta-meatball-soup-with-spinach",
+      "name": "Lemony Chicken-Feta Meatball Soup With Spinach",
+      "description": "Some might be suspicious of the rolled oats called for in this recipe, but used in place of breadcrumbs, they help create a light and tender chicken meatball. A half-cup more is simmered in the broth, which thickens it and provides a pleasant texture. The meatballs, made with ground chicken, feta and fresh dill, swim in a lemony, spinach-filled broth that’s comforting and light, perfect for lunch or dinner. Serve any leftovers with a fresh squeeze of lemon juice to brighten the soup.",
+      "author": {
+        "@type": "Person",
+        "name": "Yasmin Fahr"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/6926a127-e6d4-59b7-9b5b-8afc30247ac4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Yasmin Fahr’s lemony feta-chicken meatball soup with spinach.",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/23/dining/yf-meatball-soup-copy/yf-meatball-soup-copy-videoSixteenByNineJumbo1600-v4.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-10-24T15:41:19.750Z",
+          "datePublished": "2024-10-24T15:37:43.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-10-24T15:37:43.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/23/dining/yf-meatball-soup-copy/yf-meatball-soup-copy-videoSixteenByNineJumbo1600-v4.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/6926a127-e6d4-59b7-9b5b-8afc30247ac4#googleFourByThree",
+          "@type": "ImageObject",
+          "caption": "Yasmin Fahr’s lemony feta-chicken meatball soup with spinach.",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/23/dining/yf-meatball-soup-copy/yf-meatball-soup-copy-googleFourByThree-v4.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-10-24T15:41:19.750Z",
+          "datePublished": "2024-10-24T15:37:43.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-10-24T15:37:43.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/23/dining/yf-meatball-soup-copy/yf-meatball-soup-copy-googleFourByThree-v4.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/6926a127-e6d4-59b7-9b5b-8afc30247ac4#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "caption": "Yasmin Fahr’s lemony feta-chicken meatball soup with spinach.",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/23/dining/yf-meatball-soup-copy/yf-meatball-soup-copy-mediumSquareAt3X-v4.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-10-24T15:41:19.750Z",
+          "datePublished": "2024-10-24T15:37:43.000Z",
+          "height": "1218",
+          "representativeOfPage": true,
+          "uploadDate": "2024-10-24T15:37:43.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/23/dining/yf-meatball-soup-copy/yf-meatball-soup-copy-mediumSquareAt3X-v4.jpg",
+          "width": "1218"
+        }
+      ],
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "main course",
+      "keywords": "dill, feta, ground chicken, ground turkey, rolled oat, soup",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 5885
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 426,
+        "unsaturatedFatContent": "15 grams",
+        "carbohydrateContent": "24 grams",
+        "cholesterolContent": null,
+        "fatContent": "23 grams",
+        "fiberContent": "5 grams",
+        "proteinContent": "36 grams",
+        "saturatedFatContent": "7 grams",
+        "sodiumContent": "1160 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 pound ground chicken or turkey, preferably dark meat",
+        "1/2 cup crumbled feta",
+        "3/4 cup old-fashioned rolled oats",
+        "1 small red onion, halved (1/2 diced, and 1/2 grated, then squeezed with a paper towel to remove excess liquid)",
+        "1/3 packed cup fresh dill leaves and fine stems, finely chopped",
+        "1 tablespoon ground cumin",
+        "1/2 teaspoon plus 1 tablespoon ground turmeric",
+        "Kosher salt and black pepper",
+        "3 tablespoons olive oil",
+        "1/2 teaspoon red-pepper flakes, plus more for serving",
+        "4 cups low-sodium chicken broth or water",
+        "4 packed cups baby spinach (about 5 ounces)",
+        "2 lemons (1 juiced and 1 cut into wedges for serving)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a medium bowl, add the chicken, feta, 1/4 cup oats, the grated onion, most of the dill (reserve about 2 tablespoons for garnish), the cumin, 1/2 teaspoon turmeric and 1 teaspoon salt. Gently combine without squeezing too hard or overworking the meat. Lightly wet your palms and shape the meat into small balls, a little smaller than the size of a golf ball, about 1 1/2 inches. (You will have approximately 25 balls.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oil in a large Dutch oven or wide pot over medium until shimmering. Add the diced onion, season with salt, and cook until it begins to soften, about 2 minutes, stirring occasionally. Add the remaining 1 tablespoon turmeric and the red-pepper flakes, and stir until fragrant, about 30 seconds. Push the onions to the sides as best you can, then add the meatballs. (They will be close together, and that’s OK.) Cook until browned on two sides, 5 to 7 minutes total."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour in the broth and remaining ½ cup oats, then gently tilt the pot to the right and left to distribute the oats and broth without disturbing the meatballs. Bring to a gentle boil, then immediately reduce the heat to maintain an active simmer. Season with salt. Cook, gently stirring occasionally to make sure nothing is sticking to the bottom, until the oats have softened and the meatballs are cooked through, about 4 minutes more."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Stir in the spinach and lemon juice until the spinach is wilted, about 2 minutes more. Adjust the seasoning to taste. Spoon into bowls, top with pepper and the remaining dill. Serve with lemon wedges."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-02-23T00:00:00.000Z",
+      "dateModified": "2024-10-24T15:39:06.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KS NSB"
+          },
+          "reviewBody": "I had no idea ground turkey could be made into something so delicious. I debated following some of the notes that advised cooking meatballs separately, but in the end I put all 18 meatballs in the Dutch oven and proceeded as instructed. Instead of using oats in the broth, I added pre-cooked quinoa which I needed to use up. It was perfect. I am looking forward to making this for friends soon.",
+          "datePublished": "2025-05-20T22:08:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DD LA"
+          },
+          "reviewBody": "so delicious, love this!!",
+          "datePublished": "2025-05-19T03:03:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RaleighGirl"
+          },
+          "reviewBody": "So good. Did not grate onion - finely minced and then smashed some with side of knife. Used a large lemon which yielded about 1/4 cup resulting in wonderful lemon flavor. Added chickpea orzo to the soup (oats to the meatball) and then cooked for about 6 minutes. Next time, which might be tomorrow because craving more already, I’ll make meatballs a tad smaller - I had ended up with 18, and I’ll make sure all my feta is crumbled well - I originally ignored some of the bigger pieces. So happy I made this!",
+          "datePublished": "2025-05-18T13:14:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gillian"
+          },
+          "reviewBody": "I've added medium shell pasta to the broth instead of the oats, as I have teens that won't go for it if it's too brothy. It smells divine! Cant wait to dig in!",
+          "datePublished": "2025-05-13T21:21:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Juls"
+          },
+          "reviewBody": "A bowl of comfort that hits all the notes right out of the park!  Followed recipe as written as I often do when trying recipes for the first time.  The feta & lemon is a winning combination, and the Better Than Bouillon chicken broth I used worked nicely.  \nThis recipe is truly exceptional.",
+          "datePublished": "2025-05-10T22:51:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JZ, the other one."
+          },
+          "reviewBody": "From an ingredient standpoint, I followed the exact recipe, and it turned out absolutely delicious—my family loved it. I also incorporated a tip I found helpful from another reader: I cooked the onions, turmeric, red pepper, and meatballs in a nonstick skillet, added one cup of broth, and let it all simmer in the same pan for four minutes before transferring everything to the main broth and oatmeal mixture and following the remainder of the instructions.  Made cleanup a breeze! \n\nI finished it off with extra crumbled feta on top—because why not?",
+          "datePublished": "2025-05-10T22:54:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erin"
+          },
+          "reviewBody": "Total newbie here but I cannot see what the hype is about. I found it too fatty, too salty, and a lot of dill. Usually with recipes I follow loosely, but this I followed to the T. The tumeric was way too powerful, I almost couldn't taste anything else. I would do ground turkey instead of chicken and ensure it's lean. DEFINITELY go for homemade broth... I did bouillon paste and it was way too salty... I liked the idea of this recipe (and it must be me with the amount of positive reviews) but I thought this was super disappointing. I love NYT Cooking and I now have a challenge to do a new recipe a week. Last week lentils, bitter greens and egg was amazing but this is a hard miss on a remake for me.",
+          "datePublished": "2025-05-05T03:32:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RaleighGirl"
+          },
+          "reviewBody": "@johanna I used chickpea orzo. Banza brand. Great",
+          "datePublished": "2025-05-18T12:56:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "johanna"
+          },
+          "reviewBody": "OMG I love this soup. I of course didn’t read the recipe closely enough before I added all the oats to the meatballs, but they’re still so good. I was skeptical about oats in the broth, and I don’t eat gluten so couldn’t add the orzo, but after these comments I went with the oats and it was thick and yummy. Can’t wait to make it again ( with fewer oats in the meatballs!! 🤪)",
+          "datePublished": "2025-04-30T01:41:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Capelle"
+          },
+          "reviewBody": "The oats worked surprisingly well in the meatballs, but to add thickness and a bit of extra heartiness to the soup, I added bulgar instead of oats! Was a lovely addition",
+          "datePublished": "2025-04-24T22:02:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lauren"
+          },
+          "reviewBody": "This has become a quick household favorite! In a house where we constantly rotate our recipes and hardly cook the same thing twice a quarter, this one we cooked twice in a month after first tasting it. It is phenomenal and our toddlers love it too!\n\nWe have tried it both with oats as written and with substituting rice. We prefer the oats! Unusual but the texture really works here.\n\nWe like baby kale in place of the spinach. \n\nCan’t recommend this recipe highly enough! Just writing this comment makes me want to make it again right now!",
+          "datePublished": "2025-04-14T15:57:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lauren Comiteau"
+          },
+          "reviewBody": "Swap fennel for any celery you feel like adding. Fennel is the new(ish) celery!",
+          "datePublished": "2025-04-08T08:31:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Juls"
+          },
+          "reviewBody": "OMG.  Where has this soup been all my life?",
+          "datePublished": "2025-03-29T00:34:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa Hervieux"
+          },
+          "reviewBody": "I had some mild chicken sausage on hand so used that for the meatballs without adding additional spices or grated onion. Made the rest of the recipe as written. It was super delicious so just wanted to add that tip. We LOVE this soup!",
+          "datePublished": "2025-04-02T22:06:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leah"
+          },
+          "reviewBody": "So good! I skipped the oats, added celery with the onions and a splash of Marsala wine while simmering.",
+          "datePublished": "2025-04-01T23:13:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SusanR"
+          },
+          "reviewBody": "Love this!  Cooked meatballs in the pot!  So much flavor in the brown bits.  I used 6 cups of broth.  I used the oats, not the orzo others used.  The oats disappear, but make the broth a tiny bit thicker, but still “brothy”.  I used kale as it gets less slimy and reheats really well.  An extra half a lemon. Great soup!",
+          "datePublished": "2025-03-31T02:32:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pirwoods"
+          },
+          "reviewBody": "Long time lurkers, first time commenters - be gentle. We love this recipe so much, and wanted to share modifications for other gluttons out there. \n\nUse the 1/4 c oats in the meatballs\nDon't use the oats in the soup, instead substitute with 1 c orzo\nIncrease stock to 6 cups\nAdd thinly sliced celery for extra crunch (cook with the onions!)\nWe tend to up the red pepper and don't add salt at step 3\n\nEnjoy, as the perfect acidity is balanced by the silken coated orzo sliding down your gullet.",
+          "datePublished": "2022-11-14T00:52:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ted"
+          },
+          "reviewBody": "I would substitute a different herb, as my wife and I are not dill fans.  However, the rest sounds great.\n\nAnd I want to mention how much I love and appreciate the NYTimes cooking community.  I love reading your comments and I appreciate all of you out there cooking.",
+          "datePublished": "2021-03-04T05:00:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathy T"
+          },
+          "reviewBody": "This was really tasty and easy to make. I didn’t do the part where you move the onion over for meatballs, though. Instead I did meatballs for 15 mins in 400 oven on parchment paper then popped them in the broth to finish. Easier I think and worked great (meatballs brown/cook evenly in the oven without breaking up)",
+          "datePublished": "2022-10-20T00:04:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen"
+          },
+          "reviewBody": "So glad I read notes from other cooks!  Most helpful:  bake meatballs at 400 for 15 minutes on parchment lined cookie sheet; sauté equal parts celery with the onion. Use oatmeal in the meatballs but orzo in the soup. Absolutely delicious with crusty bread.",
+          "datePublished": "2024-03-18T12:58:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "emilyiscooking"
+          },
+          "reviewBody": "This is the best soup I’ve ever had in my entire life. No cap. I’ve been eating it for days and I don’t want it to stop. I followed the recipe but took the advice of others and went light on the oats in the meatballs. Full send on oats in the broth. This is the kind of soup that makes you feel like things might be okay in life. It’s gonna work out.",
+          "datePublished": "2024-10-12T16:24:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "M in Upstate NY"
+          },
+          "reviewBody": "Really good. My observations: I found a bit salty, perhaps due to feta and veg broth, next time I will reduce what is added to chicken. Watch heat when sautéing onions (mine burned a bit). My partner added plain cooked egg noodles to his bowl and loved the soup even more with the addition. First time grating a red onion; not an easy task (for me), so I ended up mincing and that was fine. Recipe is a keeper.\n\nThank you NYT Cooking and commenters for helping me learn to cook (I’m over 50)!",
+          "datePublished": "2021-03-05T01:29:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jamie"
+          },
+          "reviewBody": "I never would have pegged this recipe as such from looking at it, but this was a huge hit with my entire family, from my extremely picky 11 year old to my adventuresome dad, and everyone in between.  It is a rare occasion when we can all eat the same dinner and like it, so this recipe is a keeper for sure! I made it as written.  Don't skip the lemon-- it really makes the soup special!  I served it with some homemade sourdough rye and a salad. Yum!",
+          "datePublished": "2021-03-08T02:29:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Linda"
+          },
+          "reviewBody": "Delicious recipe,my spouse and I really enjoyed the soup. We added a spoonful of whole milk Greek yogurt to our bowls which smoothed it out perfectly.  We enjoyed the meatball recipe so much that we are going copy it and make grilled chicken patties( we thought that a tzatziki sauce would be a great accompaniment).",
+          "datePublished": "2021-03-07T04:31:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Noelle P"
+          },
+          "reviewBody": "I substituted 1/2 cup orzo for the oats in the broth for a more brothy finish, and it’s awesome!!",
+          "datePublished": "2021-04-04T01:24:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Monica"
+          },
+          "reviewBody": "Hi All, I’ve made this recipe a few times now - it is delicious! Today i decided to make it according to the suggestions in NOTES. I used oatmeal for the meatballs and orzo in the soup. I baked the meatballs for 15 minutes before adding to the soup. Going forward, I may keep the orzo in the soup if i happen to not have enough oatmeal(which is what happened today) but I will not bake the meatballs - it made them tough. Cooking them in the soup/ dutch oven created a lovely moist soft meatball that was easy to eat and balanced solely with the broth.",
+          "datePublished": "2024-09-26T23:47:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aubry"
+          },
+          "reviewBody": "Could be good for all I know, but the amount of turmeric in this recipe is excessive. I almost want to make it without any turmeric next time so that I'm able to taste... anything else. I also subbed the oats out for orzo and the spinach out for kale, which I'd do again.",
+          "datePublished": "2023-11-08T00:48:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Donald"
+          },
+          "reviewBody": "To everyone cooking their meatballs in the oven... the whole point of browning them next to the onions is to get the chickeny goodness, fat and fond in the bottom of your soup pot, which then transfers to the broth and into you! All that is lost baking them in the oven.",
+          "datePublished": "2024-11-04T20:30:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kiley"
+          },
+          "reviewBody": "One of my absolute favorite recipes!! Add some white wine and crusty bread.",
+          "datePublished": "2021-05-16T22:35:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Zoe"
+          },
+          "reviewBody": "Five stars for this one! I had dark meat turkey to use and followed the directions exactly. It’s very flavorful and filling. The two dozen meatballs did not fit in my soup pot so I had to sauté half of them separately and add them back in. I’ll be buying a pot with a bigger surface area since this recipe is going into regular rotation.",
+          "datePublished": "2021-03-10T01:10:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sanet"
+          },
+          "reviewBody": "The silky oats taste wasn’t for me at all... felt slimy.",
+          "datePublished": "2021-03-29T01:14:21.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021943-lemony-chicken-feta-meatball-soup-with-spinach",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yasmin Fahr"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "Some might be suspicious of the rolled oats called for in this recipe, but used in place of breadcrumbs, they help create a light and tender chicken meatball. A half-cup more is simmered in the broth, which thickens it and provides a pleasant texture. The meatballs, made with ground chicken, feta and fresh dill, swim in a lemony, spinach-filled broth that’s comforting and light, perfect for lunch or dinner. Serve any leftovers with a fresh squeeze of lemon juice to brighten the soup.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Lemony Chicken-Feta Meatball Soup With Spinach",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/6926a127-e6d4-59b7-9b5b-8afc30247ac4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Yasmin Fahr’s lemony feta-chicken meatball soup with spinach.",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/23/dining/yf-meatball-soup-copy/yf-meatball-soup-copy-videoSixteenByNineJumbo1600-v4.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-10-24T15:41:19.750Z",
+          "datePublished": "2024-10-24T15:37:43.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-10-24T15:37:43.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/23/dining/yf-meatball-soup-copy/yf-meatball-soup-copy-videoSixteenByNineJumbo1600-v4.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/6926a127-e6d4-59b7-9b5b-8afc30247ac4#googleFourByThree",
+          "@type": "ImageObject",
+          "caption": "Yasmin Fahr’s lemony feta-chicken meatball soup with spinach.",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/23/dining/yf-meatball-soup-copy/yf-meatball-soup-copy-googleFourByThree-v4.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-10-24T15:41:19.750Z",
+          "datePublished": "2024-10-24T15:37:43.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-10-24T15:37:43.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/23/dining/yf-meatball-soup-copy/yf-meatball-soup-copy-googleFourByThree-v4.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/6926a127-e6d4-59b7-9b5b-8afc30247ac4#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "caption": "Yasmin Fahr’s lemony feta-chicken meatball soup with spinach.",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/23/dining/yf-meatball-soup-copy/yf-meatball-soup-copy-mediumSquareAt3X-v4.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-10-24T15:41:19.750Z",
+          "datePublished": "2024-10-24T15:37:43.000Z",
+          "height": "1218",
+          "representativeOfPage": true,
+          "uploadDate": "2024-10-24T15:37:43.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/23/dining/yf-meatball-soup-copy/yf-meatball-soup-copy-mediumSquareAt3X-v4.jpg",
+          "width": "1218"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021943-lemony-chicken-feta-meatball-soup-with-spinach"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:04:53.349Z",
+  "scraping_status": "scraped"
+}

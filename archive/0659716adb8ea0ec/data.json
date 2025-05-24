@@ -1,0 +1,818 @@
+{
+  "id": "0659716adb8ea0ec",
+  "original_url": "https://www.maangchi.com/recipe/kongnamul",
+  "canonical_url": "https://www.maangchi.com/recipe/kongnamul",
+  "fetched_title": "Soybean sprouts (Kongnamul) recipe by Maangchi",
+  "main_text_content": "Soybean sprouts (kongnamul) are one of the most commonly used ingredients in Korean cuisine. I think almost every Korean family makes cooked and seasoned soybean sprouts...",
+  "main_html_content": "<h1 class=\"entry-title mega-heading\">Soybean sprouts</h1><h2 class=\"entry-title mega-heading-translation\"><span class=\"romanized-name\">Kongnamul</span> <span class=\"korean-name\">콩나물</span></h2><p class=\"author vcard postedby\">By <a href=\"/about\" rel=\"author\"><span class=\"fn n nickname\">Maangchi</span></a></p><p class=\"postdate updated\">Updated on August 10th, 2021</p><div  class=\"rmp-widgets-container rmp-wp-plugin rmp-main-container js-rmp-widgets-container js-rmp-widgets-container--29831 \"  data-post-id=\"29831\"><div class=\"rmp-rating-widget js-rmp-rating-widget\"><div class=\"rmp-rating-widget__icons\"><ul class=\"rmp-rating-widget__icons-list js-rmp-rating-icons-list\"><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Not at all useful\" data-value=\"1\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Somewhat useful\" data-value=\"2\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Good recipe\" data-value=\"3\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Great recipe\" data-value=\"4\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"The besttt!!!\" data-value=\"5\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li></ul>",
+  "publication_date": "2013-06-03T21:12:49+00:00",
+  "author": "Maangchi",
+  "key_image_url": "https://i.ytimg.com/vi/fkZKGX9VIfc/maxresdefault.jpg?meta=og:image",
+  "local_image_path": "scraped/0659716adb8ea0ec/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "/recipe/kongnamul#sso/recipe/29831",
+          "@context": "https://schema.org",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.maangchi.com/recipe/kongnamul",
+          "url": "https://www.maangchi.com/recipe/kongnamul",
+          "sameAs": [
+            "https://www.maangchi.com/?p=29831"
+          ],
+          "name": "Soybean sprouts (Kongnamul)",
+          "description": "Soybean sprouts (kongnamul) are one of the most commonly used ingredients in Korean cuisine. I think almost every Korean family makes cooked and seasoned soybean sprouts (kongnamulmuchim), and soybean sprout soup (kongnamulguk) at least once a week. It&#039;s that popular. You can sprout your own...",
+          "aggregateRating": {
+            "@id": "/recipe/kongnamul#sso/recipe/29831/rating-aggregate/5/438/1/5"
+          },
+          "image": [
+            {
+              "@id": "https://i.ytimg.com/vi/fkZKGX9VIfc/maxresdefault.jpg?meta=og:image#sso/image-object"
+            }
+          ],
+          "video": [
+            {
+              "@id": "https://www.youtube.com/embed/fkZKGX9VIfc#sso/video-object"
+            }
+          ],
+          "publisher": [
+            {
+              "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+            }
+          ],
+          "headline": "Soybean sprouts (Kongnamul)",
+          "keywords": "beansprouts, grow beans, growing soybeans, homegrown soybean sprouts, how to grow soybean sprouts, how to sprout beans, 콩나물재배, kongnamul, korean food, Korean food blog, Korean food website, Korean kitchen, Korean recipes, Maangchi recipes, sprout soy beans, sprouting beans",
+          "isFamilyFriendly": true,
+          "inLanguage": "en_US",
+          "datePublished": "2013-06-03T21:12:49+00:00",
+          "dateModified": "2021-08-11T01:35:51+00:00",
+          "author": {
+            "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+          },
+          "thumbnailUrl": "https://i.ytimg.com/vi/fkZKGX9VIfc/maxresdefault.jpg?meta=og:image",
+          "commentCount": 29,
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/50667"
+            },
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/46023"
+            },
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/38905"
+            },
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/38131"
+            },
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/36210"
+            },
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/36177"
+            },
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35742"
+            },
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35705"
+            },
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35625"
+            },
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35606"
+            },
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35589"
+            },
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35588"
+            },
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35586"
+            },
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35584"
+            },
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35582"
+            }
+          ],
+          "recipeCuisine": "Korean",
+          "recipeCategory": "Staple",
+          "recipeIngredient": [],
+          "recipeInstructions": [
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 1
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 2
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul#sso/recipe/29831/rating-aggregate/5/438/1/5",
+          "@context": "https://schema.org",
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "ratingCount": 438,
+          "worstRating": 1,
+          "bestRating": 5
+        },
+        {
+          "@id": "https://i.ytimg.com/vi/fkZKGX9VIfc/maxresdefault.jpg?meta=og:image#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://i.ytimg.com/vi/fkZKGX9VIfc/maxresdefault.jpg?meta=og:image",
+          "alternativeHeadline": "How to grow Soybean Sprouts (Kongnamul: ì½©ëë¬¼)",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1280",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1280"
+        },
+        {
+          "@id": "#sso/qv-height-px-720",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "720"
+        },
+        {
+          "@id": "https://www.youtube.com/embed/fkZKGX9VIfc#sso/video-object",
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "url": "https://www.youtube.com/embed/fkZKGX9VIfc",
+          "name": "How to grow Soybean Sprouts (Kongnamul: ì½©ëë¬¼)",
+          "description": "More photos and stories about this video!: http://www.maangchi.com/recipe/kongnamulLet's sprout soybeans and make delicious Korean dishes with them!",
+          "embedUrl": "https://www.youtube.com/embed/fkZKGX9VIfc",
+          "encodingFormat": "text/html",
+          "duration": "PT7M15S",
+          "uploadDate": "2013-06-03T20:30:00+00:00",
+          "thumbnailUrl": "https://i.ytimg.com/vi/fkZKGX9VIfc/maxresdefault.jpg?meta=og:image",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ],
+          "keywords": "Sprout beans, How to sprout soybeans, kongnamul, kongnamool, Sprouting soybeans, beansprouts, Korean food, Korean cooking, Korean recipes, Korean cuisine, Korean kitchen, Maangchi recipes, Korean food website, Korean food blog, Korean cooking ingredients, ì½©ëë¬¼ì¬ë°°, ì½©ëë¬¼ê¸°ë¥´ê¸°, homegrown soybean sprouts"
+        },
+        {
+          "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person",
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "url": "https://www.maangchi.com",
+          "name": "Maangchi",
+          "description": "Author archive page for Maangchi.",
+          "image": [
+            {
+              "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object"
+            }
+          ]
+        },
+        {
+          "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-1200"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "#sso/qv-height-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png",
+          "identifier": "93971-wpsso-schema-4x3",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-900"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-900",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "900"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png",
+          "identifier": "93971-wpsso-schema-16x9",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-675"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-675",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "675"
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/50667",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-50667",
+          "name": "Comment by WishfulsoUl on April 17, 2020",
+          "description": "This thing is quite funny experience for me as I feel that I may be using a wrong variety of&hellip;",
+          "text": "This thing is quite funny experience for me as I feel that I may be using a wrong variety of soybeans and nothing will happen to grow like yours Maangchi hahhaha but still I was really stubborn and eager to try out anyway see if there will be something to surprise me one morning&hellip; I was starting to be impatient waiting and waiting until 2 or 3 days before I noticed something white came out and had to water every after 3 or 4 hours even set an alarm in the middle of the night and dawn to water it up hahhaha. after 8 days, this was how they looks like :-) I was really happy and it was all worth the wait. was very nutty and crunchy I always have a bite every time I water them ^^_^^ Next time I will use the correct type for sprouting&hellip;.",
+          "dateCreated": "2020-04-17T23:13:31-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "WishfulsoUl"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/46023",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-46023",
+          "name": "Comment by Joebear30 on June 30, 2017",
+          "description": "Hello Maangchi, I made these last weekend and the flavor was amazing! I put them in my 킴치 찌개 which&hellip;",
+          "text": "Hello Maangchi, I made these last weekend and the flavor was amazing! I put them in my 킴치 찌개 which added an awesome nutty flavor and also made 반찬. These are so much better than store bought and well worth the wait for them. They grew kinda wild looking going all over the place but tasted 진짜 맛있어요!!! 감사합니다 for an awesome recipe! J",
+          "dateCreated": "2017-06-30T14:23:54-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Joebear30"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/38905",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-38905",
+          "name": "Comment by Stupidman2009 on August 31, 2014",
+          "description": "Hi Maangchi. Is there any difference between usual soybean and soybean for sprouting? Can I use usual soybean instead of&hellip;",
+          "text": "Hi Maangchi. Is there any difference between usual soybean and soybean for sprouting? Can I use usual soybean instead of soybean for sprouting because it is difficult to find it.",
+          "dateCreated": "2014-08-31T15:43:30-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Stupidman2009"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/38131",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-38131",
+          "name": "Comment by snoogles on May 7, 2014",
+          "description": "Hi Maangchi, First of all, thanks so much for this site - you can really tell it&#039;s a labor of&hellip;",
+          "text": "Hi Maangchi, First of all, thanks so much for this site - you can really tell it&#039;s a labor of love! I had a basic knowledge of Korean cooking but you&#039;ve inspired me to try even more dishes. :) I had three questions... first, do you know if the soybeans for sprouting are non-GMO? Second, do you know where I can find a planter like yours? Or would a small plastic colander work? (Although I guess since they need to be encouraged to grow straight down, maybe not?) Third, does the holding container need to be glass, or does it not matter? Thanks in advance for your help - I&#039;m super excited to try this!!",
+          "dateCreated": "2014-05-07T13:46:58-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "snoogles"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/36210",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-36210",
+          "name": "Comment by Samimation on September 12, 2013",
+          "description": "Im on day 3 of the growing, I just cooked some really quick to make a dish, boiled them the&hellip;",
+          "text": "Im on day 3 of the growing, I just cooked some really quick to make a dish, boiled them the same ammount of time I do for store bought. The yellow beans at the top are much more crunchy and dont seem to cook as fast? Did I do something wrong when growing? Did I leave them growing too long?",
+          "dateCreated": "2013-09-12T23:04:44-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Samimation"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/36219"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/36219",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-36219",
+          "name": "Reply by Maangchi on September 13, 2013",
+          "description": "It sounds like your kongnamul growing went well. Congratulations! Homegrown kongnamul is much more delicious and nutty than store bought&hellip;",
+          "text": "It sounds like your kongnamul growing went well. Congratulations! Homegrown kongnamul is much more delicious and nutty than store bought kongnamul. Cook it longer until it reaches your desired taste if you want.",
+          "dateCreated": "2013-09-13T19:11:44-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/36231"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/36231",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-36231",
+          "name": "Reply by Samimation on September 15, 2013",
+          "description": "Great thankyou, yes I have to boil these for 15+ minutes and store bought for only 2-3 Ive noticed.",
+          "text": "Great thankyou, yes I have to boil these for 15+ minutes and store bought for only 2-3 Ive noticed.",
+          "dateCreated": "2013-09-15T00:50:07-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Samimation"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/36177",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-36177",
+          "name": "Comment by wan on September 9, 2013",
+          "description": "Hi Maangchi tks so much! I have been hunting for ways to do this for more than a year already&hellip;",
+          "text": "Hi Maangchi tks so much! I have been hunting for ways to do this for more than a year already - and trying all sorts of buckets,. but you make it look so simple. Can;t wait to try it. I have got my beans all ready!",
+          "dateCreated": "2013-09-09T05:12:30-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "wan"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/45636"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/45636",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-45636",
+          "name": "Reply by mykwan81 on April 25, 2017",
+          "description": "Hi Wan, Where to buy soybean for sprouting in Singapore?",
+          "text": "Hi Wan, Where to buy soybean for sprouting in Singapore?",
+          "dateCreated": "2017-04-25T06:24:11-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "mykwan81"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35742",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35742",
+          "name": "Comment by Katralla on June 27, 2013",
+          "description": "I am trying this with mung beans. I want to make sookjoo namul. I wanted to know if I should&hellip;",
+          "text": "I am trying this with mung beans. I want to make sookjoo namul. I wanted to know if I should peal the beans after soaking them or should I leave them until they have sprouted?",
+          "dateCreated": "2013-06-27T20:59:40-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Katralla"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35929"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35929",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35929",
+          "name": "Reply by Maangchi on August 2, 2013",
+          "description": "no you don&#039;t need to peel the skins from soybeans or mungbeans when you sprout them.",
+          "text": "no you don&#039;t need to peel the skins from soybeans or mungbeans when you sprout them.",
+          "dateCreated": "2013-08-02T16:23:52-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35705",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35705",
+          "name": "Comment by indelibledotink on June 23, 2013",
+          "description": "hi maangchi, my kongnamul turned green! is it just a matter of light seeping in? will they taste the same?&hellip;",
+          "text": "hi maangchi, my kongnamul turned green! is it just a matter of light seeping in? will they taste the same? I am going to try another batch.",
+          "dateCreated": "2013-06-23T10:12:08-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "indelibledotink"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35719"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35719",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35719",
+          "name": "Reply by Maangchi on June 24, 2013",
+          "description": "yes, I think the beans were exposed to the light. They need to be in darkness. They will taste all&hellip;",
+          "text": "yes, I think the beans were exposed to the light. They need to be in darkness. They will taste all right.",
+          "dateCreated": "2013-06-24T18:00:00-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35928"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35928",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35928",
+          "name": "Reply by indelibledotink on August 2, 2013",
+          "description": "maangchi! help! I made more batches of kongnamul and they started to rot. there was an odd smell with my&hellip;",
+          "text": "maangchi! help! I made more batches of kongnamul and they started to rot. there was an odd smell with my first batch, but it was very mild. now I grew two more batches and the smell was very strong. the second two bunches went bad.",
+          "dateCreated": "2013-08-02T07:55:50-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "indelibledotink"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35625",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35625",
+          "name": "Comment by jaylivg on June 11, 2013",
+          "description": "This is awesome Maangchi !! i think i might do this for our little project with Nick .. i think&hellip;",
+          "text": "This is awesome Maangchi !! i think i might do this for our little project with Nick .. i think it&#039;ll be fun . Plus we get to cook and eat the result ! Thanks for showing us how to grow them :)",
+          "dateCreated": "2013-06-11T16:21:29-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "jaylivg"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35628"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35628",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35628",
+          "name": "Reply by Maangchi on June 11, 2013",
+          "description": "Olivia, yes, this is for hardcore Korean cooks like you and some of my other readers. I&#039;m sure you are&hellip;",
+          "text": "Olivia, yes, this is for hardcore Korean cooks like you and some of my other readers. I&#039;m sure you are excited about growing your soybean sprouts! They taste better than store sold soybean sprouts. Let me know how yours turns out!",
+          "dateCreated": "2013-06-11T22:13:49-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35732"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35732",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35732",
+          "name": "Reply by jaylivg on June 26, 2013",
+          "description": "Hi Maangchi , On sunday i started making this .. they&#039;re growing really good , today is day 4 ,&hellip;",
+          "text": "Hi Maangchi , On sunday i started making this .. they&#039;re growing really good , today is day 4 , when i opened them this morning to water , i smelt something from there , is it supposed to be like this ? It&#039;s a very light smell , sour smell .. everything looks good though , top to bottom .",
+          "dateCreated": "2013-06-26T01:35:02-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "jaylivg"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35733"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35733",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35733",
+          "name": "Reply by Maangchi on June 26, 2013",
+          "description": "It sound like your kongnamul are growing well. The smell is usual. It smells because you can&#039;t water it all&hellip;",
+          "text": "It sound like your kongnamul are growing well. The smell is usual. It smells because you can&#039;t water it all the time. I think it&#039;s time for you to harvest them. I can&#039;t wait to see the photo. : )",
+          "dateCreated": "2013-06-26T03:21:42-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35738"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35738",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35738",
+          "name": "Reply by jaylivg on June 26, 2013",
+          "description": "Yes , i woke up and immediately checking my kongnamul , like you said it&#039;s time to harvest them ,&hellip;",
+          "text": "Yes , i woke up and immediately checking my kongnamul , like you said it&#039;s time to harvest them , they do have long legs LOL . I washed and put them in the plastic bag , then i shared the home grown kongnamul with a korean friend , and she shared her home made gochujang that she brought from Korea !! Food just brings people together !!! :D Thank you again for showing us how to grow them !!",
+          "dateCreated": "2013-06-26T18:20:06-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "jaylivg"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35606",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35606",
+          "name": "Comment by Peedee on June 8, 2013",
+          "description": "Thank you for posting this. I remember my father growing his own when I was a child using a bucket&hellip;",
+          "text": "Thank you for posting this. I remember my father growing his own when I was a child using a bucket with holes, but I didn&#039;t pay attention. Now I live in a small town where I have to drive 3 hours to get to a Korean market, so I can only buy 1 bag of kongnamul since it won&#039;t keep for long in the fridge. Now I can grow my own &amp; my daughters will love this project. Thanks Maangchi!",
+          "dateCreated": "2013-06-08T18:11:15-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Peedee"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35616"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35616",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35616",
+          "name": "Reply by Maangchi on June 9, 2013",
+          "description": "That&#039;s awesome! Growing kongnamul will bring back a lot of good memories! Actually I have a bucket with holes to&hellip;",
+          "text": "That&#039;s awesome! Growing kongnamul will bring back a lot of good memories! Actually I have a bucket with holes to grow a large quantity of kongnamul, too! : ) But for the video, I used just 1 cup of dried kongnamulkong (dried soybeans for sprouting). Good luck with you and your daughters&#039; kongnamul project!",
+          "dateCreated": "2013-06-09T12:31:36-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35589",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35589",
+          "name": "Comment by Andra Alexa T on June 4, 2013",
+          "description": "Indeed - interesting post... awesome ideea to try! Now - what I want to know if there can be used&hellip;",
+          "text": "Indeed - interesting post... awesome ideea to try! Now - what I want to know if there can be used some other types of beans... if the &quot;soybean for sprouting&quot; connot be found!!! There are parts of the world where it can be more than difficult to find out soybean for sprouting or it&#039;s not something usual to find in markets... but if I&#039;m looking at your shared ideea...maybe you can give us an answer... so It can be replaced with some other types of beans?! Anyway - excellent post!",
+          "dateCreated": "2013-06-04T20:50:33-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "http://gandcalator.blogspot.com",
+            "name": "Andra Alexa T"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35588",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35588",
+          "name": "Comment by Nicole4ever on June 4, 2013",
+          "description": "Wow!!! That is so awesome. This is a perfect project to share with my kids. I never new you could&hellip;",
+          "text": "Wow!!! That is so awesome. This is a perfect project to share with my kids. I never new you could grow them like that. Thank you Maangchi :)",
+          "dateCreated": "2013-06-04T17:49:58-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Nicole4ever"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35586",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35586",
+          "name": "Comment by bexn on June 4, 2013",
+          "description": "What an incredibly timely post!! I&#039;ve been trying to sprout my own soybeans ever since I discovered that my local&hellip;",
+          "text": "What an incredibly timely post!! I&#039;ve been trying to sprout my own soybeans ever since I discovered that my local market only carries sprouts grown from GMO seeds. (Yes, I know they&#039;re supposed to be safe but I&#039;d feel better waiting for the results of more independent and long term testing.) Thank you so much for your very clear directions. The first couple of times I tried, I used the wrong variety of soybeans not realizing that some are better than others for sprouting. I then purchased soybeans for sprouting from Sprout People, where I purchase my other sprouting seeds, but I could only get 1/4&quot; tail. Their directions are very different from yours. They recommend only soaking for 2-12 hours initially and only rinsing 2-3 times a day there after but then they like their soybean sprouts with a short tail. I can&#039;t wait to give your directions a try. I&#039;ve really missed eating your kongnamulguk (spicy vegetarian recipe) and have been wanting to add soybean sprouts to my stir-fries. Does your bag happen to specify which variety of soybean it is other just &quot;soybean for sprouting&quot;? I&#039;ve read that the best sprouting varieties are Chief, Ebony, Illini, Lincoln, Richland, Peking, Cayuga and Otoot. If your bag specifies the variety, I thought I&#039;d write to Sprout People to see if they use the same one though hopefully, I&#039;ll have good luck with any of the sprouting varieties if I follow your directions. Thanks again for the great directions. I&#039;ll let you know how mine come out. I&#039;m going to go look for a good bowl to use today. Do you think a colander or Easy Sprout work or are larger holes needed in the bottom like yours?",
+          "dateCreated": "2013-06-04T13:21:00-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "bexn"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35596"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35596",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35596",
+          "name": "Reply by Maangchi on June 7, 2013",
+          "description": "&quot;I&rsquo;ve read that the best sprouting varieties are Chief, Ebony, Illini, Lincoln, Richland, Peking, Cayuga and Otoot.&quot; haha I don&#039;t&hellip;",
+          "text": "&quot;I&rsquo;ve read that the best sprouting varieties are Chief, Ebony, Illini, Lincoln, Richland, Peking, Cayuga and Otoot.&quot; haha I don&#039;t know anything about these strains. It sounds like you know a lot about beans and sprouting. What I do is go to a Korean grocery store and get the beans: kongnamulkong (soybeans for sprouting).",
+          "dateCreated": "2013-06-07T17:39:08-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35584",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35584",
+          "name": "Comment by Miss Kim78 on June 4, 2013",
+          "description": "I love kongnamul. It&#039;s so versatile and healthy. Excellent lesson! You make it look so easy.",
+          "text": "I love kongnamul. It&#039;s so versatile and healthy. Excellent lesson! You make it look so easy.",
+          "dateCreated": "2013-06-04T07:24:17-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "http://behgopa.com/",
+            "name": "Miss Kim78"
+          }
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35582",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35582",
+          "name": "Comment by Alastor78 on June 3, 2013",
+          "description": "Such an interesting post! Thank you so much! I&#039;m all ready to give it a go :) Just a question,&hellip;",
+          "text": "Such an interesting post! Thank you so much! I&#039;m all ready to give it a go :) Just a question, how would you keep the sprouts? I cook just for one (me!) and I wonder what can I do with so many sprouts, and how long will they last fresh...",
+          "dateCreated": "2013-06-03T22:36:44-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Alastor78"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35595"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kongnamul/comment-page-1#sso/comment/35595",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kongnamul/comment-page-1#comment-35595",
+          "name": "Reply by Maangchi on June 7, 2013",
+          "description": "Put them in a plastic bag and store them in the fridge up to 1 week.",
+          "text": "Put them in a plastic bag and store them in the fridge up to 1 week.",
+          "dateCreated": "2013-06-07T15:24:22-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "5",
+        "ratingCount": "438",
+        "ratingValue": "5"
+      },
+      "image": "https://www.maangchi.com/wp-content/uploads/2013/06/kongnamul_homegrown-620x468.jpg",
+      "name": "Soybean sprouts (Kongnamul)",
+      "description": "Soybean sprouts (Kongnamul)"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:38:29.629Z",
+  "scraping_status": "scraped"
+}

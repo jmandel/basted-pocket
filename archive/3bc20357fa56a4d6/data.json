@@ -1,0 +1,624 @@
+{
+  "id": "3bc20357fa56a4d6",
+  "original_url": "https://cooking.nytimes.com/recipes/1017359-sheet-pan-chicken-with-potatoes-arugula-and-garlic-yogurt",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1017359-sheet-pan-chicken-with-potatoes-arugula-and-garlic-yogurt",
+  "fetched_title": "Sheet-Pan Chicken With Potatoes, Arugula and Garlic Yogurt Recipe (with Video)",
+  "main_text_content": "Your typical sheet-pan chicken recipe roasts everything together on a pan at once This version pairs potatoes with the poultry, and tops everything off with fresh herbs and arugula, making it a true one-pan meal, salad included A savory yogurt sauce adds a creamy touch, but it’s optional if you’re not a yogurt sauce fan",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026512-sheet-pan-malai-chicken-and-potatoes\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Sheet-Pan Malai Chicken and Potatoes </p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Zaynab Issa</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-threeByTwoMediumAt2X-v2.jpg",
+  "local_image_path": "scraped/3bc20357fa56a4d6/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/c4e4a9ce-ddea-5ea1-a96e-ff564a736a25",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1017359-sheet-pan-chicken-with-potatoes-arugula-and-garlic-yogurt",
+        "@type": "WebPage",
+        "name": "Sheet-Pan Chicken With Potatoes, Arugula and Garlic Yogurt"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1017359-sheet-pan-chicken-with-potatoes-arugula-and-garlic-yogurt",
+      "name": "Sheet-Pan Chicken With Potatoes, Arugula and Garlic Yogurt",
+      "description": "Your typical sheet-pan chicken recipe roasts everything together on a pan at once. This version pairs potatoes with the poultry, and tops everything off with fresh herbs and arugula, making it a true one-pan meal, salad included. A savory yogurt sauce adds a creamy touch, but it’s optional if you’re not a yogurt sauce fan. Feel free to double the recipe if you’re feeding a crowd, though make sure to use two sheet pans so that everything is spread out in one layer, which is critical for browning.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/5b4dc236-7c48-563b-80cc-238c4c12ff7f#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-emaik-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+          "dateModified": "2024-09-12T18:52:58.783Z",
+          "datePublished": "2024-03-25T18:59:50.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-25T18:59:50.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-emaik-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/5b4dc236-7c48-563b-80cc-238c4c12ff7f#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-emaik-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+          "dateModified": "2024-09-12T18:52:58.783Z",
+          "datePublished": "2024-03-25T18:59:50.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-25T18:59:50.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-emaik-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/5b4dc236-7c48-563b-80cc-238c4c12ff7f#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-mediumSquareAt3X-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+          "dateModified": "2024-09-12T18:52:58.783Z",
+          "datePublished": "2024-03-25T18:59:50.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-25T18:59:50.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT1H",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, weeknight, main course",
+      "keywords": "arugula, chicken drumstick, chicken thigh, harissa, partial-access-ic, roast chicken, sheet-pan, yogurt, yukon gold potato, spring",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 14979
+      },
+      "recipeIngredient": [
+        "1 1/2 pounds chicken thighs and drumsticks",
+        "1 1/4 pounds small Yukon Gold potatoes, halved and cut into 1/2-inch slices",
+        "2 1/2 teaspoons kosher salt, more as needed",
+        "1/2 teaspoon black pepper, more as needed",
+        "2 tablespoons harissa (or use another thick hot sauce, such as sriracha)",
+        "1/2 teaspoon ground cumin",
+        "4 1/2 tablespoons extra-virgin olive oil, more as needed",
+        "2 leeks, white and light green parts only, halved lengthwise and thinly sliced",
+        "1/2 teaspoon lemon zest (from 1/2 lemon)",
+        "1/3 cup plain yogurt (do not use Greek yogurt)",
+        "1 small garlic clove",
+        "2 ounces baby arugula",
+        "Chopped fresh dill, as needed",
+        "Lemon juice, as needed"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Combine chicken and potatoes in a large bowl. Season with salt and pepper. In a small bowl, whisk together harissa, cumin and 3 tablespoons oil. Pour over chicken and potatoes and toss to combine. Let stand at room temperature for 30 minutes, or up to 8 hours in the refrigerator."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, in a medium bowl, combine leeks, lemon zest, a pinch of salt and the remaining 1 1/2 tablespoons oil."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 425 degrees. Arrange chicken and potatoes on a large rimmed baking sheet in a single layer. Roast 15 minutes. Toss potatoes lightly."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Scatter leeks over pan. Roast until chicken and potatoes are cooked through and everything is golden and slightly crisped, 25 to 30 minutes longer."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While chicken cooks, place yogurt in a small bowl. Grate garlic over yogurt and season to taste with salt and pepper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To serve, spoon yogurt over chicken and vegetables in the pan. Scatter arugula and dill over mixture. Drizzle with oil and lemon juice and serve."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/9713d649-702a-5067-9ca1-36fd49f9abc1",
+        "@type": "VideoObject",
+        "author": {
+          "@id": "nyt://person/a89444f5-07d8-5c29-86d1-3c6c30133277",
+          "@type": "Person",
+          "name": "The New York Times Cooking",
+          "url": "https://www.nytimes.com/by/the-new-york-times-cooking"
+        },
+        "bitrate": "0",
+        "contentSize": "28681058",
+        "contentUrl": "https://vp.nyt.com/video/2024/07/23/121319_1_HP-Sheet-Pan-Chicken-Potatoes-Leeks-CV_wg_480p.mp4",
+        "creator": {
+          "@id": "nyt://person/a89444f5-07d8-5c29-86d1-3c6c30133277",
+          "@type": "Person",
+          "name": "The New York Times Cooking"
+        },
+        "dateModified": "2024-10-15T19:40:40.340Z",
+        "datePublished": "2024-07-23T20:09:08.000Z",
+        "description": "Your typical sheet-pan chicken recipe roasts everything together on a pan at once. This version pairs potatoes with the poultry, and tops everything off with fresh herbs and arugula, making it a true one-pan meal, salad included. A savory yogurt sauce adds a creamy touch, but it’s optional if you’re not a yogurt sauce fan. Feel free to double the recipe if you’re feeding a crowd, though make sure to use two sheet pans so that everything is spread out in one layer, which is critical for browning.",
+        "duration": "PT2M20S",
+        "height": "480",
+        "name": "Sheet-Pan Chicken With Potatoes, Arugula and Garlic Yogurt",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/5b4dc236-7c48-563b-80cc-238c4c12ff7f#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-emaik-videoSixteenByNineJumbo1600.jpg",
+            "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+            "dateModified": "2024-09-12T18:52:58.783Z",
+            "datePublished": "2024-03-25T18:59:50.000Z",
+            "height": "900",
+            "uploadDate": "2024-03-25T18:59:50.000Z",
+            "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-emaik-videoSixteenByNineJumbo1600.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/5b4dc236-7c48-563b-80cc-238c4c12ff7f#googleFourByThree",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-emaik-googleFourByThree.jpg",
+            "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+            "dateModified": "2024-09-12T18:52:58.783Z",
+            "datePublished": "2024-03-25T18:59:50.000Z",
+            "height": "600",
+            "uploadDate": "2024-03-25T18:59:50.000Z",
+            "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-emaik-googleFourByThree.jpg",
+            "width": "800"
+          },
+          {
+            "@id": "nyt://image/5b4dc236-7c48-563b-80cc-238c4c12ff7f#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-mediumSquareAt3X-v2.jpg",
+            "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+            "dateModified": "2024-09-12T18:52:58.783Z",
+            "datePublished": "2024-03-25T18:59:50.000Z",
+            "height": "1800",
+            "uploadDate": "2024-03-25T18:59:50.000Z",
+            "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-mediumSquareAt3X-v2.jpg",
+            "width": "1800"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-emaik-videoSixteenByNineJumbo1600.jpg",
+        "uploadDate": "2024-07-23T20:09:08.000Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000009588630/sheet-pan-chicken-with-potatoes-arugula-and-garlic-yogurt.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2015-04-22T00:00:00.000Z",
+      "dateModified": "2024-07-23T20:33:34.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kelsey"
+          },
+          "reviewBody": "I made this without the harissa and the leeks and it was still so flavorful!! I accidentally sliced the potatoes super thin so just marinated them separately and added them to the chicken after 15 mins. Worked great!",
+          "datePublished": "2025-05-22T19:40:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Colleen"
+          },
+          "reviewBody": "This was really good! I used half harissa, half tomato paste for the marinade to lower the spice a bit (we have small kids) and it was great. I don't understand the note about not using Greek yogurt, that's what we keep in the house and it worked well. I found the result to be quite similar to Yossy Arefi's Roasted Chicken Thighs With Cauliflower and Herby Yogurt recipe, a favorite in our household, and imagine next time we'll do a mash-up of the two.",
+          "datePublished": "2025-05-22T16:36:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "This is a longstanding hit in our house. Instead of doing leeks on top, I create little beds and put the chicken on top, then roast everything together. If we have tzatziki, I’ll sub that for the garlic yogurt. Serve the whole thing on a bed of fresh arugula and let the residual heat wilt it on the plate. The flavors are perfect every time. Every! Time!!",
+          "datePublished": "2025-05-22T03:20:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "We’ve made this recipe multiple times. It is one of our favorite dinners.",
+          "datePublished": "2025-05-19T14:58:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PSL"
+          },
+          "reviewBody": "I did a mash of this recipe & \"Roasted Chicken Thighs With Cauliflower and Herby Yogurt.\" Essentially used the seasoning & added cauliflower of second recipe to this recipe. Added extra spices too...super forgiving recipe and love that I can stick it all together in a bowl, leave it marinating for hours and then cook for dinner, topping with fresh arugula. Total keeper!",
+          "datePublished": "2025-05-13T02:37:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TammeyB"
+          },
+          "reviewBody": "I chose bone-in, skin on thighs. Trimmed the fat and added 1/4 cup of greek yogurt to the marinade. Let sit for 30 minutes. Baked the potatoes for 15 mins then added the chicken. Cooked for 45 minutes with leeks until reached temperature of 165. Was delicious!!",
+          "datePublished": "2025-05-11T20:40:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Otto"
+          },
+          "reviewBody": "This is now a regular standard.  We now do this one a couple times per month.  For the first time, we did the recipe exactly as written and it was perfect. However, we an never have enough sauce, so I would recommend adding more yogurt sauce. Also, another comment suggested using spinach underneath, which is a very good idea. I used tinfoil once, and it was not a very good idea as potatoes stuck to it and made presentation a little less beautiful.",
+          "datePublished": "2025-05-10T17:28:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ricki"
+          },
+          "reviewBody": "What's the difference between roasting and baking the chicken at 425 degrees? How does it affect the flavor of the chicken and the browning of the skin?",
+          "datePublished": "2025-05-10T16:46:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Helen"
+          },
+          "reviewBody": "Followed the recipe with minor adjustments: reduced oil by about half and didn’t miss it at al—honestly, it was still oilier than necessary. Didn’t have any fresh dill, so I skipped it. I only had Greek yogurt, so I thinned it with water to non-Greek consistency. Super delicious—the whole family loved it. Next time I’ll double the chicken (I’ll probably use boneless skinless thighs for flavor/texture without the delicious but unnecessary fat in the skin), reduce the salt, and cut the oil by 3/4.",
+          "datePublished": "2025-05-04T23:58:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "L"
+          },
+          "reviewBody": "Love this recipe! But I find I need to adjust the time and temperature a bit: 400F, 15 min if my potatoes are single layer (20 min if they overlap more), then 10-15 min with the leeks.",
+          "datePublished": "2025-04-30T22:15:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Zoe"
+          },
+          "reviewBody": "This was insanely good and insanely easy. If anyone ever asks for me a NYT recipe rec I will give them this. The only changes I made was I doubled the leeks (I love leeks) and added dill/lemon to the yogurt sauce. My leeks burned a bit but nothing crazy.",
+          "datePublished": "2025-04-21T23:45:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rick"
+          },
+          "reviewBody": "I used what I had, which were chicken breasts. I cubed them, and the recipe worked fine.",
+          "datePublished": "2025-04-21T23:13:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara"
+          },
+          "reviewBody": "I would suggest serving the chicken and potatoes on top of the arugula, and just use the yogurt and dill on the top.",
+          "datePublished": "2025-04-18T04:25:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily"
+          },
+          "reviewBody": "We loved this. Very forgiving recipe. I used Tapatío hot sauce because that’s what we had. I put dried dill in the yogurt sauce rather than buy the expensive fresh. I love fresh dill but the dried was fine. To simplify, you could probably squeeze lemon juice into the yogurt sauce, as well. I don’t think any extra oil is necessary. I used a package of skinless, boneless thighs, which also worked fine.",
+          "datePublished": "2025-04-18T02:09:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ajay"
+          },
+          "reviewBody": "Good but not great. Flavors were a bit muted. Would increase spice level next time. Didn’t crisp up as much as I hoped. Maybe spend more time drying at the start and then a stint under the broiler next time?",
+          "datePublished": "2025-04-15T19:35:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AlisonK"
+          },
+          "reviewBody": "Very good. Had to substitute spinach for arugula and am eager to try when I have arugula. Otherwise all worked well according to the recipe. I have a tip for the dill: you can freeze fresh dill. Just snip it as you would for a recipe and spread on a sheet of plastic wrap, with wide margins. Roll the plastic up like a jelly roll and close the ends with twist ties. It's easy to remove just what you need for a dish.  It's almost as good as fresh and certainly better than dried.",
+          "datePublished": "2017-10-30T13:12:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LeslieMac"
+          },
+          "reviewBody": "Fantastic! I double up on the chicken, using skinless/boneless breasts, so I have leftovers to throw into pasta, salads, tacos throughout the week. I also use baby spinach in place of arugula. Throw it UNDER the chicken & potatoes after you take the pan out of the oven and it just wilts and absorbs the marinade and chicken juices. Mmm.",
+          "datePublished": "2017-10-30T15:29:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alexandra Lightning"
+          },
+          "reviewBody": "Have made this wonderful recipe many times. I always seem to find another little tweak for it every time I make it. One thing that's good is to mix about a tablespoon of chopped dill into the garlic yogurt sauce and add a good squeeze of lemon juice. I always use Greek yogurt because there is no reason not to that I can discern, and it's the only kind of yogurt I have at hand. I serve this yogurt/garlic/dill sauce on the side rather than spoon it over the crispy chicken skin.",
+          "datePublished": "2017-10-30T14:10:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brian Abelson"
+          },
+          "reviewBody": "Sublime! I substituted a baking sheet for a sheet pan. The lack of a ridge on the sheet meant that oil dripped to the bottom of the oven, causing a grease fire which I extinguished with 2.5 to 3 cups of water (this amount may vary based on the size of your oven and the intensity of the fire). I found that the fire added a delightful smokiness to the potatoes while the water used to extinguish it created steam in the oven, resulting in deliciously moist chicken. Would recommend!",
+          "datePublished": "2018-05-13T23:13:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathy"
+          },
+          "reviewBody": "Would only marinate chicken overnight, not the potatoes.  They turned brown when exposed to air.<br/>Started potatoes 10 mins before chicken and they were nice and crispy. Put the leeks on top for last 20 mins and they didn't burn like some others reported.<br/>Dish on whole was highly praised and delicious",
+          "datePublished": "2017-10-30T14:45:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane"
+          },
+          "reviewBody": "I have made this dish twice, with excellent results both times. However, on the second occasion I made some adjustments: I used a combination of skinless, boneless breasts and thighs. I used medium potatoes, and cut them into wedges (eighths), which made it easy to arrange the potatoes around the chicken. (The wedges also crisped and browned nicely, which was harder to achieve with potato slices.) And I added the dill and lemon juice to the garlicky yogurt. Easy, delicious, impressive--a winner!",
+          "datePublished": "2017-10-24T19:11:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sally"
+          },
+          "reviewBody": "Why not Greek yogurt, Melissa?",
+          "datePublished": "2017-10-24T20:56:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "not being dramatic"
+          },
+          "reviewBody": "How do I say this without being dramatic...<br/><br/>This is the best dinner I've ever made. I cook frequently, I consider it a hobby. This meal was simple, healthy, and so incredibly tasty. I'd eat this every night of my life.",
+          "datePublished": "2017-10-23T13:16:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kevin Osinski"
+          },
+          "reviewBody": "Loved it, but proportions were strange.  1 1/2 lb bone-in chicken for 4 servings?  I used 4 leg-thighs, which came to something over 3 lb.  I used 12 oz of arugula and spread it as a serving bed for the potatoes, leeks and chicken.  The pan drippings made a nice dressing for the greens.  <br/><br/>The yogurt sauce could also be doubled or tripled.  1/3 cup over 4 servings is only one heaping tbsp each.  I added some dill to the sauce.<br/><br/>With 2 tbsp of harissa this was quite spicy, but we loved it.",
+          "datePublished": "2017-10-30T12:53:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tammy"
+          },
+          "reviewBody": "Great recipe. First time I scattered the arugula over but that created some pretty lackluster arugula the next day when I re-heated the dish.  Next time I put the hot chicken and potatoes on top of room temperature arugula and we had perfectly wilted greens, and no soggy left over greens.  .",
+          "datePublished": "2017-10-30T14:13:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "Excellent. Served it for dinner guests. I used six chicken thighs and a few more potatoes, so increased proportions of marinade and sauce accordingly.  Based on all the comments, I 1) divided the recipe between two sheet pans for nice browning and crisping, 2) added the leeks when there were about 15 minutes left, 3) added some dill and lemon juice to the delicious yogurt sauce (perfect accompaniment), 4) served the chicken and potatoes on top of the arugula.",
+          "datePublished": "2017-10-24T20:14:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AEC"
+          },
+          "reviewBody": "I used Greek yogurt because it's what I had on hand.  However, I whisked a few tablespoons of milk into the Greek yogurt to thin it out.  With the addition of the milk, the yogurt now has the right consistency of what the recipe requires.",
+          "datePublished": "2017-10-30T14:23:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melissa"
+          },
+          "reviewBody": "all I had in the refrig were boneless, skinless breasts, so covered the pan for the first 20 minutes ~ oh my were they moist and tasty. Everyone loved them. Next time will use thighs for an even tastier meal. We used much more yougurt, garlic and arugula, just because, and chopped the garlic ~ grating it was just too odd. An excellent meal!",
+          "datePublished": "2017-10-30T14:04:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah S"
+          },
+          "reviewBody": "I used boneless thighs and drumsticks and doubled the recipe, and used a mixture of cubed yukon golds and halved baby red potatoes. I substituted sriracha for harissa, served chicken and potatoes over a bed of arugula with lemon juice squeezed on it, and incorporated the dill into the garlic yogurt sauce. This dish was easy and amazing. My whole family declared worthy of a once a week dinner.",
+          "datePublished": "2017-10-24T18:11:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "I had only a harissa spice blend from the excellent World Spice here in Seattle. I tossed a couple of tablespoons of that with some kosher salt over the chicken thighs in the morning and let them dry out in the fridge all day. I think the dry spices plus the drying out in the fridge made the chicken skin extra crispy. Also aggressively spacing the ingredients in the sheet pan. I used two to ensure crisping and browning. This is a perfect recipe. We all loved it.",
+          "datePublished": "2017-10-30T15:49:19.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2015
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1017359-sheet-pan-chicken-with-potatoes-arugula-and-garlic-yogurt",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2015,
+      "description": "Your typical sheet-pan chicken recipe roasts everything together on a pan at once. This version pairs potatoes with the poultry, and tops everything off with fresh herbs and arugula, making it a true one-pan meal, salad included. A savory yogurt sauce adds a creamy touch, but it’s optional if you’re not a yogurt sauce fan. Feel free to double the recipe if you’re feeding a crowd, though make sure to use two sheet pans so that everything is spread out in one layer, which is critical for browning.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Sheet-Pan Chicken With Potatoes, Arugula and Garlic Yogurt",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/5b4dc236-7c48-563b-80cc-238c4c12ff7f#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-emaik-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+          "dateModified": "2024-09-12T18:52:58.783Z",
+          "datePublished": "2024-03-25T18:59:50.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-25T18:59:50.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-emaik-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/5b4dc236-7c48-563b-80cc-238c4c12ff7f#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-emaik-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+          "dateModified": "2024-09-12T18:52:58.783Z",
+          "datePublished": "2024-03-25T18:59:50.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-25T18:59:50.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-emaik-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/5b4dc236-7c48-563b-80cc-238c4c12ff7f#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-mediumSquareAt3X-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+          "dateModified": "2024-09-12T18:52:58.783Z",
+          "datePublished": "2024-03-25T18:59:50.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-25T18:59:50.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-arugula-emaik/28sheetpan-chicken-arugula-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1017359-sheet-pan-chicken-with-potatoes-arugula-and-garlic-yogurt"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:06:54.368Z",
+  "scraping_status": "scraped"
+}

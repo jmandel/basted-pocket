@@ -1,0 +1,520 @@
+{
+  "id": "1cd1d8ca5abab9a1",
+  "original_url": "https://cooking.nytimes.com/recipes/1018252-broccoli-rabe-shakshuka-style",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1018252-broccoli-rabe-shakshuka-style",
+  "fetched_title": "Broccoli Rabe, Shakshuka Style Recipe",
+  "main_text_content": "North African shakshuka, eggs baked on a vegetable stew, is popular throughout the Middle East and has become a brunch staple in New York Traditionally, it’s a tomato-based mixture, reflecting the Mediterranean market But there are no rules",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1024922-sauteed-broccoli-rabe\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2023/12/12/multimedia/AS-broccoli-rabe-hbcp/AS-broccoli-rabe-hbcp-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2023/12/12/multimedia/AS-broccoli-rabe-hbcp/AS-broccoli-rabe-hbcp-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2023/12/12/multimedia/AS-broccoli-rabe-hbcp/AS-broccoli-rabe-hbcp-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2023/12/12/multimedia/AS-broccoli-rabe-hbcp/AS-broccoli-rabe-hbcp-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2023/12/12/multimedia/AS-broccoli-rabe-hbcp/AS-broccoli-rabe-hbcp-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2023/12/12/multimedia/AS-broccoli-rabe-hbcp/AS-broccoli-rabe-hbcp-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2023/12/12/multimedia/AS-broccoli-rabe-hbcp/AS-broccoli-rabe-hbcp-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2023/12/12/multimedia/AS-broccoli-rabe-hbcp/AS-broccoli-rabe-hbcp-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Sautéed Broccoli Rabe</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Ali Slagle</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2016/08/24/dining/24PAIR-web/24PAIR-web-videoSixteenByNineJumbo1600.jpg",
+  "local_image_path": "scraped/1cd1d8ca5abab9a1/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/72f64be7-1550-5941-b48e-d7f82f1d886c",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1018252-broccoli-rabe-shakshuka-style",
+        "@type": "WebPage",
+        "name": "Broccoli Rabe, Shakshuka Style"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1018252-broccoli-rabe-shakshuka-style",
+      "name": "Broccoli Rabe, Shakshuka Style",
+      "description": "North African shakshuka, eggs baked on a vegetable stew, is popular throughout the Middle East and has become a brunch staple in New York. Traditionally, it’s a tomato-based mixture, reflecting the Mediterranean market. But there are no rules. Here’s an earthy green version made with broccoli rabe, potatoes and peppers. Tomato sauce alongside would not be a mistake, nor would slices of garlic sausage tucked throughout.",
+      "author": {
+        "@type": "Person",
+        "name": "Florence Fabricant"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/3b8a4c4f-a3b5-53db-a3dd-9cf3e34f175e#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Broccoli rabe, potatoes and bell peppers go into an earthy version of shakshuka.",
+          "contentUrl": "https://static01.nyt.com/images/2016/08/24/dining/24PAIR-web/24PAIR-web-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Rikki Snyder for The New York Times",
+          "dateModified": "2016-08-17T16:04:51.000Z",
+          "datePublished": "2016-08-17T16:05:36.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2016-08-17T16:05:36.000Z",
+          "url": "https://static01.nyt.com/images/2016/08/24/dining/24PAIR-web/24PAIR-web-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3b8a4c4f-a3b5-53db-a3dd-9cf3e34f175e#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Broccoli rabe, potatoes and bell peppers go into an earthy version of shakshuka.",
+          "contentUrl": "https://static01.nyt.com/images/2016/08/24/dining/24PAIR-web/24PAIR-web-superJumbo.jpg",
+          "creditText": "Rikki Snyder for The New York Times",
+          "dateModified": "2016-08-17T16:04:51.000Z",
+          "datePublished": "2016-08-17T16:05:36.000Z",
+          "height": "1314",
+          "representativeOfPage": true,
+          "uploadDate": "2016-08-17T16:05:36.000Z",
+          "url": "https://static01.nyt.com/images/2016/08/24/dining/24PAIR-web/24PAIR-web-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3b8a4c4f-a3b5-53db-a3dd-9cf3e34f175e#square640",
+          "@type": "ImageObject",
+          "caption": "Broccoli rabe, potatoes and bell peppers go into an earthy version of shakshuka.",
+          "contentUrl": "https://static01.nyt.com/images/2016/08/24/dining/24PAIR-web/24PAIR-web-square640.jpg",
+          "creditText": "Rikki Snyder for The New York Times",
+          "dateModified": "2016-08-17T16:04:51.000Z",
+          "datePublished": "2016-08-17T16:05:36.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2016-08-17T16:05:36.000Z",
+          "url": "https://static01.nyt.com/images/2016/08/24/dining/24PAIR-web/24PAIR-web-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT1H",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "breakfast, brunch, dinner, one pot, main course",
+      "keywords": "bell pepper, broccoli rabe, eggs, jalapeño, parmesan",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 548
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 236,
+        "unsaturatedFatContent": "9 grams",
+        "carbohydrateContent": "19 grams",
+        "cholesterolContent": null,
+        "fatContent": "13 grams",
+        "fiberContent": "5 grams",
+        "proteinContent": "13 grams",
+        "saturatedFatContent": "4 grams",
+        "sodiumContent": "742 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 tablespoons extra-virgin olive oil",
+        "1 cup onion, in 1/2-inch dice",
+        "2 medium-size green bell peppers, cored and seeded, in 1/2-inch dice",
+        "2 medium-size jalapeño chiles, seeded and chopped fine",
+        "3 cloves garlic, slivered",
+        "12 ounces Yukon Gold potatoes, peeled, in 1/2-inch dice",
+        "Salt and ground black pepper",
+        "1 tablespoon fresh thyme leaves",
+        "1 1/2 cups chicken or vegetable broth",
+        "1 bunch broccoli rabe, heavy stems removed, finely chopped",
+        "1/2 teaspoon crushed red chile flakes or to taste",
+        "4 to 6 large eggs",
+        "4 to 6 tablespoons grated Parmigiano-Reggiano"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat 1 tablespoon of the oil in a heavy 12- to 14-inch skillet; cast iron is best. Add onions, bell peppers and jalapeños and sauté on medium about 10 minutes until vegetables are tender and starting to color. Stir in garlic, cook for a minute or two, then stir in potatoes. Reduce heat a bit and sauté another 5 minutes, stirring occasionally. Season with salt and pepper and add thyme."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add broth and cook on medium-low until much of it has evaporated and potatoes are tender, about 15 minutes. Add broccoli rabe. Cook, stirring occasionally until broccoli rabe has wilted, softened and reduced. Fold in chile flakes and season with more salt and pepper if needed. Turn off heat. Smooth top of vegetables and use the back of a soup spoon to make 4 or 6 evenly spaced shallow depressions in the mixture."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Light broiler and adjust a rack fairly close to the heat. Just before serving, break an egg into each of the depressions in the vegetables. Place skillet under the broiler until whites are set and yolks are still runny (they’ll wiggle if gently touched), 1 1/2 to 2 minutes. Dust each egg with cheese and serve."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "moncprov"
+          },
+          "reviewBody": "for 2-3:  brown 1 med sliced onion 3-4 min,  then add 1 thinly sliced red bell pepper and 1 diced jalapeno (no seeds) and cook til softened, remove/set aside. Add another T of oil and layer thinly sliced peeled sweet potato cooking for 10 min til softer, add 1-2 oz broth as needed to prevent burning. Turn oven to 450degrees, Add chopped 1/2 bunch of broccoli rabe over potatoes, cover and cook til reduced, top with onions and peppers,  top with 5 eggs @ 1-2 min under broiler and 450 for 3 min.",
+          "datePublished": "2025-03-11T02:01:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "adam"
+          },
+          "reviewBody": "I tried this, and although it came together beautifully, I just couldn’t get behind the flavor. Broccoli rabe is very bitter and I usually eat it after blanching and carefully sautéing for a very long time, which mellows and sweetens it.  The combination of broccoli rabe with green pepper was really astringent.  The eggs and potato gets lost.  If I did it again I’d use a different green, sub out the green bell pepper for zucchini, and serve it over a creamy potato puree or polenta.",
+          "datePublished": "2023-07-12T23:04:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andy P"
+          },
+          "reviewBody": "Made in a 8-10 in cast iron skillet.  About 1/2 portion.  Not bad.  Use feta on top for broil.",
+          "datePublished": "2023-06-05T02:34:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bello"
+          },
+          "reviewBody": "Recipe calls for 3 tablespoons of EVOO but prep instructions only mention 1 tablespoon? Did I miss something?",
+          "datePublished": "2022-04-10T21:19:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erin B"
+          },
+          "reviewBody": "This was good, not amazing. Unnecessarily time consuming for a glorified breakfast hash. I think you could sauté the onions until starting to brown, then add the peppers, potato, herbs/spices and cook all together and halve the time. To save even more time you could microwave the diced potatoes in some water for a few minutes to precook. I skipped the broiler and fried the eggs on the side, I think it results in a more evenly cooked egg. Could easily riff with herbs, greens, etc. Hot sauce too!",
+          "datePublished": "2021-12-05T03:32:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "reviewBody": "That's what I'm going to use when I make this recipe. Never heard of broccoli rabe (I'm in the UK)",
+          "datePublished": "2023-02-28T23:13:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sunny"
+          },
+          "reviewBody": "Would this work with dinosaur kale? It’s overtaking out garden!",
+          "datePublished": "2021-09-02T09:39:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tannie B"
+          },
+          "reviewBody": "Very good! My only alteration was using broccolini in place of the broccoli rabe (plus a handful of spinach) and it was very satisfying. Next time I'll use a bit more thyme.",
+          "datePublished": "2021-02-06T18:18:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cedric"
+          },
+          "reviewBody": "Used leftover duck stock and duck fat to roast the veg - phenomenal!",
+          "datePublished": "2020-06-16T00:28:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KG"
+          },
+          "reviewBody": "Good recipe, would keep the jalapeño seeds in, add red pepper flakes with liquid to add additional heat (flavors quite bland without it).  Kept steps, finer chop.  Put cheese before the broiler, finish w Aleppo pepper",
+          "datePublished": "2020-04-08T02:41:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nathan G"
+          },
+          "reviewBody": "I'd like to know what the other two tablespoons of olive oil are for",
+          "datePublished": "2020-01-22T13:07:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BC"
+          },
+          "reviewBody": "Calls for 3 tbs of olive oil but recipe then only says to use 1. What am I missing?",
+          "datePublished": "2020-01-10T23:59:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Colleen"
+          },
+          "reviewBody": "“Brokshuka” was a hit with the family. Nice way to start the day with a big serving of vegetables. I might make this chilaquiles style next time with salsa verde. I also think I’ll try adding cauliflower rice to the pepper/tomato/harissa shakshuka recipe next time, because the texture of this recipe was very satisfying.",
+          "datePublished": "2019-12-29T17:48:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie"
+          },
+          "reviewBody": "Fail. I didn't use enough broccoli - but even beyond that, it was just boring.",
+          "datePublished": "2019-04-24T01:51:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elaine"
+          },
+          "reviewBody": "Used poblanos instead of green bell peppers.  Added Aleppo pepper with the onions while sauteing.  Finely chopped broccoli instead of broccoli rabe.  Topped egg with Aleppo pepper oil as well as Parmesan.  super delicious",
+          "datePublished": "2019-04-18T23:46:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elaine"
+          },
+          "reviewBody": "I had broccolini to used up so substituted it for the broccoli rabe.  This came out delicious and I'll  definitely make again.",
+          "datePublished": "2019-02-10T00:05:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ellen"
+          },
+          "reviewBody": "For what it's worth, many tastebuds object to the bitterness of the broccoli rabe -- and to cure that all you need to do is blanch it for a minute before cooking.  Have a steamer ready, or a pot of boiling water, and after you've trimmed the heavy stems but before chopping, toss it in, cover it, and give it a minute or two -- till it turns BRIGHT green.  Proceed with recipe.",
+          "datePublished": "2017-10-24T21:44:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Beth Epstein"
+          },
+          "reviewBody": "This is not called Shakshuka. It's called Broccoli Rabe, Shakshuka Style",
+          "datePublished": "2017-10-24T22:52:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Poblanito"
+          },
+          "reviewBody": "The flavors for this recipe were very pleasing, but the technique was iffy in the sense that the peppers became overcooked and mushy because of the amount of time they spend in the pan (and the subsequent stock bath). While we don't want crispy crunchy veggies here, it'd be better to cook, remove, and then re-add the peppers and onions alongside the broccoli rabe after the potatoes have time to cook and simmer. I also blanched the broc and it was perfect. Add lemon zest at the end!",
+          "datePublished": "2017-10-24T22:48:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Figaro"
+          },
+          "reviewBody": "This dish is classic Tunisian cuisine. I've been making this from Claudia Roden's Mediterranean Cookbook since 1985; olive oil, onions; peppers; tomatoes; garlic; cumin; harissa; eggs, period! Variations suggest; zucchini or eggplant.<br/><br/>What you suggest in not shakshuka at all, so please call it something else!",
+          "datePublished": "2017-10-24T22:31:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Naomi"
+          },
+          "reviewBody": "She didn't say it was Shakshuka, she said it was Shakshuka *style.* There's a difference.",
+          "datePublished": "2017-10-24T15:01:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aly"
+          },
+          "reviewBody": "I usually clean my broccoli rabe and peel off some of the thick outer skin, like cleaning the heavy broccoli stems, I put on a plate with a little water another plate on as a cover and 'blanch' it in the microwave. It is then ready to sauté or add to any dish, garlic, cavatelli, reggiano parmesan and a really fruity Spanish olive oil is my favorite.",
+          "datePublished": "2017-10-24T22:15:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "john"
+          },
+          "reviewBody": "i've made this 5 times already. it's fantastic. especially with garlic sausage",
+          "datePublished": "2017-10-24T22:25:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Roberto"
+          },
+          "reviewBody": "I dealt with the texture issues discussed below by making the potato pieces a little smaller and the onion and pepper pieces a little larger.",
+          "datePublished": "2017-10-01T15:44:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fluff"
+          },
+          "reviewBody": "As often when a dish becomes trendy online, people get confused about what it is and before you know it, every mayo is \"aioli\". Now every time someone breaks an egg over vegetable, it's Shakshuka. Shakshuka is not eggs baked on a vegetable stew. It's a pepper and tomato sauce. If you take away the tomato and pepper sauce, it's something else, regardless of eggs.<br/>This is a pleasant dish, and a good way to eat veggies but shaksuka, it is not.",
+          "datePublished": "2017-10-24T22:19:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lofty Becker"
+          },
+          "reviewBody": "You can do this easily enough without a broiler (and make it easier to serve, too). Just cook as directed until the point where you'd add the eggs. Then fry eggs, sunny side up or over easy, and serve.",
+          "datePublished": "2017-10-24T22:29:47.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2016
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1018252-broccoli-rabe-shakshuka-style",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Florence Fabricant"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2016,
+      "description": "North African shakshuka, eggs baked on a vegetable stew, is popular throughout the Middle East and has become a brunch staple in New York. Traditionally, it’s a tomato-based mixture, reflecting the Mediterranean market. But there are no rules. Here’s an earthy green version made with broccoli rabe, potatoes and peppers. Tomato sauce alongside would not be a mistake, nor would slices of garlic sausage tucked throughout.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Broccoli Rabe, Shakshuka Style",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/3b8a4c4f-a3b5-53db-a3dd-9cf3e34f175e#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Broccoli rabe, potatoes and bell peppers go into an earthy version of shakshuka.",
+          "contentUrl": "https://static01.nyt.com/images/2016/08/24/dining/24PAIR-web/24PAIR-web-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Rikki Snyder for The New York Times",
+          "dateModified": "2016-08-17T16:04:51.000Z",
+          "datePublished": "2016-08-17T16:05:36.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2016-08-17T16:05:36.000Z",
+          "url": "https://static01.nyt.com/images/2016/08/24/dining/24PAIR-web/24PAIR-web-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3b8a4c4f-a3b5-53db-a3dd-9cf3e34f175e#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Broccoli rabe, potatoes and bell peppers go into an earthy version of shakshuka.",
+          "contentUrl": "https://static01.nyt.com/images/2016/08/24/dining/24PAIR-web/24PAIR-web-superJumbo.jpg",
+          "creditText": "Rikki Snyder for The New York Times",
+          "dateModified": "2016-08-17T16:04:51.000Z",
+          "datePublished": "2016-08-17T16:05:36.000Z",
+          "height": "1314",
+          "representativeOfPage": true,
+          "uploadDate": "2016-08-17T16:05:36.000Z",
+          "url": "https://static01.nyt.com/images/2016/08/24/dining/24PAIR-web/24PAIR-web-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3b8a4c4f-a3b5-53db-a3dd-9cf3e34f175e#square640",
+          "@type": "ImageObject",
+          "caption": "Broccoli rabe, potatoes and bell peppers go into an earthy version of shakshuka.",
+          "contentUrl": "https://static01.nyt.com/images/2016/08/24/dining/24PAIR-web/24PAIR-web-square640.jpg",
+          "creditText": "Rikki Snyder for The New York Times",
+          "dateModified": "2016-08-17T16:04:51.000Z",
+          "datePublished": "2016-08-17T16:05:36.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2016-08-17T16:05:36.000Z",
+          "url": "https://static01.nyt.com/images/2016/08/24/dining/24PAIR-web/24PAIR-web-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1018252-broccoli-rabe-shakshuka-style"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:17:23.863Z",
+  "scraping_status": "scraped"
+}

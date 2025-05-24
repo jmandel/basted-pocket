@@ -1,0 +1,558 @@
+{
+  "id": "f40ffeee50316fce",
+  "original_url": "https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesan",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesan",
+  "fetched_title": "Braised White Beans and Greens With Parmesan Recipe",
+  "main_text_content": "Inspired by the Italian dish of sautéed puntarelle (an Italian variety of chicory) and white beans, this recipe makes a satisfying vegetarian main course or a hearty side dish for roast chicken or sausages It opts for canned white beans, for the sake of weeknight convenience, and Swiss chard, which is much milder than puntarelle and easier to find in the U.S Kale or escarole would also work well, if that’s what you’ve got",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1017588-stewed-romano-beans-with-tomatoes\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2015/08/05/dining/05MARTHA/05MARTHA-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2015/08/05/dining/05MARTHA/05MARTHA-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2015/08/05/dining/05MARTHA/05MARTHA-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2015/08/05/dining/05MARTHA/05MARTHA-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2015/08/05/dining/05MARTHA/05MARTHA-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2015/08/05/dining/05MARTHA/05MARTHA-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2015/08/05/dining/05MARTHA/05MARTHA-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2015/08/05/dining/05MARTHA/05MARTHA-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Stewed Romano Beans With Tomatoes</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Martha Rose Shulman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/03/14/dining/lh-cheesy-beans-and-greens/merlin_183224118_e83ba06b-3d32-4ca6-a164-7e53b3fbc5fd-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/f40ffeee50316fce/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/c62f84aa-b410-51e6-8bac-68d037f5fee1",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesan",
+        "@type": "WebPage",
+        "name": "Braised White Beans and Greens With Parmesan"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesan",
+      "name": "Braised White Beans and Greens With Parmesan",
+      "description": "Inspired by the Italian dish of sautéed puntarelle (an Italian variety of chicory) and white beans, this recipe makes a satisfying vegetarian main course or a hearty side dish for roast chicken or sausages. It opts for canned white beans, for the sake of weeknight convenience, and Swiss chard, which is much milder than puntarelle and easier to find in the U.S. Kale or escarole would also work well, if that’s what you’ve got. On that note, grated Pecorino Romano cheese gives the broth a more pungent element, but Parmesan will work in its place. Serve in shallow bowls with toasted country bread to mop up the garlicky broth.",
+      "author": {
+        "@type": "Person",
+        "name": "Lidey Heuck"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/23fb1101-c374-5335-8584-4779611e3cbe#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/14/dining/lh-cheesy-beans-and-greens/lh-cheesy-beans-and-greens-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Julia Gartland for The New York Times (Photography and Styling)",
+          "dateModified": "2024-11-07T09:17:20.716Z",
+          "datePublished": "2021-02-10T16:57:27.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-10T16:57:27.000Z",
+          "url": "https://static01.nyt.com/images/2021/03/14/dining/lh-cheesy-beans-and-greens/lh-cheesy-beans-and-greens-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/23fb1101-c374-5335-8584-4779611e3cbe#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/14/dining/lh-cheesy-beans-and-greens/lh-cheesy-beans-and-greens-googleFourByThree-v2.jpg",
+          "creditText": "Julia Gartland for The New York Times (Photography and Styling)",
+          "dateModified": "2024-11-07T09:17:20.716Z",
+          "datePublished": "2021-02-10T16:57:27.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-10T16:57:27.000Z",
+          "url": "https://static01.nyt.com/images/2021/03/14/dining/lh-cheesy-beans-and-greens/lh-cheesy-beans-and-greens-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/23fb1101-c374-5335-8584-4779611e3cbe#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/14/dining/lh-cheesy-beans-and-greens/lh-cheesy-beans-and-greens-mediumSquareAt3X-v2.jpg",
+          "creditText": "Julia Gartland for The New York Times (Photography and Styling)",
+          "dateModified": "2024-11-07T09:17:20.716Z",
+          "datePublished": "2021-02-10T16:57:27.000Z",
+          "height": "1316",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-10T16:57:27.000Z",
+          "url": "https://static01.nyt.com/images/2021/03/14/dining/lh-cheesy-beans-and-greens/lh-cheesy-beans-and-greens-mediumSquareAt3X-v2.jpg",
+          "width": "1316"
+        }
+      ],
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, quick, weeknight, beans, main course, side dish",
+      "keywords": "cannellini bean, dutch oven, escarole, fennel, full-access-ic-2024-09, kale, swiss chard, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 14447
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 617,
+        "unsaturatedFatContent": "16 grams",
+        "carbohydrateContent": "68 grams",
+        "cholesterolContent": null,
+        "fatContent": "25 grams",
+        "fiberContent": "14 grams",
+        "proteinContent": "33 grams",
+        "saturatedFatContent": "8 grams",
+        "sodiumContent": "1529 milligrams",
+        "sugarContent": "7 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1/4 cup olive oil",
+        "1 small fennel bulb, trimmed, cored and small-diced",
+        "1 small yellow onion, small-diced",
+        "2 teaspoons minced fresh rosemary or thyme",
+        "5 garlic cloves, minced",
+        "1/4 teaspoon red-pepper flakes, plus more to taste",
+        "1 large or 2 small bunches escarole, kale or Swiss chard, stems removed (10 to 12 ounces)",
+        "2 (15-ounce) cans cannellini beans, rinsed",
+        "2 cups low-sodium vegetable or chicken broth",
+        "Kosher salt and black pepper",
+        "1 tablespoon lemon juice",
+        "1/2 cup shredded mozzarella (optional)",
+        "3 tablespoons grated Parmesan or Pecorino Romano, plus more for serving",
+        "Toasted country bread, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a 12-inch skillet or Dutch oven, heat the olive oil over medium. Add the fennel, onion and rosemary, and cook for 4 to 6 minutes, stirring occasionally, until tender. Add the garlic and red-pepper flakes and cook until fragrant, about 1 minute."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Begin adding handfuls of the greens, cooking and stirring until leaves wilt."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the white beans, broth and 1/4 teaspoon black pepper, and stir to combine. Bring to a boil, then turn the heat to low and simmer, mashing some of the beans with a wooden spoon, until the liquid has reduced and thickened, 6 to 8 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Off the heat, stir in the lemon juice, then the mozzarella, if using, and Pecorino Romano. Taste and season with salt and pepper. Divide among shallow bowls and top with more Pecorino Romano. Serve with toasted bread and a dish of red-pepper flakes on the side."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-02-11T00:00:00.000Z",
+      "dateModified": "2024-10-21T14:57:22.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Wendy Boer"
+          },
+          "reviewBody": "I used collared greens instead of chard and bok choy rather than fennel and added corn so you can do a lot of substitutions with this recipe.",
+          "datePublished": "2025-05-23T01:42:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mariel"
+          },
+          "reviewBody": "Add more lemon. LOTS.",
+          "datePublished": "2025-05-21T01:07:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cinthya"
+          },
+          "reviewBody": "This is delicious! I substituted a leek for the fennel and used pre-packaged organic mixed greens (spinach, kale, and chard) - turned out great and I used the remaining greens for a salad the next day.\n\nMy grandparents used to make a very similar dish when they wanted 'Italian' beans; when they wanted 'Spanish' beans, they added tomato, bay leaf and cumin. The dish is called 'alubias con acelgas'.",
+          "datePublished": "2025-05-20T23:14:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jessalyn"
+          },
+          "reviewBody": "I made it without any cheese. It was still plenty substantial and salty. I'll put this in my rotation!",
+          "datePublished": "2025-05-17T01:38:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie"
+          },
+          "reviewBody": "Wow! So good. I found this recipe searching for escarole, which I had gotten in a CSA box. Didn’t have fennel so I grated in a large carrot and sprinkled in some fennel seeds. Otherwise followed the recipe. Amazing!",
+          "datePublished": "2025-05-15T23:48:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ben"
+          },
+          "reviewBody": "Very easy and very, very good. The type of dish where you do want pecorino vs parm if possible.",
+          "datePublished": "2025-05-16T01:18:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debbie D"
+          },
+          "reviewBody": "I made a half recipe's worth of this with some slightly overcooked Rancho Gordo Black Calypso beans, about 8 ounces of chopped curly kale with stem bits, a very small fennel bulb, onion, garlic, and rosemary.  No mozzarella and I added grated Parmesan  to individual servings.  While the dish was not as pretty, it was very tasty.  Considering using some chopped Fresno chili peppers instead of crushed chili to improve the visual aspect of the dish the next time I use beans that aren't white.",
+          "datePublished": "2025-05-14T13:11:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sr"
+          },
+          "reviewBody": "I don’t know why everyone loved this so much. To me, it was bland and tasted too unidimensional.",
+          "datePublished": "2025-05-13T23:45:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Matthew"
+          },
+          "reviewBody": "Cut the recipe in half - served 5 with baguette and leaf salad. Man, some big eaters out there! Great recipe - used canned callaloo and canned beans. Fast, easy, tasty.",
+          "datePublished": "2025-05-11T12:44:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "emily"
+          },
+          "reviewBody": "I thought to myself “no way is this better than my typical escarole white bean soup” but it is",
+          "datePublished": "2025-05-10T21:50:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie Steinberg"
+          },
+          "reviewBody": "I added the fennel fronds and Swiss chard (store was out of escarole) stalks to the pot when making vegetable broth, along with a Parmesan rind and some dried mushrooms.  Also added a bit of smoked salt toward the end, which balanced things nicely. Served in a low bowl with some roasted salmon on top and crusty rolls - delicious.  Will make again.",
+          "datePublished": "2025-05-07T23:23:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Judith Bergson"
+          },
+          "reviewBody": "I have made this several times; it is a real winner. I have added a parmesan rind and omitted the lemon juice when I was out of lemons.",
+          "datePublished": "2025-05-07T20:58:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CarolFitz"
+          },
+          "reviewBody": "Don't throw away chard stems; if you haven't a use for them right away, store in fridge upright in jar of clean water, loosely covered with a plastic bag (as you would romaine or scallions). Clean and chop the greens' stems and add with onion.  Mash maybe 1/2 can of the rinsed beans before you add them, easier that way though you dirty another dish.  If you have a cheese rind, put in pot when all is at a simmer.  If you prefer crisper greens cut their cook time.",
+          "datePublished": "2025-05-03T14:37:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marie"
+          },
+          "reviewBody": "This is such a delicious recipe.  I have made it many times, with many substitutions.  I've used beet greens, collard greens and even cabbage which was super yummy.  I double or triple the red pepper flakes (I use Korean red pepper flakes) and add fennel seeds.  So good and all my kids just love it!  Gruyere is good grated on top.",
+          "datePublished": "2025-05-02T04:34:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Northern neighbour"
+          },
+          "reviewBody": "Agree with all the positives!\nCelery was in the fridge=great sub for anise. But look forward to trying anise. \nDandelion, yes! The cooking and the lemon tame the bitter. \nDry thyme was excellent. \nHome made chicken stock a bonus. \nThanks ! Always looking for dandelion recipes",
+          "datePublished": "2025-05-01T23:57:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "dee"
+          },
+          "reviewBody": "Discarding those stalks from the chard is such a miss. Think of chard as two vegetables in one - the stalk and the leaf. Cut them out {fold the leaf in half lengthwise and cut along the length of stalk to free the stalk from the leaf} and dice the stalks, then add to the onions and fennel to sauté.",
+          "datePublished": "2021-02-27T17:14:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Josh"
+          },
+          "reviewBody": "Gosh. This is about the most delicious bean dish I've made. No: it's the most delicious using canned beans. Living alone I need a few ways to use up leftovers so here are my plans: 1) add more stock and turn into soup, 2) drain some in a sieve overnight in fridge and smash into a ciabatta bun for lunch, 3) reheat and serve with a poached egg and baguette toast points.",
+          "datePublished": "2021-02-22T02:01:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "Celery or leeks are a good sub for fennel and given the way this recipe is made I'd go with leeks for a more mild flavor profile.  Celery is better as a substitute for raw fennel.",
+          "datePublished": "2021-02-18T23:09:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "greta"
+          },
+          "reviewBody": "It’s not a NYT recipe until there are hundreds of readers posting their spin on it, but here I am..! Just had to mention how easy and efficient this meal was. Had almost every single ingredient chilling in the refrigerator (post-galentine’s day) - ALL I had to pay was 55p for a baguette! Added (here we go..) some bacon for a fat/protein element and went easy on the seasoning and cheese. The lemon juice tied it all together. Yet another go to recipe in my NYT archives.",
+          "datePublished": "2021-02-18T23:44:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dan Findlay"
+          },
+          "reviewBody": "Don't be afraid to use other greens; dandelion, turnip, beet, collard, arugula, and foraged wild greens (Lamb's quarters, purslane, sorrel, chickweed, etc.) in the spring. This recipe is descended from \"la cucina povera,\" the no-waste, make use of limited resources, use what you have on hand, \"poor cooking.\"",
+          "datePublished": "2021-02-21T13:02:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chefkreidler"
+          },
+          "reviewBody": "I've been making this dish for 30 years. I like to add a little Arugula in for flavor. Puree any leftovers,  makes a great dip!",
+          "datePublished": "2021-03-05T14:36:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Randy"
+          },
+          "reviewBody": "This was great! I used chard and omitted the mozzarella.\n\nThis recipe doesn't make four servings unless you're feeding toddlers or supermodels. At my house it made two generous adult servings.  Next time I'll double it.",
+          "datePublished": "2021-03-12T02:27:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Randy"
+          },
+          "reviewBody": "Adding bacon for protein makes as much sense as adding extra salt for the iodine.",
+          "datePublished": "2021-03-08T17:20:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Post first attempt"
+          },
+          "reviewBody": "Add lemon zest as well as the juice for extra flavor.",
+          "datePublished": "2021-02-19T05:24:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ritamay"
+          },
+          "reviewBody": "What could you sub in for fennel?  My family and I don't care for it... Thank you!",
+          "datePublished": "2021-02-18T19:32:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne"
+          },
+          "reviewBody": "I loved that the recipe included fennel--cooking it changes the flavor from when it is raw--it was such a flavor enhancer.  I had both kale and spinach, & added both, so we had 2 different greens--one substantial & one tender.  My husband loved the contrast.  I cooked up my own cannellini beans, rather than using canned & they kept their shape well.  I added some preserved lemon because I didn't have any fresh lemons, and that really added great flavor. Will make again!",
+          "datePublished": "2021-02-19T00:46:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Denise"
+          },
+          "reviewBody": "I love almost all NYT recipes but this is one of the best. Full of flavor and healthy. We didn't change a thing.",
+          "datePublished": "2021-03-10T00:52:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PF"
+          },
+          "reviewBody": "Not sure why recipes call for discarding (or simply not using) the Swiss chard stems. They can be trimmed and diced and added with the fennel and onion. Or replace the fennel altogether. Great choice for a Meatless Monday, although it's screaming out for pancetta or bacon or sausage.",
+          "datePublished": "2021-03-08T17:11:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen B"
+          },
+          "reviewBody": "Made this vegan for my girlfriend. Subbed in red onion, dried Rosemary, great northern beans, and finished with white balsamic because I ran out of lemons. She said it was her in her top 5 things I’ve ever made for her. Easy and Italian inspired weeknight dinner or side. Loved!",
+          "datePublished": "2021-02-28T03:17:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jen"
+          },
+          "reviewBody": "Delicious and easy. Wonderful lunch! I sautéed a little pancetta and sprinkled on top. Also chopped up some fennel fronds and added a shallot and some green onions.   Skipped the mozz. in the soup. If you want, rub the bread with olive oil and garlic, toast, top with cheese and pop under broiler. Then float the cheesy toast in the soup. I’ll double the recipe next time.",
+          "datePublished": "2021-02-20T21:07:01.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesan",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Lidey Heuck"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "Inspired by the Italian dish of sautéed puntarelle (an Italian variety of chicory) and white beans, this recipe makes a satisfying vegetarian main course or a hearty side dish for roast chicken or sausages. It opts for canned white beans, for the sake of weeknight convenience, and Swiss chard, which is much milder than puntarelle and easier to find in the U.S. Kale or escarole would also work well, if that’s what you’ve got. On that note, grated Pecorino Romano cheese gives the broth a more pungent element, but Parmesan will work in its place. Serve in shallow bowls with toasted country bread to mop up the garlicky broth.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Braised White Beans and Greens With Parmesan",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/23fb1101-c374-5335-8584-4779611e3cbe#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/14/dining/lh-cheesy-beans-and-greens/lh-cheesy-beans-and-greens-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Julia Gartland for The New York Times (Photography and Styling)",
+          "dateModified": "2024-11-07T09:17:20.716Z",
+          "datePublished": "2021-02-10T16:57:27.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-10T16:57:27.000Z",
+          "url": "https://static01.nyt.com/images/2021/03/14/dining/lh-cheesy-beans-and-greens/lh-cheesy-beans-and-greens-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/23fb1101-c374-5335-8584-4779611e3cbe#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/14/dining/lh-cheesy-beans-and-greens/lh-cheesy-beans-and-greens-googleFourByThree-v2.jpg",
+          "creditText": "Julia Gartland for The New York Times (Photography and Styling)",
+          "dateModified": "2024-11-07T09:17:20.716Z",
+          "datePublished": "2021-02-10T16:57:27.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-10T16:57:27.000Z",
+          "url": "https://static01.nyt.com/images/2021/03/14/dining/lh-cheesy-beans-and-greens/lh-cheesy-beans-and-greens-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/23fb1101-c374-5335-8584-4779611e3cbe#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/14/dining/lh-cheesy-beans-and-greens/lh-cheesy-beans-and-greens-mediumSquareAt3X-v2.jpg",
+          "creditText": "Julia Gartland for The New York Times (Photography and Styling)",
+          "dateModified": "2024-11-07T09:17:20.716Z",
+          "datePublished": "2021-02-10T16:57:27.000Z",
+          "height": "1316",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-10T16:57:27.000Z",
+          "url": "https://static01.nyt.com/images/2021/03/14/dining/lh-cheesy-beans-and-greens/lh-cheesy-beans-and-greens-mediumSquareAt3X-v2.jpg",
+          "width": "1316"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesan"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:19:26.536Z",
+  "scraping_status": "scraped"
+}

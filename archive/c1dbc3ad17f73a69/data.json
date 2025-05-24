@@ -1,0 +1,566 @@
+{
+  "id": "c1dbc3ad17f73a69",
+  "original_url": "https://cooking.nytimes.com/recipes/1026473-chicken-and-red-lentil-soup-with-lemony-yogurt",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026473-chicken-and-red-lentil-soup-with-lemony-yogurt",
+  "fetched_title": "Chicken and Red Lentil Soup With Lemony Yogurt  Recipe",
+  "main_text_content": "If you’re feeling a bit worn down, one bowl of this hearty lentil soup will bring you back to life — or at least fool you into thinking so The broth is simply (and deeply) flavored with charred onions and six garlic cloves, plus a generous pinch of turmeric that stains the soup gold As they cook down, the lentils melt into the broth, making it thick and rich",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1016062-red-lentil-soup\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"Two bowls of red lentil soup are garnished with cilantro leaves; a plate of lemon wedges and a pot of soup are nearby.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/mc-red-lentil-soup-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/merlin_146234352_d7bc8486-b067-4cff-a4c0-7741f166fb60-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/mc-red-lentil-soup-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/mc-red-lentil-soup-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/merlin_146234352_d7bc8486-b067-4cff-a4c0-7741f166fb60-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/merlin_146234352_d7bc8486-b067-4cff-a4c0-7741f166fb60-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/mc-red-lentil-soup-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/mc-red-lentil-soup-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Red Lentil Soup</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/01/10/multimedia/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/c1dbc3ad17f73a69/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/e5427b99-5071-553b-979e-355a73809a80",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026473-chicken-and-red-lentil-soup-with-lemony-yogurt",
+        "@type": "WebPage",
+        "name": "Chicken and Red Lentil Soup With Lemony Yogurt "
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026473-chicken-and-red-lentil-soup-with-lemony-yogurt",
+      "name": "Chicken and Red Lentil Soup With Lemony Yogurt ",
+      "description": "If you’re feeling a bit worn down, one bowl of this hearty lentil soup will bring you back to life — or at least fool you into thinking so. The broth is simply (and deeply) flavored with charred onions and six garlic cloves, plus a generous pinch of turmeric that stains the soup gold. As they cook down, the lentils melt into the broth, making it thick and rich. A healthy dose of black pepper brings gentle heat to clear your head, and the final sprinkle of fresh dill and parsley adds a bright, herbal finish. This soup is soothing and satisfying on its own, but feel free to add a few extras: hearty greens like kale or spinach to wilt, a soft-boiled egg, or even chile oil for some heat.&nbsp;",
+      "author": {
+        "@type": "Person",
+        "name": "Andy Baraghani"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/b35ee58a-48b3-575a-af8a-7e6878dcfdc7#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/10/multimedia/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-01-10T16:44:04.303Z",
+          "datePublished": "2025-01-07T15:04:17.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-07T15:04:17.000Z",
+          "url": "https://static01.nyt.com/images/2025/01/10/multimedia/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/b35ee58a-48b3-575a-af8a-7e6878dcfdc7#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/10/multimedia/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb-googleFourByThree.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-01-10T16:44:04.303Z",
+          "datePublished": "2025-01-07T15:04:17.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-07T15:04:17.000Z",
+          "url": "https://static01.nyt.com/images/2025/01/10/multimedia/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/b35ee58a-48b3-575a-af8a-7e6878dcfdc7#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/10/multimedia/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb-mediumSquareAt3X.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-01-10T16:44:04.303Z",
+          "datePublished": "2025-01-07T15:04:17.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-07T15:04:17.000Z",
+          "url": "https://static01.nyt.com/images/2025/01/10/multimedia/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H",
+      "recipeYield": "4 servings  ",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, one pot, poultry, main course",
+      "keywords": "chicken thigh, lemon juice, red lentil, soup, stovetop, yogurt, fall, winter",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 2477
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 603,
+        "unsaturatedFatContent": "12 grams",
+        "carbohydrateContent": "61 grams",
+        "cholesterolContent": null,
+        "fatContent": "20 grams",
+        "fiberContent": "12 grams",
+        "proteinContent": "48 grams",
+        "saturatedFatContent": "5 grams",
+        "sodiumContent": "922 milligrams",
+        "sugarContent": "7 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 tablespoons extra-virgin olive oil ",
+        "2 large onions, thinly sliced ",
+        "6 garlic cloves, thinly sliced ",
+        "1 pound boneless, skinless chicken thighs ",
+        "1 1/2 cups red lentils, rinsed ",
+        "1 teaspoon ground turmeric ",
+        "Salt and freshly ground black pepper ",
+        "1 cup finely chopped mix of parsley, dill and mint ",
+        "1 cup plain full-fat regular or Greek yogurt ",
+        "2 tablespoons fresh lemon juice (from 1 large lemon)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oil in a large pot over medium-high. Add the onions and cook, stirring often, until deeply charred around the edges and tender, 10 to 12 minutes. Add the garlic and cook, stirring often, until softened, 2 to 3 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the chicken, lentils and turmeric, and season generously with salt and lots of pepper. Toss everything a few times so that the turmeric can coat the other ingredients."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour in 8 cups water, turn the heat to high and bring to a boil. Then, adjust heat to medium-low and cook, stirring occasionally, until the lentils have split and collapsed into the broth in a golden mush and the chicken is cooked through, 20 to 25 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Using tongs, remove the chicken thighs, let them cool slightly, then shred and return to the pot. Sprinkle in the herbs, taste and season with salt and pepper as necessary."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a small bowl, combine the yogurt and lemon juice and season with salt. (If using Greek yogurt, thin with water until it reaches a runny consistency.)  "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Ladle the soup into bowls, then spoon the lemony yogurt over before serving."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-01-10T00:00:00.000Z",
+      "dateModified": "2025-01-16T17:25:09.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Juliette"
+          },
+          "reviewBody": "This instantly became a family favourite! I substituted the water for homemade chicken stock. So rich and flavourful! Perfect for a cold and rainy day!",
+          "datePublished": "2025-05-21T12:01:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "Can I use wild rice or normal rice instead of red lentils?",
+          "datePublished": "2025-05-18T19:54:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "soupyT"
+          },
+          "reviewBody": "Took some (many) liberties and subbed chicken thigh for boneless chicken breast, used all homemade chicken stock, added extra spices and veggies ( +onion, fennel, carrots, ginger, kale, spinach). Absolutely delicious, versatile and forgiving. Delicious.",
+          "datePublished": "2025-05-15T12:22:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tcookie65"
+          },
+          "reviewBody": "Used 1.5 lb bnls ckn thighs. Added 2 chopped carrots, 1 T grated ginger, 1 T berbere, 1 bay leaf, 1/2 tsp fine salt. 5 cups total chicken broth and water. 10 min in the instant pot. 15 min natural release. Added 12 oz fresh spinach at the end. Nice and thiccc, may add another cup of water next time.",
+          "datePublished": "2025-05-10T15:36:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Grand Sophy"
+          },
+          "reviewBody": "This is excellent exactly as written. The herbs and lemon really elevate it. It could easily skip the chicken and be a vegetarian soup. \nps I settled on 1/2 T. salt as being \"to taste\"",
+          "datePublished": "2025-05-10T01:16:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "I added the turmeric, along with a heaping tsp of cumin, some thinly sliced ginger and a generous pinch of red pepper flakes to the sauteed onions and garlic and let those cook together for about two minutes before adding the chicken and lentils, and used chicken broth in place of water. Because of the chicken broth I didn't really additional salt.",
+          "datePublished": "2025-05-07T13:42:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gw"
+          },
+          "reviewBody": "I used regular lentils which took longer to cook.  Added diced carrot and potato and a few fresh ginger coins.  Cooked the thighs separate in instant pot and added the shredded chicken at the end, which I would definitely do again.  Used homemade chicken stock for the total 8 cups and added a small amount of Better than Bouillon.  Didn't have yogurt but added extra lemon juice and zest. So delicious and filling and healthy.",
+          "datePublished": "2025-05-05T15:47:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rob rd),57"
+          },
+          "reviewBody": "Added ginger carrots bok choy curry powder cumin used chicken stock",
+          "datePublished": "2025-04-29T01:13:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ithaca boxer"
+          },
+          "reviewBody": "too bland without a good stock which I used to replace the water. Browned the thighs first, removed them. Then added chopped ginger (2 inches), 6 garlic cloves, cilantro stems, green chili. Deglaze with a splash of gin (the flavors work well together). Add the turmeric and lentils and coat. Then follow recipe as written ....so basically didn't really follow the recipe lol",
+          "datePublished": "2025-04-27T19:50:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tomizuka0829"
+          },
+          "reviewBody": "Simple, light, and tasty. Recipe suggests it'll make 4 servings, but I was more in range of 7, so maybe I used too much water or didn't have the temperature high enough during the simmering phase.\nSuspect a soft boiled egg would really hit the spot on this.",
+          "datePublished": "2025-04-21T00:34:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Linda"
+          },
+          "reviewBody": "freezes beautifully",
+          "datePublished": "2025-04-20T19:58:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diane"
+          },
+          "reviewBody": "I also found the soup a bit bland.  But I didn't have turmeric and used smoked paprika instead. Also, I didn't have dill.  And then I forgot to add the herbs in the soup so sprinkled them on top of the bowl after the yogurt.  I would give this 4 stars because I feel it needs a little sumthin extra, but maybe that sumthin was turmeric and dill.",
+          "datePublished": "2025-04-14T15:02:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shilpi"
+          },
+          "reviewBody": "Excellent recipe as is! \n\nAnd I say this is an Indian American who has a dahl recipe that includes many other spices (cumin, coriander, fennel, mustard, etc). I think this is similar, but delicious as written. \n\nThe key is to add a lot of salt, pepper and turmeric -- really be generous -- and to char the onions. Love the tender chicken. I guess I did make one change, which was to use homemade broth instead of water.",
+          "datePublished": "2025-04-09T17:52:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jess"
+          },
+          "reviewBody": "This is an excellent recipe, much greater than the sum of its parts. I swapped water for stock but it really does not need a whole lot more spices than written, just generous salt and pepper and lots of herbs (tarragon works very well here too). Lovely.",
+          "datePublished": "2025-04-09T03:01:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy"
+          },
+          "reviewBody": "This is excellent! Far greater than the sum of its parts. I sautéed the onion and garlic in a skillet, then placed this and the rest of the ingredients in a slow cooker for four hours on high. The end result was delicious but a tad thinner than I wanted, so I rinsed a cup of long-grain rice and added it to the pot. An hour later, it was luxuriously thick—and absolutely perfect.",
+          "datePublished": "2025-04-07T00:48:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "This dish is very similar to a typical daal. Overall the broth was a little bland, so I chose to spice it up with some cumin, coriander, cinnamon, and red pepper flakes.\n\nIt was a hearty soup perfect for a cold night.",
+          "datePublished": "2025-01-13T03:08:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kevin C."
+          },
+          "reviewBody": "This was really great- the herbs really brighten things up, and the lemony yogurt is a lovely addition.\n\nMy only suggestion would be to let those chicken thighs simmer for closer to 45 minutes before shredding. They will shred after 25 minutes, but you’ll have to work at it a bit and the meat will be tougher. In contrast, after 45 minutes, they will be barely able to hold together, making the shredding a trivial affair, and therefore not costing you so much additional time in the end.",
+          "datePublished": "2025-01-15T20:52:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary James Breen"
+          },
+          "reviewBody": "For the sauce, also try preserved lemon chopped and stirred into the yogurt. I use this all the time on vegetables roasted in harissa. It would be delicious on this.",
+          "datePublished": "2025-01-13T19:45:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cookinvt"
+          },
+          "reviewBody": "More recipes from Andy!  Simple with lots of flavor.  I used curry spice instead of turmeric and added a TBL of chicken bouillon to water.  Spinach at the end with the herbs.  Herbs make it sing.  Lemon yogurt a nice touch.",
+          "datePublished": "2025-01-13T00:32:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Veronica C"
+          },
+          "reviewBody": "Easy to make and delicious, although I think swapping in chicken stock or broth for the water would make it more flavorful! Added in a pinch of MSG to help amp up the flavor.",
+          "datePublished": "2025-01-13T01:27:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J M"
+          },
+          "reviewBody": "Made as directed, was very good but, making it again I’d add a few Tbsp of fresh sliced ginger with the garlic. Could use a little more “pop”. \n\nAs is, it makes closer to 6 servings.",
+          "datePublished": "2025-01-13T02:21:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Umberto"
+          },
+          "reviewBody": "My absolute favorite recipe. I followed the commentary and this is a definite keeper. It’s got high fiber and high protein. I added carrots and some collards to make it a complete meal.",
+          "datePublished": "2025-01-16T00:04:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Linda"
+          },
+          "reviewBody": "aI added some red pepper and cumin. also think 6 cups of liquid would be enough, the 8 was too watery. I akso used 2 cups chicken broth, the rest water",
+          "datePublished": "2025-01-15T22:47:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Snick"
+          },
+          "reviewBody": "Added a large bag of spinach at the end and two full lemons to give it a bit more life. Easy and delicious! \n\nAnd adding chili oil at the end is a nice touch!",
+          "datePublished": "2025-01-14T19:14:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Phill"
+          },
+          "reviewBody": "I'd use good quality chicken broth in place of all or part of the 8 cups of water.",
+          "datePublished": "2025-01-15T22:08:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Betsy"
+          },
+          "reviewBody": "This recipe comes together at the very end; the taste is unbelievable! Next time I will add lemon zest to the yoghurt. Remember that tumeric stains. Next time I will cover my counter with paper towels when I measure it.",
+          "datePublished": "2025-01-16T13:41:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane"
+          },
+          "reviewBody": "So fresh, hearty & delicious; the herbs are perfect.  I substituted chicken broth for the water and added 1/2  tsp of curry. Used lots of freshly ground black pepper as well as additional lemon juice for the yogurt. With a green salad and crusty bread, it was a perfect winter meal.",
+          "datePublished": "2025-01-15T18:43:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ann"
+          },
+          "reviewBody": "Can I freeze this soup?",
+          "datePublished": "2025-01-16T14:23:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BW"
+          },
+          "reviewBody": "What does anyone think about wilting in a handful of spinach toward the end if Fresh dill isn’t in season?",
+          "datePublished": "2025-01-16T16:00:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane Rosen"
+          },
+          "reviewBody": "Would substituting vegetable or chicken broth for water work??",
+          "datePublished": "2025-01-16T13:53:40.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026473-chicken-and-red-lentil-soup-with-lemony-yogurt",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Andy Baraghani"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "If you’re feeling a bit worn down, one bowl of this hearty lentil soup will bring you back to life — or at least fool you into thinking so. The broth is simply (and deeply) flavored with charred onions and six garlic cloves, plus a generous pinch of turmeric that stains the soup gold. As they cook down, the lentils melt into the broth, making it thick and rich. A healthy dose of black pepper brings gentle heat to clear your head, and the final sprinkle of fresh dill and parsley adds a bright, herbal finish. This soup is soothing and satisfying on its own, but feel free to add a few extras: hearty greens like kale or spinach to wilt, a soft-boiled egg, or even chile oil for some heat.&nbsp;",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Chicken and Red Lentil Soup With Lemony Yogurt ",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/b35ee58a-48b3-575a-af8a-7e6878dcfdc7#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/10/multimedia/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-01-10T16:44:04.303Z",
+          "datePublished": "2025-01-07T15:04:17.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-07T15:04:17.000Z",
+          "url": "https://static01.nyt.com/images/2025/01/10/multimedia/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/b35ee58a-48b3-575a-af8a-7e6878dcfdc7#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/10/multimedia/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb-googleFourByThree.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-01-10T16:44:04.303Z",
+          "datePublished": "2025-01-07T15:04:17.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-07T15:04:17.000Z",
+          "url": "https://static01.nyt.com/images/2025/01/10/multimedia/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/b35ee58a-48b3-575a-af8a-7e6878dcfdc7#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/01/10/multimedia/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb-mediumSquareAt3X.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-01-10T16:44:04.303Z",
+          "datePublished": "2025-01-07T15:04:17.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-01-07T15:04:17.000Z",
+          "url": "https://static01.nyt.com/images/2025/01/10/multimedia/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb/AB-Chicken-Lentil-Soup-Lemony-Yogur-tmpb-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026473-chicken-and-red-lentil-soup-with-lemony-yogurt"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:09:46.571Z",
+  "scraping_status": "scraped"
+}

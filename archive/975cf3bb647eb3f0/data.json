@@ -1,0 +1,552 @@
+{
+  "id": "975cf3bb647eb3f0",
+  "original_url": "https://cooking.nytimes.com/recipes/1019768-baked-eggs-for-a-crowd",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1019768-baked-eggs-for-a-crowd",
+  "fetched_title": "Baked Eggs for a Crowd Recipe",
+  "main_text_content": "The French long ago mastered eggs en cocotte —slightly coddled eggs baked at high heat with butter and cream, which thicken to a gravy as it cooks There’s no finer way to enjoy an egg To pull this off for a crowd, a large casserole dish coated with butter and partly filled with heavy cream acts as a bath in which to gently cook the eggs",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1020722-baked-eggs-with-creme-fraiche-and-smoked-salmon\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2019/12/25/dining/20apperex1/merlin_166142583_57e01a37-7d9c-440f-b06f-61d9a5946db9-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2019/12/25/dining/20apperex1/merlin_166142583_57e01a37-7d9c-440f-b06f-61d9a5946db9-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2019/12/25/dining/20apperex1/merlin_166142583_57e01a37-7d9c-440f-b06f-61d9a5946db9-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2019/12/25/dining/20apperex1/merlin_166142583_57e01a37-7d9c-440f-b06f-61d9a5946db9-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2019/12/25/dining/20apperex1/20apperex1-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2019/12/25/dining/20apperex1/merlin_166142583_57e01a37-7d9c-440f-b06f-61d9a5946db9-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2019/12/25/dining/20apperex1/merlin_166142583_57e01a37-7d9c-440f-b06f-61d9a5946db9-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2019/12/25/dining/20apperex1/merlin_166142583_57e01a37-7d9c-440f-b06f-61d9a5946db9-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Baked Eggs With Crème Fraîche and Smoked Salmon</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2018/11/16/dining/sc-baked-eggs/sc-baked-eggs-threeByTwoMediumAt2X-v3.jpg",
+  "local_image_path": "scraped/975cf3bb647eb3f0/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/c12815e2-52f3-5837-ae20-6d2fc2d1a8b8",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1019768-baked-eggs-for-a-crowd",
+        "@type": "WebPage",
+        "name": "Baked Eggs for a Crowd"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019768-baked-eggs-for-a-crowd",
+      "name": "Baked Eggs for a Crowd",
+      "description": "The French long ago mastered eggs en cocotte —slightly coddled eggs baked at high heat with butter and cream, which thicken to a gravy as it cooks. There’s no finer way to enjoy an egg. To pull this off for a crowd, a large casserole dish coated with butter and partly filled with heavy cream acts as a bath in which to gently cook the eggs. To dress them up, add smoked salmon, a handful of kale or spinach leaves, thinly sliced ham, halved cherry tomatoes or sliced, cooked mushrooms to the mix before you crack in the eggs. Really anything goes here, but keep the accoutrements light and let the eggs take center stage. Finish with flaky sea salt (those large crystals melt on your tongue in just the right way) and any fresh herb you love.",
+      "author": {
+        "@type": "Person",
+        "name": "Sarah Copeland"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/399f48c3-6ca4-5ea7-a28b-64b50950eabd#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/11/16/dining/sc-baked-eggs/sc-baked-eggs-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Joseph De Leo for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2019-03-04T15:22:01.009Z",
+          "datePublished": "2018-11-17T01:11:39.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2018-11-17T01:11:39.000Z",
+          "url": "https://static01.nyt.com/images/2018/11/16/dining/sc-baked-eggs/sc-baked-eggs-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/399f48c3-6ca4-5ea7-a28b-64b50950eabd#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/11/16/dining/sc-baked-eggs/sc-baked-eggs-superJumbo-v2.jpg",
+          "creditText": "Joseph De Leo for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2019-03-04T15:22:01.009Z",
+          "datePublished": "2018-11-17T01:11:39.000Z",
+          "height": "1314",
+          "representativeOfPage": true,
+          "uploadDate": "2018-11-17T01:11:39.000Z",
+          "url": "https://static01.nyt.com/images/2018/11/16/dining/sc-baked-eggs/sc-baked-eggs-superJumbo-v2.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/399f48c3-6ca4-5ea7-a28b-64b50950eabd#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/11/16/dining/sc-baked-eggs/sc-baked-eggs-square640-v3.jpg",
+          "creditText": "Joseph De Leo for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2019-03-04T15:22:01.009Z",
+          "datePublished": "2018-11-17T01:11:39.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2018-11-17T01:11:39.000Z",
+          "url": "https://static01.nyt.com/images/2018/11/16/dining/sc-baked-eggs/sc-baked-eggs-square640-v3.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT15M",
+      "recipeYield": "8 servings",
+      "recipeCuisine": "french",
+      "recipeCategory": "breakfast, brunch, weeknight, casseroles, main course",
+      "keywords": "christmas, father’s day, new year’s day, thanksgiving, ck-heinz-sponsor, eggs, heavy cream, internal-open-access",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 740
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 542,
+        "unsaturatedFatContent": "11 grams",
+        "carbohydrateContent": "53 grams",
+        "cholesterolContent": null,
+        "fatContent": "29 grams",
+        "fiberContent": "6 grams",
+        "proteinContent": "21 grams",
+        "saturatedFatContent": "15 grams",
+        "sodiumContent": "559 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "1 gram"
+      },
+      "recipeIngredient": [
+        "2 tablespoons butter, cut into small cubes, plus more for greasing the pan",
+        "1 1/2 cups heavy cream or half-and-half, plus more for serving",
+        "12 to 16 eggs (depending on your crowd)",
+        "Cooked meat or vegetables (optional)",
+        "1/2 teaspoon freshly grated nutmeg (optional)",
+        "Flaky sea salt, such as Maldon",
+        "Black pepper",
+        "1/3 cup chopped mixed herbs, such as mint, parsley, dill, basil and chives",
+        "16 pieces of toast or 8 English muffins, halved and toasted"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 500 degrees. Butter a shallow 1 1/2-quart shallow baking dish (square or round). Pour cream in the prepared pan and sprinkle the cubed butter over the top. Add any cooked meat or vegetables, if using. Crack the eggs around the pan and season with nutmeg, salt, and pepper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake until the whites are set and the yolks are still a bit runny, 8 to 10 minutes. Remove from the heat, sprinkle with herbs and more flaky salt, and serve immediately, piping hot, with toasted bread or English muffins and shallow bowls. Drizzle more cream over the top."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2018-11-19T00:00:00.000Z",
+      "dateModified": "2024-01-17T17:02:08.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah Scott San Diego Realtor"
+          },
+          "reviewBody": "Perfection! Cast iron skillet, followed recipe without nutmeg - added in scallions & thyme. Timing as instructed worked for us!",
+          "datePublished": "2024-11-30T18:04:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Morgen"
+          },
+          "reviewBody": "So delicious! I made it just for myself using 2 eggs and some crispy pancetta in a small Corningware bowl and cooked at 450 for about 12 minutes. Served it with a toasted bun and pickled scallions. So surprisingly simple, comforting and good! I wanted to make another serving immediately.",
+          "datePublished": "2024-11-25T18:52:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mcb"
+          },
+          "reviewBody": "6 eggs with ham, 10 min @ 450 wasn’t quite enough. Back in the off oven for 2 mins.",
+          "datePublished": "2024-01-01T17:55:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary Freeman"
+          },
+          "reviewBody": "I wasn't sure about this recipe, but my husband thought it looked great. I tried it for Christmas brunch, used 16 eggs for our party of 10, and served it with English muffins on the side. Not a bit left in the baking dish--it was a hit!  Absolutely delicious, and not at all difficult to make,",
+          "datePublished": "2023-12-27T18:26:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laurie M"
+          },
+          "reviewBody": "Amazing! A def yes to heat the cream prior to putting eggs in. I also used a lid in the oven. Wow wow wow",
+          "datePublished": "2023-12-25T15:27:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Home cook"
+          },
+          "reviewBody": "@SBG I had a similar issue. I halved the recipe and used a 3” deep 1.5L dish. After 16 minutes the eggs in center still weren’t quite “jammy”, yet the eggs on the outside were “hard cooked”. Suspect for a deeper dish using the appropriately portioned amount of half & half was too much liquid. Will try just a 1/3 C for 8 eggs next time.",
+          "datePublished": "2024-12-25T17:18:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SBG"
+          },
+          "reviewBody": "I used a 9 inch deep dish pie plate for my eggs. I was only able to fit nine eggs. I read other reviews and cooked my dish longer than it said in the recipe. The yolks were firm, unfortunately. The milk was liquidy so remember to use a shallow bowl to serve. I will definitely try them again.",
+          "datePublished": "2023-12-17T21:15:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Valerie Sanders"
+          },
+          "reviewBody": "I made this last christmas for my family of 12....they;re asking for it again this year.....it was so rich and delicious.",
+          "datePublished": "2023-12-07T14:26:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dani"
+          },
+          "reviewBody": "This is an 11/10.  I've made it countless times and it's always insanely delicious.  The cream sounds heavy, but you don't eat much of it - a little bit scooped up with the eggs acts like a gravy over the eggs.",
+          "datePublished": "2023-09-19T22:31:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gillian"
+          },
+          "reviewBody": "This was very tasty and easy to make. I added a Greek hard cheese something like Asiago —called Kaasaggio which is billed as similar to a mix of Parmesan and Gouda. Also added fresh thyme and chives. Guests loved it. Only downside was I had to toast the English muffins ahead of time and they were a bit too hard. Next time would wait until just before serving and butter while hot.",
+          "datePublished": "2023-06-21T00:41:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carrie Sjaarda"
+          },
+          "reviewBody": "This was stunningly delicious spooned over spaghetti noodles.",
+          "datePublished": "2023-04-02T23:39:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "faith"
+          },
+          "reviewBody": "Cook time in an oval ceramic dish was about 20 minutes at 500 plus a 5 minute broil, and egg whites in the middle still weren’t set. Delicious, but don’t recommend for a crowd, because timing varies so much and is thus hard to coordinate with other dishes",
+          "datePublished": "2022-12-25T17:27:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "D."
+          },
+          "reviewBody": "This was absolutely a show stopper recipe at a recent brunch. I didn’t add anything except nutmeg and flake salt. People were absolutely blown away by the simplicity and flavor. Be sure oven is accurate and it will bake quickly. Remove it promptly from the oven, as the eggs will continue to cook. I served in very small bowls and with thick slices of sourdough toast.",
+          "datePublished": "2022-12-22T18:12:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah L."
+          },
+          "reviewBody": "Such a great method...you can also sprinkle a little parmesan or other shredded cheese on the bottom prior to adding the eggs.",
+          "datePublished": "2022-08-22T21:33:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jerry"
+          },
+          "reviewBody": "Great technique for an easy and tasty meal. Added peas and bacon lardons.",
+          "datePublished": "2022-01-18T03:19:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deborah"
+          },
+          "reviewBody": "I used a heavy rectangular pan to make this for 8 eggs-that avoids the issue with the eggs in the middle taking a long time to cook.  I use herbs and a sprinkling of cheese such as Parm or Guy or similar ones which people love as well",
+          "datePublished": "2022-01-15T21:49:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol Pan"
+          },
+          "reviewBody": "Made this over the weekend and everyone loved it!  I used a cast iron skillet that I heated over the stove top and sauteed a bit of Italian Speck before adding the rest of the ingredients.  I also warmed up the cream before adding it to the pan.  The eggs were cooked perfectly because the pan and the ingredients were already warmed.  It was luxuriously delicious and made for a beautiful family style presentation.",
+          "datePublished": "2019-08-05T22:30:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LagerandGospel"
+          },
+          "reviewBody": "This dish shines. It’s simple ingredients and classic French technique does not provide a true window into how rich and luxurious it really is. \n\nI began by dicing half a sweet onion and letting it simmer slow in butter. I added minced garlic and diced mushrooms to the sauté, then half pound of diced boars head ham before adding the cream along with minced chives. Once the cream began to warm, I added the eggs, other ingredients, and followed the recipe provided, and added fresh grated Parm.",
+          "datePublished": "2019-12-31T14:28:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mackenzie"
+          },
+          "reviewBody": "Idk if it’s the red wine I had while making this, but this may be one of the most satisfying taste-to-effort recipes I’ve ever made. Don’t skimp on the heavy cream and butter. Will you die sooner? Maybe. Will you regret it? Definitely not. Highly recommend sautéing some thinly cut hearty greens like collards in an oven-proof pan, then add the cream and let it get warm, then add some fresh herbs and the eggs and butter on top. Don’t leave out the nutmeg. Then stick the pan in the oven.",
+          "datePublished": "2021-10-12T18:51:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nolan"
+          },
+          "reviewBody": "I had to cook this more like 16 minutes before the eggs in the center of the dish even began to set.",
+          "datePublished": "2018-12-24T14:06:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patrick"
+          },
+          "reviewBody": "Great recipe. Because I’m just cooking for me, I reduced the ingredients and used a small cast iron skillet. I only cooked 3 eggs so I just baked this for about 8 minutes on 400 degree heat (when I tried 500 it burned the cream around the edges of the small skillet). The second time I tried this, I seared some pancetta, cherry tomatoes, garlic and onions in the skillet before adding cream. If you’re gonna pre-cook some things adjust the cooking time as cream boils very quickly.",
+          "datePublished": "2020-04-27T15:28:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Natushabi"
+          },
+          "reviewBody": "Perfect breakfast for a crowd or just two-foolproof! I added chopped, cooked bacon to the cream. Basil, tarragon and chives were the summer herbs of choice. 10 min at 500° was perfect. Served with brown butter cornbread. Make it!",
+          "datePublished": "2019-08-04T14:03:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nate H"
+          },
+          "reviewBody": "When cooking this, use the time stated, and if the eggs are still a tad runny, just let them sit in the cream to finish.  Adding them back for additional baking will harden the yolks.",
+          "datePublished": "2020-05-26T17:39:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Audra"
+          },
+          "reviewBody": "Made this earlier today for five people and enjoyed it! With modifications based on the other reviews, used an 8” round ceramic pie dish, less cream (eyeballed it) quite a bit of chopped up ham (figured it would make it all less loose and runny) spices I had on hand (visiting friends- used what they had) 6 eggs, baked for 12-13 minutes. Still a little loose, but crisped the top a bit- I liked it! Felt lovely and French. Light, too. Better then a boring bleh strata! Pretty presentation, too",
+          "datePublished": "2019-03-03T18:17:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J.D.L."
+          },
+          "reviewBody": "This method (I hesitate to call it a recipe as what's really important is the concept) is a great thing to have in one's pocket.  What I need now is to fine tune the time/temperature of the actual cooking liquid to get perfect yolks.",
+          "datePublished": "2019-12-24T13:07:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lyz"
+          },
+          "reviewBody": "Absolutely delicious!  Sautéed some ham with a smidge of butter then proceeded with the recipe, dotting the cream and butter with leftover slow roasted cherry tomatoes. I have a convection oven and baked at 400 for 10 minutes. Over medium egg perfection!",
+          "datePublished": "2019-12-25T18:57:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Larry"
+          },
+          "reviewBody": "Delicious. I’d never had coddled eggs before. Cut the recipe by 4 for a Valentine’s experiment for two! Just wonderful.",
+          "datePublished": "2021-02-14T15:59:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deborah"
+          },
+          "reviewBody": "I make this for one to 6 people (2 to 12 eggs)and I sprinkle herbs on top w grated cheese I have on hand prior to baking; just monitor carefully in oven and have ingredients at room temperature. Never any left! Serve w toast of your favorite.",
+          "datePublished": "2021-09-05T16:26:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "toughlittlenut"
+          },
+          "reviewBody": "Really tasty, but cooked for ~10 minutes and the yolks were hard -- keep a close eye!",
+          "datePublished": "2021-03-16T02:31:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah L."
+          },
+          "reviewBody": "Such a great method...you can also sprinkle a little parmesan or other shredded cheese on the bottom prior to adding the eggs.",
+          "datePublished": "2022-08-22T21:33:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ea"
+          },
+          "reviewBody": "Made this with pieces of cooked ham and small pieces of salami in bottom of pan with sliced cherry tomatoes and it was really good.",
+          "datePublished": "2022-01-01T20:55:35.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1019768-baked-eggs-for-a-crowd",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Sarah Copeland"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018,
+      "description": "The French long ago mastered eggs en cocotte —slightly coddled eggs baked at high heat with butter and cream, which thicken to a gravy as it cooks. There’s no finer way to enjoy an egg. To pull this off for a crowd, a large casserole dish coated with butter and partly filled with heavy cream acts as a bath in which to gently cook the eggs. To dress them up, add smoked salmon, a handful of kale or spinach leaves, thinly sliced ham, halved cherry tomatoes or sliced, cooked mushrooms to the mix before you crack in the eggs. Really anything goes here, but keep the accoutrements light and let the eggs take center stage. Finish with flaky sea salt (those large crystals melt on your tongue in just the right way) and any fresh herb you love.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Baked Eggs for a Crowd",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/399f48c3-6ca4-5ea7-a28b-64b50950eabd#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/11/16/dining/sc-baked-eggs/sc-baked-eggs-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Joseph De Leo for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2019-03-04T15:22:01.009Z",
+          "datePublished": "2018-11-17T01:11:39.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2018-11-17T01:11:39.000Z",
+          "url": "https://static01.nyt.com/images/2018/11/16/dining/sc-baked-eggs/sc-baked-eggs-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/399f48c3-6ca4-5ea7-a28b-64b50950eabd#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/11/16/dining/sc-baked-eggs/sc-baked-eggs-superJumbo-v2.jpg",
+          "creditText": "Joseph De Leo for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2019-03-04T15:22:01.009Z",
+          "datePublished": "2018-11-17T01:11:39.000Z",
+          "height": "1314",
+          "representativeOfPage": true,
+          "uploadDate": "2018-11-17T01:11:39.000Z",
+          "url": "https://static01.nyt.com/images/2018/11/16/dining/sc-baked-eggs/sc-baked-eggs-superJumbo-v2.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/399f48c3-6ca4-5ea7-a28b-64b50950eabd#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/11/16/dining/sc-baked-eggs/sc-baked-eggs-square640-v3.jpg",
+          "creditText": "Joseph De Leo for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2019-03-04T15:22:01.009Z",
+          "datePublished": "2018-11-17T01:11:39.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2018-11-17T01:11:39.000Z",
+          "url": "https://static01.nyt.com/images/2018/11/16/dining/sc-baked-eggs/sc-baked-eggs-square640-v3.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019768-baked-eggs-for-a-crowd"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:36.814Z",
+  "scraping_status": "scraped"
+}

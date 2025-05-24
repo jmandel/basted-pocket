@@ -1,0 +1,561 @@
+{
+  "id": "ef9635def63da459",
+  "original_url": "https://cooking.nytimes.com/recipes/1019419-breakfast-salad",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1019419-breakfast-salad",
+  "fetched_title": "Breakfast Salad Recipe",
+  "main_text_content": "From the same trend that brought us avocado toast, the breakfasts served in Australian cafes often include bright vegetables arranged in eye-catching ways Salad is definitely not part of the traditional American breakfast menu, but on a sunny morning the combination of chilled, crunchy greens; protein-rich cheese and eggs; and an eye-opening dressing is hugely appealing This one was created at Carthage Must Be Destroyed, an airy (and slightly eccentric) Australian-style cafe hidden behind an unmarked entrance in Brooklyn",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025630-simple-summer-salad-with-feta\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2024/07/30/multimedia/yf-summer-salad-with-feta-pvlk/yf-summer-salad-with-feta-pvlk-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2024/07/30/multimedia/yf-summer-salad-with-feta-pvlk/yf-summer-salad-with-feta-pvlk-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/07/30/multimedia/yf-summer-salad-with-feta-pvlk/yf-summer-salad-with-feta-pvlk-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/07/30/multimedia/yf-summer-salad-with-feta-pvlk/yf-summer-salad-with-feta-pvlk-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/07/30/multimedia/yf-summer-salad-with-feta-pvlk/yf-summer-salad-with-feta-pvlk-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/07/30/multimedia/yf-summer-salad-with-feta-pvlk/yf-summer-salad-with-feta-pvlk-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/07/30/multimedia/yf-summer-salad-with-feta-pvlk/yf-summer-salad-with-feta-pvlk-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/07/30/multimedia/yf-summer-salad-with-feta-pvlk/yf-summer-salad-with-feta-pvlk-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Simple Summer Salad With Feta</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Yasmin Fahr</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2018/07/25/dining/25ausrex1/25ausrex1-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/ef9635def63da459/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/785f7164-87d1-5e4f-a21a-d182cb563fc5",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1019419-breakfast-salad",
+        "@type": "WebPage",
+        "name": "Breakfast Salad"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019419-breakfast-salad",
+      "name": "Breakfast Salad",
+      "description": "From the same trend that brought us avocado toast, the breakfasts served in Australian cafes often include bright vegetables arranged in eye-catching ways. Salad is definitely not part of the traditional American breakfast menu, but on a sunny morning the combination of chilled, crunchy greens; protein-rich cheese and eggs; and an eye-opening dressing is hugely appealing. This one was created at Carthage Must Be Destroyed, an airy (and slightly eccentric) Australian-style cafe hidden behind an unmarked entrance in Brooklyn. The chef and owner Amanda Bechara likes to leave the lettuce leaves whole to make it easier to eat with your fingers. (You can prepare the vegetables the day before, and skip marinating the feta if you must.) This would also make a lovely lunch.",
+      "author": {
+        "@type": "Person",
+        "name": "Julia Moskin"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/1657da3e-4690-58b8-9471-d3b8a489d913#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/07/25/dining/25ausrex1/25ausrex1-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "George Etheredge for The New York Times",
+          "dateModified": "2018-07-24T15:36:52.428Z",
+          "datePublished": "2018-07-24T15:36:52.428Z",
+          "height": "901",
+          "representativeOfPage": true,
+          "uploadDate": "2018-07-24T15:36:52.428Z",
+          "url": "https://static01.nyt.com/images/2018/07/25/dining/25ausrex1/25ausrex1-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/1657da3e-4690-58b8-9471-d3b8a489d913#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/07/25/dining/25ausrex1/25ausrex1-superJumbo.jpg",
+          "creditText": "George Etheredge for The New York Times",
+          "dateModified": "2018-07-24T15:36:52.428Z",
+          "datePublished": "2018-07-24T15:36:52.428Z",
+          "height": "1367",
+          "representativeOfPage": true,
+          "uploadDate": "2018-07-24T15:36:52.428Z",
+          "url": "https://static01.nyt.com/images/2018/07/25/dining/25ausrex1/25ausrex1-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/1657da3e-4690-58b8-9471-d3b8a489d913#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/07/25/dining/25ausrex1/25ausrex1-square640.jpg",
+          "creditText": "George Etheredge for The New York Times",
+          "dateModified": "2018-07-24T15:36:52.428Z",
+          "datePublished": "2018-07-24T15:36:52.428Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2018-07-24T15:36:52.428Z",
+          "url": "https://static01.nyt.com/images/2018/07/25/dining/25ausrex1/25ausrex1-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT12H30M",
+      "recipeYield": "2 servings",
+      "recipeCuisine": "australian",
+      "recipeCategory": "breakfast, brunch, lunch, main course",
+      "keywords": "avocado, feta, romaine, salad, sprouts, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 574
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 677,
+        "unsaturatedFatContent": "34 grams",
+        "carbohydrateContent": "54 grams",
+        "cholesterolContent": null,
+        "fatContent": "47 grams",
+        "fiberContent": "19 grams",
+        "proteinContent": "22 grams",
+        "saturatedFatContent": "10 grams",
+        "sodiumContent": "1814 milligrams",
+        "sugarContent": "10 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "4 ounces feta cheese (not crumbled), preferably a creamy type made with some sheep’s milk",
+        "1 garlic clove, smashed and peeled",
+        "1 dozen black or mixed peppercorns, coarsely cracked",
+        "Extra-virgin olive oil, preferably cold-pressed",
+        "2 large hearts romaine lettuce, outer leaves removed",
+        "2 lemons, halved",
+        "1 avocado, halved, pit removed",
+        "About 2 ounces sprouts, such as alfalfa, clover or rainbow",
+        "2 mini or Kirby cucumbers, cut into spears or sliced",
+        "2 or 3 hard-boiled eggs, at room temperature, peeled and halved",
+        "Flaky salt and coarsely ground black pepper",
+        "Extra-virgin olive oil",
+        "2 handfuls soft herbs, such as basil, chives, cilantro and mint",
+        "Sourdough toast, for serving (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "A day before serving, marinate the cheese: Place feta in a small container with a tight-fitting lid. Add garlic clove and peppercorns. Pour in enough olive oil to just cover the cheese. Cover and refrigerate overnight."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Wash and crisp the lettuce: Fill a deep bowl with very cold water, hold the lettuce heart by the stem, dip it in and swish it gently to loosen any dirt. Lift out and let drain upside down. Repeat with the other heart. Cut off the white stem ends and gently unfurl each romaine heart onto a large plate. Use your fingers to fluff and separate the leaves, but try to keep the natural formation intact."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Squeeze half a lemon over each lettuce heart. Use a spoon to scoop chunks of avocado on top. Place tufts of sprouts among the romaine leaves. Place cucumber pieces and egg halves near the base of the lettuce. Add about 6 chunks of cheese."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Liberally sprinkle the plate with flaky salt and black pepper, then splash on plenty of olive oil, making sure to hit the egg, cheese and avocado. (You can use the oil used to marinate the feta, if you like.) Tuck the herb leaves in among the lettuce leaves or just sprinkle them over the top. Place the remaining lemon halves near the egg halves."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Serve with warm toast if you like. At the table, squeeze lemon over the salad and eat with a knife and fork, or with your hands."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne"
+          },
+          "reviewBody": "did not add the eggs as was serving alongside a pasta dish for dinner - was  a lovely salad and one I imagine we will make again and again- fresh, clean, satisfying",
+          "datePublished": "2025-03-26T07:25:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karekin"
+          },
+          "reviewBody": "This is nice, but a simple plate of ripe tomatoes, sliced cucumbers, feta cheese and calamata olives, doused with good olive oil along with some crusty bread is really all one needs.",
+          "datePublished": "2024-10-20T12:09:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andy"
+          },
+          "reviewBody": "There's no way this adds up to the claimed 22g. protein.  12g, maybe.",
+          "datePublished": "2024-10-12T01:14:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christy"
+          },
+          "reviewBody": "Toast the bread, drizzle with EVOO and salt, and cut into \"croutons\"!",
+          "datePublished": "2024-10-03T15:01:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "T"
+          },
+          "reviewBody": "Around 10 years ago, Foreign Cinema in SF served a chicory salad topped with poached eggs, thick cut bacon strips, and a lemon herb dressing for brunch. It was eye opening to me at the time! Changed my breakfast world. I will try this salad maybe adding some chopped bacon or some prosciutto sounds amazing.",
+          "datePublished": "2024-09-28T16:14:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "WTL"
+          },
+          "reviewBody": "I’ve been eating salad for breakfast for years. It’s the best and endlessly customizable with whatever is in season.",
+          "datePublished": "2024-09-27T19:37:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lee"
+          },
+          "reviewBody": "Haha, they \"stole\" my son's college invention of fried eggs on cold dressed salad.  A pretty good cook,  his college had a flat top that students could use to make eggs and grilled sandwiches.  He brought the idea home to the rest of the family years back.",
+          "datePublished": "2024-09-27T17:23:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Winter"
+          },
+          "reviewBody": "I discovered that salads were often eaten for breakfast when I visited friends in Poland -- and became a convert to the whole idea! Great way to start the day. This looks like a wonderful addition to the variety and layout, so thank you for the sample from Down Under!",
+          "datePublished": "2024-09-27T15:37:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bazz"
+          },
+          "reviewBody": "I thought this recipe was lovely. I marinated my feta for only about an hour so I'm sure it wasn't as flavorful as it could be. However, the combination of all the ingredients really worked well. My husband felt it needed more dressing, but I disagree. I used chives & thai basil for the fresh herbs, which were wonderful. Next time I'd add more eggs and more avocado.",
+          "datePublished": "2023-11-27T16:56:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marcia Ruff"
+          },
+          "reviewBody": "This is delicious! The marinated feta, lemon and egg are the core. I had some egg salad on hand, which worked well. If you marinate extra feta for more breakfasts, don’t forget to refrigerate it! Garlic in olive oil alone at room temperature can develop botulism. <a href=\"https://postharvest.ucdavis.edu/files/251548.pdf\" target=\"_blank\">https://postharvest.ucdavis.edu/files/251548.pdf</a>",
+          "datePublished": "2023-01-26T18:19:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lauryn"
+          },
+          "reviewBody": "This is my new favorite salad forever and always. The flavors are excellent, and everything can be put together in less than 10 minutes. I've expanded this salad to include roasted veggies in need of a purpose and am always delighted with the added richness they bring.",
+          "datePublished": "2022-05-23T18:03:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maria Cate"
+          },
+          "reviewBody": "By definition extra virgin olive oil is cold-pressed.",
+          "datePublished": "2022-04-27T17:58:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrea"
+          },
+          "reviewBody": "I didn’t get this right. All I tasted was lemon (and I *love* lemon), and the herbs were off balance on my first attempt. Definitely user error, as all the components of this salad seem like they’d be in perfect harmony.",
+          "datePublished": "2022-02-27T21:43:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeremy"
+          },
+          "reviewBody": "Tomatoes and chives",
+          "datePublished": "2021-05-08T03:12:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ally"
+          },
+          "reviewBody": "Delicious. Used daikon radish sprouts for a sharp peppery flavor and it was amazing. No egg cause I don’t care for them but I’m sure if that’s your thing you’ll enjoy it!",
+          "datePublished": "2021-03-12T00:47:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kyle"
+          },
+          "reviewBody": "I just gotta say, that is the best name of a restaurant ever",
+          "datePublished": "2018-07-25T20:32:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy in Virginia"
+          },
+          "reviewBody": "Skipped the feta and added just a bit of shaved Parmesan, also topped with two warm poached eggs instead of hard-boiled...customized with a little extra chives and fresh garden cukes and ate the whole thing myself for dinner.  Absolute bliss...and so easy.  Food of the Gods, indeed!",
+          "datePublished": "2018-07-25T16:06:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mer"
+          },
+          "reviewBody": "You're perfectly okay to make this without marinating the feta beforehand, but I highly recommend the remaining salad ingredients, as directed. My days (and meals) are wonky at best but beginning my day with this virtuous salad sets me on the right track for productivity, health, and uh....fiber and vitamins. Eat it with your hands - it does feel the right amount of naughty.",
+          "datePublished": "2018-12-15T04:07:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jon"
+          },
+          "reviewBody": "Skipped the sprout (nasty) but adding 2 poached eggs with salt & pepper (awesome) ",
+          "datePublished": "2019-01-25T18:02:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandra Spooner"
+          },
+          "reviewBody": "Ambrosia indeed!  This is truly delicious and the recipe is quite flexible.  I used goat cheese as I had no feta, and I added tomatoes because my garden is overflowing with them right now.  Serendipitously, the goat cheese along with a perfectly ripe avocado melted into the lemon juice and olive oil to make a luxurious, saucy dressing.  As for the herbs, I found that Thai basil (also taking over my garden) is delicious with the other ingredients.",
+          "datePublished": "2018-07-26T16:30:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MollyMac"
+          },
+          "reviewBody": "Just finished our breakfast salad.  I used cilantro and chives and Iadded mint to mine.  The mint, I felt, was transformative, so I recommend it.",
+          "datePublished": "2018-07-29T12:46:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joyce"
+          },
+          "reviewBody": "We made this for dinner (sorry) with 6-minute eggs and fresh tomatoes, and, man, it was delicious! Thanks, Aussies!",
+          "datePublished": "2018-08-01T03:14:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam"
+          },
+          "reviewBody": "Everyone loved this when I made it! I added some crushed toasted hazelnuts (still bigger pieces) that really put it over the top. \n\nHighly recommend!",
+          "datePublished": "2019-01-31T16:32:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "phaino"
+          },
+          "reviewBody": "Mmmmm, breakfast salad! Feta hurts my tummy so I made this with Good Culture cottage cheese (cultured, like yogurt, easier to digest for me) and it was perfect. Parsley, cilantro, and mint. Added a little Aleppo, my current obsession. ",
+          "datePublished": "2019-01-25T16:27:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "StylinGirl"
+          },
+          "reviewBody": "I made this changing egg to poached and added red onion slivers for extra zip. I might be a new “salad for breakie” convert! ",
+          "datePublished": "2018-08-03T14:59:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tami"
+          },
+          "reviewBody": "Did this exactly as directed except I added some 1\" pieces of raw asparagus because I had a very nice batch on hand. Used cilantro and dill as the herbs. I would eat this for breakfast, lunch, or dinner. Easy and delicious!",
+          "datePublished": "2019-03-29T23:55:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "EDP"
+          },
+          "reviewBody": "My go-to is a breakfast salad of mixed greens with an egg (over easy, scrambled or HB) and some pumpkin or sunflower seeds — or any other nut that's handy.  Keeps me going until late lunchtime!  This salad sounds like a fine expansion of that idea!  Yum!  Once you get used to breakfast salad everything else is dull and boring.",
+          "datePublished": "2019-05-15T15:19:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "whiteyk0"
+          },
+          "reviewBody": "Delicious but inappropriately named. Breakfast salad? This is good any time of day, especially as a nice lunch.\nI sprinkled dry-roasted pine nuts over the salad",
+          "datePublished": "2018-07-25T16:24:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jim"
+          },
+          "reviewBody": "Our local organic store sells travisio raddico (shaped like a small romaine head) which would add taste, as well as color.  I will make this, but think I'll substitute the goat cheese brie they sell at Trader Joes for the feta.",
+          "datePublished": "2019-01-27T00:07:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Flowergarden129"
+          },
+          "reviewBody": "I often make a salad with feta for breakfast for myself. Who knew I was on trend!  I am thrilled for the suggestion to marinate the feta, which sounds fabulous. I also often sprinkle my breakfast salad with a bit of garlic powder, which I find marries well with the lemon and olive oil dressing.",
+          "datePublished": "2018-07-25T15:27:05.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1019419-breakfast-salad",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Julia Moskin"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018,
+      "description": "From the same trend that brought us avocado toast, the breakfasts served in Australian cafes often include bright vegetables arranged in eye-catching ways. Salad is definitely not part of the traditional American breakfast menu, but on a sunny morning the combination of chilled, crunchy greens; protein-rich cheese and eggs; and an eye-opening dressing is hugely appealing. This one was created at Carthage Must Be Destroyed, an airy (and slightly eccentric) Australian-style cafe hidden behind an unmarked entrance in Brooklyn. The chef and owner Amanda Bechara likes to leave the lettuce leaves whole to make it easier to eat with your fingers. (You can prepare the vegetables the day before, and skip marinating the feta if you must.) This would also make a lovely lunch.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Breakfast Salad",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/1657da3e-4690-58b8-9471-d3b8a489d913#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/07/25/dining/25ausrex1/25ausrex1-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "George Etheredge for The New York Times",
+          "dateModified": "2018-07-24T15:36:52.428Z",
+          "datePublished": "2018-07-24T15:36:52.428Z",
+          "height": "901",
+          "representativeOfPage": true,
+          "uploadDate": "2018-07-24T15:36:52.428Z",
+          "url": "https://static01.nyt.com/images/2018/07/25/dining/25ausrex1/25ausrex1-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/1657da3e-4690-58b8-9471-d3b8a489d913#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/07/25/dining/25ausrex1/25ausrex1-superJumbo.jpg",
+          "creditText": "George Etheredge for The New York Times",
+          "dateModified": "2018-07-24T15:36:52.428Z",
+          "datePublished": "2018-07-24T15:36:52.428Z",
+          "height": "1367",
+          "representativeOfPage": true,
+          "uploadDate": "2018-07-24T15:36:52.428Z",
+          "url": "https://static01.nyt.com/images/2018/07/25/dining/25ausrex1/25ausrex1-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/1657da3e-4690-58b8-9471-d3b8a489d913#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/07/25/dining/25ausrex1/25ausrex1-square640.jpg",
+          "creditText": "George Etheredge for The New York Times",
+          "dateModified": "2018-07-24T15:36:52.428Z",
+          "datePublished": "2018-07-24T15:36:52.428Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2018-07-24T15:36:52.428Z",
+          "url": "https://static01.nyt.com/images/2018/07/25/dining/25ausrex1/25ausrex1-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019419-breakfast-salad"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:05:44.447Z",
+  "scraping_status": "scraped"
+}

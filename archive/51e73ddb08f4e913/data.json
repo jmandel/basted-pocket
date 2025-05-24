@@ -1,0 +1,561 @@
+{
+  "id": "51e73ddb08f4e913",
+  "original_url": "https://cooking.nytimes.com/recipes/1025053-miso-mushroom-barley-soup",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025053-miso-mushroom-barley-soup",
+  "fetched_title": "Miso-Mushroom Barley Soup Recipe",
+  "main_text_content": "This hearty vegan dish uses miso and soy to add a tremendous amount of depth and flavor to a relatively quick, one-pot mushroom barley soup Quartering the mushrooms allows them to retain bite, but you can thinly slice them if you’d prefer everything to be soft and tender Resist the urge to salt heavily during the bulk of the cooking, as the miso and soy — both sodium-heavy ingredients — will be added at the end to bring the soup together",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026788-spicy-miso-lentil-soup\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Spicy Miso Lentil Soup</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Ali Slagle</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/51e73ddb08f4e913/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/0204baf1-b64e-5084-881d-dbffe9ce3dd6",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025053-miso-mushroom-barley-soup",
+        "@type": "WebPage",
+        "name": "Miso-Mushroom Barley Soup"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025053-miso-mushroom-barley-soup",
+      "name": "Miso-Mushroom Barley Soup",
+      "description": "This hearty vegan dish uses miso and soy to add a tremendous amount of depth and flavor to a relatively quick, one-pot mushroom barley soup. Quartering the mushrooms allows them to retain bite, but you can thinly slice them if you’d prefer everything to be soft and tender. Resist the urge to salt heavily during the bulk of the cooking, as the miso and soy — both sodium-heavy ingredients — will be added at the end to bring the soup together. This is a soup that will thicken, so add more water or broth when reheating. It’s as accommodating as it is comforting: You can empty your pantry or fridge by swapping the barley for farro and spinach for chopped bok choy or other greens.",
+      "author": {
+        "@type": "Person",
+        "name": "Yasmin Fahr"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/dfd542f1-3212-58db-ac14-8092a6d08194#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-02-15T16:44:08.167Z",
+          "datePublished": "2024-02-14T21:31:38.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-14T21:31:38.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/dfd542f1-3212-58db-ac14-8092a6d08194#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-superJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-02-15T16:44:08.167Z",
+          "datePublished": "2024-02-14T21:31:38.000Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-14T21:31:38.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/dfd542f1-3212-58db-ac14-8092a6d08194#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-02-15T16:44:08.167Z",
+          "datePublished": "2024-02-14T21:31:38.000Z",
+          "height": "1727",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-14T21:31:38.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-mediumSquareAt3X.jpg",
+          "width": "1727"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT45M",
+      "totalTime": "PT1H",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, weeknight, one pot, appetizer, main course",
+      "keywords": "cremini, miso, partial-access-ic, pearl barley, scallion, soup, spinach, stovetop, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 1135
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 297,
+        "unsaturatedFatContent": "7 grams",
+        "carbohydrateContent": "48 grams",
+        "cholesterolContent": null,
+        "fatContent": "9 grams",
+        "fiberContent": "11 grams",
+        "proteinContent": "12 grams",
+        "saturatedFatContent": "1 gram",
+        "sodiumContent": "1206 milligrams",
+        "sugarContent": "5 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 tablespoons olive oil",
+        "1½ pounds cremini mushrooms, trimmed and quartered",
+        "Kosher salt and freshly ground black pepper",
+        "1 bunch scallions, trimmed, light green and white parts thinly sliced",
+        "1/4 to 1/2 teaspoon crushed red pepper, depending on heat preference",
+        "4 cups low-sodium vegetable broth",
+        "1 cup pearl barley",
+        "1 tablespoon plus 1 teaspoon white miso",
+        "1 tablespoon soy sauce (or more as needed)",
+        "5 ounces baby spinach (about 5 packed cups)",
+        "1 lime (optional), halved"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large pot, heat the oil over medium-high until shimmering. Add the mushrooms and season lightly with salt and a few grinds of pepper. Cook, stirring occasionally, until the mushrooms shrink down and release their juices, 6 to 7 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Stir in the scallions and crushed red pepper and cook until softened, about 2 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour in the vegetable broth, 2 cups of water and the barley. Raise the heat to bring the liquid to a boil, then lower it to maintain a simmer. Cook, stirring occasionally, until the barley is tender, about 30 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "During the last 5 minutes of cooking, stir in the miso and soy sauce. (Use a rubber spatula or wooden spoon to seek out any miso clumps, flattening them against the side of the pot to help dissolve.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the spinach in batches, adding a handful and stirring in until wilted. Taste and season with more soy sauce or salt as needed. Squeeze in half a lime, if using, and cut the rest into wedges for serving. Finish with some black pepper and serve."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-02-16T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "annemariew"
+          },
+          "reviewBody": "Added onions and garlic and an ounce of rehydrated dried porcini (just because I had it on hand and wanted to try it out) and chicken broth.",
+          "datePublished": "2025-05-22T10:32:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erik"
+          },
+          "reviewBody": "This soup slaps with added firm tofu and kimchi.",
+          "datePublished": "2025-05-20T20:26:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elana M"
+          },
+          "reviewBody": "Which other grain would work with this recipe to make it gluten free?",
+          "datePublished": "2025-05-15T21:59:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "EA"
+          },
+          "reviewBody": "Wow, what a revelation. Ms. Fahr teaches me here how to kick up so very  blah vegetable broth with a dash of miso and soy sauce, a world of difference. Wish I’d had a lime in the house. Next time…I loved this so much and ate so well and healthily, I ate too much. Make me stop!  P.S. The photo is no lie! So pretty!",
+          "datePublished": "2025-05-16T00:02:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laurie"
+          },
+          "reviewBody": "What is the best white miso?",
+          "datePublished": "2025-05-15T17:18:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maddy"
+          },
+          "reviewBody": "I've added some rosemary sprigs and honey to the broth and it was absolutely divine - grilled some broccolini with sesame oil, olive oil, honey, and sesame seeds and it was the perfect addition to complete the meal.",
+          "datePublished": "2025-05-05T22:47:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ariel"
+          },
+          "reviewBody": "Because I can't follow a recipe for the life of me: \n- Used the Instant Pot and sauteed carrot, chopped yellow onion, and garlic\n- added mixed mushrooms and sautéed till tender\n- made a mix of 1 TB miso, 2 TB Tamari and 2 TB chicken broth. Heated for 30 seconds in the microwave so I could mix it, and added to pot\n- added 3/4 C barley, 1/2 tsp paprika, 3-4 C homemade chicken broth, and pepper\n- cooked for 20 min in Instant Pot\n- topped with green onion",
+          "datePublished": "2025-04-29T09:53:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carla"
+          },
+          "reviewBody": "I'm currently on a reflux/GERD-friendly diet so I left out the scallions, red pepper flakes and lime, and used slightly less soy sauce. It still tasted wonderful with great depth.",
+          "datePublished": "2025-04-25T07:34:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrea"
+          },
+          "reviewBody": "Made this with no alterations (didn't opt for the lime) and although we are big fans of both mushroom barley soup and miso soup respectively, the combination of flavors just didn't work for me or my family.",
+          "datePublished": "2025-04-20T16:31:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Valerie WaHi"
+          },
+          "reviewBody": "Needs more liquid! Very tasty and no excess chopping required. I added 1/2 chopped carrots (to clean out the fridge, not required but tasty) and 2 cups of water. Much better with the lime.",
+          "datePublished": "2025-04-14T20:54:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CW"
+          },
+          "reviewBody": "Needs more soy sauce. Maybe one tablespoon more?",
+          "datePublished": "2025-04-12T15:43:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "I just made this and am eating it now. It's a nice light soup. For those complaining that it's bland, if you left out the lime juice you'll probably want some sort of other flavor brightener in there, like vinegar. You can also add instant dashi.",
+          "datePublished": "2025-03-23T17:41:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kay"
+          },
+          "reviewBody": "We found it really bland.  Can't understand why it got such good reviews.",
+          "datePublished": "2025-03-15T02:01:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Valerie"
+          },
+          "reviewBody": "I used my garlic press on the miso and it worked like a charm!",
+          "datePublished": "2025-03-02T22:19:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joan"
+          },
+          "reviewBody": "This is one of the best soups ever.\nThe only minor tweaking was using some shiitakes for some of the creminis.",
+          "datePublished": "2025-02-14T14:26:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BrooklynDF"
+          },
+          "reviewBody": "To avoid the haphazard \"seek out any miso clumps\" step, put the miso and soy sauce into a soup bowl, add a ladle or so of the hot stock, and mix until it's all dissolved. Then pour it all back into the pot and stir until blended. \nFrom my experience, trying to find that tablespoon or so of miso in a pot takes much longer than blending it in a smaller bowl!",
+          "datePublished": "2024-02-20T19:07:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ann O’Neill"
+          },
+          "reviewBody": "There’s a technique I’ve seen in every single cooking video from Japan that involves dissolving miso in a liquid - it easily solves the clump issue. Use a small whisk to grab the miso you need for the recipe then partially immerse a small sieve/strainer into the broth. Whisk the miso INSIDE the sieve. As it dissolves it goes right through into the broth/liquid. No hunting for undissolved pieces that need whisking. Same trick works for Better Than Bullion which has a similar thick texture.",
+          "datePublished": "2024-02-22T18:22:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eugenie"
+          },
+          "reviewBody": "Easy and delicious.  Next time I’ll add tofu cubes for protein.",
+          "datePublished": "2024-02-19T00:06:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Beth"
+          },
+          "reviewBody": "Barley has more protein per 100g than tofu!",
+          "datePublished": "2024-02-21T16:38:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrew Pinkowitz"
+          },
+          "reviewBody": "The ingredients list should be comprehensive so the total volume of liquid is shown. 2 cups of water changes the size of the pot required, it should be an ingredient. IMHO",
+          "datePublished": "2024-02-19T19:02:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Craig"
+          },
+          "reviewBody": "I am not vegan, but I'm not averse to trying vegan recipes. This was really satisfying. I used 2/3 cremini and 1/3 shiitake based on the suggestion of another reviewer. I would definitely make this again.",
+          "datePublished": "2024-02-21T00:32:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kischmir"
+          },
+          "reviewBody": "In Step 4 it's a lot easier to dissolve the miso by putting a cup of the soup liquid in a small bowl and dissolving the miso with a small whisk and then returning to the simmering soup. The Japanese say don't boil the miso as it kills many of the nutrients, so add at the end.  1 1/2 lb of mushrooms seems a lot for this size recipe.  We shall see.",
+          "datePublished": "2024-02-21T17:09:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gail"
+          },
+          "reviewBody": "This was very good and not too fussy to make on a weekday. I used shitake mushrooms as I didn't have crimini mushrooms. And I used vegetable bullion. I made a side of roasted brussel sprouts topped with pan toasted thin sliced almonds. Healthy and tasty.",
+          "datePublished": "2024-02-16T12:13:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Es"
+          },
+          "reviewBody": "Wonderful as written but I'm wondering how it would be using broth made from dried mushrooms and throwing in those re-hydrated mushrooms into the soup. Plan on using this the day you make it or needing to add quite a bit of water the next day. The barley really soaks the liquid up overnight. The lime adds a nice touch.",
+          "datePublished": "2024-02-22T17:33:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "michelle"
+          },
+          "reviewBody": "So simple yet delicious! Instant family favorite. Next time I’ll add a little extra barley to make it more stew like (& double the recipe - there were no leftovers!).",
+          "datePublished": "2024-02-19T03:55:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennie in San Francisco"
+          },
+          "reviewBody": "I just tried another mushroom-barley soup recipe last week that was tasty but lacked that umami savoriness.  I thought the next time I make it I would add anchovies, didn't think about miso.  Will try this recip next time!  A tip for incorporating miso into soups; take a small wire mesh strainer and place the miso in the strainer and dunk it in the soup. Take your spoon and muddle it through the mesh. Japanese cooks use a strainer specifically designed for this that has a deep and narrow basket.",
+          "datePublished": "2024-02-21T23:11:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "GaleC"
+          },
+          "reviewBody": "Delightful - certainly not my mom’s mushroom and barley soup. Used 1# white mushrooms, 8 oz baby bella and decided to slice them. Perfect soup for a February weekend!",
+          "datePublished": "2024-02-17T22:22:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cheryl"
+          },
+          "reviewBody": "Yum! I made this per the recipe with the exception of using Knorr mushroom broth cubes in place of the veggie broth. The depth of flavor is amazing, especially when you consider how simple the seasoning is. Miso is the secret ingredient to everything umami, IMO. Thx to the cook who suggested blending the miso with the soy - you'll never get the miso un-gobbed any other way. A little protein would be good, maybe some tofu next time.",
+          "datePublished": "2024-02-22T14:57:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MainLineMike"
+          },
+          "reviewBody": "Made this tonight, and it was a hit. As some have suggested, I cooked the mushrooms separately and added them back in at the end. Also, to reinforce the mushroom flavor, I grated a dried mushroom in while the barley was cooking.",
+          "datePublished": "2024-02-26T00:34:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TM"
+          },
+          "reviewBody": "Tasty, easy to prepare. Agree silken or other tofu would make it a hearty meal",
+          "datePublished": "2024-02-20T01:21:37.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025053-miso-mushroom-barley-soup",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yasmin Fahr"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "This hearty vegan dish uses miso and soy to add a tremendous amount of depth and flavor to a relatively quick, one-pot mushroom barley soup. Quartering the mushrooms allows them to retain bite, but you can thinly slice them if you’d prefer everything to be soft and tender. Resist the urge to salt heavily during the bulk of the cooking, as the miso and soy — both sodium-heavy ingredients — will be added at the end to bring the soup together. This is a soup that will thicken, so add more water or broth when reheating. It’s as accommodating as it is comforting: You can empty your pantry or fridge by swapping the barley for farro and spinach for chopped bok choy or other greens.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Miso-Mushroom Barley Soup",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/dfd542f1-3212-58db-ac14-8092a6d08194#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-02-15T16:44:08.167Z",
+          "datePublished": "2024-02-14T21:31:38.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-14T21:31:38.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/dfd542f1-3212-58db-ac14-8092a6d08194#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-superJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-02-15T16:44:08.167Z",
+          "datePublished": "2024-02-14T21:31:38.000Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-14T21:31:38.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/dfd542f1-3212-58db-ac14-8092a6d08194#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2024-02-15T16:44:08.167Z",
+          "datePublished": "2024-02-14T21:31:38.000Z",
+          "height": "1727",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-14T21:31:38.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/16/multimedia/yf-miso-mushroom-barley-soup-jfhz/yf-miso-mushroom-barley-soup-jfhz-mediumSquareAt3X.jpg",
+          "width": "1727"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025053-miso-mushroom-barley-soup"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:06:15.934Z",
+  "scraping_status": "scraped"
+}

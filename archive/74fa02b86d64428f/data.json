@@ -1,0 +1,556 @@
+{
+  "id": "74fa02b86d64428f",
+  "original_url": "https://cooking.nytimes.com/recipes/1026788-spicy-miso-lentil-soup",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026788-spicy-miso-lentil-soup",
+  "fetched_title": "Spicy Miso Lentil Soup Recipe",
+  "main_text_content": "This soup is simultaneously comforting, fresh and nasal-clearing — as good for sick days as for those crisp days of spring The key is a spicy bright-green slurry made by blending a bunch of raw spinach, miso, lime juice, fresh chiles and ginger Because it’s poured into the soup pot of tender lentils and rice right at the end, its color and flavor stays vibrant",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1016062-red-lentil-soup\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"Two bowls of red lentil soup are garnished with cilantro leaves; a plate of lemon wedges and a pot of soup are nearby.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/mc-red-lentil-soup-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/merlin_146234352_d7bc8486-b067-4cff-a4c0-7741f166fb60-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/mc-red-lentil-soup-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/mc-red-lentil-soup-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/merlin_146234352_d7bc8486-b067-4cff-a4c0-7741f166fb60-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/merlin_146234352_d7bc8486-b067-4cff-a4c0-7741f166fb60-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/mc-red-lentil-soup-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/mc-red-lentil-soup-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Red Lentil Soup</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/74fa02b86d64428f/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/0d6c2e9f-8b3e-516f-9929-0ddd8c92820c",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026788-spicy-miso-lentil-soup",
+        "@type": "WebPage",
+        "name": "Spicy Miso Lentil Soup"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026788-spicy-miso-lentil-soup",
+      "name": "Spicy Miso Lentil Soup",
+      "description": "This soup is simultaneously comforting, fresh and nasal-clearing — as good for sick days as for those crisp days of spring. The key is a spicy bright-green slurry made by blending a bunch of raw spinach, miso, lime juice, fresh chiles and ginger. Because it’s poured into the soup pot of tender lentils and rice right at the end, its color and flavor stays vibrant. For pops of savory nuttiness, top your bowls with slivers of shiitake mushrooms that have been browned in sesame oil. They make this soup especially satisfying, but you could also top bowls with stir-fried or roasted vegetables like asparagus and winter squash.",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/85e38308-035a-5712-9e1d-7358624a43ad#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-04-24T15:15:03.314Z",
+          "datePublished": "2025-04-24T15:15:03.314Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T15:15:03.314Z",
+          "url": "https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/85e38308-035a-5712-9e1d-7358624a43ad#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-googleFourByThree.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-04-24T15:15:03.314Z",
+          "datePublished": "2025-04-24T15:15:03.314Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T15:15:03.314Z",
+          "url": "https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/85e38308-035a-5712-9e1d-7358624a43ad#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-mediumSquareAt3X.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-04-24T15:15:03.314Z",
+          "datePublished": "2025-04-24T15:15:03.314Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T15:15:03.314Z",
+          "url": "https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT25M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, lunch, quick, weeknight, main course",
+      "keywords": "brown lentil, budget, green lentil, jalapeño, miso, rice, serrano, soup, spinach, stovetop, dairy-free, healthy, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 328
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 379,
+        "unsaturatedFatContent": "4 grams",
+        "carbohydrateContent": "68 grams",
+        "cholesterolContent": null,
+        "fatContent": "5 grams",
+        "fiberContent": "8 grams",
+        "proteinContent": "17 grams",
+        "saturatedFatContent": "1 gram",
+        "sodiumContent": "437 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 cup green or brown lentils",
+        "3/4 cup long-grain white rice",
+        "Salt",
+        "1 (5-ounce) package fresh baby spinach (about 6 cups, not packed)",
+        "2 ½ tablespoons white miso",
+        "1 inch fresh ginger, unpeeled and thinly sliced ",
+        "1 or 2 serrano or jalapeño chiles, destemmed and halved",
+        "1 lime, halved",
+        "1 tablespoon toasted sesame oil, plus more for serving",
+        "4 ounces shiitake mushrooms, destemmed and thinly sliced"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a medium or large pot, bring 6 cups of water, the lentils, rice and a pinch of salt to a boil over high. Reduce heat, cover and simmer, stirring occasionally, until the lentils are tender but not mushy and the rice is falling apart, 15 to 20 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the soup is simmering, in a blender, combine 1/4 cup water, the spinach, miso, ginger, one serrano and the juice from half the lime. Blend until smooth. Because the mixture will be thinned by the soup, it should be slightly too spicy; blend in more serrano until it is. Set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large skillet, stir together the oil, mushrooms and a pinch of salt over medium. Cook, stirring occasionally, until the mushrooms are browned, 7 to 9 minutes. Turn off the heat and let sit until the soup is ready."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When the lentils are ready, turn off the heat. Stir in the blended greens. (Mixture will thicken as it sits). Season to taste with salt, then serve topped with the mushrooms, a squeeze of lime and a few drops of sesame oil."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-04-25T00:00:00.000Z",
+      "dateModified": "2025-04-25T20:39:42.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristin"
+          },
+          "reviewBody": "Really delicious! I doubled the ginger and added silky tofu. Next time I'll add two whole jalapeño peppers.",
+          "datePublished": "2025-05-23T16:57:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lukas"
+          },
+          "reviewBody": "I cooked this for my wife while she was down with a cold. It was really energising and the nasal clearing worked perfectly.",
+          "datePublished": "2025-05-23T16:22:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Desi"
+          },
+          "reviewBody": "Made as written. It was meh . Then I added 2 more cups of water  and Better Than Bouillon veg stock to the soup and it upped it tremendously.  I liked the miso spinach combo. I  Would definitely add garlic next time, and not do the mushrooms, as I don't think they add to the soup.",
+          "datePublished": "2025-05-22T00:32:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Slurpy"
+          },
+          "reviewBody": "I wanted to love this, but I didn't. I love each and every ingredient, and figured it would be a home run. The spinach added visual appeal, without a doubt. But I thought the flavor of the spinach was offputing. This surprised me, because the idea sounded great. If I were to make it again, I think I would just remove a cup or so of the soup ingredients and put that in the blender with the other ingredients (lime, ginger, serrano, miso, etc.) and do a spinach salad on the side.",
+          "datePublished": "2025-05-22T00:03:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "audrey"
+          },
+          "reviewBody": "Healthy and easy as heck but I wont make it again.  Confusing flavors.",
+          "datePublished": "2025-05-21T18:07:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "r"
+          },
+          "reviewBody": "how would you do this with canned brown lentil?",
+          "datePublished": "2025-05-21T02:34:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tricia"
+          },
+          "reviewBody": "I followed grains and water exactly and found it way too watery and even 1.5 Serrano peppers not spicy enough.  Will not make it again.",
+          "datePublished": "2025-05-20T23:53:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sean"
+          },
+          "reviewBody": "This recipe looked great on paper and even greater in the pot.  But the taste?  I dunno.  It had an earthy verdant tang from the spinach that wasn't bad, but wasn't particularly delicious, either.  I made it exactly as written. I thought maybe heating it the next day would cut some of the raw spinach taste, but no.  I ended up eating it all myself because no one else wanted leftovers, and I hate wasting food.  I don't think I'll make this again.",
+          "datePublished": "2025-05-20T01:21:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DebG"
+          },
+          "reviewBody": "Incorporated many of the suggestions in the comments for an overall delicious results:\n-substituted farro for the white rice\n- doubled the jalapeños (unseeded) and ginger\n-added two cloves of garlic\n-one cup of coconut milk\n- topped with crumbled feta cheese \nPerfect weeknight dinner for a rainy spring evening!",
+          "datePublished": "2025-05-19T23:53:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Magister P"
+          },
+          "reviewBody": "6C water seems like too much if you plan to eat within 10min of cooking and don’t wait for it to thicken up. Double the miso for sure, and expect to heavily season.",
+          "datePublished": "2025-05-19T22:44:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara"
+          },
+          "reviewBody": "Made the recipe exactly as written and reported a few days ago. A couple of notes: it benefits from sitting overnight, but the umami does not become more pronounced. After experimenting with garnishes of a dollop of yoghurt and chopped fresh mint and for another lunch just some additional lime and mint, I landed on a spoonful of crème fraiche and a sprinkling of a good feta - that perked up the flavors nicely but it was a departure from the miso. Anyway, a good, healthy soup for lunch or quick dinner, but it didn’t knock my socks off.",
+          "datePublished": "2025-05-19T19:00:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LC"
+          },
+          "reviewBody": "Made as directed and didn't love it. The flavor was ok but the texture was unpleasant. Gloppy overcooked rice and watery vegetables. Not for me!",
+          "datePublished": "2025-05-19T02:54:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janeele"
+          },
+          "reviewBody": "It just needs a bit more Umami. \nNot sure I will try again. \nAdd kombu to the rice/lentils. \nCareful not boil when reheating. \nTry a splash of mirin or coconut oil.",
+          "datePublished": "2025-05-18T23:24:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "robin"
+          },
+          "reviewBody": "A huge thank you to those of you “who didn’t actually make the recipe”.  I love being a part of a cooking community that shares experience, modifications, and experimentation. We all have the choice to make the recipe exactly as written or to peruse the comments for suggestions.",
+          "datePublished": "2025-05-17T18:06:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dominic"
+          },
+          "reviewBody": "We tried this today, and while an excellent recipe we found that a tsp of cumin as a finisher helped immensely.",
+          "datePublished": "2025-05-17T18:38:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeffrey"
+          },
+          "reviewBody": "@Tim \nA cup has 8 fluid ounces. The ounces you see on a pack of spinach (and most dry goods) are weight ounces. They’re different units! Hope this helps",
+          "datePublished": "2025-04-26T20:26:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tim"
+          },
+          "reviewBody": "?? Did you mean Miso-lentil combo? Mirin isn't in this recipe.",
+          "datePublished": "2025-04-26T18:29:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen"
+          },
+          "reviewBody": "Really tasty! We had a 7oz bag of arugula in the house, so I used that instead. The bitterness was nice alongside the tartness of the lime. I also added some garlic. I only had brown rice in the house, so I let it cook for a bit before adding the lentils. Turned out great! Will definitely make this again.",
+          "datePublished": "2025-04-27T05:28:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gibby"
+          },
+          "reviewBody": "@Bijou I’m so glad someone used my rice of choice, short-grain brown rice. My first thought was to wonder if I could use that instead.",
+          "datePublished": "2025-04-27T14:33:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "swags"
+          },
+          "reviewBody": "@Tim it’s calling for one full 5oz clamshell container of spinach. That’s a standard grocery portion in the US. When you put the spinach from the plastic clamshell into a cup measure it should be about 6 cups. The technical conversions you shared make sense for liquid or a more dense ingredient like sugar but not spinach where less weight takes up much more space in a cup measure. Just get a 5oz clamshell at the grocery and you will be fine. Or if those aren’t available where you are, then forget the weight and just put the leaves in a cup measure until you have 6 cups.",
+          "datePublished": "2025-04-26T20:55:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "!"
+          },
+          "reviewBody": "There is no mirin in the soup, that will be why it's bizarre!",
+          "datePublished": "2025-04-26T22:18:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Margaux Laskey, Associate Editor, New York Times Cooking"
+          },
+          "reviewBody": "This is really good with crumbled feta on top. That is all.",
+          "datePublished": "2025-05-14T17:31:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bijou"
+          },
+          "reviewBody": "Hi\nI made this today. I didn’t have long grain white rice, so I used organic short grain brown rice with green lentils.  I also used two jalapeños, half not completely seeded… turned out amazing. My carnivorous husband said he REALLY like it.   I will definitely make it again… next time with the right (maybe) rice.",
+          "datePublished": "2025-04-27T03:18:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenn S"
+          },
+          "reviewBody": "I made this with half fresh spinach and half fresh nettles from my garden, blanched. If I make it again I’ll add more ginger and some garlic. I found the volume of greens to be completely insufficient and used nearly twice as much as the recipe called for. It’s very tasty and filling.",
+          "datePublished": "2025-04-28T00:49:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SDC"
+          },
+          "reviewBody": "Used 2x the amount of spinach, brown rice, 1/3 cup of miso, 3tbsp soy sauce, twice the amount of ginger and 5 jalapenos. Soup was mild, I think my jalapenos were not spicy at all. If I did it again I would use hotter peppers, like a habanero, and add more liquid because it gets quite thick. I recommend mixing in 1tbsp sesame oil for extra depth and umami.",
+          "datePublished": "2025-04-29T02:05:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tim"
+          },
+          "reviewBody": "Clarification request regarding the spinach: \n\n1 5oz of spinach or 6 cups, not packed\n\n5 oz is between a 1/2C and  3/4C. \n8oz=1C\n6C=48oz\n\nI don't understand how 5oz and 6C are being referred to as equal. By my calculations, there's a difference of 43ozs. That's significant and can completely change the the result. \nRecommendations?",
+          "datePublished": "2025-04-26T18:04:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "A little strange?"
+          },
+          "reviewBody": "Love the idea and made it immediately per the recipe. Ok I have not done the mushrooms yet. I think the mirin-lentil combo is a little strange. Also it is turning a rather unappealing shade as the slurry sits in the soup. I saved some extra slurry to add as we eat it. That may be a cosmetic boost. I may add some cilantro and more lime. Will be interesting to see what other people think.",
+          "datePublished": "2025-04-26T14:09:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary Katherine"
+          },
+          "reviewBody": "It may change the flavor profile. Fresh spinach is known for its mild and slightly sweet flavor, while frozen spinach can have a slightly more intense and earthy taste due to the freezing process.\n\nThat said, I think one 10 oz package of frozen spinach could be substituted for the fresh spinach.",
+          "datePublished": "2025-05-01T16:42:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alina"
+          },
+          "reviewBody": "This soup made me feel powerful. Health bars fully restored. I'm ready for adventures now.",
+          "datePublished": "2025-05-14T01:34:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Oleander"
+          },
+          "reviewBody": "Just made this. Very good, very easy. Added Brown basmati rice— lentils and rice cooked nicely within 20 minutes on a gas stove. Added one bunch fresh spinach without stems— worked perfectly.\nA little bit more lime & garlic would add to the pungency. Overall pretty filling, very tasty, and easy.",
+          "datePublished": "2025-04-27T22:22:45.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026788-spicy-miso-lentil-soup",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "This soup is simultaneously comforting, fresh and nasal-clearing — as good for sick days as for those crisp days of spring. The key is a spicy bright-green slurry made by blending a bunch of raw spinach, miso, lime juice, fresh chiles and ginger. Because it’s poured into the soup pot of tender lentils and rice right at the end, its color and flavor stays vibrant. For pops of savory nuttiness, top your bowls with slivers of shiitake mushrooms that have been browned in sesame oil. They make this soup especially satisfying, but you could also top bowls with stir-fried or roasted vegetables like asparagus and winter squash.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Spicy Miso Lentil Soup",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/85e38308-035a-5712-9e1d-7358624a43ad#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-04-24T15:15:03.314Z",
+          "datePublished": "2025-04-24T15:15:03.314Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T15:15:03.314Z",
+          "url": "https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/85e38308-035a-5712-9e1d-7358624a43ad#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-googleFourByThree.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-04-24T15:15:03.314Z",
+          "datePublished": "2025-04-24T15:15:03.314Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T15:15:03.314Z",
+          "url": "https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/85e38308-035a-5712-9e1d-7358624a43ad#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-mediumSquareAt3X.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-04-24T15:15:03.314Z",
+          "datePublished": "2025-04-24T15:15:03.314Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T15:15:03.314Z",
+          "url": "https://static01.nyt.com/images/2025/04/23/multimedia/as-spicy-miso-lentil-soup-cvgm/as-spicy-miso-lentil-soup-cvgm-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026788-spicy-miso-lentil-soup"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:03:49.733Z",
+  "scraping_status": "scraped"
+}

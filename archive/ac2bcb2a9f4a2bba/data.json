@@ -1,0 +1,595 @@
+{
+  "id": "ac2bcb2a9f4a2bba",
+  "original_url": "https://cooking.nytimes.com/recipes/1018933-pumpkin-bundt-cake-with-maple-brown-butter-glaze",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1018933-pumpkin-bundt-cake-with-maple-brown-butter-glaze",
+  "fetched_title": "Pumpkin Bundt Cake With Maple Brown-Butter Glaze Recipe",
+  "main_text_content": "Bundt cakes are classic showstoppers — big, lofty and usually dressed in elegant drizzles and drips of glaze Here, a dense, moist cake full of warm fall spices and pumpkin purée is encased in a layer of rich, nutty brown-butter maple glaze Feel free to make it a day before you plan to serve it: This cake keeps well at room temperature, and you might think it&#x27;s even better on the second day",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025495-vanilla-bundt-cake\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-blogSmallInline-v3.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-videoSixteenByNine310-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Vanilla Bundt Cake</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Yossy Arefi</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2017/10/28/dining/28COOKING-PUMPKINBUNDTCAKE2/28COOKING-PUMPKINBUNDTCAKE2-videoSixteenByNineJumbo1600.jpg",
+  "local_image_path": "scraped/ac2bcb2a9f4a2bba/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/3e2b8c29-7a5a-5855-b5bd-3e94f601c335",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1018933-pumpkin-bundt-cake-with-maple-brown-butter-glaze",
+        "@type": "WebPage",
+        "name": "Pumpkin Bundt Cake With Maple Brown-Butter Glaze"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1018933-pumpkin-bundt-cake-with-maple-brown-butter-glaze",
+      "name": "Pumpkin Bundt Cake With Maple Brown-Butter Glaze",
+      "description": "Bundt cakes are classic showstoppers — big, lofty and usually dressed in elegant drizzles and drips of glaze. Here, a dense, moist cake full of warm fall spices and pumpkin purée is encased in a layer of rich, nutty brown-butter maple glaze. Feel free to make it a day before you plan to serve it: This cake keeps well at room temperature, and you might think it's even better on the second day. Just make sure to keep it covered  and resist the urge to shave off a slice every time you walk by. If you can find it, use organic confectioners' sugar for the glaze. It's made from raw sugar and uses tapioca rather than cornstarch as its anticaking agent. It will give the glaze a richer taste and smoother texture than conventional confectioners’ sugar — a tip picked up from Stella Parks.",
+      "author": {
+        "@type": "Person",
+        "name": "Yossy Arefi"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/cafd8fc1-ebc3-5d12-bef6-e5be409ad720#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2017/10/28/dining/28COOKING-PUMPKINBUNDTCAKE2/28COOKING-PUMPKINBUNDTCAKE2-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Jim Wilson/The New York Times",
+          "dateModified": "2017-10-05T15:24:41.000Z",
+          "datePublished": "2017-10-05T15:40:30.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2017-10-05T15:40:30.000Z",
+          "url": "https://static01.nyt.com/images/2017/10/28/dining/28COOKING-PUMPKINBUNDTCAKE2/28COOKING-PUMPKINBUNDTCAKE2-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/cafd8fc1-ebc3-5d12-bef6-e5be409ad720#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2017/10/28/dining/28COOKING-PUMPKINBUNDTCAKE2/28COOKING-PUMPKINBUNDTCAKE2-superJumbo.jpg",
+          "creditText": "Jim Wilson/The New York Times",
+          "dateModified": "2017-10-05T15:24:41.000Z",
+          "datePublished": "2017-10-05T15:40:30.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2017-10-05T15:40:30.000Z",
+          "url": "https://static01.nyt.com/images/2017/10/28/dining/28COOKING-PUMPKINBUNDTCAKE2/28COOKING-PUMPKINBUNDTCAKE2-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/cafd8fc1-ebc3-5d12-bef6-e5be409ad720#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2017/10/28/dining/28COOKING-PUMPKINBUNDTCAKE2/28COOKING-PUMPKINBUNDTCAKE2-square640.jpg",
+          "creditText": "Jim Wilson/The New York Times",
+          "dateModified": "2017-10-05T15:24:41.000Z",
+          "datePublished": "2017-10-05T15:40:30.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2017-10-05T15:40:30.000Z",
+          "url": "https://static01.nyt.com/images/2017/10/28/dining/28COOKING-PUMPKINBUNDTCAKE2/28COOKING-PUMPKINBUNDTCAKE2-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT2H",
+      "recipeYield": "10 to 12 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dessert",
+      "keywords": "allspice, brown butter, bundt cake, cardamom, cinnamon, make-ahead, pumpkin purée, fall, halloween, thanksgiving",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 2715
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 522,
+        "unsaturatedFatContent": "12 grams",
+        "carbohydrateContent": "78 grams",
+        "cholesterolContent": null,
+        "fatContent": "22 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "5 grams",
+        "saturatedFatContent": "9 grams",
+        "sodiumContent": "374 milligrams",
+        "sugarContent": "49 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 cups/384 grams all-purpose flour",
+        "2 teaspoons baking powder",
+        "1 teaspoon baking soda",
+        "1 1/4 teaspoons kosher salt",
+        "2 teaspoons ground cinnamon",
+        "1 1/2 teaspoons ground cardamom",
+        "1/4 teaspoon ground allspice",
+        "1/4 teaspoon ground black pepper",
+        "2 cups/440 grams light brown sugar, packed",
+        "1/2 cup/114 grams unsalted butter, soft but cool",
+        "1/2 cup extra-virgin olive oil",
+        "2 large eggs, at room temperature",
+        "1 (15-ounce) can/425 grams pumpkin purée",
+        "1/2 cup sour cream",
+        "2 tablespoons unsalted butter",
+        "1 cup/102 grams confectioners’ sugar (preferably organic), sifted",
+        "1/4 cup maple syrup",
+        "Pinch of salt",
+        "1 to 2 tablespoons lightly toasted pepitas (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 350 degrees, and butter and flour a 12-cup (or larger) capacity bundt pan."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a medium bowl, whisk the flour, baking powder, baking soda, salt, cinnamon, cardamom, allspice and black pepper until well combined."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In the bowl of a stand mixer fitted with the paddle attachment, combine brown sugar, butter and olive oil. Beat on medium-high until light and fluffy, about 3 minutes. Add the eggs one at a time, mixing for about 20 seconds in between each egg. Add the pumpkin purée and sour cream, and mix until well combined, scraping the bottom and sides of the bowl as necessary."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Remove the bowl from the mixer, and use a rubber spatula to fold in the dry ingredients until well combined. Make sure to scrape the bottom and sides of the bowl to ensure an evenly mixed batter."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour the batter into the prepared pan, smooth the top and firmly tap the pan on the countertop a few times to release any large air bubbles. Bake the cake until golden and puffed, and a tester inserted into the center comes out clean, 55 to 65 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Set the cake, still in its pan, on a rack to cool for 20 minutes, then use the tip of a knife to loosen the edges and invert the cake onto the rack to cool completely before glazing."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the glaze: Once the cake is cool, melt the butter in a saucepan over medium heat. Cook the butter, occasionally scraping the bottom and sides of the pan with a rubber spatula until it turns a deep golden brown and smells nutty. Don’t walk away from the pan during this process. The butter can go from brown and nutty to acrid and burnt in mere moments."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Transfer butter and all the brown bits from the pan to a heat-safe bowl, and let it cool slightly. Whisk in the confectioners’ sugar, maple syrup and salt until smooth. The glaze should be thick but pourable. If it’s too thin, add a bit more confectioners’ sugar. If it’s too thick, add a few drops of water."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Transfer the cake to a serving platter and pour the glaze evenly over the top. Sprinkle with pepitas if desired. Let the glaze set for a few minutes before slicing."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Holly"
+          },
+          "reviewBody": "I used canola oil because I don't like olive oil in cakes.  It was delicious and received rave reviews.  I noticed it kept disappearing while left unattended! :)",
+          "datePublished": "2025-03-01T20:59:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "350 for 20 mins",
+          "datePublished": "2025-02-08T03:29:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ssggm"
+          },
+          "reviewBody": "I followed the recipe and it came out like the photo. It was yummy and stayed delicious for days, except that the pepitas grew soft after a day or so. Will make again!",
+          "datePublished": "2025-02-05T02:19:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "Best tasting 2 days after making so spices have a chance to soften.",
+          "datePublished": "2025-02-01T01:27:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NanOnTheCape"
+          },
+          "reviewBody": "I was skeptical, but everyone loved this cake. Instead of water to thin the glaze, I used a teaspoon of vanilla extract.",
+          "datePublished": "2025-01-27T18:02:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sara"
+          },
+          "reviewBody": "My mom has been making this cake for years and now I make it for myself and my roommates. It's easily one of my favorite cakes of all time. Absolutely addicting. I like to double the frosting because it's sooooo good.",
+          "datePublished": "2025-01-12T17:37:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Catherine"
+          },
+          "reviewBody": "I have made this twice this month. First time only had dark brown sugar so I used that—second time used light brown sugar as recipe says. The version with dark brown sugar was much more flavorful—just fabulous. The version with light brown sugar tasted ordinary but still good. Decorated with a ring of caramelized pecans on top.",
+          "datePublished": "2024-12-26T11:40:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Euphroznie"
+          },
+          "reviewBody": "Second time I made this, I didn't have sour cream, so added the same quantity of mayo. Couldn't tell the difference, and texture was great. Made in mini bundt pans and gave away as gifts.",
+          "datePublished": "2024-12-23T06:16:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ululani"
+          },
+          "reviewBody": "This was delicious, and moist. I doubled the icing and did not regret that AT ALL! I would sub the correct proportion of regular salt for the kosher in the cake itself, to incorporate it better.",
+          "datePublished": "2024-12-13T22:51:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jen N."
+          },
+          "reviewBody": "This cake is supreme as is. I used the cardamom but almost omitted it bc wasn’t sure how it would be received. I’ve baked desserts for over 30 years and this was one of the absolute best.\n\nThe maple glaze is buttery goodness and poured well over the cake. It hardened quickly and made a nice, delicate accent.\n\nThe only change I made was toasted, chopped pecans on top.",
+          "datePublished": "2024-11-29T03:31:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Raro"
+          },
+          "reviewBody": "@LK King Arthur’s makes tools for releasing Bundt cakes. I just got a Bundt pan and these tools for a holiday present.",
+          "datePublished": "2025-01-03T18:04:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LK"
+          },
+          "reviewBody": "Really excellent cake! My five-year-old, who prefers chocolate anything, requests this for breakfast every day. But is a knife to release the cake essential? Aren't most Bundts nonstick? I scratched the coating on mine; probably should have tried first to release without the knife.",
+          "datePublished": "2024-11-25T02:50:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tenor"
+          },
+          "reviewBody": "About halfway through the baking process I discovered that my oven temp was 165 degrees.  I turned off the oven, reset the temp, guessed at the remaining time, and pulled out the cake when a toothpick came out clean.  Then put some yams in the oven.  Fifteen minutes later my apartment was suddenly filling up with smoke.  I turned off the oven and ran to get my doorman.  He discovered a flaming potholder in with the yams, pulled it out with his bare hands and threw it in the sink.  Meanwhile the cake was still on the cooling rack minding its own business despite the very dense smoke.  I opened every window and went to do laundry because the air was unbreathable.  Two hours later I returned, calmed myself down, and cautiously toasted the pepitas and made the glaze.  After glazing the cake I had to taste test before bringing it in to work to make sure it didn’t taste like ashes.  Delicious! and in a nutshell, indestructible. My doorman will be handsomely rewarded for saving the day.",
+          "datePublished": "2024-11-25T04:07:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "Can anyone suggest an egg substitute for this cake? Several family members are allergic and I would love it if they could enjoy this cake too.",
+          "datePublished": "2024-11-21T19:32:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Linda"
+          },
+          "reviewBody": "I followed the recipe completely with the exception of substituting small chocolate truffles to adorn the top of the cake instead of the pepitas, which makes for a lovely presentation. I’ve made it twice and both times almost everyone wanted seconds.",
+          "datePublished": "2024-11-11T07:05:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CindyB"
+          },
+          "reviewBody": "If I could give this cake more stars I would.  It's the best I've made all year.  It's easy to make for such a great outcome. I wouldn't change a thing!  Glaze was excellent as well.  Make it!!!",
+          "datePublished": "2024-11-08T17:56:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "maustinct"
+          },
+          "reviewBody": "This is a very nice, moist cake - the olive oil recedes and the cardamom takes over in a very pleasant way.  I halved the recipe (measured) and baked for 35 minutes in my small bundt pan.  I used 2% greek yogurt in place of the sour cream and reduced the brown sugar a bit (200 g).  The glaze hardens quickly so next time I would add more water.  I did saute the pepitas with a tiny bit of oil and tossed them in sugar which made them crunchy and delicious.  I will make this again.",
+          "datePublished": "2017-10-23T14:07:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "gigiguerra"
+          },
+          "reviewBody": "Hi. Will someone from the NYT — preferably either the actual baker of the recipe or the food stylist — tell us how to get such a thick, rich looking coating of icing? I’ve made this cake 6 times now (because it tastes so darn good) but have never once seen the icing look as it does in the publication’s photo.",
+          "datePublished": "2019-11-26T03:37:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "maustinct"
+          },
+          "reviewBody": "halve recipe (200g br sugar); bake for 35 mins....  make glaze runnier than you would think as it hardens pretty much immediately;  saute pepitas in tiny bit of oil and toss in sugar - really good cake",
+          "datePublished": "2017-10-23T14:03:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill"
+          },
+          "reviewBody": "I just gave this a go, pretty much following the recipe with the recommended thinning of the glaze a bit.  The only other change was dusting the bundt pan with sugar and not flour.   Really amazing fall feel to it.  Taking time to properly brown the butter adds a complexity to the glaze that complements the pumpkin cake so well.  Neighbors loved it and more importantly my wife did.  I might bump the spices up a bit next time out, but this is a keeper.",
+          "datePublished": "2019-10-11T16:02:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy"
+          },
+          "reviewBody": "Since I prefer weight to volume especially when baking, I measured the brown sugar both ways because it seemed like a lot. I came up with 2 cups packed was 346 grams, not 440 grams. \n\nI find when I convert to weights I often double check between weights and volume. They often do not jibe in fact it's kind of like Celebrity Net Worth - untethered.",
+          "datePublished": "2018-11-17T18:17:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erin C."
+          },
+          "reviewBody": "This cake is amazing! Super moist. And oh my god the frosting is to DIE for. I did have to add a few drops of water to make it spread easier.",
+          "datePublished": "2017-10-23T13:54:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "nancys"
+          },
+          "reviewBody": "This bundt got rave reviews at thanksgiving.  Did a few subs just because I didn’t have all ingredients.  Used Greek yogurt instead of sour cream, added cloves and ground ginger in place of allspice and used dark brown sugar.  Cut confectioners sugar in icing by half and it was perfect.  Would definitely make again and the cardamom and black pepper gave it a great depth of flavor and warmth.  Moist, delicious and not too sweet.  Have already been asked to make it again.  ",
+          "datePublished": "2018-11-29T02:37:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sbsidhu"
+          },
+          "reviewBody": "Since my dad is gluten intolerant, I replaced the all purpose flour with bob’s red mill 1 to 1 baking flour (in the blue bag)*. Cake was delicious and no one could tell it was gluten free.\n\n*Do NOT confuse with bob’s red mill gluten free all purpose flour. They are not the same.",
+          "datePublished": "2021-01-30T07:09:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jill"
+          },
+          "reviewBody": "My family and friends loved this cake a couple weeks ago. But everyone wanted a bit of glaze in every bite, which you don’t get with a glazed Bundt cake. So round two was made in a 9x13 pan. It took less time in the oven (can’t recall the exact adjustment for time) and I doubled the glaze to cover the whole top of the sheet cake. Toasted pepitas are a must. The second cake this weekend was an even bigger hit with my guests. Perfect fall dessert.",
+          "datePublished": "2023-11-14T03:15:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TriciaPDX"
+          },
+          "reviewBody": "Cakes have been made for a lot longer than there has been electricity!  Of course you can do it with a hand held, too.  You can even make it without a stand or hand mixer by beating the heck out of everything with a wooden spoon followed by a sturdy whisk.  It's just more work to get everything creamed and fluffy.",
+          "datePublished": "2018-11-02T18:31:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Zach C"
+          },
+          "reviewBody": "I used 2% Greek yogurt in place of sour cream, and the cake was absolutely perfect. I learned a lesson about blindly following others' advice: I added just a little water to the glaze, but that made it way too thin and it all ran right off. I used organic powdered sugar, which doesn't contain cornstarch, and I think that was the difference. Water may be more helpful if using conventional powdered sugar with cornstarch.",
+          "datePublished": "2021-10-28T12:36:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RM60657"
+          },
+          "reviewBody": "Delicious, show-stopping cake! Served for brunch and it was a hit. The brown butter adds real depth and the pepitas shouldn’t be skipped. This will definitely be a fall tradition. ",
+          "datePublished": "2017-10-23T14:02:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jen"
+          },
+          "reviewBody": "I had excellent results while following the recipe although I had to use half olive oil and half vegetable oil as my evoo was running low. THE GLAZE: had no trouble getting mine to look identical to the photo depicted here. I zapped in microwave for a few seconds prior to glazing the cake. You need to act fast with powdered sugar glazes otherwise they harden and make it impossible to get that beautiful drip. Used toasted and chopped pecans for finishing. So good!",
+          "datePublished": "2022-09-12T19:38:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Auntie Connie"
+          },
+          "reviewBody": "I made it exactly as written and agree that it's a beautiful cake. My husband and guests loved it, but I confess to not caring for it very much. That surprised me because these are flavors I usually love. Perhaps boosting the quantity of spices would make me happier, so if I make it again, I'll give that a try. I love the idea of using maple syrup in the frosting, and will probably try that on other cakes I like more.",
+          "datePublished": "2019-02-18T01:52:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill"
+          },
+          "reviewBody": "I cooled mine 20 minutes and it came right out.  I don't have Nordic Ware though.   I well buttered the pan and sprinkled with granulated sugar.   The pan was not warm to the touch after 20 minutes but if anything it came out too easily.",
+          "datePublished": "2019-10-11T16:04:10.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2017
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1018933-pumpkin-bundt-cake-with-maple-brown-butter-glaze",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yossy Arefi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2017,
+      "description": "Bundt cakes are classic showstoppers — big, lofty and usually dressed in elegant drizzles and drips of glaze. Here, a dense, moist cake full of warm fall spices and pumpkin purée is encased in a layer of rich, nutty brown-butter maple glaze. Feel free to make it a day before you plan to serve it: This cake keeps well at room temperature, and you might think it's even better on the second day. Just make sure to keep it covered  and resist the urge to shave off a slice every time you walk by. If you can find it, use organic confectioners' sugar for the glaze. It's made from raw sugar and uses tapioca rather than cornstarch as its anticaking agent. It will give the glaze a richer taste and smoother texture than conventional confectioners’ sugar — a tip picked up from Stella Parks.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Pumpkin Bundt Cake With Maple Brown-Butter Glaze",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/cafd8fc1-ebc3-5d12-bef6-e5be409ad720#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2017/10/28/dining/28COOKING-PUMPKINBUNDTCAKE2/28COOKING-PUMPKINBUNDTCAKE2-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Jim Wilson/The New York Times",
+          "dateModified": "2017-10-05T15:24:41.000Z",
+          "datePublished": "2017-10-05T15:40:30.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2017-10-05T15:40:30.000Z",
+          "url": "https://static01.nyt.com/images/2017/10/28/dining/28COOKING-PUMPKINBUNDTCAKE2/28COOKING-PUMPKINBUNDTCAKE2-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/cafd8fc1-ebc3-5d12-bef6-e5be409ad720#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2017/10/28/dining/28COOKING-PUMPKINBUNDTCAKE2/28COOKING-PUMPKINBUNDTCAKE2-superJumbo.jpg",
+          "creditText": "Jim Wilson/The New York Times",
+          "dateModified": "2017-10-05T15:24:41.000Z",
+          "datePublished": "2017-10-05T15:40:30.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2017-10-05T15:40:30.000Z",
+          "url": "https://static01.nyt.com/images/2017/10/28/dining/28COOKING-PUMPKINBUNDTCAKE2/28COOKING-PUMPKINBUNDTCAKE2-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/cafd8fc1-ebc3-5d12-bef6-e5be409ad720#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2017/10/28/dining/28COOKING-PUMPKINBUNDTCAKE2/28COOKING-PUMPKINBUNDTCAKE2-square640.jpg",
+          "creditText": "Jim Wilson/The New York Times",
+          "dateModified": "2017-10-05T15:24:41.000Z",
+          "datePublished": "2017-10-05T15:40:30.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2017-10-05T15:40:30.000Z",
+          "url": "https://static01.nyt.com/images/2017/10/28/dining/28COOKING-PUMPKINBUNDTCAKE2/28COOKING-PUMPKINBUNDTCAKE2-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1018933-pumpkin-bundt-cake-with-maple-brown-butter-glaze"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:14:02.125Z",
+  "scraping_status": "scraped"
+}

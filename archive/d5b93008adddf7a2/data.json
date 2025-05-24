@@ -1,0 +1,629 @@
+{
+  "id": "d5b93008adddf7a2",
+  "original_url": "https://cooking.nytimes.com/recipes/1022543-cold-noodles-with-tomatoes",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1022543-cold-noodles-with-tomatoes",
+  "fetched_title": "Cold Noodles With Tomatoes Recipe (with Video)",
+  "main_text_content": "Halved cherry tomatoes provide a strong flavor foundation for this cold noodle dish that’s at once savory like gazpacho and refreshingly satiating like naengmyeon, the chilled Korean noodle soup Inspired, too, by oi naengguk, a hydrating cold cucumber soup, this dish leans into the wonders of ripe tomatoes and lets you taste them as they are: raw and juicy Julienned cucumber would taste wonderful here, as would supple poached shrimp or halved hard-boiled eggs.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025699-cold-tomato-and-kimchi-soba-noodle-soup\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2024/08/13/multimedia/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2024/08/13/multimedia/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/08/13/multimedia/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/08/13/multimedia/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/08/13/multimedia/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/08/13/multimedia/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/08/13/multimedia/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/08/13/multimedia/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb/hm-cold-tomato-and-kimchi-noodle-souprex-lhgb-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Cold Tomato and Kimchi Soba Noodle Soup</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Hetty Lui McKinnon</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/d5b93008adddf7a2/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/24f19b79-f81c-50b1-91b1-4950b25a6534",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1022543-cold-noodles-with-tomatoes",
+        "@type": "WebPage",
+        "name": "Cold Noodles With Tomatoes"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022543-cold-noodles-with-tomatoes",
+      "name": "Cold Noodles With Tomatoes",
+      "description": "Halved cherry tomatoes provide a strong flavor foundation for this cold noodle dish that’s at once savory like gazpacho and refreshingly satiating like naengmyeon, the chilled Korean noodle soup. Inspired, too, by oi naengguk, a hydrating cold cucumber soup, this dish leans into the wonders of ripe tomatoes and lets you taste them as they are: raw and juicy. Julienned cucumber would taste wonderful here, as would supple poached shrimp or halved hard-boiled eggs.",
+      "author": {
+        "@type": "Person",
+        "name": "Eric Kim"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/da490150-a644-5eb3-a71a-0d8f24b573b0#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-07-31T18:09:32.456Z",
+          "datePublished": "2021-09-07T16:35:58.000Z",
+          "height": "901",
+          "representativeOfPage": true,
+          "uploadDate": "2021-09-07T16:35:58.000Z",
+          "url": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/da490150-a644-5eb3-a71a-0d8f24b573b0#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-superJumbo.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-07-31T18:09:32.456Z",
+          "datePublished": "2021-09-07T16:35:58.000Z",
+          "height": "1349",
+          "representativeOfPage": true,
+          "uploadDate": "2021-09-07T16:35:58.000Z",
+          "url": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/da490150-a644-5eb3-a71a-0d8f24b573b0#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-mediumSquareAt3X.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-07-31T18:09:32.456Z",
+          "datePublished": "2021-09-07T16:35:58.000Z",
+          "height": "1798",
+          "representativeOfPage": true,
+          "uploadDate": "2021-09-07T16:35:58.000Z",
+          "url": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-mediumSquareAt3X.jpg",
+          "width": "1797"
+        }
+      ],
+      "totalTime": "PT20M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, quick, weeknight, noodles, main course",
+      "keywords": "radish, tomato",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 2571
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 293,
+        "unsaturatedFatContent": "3 grams",
+        "carbohydrateContent": "54 grams",
+        "cholesterolContent": null,
+        "fatContent": "4 grams",
+        "fiberContent": "4 grams",
+        "proteinContent": "11 grams",
+        "saturatedFatContent": "1 gram",
+        "sodiumContent": "848 milligrams",
+        "sugarContent": "9 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 pints ripe cherry tomatoes, halved",
+        "2 teaspoons kosher salt (Diamond Crystal)",
+        "12 to 14 ounces somyeon, somen, capellini or other thin wheat noodle",
+        "1/4 cup rice vinegar",
+        "2 tablespoons soy sauce",
+        "2 tablespoons granulated sugar",
+        "1 large garlic clove, finely grated",
+        "1/2 teaspoon Dijon mustard",
+        "1/2 teaspoon toasted sesame oil",
+        "2 cups cold filtered water",
+        "1 tablespoon toasted sesame seeds",
+        "2 radishes, thinly sliced",
+        "2 scallions, thinly sliced at an angle",
+        "2 cups crushed or cubed ice"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large bowl, toss together the tomatoes and salt. Let sit until juicy, about 10 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, bring a large pot of water to a boil. Cook the noodles according to package instructions, drain and rinse under cold water. Set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the vinegar, soy sauce, sugar, garlic, mustard and sesame oil to the tomatoes, and toss with a spoon until well combined. Stir the filtered water into the tomatoes and sprinkle the surface of the broth with the sesame seeds, radishes and scallions."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Right before serving, add the ice to the broth. Divide the noodles among bowls, and ladle in the broth and any unmelted ice, making sure each serving gets a nice sprinkling of tomatoes, radishes, scallions and sesame seeds."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/23c75255-decd-55e8-b241-3a76e91df12f",
+        "@type": "VideoObject",
+        "author": {
+          "@id": "nyt://person/a89444f5-07d8-5c29-86d1-3c6c30133277",
+          "@type": "Person",
+          "name": "The New York Times Cooking",
+          "url": "https://www.nytimes.com/by/the-new-york-times-cooking"
+        },
+        "bitrate": "0",
+        "contentSize": "20306967",
+        "contentUrl": "https://vp.nyt.com/video/2024/07/23/121304_1_HP-Cold-Noodles-With-Tomatoes-CV_wg_480p.mp4",
+        "creator": {
+          "@id": "nyt://person/a89444f5-07d8-5c29-86d1-3c6c30133277",
+          "@type": "Person",
+          "name": "The New York Times Cooking"
+        },
+        "dateModified": "2024-09-11T16:34:02.783Z",
+        "datePublished": "2024-07-23T19:26:00.000Z",
+        "description": "Halved cherry tomatoes provide a strong flavor foundation for this cold noodle dish that’s at once savory like gazpacho and refreshingly satiating like naengmyeon, the chilled Korean noodle soup. Inspired, too, by oi naengguk, a hydrating cold cucumber soup, this dish leans into the wonders of ripe tomatoes and lets you taste them as they are: raw and juicy. Julienned cucumber would taste wonderful here, as would supple poached shrimp or halved hard-boiled eggs.",
+        "duration": "PT1M39S",
+        "height": "480",
+        "name": "Cold Noodles With Tomatoes",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/da490150-a644-5eb3-a71a-0d8f24b573b0#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-videoSixteenByNineJumbo1600.jpg",
+            "creditText": "Julia Gartland for The New York Times. Food Stylist: Barrett Washburne.",
+            "dateModified": "2023-07-31T18:09:32.456Z",
+            "datePublished": "2021-09-07T16:35:58.000Z",
+            "height": "901",
+            "uploadDate": "2021-09-07T16:35:58.000Z",
+            "url": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-videoSixteenByNineJumbo1600.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/da490150-a644-5eb3-a71a-0d8f24b573b0#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-superJumbo.jpg",
+            "creditText": "Julia Gartland for The New York Times. Food Stylist: Barrett Washburne.",
+            "dateModified": "2023-07-31T18:09:32.456Z",
+            "datePublished": "2021-09-07T16:35:58.000Z",
+            "height": "1349",
+            "uploadDate": "2021-09-07T16:35:58.000Z",
+            "url": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-superJumbo.jpg",
+            "width": "2048"
+          },
+          {
+            "@id": "nyt://image/da490150-a644-5eb3-a71a-0d8f24b573b0#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-mediumSquareAt3X.jpg",
+            "creditText": "Julia Gartland for The New York Times. Food Stylist: Barrett Washburne.",
+            "dateModified": "2023-07-31T18:09:32.456Z",
+            "datePublished": "2021-09-07T16:35:58.000Z",
+            "height": "1798",
+            "uploadDate": "2021-09-07T16:35:58.000Z",
+            "url": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-mediumSquareAt3X.jpg",
+            "width": "1797"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-videoSixteenByNineJumbo1600.jpg",
+        "uploadDate": "2024-07-23T19:26:00.000Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000009588478/cold-noodles-with-tomatoes.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-09-02T00:00:00.000Z",
+      "dateModified": "2024-07-23T20:27:10.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MH"
+          },
+          "reviewBody": "Agree with other users that this maybe needs a savoury note like dashi, but otherwise incredible and versatile dish for hot Aussie summers.",
+          "datePublished": "2024-11-10T05:17:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suzanne"
+          },
+          "reviewBody": "So good, I think this is the eight time I've made this dish this summer. I increased the dijon and sesame oil as recommended by others.  To add protein and because it is perfect in this dish, add tofu. I find it best to add it after all the broth ingredients have been stirred into the tomatoes. I use a 1/2 package of extra firm tofu (8 oz), cubed. I keep a pitcher of cold water in the fridge so I didn't have to mess with the chipped ice.",
+          "datePublished": "2024-09-12T22:55:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "helen"
+          },
+          "reviewBody": "1/4ed the recipe and made the perfect single bowl. Add cucumber",
+          "datePublished": "2024-09-01T20:57:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jill Lesser"
+          },
+          "reviewBody": "I have made this many times.  Fabulous\nInstead of water I use dashi broth.  Adds an extra dimension that I think the dish needs.",
+          "datePublished": "2024-08-22T20:25:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michelle"
+          },
+          "reviewBody": "This is a great recipe. Excellent as written, but very flexible if you want a different vibe with the same light and delicious flavour profile. Today, for instance, I wanted to pre-make some desk lunches for the coming week. Since cold soup/ice cubes don't travel well, I simply made the tomatoes and sauce as written (adding in a couple of mini cucumbers because 'tis the season) and served over quinoa for protein. Have fun with this one and do it your way - you won't be disappointed!",
+          "datePublished": "2024-08-21T01:16:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gloria R"
+          },
+          "reviewBody": "I cut the recipe in half (as there were only two of us eating), but given others' notes on the mild flavors, that resulted in me using the full amount of all the ingredients in step 3 except for the sugar and water. I also added a half pound of poached shrimp to give it a little protein.  It was fantastic.  My husband loved it as well.  Great summer week-night meal!  I also cooked the noodles ahead of time and put them in the fridge, so it was also quick to make.",
+          "datePublished": "2024-08-20T02:05:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jing G"
+          },
+          "reviewBody": "Good exactly as written. Didn’t find the broth too light unlike other reviewers, though the tomatoes we used were perfectly in season so that probably helped!",
+          "datePublished": "2024-08-15T18:52:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kaona19"
+          },
+          "reviewBody": "such a beautiful dish with summer sungolds and heirloom tomatoes! i topped it with jammy eggs and shiso (perilla) leaves; a perfectly simple & refreshing meal. curious if using beef broth instead of the filtered water—like some other korean cold noodle dishes—would enhance or detract from the dish since the flavors are already delicate! may try next time.",
+          "datePublished": "2024-08-15T04:00:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diane Moore"
+          },
+          "reviewBody": "Loved this so much. I was dubious about the ice (I just used it straight without crushing) and am now a convert. It stayed perfectly chilled while eating and the last was melted by the time I finished.",
+          "datePublished": "2024-08-09T05:35:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "HLM"
+          },
+          "reviewBody": "Made with cucumbers instead of radishes because that's what I had. No ice, less water, kept popping it briefly in the freezer to chill. Delightful, and perfect for this hot night. Thank you, Eric Kim!",
+          "datePublished": "2024-08-01T00:15:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandy C"
+          },
+          "reviewBody": "the soup reminds me of mul naengmyeon which is a tangy korean chilled buckwheat or arrow root noodle soup.  In other words, if you like gazpacho this soup is for you.  You can even remove the noodles for a pure chilled tomato soup.  For a more substantial meal though, add the noods.  Great flavors, this is my summer no cook meal.   You can add julienned cucumbers and carrots if you like.  This can be a vegetarian or vegan meal, I added tofu for protein.",
+          "datePublished": "2024-07-23T00:45:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane Schmoe"
+          },
+          "reviewBody": "How would this be without all the water? Should I cut back on the seasonings?",
+          "datePublished": "2024-07-20T18:13:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "Very refreshing and easy",
+          "datePublished": "2024-07-20T13:20:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "asawyman"
+          },
+          "reviewBody": "Absolutely spectacular. And simple. I can’t believe how good this is. For some reason I couldn’t wrap my head around the ice deal, so I just refrigerated it. Still. Absolutely spectacular. I can’t think of anything I would add or subtract. So glad I got to eat this dish. My life is complete.",
+          "datePublished": "2024-07-20T03:27:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "matthew"
+          },
+          "reviewBody": "I used a full lb box of capellini to avoid leaving 2oz in my pantry for the next year, and after reading the other comments, decided to up all the other ingredients except for the water. I doubled the radishes and onions (and next time may triple them). Wonderful and easy dish. I will definitely make again. So easy and refreshing as well.",
+          "datePublished": "2024-07-19T16:55:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "A perfect way to battle the end of season overload of tomatoes. I have made this twice now, used grocery store asian wheat noodles, skipped the ice cubes, cold water rinse was enough to cool noodles, halved the indicated water for a more intense broth. Added julienned cucumbers. Absolutely delicious. Having a hard time keeping myself from eating it every night!",
+          "datePublished": "2021-09-14T19:19:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lauren"
+          },
+          "reviewBody": "Dear Hive Mind,  Do we think we could increase the water by 3/4 cup and chill the broth ahead of time (before adding noodles) instead of adding ice before serving? the prospect of ice shards (and breaking out the blender to crush ice) doesn't appeal to me.",
+          "datePublished": "2021-09-10T15:42:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LK"
+          },
+          "reviewBody": "Why filtered water?",
+          "datePublished": "2021-09-11T15:34:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eva"
+          },
+          "reviewBody": "I found the broth too mild for me so doubled mustard, soy, garlic etc. after rinsing the noodles, I just spread out the cooked noodles on a sheet tray and put in fridge for 15 minutes. I didn't have radish or scallion so I used finely shredded iceberg lettuce, some pickled onions and finely diced cucumber.  I think next time I will crush some of the cherry tomatoes to extract some more flavor and let them sit longer than 10 minutes.  I think adding some cooked protein would work. Very adaptable",
+          "datePublished": "2021-09-11T22:28:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J"
+          },
+          "reviewBody": "Delicious! I made this more like a salad - I skipped the water. Also doubled the sesame oil, garlic, and dijon at the recommendation of other reviewers and was glad I did. Also increased the sesame seeds, radishes and scallions. Decreased the vinegar, sugar and salt - less than half of recipe instructions. Finally - I used shirataki noodles as I had them on hand; was a great choice (a rice noodle effect) but I also look forward to using wheat noodles next time as called for.",
+          "datePublished": "2021-09-15T18:12:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sandra"
+          },
+          "reviewBody": "Just made this and mid meal felt the urgent need to come here and rave about it! Super easy and super quick to make! I used angel hair pasta and only added a smidge more soy sauce and vinegar but it was PERFECT I DIED. This is the dish you will win Timmy C over with Eric!",
+          "datePublished": "2021-09-14T09:02:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy Holland"
+          },
+          "reviewBody": "I'll be skipping the ice anyway because I'll be packing the noodles and broth separately to work and storing them in the fridge for four hours before I mix and eat them.",
+          "datePublished": "2021-09-10T17:16:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KL"
+          },
+          "reviewBody": "9/18/21 - portioned for one. 6oz tomatoes, 2 scallions, 2oz radishes, 2.5oz soba, 1/4t salt for the tomatoes. Sauce 4t rice vinegar, 2t soy, 1/8 sugar, 1 smaaaaalllll garlic clove, 1/6t Dijon, 1/6t sesame oil. 1/4c water. Cut toms in serving bowl. Measure water; hold in freezer. Sauce, into toms, toss lightly. Freezer water, mandolin radishes, scallions; freezer. When noodles are cool/cold add to freezer bowl. Really decent. Filling. Protein possible but shrimp, poached chicken only.",
+          "datePublished": "2021-09-19T02:23:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Austin"
+          },
+          "reviewBody": "This is a nice base for a refreshing, healthy dish. The broth needed help to reach its potential, though. I made the addition of a finely minced chunk of ginger and Serrano pepper along with generous lime zest. Once all ingredients were combined, I poured boiling water over them and let the broth sit and reach room temp before moving it to the fridge.  This allowed for just enough cooking to occur for flavors to start to release and meld. The result, as my friends will attest, was terrific.",
+          "datePublished": "2022-08-04T16:02:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NK"
+          },
+          "reviewBody": "Loved the idea behind this dish, but wanted to make it better for a cold day. I made the following adjustments:\n\n-heated 6 cups water and added 1 tbsp powdered dashi\n-Added all the other broth ingredients (e.g. soy sauce, vinegar, etc. at 2x ratio)\n-Added 2 handfuls of baby spinach to the broth\n\nFor assembly, in each bowl with broth we added:\n-Cooked soba noodles because we had it.\n-Added tomatoes\n-Added extra firm tofu cut into 1/2 inch cubes",
+          "datePublished": "2021-09-19T14:50:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kit K"
+          },
+          "reviewBody": "Followed the suggestions to double the garlic and Dijon, and am glad I did.  I also added about 6 or 7oz of cubed extra firm tofu to give this some protein.  It was really great, and I’ll definitely make it again.",
+          "datePublished": "2022-07-30T05:56:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "laurpix"
+          },
+          "reviewBody": "The tomatoes are amazing in this dish and pair so well with the noodles. My only complaint is that without the tomatoes the broth is not stand alone so you need a tomato in every bite.",
+          "datePublished": "2021-09-11T23:59:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bret"
+          },
+          "reviewBody": "With minor substitutions for the toppings (e.g., cucumber and carrot for radish), made as directed. Trust the process! The broth is the right amount of water, and the ice is key. Don’t worry about shards, they dissipate quickly when they hit the noodles, even rinsed with cold water. Added some pan fried tofu with furikake to boost protein. This gets through a lot of summer staples you might be swimming in. Great recipe!",
+          "datePublished": "2022-08-04T23:48:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne"
+          },
+          "reviewBody": "somyeon is very readily used in Korea since it is very easy to cook. If you would not mind venturing out, for hot noodle soup, we use Dashi broth (dried anchovy and kelp). You can add fermented kimchi to have a little kick or you can garnish with Julienned zucchini saute with salt.",
+          "datePublished": "2021-09-11T23:52:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christy"
+          },
+          "reviewBody": "This was good, and just as pretty as the picture! I was looking for something different to do with the tomatoes from my garden, and this fit the bill perfectly. What a great hot day dinner this would be when you don't want to heat up the kitchen. I made it faithfully except I omitted the sugar. I used dried soba noodles.",
+          "datePublished": "2021-09-12T01:58:13.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1022543-cold-noodles-with-tomatoes",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Eric Kim"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "Halved cherry tomatoes provide a strong flavor foundation for this cold noodle dish that’s at once savory like gazpacho and refreshingly satiating like naengmyeon, the chilled Korean noodle soup. Inspired, too, by oi naengguk, a hydrating cold cucumber soup, this dish leans into the wonders of ripe tomatoes and lets you taste them as they are: raw and juicy. Julienned cucumber would taste wonderful here, as would supple poached shrimp or halved hard-boiled eggs.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Cold Noodles With Tomatoes",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/da490150-a644-5eb3-a71a-0d8f24b573b0#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-07-31T18:09:32.456Z",
+          "datePublished": "2021-09-07T16:35:58.000Z",
+          "height": "901",
+          "representativeOfPage": true,
+          "uploadDate": "2021-09-07T16:35:58.000Z",
+          "url": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/da490150-a644-5eb3-a71a-0d8f24b573b0#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-superJumbo.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-07-31T18:09:32.456Z",
+          "datePublished": "2021-09-07T16:35:58.000Z",
+          "height": "1349",
+          "representativeOfPage": true,
+          "uploadDate": "2021-09-07T16:35:58.000Z",
+          "url": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/da490150-a644-5eb3-a71a-0d8f24b573b0#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-mediumSquareAt3X.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-07-31T18:09:32.456Z",
+          "datePublished": "2021-09-07T16:35:58.000Z",
+          "height": "1798",
+          "representativeOfPage": true,
+          "uploadDate": "2021-09-07T16:35:58.000Z",
+          "url": "https://static01.nyt.com/images/2021/09/07/dining/EK-cold-noodles-tomatoes/EK-cold-noodles-tomatoes-mediumSquareAt3X.jpg",
+          "width": "1797"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022543-cold-noodles-with-tomatoes"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:31:30.234Z",
+  "scraping_status": "scraped"
+}

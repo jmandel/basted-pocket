@@ -1,0 +1,509 @@
+{
+  "id": "79c54f9c5730dde0",
+  "original_url": "https://cooking.nytimes.com/recipes/1023809-squash-and-spinach-salad-with-sesame-vinaigrette",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1023809-squash-and-spinach-salad-with-sesame-vinaigrette",
+  "fetched_title": "Squash and Spinach Salad With Sesame Vinaigrette Recipe",
+  "main_text_content": "This vibrant squash salad can stand on its own as a main salad or as a side to accompany all sorts of roasted meats or fish Kabocha squash can be cooked with its skin on, and a simple roast results in supersweet, creamy flesh The triple-sesame vinaigrette combines sesame seeds for crunch, tahini for smooth texture and toasted sesame oil for rich, nutty flavor",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1023787-kale-and-squash-salad-with-almond-butter-vinaigrette\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"A dark gray plate holds kale and squash salad with almond butter vinaigrette. A wooden-handled fork is placed on the plate.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2023/01/03/multimedia/as-kale-and-squash-salad-1-e8b7/as-kale-and-squash-salad-1-e8b7-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2023/01/03/multimedia/as-kale-and-squash-salad-1-e8b7/as-kale-and-squash-salad-1-e8b7-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2023/01/03/multimedia/as-kale-and-squash-salad-1-e8b7/as-kale-and-squash-salad-1-e8b7-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2023/01/03/multimedia/as-kale-and-squash-salad-1-e8b7/as-kale-and-squash-salad-1-e8b7-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2023/01/03/multimedia/as-kale-and-squash-salad-1-e8b7/as-kale-and-squash-salad-1-e8b7-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2023/01/03/multimedia/as-kale-and-squash-salad-1-e8b7/as-kale-and-squash-salad-1-e8b7-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2023/01/03/multimedia/as-kale-and-squash-salad-1-e8b7/as-kale-and-squash-salad-1-e8b7-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2023/01/03/multimedia/as-kale-and-squash-salad-1-e8b7/as-kale-and-squash-salad-1-e8b7-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Kale and Squash Salad With Almond-Butter Vinaigrette</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Ali Slagle</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/03/21/multimedia/kc-squash-and-spinach-salad-wkcl/kc-squash-and-spinach-salad-wkcl-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/79c54f9c5730dde0/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/87ff1506-cac5-5fe0-945b-35efcba27cbd",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1023809-squash-and-spinach-salad-with-sesame-vinaigrette",
+        "@type": "WebPage",
+        "name": "Squash and Spinach Salad With Sesame Vinaigrette"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023809-squash-and-spinach-salad-with-sesame-vinaigrette",
+      "name": "Squash and Spinach Salad With Sesame Vinaigrette",
+      "description": "This vibrant squash salad can stand on its own as a main salad or as a side to accompany all sorts of roasted meats or fish. Kabocha squash can be cooked with its skin on, and a simple roast results in supersweet, creamy flesh. The triple-sesame vinaigrette combines sesame seeds for crunch, tahini for smooth texture and toasted sesame oil for rich, nutty flavor. Equally tasty warm or at room temperature, this salad is super adaptable. (Delicata or acorn squash also have edible skins and are great alternatives.) It makes a terrific lunch, with the addition of beans or soft-boiled eggs for extra protein.",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/39d3fdcf-77ad-565a-8e55-5187853e7a07#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/21/multimedia/kc-squash-and-spinach-salad-wkcl/kc-squash-and-spinach-salad-wkcl-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-03-28T14:43:23.660Z",
+          "datePublished": "2023-03-20T16:41:35.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-03-20T16:41:35.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/21/multimedia/kc-squash-and-spinach-salad-wkcl/kc-squash-and-spinach-salad-wkcl-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/39d3fdcf-77ad-565a-8e55-5187853e7a07#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/21/multimedia/kc-squash-and-spinach-salad-wkcl/kc-squash-and-spinach-salad-wkcl-superJumbo.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-03-28T14:43:23.660Z",
+          "datePublished": "2023-03-20T16:41:35.000Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2023-03-20T16:41:35.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/21/multimedia/kc-squash-and-spinach-salad-wkcl/kc-squash-and-spinach-salad-wkcl-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/39d3fdcf-77ad-565a-8e55-5187853e7a07#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/21/multimedia/kc-squash-and-spinach-salad-wkcl/kc-squash-and-spinach-salad-wkcl-mediumSquareAt3X.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-03-28T14:43:23.660Z",
+          "datePublished": "2023-03-20T16:41:35.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-03-20T16:41:35.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/21/multimedia/kc-squash-and-spinach-salad-wkcl/kc-squash-and-spinach-salad-wkcl-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, lunch, weeknight, appetizer, main course, side dish",
+      "keywords": "healthy, vegan, salad, sesame oil, sesame seed, spinach, squash, tahini",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 425
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 351,
+        "unsaturatedFatContent": "23 grams",
+        "carbohydrateContent": "25 grams",
+        "cholesterolContent": null,
+        "fatContent": "28 grams",
+        "fiberContent": "6 grams",
+        "proteinContent": "6 grams",
+        "saturatedFatContent": "4 grams",
+        "sodiumContent": "724 milligrams",
+        "sugarContent": "6 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 pounds kabocha squash, halved, seeded and cut into 1-inch-thick wedges then 2-inch-long pieces",
+        "6 tablespoons extra-virgin olive oil",
+        "Kosher salt (such as Diamond Crystal) and pepper",
+        "2 tablespoons white sesame seeds ",
+        "2 tablespoons tahini",
+        "2 tablespoons lemon juice",
+        "1 teaspoon toasted sesame oil",
+        "1/2 teaspoon low-sodium soy sauce",
+        "1/2 teaspoon minced garlic",
+        "5 ounces baby spinach",
+        "1/4 cup chopped scallions"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 450 degrees. On a large sheet pan, combine squash and 2 tablespoons of the oil; season with salt and pepper. Toss to evenly coat, then arrange squash in a single layer, cut-sides down. Roast until golden and tender, flipping squash halfway through, 25 minutes. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, in a small nonstick skillet, toast sesame seeds over medium-low, stirring frequently, until deep golden, about 5 minutes. Transfer half the toasted seeds to a medium bowl, then transfer the remainder to a small bowl to reserve for garnish. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To the medium bowl, add tahini, lemon juice, sesame oil, soy sauce, garlic and 1 tablespoon of water. While whisking constantly, slowly drizzle in the remaining 1/4 cup oil until smooth; season with salt and pepper. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large bowl, toss spinach with 3 tablespoons of the dressing; divide among plates. Divide roasted squash on top and drizzle with some of the remaining dressing. Top each salad with some of the scallions and reserved sesame seeds."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-04-01T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jaime"
+          },
+          "reviewBody": "I’d recommend adding around 1-1.5 teaspoons of maple syrup to the dressing to counter the bitterness of the tahini and bring it together with the squash. I mixed in a teriyaki baked tofu to make it a fuller meal and it was delicious.",
+          "datePublished": "2025-05-15T01:12:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anna Stambo"
+          },
+          "reviewBody": "Didn't add the rest of the olive oil to the dressing, added quinoa + cashews + mint + cilantro- great!",
+          "datePublished": "2025-01-07T23:57:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ally"
+          },
+          "reviewBody": "Lovely fall-winter salad.  We have used delicate and butternut and sweet potatoes as a sub for the kobucha when necessary, and they all work great with the dressing.",
+          "datePublished": "2024-11-16T23:44:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JKL"
+          },
+          "reviewBody": "Once again, where is all the salt coming from in your recipes?",
+          "datePublished": "2024-11-09T01:33:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ululani"
+          },
+          "reviewBody": "I didn’t enjoy this. I thought the dressing was bland and heavy. I wouldn’t make this again.",
+          "datePublished": "2024-10-31T04:19:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Penelope"
+          },
+          "reviewBody": "In 3 years of cooking NYT recipes, this is the first that was actually completed in the time allotted!  it is deliecious.  We used delicata squash.  I would add walnuts and pomegranates to future cookings for color and crunch.  For protein, I think cooked shrimp would work.",
+          "datePublished": "2024-10-28T00:13:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Morgan"
+          },
+          "reviewBody": "Very good recipe! Would personally add grilled chicken next time for that extra bite.",
+          "datePublished": "2024-10-26T22:20:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AK"
+          },
+          "reviewBody": "Dressing was too bitter.",
+          "datePublished": "2024-10-24T21:55:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Name Suzanne H."
+          },
+          "reviewBody": "This fed two of us, plus some leftover, using 1 lb. Kabocha squash and some teriyaki tofu for extra protein. Will make again.",
+          "datePublished": "2024-10-23T01:15:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cynthia"
+          },
+          "reviewBody": "Seemed like it would be a great marriage of flavors, but IMO needed a touch of sweetness to the dressing, plus the variety of squash — even  in Dallas — was hard to find. Acorn squash was so-so.",
+          "datePublished": "2024-10-22T00:02:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tamara"
+          },
+          "reviewBody": "I added chickpeas and seasoned air fryer tofu to make it a main dish. It was delicious!",
+          "datePublished": "2024-10-21T20:17:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ken S"
+          },
+          "reviewBody": "Is squash roasted with or without skin?",
+          "datePublished": "2024-10-20T16:48:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Judith"
+          },
+          "reviewBody": "Shari, I thought the same thing.  I used a little less than half of the oil.  I figured that sesame oil and tahini have the flavor, the oil doesn't.\nOtherwise, very good way to use winter squash.",
+          "datePublished": "2024-10-18T02:14:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PZ"
+          },
+          "reviewBody": "I made this with butternut squash, which worked well. I tossed the squash with olive oil in a plastic bag instead of on the baking sheet, which was easier and meant it was coated evenly. The dressing was really salty so I didn't salt the squash before baking and it turned out ok. I dressed the squash and spinach separately before serving.  Instead of scallions, I used pecans and dried cranberries.",
+          "datePublished": "2024-10-18T01:40:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Posy Ge"
+          },
+          "reviewBody": "If you avoid kabocha because they’re hard to cut, put the whole thing in the microwave for 3 min. That makes it really easy to slice or cube. And, don’t bother peeling it, the skin is soft and doesn’t affect the flavor.\nBTW, grocery stores often sell kabocha before they are fully ripe. They may look beautifully green, but, a ripe kabocha is grey green with yellow and orange swaths.",
+          "datePublished": "2024-10-17T22:23:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jacques"
+          },
+          "reviewBody": "Really enjoyed this. Could not find Kabocha squash anywhere, so substituted with Acorn Squash, which was excellent. Served it with a soft boiled egg as a main course, and it was a big hit. Will definitely make this again.",
+          "datePublished": "2023-03-26T01:08:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jess Bee"
+          },
+          "reviewBody": "Fantastic recipe. I used this salad as foundation for a layered grain bowl: quinoa, cooked spinach, roasted acorn squash, crispy baked tofu, and chickpeas, topped with the sesame dressing and garnishes. I added extra lemon, and next time would top with soft herbs, parsley or cilantro and perhaps a little mint.",
+          "datePublished": "2023-03-29T23:58:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gerry"
+          },
+          "reviewBody": "Carol - hard skin squash frequently defeat me too. I find if I cut in half, place face down and  roast for about 10 minutes I can then slice and put back in the oven to finish roasting. Bit fiddly to do but beats losing a finger.",
+          "datePublished": "2023-03-26T18:32:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jess Bee"
+          },
+          "reviewBody": "Morton's kosher salt is denser and saltier than Diamond Crystal - it also takes longer to dissolve so it's harder to taste for saltiness as you go. Generally figure half the amount of Morton's ks versus the recipe amount in anything that specifies Diamond Crystal ks (and generally, in most recipes using ks that do not specify brand). When no specific amount is given, use a very light hand, land give the Morton's additional time to dissolve to taste before you add more.",
+          "datePublished": "2023-04-02T15:17:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kim"
+          },
+          "reviewBody": "If it is difficult for you to cut raw squash, use Delicata. It is small, easy to handle, thinner skin, holds its shape well when roasted, and is super delicious skin and all!",
+          "datePublished": "2023-04-03T16:06:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lance"
+          },
+          "reviewBody": "Tasty, light yet substantial, and perfect for the winter-spring crossover time, this recipe is splendid.\n\nIt’s flexible, too: due to my fridge inventory, I used arugula instead of spinach, and a mix of butternut squash and celery root in place of the Kabocha squash.\n\nI also took a cue from reviewer Jacques, serving it with a runny fried egg.  Excellent weekend lunch.",
+          "datePublished": "2023-03-26T17:25:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shari"
+          },
+          "reviewBody": "I found the dressing much too fatty, between the tahini, sesame oil and olive oil it was just too much.",
+          "datePublished": "2023-04-28T16:39:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ginnie Thomas"
+          },
+          "reviewBody": "Another great tasting squash (skin and all) to use for this recipe is honey nut- looks like a mini butternut squash but even more flavorful & sweet. Easy to prep, too.",
+          "datePublished": "2024-01-06T18:02:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jin"
+          },
+          "reviewBody": "For hard to cut squash, try microwave the whole thing for 4-5 minutes. Maybe poke a hole to prevent from exploding. After microwaving. It is so easy to cut.",
+          "datePublished": "2024-04-14T20:51:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tim Brown"
+          },
+          "reviewBody": "Delicious and easy.....but I thought the dressing could be improved with a touch more acidity-a tbsp of lemon juice or rice wine vinegar: an additional color would also help the presentation, perhaps roasted red pepper.",
+          "datePublished": "2023-03-28T20:18:38.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1023809-squash-and-spinach-salad-with-sesame-vinaigrette",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "This vibrant squash salad can stand on its own as a main salad or as a side to accompany all sorts of roasted meats or fish. Kabocha squash can be cooked with its skin on, and a simple roast results in supersweet, creamy flesh. The triple-sesame vinaigrette combines sesame seeds for crunch, tahini for smooth texture and toasted sesame oil for rich, nutty flavor. Equally tasty warm or at room temperature, this salad is super adaptable. (Delicata or acorn squash also have edible skins and are great alternatives.) It makes a terrific lunch, with the addition of beans or soft-boiled eggs for extra protein.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Squash and Spinach Salad With Sesame Vinaigrette",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/39d3fdcf-77ad-565a-8e55-5187853e7a07#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/21/multimedia/kc-squash-and-spinach-salad-wkcl/kc-squash-and-spinach-salad-wkcl-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-03-28T14:43:23.660Z",
+          "datePublished": "2023-03-20T16:41:35.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-03-20T16:41:35.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/21/multimedia/kc-squash-and-spinach-salad-wkcl/kc-squash-and-spinach-salad-wkcl-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/39d3fdcf-77ad-565a-8e55-5187853e7a07#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/21/multimedia/kc-squash-and-spinach-salad-wkcl/kc-squash-and-spinach-salad-wkcl-superJumbo.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-03-28T14:43:23.660Z",
+          "datePublished": "2023-03-20T16:41:35.000Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2023-03-20T16:41:35.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/21/multimedia/kc-squash-and-spinach-salad-wkcl/kc-squash-and-spinach-salad-wkcl-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/39d3fdcf-77ad-565a-8e55-5187853e7a07#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/21/multimedia/kc-squash-and-spinach-salad-wkcl/kc-squash-and-spinach-salad-wkcl-mediumSquareAt3X.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-03-28T14:43:23.660Z",
+          "datePublished": "2023-03-20T16:41:35.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-03-20T16:41:35.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/21/multimedia/kc-squash-and-spinach-salad-wkcl/kc-squash-and-spinach-salad-wkcl-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023809-squash-and-spinach-salad-with-sesame-vinaigrette"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:05:34.522Z",
+  "scraping_status": "scraped"
+}

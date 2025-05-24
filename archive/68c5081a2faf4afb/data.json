@@ -1,0 +1,583 @@
+{
+  "id": "68c5081a2faf4afb",
+  "original_url": "https://cooking.nytimes.com/recipes/1025924-tahini-apple-tart",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025924-tahini-apple-tart",
+  "fetched_title": "Tahini Apple Tart Recipe",
+  "main_text_content": "If you’re someone who loves a dessert packed with fruit and texture, this apple tart is made for you The double dose of sesame is used in both the crust and filling, giving a nutty, earthy pop against the natural sweetness of the apples They get tossed in ground cardamom for a wonderfully sweet, warm scent",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1018055-salted-tahini-chocolate-chip-cookies\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/03/10/multimedia/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/03/10/multimedia/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/03/10/multimedia/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/03/10/multimedia/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/03/10/multimedia/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/03/10/multimedia/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/03/10/multimedia/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/03/10/multimedia/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj/DO-Salted-Tahini-Chocolate-chip-Cookies-bzvj-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Salted Tahini Chocolate Chip Cookies</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Julia Moskin</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/09/13/multimedia/AB-Apple-and-Tahini-Tart/Sheet-Pan-Chicken-with-Potatoes-and-Arugula-fkbl-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/68c5081a2faf4afb/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/3fb0410e-e088-5e5e-a10a-d833cab07373",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025924-tahini-apple-tart",
+        "@type": "WebPage",
+        "name": "Tahini Apple Tart"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025924-tahini-apple-tart",
+      "name": "Tahini Apple Tart",
+      "description": "If you’re someone who loves a dessert packed with fruit and texture, this apple tart is made for you. The double dose of sesame is used in both the crust and filling, giving a nutty, earthy pop against the natural sweetness of the apples. They get tossed in ground cardamom for a wonderfully sweet, warm scent. Sesame is used twice: First, it becomes a spreadable paste with tahini, butter, sugar and egg, which becomes almost halva-like when combined with the cardamom-scented apples. Second, sesame seeds (and sugar) get sprinkled along the edges of the tart, making for a strikingly beautiful, textured crust. ",
+      "author": {
+        "@type": "Person",
+        "name": "Andy Baraghani"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/bab84d5f-b76c-59cb-b0a7-5c7e58676976#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/13/multimedia/AB-Apple-and-Tahini-Tart/Sheet-Pan-Chicken-with-Potatoes-and-Arugula-fkbl-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Bryan Gardner for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-09-16T15:47:40.349Z",
+          "datePublished": "2024-09-13T21:09:22.000Z",
+          "height": "900",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-13T21:09:22.000Z",
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/AB-Apple-and-Tahini-Tart/Sheet-Pan-Chicken-with-Potatoes-and-Arugula-fkbl-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/bab84d5f-b76c-59cb-b0a7-5c7e58676976#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/13/multimedia/AB-Apple-and-Tahini-Tart/Sheet-Pan-Chicken-with-Potatoes-and-Arugula-fkbl-googleFourByThree.jpg",
+          "creditText": "Bryan Gardner for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-09-16T15:47:40.349Z",
+          "datePublished": "2024-09-13T21:09:22.000Z",
+          "height": "600",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-13T21:09:22.000Z",
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/AB-Apple-and-Tahini-Tart/Sheet-Pan-Chicken-with-Potatoes-and-Arugula-fkbl-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/bab84d5f-b76c-59cb-b0a7-5c7e58676976#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/13/multimedia/AB-Apple-and-Tahini-Tart/Sheet-Pan-Chicken-with-Potatoes-and-Arugula-fkbl-mediumSquareAt3X.jpg",
+          "creditText": "Bryan Gardner for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-09-16T15:47:40.349Z",
+          "datePublished": "2024-09-13T21:09:22.000Z",
+          "height": "1800",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-13T21:09:22.000Z",
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/AB-Apple-and-Tahini-Tart/Sheet-Pan-Chicken-with-Potatoes-and-Arugula-fkbl-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT40M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT2H10M",
+      "recipeYield": "8 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dessert",
+      "keywords": "apple, cardamom, make-ahead, plan-ahead, sesame seed, tahini, tart, fall, thanksgiving",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 464
+      },
+      "recipeIngredient": [
+        "1 1/2 cups all-purpose flour, plus more as needed ",
+        "1 tablespoon sugar",
+        "1 1/4 teaspoons kosher salt (such as Diamond Crystal)",
+        "3/4 cup/170 grams unsalted butter, cut into small cubes, chilled ",
+        "Ice water, as needed",
+        "1/3 cup tahini",
+        "3 tablespoons sugar ",
+        "3 tablespoons unsalted butter, at room temperature ",
+        "1 large egg",
+        "1/4 teaspoon kosher salt",
+        "2 pounds crisp, tart apples such as Honeycrisp or Pink Lady (about 6 medium apples) ",
+        "1 tablespoon cider vinegar or lemon juice",
+        "3 tablespoons sugar, plus more for sprinkling ",
+        "1 teaspoon ground cardamom",
+        "Heavy cream, for brushing ",
+        "1 to 2 tablespoons white sesame seeds ",
+        "Vanilla ice cream, whipped cream or crème fraîche, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "For the Dough: Whisk together the flour, sugar and salt in a large bowl. Dump in the cold butter and toss until coated in the flour mixture, separating any pieces that stick together. Use your fingers to smush and flatten each piece once."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Drizzle 1/4 cup ice water over the flour mixture. Repeatedly run your fingers through the mixture, as if rummaging through a drawer, until combined. The dough will start out looking dry then become very shaggy. Transfer to a clean work surface and use your palms to knead the dough together, forming a ball with no dry spots. You may need an additional tablespoon or two of ice water to help the dough come together, but even then it will be shaggy, not smooth or shiny."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Wrap the dough with plastic wrap and use your hands to flatten it into a round disc about 1-inch thick. Chill for 2 hours or up to 3 days."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Lightly dust a clean work surface with flour and roll out the dough, turning it to prevent it from sticking between rolls, into a 14-inch round. Gently gather both ends of the dough and transfer to a parchment-lined baking sheet. Refrigerate the dough while you make the sesame spread and apple filling."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "For the sesame spread: Whisk the tahini, sugar, butter, egg and salt together in a medium bowl until  smooth. (You can make the sesame spread 5 days ahead; just bring to room temperature before using, so it spreads easily.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "For the filling: Heat the oven to 375 degrees. Peel, core and thinly slice the apples (see Tip). Toss the apple slices, vinegar, sugar and the cardamom together in a large bowl until the sugar feels like it has dissolved."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Remove the dough from the fridge and plop the sesame spread in the center. Use the back of a spoon to evenly distribute the sesame spread, leaving a 2-inch border. Arrange the apples on top in whatever manner you like. Fold the edges of the dough over the apples to form the crust, then brush the dough with heavy cream and sprinkle with sesame seeds and more sugar."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake on the bottom rack for 40 to 50 minutes, rotating the pan halfway through, until the crust is deeply golden brown and the apples are tender. Let cool for 20 minutes before slicing and serving with the topping of your choice."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-09-16T00:00:00.000Z",
+      "dateModified": "2024-09-16T16:07:23.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Richard"
+          },
+          "reviewBody": "A great idea ruined by the salt. I did exactly as the recipe said (1.25 tsp of Diamond Crystal - thinking to myself as I put it in, \"Woah that's a lot\") - and everybody around the dinner table agreed after the first bite that it was unpleasantly salty. We threw most of it away. Conclusion after later comparison with other galette recipes: yep, far too much salt.",
+          "datePublished": "2025-04-19T16:38:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "abpenn"
+          },
+          "reviewBody": "No need to do the rose, doesn't change the deliciousness. Spring for vanilla ice cream to break it up. Used mandolined apples from farmers market, cross between pink lady and honey crisp.",
+          "datePublished": "2025-01-27T02:37:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Wendy H."
+          },
+          "reviewBody": "Made this yesterday for dessert last night. EXCELLENT! Our three guests raved about it. The crust is really, really good and not that difficult or involved to make. In fact, it makes the dessert, so don’t substitute a different recipe and don’t use a store-bought crust! Followed the recipe to the letter. There was about 1/3 more filling than needed, so we’ll have that with our yogurt for breakfast this morning. Thanks! This is a keeper!",
+          "datePublished": "2025-01-19T14:46:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dan L"
+          },
+          "reviewBody": "Need to be careful on brand of tahini as some are bitter. I used Soon, an Israeli tahini found at Whole Foods and it is delicious. For the crust, I used Pate Sucree, which is a standard sweet crust used in French baking. I also used honey crisp apples so after 50 minutes, the crust was done but apples had a bright crisp flavor, rather than mushy fully cooked apples you find is most apple pie. I used a 9 inch glass pie dish for baking and dropped the dough rolled on parchment paper directly onto the baking dish. I don't think the cardamon flavor was pronounced enough so would add another teaspoon next time. Leftovers were even better the second day.",
+          "datePublished": "2025-01-07T00:28:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MK"
+          },
+          "reviewBody": "My tahini didn't make this bitter but I do wish I could've tasted it more. It seems the type of tahini varies the taste a lot, would be interested to see which brands people used that really imparted a tahini flavor. I felt it a bit lacking, but the galette dough was solid I would re-use that part of the recipe.",
+          "datePublished": "2024-12-29T16:26:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rahel"
+          },
+          "reviewBody": "Made as written and turned out fantastic. What a wonderful flavor. Served with lightly sweetened whipped cream. Pretty sure my family would have eaten a second tart, had it existed. The tart spread a little in the oven and didn't look nearly as pretty as in the picture. And GBBO judges would have criticized the soggy bottom. And still - a really special dessert, can't wait to make again.",
+          "datePublished": "2024-12-26T18:22:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Q"
+          },
+          "reviewBody": "Christmas 2024 HIT!!!!  Used the recipe ingredients as written, but altered techniques.  Made the crust & tahini mixture the day before & put it together & baked it in the afternoon for dinner. Used the crust recipe but used the “foolproof butter crust” technique from ATK  & the crust turned out great.  Grate 4 T of the butter & put it in the freezer.  Combine half the flour, sugar & salt in the food processor with 1 stick of cold butter cut into small pieces until it comes together in a ball, about 30 seconds.  Then, break the ball of dough apart and distribute around the bowl of the food processor.  Pulse in the rest of the flour until just combined.  Turn out into a bowl.   Add the frozen grated butter and toss until butter is coated.  Add 2 T cold water and bring together with a rubber spatula.  Then add another 2 T cold water.  Form into a disc, wrap in plastic wrap & rest in the fridge for at least 2 hours.  Rest at room temperature for 10 minutes before rolling out.  Rolls out like a dream.  Nice & flaky.  Crust is my favorite part of any pie.  I weighed my apples & used 4 honey crisp apples to reach 2lbs.  Sliced thinly & microwaved for a couple minutes to get them started cooking.  Baking time at 375 for 55 minutes.  \nThe flavor combination of the tahini mixture & apples is really good.  I served it with creme fraiche and a caramel sauce made with Sagardoa hard cider from an ATK recipe.  Really fabulous.",
+          "datePublished": "2024-12-26T13:25:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amdeca"
+          },
+          "reviewBody": "Will definitely follow Alba’s recommendations in the comments.  I think we had too many apples as it was like a dome of apples when we put it in the oven.  Would use less apple so that more as in contact with tahini mixture.",
+          "datePublished": "2024-12-25T04:56:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christina"
+          },
+          "reviewBody": "Followed recipe \nBig hit at Thanksgiving",
+          "datePublished": "2024-12-16T00:24:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J.S."
+          },
+          "reviewBody": "As some other bakers noted, 6 apples was way too much. I think 4 would have been just right. For me this tart was very middle of the road. I enjoyed the crust and apples, but would have preferred cinnamon to cardamom and peanut butter to tahini. Would try a different recipe next time I’m craving an apple dessert.",
+          "datePublished": "2024-12-01T19:39:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Q"
+          },
+          "reviewBody": "@Lore Dowell \nNope.  On a parchment lined sheet pan.  It’s a free form tart.",
+          "datePublished": "2024-12-26T13:03:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lore Dowell"
+          },
+          "reviewBody": "So the pie is not baked in a pie dish?",
+          "datePublished": "2024-11-18T03:31:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shawn"
+          },
+          "reviewBody": "Definitely only needs 4 smaller apples or 3 large ones if you're planning to insert the slices in a flower formation. I used a mix of honeycrisp (sweeter) and cosmic crisp (more tart). You may also want to take out the chilled dough for 10 minutes before you're ready to roll it out. And if you have a super basic oven like me where things usually take longer, preheat to 400, drop to 375, and bake for 55-60 minutes.",
+          "datePublished": "2024-11-17T22:10:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ML"
+          },
+          "reviewBody": "I think this is my favorite crust ever! I made it as instructed except using the food processor. \n\nSo crumbly and buttery!",
+          "datePublished": "2024-11-16T02:33:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Birdie"
+          },
+          "reviewBody": "This turned out very good. I used a storebought rolled pie crust and it worked just fine. I only needed four apples to fill it though. I also added a little cinnamon to the apples, since I find cardamom overpowering on its own. The sesame filling did turn out bitter for me, so I'm going to see about sourcing a different brand of tahini. The tub I got was freshly opened. I also had to bake for 15-20 minutes longer. But all in all this was a neat twist on an old favorite and I will make it again.",
+          "datePublished": "2024-11-09T23:47:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "OB"
+          },
+          "reviewBody": "I loved this and would make again for sure. \nAs others have commented, it’s not super sweet. \nI used Fuji apples, medium sized, I packed them in a tight spiral (almost standing them up in the sticky filling) and used about 4.5 apples). In hindsight I suppose I could have made more flat layers to fit in more, but this result was great. \nBaked around 65 minutes to match the golden hue of the photo. Filling was perfect, pastry was on the crunchy side.",
+          "datePublished": "2024-11-04T19:20:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Judy"
+          },
+          "reviewBody": "I used only one tablespoon of sugar in the spread, one tablespoon of sugar in the filling, substituted avocado oil for the butter, and used a purchased frozen pie shell.  It was delicious!  I’m going out to the farmers market to get more apples & make it again.",
+          "datePublished": "2024-09-22T18:27:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cindy"
+          },
+          "reviewBody": "In the TIP section of the recipe, reference is made to the “root end” of the apple.  Obviously, only the tree itself has roots.  The end of the apple being referenced in the recipe is the “blossom end”,  or “calyx”—the dry remains of the flower.",
+          "datePublished": "2024-09-27T22:08:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathleen"
+          },
+          "reviewBody": "Fresh tahini isn't bitter. Get a good brand. Whole Foods 365 is good.",
+          "datePublished": "2024-09-23T18:31:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "marie-claude garneau"
+          },
+          "reviewBody": "Very easy and delicious.  I blitzed the dough in a food processor, which simplified the recipe significantly.  Also, make sure to use firm apples that can handle the cooking, otherwise you're going to get an applesauce tart. A keeper.",
+          "datePublished": "2024-09-22T19:38:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "bb"
+          },
+          "reviewBody": "Loved this. Tastes like a restaurant dessert but was so easy to make. Decidedly not sweet, beautifully spiced. Exactly what I’m looking for in new recipes—something I haven’t seen over and over again. Especially love the sesame crust. Can’t wait to eat it with coffee tomorrow.",
+          "datePublished": "2024-09-23T00:53:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PvB"
+          },
+          "reviewBody": "Avoid Trader Joe's tahini, tends to be quite bitter.",
+          "datePublished": "2024-09-23T23:37:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rachelyvr"
+          },
+          "reviewBody": "@Emily tahini really varries. The best isn’t bitter at all",
+          "datePublished": "2024-09-22T19:10:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Abigail"
+          },
+          "reviewBody": "Not too sweet with a nice sesame linger on the tongue. My guests enjoyed this one with both vanilla and salted caramel ice cream, which really made the desert perfect. I needed to cook mine in the over for 15 minutes longer to get the nice golden brown crust, but it came out looking almost like the picture. Will make again and might try using other nut butters.",
+          "datePublished": "2024-09-22T18:43:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cartie"
+          },
+          "reviewBody": "I thought this was fantastic. Used a denser golden delicious because the honeycrisp I had seemed too light and airy and maybe too sweet. I think they would have been better as my apples did not cook all the way, so I should have covered the entire top with foil and cooked longer. \nI used fresh cardamom from pods and ground with a mortar and pestle. \nSo good, will definitely make again.",
+          "datePublished": "2024-09-23T03:01:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "renee"
+          },
+          "reviewBody": "Can you use almond flour for this? What would that sustiute look like?",
+          "datePublished": "2024-09-28T02:24:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandy"
+          },
+          "reviewBody": "@Cam, if your tahini was bitter it just might be rancid. Once you open container put in fridge.",
+          "datePublished": "2024-09-27T20:26:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cam"
+          },
+          "reviewBody": "I feel like this tart couldn’t decide if it wanted to be sweet or savory, but it was still quite good. I agree that the tahini made this a bit bitter. I think next time I’d try almond butter instead. Crust and apples went fantastic though.",
+          "datePublished": "2024-09-22T20:37:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aubrey"
+          },
+          "reviewBody": "I made this and it was wonderful. The only problem was structure. 6 apples was wayyy too many to fold into a tart. I’m going to try again in a proper pie dish",
+          "datePublished": "2024-09-27T13:37:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diane"
+          },
+          "reviewBody": "Made this today. A keeper. Nice crust - sesame seeds add flavour. Sliced apples about 1/8\". Next time will do thinner to optimize how I can arrange the slices - and I plan to sprinkle sugar on the apples as well as the crust. Bake time is listed as 40-50. I started with 40 - not golden. Added 10 min to take it to 50. Still not great. Kept going up by 5 minutes and took it out at 70 minutes. Now notice that summary at the top says the \"cook time\" is one hour, 30 minutes = 90???",
+          "datePublished": "2024-09-26T23:08:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily"
+          },
+          "reviewBody": "Kind of weird? Really good crust, really good apple, but the tahini comes out a bit too bitter I think. Recipe has potential but something is just a little off.",
+          "datePublished": "2024-09-22T15:18:37.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025924-tahini-apple-tart",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Andy Baraghani"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "If you’re someone who loves a dessert packed with fruit and texture, this apple tart is made for you. The double dose of sesame is used in both the crust and filling, giving a nutty, earthy pop against the natural sweetness of the apples. They get tossed in ground cardamom for a wonderfully sweet, warm scent. Sesame is used twice: First, it becomes a spreadable paste with tahini, butter, sugar and egg, which becomes almost halva-like when combined with the cardamom-scented apples. Second, sesame seeds (and sugar) get sprinkled along the edges of the tart, making for a strikingly beautiful, textured crust. ",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Tahini Apple Tart",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/bab84d5f-b76c-59cb-b0a7-5c7e58676976#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/13/multimedia/AB-Apple-and-Tahini-Tart/Sheet-Pan-Chicken-with-Potatoes-and-Arugula-fkbl-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Bryan Gardner for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-09-16T15:47:40.349Z",
+          "datePublished": "2024-09-13T21:09:22.000Z",
+          "height": "900",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-13T21:09:22.000Z",
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/AB-Apple-and-Tahini-Tart/Sheet-Pan-Chicken-with-Potatoes-and-Arugula-fkbl-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/bab84d5f-b76c-59cb-b0a7-5c7e58676976#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/13/multimedia/AB-Apple-and-Tahini-Tart/Sheet-Pan-Chicken-with-Potatoes-and-Arugula-fkbl-googleFourByThree.jpg",
+          "creditText": "Bryan Gardner for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-09-16T15:47:40.349Z",
+          "datePublished": "2024-09-13T21:09:22.000Z",
+          "height": "600",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-13T21:09:22.000Z",
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/AB-Apple-and-Tahini-Tart/Sheet-Pan-Chicken-with-Potatoes-and-Arugula-fkbl-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/bab84d5f-b76c-59cb-b0a7-5c7e58676976#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/13/multimedia/AB-Apple-and-Tahini-Tart/Sheet-Pan-Chicken-with-Potatoes-and-Arugula-fkbl-mediumSquareAt3X.jpg",
+          "creditText": "Bryan Gardner for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-09-16T15:47:40.349Z",
+          "datePublished": "2024-09-13T21:09:22.000Z",
+          "height": "1800",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-13T21:09:22.000Z",
+          "url": "https://static01.nyt.com/images/2024/09/13/multimedia/AB-Apple-and-Tahini-Tart/Sheet-Pan-Chicken-with-Potatoes-and-Arugula-fkbl-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025924-tahini-apple-tart"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:07:09.232Z",
+  "scraping_status": "scraped"
+}

@@ -1,0 +1,553 @@
+{
+  "id": "b2235ffbc2c9f7b8",
+  "original_url": "https://cooking.nytimes.com/recipes/1025658-curry-tomatoes-and-chickpeas-with-cucumber-yogurt",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025658-curry-tomatoes-and-chickpeas-with-cucumber-yogurt",
+  "fetched_title": "Curry Tomatoes and Chickpeas With Cucumber Yogurt Recipe",
+  "main_text_content": "Much like the combination of chana masala and raita, this dish’s appeal lies in the contrasts: soft and warm chickpeas and tomatoes rest atop a layer of cool and crunchy cucumber yogurt The cooking happens quickly; sauté small tomatoes and chickpeas just until softened and fragrant with spices, then pile the mixture onto a swirl of yogurt that’s zesty with chopped cucumbers, garlic, lemon and herbs The yogurt will loosen under the topping’s warmth and weight, so serve with rice, focaccia or flatbread such as roti or doubles to sop up the lushness.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026512-sheet-pan-malai-chicken-and-potatoes\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/04/29/multimedia/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw/ZI-Roasted-Malai-Chicken-and-Potatoes-zpkw-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Sheet-Pan Malai Chicken and Potatoes </p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Zaynab Issa</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/07/09/multimedia/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/b2235ffbc2c9f7b8/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/f08ce9ea-e81a-54ff-976f-a4d749f6a913",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025658-curry-tomatoes-and-chickpeas-with-cucumber-yogurt",
+        "@type": "WebPage",
+        "name": "Curry Tomatoes and Chickpeas With Cucumber Yogurt"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025658-curry-tomatoes-and-chickpeas-with-cucumber-yogurt",
+      "name": "Curry Tomatoes and Chickpeas With Cucumber Yogurt",
+      "description": "Much like the combination of chana masala and raita, this dish’s appeal lies in the contrasts: soft and warm chickpeas and tomatoes rest atop a layer of cool and crunchy cucumber yogurt. The cooking happens quickly; sauté small tomatoes and chickpeas just until softened and fragrant with spices, then pile the mixture onto a swirl of yogurt that’s zesty with chopped cucumbers, garlic, lemon and herbs. The yogurt will loosen under the topping’s warmth and weight, so serve with rice, focaccia or flatbread such as roti or doubles to sop up the lushness.",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/5b740cf3-cb88-53b8-95fc-a6e2692174e8#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/09/multimedia/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-07-09T14:32:04.134Z",
+          "datePublished": "2024-07-09T14:32:04.134Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-09T14:32:04.134Z",
+          "url": "https://static01.nyt.com/images/2024/07/09/multimedia/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/5b740cf3-cb88-53b8-95fc-a6e2692174e8#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/09/multimedia/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc-googleFourByThree.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-07-09T14:32:04.134Z",
+          "datePublished": "2024-07-09T14:32:04.134Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-09T14:32:04.134Z",
+          "url": "https://static01.nyt.com/images/2024/07/09/multimedia/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/5b740cf3-cb88-53b8-95fc-a6e2692174e8#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/09/multimedia/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc-mediumSquareAt3X.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-07-09T14:32:04.134Z",
+          "datePublished": "2024-07-09T14:32:04.134Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-09T14:32:04.134Z",
+          "url": "https://static01.nyt.com/images/2024/07/09/multimedia/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT15M",
+      "totalTime": "PT25M",
+      "recipeYield": "3 to 4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, quick, weeknight, beans, main course",
+      "keywords": "cherry tomato, chickpea, cucumber, stovetop, tomato, yogurt, summer, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 2062
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 395,
+        "unsaturatedFatContent": "16 grams",
+        "carbohydrateContent": "39 grams",
+        "cholesterolContent": null,
+        "fatContent": "23 grams",
+        "fiberContent": "10 grams",
+        "proteinContent": "14 grams",
+        "saturatedFatContent": "4 grams",
+        "sodiumContent": "917 milligrams",
+        "sugarContent": "13 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1½ cups full-fat Greek or Indian yogurt",
+        "3 Persian or mini seedless cucumbers, finely chopped",
+        "1/4 cup basil or mint leaves, finely chopped, plus more for serving",
+        "1 garlic clove, finely grated",
+        "1 lemon",
+        "Salt and black pepper",
+        "1/4 cup extra-virgin olive oil",
+        "1 pint cherry tomatoes",
+        "1 (15-ounce) can chickpeas, drained, rinsed and shaken dry",
+        "1½ teaspoons curry powder (see Tip)",
+        "3 tablespoons raw (or roasted and salted pistachios), coarsely chopped (optional)",
+        "Rice, focaccia or flatbread such as roti or doubles, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a medium bowl, stir together the yogurt, cucumbers, basil, garlic and zest of half the lemon. Season to taste with salt and pepper. Refrigerate until Step 3. Cut the lemon into wedges for serving."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large skillet, heat the oil over medium until shimmering. Add the tomatoes and cook, shaking occasionally, until browned in spots and starting to burst, 3 to 5 minutes. Add the chickpeas and curry powder and season with salt and pepper. Cook, stirring occasionally, until fragrant and most of the tomatoes have burst, 2 to 4 minutes. Turn off the heat and season to taste with salt and pepper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "On a platter or in a wide shallow bowl, spread the yogurt into an even layer. Top with the tomatoes and chickpeas, followed by more basil leaves and the pistachios, if using. Serve with the lemon wedges for squeezing over. Serve right away, with rice or a flatbread."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-07-09T00:00:00.000Z",
+      "dateModified": "2024-07-10T14:11:35.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hilary"
+          },
+          "reviewBody": "I feel like this was missing something! maybe more curry powder or frying the chickpeas longer so it was quite crispy. Just taste a bit flat to me. I added a lot of extra lemon and salt to compensate, but it still wasn't a winner",
+          "datePublished": "2025-05-20T16:46:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joseph Smith"
+          },
+          "reviewBody": "Sooo good",
+          "datePublished": "2025-05-11T03:51:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JP"
+          },
+          "reviewBody": "Incredibly delicious and easy to make",
+          "datePublished": "2025-05-13T21:08:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ewan"
+          },
+          "reviewBody": "I was unexpectedly disappointed by this recipe.  The mildly flavoured yoghurt mix swamped the tomato /  chickpea curry. I like a small side or accompaniment based on yogurt, maybe with garlic or other flavours, but elevating it as here led to a fairly bland sea of the stuff.",
+          "datePublished": "2025-05-10T21:32:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amanda"
+          },
+          "reviewBody": "So easy, so healthy, so unique. This also scored 100/100 on the Zoe app for. me.",
+          "datePublished": "2025-05-09T15:59:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RutaM"
+          },
+          "reviewBody": "I didn’t have pistachios so I skipped nuts entirely. I let the tomatoes cook a little longer so they began to break down and I have zero regrets! Definitely recommend making a little extra salad of about half a pint of additional cherry tomatoes, a handful of chopped flat-leaf parsley, and about a tsp of olive oil. After arranging the cooked chickpeas and tomatoes on the cold cucumber/yogurt mixture, top it off with the “salad.” Extra EXTRA bonus flavor blast? Sprinkle a handful of pomegranate seeds and squeeze a lemon wedge on the final dish. Truly gorgeous colors and nuanced flavor profile.",
+          "datePublished": "2025-05-08T03:07:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Matt"
+          },
+          "reviewBody": "I love the recipes, but the print format has got to improve. I select \"print with no picture\" and it still has a huge space for the picture and pushes the recipe to 2-3 pages unless I condense it to 60%. I hope that's an easy fix?",
+          "datePublished": "2025-04-30T16:29:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KAH"
+          },
+          "reviewBody": "Delicious and sooooo easy. My only note is that if you plan on eating this as a dinner (versus a shared app), then it’s actually only 2 servings. That’s fine! Just double the recipe and definitely make a side of rice.",
+          "datePublished": "2025-04-23T02:02:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nelp"
+          },
+          "reviewBody": "amazing flavor for the minimal effort, but a little additional zhoosh goes a long way - harissa, garlic, chilis",
+          "datePublished": "2025-04-21T17:08:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "nick"
+          },
+          "reviewBody": "Really good as-is. But…..\n\n…I’ve also made a variation on it with some allspice in the chickpeas (in addition to curry powder). Chopped mint with yogurt. And caramelized red onion on top. Served on top of bulgur. Threw in some toasted blanched almond slivers. \n\nBoth versions good with a red chili flake garnish, if you like gentle heat.  \n\nI enjoyed the amended version, but you really can’t go wrong! The recipe is flexible!",
+          "datePublished": "2025-04-15T20:28:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary Fran B."
+          },
+          "reviewBody": "Added shrimp for extra protein & only had cilantro so used that & totally worked. Would double it - soooo good and not huge amount of leftover. Had with a small naan but may try white rice next time-\nAnd there definitely w be a next time! Loved it!",
+          "datePublished": "2025-04-02T18:48:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hannah"
+          },
+          "reviewBody": "A delight.  2 cucumbers was enough, 3 would have been too many.  I doubled the curry powder as others suggested.",
+          "datePublished": "2025-04-02T15:56:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amie"
+          },
+          "reviewBody": "Terrific recipe!",
+          "datePublished": "2025-04-02T00:06:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deb S"
+          },
+          "reviewBody": "Delicious. Really enjoyed the subtle flavors here.",
+          "datePublished": "2025-03-31T23:29:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Throw Random Fresh Herbs In"
+          },
+          "reviewBody": "my crazy toddler absolutely devoured this. neutralized the raw garlic with a touch of apple cider vinegar and the tomatoes cooled it down also. served with fried egg on top. also didn't have yogurt so subbed with ricotta and it was amazing. The crisp cucumbers are just so fun",
+          "datePublished": "2025-03-31T22:56:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mn"
+          },
+          "reviewBody": "5 out of 5 would make again. Quick, easy, versatile, flavorful! \n\nMade it with what I had on hand; a chopped beefsteak tomato, added in an Anaheim pepper I charred and peeled because I like some heat, doubled the curry powder ‘cause I’m heavy handed, used a regular ol’ cucumber that I partially peeled and cored, served with white basmati rice cooked with a tbsp of coconut oil. Served with Harrisa because I like the flavor. New favorite! (I know, I know, so many changes…)",
+          "datePublished": "2024-07-12T01:11:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David"
+          },
+          "reviewBody": "A shake more turmeric and cumin and...heaven",
+          "datePublished": "2024-07-11T17:37:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "VJ"
+          },
+          "reviewBody": "I would serve it over cumin rice ( or rice cooked with some vegetables like green peas) and serve the yogurt on the side.",
+          "datePublished": "2024-07-14T09:42:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jake Bialos"
+          },
+          "reviewBody": "My favorite curry powder is called “Vandouvan Curry” and it is available from Kalustyan’s spices in NYC via mail order.  It is from an area of India that was influenced by French cuisine and it has a flavor that says curry , but, with a “Merçi bookoo” accent.  This looks perfect for summer!",
+          "datePublished": "2024-07-15T13:47:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erin"
+          },
+          "reviewBody": "I admit I had my doubts about this one- chickpeas over yogurt?? But it turned out to be a delicious and filling “dips for dinner” type meal. I didn’t have pistachios on hand so I used pepitas which worked fine. I trimmed the oil down to 3T but could have gone down to 2. Approved by my 5-year-old, so we’ll be making it again!",
+          "datePublished": "2024-07-18T23:29:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Butterscotch"
+          },
+          "reviewBody": "Pistachios have a pretty neutral flavor and are small. Walnuts have a much stronger flavor (especially if they've been toasted) and are much bigger. When it comes to neutrality and small size, I think the best substitute for pistachios would be pine nuts or slivered almonds, as the article that accompanies the recipe suggests.",
+          "datePublished": "2024-07-12T17:44:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mj"
+          },
+          "reviewBody": "Used 2 TBS oil",
+          "datePublished": "2024-07-11T23:26:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lydia"
+          },
+          "reviewBody": "Rebecca, I assume they mean to use a mesh strainer to drain and rinse the chickpeas, and then to keep shaking until the liquid is all gone and they’re mostly dry. Since chickpeas are kinda squashable, it wouldn’t do well to towel them off, and it probably would be overkill to lay them out on a towel to dry. Just get the rinsing water mostly gone.",
+          "datePublished": "2024-07-11T19:18:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "GaleC"
+          },
+          "reviewBody": "Delicious light, summer meal! Used about 2 Tbsp of oil in a cast iron skillet and it was enough. Zest the entire lemon.",
+          "datePublished": "2024-07-14T23:16:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mardale Bee"
+          },
+          "reviewBody": "Cashews are a good substitute for pistachios in a curry dish, as are peanuts.",
+          "datePublished": "2024-07-22T16:24:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth"
+          },
+          "reviewBody": "Wonderful dish. Will be upping the amount of curry powder next time to give it more kick. I also added some extra lemon zest to yogurt to strengthen the flavor.",
+          "datePublished": "2024-07-12T23:58:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rimbaud1poet"
+          },
+          "reviewBody": "This is fantastic! As suggested, I added a smidge more curry and a tsp of dry harissa. Served with the basil, pistachios, and warm flatbread. Yum!",
+          "datePublished": "2024-07-14T01:26:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nina"
+          },
+          "reviewBody": "I would add the curry powder to the oil so that it blooms, which it won't if added with the tomatoes.",
+          "datePublished": "2024-09-15T00:21:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Buffamazon"
+          },
+          "reviewBody": "Strain them, then shake the colander to get any excess moisture from the chickpeas.",
+          "datePublished": "2024-07-11T19:20:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jess Bee"
+          },
+          "reviewBody": "Don’t be like me - dry your rinsed cherry tomatoes or suffer A TON of olive oil spatter on your stovetop *violin emoji*",
+          "datePublished": "2024-07-24T18:21:25.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025658-curry-tomatoes-and-chickpeas-with-cucumber-yogurt",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "Much like the combination of chana masala and raita, this dish’s appeal lies in the contrasts: soft and warm chickpeas and tomatoes rest atop a layer of cool and crunchy cucumber yogurt. The cooking happens quickly; sauté small tomatoes and chickpeas just until softened and fragrant with spices, then pile the mixture onto a swirl of yogurt that’s zesty with chopped cucumbers, garlic, lemon and herbs. The yogurt will loosen under the topping’s warmth and weight, so serve with rice, focaccia or flatbread such as roti or doubles to sop up the lushness.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Curry Tomatoes and Chickpeas With Cucumber Yogurt",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/5b740cf3-cb88-53b8-95fc-a6e2692174e8#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/09/multimedia/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-07-09T14:32:04.134Z",
+          "datePublished": "2024-07-09T14:32:04.134Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-09T14:32:04.134Z",
+          "url": "https://static01.nyt.com/images/2024/07/09/multimedia/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/5b740cf3-cb88-53b8-95fc-a6e2692174e8#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/09/multimedia/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc-googleFourByThree.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-07-09T14:32:04.134Z",
+          "datePublished": "2024-07-09T14:32:04.134Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-09T14:32:04.134Z",
+          "url": "https://static01.nyt.com/images/2024/07/09/multimedia/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/5b740cf3-cb88-53b8-95fc-a6e2692174e8#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/09/multimedia/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc-mediumSquareAt3X.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-07-09T14:32:04.134Z",
+          "datePublished": "2024-07-09T14:32:04.134Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-09T14:32:04.134Z",
+          "url": "https://static01.nyt.com/images/2024/07/09/multimedia/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc/AS-curried-chickpeas-with-tomatoes-and-yogurtrex-ktvc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025658-curry-tomatoes-and-chickpeas-with-cucumber-yogurt"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:09:43.731Z",
+  "scraping_status": "scraped"
+}

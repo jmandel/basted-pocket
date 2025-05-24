@@ -1,0 +1,506 @@
+{
+  "id": "356cf9101683bfc4",
+  "original_url": "https://cooking.nytimes.com/recipes/1023123-tofu-and-tomato-egg-drop-soup",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1023123-tofu-and-tomato-egg-drop-soup",
+  "fetched_title": "Tofu and Tomato Egg Drop Soup Recipe",
+  "main_text_content": "This soup offers the same sweet, tangy and savory flavor profile of the beloved Chinese dish stir-fried tomato and egg Like the stir-fry, this tomato soup is on the sweet side, with sharpness from the untraditional addition of ketchup There are several ways to drop an egg: Beating the eggs lightly will result in both white and yellow swirls, while running a chopstick or wooden spoon through the egg as it cooks will produce long, willowy strands",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1016637-scrambled-tofu-with-tomatoes-scallions-and-soy-sauce\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2014/07/09/dining/09JPBITTMAN4/09JPBITTMAN4-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2014/07/09/dining/09JPBITTMAN4/09JPBITTMAN4-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2014/07/09/dining/09JPBITTMAN4/09JPBITTMAN4-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2014/07/09/dining/09JPBITTMAN4/09JPBITTMAN4-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2014/07/09/dining/09JPBITTMAN4/09JPBITTMAN4-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2014/07/09/dining/09JPBITTMAN4/09JPBITTMAN4-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Scrambled Tofu With Tomatoes, Scallions and Soy Sauce</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Mark Bittman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2022/04/11/dining/hm-tomato-egg-drop-soup/merlin_204847800_46b0805f-07e1-4106-9191-7e050945f0e2-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/356cf9101683bfc4/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/1c40156b-0826-55d0-8d38-5db320e33c9d",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1023123-tofu-and-tomato-egg-drop-soup",
+        "@type": "WebPage",
+        "name": "Tofu and Tomato Egg Drop Soup"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023123-tofu-and-tomato-egg-drop-soup",
+      "name": "Tofu and Tomato Egg Drop Soup",
+      "description": "This soup offers the same sweet, tangy and savory flavor profile of the beloved Chinese dish stir-fried tomato and egg. Like the stir-fry, this tomato soup is on the sweet side, with sharpness from the untraditional addition of ketchup. There are several ways to drop an egg: Beating the eggs lightly will result in both white and yellow swirls, while running a chopstick or wooden spoon through the egg as it cooks will produce long, willowy strands. This recipe calls for dropping the egg into the hot soup and leaving it, which will give you chunks. A tip: If you have a liquid measuring cup with a spout, beat the egg in that, as it will give you more control when pouring the egg into the hot liquid. If you want the soup spicy, top with chile oil or chile crisp.",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/86c7234c-65bd-51e3-90d6-2ff5f5b4261e#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/04/11/dining/hm-tomato-egg-drop-soup/merlin_204847800_46b0805f-07e1-4106-9191-7e050945f0e2-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Mark Weinberg for The New York Times. Food Styling by Barrett Washburne.",
+          "dateModified": "2022-04-12T16:32:03.758Z",
+          "datePublished": "2022-04-12T16:32:03.758Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-04-12T16:32:03.758Z",
+          "url": "https://static01.nyt.com/images/2022/04/11/dining/hm-tomato-egg-drop-soup/merlin_204847800_46b0805f-07e1-4106-9191-7e050945f0e2-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/86c7234c-65bd-51e3-90d6-2ff5f5b4261e#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/04/11/dining/hm-tomato-egg-drop-soup/merlin_204847800_46b0805f-07e1-4106-9191-7e050945f0e2-superJumbo.jpg",
+          "creditText": "Mark Weinberg for The New York Times. Food Styling by Barrett Washburne.",
+          "dateModified": "2022-04-12T16:32:03.758Z",
+          "datePublished": "2022-04-12T16:32:03.758Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2022-04-12T16:32:03.758Z",
+          "url": "https://static01.nyt.com/images/2022/04/11/dining/hm-tomato-egg-drop-soup/merlin_204847800_46b0805f-07e1-4106-9191-7e050945f0e2-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/86c7234c-65bd-51e3-90d6-2ff5f5b4261e#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/04/11/dining/hm-tomato-egg-drop-soup/merlin_204847800_46b0805f-07e1-4106-9191-7e050945f0e2-mediumSquareAt3X.jpg",
+          "creditText": "Mark Weinberg for The New York Times. Food Styling by Barrett Washburne.",
+          "dateModified": "2022-04-12T16:32:03.758Z",
+          "datePublished": "2022-04-12T16:32:03.758Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-04-12T16:32:03.758Z",
+          "url": "https://static01.nyt.com/images/2022/04/11/dining/hm-tomato-egg-drop-soup/merlin_204847800_46b0805f-07e1-4106-9191-7e050945f0e2-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT15M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, lunch, quick, weeknight, main course",
+      "keywords": "egg, soup, tofu, tomato, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 804
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 355,
+        "unsaturatedFatContent": "14 grams",
+        "carbohydrateContent": "28 grams",
+        "cholesterolContent": null,
+        "fatContent": "19 grams",
+        "fiberContent": "7 grams",
+        "proteinContent": "26 grams",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "1252 milligrams",
+        "sugarContent": "16 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 tablespoon neutral oil",
+        "4 scallions, white and green parts separated, finely sliced",
+        "1 (1-inch) piece ginger, peeled and finely chopped",
+        "1 (28-ounce) can crushed tomatoes",
+        "3 cups vegetable stock",
+        "1 (14-ounce) package firm tofu, drained, patted dry and cut into ½-inch cubes",
+        "2 tablespoons ketchup",
+        "1 1/2 teaspoons kosher salt (Diamond Crystal)",
+        "2 tablespoons granulated or brown sugar",
+        "2 teaspoons sesame oil",
+        "3 large eggs, well beaten"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place a large pot or Dutch oven over medium-high heat. When hot, add neutral oil and heat for 15 seconds. Add the scallion whites and ginger, and sizzle for 30 seconds until fragrant."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour in the crushed tomatoes and vegetable stock, and stir to combine. Cover, reduce heat to medium and cook for 5 to 6 minutes to allow the flavors to meld."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the tofu, ketchup, salt, sugar and sesame oil, and stir to combine. Taste and add more sugar and salt if needed. It should be slightly sweet, savory and a little tart. Increase heat to medium-high."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When it comes to the boil, very slowly trickle the beaten eggs into the soup, moving in a zigzag or circular motion, distributing it evenly all over the surface of the soup. You can leave the egg to set without stirring, and this will give you larger chunks of egg. If you like longer strands, run a chopstick or wooden spoon slowly through the eggs as they set. The eggs should only take 30 to 60 seconds to cook. Turn off the heat immediately."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Ladle soup into bowls and top with the green parts of the scallion. Eat immediately."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2022-04-11T00:00:00.000Z",
+      "dateModified": "2022-04-12T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "I’ve made this soup several times. I use 5 eggs instead of 3 to make it thicker and I add some black pepper. I usually double the recipe so we get more than one meal and serve it with hearty whole grain bread.",
+          "datePublished": "2025-01-31T03:50:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JLS"
+          },
+          "reviewBody": "Hetty is a soup magician - I make several of her soups on rotation, and am delighted to add this to the mix.  Making this soup as written really lets the ginger shine - it's so utterly delicious!  I made it last night, had it for dinner, and then again for breakfast & dinner today.  It's gone!",
+          "datePublished": "2025-01-08T00:28:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sophie"
+          },
+          "reviewBody": "Easy and yummy recipe. Added some rice to go with it for some more body and definitely add chile oil crisp to help finish it off.",
+          "datePublished": "2024-12-04T14:45:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carolyn"
+          },
+          "reviewBody": "My husband said this tastes like the adult version of spaghetti O’s. A nice easy, comfy Sunday night dinner",
+          "datePublished": "2024-11-17T23:25:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diana"
+          },
+          "reviewBody": "I like the tofu in the soup!",
+          "datePublished": "2024-11-13T01:36:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "daniel"
+          },
+          "reviewBody": "Another 5 star recipe! I used tomato paste instead of ketchup, because, gross. 😂 Outstanding flavor with few ingredients. A true week night meal with dynamic flavor.",
+          "datePublished": "2024-11-09T15:26:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Frank"
+          },
+          "reviewBody": "Made it a 3rd time. I wasn't getting sweet and savory. I added rice vinegar. I also made a double recipe of half crushed and diced. The diced tomato added a bit of texture. Love it either way a recipe that allows and deserves a riff.",
+          "datePublished": "2024-11-06T23:38:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ben"
+          },
+          "reviewBody": "Used a bunch of late season tomatoes instead of canned and halved the sugar.  Doubled everything else. My wife is from China and said this was her style of comfort food. Five stars for us.",
+          "datePublished": "2024-10-13T18:03:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "OliviaMcC"
+          },
+          "reviewBody": "I added gochujang and used soft tofu just as a preference, but this was amazing and SO comforting. I ate two bowls!",
+          "datePublished": "2024-10-12T23:39:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Frank"
+          },
+          "reviewBody": "I thought it was great. A generous amount of scallion greens adds nice texture. I seasoned my bowl with chili oil and black pepper. It's a hit. I will add this to my soup rotation.",
+          "datePublished": "2024-10-07T22:52:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AVK"
+          },
+          "reviewBody": "This is really great, but I highly recommend using soft tofu instead of firm. It's much better to eat in a soup. Break it into large chunks when adding to the pot, then as you stir and cook it will break up into smaller, bite-sized pieces.",
+          "datePublished": "2024-10-05T17:59:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Metin"
+          },
+          "reviewBody": "Had no ginger, so used a jalapeño. Added an extra warmth. Excellent flavoured recipe.",
+          "datePublished": "2024-10-03T13:10:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chloe"
+          },
+          "reviewBody": "We used a very mild gochujang in place of ketchup and it was very good. Like all Hetty McKinnon recipes—deceptively simple but so tasty. And only 20 minutes.",
+          "datePublished": "2024-09-29T23:29:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BDFL"
+          },
+          "reviewBody": "More info: I chose the longer strands of eggs, so ran a chopstick through the eggs as I was pouring them in. With all my changes, I did not use any added salt or sugar, and we both felt the dish tasted fantastic, especially with the cilantro which we both love!",
+          "datePublished": "2024-09-04T13:14:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BDFL"
+          },
+          "reviewBody": "MIND BLOWN! Pressed extra firm tofu, cubed and marinated in 2T low sodium tamari and 1T rice vinegar. 2 shallots in place of scallions and 2t ginger powder. Avocado oil. 1t gochugaru and 2T miso in place of ketchup; deglazed with a bit Shaoxing wine. 1T each oyster sauce and fish sauce in tomato broth. Finished with 2T toasted sesame oil and 1T of mirin to add that hint of sweetness. Topped with fresh cilantro and basil. The 2 of us almost ate it all in one sitting. Holy cow crazy amazing!",
+          "datePublished": "2024-09-03T02:13:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dagmar"
+          },
+          "reviewBody": "Gochujang and chili crisp? You’re killing the flavor of every single other ingredient! This recipe is perfect as written, simple and delicious. I would urge you to try it as written before throwing the kitchen sink into it. You can always embellish next time.",
+          "datePublished": "2024-06-14T03:04:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FrankW`"
+          },
+          "reviewBody": "I used tangy Gochujang date sauce skipping the sugar and ketchup.  This was satisfyingly delicious!",
+          "datePublished": "2022-04-15T01:02:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kg"
+          },
+          "reviewBody": "Four stars, but if you add some soy sauce and chili crisp at the end it is worthy of five stars.",
+          "datePublished": "2022-04-17T17:14:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen S"
+          },
+          "reviewBody": "This soup is so delicate and subtle and delicious that it would be a travesty to change it at all.  The tofu and the egg are perfect in that complex broth.\n\nWhy so many people find it necessary to ignore what is written but incorporate what they imagine would be better is beyond me.  At least make the recipe one time as presented.  Then do what you like.",
+          "datePublished": "2023-04-09T03:23:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Catherine"
+          },
+          "reviewBody": "Absolutely thrilled to have found this recipe. There’s an authentic Chinese restaurant in my town that serves a tomato soup with house made noodles. It doesn’t have the eggs or tofu, but otherwise tastes exactly like this. It’s my favorite thing in the menu. \n\nI used a shallot in place of the scallion, because that’s what I had, and the vegetable Better Than Bouillon diluted to my taste. It looked thin in the pot, but it was actually perfect!",
+          "datePublished": "2022-05-18T23:40:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MaggieO"
+          },
+          "reviewBody": "Loved this recipe. (5 stars).  I made a couple of changes that I think worked better for me & my husband.  I used 2 Tablespoon of gochujang sauce (no ketchup),  and only 1 Tablespoon of Brown Sugar instead of 2.  The soup was not too thin, and as soon as I added the eggs, it was perfect consistency.   I did grate some black pepper on top just before serving too.  YUM!",
+          "datePublished": "2022-08-31T18:25:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jimmi"
+          },
+          "reviewBody": "Great recipe, I’ve made it 3 times with all ingredients listed.  I used a Better Than Bullion beef base for the stock which really added a nice compliment to the tomato tanginess.  I also added a bit Chili Crunch to each serving which, with the ginger, really nailed it.",
+          "datePublished": "2022-05-13T17:01:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jimbo"
+          },
+          "reviewBody": "Good recipe.  Love the broth flavor; well balanced.  A couple of notes: (1) while I love tofu, I'm not sure it adds anything to this soup (except for protein).  Next time, I'll try it with mushrooms sautéd in butter and sherry. Note 2: I love the ginger in this recipe, though I'm not sure about the mouth feel.  Next time, I'll try using the pureed ginger (you buy it in a tube) to give it the same ginger flavor, minus the ginger crunch.",
+          "datePublished": "2022-06-10T20:56:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nick W."
+          },
+          "reviewBody": "Totally delicious, but the first time I made it I found that the eggs made it a bit custardy and no longer very soupish. The second time I used two eggs instead of three and the texture was perfect.",
+          "datePublished": "2022-10-19T14:11:10.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1023123-tofu-and-tomato-egg-drop-soup",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022,
+      "description": "This soup offers the same sweet, tangy and savory flavor profile of the beloved Chinese dish stir-fried tomato and egg. Like the stir-fry, this tomato soup is on the sweet side, with sharpness from the untraditional addition of ketchup. There are several ways to drop an egg: Beating the eggs lightly will result in both white and yellow swirls, while running a chopstick or wooden spoon through the egg as it cooks will produce long, willowy strands. This recipe calls for dropping the egg into the hot soup and leaving it, which will give you chunks. A tip: If you have a liquid measuring cup with a spout, beat the egg in that, as it will give you more control when pouring the egg into the hot liquid. If you want the soup spicy, top with chile oil or chile crisp.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Tofu and Tomato Egg Drop Soup",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/86c7234c-65bd-51e3-90d6-2ff5f5b4261e#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/04/11/dining/hm-tomato-egg-drop-soup/merlin_204847800_46b0805f-07e1-4106-9191-7e050945f0e2-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Mark Weinberg for The New York Times. Food Styling by Barrett Washburne.",
+          "dateModified": "2022-04-12T16:32:03.758Z",
+          "datePublished": "2022-04-12T16:32:03.758Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-04-12T16:32:03.758Z",
+          "url": "https://static01.nyt.com/images/2022/04/11/dining/hm-tomato-egg-drop-soup/merlin_204847800_46b0805f-07e1-4106-9191-7e050945f0e2-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/86c7234c-65bd-51e3-90d6-2ff5f5b4261e#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/04/11/dining/hm-tomato-egg-drop-soup/merlin_204847800_46b0805f-07e1-4106-9191-7e050945f0e2-superJumbo.jpg",
+          "creditText": "Mark Weinberg for The New York Times. Food Styling by Barrett Washburne.",
+          "dateModified": "2022-04-12T16:32:03.758Z",
+          "datePublished": "2022-04-12T16:32:03.758Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2022-04-12T16:32:03.758Z",
+          "url": "https://static01.nyt.com/images/2022/04/11/dining/hm-tomato-egg-drop-soup/merlin_204847800_46b0805f-07e1-4106-9191-7e050945f0e2-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/86c7234c-65bd-51e3-90d6-2ff5f5b4261e#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/04/11/dining/hm-tomato-egg-drop-soup/merlin_204847800_46b0805f-07e1-4106-9191-7e050945f0e2-mediumSquareAt3X.jpg",
+          "creditText": "Mark Weinberg for The New York Times. Food Styling by Barrett Washburne.",
+          "dateModified": "2022-04-12T16:32:03.758Z",
+          "datePublished": "2022-04-12T16:32:03.758Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-04-12T16:32:03.758Z",
+          "url": "https://static01.nyt.com/images/2022/04/11/dining/hm-tomato-egg-drop-soup/merlin_204847800_46b0805f-07e1-4106-9191-7e050945f0e2-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023123-tofu-and-tomato-egg-drop-soup"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:06:01.838Z",
+  "scraping_status": "scraped"
+}

@@ -1,0 +1,581 @@
+{
+  "id": "d78911b5150d8138",
+  "original_url": "https://cooking.nytimes.com/recipes/1025552-pearl-couscous-salad-with-shrimp-and-feta",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025552-pearl-couscous-salad-with-shrimp-and-feta",
+  "fetched_title": "Pearl Couscous Salad With Shrimp and Feta Recipe",
+  "main_text_content": "Bright lemon, mint and cilantro offset creamy feta and sweet corn in this crisp and crunchy salad Pearl couscous, also known as Israeli couscous, is made of small pearls of chewy pasta that are a great base for so many flavors Make sure to thoroughly drain the couscous after cooking to avoid a soggy salad",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1021085-one-pan-shrimp-and-pearl-couscous-with-harissa\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2020/05/15/dining/ssp-shrimp-couscous/merlin_171962982_012b262e-704b-4dd5-910d-6b5bd3f51a21-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2020/05/15/dining/ssp-shrimp-couscous/merlin_171962982_012b262e-704b-4dd5-910d-6b5bd3f51a21-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2020/05/15/dining/ssp-shrimp-couscous/merlin_171962982_012b262e-704b-4dd5-910d-6b5bd3f51a21-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2020/05/15/dining/ssp-shrimp-couscous/merlin_171962982_012b262e-704b-4dd5-910d-6b5bd3f51a21-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2020/05/15/dining/ssp-shrimp-couscous/merlin_171962982_012b262e-704b-4dd5-910d-6b5bd3f51a21-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2020/05/15/dining/ssp-shrimp-couscous/merlin_171962982_012b262e-704b-4dd5-910d-6b5bd3f51a21-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2020/05/15/dining/ssp-shrimp-couscous/merlin_171962982_012b262e-704b-4dd5-910d-6b5bd3f51a21-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2020/05/15/dining/ssp-shrimp-couscous/merlin_171962982_012b262e-704b-4dd5-910d-6b5bd3f51a21-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">One-Pan Shrimp and Pearl Couscous With Harissa</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Susan Spungen</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/d78911b5150d8138/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/b0166cce-d74d-55fe-91fb-90887a32d0a6",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025552-pearl-couscous-salad-with-shrimp-and-feta",
+        "@type": "WebPage",
+        "name": "Pearl Couscous Salad With Shrimp and Feta"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025552-pearl-couscous-salad-with-shrimp-and-feta",
+      "name": "Pearl Couscous Salad With Shrimp and Feta",
+      "description": "Bright lemon, mint and cilantro offset creamy feta and sweet corn in this crisp and crunchy salad. Pearl couscous, also known as Israeli couscous, is made of small pearls of chewy pasta that are a great base for so many flavors. Make sure to thoroughly drain the couscous after cooking to avoid a soggy salad. Sautéed shrimp make this into a meal, but feel free to add chopped chicken or your protein of choice. ",
+      "author": {
+        "@type": "Person",
+        "name": "Yossy Arefi"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/fedc1fd8-d807-53d4-bec1-f1a69a1b1f46#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Yossy Arefi.",
+          "dateModified": "2024-07-09T17:48:18.984Z",
+          "datePublished": "2024-07-09T17:48:18.984Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-09T17:48:18.984Z",
+          "url": "https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/fedc1fd8-d807-53d4-bec1-f1a69a1b1f46#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Yossy Arefi.",
+          "dateModified": "2024-07-09T17:48:18.984Z",
+          "datePublished": "2024-07-09T17:48:18.984Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-09T17:48:18.984Z",
+          "url": "https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/fedc1fd8-d807-53d4-bec1-f1a69a1b1f46#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Yossy Arefi.",
+          "dateModified": "2024-07-09T17:48:18.984Z",
+          "datePublished": "2024-07-09T17:48:18.984Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-09T17:48:18.984Z",
+          "url": "https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT30M",
+      "totalTime": "PT45M",
+      "recipeYield": "6 servings ",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, weeknight, seafood, main course",
+      "keywords": "corn, couscous, cucumber, feta, make-ahead, pasta salad, salad, shrimp, stovetop, summer",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 1104
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 323,
+        "unsaturatedFatContent": "9 grams",
+        "carbohydrateContent": "32 grams",
+        "cholesterolContent": null,
+        "fatContent": "13 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "22 grams",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "522 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 pound large shrimp (16 to 25), peeled and deveined, tails on or off ",
+        "Kosher salt (such as Diamond Crystal) and black pepper",
+        "1/4 cup extra-virgin olive oil ",
+        "1 lemon, plus more as needed",
+        "1 cup pearl couscous",
+        "1 teaspoon minced garlic",
+        "3 Persian cucumbers, diced (about 2 cups)",
+        "2 ears corn, kernels cut off of the cob (about 1 cup)",
+        "1/2 cup thinly sliced radishes",
+        "1/2 cup crumbled feta cheese",
+        "1/4 cup thinly sliced cilantro leaves and tender stems, plus more for garnishing",
+        "1/4 cup thinly sliced mint leaves, plus more for garnishing"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Season the shrimp with salt and pepper. In a medium skillet over medium-high, heat 1 tablespoon of the olive oil. Sauté the shrimp until opaque and just cooked through, about 4 minutes. Transfer the shrimp to a plate and zest half the lemon over top (about 1/2 teaspoon or to taste), then juice the lemon into a large bowl, sprinkle about one-fourth of the juice over the shrimp and set the bowl with the remaining juice aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Cook the couscous in a pot of heavily salted water until al dente, according to the package directions. Rinse with cool water and drain well."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the couscous is cooking, make the dressing. In the bowl with the lemon juice, whisk together the remaining 3 tablespoons olive oil, the garlic, 1/2 teaspoon salt and 1/4 teaspoon pepper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the cooked couscous to the bowl with the dressing and toss to combine. Add the cucumbers, corn, radishes, feta, cilantro and mint. Toss to combine. Taste and adjust seasonings by adding more salt, pepper and/or lemon juice as needed."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Top with shrimp and a sprinkling of cilantro and mint. Enjoy immediately or cover and refrigerate for up to 8 hours."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-07-09T00:00:00.000Z",
+      "dateModified": "2024-07-09T20:13:27.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue"
+          },
+          "reviewBody": "I made this for mother's day brunch. Subbed basil for cilantro because that is what I had. Easy and delicious!  My 92 year old mother gave it 5 stars and so do I.",
+          "datePublished": "2025-05-17T12:36:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Queen D"
+          },
+          "reviewBody": "Delicious and fresh dish. Pre prepped for Mother's Day brunch and was absolutely delicious. All of the flavors came together and it was a hit! Will be adding to our summer rotation.",
+          "datePublished": "2025-05-12T01:03:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NG"
+          },
+          "reviewBody": "Really good. Used cooked farro since we had some left over. The shrimp had good flavor, having marinated in the lemon - I also added a pinch of Korean red pepper to the shrimp marinade.",
+          "datePublished": "2025-05-11T12:15:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "GG"
+          },
+          "reviewBody": "This was so good! Hubs loved it. He doesn’t like mint and I don’t like cilantro, so I used thyme and parsley instead. We will be having this again.",
+          "datePublished": "2025-05-10T02:00:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Richard X"
+          },
+          "reviewBody": "Why don't you try it? No need to ask for permission.",
+          "datePublished": "2025-05-10T05:01:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BarbH"
+          },
+          "reviewBody": "I have fresh basil growing but no mint. Good sub?",
+          "datePublished": "2025-05-10T00:54:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Clare"
+          },
+          "reviewBody": "Great recipe for entertaining as you can make it in advance. Followed some others advice and added paprika and pepper flakes to the shrimp before cooking and added some halved cherry tomatoes to the salad. Also, made a vinaigrette with a bit more zing. Was enjoyed by all.\n¼ cup red wine vinegar\n2 tablespoons Dijon mustard, or to taste\n1 clove garlic, minced\n1 teaspoon dried oregano\n½ teaspoon kosher salt\n¼ teaspoon ground black pepper\n½ cup olive oil\n2 tablespoons fresh lemon juice",
+          "datePublished": "2025-05-09T18:15:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Richard X"
+          },
+          "reviewBody": "Tuna salad from the deli is even less effort. Some of us like to cook! To reduce the effort you could purchase frozen shrimp, raw or cooked, and use that. Couscous (or orzo) with shrimp and feta, plus lemon, is a traditional dish which my family enjoys. We will make this again.",
+          "datePublished": "2025-05-09T16:43:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mark F"
+          },
+          "reviewBody": "There are at least four salads I can think of that  are much better than this for a fraction of the effort. I made it as directed and we found it to be okay, but not that great. Probably won’t be making it again.",
+          "datePublished": "2025-05-06T00:00:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenny B."
+          },
+          "reviewBody": "Red onion could be a nice addition. Can sub orzo. Corn is great here.",
+          "datePublished": "2025-05-04T16:36:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "paul"
+          },
+          "reviewBody": "This is very promising but needs work. Didn’t use mint but don’t think that’s the issue. \n\nUse less lemon, or maybe shift to a softer vinaigrette profile, changing herbs away from cilantro.  But avoid mimicking Ina’s orzo shrimp!",
+          "datePublished": "2025-05-01T00:01:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Desiree"
+          },
+          "reviewBody": "I followed the recipe exactly and I must say, this is one of the best salads I’ve ever eaten in my life!  This is going on regular rotation for sure.",
+          "datePublished": "2025-04-30T01:39:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "HCW"
+          },
+          "reviewBody": "No cilantro or radishes, added tomatoes and a sprinkle of Romano. Sautéed the corn briefly after the shrimp came out: raw corn is NOT my friend! Totally delicious — and I get the leftovers for lunch!",
+          "datePublished": "2025-04-26T23:49:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stacy"
+          },
+          "reviewBody": "Made up components in advance and tossed together right before serving - served it cold.  Totally delicious.  I used frozen corn, right out of the bag.",
+          "datePublished": "2025-04-26T23:13:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BJ"
+          },
+          "reviewBody": "I saved this recipe to use even though I am a vegetarian and don't eat shellfish. I can imagine it being delightful with chickpeas or cannellini beans, among other choices.",
+          "datePublished": "2025-04-23T19:33:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suzanne"
+          },
+          "reviewBody": "This looks like it would be a great spring salad that would also be delicious using orzo in place of pearl couscous, and with already cooked shrimp marinated in lemon.",
+          "datePublished": "2025-04-23T15:31:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mónica"
+          },
+          "reviewBody": "Added paprika to the shrimp and tossed in some arugula at the end. Delicious and easy meal!",
+          "datePublished": "2025-04-19T03:44:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KSWinCA"
+          },
+          "reviewBody": "This was a perfect dinner on a 90  degree day, and I already had most of the ingredients on hand. A couple notes: whenever I’ve cooked pearled couscous (sometimes called Israeli couscous), the directions have called for sautéing it first and then adding liquid, only enough liquid to be absorbed fully by the time the couscous is cooked—no draining required. I also eliminated one pan by cooking the couscous in the same pan as the shrimp. Will be happily making this again during the summer.",
+          "datePublished": "2024-07-13T03:39:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris"
+          },
+          "reviewBody": "Fresh, uncooked corn that is cut off the cob is perfect in several NYT recipes - including this one.",
+          "datePublished": "2024-07-15T15:28:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy"
+          },
+          "reviewBody": "Should the corn be cooked or raw?",
+          "datePublished": "2024-07-14T09:34:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carey"
+          },
+          "reviewBody": "This was a really refreshing and summery lunchtime meal. I spiced up the shrimp with garlic and smoked paprika to add a bit more flavor before cooking. I stopped at two cucumbers because adding a third seemed like too much. Be sure to rinse and drain the couscous! I'm not sure how I missed this step in both the instructions and notes, but mine ended up soggy. Also I would say this only makes 6 servings if it's a side dish. I served this as 2, albeit large, portions for lunch.",
+          "datePublished": "2024-07-12T21:50:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristie"
+          },
+          "reviewBody": "To those of you asking about using raw corn, if you have never eaten raw corn cut off of a fresh-picked ear of corn, you are missing out on one of life's delights. As I write this, I am eating the NYT Cooking Spicy Corn and Shishito Salad using raw corn and shishitos I got at the farmer's market last weekend. It is divine.",
+          "datePublished": "2024-07-23T18:08:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katie"
+          },
+          "reviewBody": "This dish was outstanding. We grilled the corn for 15 minutes, then grilled the shrimp (seasoned with salt, pepper, red pepper flakes) while the corn cooled. I sautéed the couscous briefly before simmering and added some chicken boullion to the water. I look forward to making this dish again!",
+          "datePublished": "2024-07-22T02:50:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Park Slope"
+          },
+          "reviewBody": "Nice summer dinner! Agree that it wouldn’t serve six for dinner. I added garlic and hot pepper flakes to the shrimp — too bland otherwise.",
+          "datePublished": "2024-07-13T12:21:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "anne"
+          },
+          "reviewBody": "Really? You don’t cook the corn? Just add it raw?",
+          "datePublished": "2024-07-13T23:21:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "Easy prep that's equally as easy to make ahead and keep in the fridge a few hours so you're not busy when company is over.  Added garlic while the shrimp was cooking and quartered cherry tomatoes to the final salad which we all agreed leveled it up a little.",
+          "datePublished": "2024-07-22T17:21:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris"
+          },
+          "reviewBody": "I made this with bay scallops - 3/4 pound was plenty - and it was just delicious. Proof that not every summer salad dinner requires tomatoes. (We didn’t make it to the farmers market this week.)",
+          "datePublished": "2024-07-14T23:48:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KBinAZ"
+          },
+          "reviewBody": "Question: does the recipe call for raw, uncooked corn? I don't use corn much so wanted to ask for clarification. Thanks.",
+          "datePublished": "2024-07-17T13:12:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dan"
+          },
+          "reviewBody": "Modern sweet corn is bred to stay sweet and tender longer but it still turns drier, starchier, and tougher hour by hour, and day by day after it has been picked. When sweet corn is out of local season frozen kernels make a good substitute. Either way, taste the raw or thawed corn, and steam it briefly on the stove or in the microwave if needed.",
+          "datePublished": "2024-07-19T01:29:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mcp San Diego"
+          },
+          "reviewBody": "All lemons are not the same size and do not produce the same amount of juice. Please NYT tell us how much juice or peel you suggest.",
+          "datePublished": "2024-07-21T16:06:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barry"
+          },
+          "reviewBody": "I didn't have any Persian Cucumbers but I did have English cucumbers, which I substituted. I left off the feta as a mistake, but still, this recipe is a winner.",
+          "datePublished": "2024-07-13T14:10:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Margaret MacKenzie"
+          },
+          "reviewBody": "@Nancy If it’s very fresh and sweet, just cut it right off the cob to add in salads or tomatoes. No need to boil or blanch. Rarely do I cook summer corn, except a quick sit in hot water if I’m serving it on the cob.",
+          "datePublished": "2025-05-09T17:27:36.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025552-pearl-couscous-salad-with-shrimp-and-feta",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yossy Arefi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "Bright lemon, mint and cilantro offset creamy feta and sweet corn in this crisp and crunchy salad. Pearl couscous, also known as Israeli couscous, is made of small pearls of chewy pasta that are a great base for so many flavors. Make sure to thoroughly drain the couscous after cooking to avoid a soggy salad. Sautéed shrimp make this into a meal, but feel free to add chopped chicken or your protein of choice. ",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Pearl Couscous Salad With Shrimp and Feta",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/fedc1fd8-d807-53d4-bec1-f1a69a1b1f46#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Yossy Arefi.",
+          "dateModified": "2024-07-09T17:48:18.984Z",
+          "datePublished": "2024-07-09T17:48:18.984Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-09T17:48:18.984Z",
+          "url": "https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/fedc1fd8-d807-53d4-bec1-f1a69a1b1f46#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Yossy Arefi.",
+          "dateModified": "2024-07-09T17:48:18.984Z",
+          "datePublished": "2024-07-09T17:48:18.984Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-09T17:48:18.984Z",
+          "url": "https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/fedc1fd8-d807-53d4-bec1-f1a69a1b1f46#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Yossy Arefi.",
+          "dateModified": "2024-07-09T17:48:18.984Z",
+          "datePublished": "2024-07-09T17:48:18.984Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-09T17:48:18.984Z",
+          "url": "https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025552-pearl-couscous-salad-with-shrimp-and-feta"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:09:50.848Z",
+  "scraping_status": "scraped"
+}

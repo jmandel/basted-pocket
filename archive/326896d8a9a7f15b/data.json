@@ -1,0 +1,598 @@
+{
+  "id": "326896d8a9a7f15b",
+  "original_url": "https://cooking.nytimes.com/recipes/1020727-chickpea-and-herb-fatteh",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1020727-chickpea-and-herb-fatteh",
+  "fetched_title": "Chickpea and Herb Fatteh Recipe",
+  "main_text_content": "Fatteh is a popular Middle Eastern dish made with stale bread and accompanied by a host of hearty ingredients Serve it for brunch, with eggs, or as a vegetarian main course with cooked seasonal vegetables — simply be sure to plan ahead and soak the chickpeas the night before You can cook the chickpeas and prepare all the toppings in advance, but you&#x27;ll want to assemble the herb paste and toss everything together just before serving to ensure that it all stays green and vibrant, and that the fatteh is the right consistency.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/8024-crispy-chickpeas-with-beef\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2017/04/11/dining/11COOKING-CRISPY-CHICKPEAS/11COOKING-CRISPY-CHICKPEAS-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2017/04/11/dining/11COOKING-CRISPY-CHICKPEAS/11COOKING-CRISPY-CHICKPEAS-blogSmallInline-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2017/04/11/dining/11COOKING-CRISPY-CHICKPEAS/11COOKING-CRISPY-CHICKPEAS-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2017/04/11/dining/11COOKING-CRISPY-CHICKPEAS/11COOKING-CRISPY-CHICKPEAS-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2017/04/11/dining/11COOKING-CRISPY-CHICKPEAS/11COOKING-CRISPY-CHICKPEAS-videoSixteenByNine310-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2017/04/11/dining/11COOKING-CRISPY-CHICKPEAS/11COOKING-CRISPY-CHICKPEAS-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2017/04/11/dining/11COOKING-CRISPY-CHICKPEAS/11COOKING-CRISPY-CHICKPEAS-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2017/04/11/dining/11COOKING-CRISPY-CHICKPEAS/11COOKING-CRISPY-CHICKPEAS-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Crispy Chickpeas With Beef</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Mark Bittman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2020/01/22/dining/22Ottolenghi-A/merlin_166405416_a78dd5b5-60fe-41e2-8ac6-44b684f88215-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/326896d8a9a7f15b/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/b8b29eab-bf18-5158-9684-a6424743e0e0",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1020727-chickpea-and-herb-fatteh",
+        "@type": "WebPage",
+        "name": "Chickpea and Herb Fatteh"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020727-chickpea-and-herb-fatteh",
+      "name": "Chickpea and Herb Fatteh",
+      "description": "Fatteh is a popular Middle Eastern dish made with stale bread and accompanied by a host of hearty ingredients. Serve it for brunch, with eggs, or as a vegetarian main course with cooked seasonal vegetables — simply be sure to plan ahead and soak the chickpeas the night before. You can cook the chickpeas and prepare all the toppings in advance, but you'll want to assemble the herb paste and toss everything together just before serving to ensure that it all stays green and vibrant, and that the fatteh is the right consistency.",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/3a95b352-39cf-5cbe-bb85-2f816eacebfd#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/01/22/dining/22Ottolenghi-A/merlin_166405416_a78dd5b5-60fe-41e2-8ac6-44b684f88215-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-01-17T16:46:07.704Z",
+          "datePublished": "2020-01-17T16:46:07.704Z",
+          "height": "900",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2020-01-17T16:46:07.704Z",
+          "url": "https://static01.nyt.com/images/2020/01/22/dining/22Ottolenghi-A/merlin_166405416_a78dd5b5-60fe-41e2-8ac6-44b684f88215-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3a95b352-39cf-5cbe-bb85-2f816eacebfd#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/01/22/dining/22Ottolenghi-A/merlin_166405416_a78dd5b5-60fe-41e2-8ac6-44b684f88215-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-01-17T16:46:07.704Z",
+          "datePublished": "2020-01-17T16:46:07.704Z",
+          "height": "1365",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2020-01-17T16:46:07.704Z",
+          "url": "https://static01.nyt.com/images/2020/01/22/dining/22Ottolenghi-A/merlin_166405416_a78dd5b5-60fe-41e2-8ac6-44b684f88215-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3a95b352-39cf-5cbe-bb85-2f816eacebfd#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/01/22/dining/22Ottolenghi-A/merlin_166405416_a78dd5b5-60fe-41e2-8ac6-44b684f88215-square640.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-01-17T16:46:07.704Z",
+          "datePublished": "2020-01-17T16:46:07.704Z",
+          "height": "640",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2020-01-17T16:46:07.704Z",
+          "url": "https://static01.nyt.com/images/2020/01/22/dining/22Ottolenghi-A/merlin_166405416_a78dd5b5-60fe-41e2-8ac6-44b684f88215-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT9H30M",
+      "recipeYield": "6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "brunch, dinner, lunch, beans, main course",
+      "keywords": "dried chickpeas, garlic, lemon, pita, tahini, za’atar",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 609
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 502,
+        "unsaturatedFatContent": "23 grams",
+        "carbohydrateContent": "51 grams",
+        "cholesterolContent": null,
+        "fatContent": "28 grams",
+        "fiberContent": "10 grams",
+        "proteinContent": "16 grams",
+        "saturatedFatContent": "4 grams",
+        "sodiumContent": "634 milligrams",
+        "sugarContent": "7 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "12 ounces/350 grams dried chickpeas",
+        "2 1/2 teaspoons baking soda (bicarbonate of soda)",
+        "Kosher salt and black pepper",
+        "1 round white or whole-wheat pita (about 3 1/2 ounces/100 grams), pocket opened up, roughly torn into small 1-inch/2-to-3-centimeter pieces",
+        "5 tablespoons/75 milliliters olive oil",
+        "1 tablespoon za’atar",
+        "3/4 packed cup/30 grams roughly chopped fresh cilantro (coriander) leaves and tender stems",
+        "2/3 packed cup/30 grams roughly chopped fresh parsley leaves and tender stems",
+        "2/3 cup/30 grams roughly chopped fresh chives",
+        "2 1/2 tablespoons fresh lemon juice",
+        "2 garlic cloves, crushed using a garlic press",
+        "1 teaspoon cumin seeds, toasted, then roughly crushed",
+        "1/3 cups/80 grams tahini",
+        "1 1/2 tablespoons fresh lemon juice",
+        "1 garlic clove, crushed using a garlic press",
+        "2 1/2 tablespoons olive oil",
+        "1/2 teaspoon red-pepper flakes",
+        "1/4 teaspoon sweet paprika",
+        "Kosher salt and black pepper"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place the dried chickpeas and 1 1/2 teaspoons baking soda in a large bowl. Top with enough cold water to cover by about 1 inch/3 centimeters, and let soak at room temperature for at least 8 hours or up to overnight."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 375 degrees Fahrenheit/190 degrees Celsius."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Drain the chickpeas well and add them to a large saucepan along with the remaining 1 teaspoon baking soda. Add 6 cups/1 1/2 liters water. Bring to a simmer over medium-high heat, then lower the heat to medium and let cook until chickpeas are soft but retain a slight bite, 30 to 35 minutes. (The cook time can vary greatly depending on your chickpeas, so check them at the 20-minute mark to determine how long you need.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add 1 1/4 teaspoons salt and continue cooking until the chickpeas are supertender, 5 to 10 minutes more. Use a slotted spoon to set aside 2/3 cup/100 grams strained cooked chickpeas. Keep the rest warm on a low heat until ready to serve."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the chickpeas are cooking, prepare the toppings: Toss the pita with 2 tablespoons oil, the za’atar, 1/4 teaspoon salt and a good grind of pepper, and spread out on a parchment-lined baking sheet. Bake until golden and crisp, tossing halfway through, about 12 minutes. Set aside to cool."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the tahini sauce: In a medium bowl, whisk the tahini, lemon juice and garlic with 1/3 cup/70 milliliters water and 1/4 teaspoon salt until smooth and pourable. The tahini sauce will thicken as it sits."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the chile oil: Add the oil and red-pepper flakes to a small frying pan. Heat over medium until gently bubbling and fragrant, about 4 minutes, then add the paprika and remove from heat. Set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When ready to serve, add the reserved 2/3 cup/100 grams chickpeas to a food processor along with the fresh herbs, 2 1/2 tablespoons lemon juice, the garlic, cumin, 1/4 teaspoon salt, a good grind of pepper and the remaining 3 tablespoons oil. Blitz until smooth, then transfer to a large mixing bowl."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Drain the warm chickpeas using a sieve set over a bowl. Add the chickpeas and 3/4 cup/170 milliliters of their liquid to the herb mixture, mixing well to combine. You want the chickpeas to be well coated and the whole mixture to be saucy (but not overly wet), so add a couple more tablespoons of chickpea liquid if you wish (discard the remaining)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Transfer to a large platter with a lip. Drizzle lightly with some of the tahini sauce, then all of the chile oil. Sprinkle with half of the pita and serve warm, with the extra tahini and toasted pita alongside."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2020-01-22T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "corey"
+          },
+          "reviewBody": "Forgot to soak chickpeas. Boiled from dried, it turned out just fine.",
+          "datePublished": "2024-04-12T00:10:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "This didn't turn out looking very much like the picture for me, but it tasted delicious and was a big hit at my friend's Eid celebration. My only complaint is that it didn't seem to actually make 6 servings, maybe closer to 3 or 4. Still turned out great and will definitely be a repeat for me, I'll just be sure to double the recipe next time.",
+          "datePublished": "2023-04-24T20:33:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "El"
+          },
+          "reviewBody": "I only had parsley to use, but it was enough to make this really delicious. It was a lot of work and processes to go through, but I would make it again when I have the time. I cooked a whole pound of chickpeas and froze half for another day.",
+          "datePublished": "2022-12-24T16:23:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sara"
+          },
+          "reviewBody": "This looks like a lovely vegan dish.  Why isn't it tagged as such?  When I search for vegan dishes, very few come up and yet there are, in actuality, many on this website.",
+          "datePublished": "2022-04-08T15:03:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jessie"
+          },
+          "reviewBody": "Rancho Gordo chickpeas in the instant pot (do 30 min next time), didn’t have chives and not nearly enough parsley, but herb purée was voluminous nonetheless. Used a sesame chili oil pre made and TJ’s garlic naan. Whole family including kids 10 and 12 are it up, with crudités and cauliflower rice. Would take same short cuts again. Agree with others that mine looked nothing like the photo. Did enjoy the bright flavors and colors though!",
+          "datePublished": "2022-03-31T01:48:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "katie"
+          },
+          "reviewBody": "I enjoyed this quite a bit but it needed very generous squeezes of lemon to bring out the flavors.",
+          "datePublished": "2022-03-14T14:07:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jmc"
+          },
+          "reviewBody": "Great recipe! My chickpeas simmered until nearly dry so just dumped the herb mixture into pot rather than straining and remixing. Flavors were terrific, crunchy pita added nice texture variety.",
+          "datePublished": "2022-02-07T16:10:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth"
+          },
+          "reviewBody": "The flavors were good but the texture was lacking. And looking at the photo, I feel like I didn’t even make the same dish. My beans were over-cooked (I should have checked them at 10 and 15 minutes) so they broke down, and the herb sauce was voluminous and fluffy, almost like chunky curry. I followed the exact recipe as precisely as I could (except I used naan), but in the end it needed preserved lemon or something to bring it to life. Served with Sam Sifton’s kale.",
+          "datePublished": "2022-02-05T04:50:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DrNurseHeather"
+          },
+          "reviewBody": "Wow! This is AMAZING!! I cooked the chickpeas in my Instant Pot with a bunch of  garlic cloves, salt, and bay leaves, but no baking powder. No soaking necessary.",
+          "datePublished": "2022-02-05T03:50:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stephanie in California"
+          },
+          "reviewBody": "I’m guessing the pita is supposed to be something like a crouton, which is why just one is called for. For me, this took too much work and too many bowls, pans, the food processor, etc. I suppose if you’re having a party and looking for an eye dropping appetizer, go for it. But I would not make this an everyday dish.",
+          "datePublished": "2022-01-25T01:09:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peter"
+          },
+          "reviewBody": "This is delicious but it is a LOT of work. Be prepared to be in the kitchen for a while. My experience with Ottolenghi is that his recipes are very fussy and time consuming and this is no different, but it is a very tasty recipe, almost worth the time and energy.",
+          "datePublished": "2021-11-29T00:47:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leann"
+          },
+          "reviewBody": "This was great.  We followed the recipe exactly, just doubled the amount of pita.  There are a lot of different elements that need to be done separately so it is a bit labor intensive.  I think next time I'll make it I'll try using canned chickpeas to speed up the process as some of the comments suggest.",
+          "datePublished": "2021-05-03T14:31:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "YBR"
+          },
+          "reviewBody": "Use only a third of the salt. Otherwise the dish is way too salty.",
+          "datePublished": "2020-12-07T02:07:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Adrienne"
+          },
+          "reviewBody": "I didn’t bother with the purée. Just added the herbs, tahini and chili oil to the chickpeas. Then topped each bowlful with za’ater croutons. It was simpler to make and still super delicious. It’s become a standard weeknight dish.",
+          "datePublished": "2020-07-09T21:43:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anna"
+          },
+          "reviewBody": "Don’t add baking soda to your beans if you are making them in the instant pot! They foam up and start coming out the vent. \nI thought this dish was good. It was a punch of dishes to clean and I ended up over cooking the chickpeas so it didn’t turn out like the photo, but still delicious. I didn’t have chives for the sauce and it tasted good. I think a could scallions would be a good substitute. \nWill make it again and not put baking soda into the beans.",
+          "datePublished": "2020-03-06T01:58:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "--Step 8 you make the puree of chickpeas and herbs, and put them in a large bowl.\n--Step 9 you drain the remaining chickpeas and mix them with puree (that you just put into the large bowl)\n\n--Step 10: spoon or turnout the chickpea mix onto a platter, drizzle with tahini sauce (some) and all of the chile oil. Top with half of the pita. Then you have extra tahini and toasted pita to serve alongside.",
+          "datePublished": "2020-01-22T04:07:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "phalgal"
+          },
+          "reviewBody": "He does this b/c the baking soda helps remove the outer skin on the chickpeas, which makes them smoother. If you're using canned chickpeas rinse them well and place in a DRY skillet with about a tbls of baking soda. Heat on low heat until the chickpeas are dry and coated w/the baking soda, xfer to a bowl and rinse several times, skimming off the skins as they float up. Try this next time you make hummus, the difference in texture is amazing.",
+          "datePublished": "2020-01-22T16:25:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christine"
+          },
+          "reviewBody": "It seems that a step is missing here.  What do you do with the chickpea puree?  I'm assuming that goes on the bottom, chickpeas on that and then pita chips.",
+          "datePublished": "2020-01-17T18:42:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mr. XYZ"
+          },
+          "reviewBody": "I made it with canned chick peas for a faster weeknight meal.  It was great.\n\nAlso, added merguez sausage and it was a good addition.",
+          "datePublished": "2020-01-22T00:29:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CW"
+          },
+          "reviewBody": "Having cooked this, I strongly feel there's a simpler way to achieve the same ultimately simple effect. Heat up a few cans of cooked chickpeas with a little cumin, garlic, salt and a dash of superfine sugar, cook it until you feel like you've done something, then pour it into a wide serving bowl over some decent store-bought pita chips; buzz some herbs and garlic and lemon and tahini together and drizzle it over the top, sprinkle with za'atar and then scoop it up with additional pitas. Done.",
+          "datePublished": "2020-01-25T15:12:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "It goes in a large bowl at the end of Step 8. In Step 9, you add the warm chickpeas with some of their liquid to the chickpea-herb puree, mix it up, and top with the tahini sauce, chile oil, and pita chips.",
+          "datePublished": "2020-01-18T21:29:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul"
+          },
+          "reviewBody": "Toss oven toasted pita bread chunks with 1/3 can chick peas and the remainder turned into a hearty hummus. Go nuts with the parsley and any middle-eastern type spice mixes you have on hand. Drizzle with chili oil and more tahini thinned with lemon juice.  Roast and add in some cauliflower florets in with the pita!  You could scramble a few eggs in it too. The mind boggles.",
+          "datePublished": "2020-01-22T18:29:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anna"
+          },
+          "reviewBody": "Don’t add baking soda to your beans if you are making them in the instant pot! They foam up and start coming out the vent. \nI thought this dish was good. It was a punch of dishes to clean and I ended up over cooking the chickpeas so it didn’t turn out like the photo, but still delicious. I didn’t have chives for the sauce and it tasted good. I think a could scallions would be a good substitute. \nWill make it again and not put baking soda into the beans.",
+          "datePublished": "2020-03-06T01:58:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "tb"
+          },
+          "reviewBody": "i tried making this yesterday with one can, and found it was not enough. i added two cans and still found it too saucy. i think you're right on needing 3 cans, that would have been enough for the ratio of sauce to chickpeas.",
+          "datePublished": "2020-01-23T13:34:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeanne"
+          },
+          "reviewBody": "This was wonderful, directions a little confusing at the end but ultimately I don’t think it matters if you go a little of the recipe. In the end it is a much elevated hummus. I would advocate making  much more pita for an accompaniment, especially since you just bought the whole package. (I just warmed up extra) lots of flavors going on here, really nice. It took longer to prepare than I gave myself time for. Worth it. I might add a drizzle of pomegranate molasses just for one more kick!",
+          "datePublished": "2020-02-02T01:06:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Adrienne"
+          },
+          "reviewBody": "I didn’t bother with the purée. Just added the herbs, tahini and chili oil to the chickpeas. Then topped each bowlful with za’ater croutons. It was simpler to make and still super delicious. It’s become a standard weeknight dish.",
+          "datePublished": "2020-07-09T21:43:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "P. J."
+          },
+          "reviewBody": "I was unable to find za'atar or sumac, with which I could have made my own. I substituted amchur powder for the sumac and YUM! Problem happily solved.\n\nI mixed all of the herb mixture into the chickpeas, spooned 2 cup servings into soup rims and topped the individual portions with tahini, a small amount of chili oil, and pita. The chili oil is pretty zippy, so I put the remaining chili oil in a bowl with a spoon so people could add if needed. Also, I doubled the amount of pita, 'cuz YUM!",
+          "datePublished": "2020-01-23T10:18:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sara"
+          },
+          "reviewBody": "This looks like a lovely vegan dish.  Why isn't it tagged as such?  When I search for vegan dishes, very few come up and yet there are, in actuality, many on this website.",
+          "datePublished": "2022-04-08T15:03:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robin"
+          },
+          "reviewBody": "The introduction gives a contextual note that Fatteh is authentically made with stale bread. Pita bread is the third ingredient listed.  One could easily connect the dot and infer that the pita you use could be stale but does not have to be.",
+          "datePublished": "2020-01-26T04:43:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "D K"
+          },
+          "reviewBody": "In step 9 you mix the whole chickpeas with the puree of chickpeas and herbs.",
+          "datePublished": "2020-01-18T18:53:47.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1020727-chickpea-and-herb-fatteh",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020,
+      "description": "Fatteh is a popular Middle Eastern dish made with stale bread and accompanied by a host of hearty ingredients. Serve it for brunch, with eggs, or as a vegetarian main course with cooked seasonal vegetables — simply be sure to plan ahead and soak the chickpeas the night before. You can cook the chickpeas and prepare all the toppings in advance, but you'll want to assemble the herb paste and toss everything together just before serving to ensure that it all stays green and vibrant, and that the fatteh is the right consistency.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Chickpea and Herb Fatteh",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/3a95b352-39cf-5cbe-bb85-2f816eacebfd#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/01/22/dining/22Ottolenghi-A/merlin_166405416_a78dd5b5-60fe-41e2-8ac6-44b684f88215-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-01-17T16:46:07.704Z",
+          "datePublished": "2020-01-17T16:46:07.704Z",
+          "height": "900",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2020-01-17T16:46:07.704Z",
+          "url": "https://static01.nyt.com/images/2020/01/22/dining/22Ottolenghi-A/merlin_166405416_a78dd5b5-60fe-41e2-8ac6-44b684f88215-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3a95b352-39cf-5cbe-bb85-2f816eacebfd#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/01/22/dining/22Ottolenghi-A/merlin_166405416_a78dd5b5-60fe-41e2-8ac6-44b684f88215-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-01-17T16:46:07.704Z",
+          "datePublished": "2020-01-17T16:46:07.704Z",
+          "height": "1365",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2020-01-17T16:46:07.704Z",
+          "url": "https://static01.nyt.com/images/2020/01/22/dining/22Ottolenghi-A/merlin_166405416_a78dd5b5-60fe-41e2-8ac6-44b684f88215-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/3a95b352-39cf-5cbe-bb85-2f816eacebfd#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/01/22/dining/22Ottolenghi-A/merlin_166405416_a78dd5b5-60fe-41e2-8ac6-44b684f88215-square640.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-01-17T16:46:07.704Z",
+          "datePublished": "2020-01-17T16:46:07.704Z",
+          "height": "640",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2020-01-17T16:46:07.704Z",
+          "url": "https://static01.nyt.com/images/2020/01/22/dining/22Ottolenghi-A/merlin_166405416_a78dd5b5-60fe-41e2-8ac6-44b684f88215-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020727-chickpea-and-herb-fatteh"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:33:17.318Z",
+  "scraping_status": "scraped"
+}

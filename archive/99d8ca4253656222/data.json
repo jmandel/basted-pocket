@@ -1,0 +1,558 @@
+{
+  "id": "99d8ca4253656222",
+  "original_url": "https://cooking.nytimes.com/recipes/1025021-spicy-mushroom-and-tofu-mazemen",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025021-spicy-mushroom-and-tofu-mazemen",
+  "fetched_title": "Spicy Mushroom and Tofu Mazemen Recipe",
+  "main_text_content": "Mazemen, sometimes known as mazesoba or abura soba, is a brothless ramen dish believed to have originated in Nagoya, Japan Inspired by a punchier and spicier Taiwanese flavor profile, the soup is replaced with an intensely savory sauce In this vegan take, this sesame paste-based sauce delivers a rich finish, bolstered with umami agents such as miso, soy sauce and chile crisp",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1022099-vegan-tantanmen-with-pan-fried-tofu\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2021/04/21/dining/19Tantanmenrex/19Tantanmenrex-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2021/04/21/dining/19Tantanmenrex/19Tantanmenrex-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2021/04/21/dining/19Tantanmenrex/19Tantanmenrex-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2021/04/21/dining/19Tantanmenrex/19Tantanmenrex-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2021/04/21/dining/19Tantanmenrex/19Tantanmenrex-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2021/04/21/dining/19Tantanmenrex/19Tantanmenrex-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2021/04/21/dining/19Tantanmenrex/19Tantanmenrex-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2021/04/21/dining/19Tantanmenrex/19Tantanmenrex-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Vegan Tantanmen With Pan-Fried Tofu</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Hetty Lui McKinnon</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/03/20/multimedia/hm-mushroom-mazeman-gqmc/hm-mushroom-mazeman-gqmc-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/99d8ca4253656222/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/6fac9656-f784-5d44-81b3-bf6c6b8b415e",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025021-spicy-mushroom-and-tofu-mazemen",
+        "@type": "WebPage",
+        "name": "Spicy Mushroom and Tofu Mazemen"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025021-spicy-mushroom-and-tofu-mazemen",
+      "name": "Spicy Mushroom and Tofu Mazemen",
+      "description": "Mazemen, sometimes known as mazesoba or abura soba, is a brothless ramen dish believed to have originated in Nagoya, Japan. Inspired by a punchier and spicier Taiwanese flavor profile, the soup is replaced with an intensely savory sauce. In this vegan take, this sesame paste-based sauce delivers a rich finish, bolstered with umami agents such as miso, soy sauce and chile crisp. Mazemen, which translates to mixed noodles in Japanese, should be tossed before eating, so that the sauce and the toppings distribute evenly through the noodles. While this recipe is vegan, an egg yolk or an onsen tamago (soft-cooked egg) is a common mazemen topping, which falls apart as it is tossed through the noodles, leaving a silky and creamy finish.",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/f945c866-f188-5356-aebd-1db2470206e4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/20/multimedia/hm-mushroom-mazeman-gqmc/hm-mushroom-mazeman-gqmc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2024-03-21T19:31:52.351Z",
+          "datePublished": "2024-03-20T18:02:39.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-20T18:02:39.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/20/multimedia/hm-mushroom-mazeman-gqmc/hm-mushroom-mazeman-gqmc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/f945c866-f188-5356-aebd-1db2470206e4#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/20/multimedia/hm-mushroom-mazeman-gqmc/hm-mushroom-mazeman-gqmc-googleFourByThree.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2024-03-21T19:31:52.351Z",
+          "datePublished": "2024-03-20T18:02:39.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-20T18:02:39.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/20/multimedia/hm-mushroom-mazeman-gqmc/hm-mushroom-mazeman-gqmc-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/f945c866-f188-5356-aebd-1db2470206e4#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/20/multimedia/hm-mushroom-mazeman-gqmc/hm-mushroom-mazeman-gqmc-mediumSquareAt3X.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2024-03-21T19:31:52.351Z",
+          "datePublished": "2024-03-20T18:02:39.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-20T18:02:39.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/20/multimedia/hm-mushroom-mazeman-gqmc/hm-mushroom-mazeman-gqmc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "japanese",
+      "recipeCategory": "dinner, easy, lunch, quick, weeknight, noodles, main course, side dish",
+      "keywords": "bok choy, chile crisp, extra-firm tofu, miso, mushroom, ramen noodle, sesame paste, stovetop, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 1009
+      },
+      "recipeIngredient": [
+        "Canola or vegetable oil",
+        "8 ounces mushrooms (such as cremini, button or shiitake), sliced",
+        "Salt and pepper",
+        "1 (14- to 16-ounce) package extrafirm tofu, drained and crumbled into 1/2-inch chunks",
+        "4 baby bok choy (about 12 ounces), each trimmed and cut into 4 pieces through the stem",
+        "12 ounces dried ramen noodles",
+        "2 scallions, thinly sliced",
+        "1/4 cup Chinese or Japanese sesame paste, or tahini",
+        "8 teaspoons chile crisp",
+        "4 teaspoons white (shiro) miso paste",
+        "4 teaspoons soy sauce",
+        "Just-boiled water"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the mazemen: Heat a large skillet on medium-high. When hot, add 1 to 2 tablespoons of oil, along with the mushrooms. Season with salt and pepper. Cook, tossing occasionally, until the mushrooms have softened, with golden edges, 4 to 5 minutes. Remove from the pan."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Drizzle the pan with another 2 tablespoons of oil, add the tofu and cook over medium-high, tossing occasionally, until golden, 5 to 7 minutes. (The tofu will break up more as you toss it, which is fine.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, bring a large pot of salted water to a boil. Add the baby bok boy and cook for 1 1/2 to 2 minutes, until the stems are just tender and the leaves are bright green. Using tongs, remove the greens from the water and place in a colander."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To the same pot of water, add the ramen noodles and cook according to packet instructions, until just tender."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile make the sauce: In a large bowl, add the sesame paste, chile crisp, miso paste, soy sauce and ½ cup just-boiled water; whisk to combine."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Drain the noodles. Add them to the sauce and, using tongs or chopsticks, toss everything together until the noodles are coated. (If the sauce is very thick, add another tablespoon or two of just-boiled water to help loosen up the noodles.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide the noodles evenly among serving bowls and top each with the baby bok choy, mushrooms and tofu. Top with scallions, toss everything together and serve immediately."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-03-20T00:00:00.000Z",
+      "dateModified": "2024-03-20T21:05:26.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J Fischer"
+          },
+          "reviewBody": "Like others I added a bit of sweetening (brown sugar) as well as some grated ginger.  Otherwise as written and it was tasty.  If you're not a fan of tofu you could use chicken, mild fish, perhaps even egg.",
+          "datePublished": "2025-05-22T01:09:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leslie"
+          },
+          "reviewBody": "I tossed the ramen seasoning packet with the tofu—delicious!",
+          "datePublished": "2025-05-06T02:01:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "rachel"
+          },
+          "reviewBody": "Tasty weeknight meal!",
+          "datePublished": "2025-04-27T23:58:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kris"
+          },
+          "reviewBody": "made this with frozen udon noodles and fresh shiitakes. this is one of the best things I've made and ate in recent memory.",
+          "datePublished": "2025-04-19T01:24:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CathyG"
+          },
+          "reviewBody": "After reading the comments,  I doubled the mushrooms, added broccolini to the bok choy, used a bit less oil and didn't salt the water for the noodles - otherwise followed the recipe. It was delicious and will make it again and again. Would love the nutritional information if it's available ... no Edemam calculation here.",
+          "datePublished": "2025-03-25T23:47:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "meta w"
+          },
+          "reviewBody": "Yum yum yum. \nI made the sauce, cut up the bok choi and sautéed the mushrooms on the weekend and portioned them up.\nDay of, make the noodles, throw the bok Choi in at the end of their cook, and heated the mushrooms, sauce and tofu in the pasta pot while they strained.\nThrew everything together at the end and you have one very happy (and well fed) resident.",
+          "datePublished": "2025-03-20T00:15:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kmshady"
+          },
+          "reviewBody": "made this with what i had on hand and it was a spicy comforting and yummy dish. the sauce was good - didn't measure precisely and went by feel...has some kick for sure and I love the mix of the tahini and miso flavors. didnt have tofu or bok choy so subbed pork chunks from a leftover pork loin and spinach. just sauteed those with the mushrooms after about 5 minutes. This is not supposed to be a healthy dish - so enjoy it whatever way works for you! lol",
+          "datePublished": "2025-03-12T01:46:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "reviewBody": "Peanut butter instead of tahini, light or no salt in water, add ground pork, splash of mirin or rice vinegar.",
+          "datePublished": "2025-02-22T12:55:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rosa"
+          },
+          "reviewBody": "Sub Gf spaghetti. Mighty nice.",
+          "datePublished": "2025-02-05T01:10:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "garrett"
+          },
+          "reviewBody": "I like salty things and frequently cook chinese/east asian inspired dishes. This recipe was on another level in terms of saltiness",
+          "datePublished": "2025-01-28T17:46:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Besty B"
+          },
+          "reviewBody": "I made it exactly as the directions specified and my husband hated it, I felt like I wasted the ingredients!  After reading the comments, a bit of mirin and some vinegar would have helped.",
+          "datePublished": "2024-12-17T02:36:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CJ"
+          },
+          "reviewBody": "Loved this dish! I doubled mushrooms and next time would cut back on miso and soy...but keep the soy handy for serving. Also, will air fry the tofu instead.",
+          "datePublished": "2024-12-10T00:36:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "john"
+          },
+          "reviewBody": "Cut the hot pepper in half.",
+          "datePublished": "2024-11-26T02:12:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kris"
+          },
+          "reviewBody": "I found that by the time everything was done - the tofu / mushroom / bok choy topping was fairly cold. Noodles and sauce were good though",
+          "datePublished": "2024-10-11T23:35:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Linda"
+          },
+          "reviewBody": "I would have liked the tofu to be a bit crisper/chewier. Do you think it would work to air fry it and add it that way? As it was, I ended up with a lot stuck to the bottom of my skillet. I loved the flavor though!",
+          "datePublished": "2024-10-06T21:57:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "char"
+          },
+          "reviewBody": "Instead of 4 teaspoons of miso and soy, I used 3 of both and added 2 teaspoons of honey and 2 teaspoons of rice vinegar to manage the saltiness (could sub those for any sweet and sour liquid). Otherwise; perfect for a simple weeknight.",
+          "datePublished": "2024-03-24T15:08:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lynn"
+          },
+          "reviewBody": "Should have thought this through befire I started: major SODIUM bomb!  Even with Lower sodium Soy sauce and miso, chili crisp no way I could justify this one:(",
+          "datePublished": "2024-03-22T09:08:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alternative Opinions"
+          },
+          "reviewBody": "It’s okay for different people to say that the flavor was too salty. That’s their opinion and some people do need low sodium diets. The comments section is for people to share their opinions and variations.",
+          "datePublished": "2024-03-25T12:08:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellie Cave"
+          },
+          "reviewBody": "It's the best thing ever. It's a condiment made with red chili flakes, salt, sugar, dehydrated onion all sizzled in oil. I've been making the NYTimes version of it and now I always have a batch sitting on my kitchen counter. Even bought a special serving dish for it.",
+          "datePublished": "2024-03-24T21:47:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shelia"
+          },
+          "reviewBody": "Instead of olive oil, substitute peanut or sesame oil.",
+          "datePublished": "2024-03-23T23:35:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sodium sodium"
+          },
+          "reviewBody": "1tsp soy sauce + 1 tsp miso = about 20% RDA Souium\nPerfectly fine for most people. This is not an overly salty recipe",
+          "datePublished": "2024-03-24T19:25:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Name Nadya"
+          },
+          "reviewBody": "Love this recipe! I’ve made it almost a dozen times, tweaking each time.  Double the mushrooms, saute a cup of another green veggie (zucchini, broccolini, etc.), chop the bok choy into big chunks.  No salt in the water, reduced sodium soy sauce, a bit more tahini and chili crisp.  Lots of chopped scallions.  Not too salty, just spicy enough and fabulous leftovers (if any!)",
+          "datePublished": "2024-06-12T01:20:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrew"
+          },
+          "reviewBody": "Yes a bit high in sodium but overall tasty. The soft cooked egg really helped with flavors and textures. We subbed in broccolini and used soft yakisoba noodles from the refrigerated section.",
+          "datePublished": "2024-03-24T20:46:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cooking on the island"
+          },
+          "reviewBody": "I added some mirin for sweetener and just did everything in a wok and added the sauce and ramen. Much easier that way! Delicious.",
+          "datePublished": "2024-03-27T00:57:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erinbk"
+          },
+          "reviewBody": "I loved this, with some minor modifications. The store did not have bok choy, so I bought some Napa cabbage. And since that isn’t as exciting as bok choy boiled, I roasted it at 425. That was good move. Otherwise followed the recipe except (sorry!) I used 1 T each of soy sauce and miso and it was plenty salty (and I love salt). Might do less next time. Will air fry tofu next time to get it crispy. Great meal! Make it!",
+          "datePublished": "2024-03-27T00:16:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JIY"
+          },
+          "reviewBody": "Definite Salt Bomb for me! Made last night, left out tahini (didn't have any), put together sauce without thinking... then realized it was all salt!I had added extra tofu which helped with the saltiness! Better than good but not amazing. I have leftovers, need to figure out how to make less salty! Will add a soft boiled egg! I will make some kind of variation of this again though.",
+          "datePublished": "2024-03-25T12:58:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca"
+          },
+          "reviewBody": "I added a half pound of ground pork in with the tofu and also half of a green cabbage, thinly shredded.  Doubled the amount of bok choy.  The sauce is amazingly delicious.",
+          "datePublished": "2024-03-25T02:03:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "EllenD"
+          },
+          "reviewBody": "@anonymous, the note at the top mentions that an egg yolk or soft-cooked egg are common toppings for this dish (non vegan version).",
+          "datePublished": "2024-03-25T15:19:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jen C"
+          },
+          "reviewBody": "Type it into search bar. There is a recipe here for it",
+          "datePublished": "2024-03-24T19:26:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "reviewBody": "I made it per the recipe (w/slightly less ramen noodles b/c that's what was in my package). The flavor was great. In future I would press the tofu to remove moisture & cut into small cubes, toss in a bit of oil & cook it on a sheet pan to result in a crunchier, less oily finish. I would add more mushrooms, scallions, & steamed bok choy (chopped to make it easier to eat).  \nAs it was, there were FAR more noodles and FAR less of anything else per plate.  Still good though.",
+          "datePublished": "2024-04-21T01:37:22.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025021-spicy-mushroom-and-tofu-mazemen",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "Mazemen, sometimes known as mazesoba or abura soba, is a brothless ramen dish believed to have originated in Nagoya, Japan. Inspired by a punchier and spicier Taiwanese flavor profile, the soup is replaced with an intensely savory sauce. In this vegan take, this sesame paste-based sauce delivers a rich finish, bolstered with umami agents such as miso, soy sauce and chile crisp. Mazemen, which translates to mixed noodles in Japanese, should be tossed before eating, so that the sauce and the toppings distribute evenly through the noodles. While this recipe is vegan, an egg yolk or an onsen tamago (soft-cooked egg) is a common mazemen topping, which falls apart as it is tossed through the noodles, leaving a silky and creamy finish.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Spicy Mushroom and Tofu Mazemen",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/f945c866-f188-5356-aebd-1db2470206e4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/20/multimedia/hm-mushroom-mazeman-gqmc/hm-mushroom-mazeman-gqmc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2024-03-21T19:31:52.351Z",
+          "datePublished": "2024-03-20T18:02:39.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-20T18:02:39.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/20/multimedia/hm-mushroom-mazeman-gqmc/hm-mushroom-mazeman-gqmc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/f945c866-f188-5356-aebd-1db2470206e4#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/20/multimedia/hm-mushroom-mazeman-gqmc/hm-mushroom-mazeman-gqmc-googleFourByThree.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2024-03-21T19:31:52.351Z",
+          "datePublished": "2024-03-20T18:02:39.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-20T18:02:39.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/20/multimedia/hm-mushroom-mazeman-gqmc/hm-mushroom-mazeman-gqmc-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/f945c866-f188-5356-aebd-1db2470206e4#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/20/multimedia/hm-mushroom-mazeman-gqmc/hm-mushroom-mazeman-gqmc-mediumSquareAt3X.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2024-03-21T19:31:52.351Z",
+          "datePublished": "2024-03-20T18:02:39.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-20T18:02:39.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/20/multimedia/hm-mushroom-mazeman-gqmc/hm-mushroom-mazeman-gqmc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025021-spicy-mushroom-and-tofu-mazemen"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:08:16.697Z",
+  "scraping_status": "scraped"
+}

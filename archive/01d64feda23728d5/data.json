@@ -1,0 +1,573 @@
+{
+  "id": "01d64feda23728d5",
+  "original_url": "https://cooking.nytimes.com/recipes/1023423-gochujang-burger-with-spicy-slaw",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1023423-gochujang-burger-with-spicy-slaw",
+  "fetched_title": "Gochujang Burger With Spicy Slaw Recipe",
+  "main_text_content": "This may be the perfect all-purpose sauce — BBQ, marinade, dressing — for your summer cookouts Tangy and sweet rice vinegar cuts through the spicy richness of gochujang, and toasted sesame seed oil amps up the smokiness you get from the grill The sauce does double duty in this recipe: It’s used to flavor the pork bulgogi-inspired patties, and it’s used as a dressing for the cucumber, sprout and carrot slaw",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1020308-coconut-gochujang-glazed-chicken-with-broccoli\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2020/08/23/dining/kc-gochujang-chicken-print/kc-gochujang-chicken-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2020/08/23/dining/kc-gochujang-chicken-print/kc-gochujang-chicken-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2020/08/23/dining/kc-gochujang-chicken-print/kc-gochujang-chicken-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2020/08/23/dining/kc-gochujang-chicken-print/kc-gochujang-chicken-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2020/08/23/dining/kc-gochujang-chicken-print/kc-gochujang-chicken-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2020/08/23/dining/kc-gochujang-chicken-print/kc-gochujang-chicken-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2020/08/23/dining/kc-gochujang-chicken-print/kc-gochujang-chicken-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2020/08/23/dining/kc-gochujang-chicken-print/kc-gochujang-chicken-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Coconut-Gochujang Glazed Chicken With Broccoli</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Kay Chun</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/06/02/multimedia/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/01d64feda23728d5/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/760a46a4-29d8-5dd6-89da-6256263a428e",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1023423-gochujang-burger-with-spicy-slaw",
+        "@type": "WebPage",
+        "name": "Gochujang Burger With Spicy Slaw"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023423-gochujang-burger-with-spicy-slaw",
+      "name": "Gochujang Burger With Spicy Slaw",
+      "description": "This may be the perfect all-purpose sauce — BBQ, marinade, dressing — for your summer cookouts. Tangy and sweet rice vinegar cuts through the spicy richness of gochujang, and toasted sesame seed oil amps up the smokiness you get from the grill. The sauce does double duty in this recipe: It’s used to flavor the pork bulgogi-inspired patties, and it’s used as a dressing for the cucumber, sprout and carrot slaw. These burgers can also be made indoors in a large cast-iron or heavy skillet over medium-high heat.",
+      "author": {
+        "@type": "Person",
+        "name": "Rick A. Martínez"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/69a7b585-8d0c-5c5e-aec6-3c9ac6335d9a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Joe Lingeman for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-06-02T17:19:22.380Z",
+          "datePublished": "2023-05-31T21:43:18.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-05-31T21:43:18.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/02/multimedia/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/69a7b585-8d0c-5c5e-aec6-3c9ac6335d9a#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq-superJumbo.jpg",
+          "creditText": "Joe Lingeman for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-06-02T17:19:22.380Z",
+          "datePublished": "2023-05-31T21:43:18.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2023-05-31T21:43:18.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/02/multimedia/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/69a7b585-8d0c-5c5e-aec6-3c9ac6335d9a#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq-mediumSquareAt3X.jpg",
+          "creditText": "Joe Lingeman for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-06-02T17:19:22.380Z",
+          "datePublished": "2023-05-31T21:43:18.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-05-31T21:43:18.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/02/multimedia/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT45M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, lunch, weeknight, burgers, main course",
+      "keywords": "carrot, cucumber, full-access-ic-2024-07, gochujang, ground pork, rice vinegar, sesame oil, summer",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 928
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 774,
+        "unsaturatedFatContent": "33 grams",
+        "carbohydrateContent": "37 grams",
+        "cholesterolContent": null,
+        "fatContent": "53 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "37 grams",
+        "saturatedFatContent": "16 grams",
+        "sodiumContent": "899 milligrams",
+        "sugarContent": "11 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 tablespoons gochujang",
+        "3 tablespoons unseasoned rice vinegar",
+        "3 tablespoons olive oil, plus more for hands, grill grates and brushing on patties",
+        "1 tablespoon toasted sesame oil",
+        "1 tablespoon granulated sugar ",
+        "4 garlic cloves, finely grated",
+        "1 1/2 pounds ground pork",
+        "Kosher salt (such as Diamond Crystal) and black pepper",
+        "1 medium Kirby cucumber, halved lengthwise and thinly sliced",
+        "2 ounces soy bean sprouts, rinsed and drained (about 1 cup)",
+        "1 large carrot, grated on the large holes of a box grater",
+        "2 scallions, thinly sliced",
+        "4 burger buns, split",
+        "Mayonnaise, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Whisk together the gochujang, vinegar, olive oil, sesame oil, sugar and garlic in a large bowl; transfer half of the mixture to a medium bowl and set aside until ready to use. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the pork, 1 1/2 teaspoons salt and 1/2 teaspoon pepper to the large bowl with half of the gochujang mixture. Using 2 forks, begin “pulling” the ground pork apart as if you were shredding pulled pork, breaking up the clumps and incorporating the ingredients together without compacting the meat into a dense mass. Continue to pull the meat apart until thoroughly mixed and no clumps of pork remain, and all of the gochujang mixture has been absorbed. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Lightly oil your hands. Working one at a time, divide the pork mixture into 4 equal portions; roll gently between your hands into balls. Arrange on a rimmed baking sheet and flatten to patties about 1-inch thick."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Toss the cucumber, sprouts, carrot and scallions in the medium bowl with the reserved gochujang mixture until completely coated; season with salt and pepper. Let sit until ready to serve."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare a grill for medium-high direct heat. Clean and oil the grates. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Grill the buns until toasted on both sides, about 30 seconds to 1 minute per side. Transfer to a baking sheet. Brush the patties on both sides with oil and grill until lightly charred on both sides and just cooked through, about 4 minutes per side, closing the grill top between flips as needed if using a gas grill. Transfer the burgers to a plate and let sit for 5 minutes. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Spread mayonnaise on the top and bottom sides of each bun. Top with burgers and gochujang slaw and serve. "
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-06-01T00:00:00.000Z",
+      "dateModified": "2023-06-28T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lynn"
+          },
+          "reviewBody": "I've made this multiple times and it is a really unique flavor, very moist and the slaw goes with it great. Delicious. Like others, I serve this with sriracha mayo.",
+          "datePublished": "2025-05-18T21:40:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy"
+          },
+          "reviewBody": "These are a family favorite, made exactly as written.  Tonight I made them with ground turkey rather than pork. Delicious.  Also used just chopped cabbage for the slaw. Also delicious.",
+          "datePublished": "2025-04-19T00:03:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca"
+          },
+          "reviewBody": "These are delicious but all almost completely fell apart on the grill. I managed to save half of them to a griddle but half were crumbling messes. Sad!",
+          "datePublished": "2025-04-16T00:20:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jessica"
+          },
+          "reviewBody": "This was awesome.  I added a fried egg on top and that felt like the finishing touch.  Definitely one of the best burgers I've had, and my friends thought so too!",
+          "datePublished": "2025-03-31T00:36:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MattK"
+          },
+          "reviewBody": "I made this yesterday. I was worried about overworking the pork but the two forks method solved that issue (in the future, when I mix something into ground meat, I'm going to use two forks).\n\nThe burger and \"slaw\" was very good. I used a little bit of cabbage too. I think using a little lime juice in the slaw would have taken the slaw up a notch. Do not over-marinade the slaw, you'll lose the crunch.",
+          "datePublished": "2025-03-12T20:06:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anna"
+          },
+          "reviewBody": "Shortly after eating this, I fainted, thought I might be having a heart attack, and had to call an ambulance because I was home alone during a blizzard (I am ok). When I told my sister that I had just finished an amazing meal right before she said “wow, so good it almost sent you into cardiac arrest”. \n\nI used a bell pepper and red cabbage for the slaw bc that’s what I had on hand. Really so delicious.",
+          "datePublished": "2025-03-05T00:04:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tasty but Smokin up my kitchen"
+          },
+          "reviewBody": "These are really good but every time I make them my kitchen turns into a smoky mess and I don’t know why!",
+          "datePublished": "2025-02-05T03:17:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MH"
+          },
+          "reviewBody": "She spicy. I also use the other commenters recommendations for the spicy mayo. This is a great recipe when you need to use up leftover gochujang.",
+          "datePublished": "2025-01-23T00:29:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rowan"
+          },
+          "reviewBody": "YUM. Added ginger to the slaw and loved it. Pickles to top it all off completed it perfectly.",
+          "datePublished": "2025-01-07T02:02:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate"
+          },
+          "reviewBody": "Made these with turkey. Do not be afraid of the amount of gougong.",
+          "datePublished": "2024-10-25T17:31:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy"
+          },
+          "reviewBody": "These burgers are delicious as written. The slaw is the perfect crunchy and spicy compliment. I have made them with ground pork and also tried ground turkey - both delicious.  This time I used shredded red cabbage instead of sprouts in the slaw to equally rave reviews. \nThe burgers are very loose. I put them in the freezer while I started the grill but they still fell apart when flipping.  Maybe a hard freeze before cooking would help or maybe adding an egg?",
+          "datePublished": "2024-10-06T00:07:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hana"
+          },
+          "reviewBody": "One of the best burgers I've ever made! Def add some mayo to the gochujang sauce for the slaw, it helps even everything out",
+          "datePublished": "2024-09-17T00:32:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debra"
+          },
+          "reviewBody": "I, too, had the bursts of flames from the grill the minute I put the burgers on. The pork fat plus olive and sesame oil, perhaps? Mine fell apart a little on the grill and were hard to turn. Next time I'll try to pack them more densely, but the flavor was outstanding regardless. I added red cabbage to the slaw and used mung bean sprouts (it's what I could find). All was heaven.",
+          "datePublished": "2024-09-06T18:21:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ame B"
+          },
+          "reviewBody": "Made this ground chicken and it was delish!",
+          "datePublished": "2024-09-03T00:30:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristin"
+          },
+          "reviewBody": "This is the only burger I’ve ever had where I was tempted to have seconds on the burger.",
+          "datePublished": "2024-09-03T00:54:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steve from Boston"
+          },
+          "reviewBody": "Whenever I make something like this, the keystone is always serving it not with normal mayo, but sriracha lime mayo:\n\n1/4 cup mayo\n1-2 tbsp sriracha (depending on how spicy you like it)\nZest and juice of one lime\n\nMix and use immediately. It's runnier than normal mayo because of the lime juice, but hooooo boy.",
+          "datePublished": "2023-06-03T15:19:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John M."
+          },
+          "reviewBody": "This recipe made for a terrific burger! I was very impressed with the results from using the two forks 'pulling' method to mix the pork with the marinade. Made the least dense burger I've ever made.\nI didn't make the slaw (yeah, I know) so I halved the ingredients. Then I just used 1 lb. of pork, so I lopped off another third. So for making these burgers only using 1 lb. of pork:\n1Tbsp. gochujang paste (not sauce); 1 tbsp. rice vinegar\n1 Tbsp. olive oil; 1 tsp. toasted sesame oil; 1 tsp. sugar.",
+          "datePublished": "2023-06-10T20:40:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LBT"
+          },
+          "reviewBody": "Gochujang is Asian chili sauce.\nThe Kirby cucumber is a small pickling cucumber.",
+          "datePublished": "2023-06-03T16:36:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John M."
+          },
+          "reviewBody": "My experience has been recipes like this always refer to gochujang paste, not the sauce that has added ingredients like sugar and vinegar. And definitely not gochugaru powder.",
+          "datePublished": "2023-06-03T21:00:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carrie"
+          },
+          "reviewBody": "I’ve always been a Rick Martinez fan (try his queso) ~ and this burger did not disappoint.  Four of us sat at the table last night devouring this burger. So delicious and the sauce was incredible. My college aged boys loved it so much I may just make it again tonight! I used the brioche buns from Whole Foods.",
+          "datePublished": "2023-06-04T14:52:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "A. C."
+          },
+          "reviewBody": "This is a good recipe with a unique flavor profile. It's also easy to make, but here's a twist. Add the mayo to the slaw. Whether you're eating it protein style or with a bun, it evens out the spiciness and make sit even better.",
+          "datePublished": "2023-06-08T01:57:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robin"
+          },
+          "reviewBody": "Yes! Ground chicken and they were Amazing without anything extra added.",
+          "datePublished": "2023-06-06T12:37:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara"
+          },
+          "reviewBody": "Yum! Burger was tasty. I think the sauce was a little heavy for the slaw. I ended up thinning it out  & it was much better. As someone else said, using a fork to \"pull\" the mix & mix the ingredients was key to a lighter burger. I am going to try that with all of my burgers from here on out!",
+          "datePublished": "2023-06-13T16:42:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ceeb"
+          },
+          "reviewBody": "Such good flavor!\nI made this with ground turkey because none of my local grocers had ground pork. It was still fantastic! I can imagine the pork is out of this world tasty. \nI did add Julianned jalapeños to the slaw. An absolute 5/5 stars.",
+          "datePublished": "2023-06-08T02:55:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melina"
+          },
+          "reviewBody": "I made these burgers with ground beef rather than pork. When on the grill on low heat they caused flames to shoot up and became a little bit charred. They were still delicious, but a bit burnt on the outside. I’ve never had this happen before, and the only reason I can think of is the high olive oil content in the burgers when combined with the mixture. I would recommend not adding the olive oil to the meat, but rather add half the called for amount to the veggie mixture. Still really good!!",
+          "datePublished": "2023-06-04T00:49:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Irving"
+          },
+          "reviewBody": "Pork does not sound so great. Use small plastic bags for your hands.",
+          "datePublished": "2023-06-03T16:32:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Midwesterner"
+          },
+          "reviewBody": "Rewarming grilled burgers is usually a diminishing return, so I was shocked at how astonishingly better these were on day 2.  The flavors melded and imo they went from “pretty good” to “omg.”  The meat mixture was super soft, I stuck them in the freezer for 20 mins before grilling and they were still very delicate—-maybe reduce the oil in the marinade part that’s going into the meat?  I’d also play with the slaw proportions, more cucumber, less sprouts, and serve with a leaf of iceberg.",
+          "datePublished": "2023-07-08T02:12:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Heath"
+          },
+          "reviewBody": "This is one of the best meals I've ever cooked. Doubled the sauce recipe and made 6 burgers with 2 lbs pork. It was a huge hit!",
+          "datePublished": "2023-08-01T22:59:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "beef?"
+          },
+          "reviewBody": "Did anyone try this with beef?",
+          "datePublished": "2023-06-03T17:29:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robert"
+          },
+          "reviewBody": "About the cucumbers—Kirby is sometimes called Pickling cucumber, suitable substitutes are the Persian, usually sold as Mini-cucumber, or the long English, also known as Seedless cucumber.  The common and most widely sold Garden cucumber is not suitable because it has a very high moisture content and will produce a soup rather than a slaw.",
+          "datePublished": "2023-06-03T20:48:59.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1023423-gochujang-burger-with-spicy-slaw",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Rick A. Martínez"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "This may be the perfect all-purpose sauce — BBQ, marinade, dressing — for your summer cookouts. Tangy and sweet rice vinegar cuts through the spicy richness of gochujang, and toasted sesame seed oil amps up the smokiness you get from the grill. The sauce does double duty in this recipe: It’s used to flavor the pork bulgogi-inspired patties, and it’s used as a dressing for the cucumber, sprout and carrot slaw. These burgers can also be made indoors in a large cast-iron or heavy skillet over medium-high heat.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Gochujang Burger With Spicy Slaw",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/69a7b585-8d0c-5c5e-aec6-3c9ac6335d9a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Joe Lingeman for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-06-02T17:19:22.380Z",
+          "datePublished": "2023-05-31T21:43:18.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-05-31T21:43:18.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/02/multimedia/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/69a7b585-8d0c-5c5e-aec6-3c9ac6335d9a#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq-superJumbo.jpg",
+          "creditText": "Joe Lingeman for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-06-02T17:19:22.380Z",
+          "datePublished": "2023-05-31T21:43:18.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2023-05-31T21:43:18.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/02/multimedia/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/69a7b585-8d0c-5c5e-aec6-3c9ac6335d9a#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/06/02/multimedia/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq-mediumSquareAt3X.jpg",
+          "creditText": "Joe Lingeman for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-06-02T17:19:22.380Z",
+          "datePublished": "2023-05-31T21:43:18.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-05-31T21:43:18.000Z",
+          "url": "https://static01.nyt.com/images/2023/06/02/multimedia/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq/RM-Gochujang-Burger-with-Spicy-Slaw-gwbq-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023423-gochujang-burger-with-spicy-slaw"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:31:34.911Z",
+  "scraping_status": "scraped"
+}

@@ -1,0 +1,562 @@
+{
+  "id": "81e79f9336687534",
+  "original_url": "https://cooking.nytimes.com/recipes/1020967-skillet-chicken-and-pearl-couscous-with-moroccan-spices",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1020967-skillet-chicken-and-pearl-couscous-with-moroccan-spices",
+  "fetched_title": "Skillet Chicken and Pearl Couscous With Moroccan Spices Recipe",
+  "main_text_content": "This one-pan meal, which is inspired by the tagines of North Africa, is prepared in a deep skillet or Dutch oven instead of the traditional clay pot Briefly marinate bone-in chicken thighs in lime juice, garlic, cumin and olive oil, then brown and set aside (If you’re short on time, skip the marinade; simply add the ground cumin when you’re toasting the other spices in the chicken fat.) Stir in harissa, cinnamon and turmeric, toast until fragrant, then add quick-cooking pearl couscous and the chicken, so everything finishes cooking together",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025170-herby-skillet-chicken-with-greens\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"Burnished chicken thighs sit in a skillet, covered in a green, herby sauce.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2024/03/12/multimedia/13APPETITErex-chicken-lqpt/13APPETITErex-chicken-lqpt-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2024/03/12/multimedia/13APPETITErex-chicken-lqpt/13APPETITErex-chicken-lqpt-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/03/12/multimedia/13APPETITErex-chicken-lqpt/13APPETITErex-chicken-lqpt-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/03/12/multimedia/13APPETITErex-chicken-lqpt/13APPETITErex-chicken-lqpt-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/03/12/multimedia/13APPETITErex-chicken-lqpt/13APPETITErex-chicken-lqpt-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/03/12/multimedia/13APPETITErex-chicken-lqpt/13APPETITErex-chicken-lqpt-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/03/12/multimedia/13APPETITErex-chicken-lqpt/13APPETITErex-chicken-lqpt-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/03/12/multimedia/13APPETITErex-chicken-lqpt/13APPETITErex-chicken-lqpt-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Herby Skillet Chicken With Greens</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2020/03/25/dining/ch-moroccan-chicken/merlin_170016399_a730fbd8-51fd-4700-b061-3b3e573076e6-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/81e79f9336687534/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/7c7b3cf0-f6c8-5ba0-ba69-ec493f9a094b",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1020967-skillet-chicken-and-pearl-couscous-with-moroccan-spices",
+        "@type": "WebPage",
+        "name": "Skillet Chicken and Pearl Couscous With Moroccan Spices"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020967-skillet-chicken-and-pearl-couscous-with-moroccan-spices",
+      "name": "Skillet Chicken and Pearl Couscous With Moroccan Spices",
+      "description": "This one-pan meal, which is inspired by the tagines of North Africa, is prepared in a deep skillet or Dutch oven instead of the traditional clay pot. Briefly marinate bone-in chicken thighs in lime juice, garlic, cumin and olive oil, then brown and set aside. (If you’re short on time, skip the marinade; simply add the ground cumin when you’re toasting the other spices in the chicken fat.) Stir in harissa, cinnamon and turmeric, toast until fragrant, then add quick-cooking pearl couscous and the chicken, so everything finishes cooking together. Top the finished dish with a fistful of roughly chopped tender herbs and lime zest for a jolt of brightness.",
+      "author": {
+        "@type": "Person",
+        "name": "Colu Henry"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/eccd64ee-cd7a-51a2-804e-5fb7ffa3d2ca#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/03/25/dining/ch-moroccan-chicken/merlin_170016399_a730fbd8-51fd-4700-b061-3b3e573076e6-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2020-03-25T22:02:05.802Z",
+          "datePublished": "2020-03-25T22:02:05.802Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-03-25T22:02:05.802Z",
+          "url": "https://static01.nyt.com/images/2020/03/25/dining/ch-moroccan-chicken/merlin_170016399_a730fbd8-51fd-4700-b061-3b3e573076e6-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/eccd64ee-cd7a-51a2-804e-5fb7ffa3d2ca#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/03/25/dining/ch-moroccan-chicken/merlin_170016399_a730fbd8-51fd-4700-b061-3b3e573076e6-superJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2020-03-25T22:02:05.802Z",
+          "datePublished": "2020-03-25T22:02:05.802Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2020-03-25T22:02:05.802Z",
+          "url": "https://static01.nyt.com/images/2020/03/25/dining/ch-moroccan-chicken/merlin_170016399_a730fbd8-51fd-4700-b061-3b3e573076e6-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/eccd64ee-cd7a-51a2-804e-5fb7ffa3d2ca#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/03/25/dining/ch-moroccan-chicken/merlin_170016399_a730fbd8-51fd-4700-b061-3b3e573076e6-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2020-03-25T22:02:05.802Z",
+          "datePublished": "2020-03-25T22:02:05.802Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2020-03-25T22:02:05.802Z",
+          "url": "https://static01.nyt.com/images/2020/03/25/dining/ch-moroccan-chicken/merlin_170016399_a730fbd8-51fd-4700-b061-3b3e573076e6-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT1H",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, poultry, main course",
+      "keywords": "chicken thigh, couscous, cumin, leek, lime, partial-access-ic, skillet, fall, spring, winter",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 2347
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 1068,
+        "unsaturatedFatContent": "46 grams",
+        "carbohydrateContent": "55 grams",
+        "cholesterolContent": null,
+        "fatContent": "67 grams",
+        "fiberContent": "5 grams",
+        "proteinContent": "59 grams",
+        "saturatedFatContent": "15 grams",
+        "sodiumContent": "1168 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 1/2 pounds bone-in, skin-on chicken thighs (about 6 thighs)",
+        "1 teaspoon fresh lime zest plus 1/4 cup juice (from 2 limes)",
+        "3 tablespoons olive oil",
+        "3 large garlic cloves, roughly chopped",
+        "1 1/2 teaspoons ground cumin",
+        "Kosher salt and black pepper",
+        "2 tablespoons grapeseed or canola oil",
+        "1 large leek, trimmed, rinsed of grit then thinly sliced into rings (about 1 1/2 cups), or 1 medium yellow onion, chopped",
+        "1 tablespoon harissa paste, tomato paste or chile-garlic sauce",
+        "1 teaspoon ground turmeric",
+        "1/2 teaspoon ground cinnamon",
+        "1 1/4 cups pearl couscous or orzo",
+        "1 1/2 cups chicken stock or vegetable stock",
+        "1/2 cup roughly chopped mixed tender herbs such as parsley, cilantro and mint (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the chicken thighs, lime juice, olive oil, garlic and cumin. Season well with salt and pepper and stir together until the chicken is well coated in the marinade; set aside at room temperature for 25 to 30 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a deep, 12-inch skillet or Dutch oven with a lid, heat the grapeseed or canola oil over medium-high. When it shimmers, lift the chicken out of the marinade, allowing any excess liquid to drip back into the bowl, then add the chicken to the skillet, skin-side down. Working in batches, if necessary, to avoid crowding the pan, cook until the chicken is well browned on both sides, about 6 minutes per side. Remove and set aside on a plate."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Reduce heat to medium, add the leek and cook, stirring occasionally, until soft and translucent, 3 to 4 minutes, scraping up any brown bits that have formed on the bottom of the pan. Stir in the harissa paste, turmeric and cinnamon, and cook until lightly toasted, 1 to 2 minutes. Season well with salt."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the couscous to the pan and stir until well coated in the spiced leek oil. Add the stock and bring to a boil. Turn heat to low and add the chicken back to the pan, skin-side up, along with any accumulated juices. Cover and simmer until the couscous is al dente and the chicken is cooked through, 10 to 15 minutes. If you’re lucky, some of the couscous may slightly stick to the bottom of the pan, creating well-seasoned crispy bites."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Remove from the heat and remove the lid. Scatter with the herbs, if using, and the lime zest, then serve from the pan."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2020-03-26T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Josie"
+          },
+          "reviewBody": "Make with 1 cup of white rice and 2 cups of broth instead of couscous and it turned out great. Also topped with some Greek yogurt which was delicious.",
+          "datePublished": "2025-05-07T17:12:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sasha"
+          },
+          "reviewBody": "Really great recipe, I added some nuts for garnish (sunflower seeds, sliced almonds, pistachios, any of these would work) and I always double the garlic in any recipe. Also blanched some broccoli and added it to the mixture towards the end to add some veggies to it. All in all great recipe!",
+          "datePublished": "2025-05-02T00:01:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie"
+          },
+          "reviewBody": "Way too much oil. I thought about draining some out after cooking the chicken but didn’t - that was a mistake. Recipe is fine but I wouldn’t make it again.",
+          "datePublished": "2025-04-26T01:24:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elli"
+          },
+          "reviewBody": "Very yummy and not hard to make😋",
+          "datePublished": "2025-04-12T00:07:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Saaron Mortberg"
+          },
+          "reviewBody": "Made this since I had extra pearl couscous in the cabinet. Great recipe would make again. I added some dried fruit (raisins and apricots) to give it more Moroccan flavor and I would say that is a must!",
+          "datePublished": "2025-03-11T03:12:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DK"
+          },
+          "reviewBody": "Cooked chicken for 10 min a side on lower heat. Was cooked well. Fun dish. Chicken wasn’t too flavorful. Wish I had added raisins per other comments. Also, add lime juice at the end for more brightness.",
+          "datePublished": "2025-02-23T04:30:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MA"
+          },
+          "reviewBody": "Delicious!! I used boneless chicken thighs and tried to adjust cooking time accordingly but the chicken was very dry. Next time will just add back to the pan at the very end.",
+          "datePublished": "2025-01-28T03:27:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Yasmin"
+          },
+          "reviewBody": "The couscous was EXCEPTIONAL but the chicken came out a bit bland and skin wasnt very crispy. I marinated it for 30 mins so not sure what happened there. I will definitely make the couscous on its own again and maybe serve with a lamb meatball or Kofta. I also swapped the canola oil for olive oil and it worked well!",
+          "datePublished": "2025-01-21T00:24:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura Roberts"
+          },
+          "reviewBody": "Followed recipe but used boneless / skinless chicken thighs as I don't care to deal with the skin and bones.  Turned out great and delicious!",
+          "datePublished": "2025-01-15T18:40:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hayley"
+          },
+          "reviewBody": "I added golden raisins, carrots, and almond slices. The raisins are a must. \n\nAfter hearing concern about the greasiness, I crisped up the thighs under the broiler after sautéing in order to render some of the fat.  I probably would just do skinless thighs from now on  since the skin didn’t turn out crispy anyway. \n\nOverall it was good but I’m not rushing to make it again. A little more bland than I had expected.",
+          "datePublished": "2025-01-13T16:25:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ZD"
+          },
+          "reviewBody": "To ensure crispy skin, I often bake the marinated chicken thighs in a 400 degree oven for an hour before proceeding with the recipe. The couscous base is phenomenal with any number of the following additions: carrots, chickpeas, preserved lemons, olives, raisins, dried apricots, etc., to give it more of a tagine feel. The sprinkling of fresh herbs at the end is not to be missed.",
+          "datePublished": "2025-01-10T18:53:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrea"
+          },
+          "reviewBody": "Next time would double the cumin, turmeric, and the cinnamon. This dish deserves a blast of flavor!",
+          "datePublished": "2025-01-06T01:13:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Belle and TBone's Kitchen"
+          },
+          "reviewBody": "We substituted salmon and it was also delicious!",
+          "datePublished": "2024-12-20T23:58:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patricia"
+          },
+          "reviewBody": "Has anyone ever added curry?",
+          "datePublished": "2024-12-17T13:18:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Luke P"
+          },
+          "reviewBody": "I've made this recipe every week since I discovered it a couple months ago. Such a win! My additions:\n- Use whatever kind of chicken you want (we usually get tenders and they work great)\n- Use a full teaspoon of cinnamon\n- 1/2 tbsp Harissa and 3/4 tbsp Tomato paste to take down the spice level\n- Add 1 can drained garbanzo beans\n- Add 1 large handful raisins\nAnd profit! We've made this for ourselves and guests with rave reviews. Love love love!",
+          "datePublished": "2024-11-18T03:10:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ziggy"
+          },
+          "reviewBody": "Halved this as I'm cooking for one. Had some orzo that I wanted to use up, so that went in place of the couscous. Used water instead of stock, onion instead of leek, and lemon instead of lime, as the author recommended on Instagram—all serviceable substitutions. And when I went to add the cinnamon, I accidentally dropped the container into the pot, so that was accidentally quadrupled (octupled?)! But I just loved the result, so, if I make this again, that mistake will be repeated.",
+          "datePublished": "2020-04-25T15:25:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rubi D."
+          },
+          "reviewBody": "I only had boneless skinless thighs and this still turned out amazing!",
+          "datePublished": "2020-04-23T03:11:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca"
+          },
+          "reviewBody": "I love this recipe.  I add chick peas to the cous cous and golden raisins for the last few minutes...so delicious.  And great leftovers.  I need more savory cinnamon in my life!",
+          "datePublished": "2021-02-24T14:34:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "nd"
+          },
+          "reviewBody": "can you use quinoa or farro instead of couscous?",
+          "datePublished": "2020-04-22T16:28:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen"
+          },
+          "reviewBody": "After cooking the chicken and before cooking the leek/onion, I used a paper towel to sop up most of the oil in the pan.  It was delicious and not greasy at all.",
+          "datePublished": "2020-06-17T19:28:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris"
+          },
+          "reviewBody": "Followed this recipe to a T. Agree that the chicken may need to be cooked longer (and perhaps slightly lower temp if looking to avoid excessive blackening of the skin. End result was delicious be incredibly greasy. Any thoughts on avoiding the latter issue?",
+          "datePublished": "2020-05-21T00:02:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CD"
+          },
+          "reviewBody": "Loved this recipe. Easy to prepare and very delicious. Added sweet potatoes to this and sauteed them a little in the chicken fat before adding the leeks. Turned out great!",
+          "datePublished": "2020-04-21T01:13:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nora"
+          },
+          "reviewBody": "Add raisins/dates and almonds/pine nuts",
+          "datePublished": "2021-01-24T05:46:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Isabelle Mulder"
+          },
+          "reviewBody": "Great flavor! The whole crew loved it. The chicken definitely needs more time to cook through - next time we'll cook it initially for about 10 mins instead of 6, and on lower heat to avoid burning the skin.",
+          "datePublished": "2020-05-21T16:02:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BG"
+          },
+          "reviewBody": "Added golden raisins at the end which I highly recommend. And as others have said, cook the chicken on medium heat for longer or it will be under cooked.",
+          "datePublished": "2020-06-05T09:28:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nina"
+          },
+          "reviewBody": "This is my new favorite recipe. I've made it maybe four times in the past month, because it's so easy! I've done it with both lemon and lime, but I think the lime has the best flavor.",
+          "datePublished": "2020-07-26T22:55:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "rj_gray"
+          },
+          "reviewBody": "Marinade the flesh side only. S P only on the skin. Fry skin until crisp. Add 2-3 garlic cloves in with the leek.",
+          "datePublished": "2021-01-12T04:36:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "Delicious!  Will definitely make this again and again! Made it exactly as written with the exception of adding 1/2c more broth and cooking an extra 15 mins.",
+          "datePublished": "2020-10-06T16:45:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KNet"
+          },
+          "reviewBody": "The couscous was delicious and had the desired crispy brown parts from the bottom of the pan. I was disappointed in how little flavor the chicken had. I used the leftovers to make chicken salad. I added some curry powder, chopped cilantro, and golden raisins, and it was delicious in its second iteration.",
+          "datePublished": "2020-06-16T01:37:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Daphnee"
+          },
+          "reviewBody": "I would agree with everyone saying there should be less chicken more couscous. Other than that, this recipe is insanely delicious and super easy. Made it with pearl couscous, leak and harissa.",
+          "datePublished": "2021-01-05T00:25:55.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1020967-skillet-chicken-and-pearl-couscous-with-moroccan-spices",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Colu Henry"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020,
+      "description": "This one-pan meal, which is inspired by the tagines of North Africa, is prepared in a deep skillet or Dutch oven instead of the traditional clay pot. Briefly marinate bone-in chicken thighs in lime juice, garlic, cumin and olive oil, then brown and set aside. (If you’re short on time, skip the marinade; simply add the ground cumin when you’re toasting the other spices in the chicken fat.) Stir in harissa, cinnamon and turmeric, toast until fragrant, then add quick-cooking pearl couscous and the chicken, so everything finishes cooking together. Top the finished dish with a fistful of roughly chopped tender herbs and lime zest for a jolt of brightness.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Skillet Chicken and Pearl Couscous With Moroccan Spices",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/eccd64ee-cd7a-51a2-804e-5fb7ffa3d2ca#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/03/25/dining/ch-moroccan-chicken/merlin_170016399_a730fbd8-51fd-4700-b061-3b3e573076e6-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2020-03-25T22:02:05.802Z",
+          "datePublished": "2020-03-25T22:02:05.802Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-03-25T22:02:05.802Z",
+          "url": "https://static01.nyt.com/images/2020/03/25/dining/ch-moroccan-chicken/merlin_170016399_a730fbd8-51fd-4700-b061-3b3e573076e6-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/eccd64ee-cd7a-51a2-804e-5fb7ffa3d2ca#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/03/25/dining/ch-moroccan-chicken/merlin_170016399_a730fbd8-51fd-4700-b061-3b3e573076e6-superJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2020-03-25T22:02:05.802Z",
+          "datePublished": "2020-03-25T22:02:05.802Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2020-03-25T22:02:05.802Z",
+          "url": "https://static01.nyt.com/images/2020/03/25/dining/ch-moroccan-chicken/merlin_170016399_a730fbd8-51fd-4700-b061-3b3e573076e6-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/eccd64ee-cd7a-51a2-804e-5fb7ffa3d2ca#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/03/25/dining/ch-moroccan-chicken/merlin_170016399_a730fbd8-51fd-4700-b061-3b3e573076e6-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2020-03-25T22:02:05.802Z",
+          "datePublished": "2020-03-25T22:02:05.802Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2020-03-25T22:02:05.802Z",
+          "url": "https://static01.nyt.com/images/2020/03/25/dining/ch-moroccan-chicken/merlin_170016399_a730fbd8-51fd-4700-b061-3b3e573076e6-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020967-skillet-chicken-and-pearl-couscous-with-moroccan-spices"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:17:14.910Z",
+  "scraping_status": "scraped"
+}

@@ -1,0 +1,1383 @@
+{
+  "id": "465d60191c674542",
+  "original_url": "https://www.maangchi.com/recipe/jjinppang-mandu",
+  "canonical_url": "https://www.maangchi.com/recipe/jjinppang-mandu",
+  "fetched_title": "Steamed pork buns (Jjinppang-mandu) recipe by Maangchi",
+  "main_text_content": "&ldquo;We used to make a large quantity at once, enough to eat for the whole winter. We kept hundreds of steamed pork buns in earthenware pots in the yard. The weather was so cold...",
+  "main_html_content": "<h1 class=\"entry-title mega-heading\">Steamed pork buns</h1><h2 class=\"entry-title mega-heading-translation\"><span class=\"romanized-name\">Jjinppang-mandu</span> <span class=\"korean-name\">찐빵만두</span></h2><p class=\"author vcard postedby\">By <a href=\"/about\" rel=\"author\"><span class=\"fn n nickname\">Maangchi</span></a></p><p class=\"postdate updated\">Updated on December 18th, 2021</p><div  class=\"rmp-widgets-container rmp-wp-plugin rmp-main-container js-rmp-widgets-container js-rmp-widgets-container--8543 \"  data-post-id=\"8543\"><div class=\"rmp-rating-widget js-rmp-rating-widget\"><div class=\"rmp-rating-widget__icons\"><ul class=\"rmp-rating-widget__icons-list js-rmp-rating-icons-list\"><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Not at all useful\" data-value=\"1\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Somewhat useful\" data-value=\"2\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Good recipe\" data-value=\"3\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Great recipe\" data-value=\"4\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"The besttt!!!\" data-value=\"5\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li></ul>",
+  "publication_date": "2010-08-15T15:01:22+00:00",
+  "author": "Maangchi",
+  "key_image_url": "https://i.ytimg.com/vi/jzG5CXE0hfo/hqdefault.jpg?meta=og:image",
+  "local_image_path": "scraped/465d60191c674542/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "/recipe/jjinppang-mandu#sso/recipe/8543",
+          "@context": "https://schema.org",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.maangchi.com/recipe/jjinppang-mandu",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu",
+          "sameAs": [
+            "https://www.maangchi.com/?p=8543"
+          ],
+          "name": "Steamed pork buns (Jjinppang-mandu)",
+          "description": "&ldquo;We used to make a large quantity at once, enough to eat for the whole winter. We kept hundreds of steamed pork buns in earthenware pots in the yard. The weather was so cold that the buns were frozen the whole winter, until we finished them. They were hard as stones the whole time. We ate them...",
+          "aggregateRating": {
+            "@id": "/recipe/jjinppang-mandu#sso/recipe/8543/rating-aggregate/5/495/1/5"
+          },
+          "image": [
+            {
+              "@id": "https://i.ytimg.com/vi/jzG5CXE0hfo/hqdefault.jpg?meta=og:image#sso/image-object"
+            }
+          ],
+          "video": [
+            {
+              "@id": "https://www.youtube.com/embed/jzG5CXE0hfo#sso/video-object"
+            }
+          ],
+          "publisher": [
+            {
+              "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+            }
+          ],
+          "headline": "Steamed pork buns (Jjinppang-mandu)",
+          "keywords": "Asian cooking, Asian cuisine, 만두, 찐빵, 찐빵만두, jjinppang mandu, korean food, Korean kitchen, recipe, steamed pork buns, video recipe",
+          "isFamilyFriendly": true,
+          "inLanguage": "en_US",
+          "datePublished": "2010-08-15T15:01:22+00:00",
+          "dateModified": "2021-12-18T22:07:32+00:00",
+          "author": {
+            "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+          },
+          "thumbnailUrl": "https://i.ytimg.com/vi/jzG5CXE0hfo/hqdefault.jpg?meta=og:image",
+          "commentCount": 151,
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/50664"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/49714"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/46088"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/45876"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/44862"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/44816"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/43742"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/42951"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/41027"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/40231"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/40025"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/39934"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/39927"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/35792"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/35604"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35379"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35344"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35289"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35277"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35217"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/34617"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/34580"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/34544"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/34443"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/34219"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33587"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33541"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33245"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33177"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33052"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/32954"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/32847"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/30573"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/30366"
+            },
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/30125"
+            }
+          ],
+          "recipeCuisine": "Korean",
+          "recipeCategory": "Main dish",
+          "recipeIngredient": [],
+          "recipeInstructions": [
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 1
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 2
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu#sso/recipe/8543/rating-aggregate/5/495/1/5",
+          "@context": "https://schema.org",
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "ratingCount": 495,
+          "worstRating": 1,
+          "bestRating": 5
+        },
+        {
+          "@id": "https://i.ytimg.com/vi/jzG5CXE0hfo/hqdefault.jpg?meta=og:image#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://i.ytimg.com/vi/jzG5CXE0hfo/hqdefault.jpg?meta=og:image",
+          "alternativeHeadline": "Steamed pork buns (Jjinppang-mandu: ì°ë¹µë§ë)",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-480"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-360"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-480",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "480"
+        },
+        {
+          "@id": "#sso/qv-height-px-360",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "360"
+        },
+        {
+          "@id": "https://www.youtube.com/embed/jzG5CXE0hfo#sso/video-object",
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "url": "https://www.youtube.com/embed/jzG5CXE0hfo",
+          "name": "Steamed pork buns (Jjinppang-mandu: ì°ë¹µë§ë)",
+          "description": "Full recipe: http://www.maangchi.com/recipe/jjinppang-manduYou can also read the story of Mrs. Bong, who taught me how to make this, and see photos of how fl...",
+          "embedUrl": "https://www.youtube.com/embed/jzG5CXE0hfo",
+          "encodingFormat": "text/html",
+          "duration": "PT12M46S",
+          "uploadDate": "2010-08-15T14:23:00+00:00",
+          "thumbnailUrl": "https://i.ytimg.com/vi/jzG5CXE0hfo/hqdefault.jpg?meta=og:image",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ],
+          "keywords": "steamed pork buns, pork buns, steamed buns, delicious, howto, cooking, recipe, pork, food, recipes, cooking video, YouTube cooking videos, Korean recipe, Korean food, Korean cooking, Korean cuisine, Korean kitchen, fluffy buns, homemade steamed buns, Maangchi, Maangchi's recipes, jjinppang mandu jjinpang mandu, tasty, yummy, snack, meat, ì°ë¹µë§ë"
+        },
+        {
+          "@id": "#sso/qv-width-px-1280",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1280"
+        },
+        {
+          "@id": "#sso/qv-height-px-720",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "720"
+        },
+        {
+          "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person",
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "url": "https://www.maangchi.com",
+          "name": "Maangchi",
+          "description": "Author archive page for Maangchi.",
+          "image": [
+            {
+              "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object"
+            }
+          ]
+        },
+        {
+          "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-1200"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "#sso/qv-height-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png",
+          "identifier": "93971-wpsso-schema-4x3",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-900"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-900",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "900"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png",
+          "identifier": "93971-wpsso-schema-16x9",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-675"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-675",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "675"
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/50664",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-50664",
+          "name": "Comment by WishfulsoUl on April 17, 2020",
+          "description": "Out of boredom made quite a lot of these beauties and delivered to my friend&#039;s house. On my way back&hellip;",
+          "text": "Out of boredom made quite a lot of these beauties and delivered to my friend&#039;s house. On my way back home she sent me a feedback that she really loved the taste and said she will try to make some for herself&hellip; That wonderful feeling when you shared something worth doing is fulfilling:) Thanks to you Maangchi ^^_^^",
+          "dateCreated": "2020-04-17T22:16:15-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "WishfulsoUl"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/49714",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-49714",
+          "name": "Comment by annieboo0529 on August 12, 2019",
+          "description": "Hi Maangchi, my husband doesn&rsquo;t like pork &mdash; can these be made with only mushrooms and kimchi?",
+          "text": "Hi Maangchi, my husband doesn&rsquo;t like pork &mdash; can these be made with only mushrooms and kimchi?",
+          "dateCreated": "2019-08-12T02:48:00-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "annieboo0529"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/46088",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-46088",
+          "name": "Comment by MSUEH on July 10, 2017",
+          "description": "Just one minor change I make for the dipping sauce: Chop the onion &amp; peppers more finely than shown in&hellip;",
+          "text": "Just one minor change I make for the dipping sauce: Chop the onion &amp; peppers more finely than shown in the video, so they can be more evenly distributed with each bun :-) YUM!",
+          "dateCreated": "2017-07-10T01:28:00-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "MSUEH"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/45876",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-45876",
+          "name": "Comment by Mi Heui on June 3, 2017",
+          "description": "Hi dear maangchi^^ can i freeze this mandu like another mandu?! Thank you for help ^^",
+          "text": "Hi dear maangchi^^ can i freeze this mandu like another mandu?! Thank you for help ^^",
+          "dateCreated": "2017-06-03T21:49:17-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Mi Heui"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/45893"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/45893",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-45893",
+          "name": "Reply by Maangchi on June 5, 2017",
+          "description": "Yes, you can.",
+          "text": "Yes, you can.",
+          "dateCreated": "2017-06-05T14:34:31-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/44862",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-44862",
+          "name": "Comment by HallyuPumba on December 22, 2016",
+          "description": "This was posted so long ago that I don&#039;t even know whether I am going to get any response or&hellip;",
+          "text": "This was posted so long ago that I don&#039;t even know whether I am going to get any response or not, but I would really like to know - can I make it with whole wheat flour instead of all purpose flour? If yes, do I need to change any measurements or something (because it is heavier than all-purpose flour)? Thanks in advance, even though you don&#039;t reply :) P.S.: I really really admire you and I follow you actively :) :D",
+          "dateCreated": "2016-12-22T10:54:33-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "HallyuPumba"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/44816",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-44816",
+          "name": "Comment by winhto on December 13, 2016",
+          "description": "Hi, I made the buns but each time, they went flat instead of fluffy like yours. What did I do&hellip;",
+          "text": "Hi, I made the buns but each time, they went flat instead of fluffy like yours. What did I do wrong here? Thanks",
+          "dateCreated": "2016-12-13T02:16:35-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "winhto"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/43742",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-43742",
+          "name": "Comment by Zillioux1 on May 17, 2016",
+          "description": "Hi,I just made your Stemed dumping for the first time. My Stemer is a little small so it took me&hellip;",
+          "text": "Hi,I just made your Stemed dumping for the first time. My Stemer is a little small so it took me some time but it was well worth it.My family enjoyed them.감사합니다",
+          "dateCreated": "2016-05-17T00:44:03-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Zillioux1"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/43765"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/43765",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-43765",
+          "name": "Reply by Maangchi on May 19, 2016",
+          "description": "Your jjinppang mandu looks gorgeous!",
+          "text": "Your jjinppang mandu looks gorgeous!",
+          "dateCreated": "2016-05-19T02:14:10-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/42951",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-42951",
+          "name": "Comment by kathing on January 10, 2016",
+          "description": "Made these buns today and they were amazing! My family also fell for them and has requested me to make&hellip;",
+          "text": "Made these buns today and they were amazing! My family also fell for them and has requested me to make them often &lt;3 Thank you soooo much for this recipe!! Love from Norway!",
+          "dateCreated": "2016-01-10T14:25:11-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "kathing"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/41027",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-41027",
+          "name": "Comment by Tamar on April 30, 2015",
+          "description": "Do you think this would reheat well?",
+          "text": "Do you think this would reheat well?",
+          "dateCreated": "2015-04-30T11:25:25-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Tamar"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/40231",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-40231",
+          "name": "Comment by naimatou on February 16, 2015",
+          "description": "Hello; I do not eat pork, would it be nice with chiken or beef ??",
+          "text": "Hello; I do not eat pork, would it be nice with chiken or beef ??",
+          "dateCreated": "2015-02-16T14:47:39-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "naimatou"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/40232"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/40232",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-40232",
+          "name": "Reply by Maangchi on February 16, 2015",
+          "description": "Yes, you could use beef or chicken. It will turn out delicious.",
+          "text": "Yes, you could use beef or chicken. It will turn out delicious.",
+          "dateCreated": "2015-02-16T15:06:29-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/40235"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/40235",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-40235",
+          "name": "Reply by naimatou on February 16, 2015",
+          "description": "thank you so much, I will try it :D",
+          "text": "thank you so much, I will try it :D",
+          "dateCreated": "2015-02-16T15:36:47-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "naimatou"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/49810"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/49810",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-49810",
+          "name": "Reply by taltost on September 29, 2019",
+          "description": "Hay Maangchi, I have made the buns so many times and some time&#039;s with different filing! Your recipe are exciting!!!!!",
+          "text": "Hay Maangchi, I have made the buns so many times and some time&#039;s with different filing! Your recipe are exciting!!!!!",
+          "dateCreated": "2019-09-29T11:06:29-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "taltost"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/40025",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-40025",
+          "name": "Comment by jilly on January 28, 2015",
+          "description": "hi,,,maang chi,,i want to ask you where to buy the steamer like yours? thanks",
+          "text": "hi,,,maang chi,,i want to ask you where to buy the steamer like yours? thanks",
+          "dateCreated": "2015-01-28T15:13:58-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "http://n/a",
+            "name": "jilly"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/40032"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/40032",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-40032",
+          "name": "Reply by Maangchi on January 28, 2015",
+          "description": "I bought it in Chinatown in Toronto, Canada. Check out your local Asian grocery store or Kitchenware store including Korean&hellip;",
+          "text": "I bought it in Chinatown in Toronto, Canada. Check out your local Asian grocery store or Kitchenware store including Korean grocery stores.",
+          "dateCreated": "2015-01-28T17:01:40-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/39934",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-39934",
+          "name": "Comment by lorensantoso on January 20, 2015",
+          "description": "maangchi, can we use instant yeast instead ? and how many should i put ?",
+          "text": "maangchi, can we use instant yeast instead ? and how many should i put ?",
+          "dateCreated": "2015-01-20T12:27:15-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "lorensantoso"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/39946"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/39946",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-39946",
+          "name": "Reply by Maangchi on January 20, 2015",
+          "description": "Use the same amount as the recipe calls for.",
+          "text": "Use the same amount as the recipe calls for.",
+          "dateCreated": "2015-01-20T16:18:03-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/39927",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-39927",
+          "name": "Comment by knitkitsune on January 18, 2015",
+          "description": "I just made these for the first time the other night and they turned out so well! I was so&hellip;",
+          "text": "I just made these for the first time the other night and they turned out so well! I was so happy because I haven&#039;t always been successful with yeasted dough, and they were soft and fluffy and just right! My husband loved them and can&#039;t wait for me to make them again! I also want to try them with red bean filling and maybe black sesame.",
+          "dateCreated": "2015-01-18T21:06:38-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "knitkitsune"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/39940"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/39940",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-39940",
+          "name": "Reply by Maangchi on January 20, 2015",
+          "description": "It sounds like you made fluffy and delicious steamed pork buns! Congratulations!",
+          "text": "It sounds like you made fluffy and delicious steamed pork buns! Congratulations!",
+          "dateCreated": "2015-01-20T15:16:24-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/35792",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-35792",
+          "name": "Comment by jfung on July 7, 2013",
+          "description": "Help! I can&#039;t get the dough to rise for some reason. It always hard and yellow when i finish steaming&hellip;",
+          "text": "Help! I can&#039;t get the dough to rise for some reason. It always hard and yellow when i finish steaming them :(",
+          "dateCreated": "2013-07-07T19:20:11-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "jfung"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/35604",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-35604",
+          "name": "Comment by DarkVixen on June 8, 2013",
+          "description": "Definitly need a recipe using something other then flour due to wheat allergies...I use to love eating these and can&hellip;",
+          "text": "Definitly need a recipe using something other then flour due to wheat allergies...I use to love eating these and can no longer eat them..Gluten free flour just doesnt taste the same when you try to make these.. I think a rice flour would be better!! Gonna have to experiment some with this!!",
+          "dateCreated": "2013-06-08T17:17:39-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "DarkVixen"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/36245"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-3#sso/comment/36245",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-3#comment-36245",
+          "name": "Reply by Creepy_Apple on September 16, 2013",
+          "description": "I saw on a show some people making the dough out of dried corn. They had to knead it for&hellip;",
+          "text": "I saw on a show some people making the dough out of dried corn. They had to knead it for a while though, but it seemed reeeeaally good. Maybe you could try that?",
+          "dateCreated": "2013-09-16T02:32:59-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Creepy_Apple"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35379",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-35379",
+          "name": "Comment by Rai on May 5, 2013",
+          "description": "I will have to try your recipe out. I&#039;ve spent the last 3 years making various steamed bun recipes with&hellip;",
+          "text": "I will have to try your recipe out. I&#039;ve spent the last 3 years making various steamed bun recipes with all sorts of different fillings! I love steamed buns because of how versatile you can be with the filling. My most popular request I get is for BBQ Pork, simple and really yummy :)",
+          "dateCreated": "2013-05-05T00:48:14-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Rai"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35344",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-35344",
+          "name": "Comment by sirshartsalot on April 30, 2013",
+          "description": "Maangchi noona!! Annyeonghaseyo?? I love to read your blog for the techniques. I live in Brazil and a lot of&hellip;",
+          "text": "Maangchi noona!! Annyeonghaseyo?? I love to read your blog for the techniques. I live in Brazil and a lot of the ingredients are unavailable, but your techniques are so solid! I made these dumplings and I have some tips for your readers: 1. Don&#039;t try to roll the dough too thin. When the dumplings rise for the last time, the yeast bubbles will compromise the dough and they become like wet paper bags. If you can, keep the dough in the center of the circle (the bottom) thick, and the edges (the top) thin. Then you will have nice, even buns. 2. Get as much water out of the filling as you can. Either cook it out, or if you have a vegetarian filling (in my case), *wait*. If you don&#039;t, and you have a small steamer and you have to steam in batches (in my case), the water will inundate the bottom of the bun, and again, wet paper bag. Yeast is a living thing and if you don&#039;t respect it, you get soggy buns. :) 3. Don&#039;t be lazy making the sauce. These have a high bread-tp-filling ratio and they need to be seasoned after they&#039;re cooked. That&#039;s what the sauce is for. My wife loves you, maangchi!! Fighting!",
+          "dateCreated": "2013-04-30T13:51:16-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "sirshartsalot"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35289",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-35289",
+          "name": "Comment by NorthBelle on April 20, 2013",
+          "description": "Maaangchi - tae dan hi kamsah hamnidah! This is an awesome recipe. My Yobbo (nampyon) just made these. MAYOO MASHESAYO!&hellip;",
+          "text": "Maaangchi - tae dan hi kamsah hamnidah! This is an awesome recipe. My Yobbo (nampyon) just made these. MAYOO MASHESAYO! YUM!!!!!!! Great to eat any time of the day or night. I even take them to work for my mid-morning snack and heat them in the microwave very briefly.",
+          "dateCreated": "2013-04-20T20:21:51-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "NorthBelle"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35277",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-35277",
+          "name": "Comment by catloverwolfe@gmail.com on April 19, 2013",
+          "description": "Hi, I just wondering Can I use my bamboo steam for the steam buns??",
+          "text": "Hi, I just wondering Can I use my bamboo steam for the steam buns??",
+          "dateCreated": "2013-04-19T04:00:05-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "catloverwolfe@gmail.com"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35378"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35378",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-35378",
+          "name": "Reply by Rai on May 5, 2013",
+          "description": "I make buns all the time, and I use a bamboo steamer. They come out just the same!",
+          "text": "I make buns all the time, and I use a bamboo steamer. They come out just the same!",
+          "dateCreated": "2013-05-05T00:43:50-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Rai"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35217",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-35217",
+          "name": "Comment by ilovekoreancuisine on April 8, 2013",
+          "description": "Hi Maangchi! Thank you so much for sharing this lovely recipe - I made these for the first time today&hellip;",
+          "text": "Hi Maangchi! Thank you so much for sharing this lovely recipe - I made these for the first time today but unfortunately they did not turn out as great :(. The dough became a dull yellow/grey brown colour after steaming and was really hard to knead. I followed your recipe except I used plain flour (no all purpose flour here in the UK) and olive oil. Am I doing something wrong?",
+          "dateCreated": "2013-04-08T19:38:42-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "ilovekoreancuisine"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35228"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35228",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-35228",
+          "name": "Reply by Maangchi on April 9, 2013",
+          "description": "You got the right flour because plain flour is all purpose flour. I think the dough didn&#039;t rise properly. Check&hellip;",
+          "text": "You got the right flour because plain flour is all purpose flour. I think the dough didn&#039;t rise properly. Check out your yeast to see if it&#039;s still active or not. And when you mix the yeast with water, the temperature of the water shouldn&#039;t be too high. Less than 30 celsius.",
+          "dateCreated": "2013-04-09T20:57:09-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/34617",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-34617",
+          "name": "Comment by Lore on January 18, 2013",
+          "description": "the water has to be hot or have to be boiled????",
+          "text": "the water has to be hot or have to be boiled????",
+          "dateCreated": "2013-01-18T03:15:08-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Lore"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/34918"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/34918",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-34918",
+          "name": "Reply by MeepKitty on February 27, 2013",
+          "description": "boiling!",
+          "text": "boiling!",
+          "dateCreated": "2013-02-27T01:43:32-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "MeepKitty"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/34580",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-34580",
+          "name": "Comment by Aeriae on January 12, 2013",
+          "description": "These taste great with ground Turkey as well. I added a tablespoon of Worchestershire Sauce along with the soy sauce&hellip;",
+          "text": "These taste great with ground Turkey as well. I added a tablespoon of Worchestershire Sauce along with the soy sauce and whatever to season it just because I could &lt;3 The only other ingredient alternations I made was using bamboo salt instead of normal salt and I used less because my father has high blood pressure, so there were no juices to drain out. I would like to say that having an electronic steamer (that my mom bought on a whim) made it a lot easier. The only problem was that it was not round but a bit flatish... but that may be because I tried to steam too much of it at once. The little girl I tutor loved it. She ate nine in one sitting and wouldn&#039;t share with her brothers and father. I&#039;ve gotten multiple comments that it was very clean and healthy tasting unlike store brands. This is the first recipe that I&#039;ve tried from your website and will be trying more (since I&#039;m trying to cook more Korean foods)",
+          "dateCreated": "2013-01-12T22:02:59-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Aeriae"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/34544",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-34544",
+          "name": "Comment by Sophisto on January 8, 2013",
+          "description": "Hi Maangchi! Thank you so much for putting this recipe up, my family loves it! I&#039;ve made them multiple times&hellip;",
+          "text": "Hi Maangchi! Thank you so much for putting this recipe up, my family loves it! I&#039;ve made them multiple times already. Tomorrow I&#039;m planning to make a triple batch, Instead of putting all the veggies in the bun I leave them to the side. They are so delicious! Thank you !",
+          "dateCreated": "2013-01-08T20:17:45-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Sophisto"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/34443",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-34443",
+          "name": "Comment by Beel on December 25, 2012",
+          "description": "Hi Maangchi! Just wanted to let you know that I love every recipe you put on the site! I&#039;m planning&hellip;",
+          "text": "Hi Maangchi! Just wanted to let you know that I love every recipe you put on the site! I&#039;m planning on doing them all! lol But I just wanted to know where you bought your steamer or maybe you could tell me what brand it is ... By the way are there any kitchen tools that you recommend?? Which ones are a must have??? Merry x-mas Maangchi Take care!!",
+          "dateCreated": "2012-12-25T19:37:23-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Beel"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/34219",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-34219",
+          "name": "Comment by nikujaga on November 5, 2012",
+          "description": "Hi Maangchi! I made these twice and both times my buns grew cute and big in the steamer and then&hellip;",
+          "text": "Hi Maangchi! I made these twice and both times my buns grew cute and big in the steamer and then after I opened the lid, rough hard yellowish spots appear on the surface of the buns. Looked like my buns had yellow rashes. I have the same steamer as yours except my lid is glass so I can see what&#039;s in there. I followed your directions to leave one inch gap between each bun and away from e sides of the steamer. :( I tried googling what&#039;s wrong and I came across people saying to prevent blemishes, open the lid quickly to prevent water droplets from dripping onto the buns. I did that, had blemishes. and I even cover the lid with a cloth to collect all the water droplets for one batch, didn&#039;t work. I placed dry cloth on the buns another batch and they still have blemishes. So I tried placing a parchment paper on top of the buns and also wrap a cloth around the lid. Still the same. Any idea what&#039;s wrong? :( I really want to make the good looking buns on top of them tasting great. If not I will be the only one eating these delicious babies :(",
+          "dateCreated": "2012-11-05T13:21:25-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "http://www.youtube.com/user/irenenergy?feature=mhum",
+            "name": "nikujaga"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/34355"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/34355",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-34355",
+          "name": "Reply by ramjam on December 2, 2012",
+          "description": "I have learned on the &#039;net that the yellow spots are caused by water dropping on to the dumplings during&hellip;",
+          "text": "I have learned on the &#039;net that the yellow spots are caused by water dropping on to the dumplings during steaming. Traditional steamers do not have this problem. A suggestion would be to place a teatowel inside the lid of your steamer.",
+          "dateCreated": "2012-12-02T15:15:49-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "ramjam"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33587",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-33587",
+          "name": "Comment by fitXmom on August 6, 2012",
+          "description": "I am looking for a recipe to make the steamed buns with whole wheat flour. I started buying these two&hellip;",
+          "text": "I am looking for a recipe to make the steamed buns with whole wheat flour. I started buying these two weeks ago and love them but I try to keep my white flour intake down. If they come out good, I will share with everyone.",
+          "dateCreated": "2012-08-06T17:51:43-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "http://www.teambeachbody.com/Stepmom1",
+            "name": "fitXmom"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33541",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-33541",
+          "name": "Comment by Woman loves korea on August 2, 2012",
+          "description": "Hi maangch! Ur website is v.useful for me.. Thanks alot ... About steamed bun ... If i replace the pork&hellip;",
+          "text": "Hi maangch! Ur website is v.useful for me.. Thanks alot ... About steamed bun ... If i replace the pork with beef... Is that making a big different in the taste? And sorry for my bad english language&gt;_&lt;",
+          "dateCreated": "2012-08-02T08:23:22-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Woman loves korea"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33542"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33542",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-33542",
+          "name": "Reply by Maangchi on August 2, 2012",
+          "description": "Yes, you can replace pork with beef. It will turn out very delicious.",
+          "text": "Yes, you can replace pork with beef. It will turn out very delicious.",
+          "dateCreated": "2012-08-02T13:01:11-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33245",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-33245",
+          "name": "Comment by kkat9011 on June 21, 2012",
+          "description": "I just made these today, and they&#039;re so good! My brother doesn&#039;t usually like vegetables, and he really hates onions,&hellip;",
+          "text": "I just made these today, and they&#039;re so good! My brother doesn&#039;t usually like vegetables, and he really hates onions, but he&#039;s raving about these. A huge success! I added 2 ounces more of pork than you used (so 16 instead of 14) but it wasn&#039;t that big a difference, and all the flavor is still there",
+          "dateCreated": "2012-06-21T23:15:45-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "kkat9011"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33261"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33261",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-33261",
+          "name": "Reply by Maangchi on June 24, 2012",
+          "description": "&quot;A huge success!&quot; : ) Great news!",
+          "text": "&quot;A huge success!&quot; : ) Great news!",
+          "dateCreated": "2012-06-24T10:53:37-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33177",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-33177",
+          "name": "Comment by Sali on June 7, 2012",
+          "description": "I made these yesterday, they were a huge success! I couldn&#039;t leave the house to go to the store, so&hellip;",
+          "text": "I made these yesterday, they were a huge success! I couldn&#039;t leave the house to go to the store, so I used a different filling... I used chicken, ginger, chinese cabbage, mushrooms, a little onion and sweet spring cabbage. Maybe not very authentic but tasted great~~ I didn&#039;t have a big steamer so I could only do 4 buns at a time. I kept the rest in the fridge (I had 4 steaming racks) and took them out in time so that they rose while the previous batch was cooking. My buns turned out fluffy and delicious. :) Thank you for the recipe! I want to make these again soon.",
+          "dateCreated": "2012-06-07T10:52:31-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Sali"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33184"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33184",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-33184",
+          "name": "Reply by Maangchi on June 7, 2012",
+          "description": "Thank you very much for sharing your cooking experience with us! &quot;I could only do 4 buns at a time..&quot;&hellip;",
+          "text": "Thank you very much for sharing your cooking experience with us! &quot;I could only do 4 buns at a time..&quot; wow, lots of work! I&#039;m very impressed with your passion for cooking! Cheers!",
+          "dateCreated": "2012-06-07T13:53:58-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33052",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-33052",
+          "name": "Comment by sandy76 on May 24, 2012",
+          "description": "Maangchi! I did the steamed buns this morning, it was very good result:) thank you for your useful recipe.",
+          "text": "Maangchi! I did the steamed buns this morning, it was very good result:) thank you for your useful recipe.",
+          "dateCreated": "2012-05-24T06:40:15-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "sandy76"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33185"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/33185",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-33185",
+          "name": "Reply by Maangchi on June 7, 2012",
+          "description": "Great, I&#039;m happy for you!",
+          "text": "Great, I&#039;m happy for you!",
+          "dateCreated": "2012-06-07T13:54:25-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/32954",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-32954",
+          "name": "Comment by pigrabbit86 on May 11, 2012",
+          "description": "Hi Maangchi! I&#039;m allergic to wheat, would it work if I used rice flour? Thank you :)",
+          "text": "Hi Maangchi! I&#039;m allergic to wheat, would it work if I used rice flour? Thank you :)",
+          "dateCreated": "2012-05-11T02:35:18-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "pigrabbit86"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35603"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/35603",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-35603",
+          "name": "Reply by DarkVixen on June 8, 2013",
+          "description": "I would like to know to, Im allergic to wheat too. Thought maybe a sweet rice bun would do the&hellip;",
+          "text": "I would like to know to, Im allergic to wheat too. Thought maybe a sweet rice bun would do the trick. Let me know if you experiment with this!! Thanks!!",
+          "dateCreated": "2013-06-08T17:11:41-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "DarkVixen"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/32847",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-32847",
+          "name": "Comment by sopheasophea on April 29, 2012",
+          "description": "Today my mother made this (she had some chicken filling left over) and the dough was perfect! She thinks you&#039;re&hellip;",
+          "text": "Today my mother made this (she had some chicken filling left over) and the dough was perfect! She thinks you&#039;re so funny - we&#039;ll be keeping an eye out for your videos ;)",
+          "dateCreated": "2012-04-29T09:46:47-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "sopheasophea"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/32855"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/32855",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-32855",
+          "name": "Reply by Maangchi on April 30, 2012",
+          "description": "Thanks a lot! You mom must be a good cook! Steamed pork bun (jjinppangmandu) is not easy to make for&hellip;",
+          "text": "Thanks a lot! You mom must be a good cook! Steamed pork bun (jjinppangmandu) is not easy to make for a beginner cook.",
+          "dateCreated": "2012-04-30T15:48:35-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/30573",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-30573",
+          "name": "Comment by interestsarefree on November 27, 2011",
+          "description": "Hey, Maangchi! It&#039;s interestsarefree from Flickr. I&#039;m not on there anymore. I decided to be here exclusively. I made hobakjuk&hellip;",
+          "text": "Hey, Maangchi! It&#039;s interestsarefree from Flickr. I&#039;m not on there anymore. I decided to be here exclusively. I made hobakjuk for last year&#039;s Thanksgiving. This year, I made these! I got thirteen of them out of this recipe. I&#039;ll upload a picture soon. My family loved them, especially my mom. We both love steamed buns, but she prefers chapssalddeok as she loves sweet bean paste, known in Peru as frijol colado, except cloves and evaporated milk are added to it. I would apply for a visit to Peru for Gapshida!, but I live in New York. Love your recipes anyway! Go Maangchi!",
+          "dateCreated": "2011-11-27T07:34:51-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "interestsarefree"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/30653"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/30653",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-30653",
+          "name": "Reply by Maangchi on November 28, 2011",
+          "description": "wow, welcome to my website! I&#039;m glad to hear that your 13 babies came out delicious! : )",
+          "text": "wow, welcome to my website! I&#039;m glad to hear that your 13 babies came out delicious! : )",
+          "dateCreated": "2011-11-28T10:12:44-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/30366",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-30366",
+          "name": "Comment by valerieee on November 23, 2011",
+          "description": "Ms. Maangchi, can you substitute white flour for whole wheat flour?",
+          "text": "Ms. Maangchi, can you substitute white flour for whole wheat flour?",
+          "dateCreated": "2011-11-23T17:52:11-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "valerieee"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/30412"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/30412",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-30412",
+          "name": "Reply by Maangchi on November 24, 2011",
+          "description": "Yes, sure. Some of my readers did this already and it turned out great!",
+          "text": "Yes, sure. Some of my readers did this already and it turned out great!",
+          "dateCreated": "2011-11-24T04:09:15-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/30476"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/30476",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-30476",
+          "name": "Reply by valerieee on November 25, 2011",
+          "description": "Cool!... Also, I see that you are very involved in communicating with your followers. Thank you so much for that.&hellip;",
+          "text": "Cool!... Also, I see that you are very involved in communicating with your followers. Thank you so much for that. You really put a lot of effort and care into helping us.",
+          "dateCreated": "2011-11-25T06:23:44-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "valerieee"
+          }
+        },
+        {
+          "@id": "/recipe/jjinppang-mandu/comment-page-2#sso/comment/30125",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjinppang-mandu/comment-page-2#comment-30125",
+          "name": "Comment by chef Benedict on November 21, 2011",
+          "description": "similar to a filipino dish called siopao... i want to do this... i love this dish perfect for snack and&hellip;",
+          "text": "similar to a filipino dish called siopao... i want to do this... i love this dish perfect for snack and perfect for picnic get outs... or potluck and it can be eaten all the way to the road... i hope i can make this through using ground chicken or beef... for vegetarian i guess its tofu...",
+          "dateCreated": "2011-11-21T07:01:31-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "chef Benedict"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "5",
+        "ratingCount": "496",
+        "ratingValue": "5"
+      },
+      "image": "https://www.maangchi.com/wp-content/uploads/2010/08/jjinppangblog-620x415.jpg",
+      "name": "Steamed pork buns (Jjinppang-mandu)",
+      "description": "Steamed pork buns (Jjinppang-mandu)"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:38:08.050Z",
+  "scraping_status": "scraped"
+}

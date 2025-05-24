@@ -1,0 +1,584 @@
+{
+  "id": "57e1daa74dab8d5c",
+  "original_url": "https://cooking.nytimes.com/recipes/1021873-chocolate-stout-cake-with-coffee-glaze",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021873-chocolate-stout-cake-with-coffee-glaze",
+  "fetched_title": "Chocolate Stout Cake With Coffee Glaze Recipe",
+  "main_text_content": "This dark chocolate cake relies on stout beer to add malted notes Coffee helps enhance the chocolate flavor, and sour cream keeps the cake moist for days A spiked coffee glaze studded with cacao nibs lends crunch and a nice bitter edge",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1014419-chocolate-whiskey-cake\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2014/03/24/dining/whiskeycake/whiskeycake-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2014/03/24/dining/whiskeycake/whiskeycake-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2014/03/24/dining/whiskeycake/whiskeycake-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2014/03/24/dining/whiskeycake/whiskeycake-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2014/03/24/dining/whiskeycake/whiskeycake-largeHorizontal375-v3.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2014/03/24/dining/whiskeycake/whiskeycake-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Chocolate Whiskey Cake</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/03/11/dining/LEP-chocolate-stout-cake/merlin_184806084_6e599d1e-7707-441f-a79e-a159bb24e172-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/57e1daa74dab8d5c/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/ec223b5e-6191-56a4-ab0b-184abc54dff9",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021873-chocolate-stout-cake-with-coffee-glaze",
+        "@type": "WebPage",
+        "name": "Chocolate Stout Cake With Coffee Glaze"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021873-chocolate-stout-cake-with-coffee-glaze",
+      "name": "Chocolate Stout Cake With Coffee Glaze",
+      "description": "This dark chocolate cake relies on stout beer to add malted notes. Coffee helps enhance the chocolate flavor, and sour cream keeps the cake moist for days. A spiked coffee glaze studded with cacao nibs lends crunch and a nice bitter edge. This recipe calls for natural-process cocoa powder, which, along with other acidic ingredients like dark brown sugar, coffee, beer and sour cream, reacts with baking soda to make the cake rise. Dutch-process cocoa is chemically neutral and should not be substituted here, as it may cause your cake to rise unevenly and could produce an unpleasant flavor. Available from speciality baking supply stores and online, black cocoa powder is also used in this recipe to enhance the dark cocoa color and flavor, but feel free to substitute more natural cocoa powder.",
+      "author": {
+        "@type": "Person",
+        "name": "Laurie Ellen Pellicano"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/50407022-07f4-5f2a-8b5d-6610a053d181#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Laurie Ellen Pellicano’s chocolate stout cake.",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/11/dining/LEP-chocolate-stout-cake/merlin_184806084_6e599d1e-7707-441f-a79e-a159bb24e172-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Laurie Ellen Pellicano.",
+          "dateModified": "2021-03-11T17:51:02.796Z",
+          "datePublished": "2021-03-11T17:51:02.796Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-03-11T17:51:02.796Z",
+          "url": "https://static01.nyt.com/images/2021/03/11/dining/LEP-chocolate-stout-cake/merlin_184806084_6e599d1e-7707-441f-a79e-a159bb24e172-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/50407022-07f4-5f2a-8b5d-6610a053d181#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Laurie Ellen Pellicano’s chocolate stout cake.",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/11/dining/LEP-chocolate-stout-cake/merlin_184806084_6e599d1e-7707-441f-a79e-a159bb24e172-superJumbo.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Laurie Ellen Pellicano.",
+          "dateModified": "2021-03-11T17:51:02.796Z",
+          "datePublished": "2021-03-11T17:51:02.796Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2021-03-11T17:51:02.796Z",
+          "url": "https://static01.nyt.com/images/2021/03/11/dining/LEP-chocolate-stout-cake/merlin_184806084_6e599d1e-7707-441f-a79e-a159bb24e172-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/50407022-07f4-5f2a-8b5d-6610a053d181#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "caption": "Laurie Ellen Pellicano’s chocolate stout cake.",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/11/dining/LEP-chocolate-stout-cake/LEP-chocolate-stout-cake-mediumSquareAt3X.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Laurie Ellen Pellicano.",
+          "dateModified": "2021-03-11T17:51:02.796Z",
+          "datePublished": "2021-03-11T17:51:02.796Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-03-11T17:51:02.796Z",
+          "url": "https://static01.nyt.com/images/2021/03/11/dining/LEP-chocolate-stout-cake/LEP-chocolate-stout-cake-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT4H",
+      "recipeYield": "1 (10-inch) Bundt cake",
+      "recipeCuisine": "",
+      "recipeCategory": "dessert",
+      "keywords": "beer, bundt cake, cacao nibs, chocolate cake, cocoa powder, coffee, confectioners' sugar, flour, sour cream",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 1099
+      },
+      "recipeIngredient": [
+        "3 cups/384 grams unbleached all-purpose flour, plus 1 tablespoon for dusting the pan",
+        "1/2 cup/50 grams natural process cocoa powder, plus 1 tablespoon for dusting the pan",
+        "3/4 cup/171 grams unsalted butter (1 1/2 sticks), plus more for greasing the pan",
+        "1 tablespoon baking soda",
+        "1/4 cup/25 grams black cocoa powder (or substitute additional natural process cocoa powder)",
+        "2 packed cups/440 grams dark brown sugar",
+        "2 teaspoons to 1 tablespoon fine sea salt (depending on your preference)",
+        "1/3 cup/80 milliliters grapeseed or other neutral oil",
+        "1 cup/240 milliliters stout beer",
+        "1/2 cup/120 milliliters cold-brew or strong brewed coffee",
+        "1 cup/240 grams sour cream",
+        "3 large eggs",
+        "1 tablespoon whiskey",
+        "1 3/4 cups/228 grams confectioners’ sugar",
+        "1 1/2 tablespoons sour cream",
+        "1 tablespoon whiskey",
+        "1/4 teaspoon fine sea salt",
+        "1 to 2 tablespoons cold-brew or strong brewed coffee",
+        "1 to 2 tablespoons cacao nibs"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place a rack in the lower third of the oven and heat to 350 degrees."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a small bowl, stir together 1 tablespoon flour with 1 tablespoon natural process cocoa powder. Grease the inside of a 12-cup Bundt pan with butter and dust with this mixture, taking care to coat the pan entirely."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a medium bowl, whisk the remaining flour with the baking soda. In a large bowl, stir together remaining cocoa powders with the brown sugar and salt. (Mixture will be lumpy.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a small saucepan over medium heat, melt the butter with the oil, beer and coffee, whisking occasionally. When the butter is fully melted and the mixture is hot, pour this mixture into the large bowl with the cocoa powder mixture, and whisk well to combine. Let this mixture cool slightly."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, in a large liquid measuring cup or bowl, whisk together the sour cream, eggs and whiskey. Pour this mixture into the cocoa mixture, whisking as you go, until well combined."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the flour in two to three additions, whisking between each addition, until smooth and no clumps remain. (The batter will be a tad thin.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour batter into the prepared Bundt pan and bake for 40 to 50 minutes, until a skewer inserted into the center comes out clean, rotating your pan at 30 minutes to ensure even cooking."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Remove from the oven and cool for 10 minutes, then invert and release onto a wire rack to cool completely."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the glaze while Bundt is cooling: In a medium bowl, whisk together the confectioners’ sugar, sour cream, whiskey, salt and 1 tablespoon of coffee until smooth. The glaze should make slowly disappearing ribbons when you lift the whisk, similar to the texture of molasses or honey. Add more coffee 1 teaspoon at a time as needed. (To test the glaze, drizzle some on an inverted coffee cup or bowl; it should be a little thick and travel slowly down the sides.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Once the Bundt has cooled completely, use a piping bag, spatula or spoon to glaze your cake. While the glaze is still wet, sprinkle cacao nibs over the surface, pressing lightly to adhere, and let the glaze set until firm, about 30 minutes to 1 hour."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-03-08T00:00:00.000Z",
+      "dateModified": "2021-03-18T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Todd"
+          },
+          "reviewBody": "The glaze recipe, as written, is perfect and looks like the photo. I’m not sure what step so many commenters missed.",
+          "datePublished": "2025-03-11T14:51:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cherie"
+          },
+          "reviewBody": "DO NOT use 1tbls of salt. I used two tsp and even that was too salty. Very strange recipe. Doesn't quite work. I'd also use a half cup of white sugar substituting a half cup of the two cups of dark brown sugar. The sweetness doesn't cut through the bitterness of the cocoa and stout enough. Too many sour ingredients. Won't make again unless I make the changes. Wish I's read the comments first.",
+          "datePublished": "2025-01-15T10:52:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lauren"
+          },
+          "reviewBody": "Amazing cake that my friend really loved for her birthday! My only notes-->\nSamuel Smith Chocolate Stout is lovely as the stout, and nice to sip on while baking\nUsed nearly a tablespoon of kosher salt and was not too salty\nTo get glaze to look like picture, either add more powdered sugar, or go easy on coffee and whiskey. I used the 1 tablespoon of whiskey and 2 of coffee and really wish I would have started with a half tablespoon each",
+          "datePublished": "2024-09-02T18:30:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan Mazzara"
+          },
+          "reviewBody": "Be sure to measure your Bundt pan. Mine is just shy of 12 cups, so I prepared my larger tube pan. I increased the stout and whiskey measures and used espresso powder with good results in both the cake and the glaze.",
+          "datePublished": "2024-03-01T20:40:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Milesdog"
+          },
+          "reviewBody": "Excellent recipe.  I used Penzey's Natural High Fat Cocoa for both types of cocoa.  I also added a bit of King Arthur's Espresso Powder to the glaze.  Received rave reviews at the family gathering.",
+          "datePublished": "2024-02-18T00:44:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "vanwa jt"
+          },
+          "reviewBody": "I made this and was hesitant about a tbsp of salt but proceeded (I did not read the comments until after and I had an old version of the recipe that just said 1 tbsp vs the range on the current). It did taste salty when it first came out of the oven but after it cooled, it was spectacular!  Was not too salty at all and I used regular table salt. I used chef shop coco which I believe is Dutch process and it came out perfectly fine. Definitely use the cacao nibs. The crunch and texture were great!",
+          "datePublished": "2024-02-01T00:49:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lauren"
+          },
+          "reviewBody": "Made with vanilla in the cake and frosting and only one type of cocoa. Delicious and hearty.",
+          "datePublished": "2024-01-14T13:21:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharanya"
+          },
+          "reviewBody": "Ok word to the wise maybe cool your cake for longer than ten min before trying to invert because a piece of mine broke :/ the rest of it was fine tho so I’ll do some damage control w the icing hopefully lol",
+          "datePublished": "2024-01-13T23:13:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aviel"
+          },
+          "reviewBody": "This cake does not age well. The next day it tasted like stale beer. It does come out moist and is a hefty size (I had to take out a cup and a half of batter so it wouldn’t overflow my 10-cup Bundt pan). The cake needs the icing since the cake doesn’t taste very sweet on its own, despite using a literal pound of dark brown sugar. Overall, I don’t think I’d make this again.",
+          "datePublished": "2024-01-06T20:47:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lita"
+          },
+          "reviewBody": "This cake turned out really well. It was moist and flavorful. I browned the butter instead of just melting it before mixing in other ingredients. I will definitely keep doing that as it added an additional note to the flavor profile that I really enjoyed. \n\nI used two teaspoons of fine sea salt and it was great. \n\nI also had to add a lot more confectioners sugar to get a glaze that did not just run off. I will try the cream cheese someone else suggested next time to try and help thicken it up.",
+          "datePublished": "2023-08-06T13:56:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennifer"
+          },
+          "reviewBody": "What didn’t I change?  I used olive oil, salted butter, 2t salt, ½ whole wheat flour, ½  white bread flour, brown sugar   white sugar and molasses, non fat Greek yogurt instead of sour cream, an awful fruited sour beer - the whole 12 oz can, in which I dissolved a T of organic decaf instant coffee.  But hey, I had the whiskey and even used it to dissolve more instant decaf for the glaze.  I had to thin the glaze a bit with MORE WHISKEY.  Good cake!",
+          "datePublished": "2023-08-02T00:25:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cream Cheese"
+          },
+          "reviewBody": "I didn’t have any whiskey (drank it all, whoops), was short an egg, and used Belgian white because I didn’t have any stout. 1.5 teaspoons salt. Instant coffee and water instead of fresh. Cream cheese in the glaze. No cocoa nibs. Served it at a party and guests loved it. Beautiful cake.",
+          "datePublished": "2023-05-29T12:32:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue Harris Walker"
+          },
+          "reviewBody": "I made this using Double Chocolate Stout, and natural cocoa powder. Instead of regular sea salt, I used two tsp ghost pepper salt and 1 tsp sea salt. No coffee. Wanted to go for a Mexican spiced chocolate and it worked very well! Instead of icing, served with Haagan Daz coffee ice cream. Astoundingly good - Will certainly make this again!",
+          "datePublished": "2023-03-01T01:05:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "dwct"
+          },
+          "reviewBody": "MS from one year ago. Fabulous changes you suggested! I was so disappointed with the\nIcing, very thin and no color. Sometimes one can be surprised by suggestions!",
+          "datePublished": "2023-02-28T00:18:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Noel"
+          },
+          "reviewBody": "I substituted coconut cream for sour cream, and the cake came out very creamy and delicious!",
+          "datePublished": "2022-12-16T01:21:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CC"
+          },
+          "reviewBody": "Recipe intro says it's important to use natural (ie acidic) cocoa powder for the right chemistry.  An additional 1/4 cup of black cocoa powder is another ingredient. Every black cocoa powder I could find was Dutch process (i.e. alkaline), yet recipe allows that to be substituted with natural cocoa powder (acidic).  Is the black cocoa powder in this recipe supposed to be non-alkalized?  Does such black cocoa powder exist? Does the ph of the 1/4 cup of cocoa powder matter in this recipe?",
+          "datePublished": "2021-03-14T18:57:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cc"
+          },
+          "reviewBody": "1 tbsp salt? I used 1 tsp.",
+          "datePublished": "2021-03-14T14:52:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tony"
+          },
+          "reviewBody": "I unfortunately used the 1 Tablespoon sea salt the recipe calls for, and the cake turned out too salty to be edible.",
+          "datePublished": "2021-03-15T17:37:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Feli"
+          },
+          "reviewBody": "I looove this cake! The best chocolate cake I’ve ever had, I’d even say! \n- I used *one teaspoon of salt*, as the other reader suggested. \n- I added about 6 tbsp flour, as my mixture was a little bit too runny. \n- I used less liquid for the icing as I like it rather thick and intense. \n- The other comment :re the ph of chocolate powder: I didn’t bother the ph level, but found online dark chocolate powder - which I decided not to use bec I wanted to bake the cake right away. \nI didn’t regret it!",
+          "datePublished": "2021-03-15T10:59:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pam"
+          },
+          "reviewBody": "I'm not the uber great cook I'd like to be and sometimes the ingredients are a little over my head (example; all the different cocoa's for this recipe).  I didn't have the time or mindset to go exploring for these items so just used what was in the cabinet (& I'm sure they are Dutch Processed).  Turned out pretty great - very dense, rich, flavorful.  I'd highly recommend  a good quality, creamy, smooth vanilla ice cream to accompany a slice of this cake (just a small scoop).",
+          "datePublished": "2021-03-16T23:56:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Megan"
+          },
+          "reviewBody": "I used natural cocoa powder, and the cake batter spilled WAY over my 10-cup Bundt pan in the oven. (Thank goodness there was a tray underneath!) Recommending a 12-cupper if you've got one. Otherwise, delicious, even with the full salt amount.",
+          "datePublished": "2021-03-17T12:27:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jmack"
+          },
+          "reviewBody": "King Arthur sells black cocoa powder",
+          "datePublished": "2021-03-17T15:43:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MS"
+          },
+          "reviewBody": "I cracked the code on getting that thick glaze. \n\nSub cream cheese for the sour cream. Higher fat content and thicker consistency yield a product similar to the NYT photo. (In fact, I used TJ dairy-free cream cheese, ‘cause I was walking on the wild side.) Subbed coffee liquor, New Deal brand from here in Oregon, for the whiskey. Spooned the glaze into a zip sandwich bag and “piped” on, then topped with nibs and some flaky salt. \n\nSecond time making this, and these modifications were a slam dunk",
+          "datePublished": "2021-06-11T16:23:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jacob"
+          },
+          "reviewBody": "When I saw 1 Tbsp of salt, it felt weird to me but I trusted the recipe. I read the reviews while it was in the oven and panicked at all the salt comments. But actually, my cake turned out GREAT! Did not notice the salt, but it also wasn't a very SWEET cake at that.\n\nA couple things to note: I did in fact use unsalted butter, I weighed my ingredients exactly, I used 1 tbsp of regular table salt instead of fine sea salt, and to be safe, I did not add 1/4 tsp of salt to the glaze. Hope this helps!",
+          "datePublished": "2021-03-18T04:03:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cocoa"
+          },
+          "reviewBody": "Dutch cocoa powder (alkalized) doesn’t respond to baking soda. but natural cocoa powder (acid) does. So the type of cocoa powder you use matters, because that will determine whether your cake will rise.",
+          "datePublished": "2021-04-30T01:42:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martha"
+          },
+          "reviewBody": "I don't have a Bundt pan so I used muffin tins. This recipe made 24 cupcakes. 17 minutes cooked them perfectly.",
+          "datePublished": "2021-03-21T08:58:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chrissie"
+          },
+          "reviewBody": "My glaze did not look like yours!  Yours looks much more creamy. It’s really only 1 1/2 tablespoons of sour cream?  My glaze is good. Just not so voluminous!  Great cake recipe!",
+          "datePublished": "2021-03-17T22:55:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diane"
+          },
+          "reviewBody": "MmmMmm, Wonderful. I mixed half a recipe and the yield was 13 cupcakes. I used all Hershey's Unsweetened Cocoa (WIHOH). Baked 27 minutes in a gas convection oven, to 200 degrees internal. Verra' bonnie.",
+          "datePublished": "2021-03-18T00:09:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hallyn"
+          },
+          "reviewBody": "I thought this was delicious!  I was impatient and didn't let the cake cool completely (forgot to check the inside of the bundt) so the frosting was a little runny but no matter.  The Salt level was perfect in my estimation - Salt is critical to bring out the layers of flavor in chocolate.  Was too impatient to wait for black cocoa powder to come and it was fine without but can't wait to try it with!",
+          "datePublished": "2021-03-18T19:09:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ebseattle"
+          },
+          "reviewBody": "This moist, dense cake has nicely layered flavors with the coffee, stout, sour cream, and dark coco. It was easy to assemble, yet took a surprising amount of bowls (so many bowls). The cake without the frosting is a bit meh, so it really needs the flavor profile in the frosting to have it come together. Neither myself or my friend were able to achieve the thickness of the frosting as described in the recipe, still good....but was absorbed into the cake within a few hours.",
+          "datePublished": "2021-03-24T15:55:12.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021873-chocolate-stout-cake-with-coffee-glaze",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Laurie Ellen Pellicano"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "This dark chocolate cake relies on stout beer to add malted notes. Coffee helps enhance the chocolate flavor, and sour cream keeps the cake moist for days. A spiked coffee glaze studded with cacao nibs lends crunch and a nice bitter edge. This recipe calls for natural-process cocoa powder, which, along with other acidic ingredients like dark brown sugar, coffee, beer and sour cream, reacts with baking soda to make the cake rise. Dutch-process cocoa is chemically neutral and should not be substituted here, as it may cause your cake to rise unevenly and could produce an unpleasant flavor. Available from speciality baking supply stores and online, black cocoa powder is also used in this recipe to enhance the dark cocoa color and flavor, but feel free to substitute more natural cocoa powder.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Chocolate Stout Cake With Coffee Glaze",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/50407022-07f4-5f2a-8b5d-6610a053d181#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Laurie Ellen Pellicano’s chocolate stout cake.",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/11/dining/LEP-chocolate-stout-cake/merlin_184806084_6e599d1e-7707-441f-a79e-a159bb24e172-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Laurie Ellen Pellicano.",
+          "dateModified": "2021-03-11T17:51:02.796Z",
+          "datePublished": "2021-03-11T17:51:02.796Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-03-11T17:51:02.796Z",
+          "url": "https://static01.nyt.com/images/2021/03/11/dining/LEP-chocolate-stout-cake/merlin_184806084_6e599d1e-7707-441f-a79e-a159bb24e172-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/50407022-07f4-5f2a-8b5d-6610a053d181#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Laurie Ellen Pellicano’s chocolate stout cake.",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/11/dining/LEP-chocolate-stout-cake/merlin_184806084_6e599d1e-7707-441f-a79e-a159bb24e172-superJumbo.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Laurie Ellen Pellicano.",
+          "dateModified": "2021-03-11T17:51:02.796Z",
+          "datePublished": "2021-03-11T17:51:02.796Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2021-03-11T17:51:02.796Z",
+          "url": "https://static01.nyt.com/images/2021/03/11/dining/LEP-chocolate-stout-cake/merlin_184806084_6e599d1e-7707-441f-a79e-a159bb24e172-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/50407022-07f4-5f2a-8b5d-6610a053d181#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "caption": "Laurie Ellen Pellicano’s chocolate stout cake.",
+          "contentUrl": "https://static01.nyt.com/images/2021/03/11/dining/LEP-chocolate-stout-cake/LEP-chocolate-stout-cake-mediumSquareAt3X.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Laurie Ellen Pellicano.",
+          "dateModified": "2021-03-11T17:51:02.796Z",
+          "datePublished": "2021-03-11T17:51:02.796Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-03-11T17:51:02.796Z",
+          "url": "https://static01.nyt.com/images/2021/03/11/dining/LEP-chocolate-stout-cake/LEP-chocolate-stout-cake-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021873-chocolate-stout-cake-with-coffee-glaze"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:04:26.387Z",
+  "scraping_status": "scraped"
+}

@@ -1,0 +1,629 @@
+{
+  "id": "5caed283fd2807df",
+  "original_url": "https://cooking.nytimes.com/recipes/1024752-hand-pulled-noodles",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1024752-hand-pulled-noodles",
+  "fetched_title": "Hand-Pulled Noodles Recipe (with Video)",
+  "main_text_content": "The pleasantly chewy texture of these long Chinese noodles is part of the allure, as is the artful practice of delicately pulling the fresh wheat dough to create the strands Hand-pulling noodles, or la mian, is a technique that has been passed from generation to generation, and the results cannot be replicated with a machine With just bread flour, water and salt, a streamlined recipe, and a little patience, you really can make these fresh noodles at home",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026260-hoisin-garlic-noodles\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Hoisin Garlic Noodles</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Hetty Lui McKinnon</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/5caed283fd2807df/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/9d2dbefd-97ad-54db-8ca2-870b1c3ed261",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1024752-hand-pulled-noodles",
+        "@type": "WebPage",
+        "name": "Hand-Pulled Noodles"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024752-hand-pulled-noodles",
+      "name": "Hand-Pulled Noodles",
+      "description": "The pleasantly chewy texture of these long Chinese noodles is part of the allure, as is the artful practice of delicately pulling the fresh wheat dough to create the strands. Hand-pulling noodles, or la mian, is a technique that has been passed from generation to generation, and the results cannot be replicated with a machine. With just bread flour, water and salt, a streamlined recipe, and a little patience, you really can make these fresh noodles at home. Using a high-gluten flour like bread flour, and allowing an ample amount of rest time, will make the dough easier to pull. Once cooked, these springy noodles can be served in a simple broth accompanied by fresh vegetables and topped with a tongue tingling chile crisp.",
+      "author": {
+        "@type": "Person",
+        "name": "Vivian Chan-Tam"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/70d0d31a-ace5-589b-8da3-5579e68c3a33#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-12-12T17:13:18.254Z",
+          "datePublished": "2024-12-12T15:19:53.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-12-12T15:19:53.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/70d0d31a-ace5-589b-8da3-5579e68c3a33#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-superJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-12-12T17:13:18.254Z",
+          "datePublished": "2024-12-12T15:19:53.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2024-12-12T15:19:53.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/70d0d31a-ace5-589b-8da3-5579e68c3a33#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-12-12T17:13:18.254Z",
+          "datePublished": "2024-12-12T15:19:53.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-12-12T15:19:53.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT5M",
+      "cookTime": "PT4H20M",
+      "totalTime": "PT4H30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "chinese",
+      "recipeCategory": "dinner, noodles, project, main course",
+      "keywords": "bread flour, internal-open-access-search, lunar new year, make-ahead, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 302
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 349,
+        "unsaturatedFatContent": "2 grams",
+        "carbohydrateContent": "68 grams",
+        "cholesterolContent": null,
+        "fatContent": "3 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "11 grams",
+        "saturatedFatContent": "0 grams",
+        "sodiumContent": "220 milligrams",
+        "sugarContent": "0 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 3/4 cups/374 grams bread flour",
+        "3/4 teaspoon kosher salt (such as Diamond Crystal), plus more for the pot",
+        "Canola or vegetable  oil, for brushing and drizzling"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large bowl, whisk together the flour and 3/4 teaspoon salt. Drizzle in 1 cup room temperature water, stirring with a rubber spatula until absorbed. (The dough will be very dry and shaggy.) Turn the mixture onto a clean surface and knead until the dough is smooth, 10 to 15 minutes. (Alternatively, knead the dough in a stand mixer, fitted with the dough hook, on medium speed until smooth, 5 to 7 minutes.) "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Lay a 12-inch-long piece of plastic wrap on the work surface and brush it lightly with oil. Transfer the dough to the plastic and wrap well. Let rest at room temperature for 20 minutes. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Lightly brush a baking sheet with oil. Remove the dough from the plastic wrap and divide it evenly into two pieces. Place one half on the work surface and divide it again into two pieces (make sure the other half is wrapped so it doesn’t dry out). Using a rolling pin, shape each piece into a roughly 12-inch by 4-inch oval, about 1/16-inch thick. (For thinner noodles, see Tip.) Brush each oval with a little oil, then gently transfer onto the prepared baking sheet, oiled-side down. Lightly brush the tops with oil. Lay another sheet of plastic wrap directly on top of the dough. Divide the remaining half of the dough and repeat the process. Let dough rest on the counter for at least 3 hours and up to 6 hours. The dough should be very relaxed and droopy. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Once the dough has rested, bring a large pot of well-salted water to a boil, then reduce to a simmer over low heat and cover so the water doesn’t evaporate too quickly. Lightly grease another baking sheet or a large platter. On a clean work surface, working with one oval of dough at a time, cut each crosswise into 6 strips. (If the oval stretches out a bit because it is very relaxed, that’s fine.) Pick up the end of one strip, and leaving the other end on the work surface, and gently pull it until it is at 2- to 2½-feet long and about 1-inch wide. (Don’t worry — the noodles will look very thin, but they will expand once cooked.) Lay the noodle on the prepared baking sheet, folding it in half as necessary to fit. At this point, it’s OK to lay the strands of noodles on top of each other. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When the first batch of noodles is formed, return the heat under the pot to medium-high. Place a colander over a large bowl near the stove, and set aside another large bowl for the cooked noodles. Once the water is simmering, add the noodles. Using a pair of chopsticks, immediately stir to separate. Simmer for 2 minutes and transfer to the colander with the chopsticks. (The noodles should have a slightly chewy texture.) Rinse the noodles under cold water to stop the cooking, shake the colander to rid the noodles of excess water, transfer them to the large bowl and drizzle with a little oil to prevent sticking. Repeat with the remaining dough pieces. (To avoid having to refill the pot with water, reduce the heat to low in between batches; just make sure it’s boiling once the noodles are added.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "The cooked noodles can be stir-fried, tossed with a sauce or served in a soup. If opting for the latter, just pour the hot broth over the noodles when ready to serve to prevent overcooking."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/9a6b47e2-32e7-57b0-b836-45cbd5369a1d",
+        "@type": "VideoObject",
+        "bitrate": "1432755",
+        "contentSize": "144941149",
+        "contentUrl": "https://vp.nyt.com/video/2024/10/19/128231_1_VC-HPN-Video_wg_480p.mp4",
+        "dateModified": "2025-01-08T22:23:53.610Z",
+        "datePublished": "2025-01-08T21:28:41.000Z",
+        "description": "The pleasantly chewy texture of these long Chinese noodles is part of the allure, as is the artful practice of delicately pulling the fresh wheat dough to create the strands. Hand-pulling noodles, or la mian, is a technique that has been passed from generation to generation, and the results cannot be replicated with a machine. With just bread flour, water and salt, a streamlined recipe, and a little patience, you really can make these fresh noodles at home. Using a high-gluten flour like bread flour, and allowing an ample amount of rest time, will make the dough easier to pull. Once cooked, these springy noodles can be served in a simple broth accompanied by fresh vegetables and topped with a tongue tingling chile crisp.",
+        "duration": "PT12M22S",
+        "height": "480",
+        "name": "Hand-Pulled Noodles",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/70d0d31a-ace5-589b-8da3-5579e68c3a33#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-videoSixteenByNineJumbo1600.jpg",
+            "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+            "dateModified": "2024-12-12T17:13:18.254Z",
+            "datePublished": "2024-12-12T15:19:53.000Z",
+            "height": "900",
+            "uploadDate": "2024-12-12T15:19:53.000Z",
+            "url": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-videoSixteenByNineJumbo1600.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/70d0d31a-ace5-589b-8da3-5579e68c3a33#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-superJumbo.jpg",
+            "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+            "dateModified": "2024-12-12T17:13:18.254Z",
+            "datePublished": "2024-12-12T15:19:53.000Z",
+            "height": "1365",
+            "uploadDate": "2024-12-12T15:19:53.000Z",
+            "url": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-superJumbo.jpg",
+            "width": "2048"
+          },
+          {
+            "@id": "nyt://image/70d0d31a-ace5-589b-8da3-5579e68c3a33#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-mediumSquareAt3X.jpg",
+            "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+            "dateModified": "2024-12-12T17:13:18.254Z",
+            "datePublished": "2024-12-12T15:19:53.000Z",
+            "height": "1800",
+            "uploadDate": "2024-12-12T15:19:53.000Z",
+            "url": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-mediumSquareAt3X.jpg",
+            "width": "1800"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-videoSixteenByNineJumbo1600.jpg",
+        "transcript": "“No one ever lets you do that. They have a person, so that’s very cool. Hi, I’m Vivian, and I’m a recipe developer. And I’m here at the New York Times’ cooking studio. And today, we’ll be making hand-pulled noodles. I first experienced the hand-pulled noodle dish -- it was a little blue shop. I believe the name was called Number One Hand-pulled Noodles. It was very humble. You get a bowl and you just pick your noodle, and then they doused it in this very light broth. And if you were feeling baller, baller, then you can get the meat or the chicken or the pork.” [SLURPING] “The recipe I developed omits the bang-bang option just because it’s very dramatic. I wanted to ease the home cook in, like welcome them. Like, truly this recipe, anyone can do it. This dough was so forgiving. It is three ingredients, and all you need is some time. So it’s the perfect thing that you make it in the morning, you go run your errands, and then you come home, finish it off, 15 minutes. And you get a hot, nice dinner. This recipe has only three ingredients. The most important ingredient is definitely the bread flour. I like to use bread flour for this recipe because it has more gluten, more protein means more elasticity, which means more chew for you. And then we’re going to add a little salt and then some room-temperature water. I like to add half of it and then mix and then add the other half. So this is how it is, right? And then we’re going to add the rest. And in the beginning, I’m just folding it. It’s so dry and shaggy. But I promise, with a little love and a little time, she’s going to get there. Turn it out, and we’re going to start kneading. And this will take some time. So put on a good podcast, soundtrack. First, push it together, and then I push it over it, pull it, and then come back. Make a little pocket. And you’re going to feel that it’s getting stickier. Pick up all the little stragglers. You want to do this for about 10-ish minutes. But it’s actually a really fun process. It’s like playing with Play-doh. So it’s getting tighter and harder to pull because the gluten is fighting back. This is also a workout. You see she is fighting us. The stickiness, you feel like it’s a little sticky, but it’s really not like gloopy. It’s not like paper mache where it’s like coating your hands. It kind of sticks to your hand a little, and oop, give it back to me. It’s like a game of catch. O.K., so we’re almost there. And what I like to do is just tuck it, again, kind of like pizza dough. Oop. See? That’s what you’re looking for. Like, it doesn’t stick. She’s tired. Let’s let her hang out for about 20 minutes. That’s the first rest. And then you can really start shaping. You do need to wrap this up. You don’t want this to dry out because you don’t want a skin to form. 20 minutes about, give or take. So this rested for 20 minutes. We are going to prep our sheet tray before rolling it out. This will prevent it from sticking. So you can already feel it’s very relaxed. It’s not as ‘domey.’ Split this in half. We’re going to wrap this back up. This is to prevent it from drying out. And then from this half, we’re going to make another half. And you’re going to roll this out into an oval. Just fight back a tiny bit. So ideally, it’ll be about a foot long and then 4 inches wide. I feel like the most important thing is about 1/16 of an inch thick. O.K. Then you place this directly onto your oiled, prepared sheet tray. One thing that can also help is just shaping it a little bit into a ball. So when you roll it out, it’s a little more even. This is what you want. Brush this with a little bit of oil and then cover it with plastic wrap. Today’s recipe can lend itself to the wide noodles as well as the thin. It’s really about the base. O.K. And the shape will change a little. It’s trying to tuck back in itself. What we’re going for is something that’s very like, blah. It’s very, very relaxed. Like, imagine you’ve been on an all-inclusive resort for a month. You don’t want any air pockets because any air pockets are going to dry out that dough, creating that crust. So just press in. She can take it. Also feels really nice. You’re trying to relax it, so when you pull it, it’s like massage. It’s just like oh, O.K., I’ll go with you. So that’s how you get those long noodles rather than dense little, like angry noodle pieces. So we have a little bit of an experiment to explain why the resting time is so important. This one was just freshly rolled out. This is at the three-hour mark, which is the minimum, and then this is the six hour, which is a soft maximum. You can go a little bit longer. Let’s focus on the one we just did. So what you want to do is divide each piece into eight even pieces. So the way I like to cut is always half first, and then divide this. I learned this in restaurants because I was responsible for cutting the desserts, and they were not even and I got in a lot of trouble. So this is how I cut stuff. You can use a pizza cutter or you can use a knife, so as even as possible. So what you want to do is pull this a little. And you can see that it’s pulling, but I’m definitely not comfortable pulling it for the full 2 feet because it will rip because it is still pretty tense. This is as max as I’m going to go. So we pulled probably about a little, like a double. So resting is important. Now, let’s do our three hour, which is the minimum. Do need to assist it out. It’s very relaxed. It’s already way more relaxed, so it’s stretching out a bit. But it does still pull away. So this one, we’re going to pull a little. And you can see that it’s definitely pulling easier. We can start seeing those little peaks of light through it. So when you get to this part, you want to be able to support it. You can just pull the sides and jiggle a little. Even with this while I’m jiggling, I’m still not comfortable pulling it to the full 2 feet. Can you cook this? 100 percent. Would it be delicious? 1,000 percent. Since we have the six hour, let’s go. Let’s see how that one hangs out. Six hours -- best way to describe it is blah. She is relaxed. Let’s cut. Six hours, and we’re going to pull. And it’s like the least amount of effort. It’s so gentle. It’s so soft. And look. Giving, elastic -- that’s why we choose bread flour. O.K., so the ends are getting a little chubbier. What I want to do is lay her down. We can continue to pull, pull, pull, pull, pull, pull, pull, pull, pull, stay. Pull, pull, pull, pull, pull, pull, pull, pull. O.K. So it is extremely thin. You can see it’s like sheer. This is what we’re going for. This will give you that texture. It’ll cook so quickly. Get another sheet tray oiled, and then we’re going to transfer over. I don’t want people to get afraid that, how am I going to overlap? Is it going to get stuck? Is it going to rip? It’s not. Like, I literally just pick it up and I plop it in. And if it sticks together, it’s O.K. Look. It’s all ribbony. So we’re going to pull, pull, pull, pull, pull, pull, pull, pull, pull, pull, pull, pull, pull, pull. Whoopsie. If it rips a little, it’s O.K. It’s O.K. Tuck, tuck, tuck. They don’t have to be perfect. Like, in the grand scheme of things, there just going into a bowl and you’re slurping them up, very different than my fine-dining days. See? You did it. So now, we are going to do the thin version because like I said, this dough can be manipulated into many ways. So for the thin one, make little pieces. Just remember, the more you cut, the more you got to pull. These are not going to be as long. They’re a little skinnier, but they’re just as elastic. So you just have to pull them a little. And for this, because the structure is so much thinner, I like to do the inch pull. Pull one part, and I do this. Just let gravity kind of hang out. See? It’s just relaxed and easy. When I was developing this at home, my husband saw me doing this. He goes, ‘what are you doing’? And then I asked him to help me pull noodles, and he had the best time. Woop. Woop. If you want, you can go for thicker pieces, like 1/2 inch. It’s really whatever you’re comfortable with. These little strands can definitely be pulled to at least 2 feet long. There’s so many techniques to do this. There’s so many different ways. It just naturally -- like, you just want to bop along. This is just a very like foolproof, safe way. Does it take more time? Yes, but that’s what cooking is. You just enjoy the process. Done! Hand-pulled noodles, thin, and thick. Now, we’re going to eat them, and it’s definitely smelling like a noodle shop in here. We have our noodles. We have water boiling. And you kind of want to do more than one piece at a time because they cook fast. So you can cut them, drop them in. Multitask, multitask. O.K., you just want to take your chopsticks and swoosh it around. And they’re pretty much done. Like, that’s how fast they are. That’s how thin they are. And I would do one batch at a time. O.K., so now it’s floating. And then we’re going to scoop it up with our chopsticks, shake out the excess water. And then transfer directly to the plate that you’re going to enjoy them on. So now we’re going to repeat with the second batch. O.K., and drop them in. Dress her up. I like to add chili oil, the beautiful scallion julienne, some cilantro, and I like to douse it with a little bit of black vinegar. So now, let’s make our thin noodles. And we’re just going to grab and put it. Take the chopstick, swoosh it around. And once they float, which they already floating, and add them to the bowl and repeat. And you just made a bowl of hand-pulled noodles. I always went to Chinatown because it was home. It felt very much like homey, and I understood the language very well. And I miss home. I was homesick because being a line cook, you don’t get to go home every week, even on your day off. Having that simple bowl of noodles felt like I was still at my mom’s kitchen. I always missed my parents cooking, so it was just a little piece of home for me. I love a water noodle when it’s the drier assemble just because it holds on to the sauce, for better or for worse, because this chili oil is rather spicy. So I might regret that. As for the soupier version, which is the thinner, rice similar condiments, but I do have an addition of the yow choy and the [INAUDIBLE]. And those are great because this just brings me back to line cook days. And this was the comfort food that I pretty much grew up on.” [SLURPING] “Mmm. I think food is so special that it takes you right back to the place when you first had it. And it’s just comfort. It’s just comfort. That’s what it is, bowl of comfort. So this one’s definitely a little chewier. It did sit for a tiny bit. The chewiness, you can already see. Texturally, definitely a lot more true, but in a good way, not like it’s fighting you. It’s just giving you a little nudge. The scallion julienne gives it that nice crunch. Black vinegar really cuts on all of that chili oil, that heat. It’s just holding on to that chili oil really, really well. They’re both great. They’re both delicious. I really hope that you feel inspired and get in there and make it and have fun with it. But before we go, Vaughn's here, so I’m going to have him come in and dig in.” “Oh, my god. Oh, my god. Well, I got to go with the spicy.” “We’re both getting it. Running out here.” “It’s so good. Mmm. You did put a lot of chili oil on that. Woo!” “We’re going to get out of here and get some water.” “No, I love it.” “You can find this recipe and my other recipes on New York Times’ Cooking.” [MUSIC PLAYING]",
+        "uploadDate": "2025-01-08T21:28:41.000Z",
+        "url": "https://www.nytimes.com/video/dining/100000009771239/VC-HPN-Video.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-02-07T00:00:00.000Z",
+      "dateModified": "2025-01-08T21:48:57.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bert"
+          },
+          "reviewBody": "Gave these noodles a try after watching the helpful vid. Giving the dough a 6 hr rest does truly relax the gluten! We enjoyed making the noodles (banging them on the counter was a blast!) but will do a few things differently next time. I should have followed directions to cook in small batches. This is important as they really stuck together for us. Also, I will cook the noodles for 1min as we started out cooking for 2, but was too long (maybe we rolled thinner?). Delic w Joanna Chang's Dan Dan",
+          "datePublished": "2025-04-28T19:35:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bennett"
+          },
+          "reviewBody": "super duper tasty 5 out of five, would recommend",
+          "datePublished": "2025-03-08T18:24:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "reviewBody": "Made this for lunar new year, and it was so easy my elementary school age children were able to help with pulling the noodles. Totally delicious and a good distraction from a chaotic world.",
+          "datePublished": "2025-01-30T05:00:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rob M"
+          },
+          "reviewBody": "Super tasty noodles. Everyone in the family loved it as they could dress their noodles how they liked.    The video is essential watching as it makes the whole process easy to understand and removes the vagaries of the written recipe.",
+          "datePublished": "2025-01-26T23:44:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maria"
+          },
+          "reviewBody": "I highly recommend watching the NYT cooking video on YouTube for this recipe. It is glorious and then make the noodles. \n\nLoved the video instructions paired with this written instruction.",
+          "datePublished": "2025-01-14T04:21:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca"
+          },
+          "reviewBody": "Made these with my son during his recent visit. It was incredibly fun as well as delicious. Ours weren’t perfect, but they were still great!",
+          "datePublished": "2025-01-03T04:38:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jill Lesser"
+          },
+          "reviewBody": "Cooked this with my whole family.  Three generations.  It was so much fun.  And easy.  We let the dough rest the whole 6 hours.  They practically stretched themselves.  Highly recommended as a group activity.  Then we added them to matzoh ball soup and added some chili crisp.  Amazing!  And multi-ethnic.",
+          "datePublished": "2024-12-28T16:56:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "handan"
+          },
+          "reviewBody": "Can I leave the dough after the initial kneading, it in the fridge? I want to make for one serving at a time.",
+          "datePublished": "2024-12-18T12:45:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen"
+          },
+          "reviewBody": "I'm not much of a cook, but I found the video more encouraging than the recipe and gave it a whirl. I wasn't too fussy about uniformity or timing, and the noodles were pretty good! A 4 hour rest made the dough pretty floppy; had no problem pulling them out. I think I'll stick with 4 next time and not try a longer rest. It made a ton of noodles for 2 people, but we somehow managed to eat all of them.",
+          "datePublished": "2024-12-12T20:20:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Margaret"
+          },
+          "reviewBody": "I once made noodles for dinner with a Chinese workmate who knew what he was doing. His method was to prepare the dough and form it into an approximately 1cm thick plate sized round to rest. He then simply sliced the round into strips around 1cm wide and pulled them into really long lengths by stretching and folding in half around his hand, then stretching and folding until he deemed the length thin enough. This was then thrown into the pot of boiling water. Same thing only less complicated.",
+          "datePublished": "2024-12-03T01:27:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SuzieQ"
+          },
+          "reviewBody": "These are so delicious and not difficult to make. Watch Vivian make them on YouTube and then give it a go. And be sure to let them rest the full 6 hours.",
+          "datePublished": "2024-11-18T00:50:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joanna P."
+          },
+          "reviewBody": "So mine didn’t look as pretty and even as pictured, and I thought I probably wouldn’t make them again, and then I tasted them!  Okay.  I’ll have to work on my technique because I know I’m going to crave these.",
+          "datePublished": "2024-11-16T22:45:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liv"
+          },
+          "reviewBody": "@Kat Lovely video! Thank you so much for sharing!",
+          "datePublished": "2024-12-19T06:14:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kat"
+          },
+          "reviewBody": "NYT cooking friends, there is a video, but not linked and the cook is so awesome and charming--I like want to be her friend and not just because she can make these amazing noodles! Here you go: <a href=\"https://www.youtube.com/watch?v=r1o0pymTzTQ\" target=\"_blank\">https://www.youtube.com/watch?v=r1o0pymTzTQ</a>",
+          "datePublished": "2024-11-09T16:29:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sujata"
+          },
+          "reviewBody": "Watched the YouTube video - this is an incredibly easy recipe and, especially if you do the thicker noodle style, not very time consuming. I used the dough hook in my mixer for the kneading which was a snap. The only thing to note is that I made the noodles and then let them sit on each other while I made the broth and veggies and they did stick to each other but then promptly unstuck while boiling. Next time will put into little rolled piles or boil immediately. entire family LOVED this.",
+          "datePublished": "2024-11-11T19:33:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael"
+          },
+          "reviewBody": "Show me a home cook who can make these and I'll show you someone who missed their calling.  I've made these with chefs who pull noodles for a living, its very very difficult. Saying this recipe downplays the skill needed to make these is a gross understatement.",
+          "datePublished": "2024-11-11T16:53:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David Shepherd"
+          },
+          "reviewBody": "Tried this, but to varied success with stripping the dough to the recommended shapes. I believe the written instructions are too vague. An accompanying vid clip would help us first-timers enormously.",
+          "datePublished": "2024-02-08T23:46:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael"
+          },
+          "reviewBody": "For those looking for a video - a link is included in the first paragraph. Here it is again:\n\n<a href=\"https://www.nytimes.com/video/dining/1248069585393/hand-pulled-chinese-noodles.html?searchResultPosition=1\" target=\"_blank\">https://www.nytimes.com/video/dining/1248069585393/hand-pulled-chinese-noodles.html?searchResultPosition=1</a>\n\nWatch noodlemeister Chen work his magic! Then go out and find some noodles at your local Asian market, because it looks way too complicated for most people to make these at home.",
+          "datePublished": "2024-02-13T18:18:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Moclips, Seattle"
+          },
+          "reviewBody": "If any recipe ever needed a video or at least drawings, it's this one. Directions are extremely difficult to visualize.",
+          "datePublished": "2024-02-10T07:48:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa vS"
+          },
+          "reviewBody": "Or just go to Gene’s Chinese Flatbread Cafe in Woburn or Boston and let them do it.  Insanely good.",
+          "datePublished": "2024-02-08T22:32:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Wondering"
+          },
+          "reviewBody": "How can prep time be \"5 minutes\" if you have to knead the dough for 10-15 minutes?  Not to mention the mixing, and shaping, and cutting,and pulling.   Please explain!",
+          "datePublished": "2024-02-09T22:50:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "I love noodles"
+          },
+          "reviewBody": "In step 4, \"working with one oval of dough at a time, cut each crosswise into 6 strips\" does crosswise refer to cutting along the length of the oval into six 12\" long strips, or cutting across the width into six 4\" long strips, and then proceeding to \"gently pull it until it is at 2- to 2½-feet long and about 1-inch wide\"?",
+          "datePublished": "2024-02-08T20:22:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "tee"
+          },
+          "reviewBody": "I shared an earlier note that the video for the recipe is on Youtube NYT Cooking site.  There's another link here in the comments leading to a different source.  Vivian Chan-Tam's (this recipe's creator) is here.  There are many methods to creating the noodles, and this is an easy home cook version.  Your local noodle house may do it quite differently - they are noodle masters.\n<a href=\"https://youtu.be/r1o0pymTzTQ?si=IYgiDcoCKzZujvEb\" target=\"_blank\">https://youtu.be/r1o0pymTzTQ?si=IYgiDcoCKzZujvEb</a>",
+          "datePublished": "2024-11-09T16:57:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joey"
+          },
+          "reviewBody": "I’d love to see a video of this.",
+          "datePublished": "2024-02-09T23:31:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "geetlord"
+          },
+          "reviewBody": "This dough worked well for making Biang Biang noodles. \n\nInstead of cutting the four portions of dough into smaller pieces, I pulled them to make four large noodles. Each noodle turned out to be about 7 feet long before being ripped lengthwise down the middle to form a loop of about 14 feet in circumference.\n\nAfter pulling and ripping the noodles I cooked them as directed in this recipe and served with chili oil",
+          "datePublished": "2024-02-18T22:34:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathy"
+          },
+          "reviewBody": "@s. I don’t think it’s possible to make GF. This recipe relies upon the developed gluten to make the dough strong enough to pull and stretch. GF flours will just tear. Sorry pal.",
+          "datePublished": "2024-11-09T17:07:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mnemonica"
+          },
+          "reviewBody": "Here's the link to the very helpful video of the author making this recipe (not the link to the intimidating restaurant noodle video): <a href=\"https://www.youtube.com/watch?v=r1o0pymTzTQ\" target=\"_blank\">https://www.youtube.com/watch?v=r1o0pymTzTQ</a>",
+          "datePublished": "2024-11-09T19:48:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "s."
+          },
+          "reviewBody": "just wondering if anyone has tips for trying to make this gluten free? maybe it won’t translate which is fine, but it sounds so good, i couldn’t resist asking!",
+          "datePublished": "2024-10-23T04:02:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J. McAuley"
+          },
+          "reviewBody": "across the width, otherwise they would have stated \"cut each lengthwise\"",
+          "datePublished": "2024-02-08T21:29:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bruce"
+          },
+          "reviewBody": "I found this video.  I don't see a link to it anywhere in the recipe.  <a href=\"https://www.youtube.com/watch?v=r1o0pymTzTQ\" target=\"_blank\">https://www.youtube.com/watch?v=r1o0pymTzTQ</a>",
+          "datePublished": "2024-11-09T16:59:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leigh"
+          },
+          "reviewBody": "This was so much fun to make!  The video was delightful and very instructive.  Were mine perfect?  Absolutely not.  Were they delicious?  Absolutely.  I have a lot of enthusiasm to practice and try this again!  I would like some more ideas for sauce/broth recipes to go with them, please.  This kind of recipe is what makes my subscription worthwhile!",
+          "datePublished": "2024-11-11T16:38:31.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1024752-hand-pulled-noodles",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Vivian Chan-Tam"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "The pleasantly chewy texture of these long Chinese noodles is part of the allure, as is the artful practice of delicately pulling the fresh wheat dough to create the strands. Hand-pulling noodles, or la mian, is a technique that has been passed from generation to generation, and the results cannot be replicated with a machine. With just bread flour, water and salt, a streamlined recipe, and a little patience, you really can make these fresh noodles at home. Using a high-gluten flour like bread flour, and allowing an ample amount of rest time, will make the dough easier to pull. Once cooked, these springy noodles can be served in a simple broth accompanied by fresh vegetables and topped with a tongue tingling chile crisp.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Hand-Pulled Noodles",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/70d0d31a-ace5-589b-8da3-5579e68c3a33#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-12-12T17:13:18.254Z",
+          "datePublished": "2024-12-12T15:19:53.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-12-12T15:19:53.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/70d0d31a-ace5-589b-8da3-5579e68c3a33#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-superJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-12-12T17:13:18.254Z",
+          "datePublished": "2024-12-12T15:19:53.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2024-12-12T15:19:53.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/70d0d31a-ace5-589b-8da3-5579e68c3a33#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-12-12T17:13:18.254Z",
+          "datePublished": "2024-12-12T15:19:53.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-12-12T15:19:53.000Z",
+          "url": "https://static01.nyt.com/images/2024/02/07/multimedia/VC-Hand-pulled-noodles-phjv-copy/VC-Hand-pulled-noodles-phjv-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024752-hand-pulled-noodles"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:04:20.919Z",
+  "scraping_status": "scraped"
+}

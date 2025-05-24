@@ -1,0 +1,558 @@
+{
+  "id": "745ca3a75042db3a",
+  "original_url": "https://cooking.nytimes.com/recipes/1021237-superiority-burgers-crispy-fried-tofu-sandwich",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021237-superiority-burgers-crispy-fried-tofu-sandwich",
+  "fetched_title": "Superiority Burger’s Crispy Fried Tofu Sandwich Recipe",
+  "main_text_content": "Ranging from silken and creamy to firm and chewy, tofu comes in many forms and is prized around the world for its versatility In this recipe, which is adapted from the “Superiority Burger Cookbook” (W.W Norton &amp; Company, 2018) by chef Brooks Headley, extra-firm tofu is pressed, marinated, breaded and fried, to make the “tofu-fried tofu” sandwich at Superiority Burger, his popular vegetarian restaurant in New York City",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1022584-nashville-style-hot-tofu-sliders\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2021/10/26/dining/kc-nashville-style-hot-tofu-sliders/kc-nashville-style-hot-tofu-sliders-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2021/10/26/dining/kc-nashville-style-hot-tofu-sliders/kc-nashville-style-hot-tofu-sliders-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2021/10/26/dining/kc-nashville-style-hot-tofu-sliders/kc-nashville-style-hot-tofu-sliders-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2021/10/26/dining/kc-nashville-style-hot-tofu-sliders/kc-nashville-style-hot-tofu-sliders-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2021/10/26/dining/kc-nashville-style-hot-tofu-sliders/kc-nashville-style-hot-tofu-sliders-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2021/10/26/dining/kc-nashville-style-hot-tofu-sliders/kc-nashville-style-hot-tofu-sliders-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2021/10/26/dining/kc-nashville-style-hot-tofu-sliders/kc-nashville-style-hot-tofu-sliders-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2021/10/26/dining/kc-nashville-style-hot-tofu-sliders/kc-nashville-style-hot-tofu-sliders-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Nashville-Style Hot Tofu Sliders</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Kay Chun</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2020/07/09/dining/aw-tofu-sandwich/aw-tofu-sandwich-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/745ca3a75042db3a/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/268717e2-c954-581f-b94e-4f666a2decb9",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021237-superiority-burgers-crispy-fried-tofu-sandwich",
+        "@type": "WebPage",
+        "name": "Superiority Burger’s Crispy Fried Tofu Sandwich"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021237-superiority-burgers-crispy-fried-tofu-sandwich",
+      "name": "Superiority Burger’s Crispy Fried Tofu Sandwich",
+      "description": "Ranging from silken and creamy to firm and chewy, tofu comes in many forms and is prized around the world for its versatility. In this recipe, which is adapted from the “Superiority Burger Cookbook” (W.W. Norton &amp; Company, 2018) by chef Brooks Headley, extra-firm tofu is pressed, marinated, breaded and fried, to make the “tofu-fried tofu” sandwich at Superiority Burger, his popular vegetarian restaurant in New York City. To achieve a dense tofu patty with plenty of flavor and bite, Mr. Headley starts with extra-firm tofu, presses out any excess liquid, then marinates it in a spicy pickle juice brine. It’s then double-battered and deep-fried until crisp. This sandwich is best enjoyed on a sunlit stoop in the East Village, just steps outside Superiority Burger, but it’s also achievable in any home kitchen.",
+      "author": {
+        "@type": "Person",
+        "name": "Alexa Weibel"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/ef89d58f-a0d6-5dbf-b8b2-01f51377cb3d#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/07/09/dining/aw-tofu-sandwich/aw-tofu-sandwich-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2022-02-18T17:41:28.551Z",
+          "datePublished": "2020-07-09T21:13:37.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-07-09T21:13:37.000Z",
+          "url": "https://static01.nyt.com/images/2020/07/09/dining/aw-tofu-sandwich/aw-tofu-sandwich-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ef89d58f-a0d6-5dbf-b8b2-01f51377cb3d#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/07/09/dining/aw-tofu-sandwich/aw-tofu-sandwich-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2022-02-18T17:41:28.551Z",
+          "datePublished": "2020-07-09T21:13:37.000Z",
+          "height": "1488",
+          "representativeOfPage": true,
+          "uploadDate": "2020-07-09T21:13:37.000Z",
+          "url": "https://static01.nyt.com/images/2020/07/09/dining/aw-tofu-sandwich/aw-tofu-sandwich-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/ef89d58f-a0d6-5dbf-b8b2-01f51377cb3d#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/07/09/dining/aw-tofu-sandwich/aw-tofu-sandwich-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2022-02-18T17:41:28.551Z",
+          "datePublished": "2020-07-09T21:13:37.000Z",
+          "height": "1801",
+          "representativeOfPage": true,
+          "uploadDate": "2020-07-09T21:13:37.000Z",
+          "url": "https://static01.nyt.com/images/2020/07/09/dining/aw-tofu-sandwich/aw-tofu-sandwich-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT45M",
+      "recipeYield": "6 sandwiches",
+      "recipeCuisine": "american",
+      "recipeCategory": "dinner, lunch, sandwiches, main course",
+      "keywords": "all-purpose flour, dijon mustard, extra-firm tofu, gochugaru, plan-ahead, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 4639
+      },
+      "recipeIngredient": [
+        "1 (14-ounce) package extra-firm tofu, drained",
+        "1 1/2 cups pickle juice",
+        "1 tablespoon hot sauce",
+        "1 tablespoon Dijon mustard",
+        "1 teaspoon gochugaru or red-pepper flakes",
+        "2 tablespoons grapeseed oil or other neutral oil",
+        "1/2 cup Dijon mustard",
+        "2 cups all-purpose flour",
+        "1/2 teaspoon baking powder",
+        "1 teaspoon smoked paprika",
+        "1/2 teaspoon onion powder",
+        "1/2 teaspoon garlic powder",
+        "1/2 teaspoon ground cayenne",
+        "1 teaspoon kosher salt, plus more as needed",
+        "1 teaspoon black pepper",
+        "Grapeseed oil or other neutral oil, for frying",
+        "6 potato buns or other soft rolls",
+        "Vegan mayonnaise and hot sauce, as needed",
+        "Thinly shredded green cabbage and dill pickles, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the marinated tofu: Line a baking sheet with paper towels or a clean kitchen towel. Cut the tofu crosswise into two rectangles that are each about 2 1/2 inches wide and 4 inches long. Slice each rectangle into three 1/2-inch thick slabs and arrange in a single layer on the baking sheet. Cover the sliced tofu with more towels and gently press each piece to extract some of the moisture."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large bowl, combine the pickle juice, hot sauce, mustard and gochugaru."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the grapeseed oil in a large nonstick or cast-iron skillet over high heat until shimmering. Sear the tofu to form a golden-brown crust, 4 to 5 minutes per side. Immediately drop the hot tofu into the pickle juice mixture. Refrigerate and let the tofu marinate for at least a few hours, or even overnight."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the fried tofu: In a medium shallow bowl, stir the mustard with 1/4 cup water until it’s the consistency of heavy cream and set aside. In a large shallow bowl, whisk together the flour, baking powder, spices, salt and pepper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a Dutch oven or sturdy pot, heat 2 inches of grapeseed oil over medium heat and set a wire rack on top of a baking sheet. Remove the tofu from the brine and pat dry. Dip the tofu in the mustard mixture, turning until coated all over, then the flour mixture; dip it again in the mustard then flour until twice coated. When the oil temperature reaches 350 degrees, carefully place the battered tofu into the hot oil and fry, flipping as needed, until golden brown, about 5 minutes. Transfer the fried tofu to the wire rack and sprinkle with a little salt."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To serve, toast the buns and spread generously with mayo and dot with hot sauce, if desired. Top with fried tofu, cabbage and dill pickles, and eat immediately."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2020-07-09T00:00:00.000Z",
+      "dateModified": "2020-07-10T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "marie j"
+          },
+          "reviewBody": "So tasty but so much work coating and frying the tofu. I saved the excess flour qnd pickle brine to reuse next week. Hope it stays in fridge. I served with farro salad. I too am wondering if I can use air fryer to avoid all the oil.",
+          "datePublished": "2025-05-20T19:45:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MFM"
+          },
+          "reviewBody": "Could this work in an air fryer?",
+          "datePublished": "2025-05-13T23:40:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "You can do 1/2 the amount of flour and still have some left over.",
+          "datePublished": "2025-05-10T23:58:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deena"
+          },
+          "reviewBody": "I did this recipe exactly and fried in avocado oil. It was SO GOOD!",
+          "datePublished": "2025-05-03T01:06:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jessica"
+          },
+          "reviewBody": "Loved this. Just would 1/2 the flour next time.  A lot was wasted.  Also used air fryer and it turned out wonderfully.",
+          "datePublished": "2025-05-01T22:33:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy"
+          },
+          "reviewBody": "stupid pickle question: are we talking about kosher pickle brine or dill pickle brine",
+          "datePublished": "2025-05-01T18:28:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JJ"
+          },
+          "reviewBody": "I love this recipe! Worth the effort for me. Ive cooked it a few times, both following the recipe exactly and going a little off book. Ultimately my favorite pickle juices/brine option is a mix of bread and butter pickle juice, and left over juice from Trader Joe’s sweet hot pickled jalapeños. \nI think it makes everything more tasty to season the tofu with salt and pepper before searing. Love this with kewpie mayo. Such a treat! Thank you!",
+          "datePublished": "2025-04-25T10:46:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jt Michaels"
+          },
+          "reviewBody": "The first time I had tofu it was in soup and I despised it. That was 30 years ago. This recipe sounded worth a try and I loved it! Looking forward to experimenting with marinades as this method will be put into rotation. Thank you!",
+          "datePublished": "2025-04-10T00:13:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ecomel"
+          },
+          "reviewBody": "Definitely only need half (or less!) of the flour mixture. I think next time I might try part corn starch and baking instead of frying. (I did fry in only about a 1/4 inch of oil and it was fine.) This was tasty, but I served this with roasted broccoli and red potatoes and it would have been super handy (and less messy) to put everything in the oven. (For the non-mustard fans, I didn’t find it too mustard-y.)\n\nOnly the picky kid wouldn’t eat it. Husband said it did taste like a fish sandwich. I cut the tofu into four even rectangles. I think my tofu would had fallen apart if I had sliced into 6. \n\nDefinitely will make again! Any alternatives to pickle juice? We don’t buy a lot of pickles.",
+          "datePublished": "2025-03-18T02:17:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lydia Rodarte Quayle"
+          },
+          "reviewBody": "Unbelievably great. I like my tofu a bit thinner, so I did 1/4\" slices. The batter is perfection. I think they are perfectly seasoned without the sprinkle of salt. The one thing I would note if you marinate for 24 hours is the batter doesn't seem to stick as well as it does for pieces that marinate for just a few hours. This is absolutely phenomenal. It's like vegan Chick Fil A LOL.",
+          "datePublished": "2025-02-18T14:12:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "smkmshops"
+          },
+          "reviewBody": "It was good but not amazing. When it comes to fried things, they have to be amazing for me to want to make them at home. This was a bit labor intensive and very messy.",
+          "datePublished": "2025-02-12T15:07:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aileen"
+          },
+          "reviewBody": "This is delicious, but for some reason I can’t get the tofu that I buy to slice into the same configuration as described. This recipe also serves as a vegan version of chicken nuggets. Follow the same process but either cut the tofu into smaller chunks or break the slabs up after cooking.",
+          "datePublished": "2025-01-19T14:19:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Angela"
+          },
+          "reviewBody": "So good.  Have made this several times.  1/2 the amounts of flour (with 100% all the spices) and 1/2 the mustard mixture was sufficient for 14 oz tofu for us.",
+          "datePublished": "2024-11-15T00:50:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Don"
+          },
+          "reviewBody": "Delicious. Not particularly healthy, but a great way to go vegetarian with no loss of appeal. No animals are killed and it’s a nice indulgence.",
+          "datePublished": "2024-11-14T00:21:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lenny"
+          },
+          "reviewBody": "So good!\n\nMy notes:\n* freeze & pressed tofu had excellent texture\n* I think you could cut the dredging/flour components in half (or double the tofu). I always hate to see so much go to waste.",
+          "datePublished": "2024-11-03T16:26:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara"
+          },
+          "reviewBody": "I make a baked version of this all the time.  I prefer my vegetarian and vegan food to be healthy--that's why I eat it.  It can also be tasty without all the oil.  Just follow the first three steps, using minimal oil to brown the tofu in step two.  Coat the tofu as in the next step, but put it in the oven to brown.  This makes it more like oven-fried chicken.",
+          "datePublished": "2020-07-15T15:52:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "I don't fry. Anything. Not because I'm against frying! But because I stink at it. I think it requires some kind of a gene which my DNA lacks. No matter - I'm posting because I just want to express my deep appreciation to NYTimes Cooking for upping their vegan game these past few weeks. I have noticed a definite uptick in these sorts of recipes, and as a new vegan who needs cooking inspiration, I thank you!!",
+          "datePublished": "2020-07-15T16:30:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martha"
+          },
+          "reviewBody": "I also want to express my gratitude to NYTimes cooking for increasing the vegan/vegetarian repertoire. After our first Veganuary  adventure we were quite surprised to find we liked it. Meatless Monday has now expanded to meatless Monday-Friday for us, with choose your own adventure on the weekend.",
+          "datePublished": "2020-07-16T15:25:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "vagrantbaker"
+          },
+          "reviewBody": "Having actually made this recipe (can everyone stop rating the recipe unless you actually follow it? thanks!), I give it 5 stars! It was simple and easy enough to prepare. And guess what - I didn't die of oily food, in fact if you deep fry properly your tofu should not end up oil-sodden and \"unhealthy\". \nI made no substitutions except for adding homemade jalapeño pickle juice, and used my homemade dill pickles on the sandwich. Will be making again.",
+          "datePublished": "2020-07-29T08:32:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Randy"
+          },
+          "reviewBody": "I was sure this was going to be a labor-intensive disappointment, but the picture is so tantalizing...\n\nI'm gobsmacked. I followed the recipe, and it's worth the time and effort. Best sandwich I've had in a long time. Note, however, that I'm writing this as I eat and I haven't addressed the mess in my kitchen yet.",
+          "datePublished": "2020-07-25T18:24:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jess"
+          },
+          "reviewBody": "YES! You can air fry it!\nDid the first round of tofu cooking on convection bake setting at 350 in the air fryer until the tofu was a nice light golden brown. Marinate. Battered as directed then put the tofu on a silpat on the flat metal cookie sheet in the air fryer. Lightly sprayed with oil (make sure all the dry flour bits get oil for appearance and crispiness). Air fried at 350 for about 8 min on the first side, flipped and tried 400 on the next side until golden. Excellent!",
+          "datePublished": "2020-07-19T20:47:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael"
+          },
+          "reviewBody": "The magic in cooking with tofu lies in the processing. First, you drain the water, for example by putting something heavy on it for a while. Then, you can freeze it to further improve the texture, and keep drained tofu ready for whenever you need it. It will have a meaty bite and soak up sauces without becoming soft!",
+          "datePublished": "2020-07-16T12:14:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mags"
+          },
+          "reviewBody": "This was a challenge to make - luckily in the way back of the fridge we had a jar with a few pickle slices and were able to repurpose the brine in this recipe.  I think the sweet and spicy jalapeno juice would also be a welcome flavor. Ended up marinating it 24 hours, the tofu does not get soggy with the extra time.  We kind of scoffed at this serving 6. We doubled the tofu on the buns, but it was so filling we all ended up removing the 2nd piece.  Not healthy vegan, but tasty vegan!",
+          "datePublished": "2020-07-14T05:53:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Byll"
+          },
+          "reviewBody": "I've never, in 30 years of using tofu, been able to get any flavor into fresh tofu by marinating it. The laws of osmosis are against it, as the water content of the tofu prevents any other liquid from entering. The only way to get a marinade inside is to freeze, thaw and press the tofu, which changes the consistency, but allows the flavors to come through.",
+          "datePublished": "2020-07-16T12:58:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Prakash Nadkarni"
+          },
+          "reviewBody": "I suspect that an umami source (e.g., soy sauce, or Sichuan-type fermented bean paste with out without chili) would complement the tofu much better than pickle juice. Samin Nosrat had a marinated tofu recipe in NYT a while back. However, she used Bragg's Liquid Aminos, which is basically overpriced \"chemical\" soy sauce, where the amino acids are formed by acid hydrolysis of soybeans, rather than fermentation by Aspergillus oryzae, which yields a considerably more complex, flavorful product.",
+          "datePublished": "2020-07-15T23:21:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "coley"
+          },
+          "reviewBody": "I’m so interested in this dish, but...I have a major aversion to mustard. Is there a possible substitute for the mustard-based batter? Or is this just not my dish? (Sorry!  Hate to be that guy!)",
+          "datePublished": "2020-07-15T00:58:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tom"
+          },
+          "reviewBody": "Yeah, it's meatless. But you could heavily marinate and deep fry a kitchen sponge with a fatty crunchy coating, as done here, and it would be tasty to a vegan. lol",
+          "datePublished": "2020-07-15T17:04:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eddie VW"
+          },
+          "reviewBody": "Coley, you don't like mustard??!!  Try mixing mayonnaise and wasabi, it's a pretty good substitute.",
+          "datePublished": "2020-07-15T18:32:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joe"
+          },
+          "reviewBody": "I do it all the time, unbreaded.   It is very superior and more healthy than the deep fried you find in Chinese restaurants they put in Family Tofu or Family Bean curd with all the vegetables.\n\nYou press the water out after cutting in half, and then marinate in a plastic bag with soy, some toasted sesame oil,  a little bit of neutral oil, perhaps some vinegar.   In fact this simple, non-breaded tofu is one of the best things you can make in the air fryer.",
+          "datePublished": "2020-07-16T07:15:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Louise"
+          },
+          "reviewBody": "Reduce the flour/dry mixture by half. Otherwise you end up throwing away a great deal of ingredients.  The longer you marinate the tofu slabs the better.  Incredibly satisfying meal but you need to plan ahead.  Not a last minute meal.",
+          "datePublished": "2020-07-19T14:22:09.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021237-superiority-burgers-crispy-fried-tofu-sandwich",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Alexa Weibel"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020,
+      "description": "Ranging from silken and creamy to firm and chewy, tofu comes in many forms and is prized around the world for its versatility. In this recipe, which is adapted from the “Superiority Burger Cookbook” (W.W. Norton &amp; Company, 2018) by chef Brooks Headley, extra-firm tofu is pressed, marinated, breaded and fried, to make the “tofu-fried tofu” sandwich at Superiority Burger, his popular vegetarian restaurant in New York City. To achieve a dense tofu patty with plenty of flavor and bite, Mr. Headley starts with extra-firm tofu, presses out any excess liquid, then marinates it in a spicy pickle juice brine. It’s then double-battered and deep-fried until crisp. This sandwich is best enjoyed on a sunlit stoop in the East Village, just steps outside Superiority Burger, but it’s also achievable in any home kitchen.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Superiority Burger’s Crispy Fried Tofu Sandwich",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/ef89d58f-a0d6-5dbf-b8b2-01f51377cb3d#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/07/09/dining/aw-tofu-sandwich/aw-tofu-sandwich-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2022-02-18T17:41:28.551Z",
+          "datePublished": "2020-07-09T21:13:37.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-07-09T21:13:37.000Z",
+          "url": "https://static01.nyt.com/images/2020/07/09/dining/aw-tofu-sandwich/aw-tofu-sandwich-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ef89d58f-a0d6-5dbf-b8b2-01f51377cb3d#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/07/09/dining/aw-tofu-sandwich/aw-tofu-sandwich-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2022-02-18T17:41:28.551Z",
+          "datePublished": "2020-07-09T21:13:37.000Z",
+          "height": "1488",
+          "representativeOfPage": true,
+          "uploadDate": "2020-07-09T21:13:37.000Z",
+          "url": "https://static01.nyt.com/images/2020/07/09/dining/aw-tofu-sandwich/aw-tofu-sandwich-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/ef89d58f-a0d6-5dbf-b8b2-01f51377cb3d#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/07/09/dining/aw-tofu-sandwich/aw-tofu-sandwich-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2022-02-18T17:41:28.551Z",
+          "datePublished": "2020-07-09T21:13:37.000Z",
+          "height": "1801",
+          "representativeOfPage": true,
+          "uploadDate": "2020-07-09T21:13:37.000Z",
+          "url": "https://static01.nyt.com/images/2020/07/09/dining/aw-tofu-sandwich/aw-tofu-sandwich-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021237-superiority-burgers-crispy-fried-tofu-sandwich"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:31:19.529Z",
+  "scraping_status": "scraped"
+}

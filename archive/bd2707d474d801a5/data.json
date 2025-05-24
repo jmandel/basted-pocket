@@ -1,0 +1,579 @@
+{
+  "id": "bd2707d474d801a5",
+  "original_url": "https://cooking.nytimes.com/recipes/1019623-old-fashioned-doughnut-bundt-cake",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1019623-old-fashioned-doughnut-bundt-cake",
+  "fetched_title": "Old-Fashioned Doughnut Bundt Cake Recipe",
+  "main_text_content": "This simple vanilla Bundt cake has plenty of freshly grated nutmeg to nod to the flavor of old-fashioned doughnuts But since it’s baked rather than fried, it also gets a generous coating of melted butter while it’s still warm to give it some of that doughnut richness Then it’s coated in cinnamon-sugar",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025495-vanilla-bundt-cake\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-blogSmallInline-v3.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-videoSixteenByNine310-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/07/11/multimedia/YA-Bundt-Cakerex-pgwf-copy1/YA-Bundt-Cakerex-pgwf-copy1-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Vanilla Bundt Cake</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Yossy Arefi</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2018/09/27/dining/ed-doughnut-bundt-cake-horizontal/ed-doughnut-bundt-cake-horizontal-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/bd2707d474d801a5/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/f752eb3f-dd4a-52ed-818f-8418c9188bca",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1019623-old-fashioned-doughnut-bundt-cake",
+        "@type": "WebPage",
+        "name": "Old-Fashioned Doughnut Bundt Cake"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019623-old-fashioned-doughnut-bundt-cake",
+      "name": "Old-Fashioned Doughnut Bundt Cake",
+      "description": "This simple vanilla Bundt cake has plenty of freshly grated nutmeg to nod to the flavor of old-fashioned doughnuts. But since it’s baked rather than fried, it also gets a generous coating of melted butter while it’s still warm to give it some of that doughnut richness. Then it’s coated in cinnamon-sugar. It’s neither a doughnut nor a cake – it’s both. It’s delicious right after it’s made, but it tastes even more like an old-fashioned doughnut after sitting overnight. Store it tightly wrapped in plastic wrap at room temperature for up to 4 days.",
+      "author": {
+        "@type": "Person",
+        "name": "Erin Jeanne McDowell"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/cc14cf9a-1749-5916-86d8-f0b96f8defc4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Erin Jeanne McDowell's doughnut Bundt cake.",
+          "contentUrl": "https://static01.nyt.com/images/2018/09/27/dining/ed-doughnut-bundt-cake-horizontal/ed-doughnut-bundt-cake-horizontal-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "John Kernick for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2018-10-05T19:27:00.985Z",
+          "datePublished": "2018-09-27T19:48:54.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2018-09-27T19:48:54.000Z",
+          "url": "https://static01.nyt.com/images/2018/09/27/dining/ed-doughnut-bundt-cake-horizontal/ed-doughnut-bundt-cake-horizontal-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/cc14cf9a-1749-5916-86d8-f0b96f8defc4#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Erin Jeanne McDowell's doughnut Bundt cake.",
+          "contentUrl": "https://static01.nyt.com/images/2018/09/27/dining/ed-doughnut-bundt-cake-horizontal/ed-doughnut-bundt-cake-horizontal-superJumbo.jpg",
+          "creditText": "John Kernick for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2018-10-05T19:27:00.985Z",
+          "datePublished": "2018-09-27T19:48:54.000Z",
+          "height": "1404",
+          "representativeOfPage": true,
+          "uploadDate": "2018-09-27T19:48:54.000Z",
+          "url": "https://static01.nyt.com/images/2018/09/27/dining/ed-doughnut-bundt-cake-horizontal/ed-doughnut-bundt-cake-horizontal-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/cc14cf9a-1749-5916-86d8-f0b96f8defc4#square640",
+          "@type": "ImageObject",
+          "caption": "Erin Jeanne McDowell's doughnut Bundt cake.",
+          "contentUrl": "https://static01.nyt.com/images/2018/09/27/dining/ed-doughnut-bundt-cake-horizontal/ed-doughnut-bundt-cake-horizontal-square640.jpg",
+          "creditText": "John Kernick for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2018-10-05T19:27:00.985Z",
+          "datePublished": "2018-09-27T19:48:54.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2018-09-27T19:48:54.000Z",
+          "url": "https://static01.nyt.com/images/2018/09/27/dining/ed-doughnut-bundt-cake-horizontal/ed-doughnut-bundt-cake-horizontal-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT1H10M",
+      "recipeYield": "10 to 12 servings",
+      "recipeCuisine": "american",
+      "recipeCategory": "dessert",
+      "keywords": "birthday, christmas, halloween, new year’s day, super bowl, thanksgiving, bundt cake, butter, buttermilk, cinnamon, flour, nutmeg, fall, winter",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 2235
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 460,
+        "unsaturatedFatContent": "7 grams",
+        "carbohydrateContent": "67 grams",
+        "cholesterolContent": null,
+        "fatContent": "19 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "7 grams",
+        "saturatedFatContent": "10 grams",
+        "sodiumContent": "310 milligrams",
+        "sugarContent": "38 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "Nonstick cooking spray",
+        "1 cup/225 grams unsalted butter, at room temperature, plus 1/2 cup/115 grams, melted, for finishing",
+        "1 1/2 cups/300 grams plus 2/3 cup/135 grams granulated sugar",
+        "4 large eggs, at room temperature",
+        "1 1/2 teaspoons vanilla extract",
+        "3 1/2 cups/445 grams all-purpose flour",
+        "1 teaspoon freshly grated nutmeg",
+        "2 teaspoons baking powder",
+        "1/2 teaspoon baking soda",
+        "3/4 teaspoon fine sea salt",
+        "1 cup/240 milliliters buttermilk",
+        "2 teaspoons ground cinnamon"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 350 degrees. Generously grease a 10- or 12-cup Bundt pan, taking care to get into all the grooves of the pan."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In the bowl of an electric mixer fitted with the paddle attachment, cream 1 cup/225 grams room-temperature butter and 1 1/2 cups/300 grams sugar on medium speed until light and fluffy, 4 to 5 minutes. Add the eggs one at a time and mix until well incorporated, scraping the mixing bowl after each addition. Add the vanilla and mix to combine."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a medium bowl, whisk the flour, nutmeg, baking powder, baking soda and salt to combine. Add half of the flour mixture to the mixer and mix on low speed until incorporated. With the mixer running, add the buttermilk in a slow, steady stream and mix until combined. Add the remaining flour and mix until fully incorporated. Scrape the bowl well to be sure the batter is well combined."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour the batter into the prepared Bundt pan and spread evenly. Tap the pan heavily on the counter a few times to help even out the batter and remove air pockets. Bake until a toothpick inserted into the cake comes out clean, 45 to 55 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Let the cake cool in the pan for 15 to 20 minutes, then flip the pan onto a cooling rack set inside a baking sheet. Tap the pan heavily onto the rack. The cake should easily release. If it doesn’t, use a small offset spatula to gently run around the edges of the pan to help release, then tap it again onto the rack."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a small bowl, mix the remaining 2/3 cup/135 grams sugar with the cinnamon to combine. Brush the warm cake all over with melted butter, then spoon cinnamon sugar over the cake. Brush any bare areas with the melted butter and reuse any cinnamon sugar that falls onto the baking sheet below the rack, using your hands to gently press it into the surface of the cake to help it stick. The idea is to get the cake fully coated all over with cinnamon sugar. Let the cake cool completely before serving."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jan"
+          },
+          "reviewBody": "I made this today. I reduced the sugar in the batter by 1/4 cup and used less than half of the cinnamon/sugar mixture. Delightful and yummy. I would bake this again.",
+          "datePublished": "2025-02-08T20:57:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lorraine Fina Stevenski"
+          },
+          "reviewBody": "I looked at both the jam filled recipe and the plain recipe (this one) and decided more is better. This recipe has more butter and eggs. And tangy buttermilk. That sold me right there. I decided to make this recipe in 12 individual short muffins. And skip the topping. I used a generous sprinkle of cinnamon sugar on top of each muffin before baking. They came out perfect at 350 for 15 minutes. Nice high rise, browned top and a fabulous buttery crumb with a big hint of nutmeg. Perfect recipe!",
+          "datePublished": "2025-02-08T12:05:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lorraine Fina Stevenski"
+          },
+          "reviewBody": "My advice is to weigh the flour. Too much flour will result in a dry bake. Then don't overbake! Test with a toothpick a few minutes before your timer goes off. It should come out dry. So many people don't like a recipe because of these 2 culprits.",
+          "datePublished": "2025-02-08T12:08:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joanie Warner"
+          },
+          "reviewBody": "I made this as dessert on Christmas Eve. My guests loved it so much that many had seconds — and this was after they'd eaten several courses plus an hour's worth of appetizers. The cake is fluffy and goes great with a scoop of ice cream. Also: Pam makes a floured pan spray that has never let me down.",
+          "datePublished": "2024-12-26T15:14:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate"
+          },
+          "reviewBody": "I measured everything using a scale as some comments indicated. However, this was still a little too crumbly. I wouldn’t call it dry, but it’s not holding together that well and tastes a little plain. In the future I might try to adjust the flour to liquid ratio as well as add more spices to the batter.",
+          "datePublished": "2024-12-26T04:27:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mark Novak"
+          },
+          "reviewBody": "After reading the other comments, I added 3/4c of sour cream to the recipe w/ the cup of buttermilk (no other mods). \n\nSide note: might replace buttermilk with egg nog for fun.",
+          "datePublished": "2024-11-21T21:24:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dry and Bland"
+          },
+          "reviewBody": "I also would never make this again. The cake was dry and bland even with extra butter and cinnamon. Disappointing!",
+          "datePublished": "2024-09-30T23:22:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy"
+          },
+          "reviewBody": "This was SO SO delicious! I could only find lowfat buttermilk so I added half a stick of butter to the recipe (2.5 sticks total). I decided to do a glaze instead of the cinnamon sugar which turned out great! (2 cups of confectioner's sugar with 1/4 cup water and a splash of vanilla). My favorite part was the crusty outside though, so if I make this again, I'll do the cinnamon sugar instead. I used baking spray with flour in it and it came out of the pan easily!",
+          "datePublished": "2024-08-22T12:31:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Terry"
+          },
+          "reviewBody": "This was just ok. Wouldn’t bother again. Made one small Bundt cake and 12 muffins. \n\nHigh altitude changes 6300 ft):\n\n375 baking temp\nReduced leavening by 1/4\nLower third oven rack\nShorten baking time",
+          "datePublished": "2024-08-01T15:04:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melissa"
+          },
+          "reviewBody": "To the helpful note about sugaring instead of flouring after buttering, I melt butter and  paint every nook with a silicon basting brush dipped in melted butter. I may exceend the amount of butter allotted in the recipe for this, but every bundt slips out intact! And really, can there be too much butter?",
+          "datePublished": "2024-07-18T16:56:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laurie S"
+          },
+          "reviewBody": "Wouldn't make it again. As others said, it stuck to the pan. It was so bad it just came out in chunks for the top part. There are better recipes out there. Taste seems good, though I haven't put the cinnamon sugar on.",
+          "datePublished": "2024-06-17T01:54:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ailigh"
+          },
+          "reviewBody": "The cake turned out amazing. I prepped the pan with melted butter and sugar, came out beautifully after cooling for a little less than 15 min. I brushed the melted butter on the cake with a pastry brush in small segments and added the cinnamon sugar with a spoon to regulate where it went. Definitely not too dry, I know others have had some issues with it, but as a cup of flour can vary greatly in weight I followed the weight of flour not just the cups of flour and turned out delicious.",
+          "datePublished": "2024-03-31T14:21:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dorban"
+          },
+          "reviewBody": "This cake is fantastic, and a hit even with non-cake fans. It makes a good breakfast cake, and is perfect for afternoon tea. Does anyone know if I could substitute in self-raising flour for the all-purpose soda powder combo?",
+          "datePublished": "2024-03-30T00:51:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Buttermilk addition"
+          },
+          "reviewBody": "@Funbaker point of clarity, buttermilk isn’t added in step 2 since it’s added in alternating steps with the dry ingredients in step 3",
+          "datePublished": "2024-09-22T13:03:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Funbaker"
+          },
+          "reviewBody": "Beware that Step 2 of the recipe never tells you to add the buttermilk.",
+          "datePublished": "2024-03-15T20:38:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hayley"
+          },
+          "reviewBody": "Really boring with little flavor even after boosting the vanilla. I only made it because I had leftover buttermilk and needed to make a dessert.  Hence I didn’t heed to the lukewarm reviews but they are accurate.",
+          "datePublished": "2024-03-10T13:15:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jean Paulson"
+          },
+          "reviewBody": "Long ago I learned the trick of buttering/greasing pan and then sugaring ,not flouring, it.  Cakes always release easily, or if there's any reluctance, a short spin on a warm burner solves it. This also lends a very slightly crunchy caramelized note.....maybe not always desirable, but hey, I've never had a complaint.",
+          "datePublished": "2018-10-05T18:57:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gabby"
+          },
+          "reviewBody": "I made this over the summer and it was quite good, and then made it again this evening in order to self-soothe two days after Trump extremists tried to take down the Capital, fomented by Trump himself.  This, plus a strong drink, helped a little bit.",
+          "datePublished": "2021-01-09T03:25:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "linda evanston"
+          },
+          "reviewBody": "Erin’s not kidding when she says to grease the pan liberally...I thought I’d done a good job but, alas, a quarter of the top of the cake stuck to the pan!  I managed to scrape it out in chunks and replace it. The butter and sugar were a good camouflage.\nDon’t be afraid to get your hands in the sugar and rub the sugar along the sides. I found it helpful to butter a smaller section at a time and add the sugar immediately rather than buttering the whole cake and then adding the sugar afterwards. ",
+          "datePublished": "2018-10-01T03:02:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MSN"
+          },
+          "reviewBody": "This cake was delicious and everyone loved it. \n\nI don't think that the sticking problems come from how people are greasing the pans as much as they are caused by leaving the cake in the pan for 15 to 20 minutes. Nordic Ware recommends turning out the cake after cooling for 10 minutes. I've always done that and never had a cake stick - and I have made a ridiculous number of bundt cakes.",
+          "datePublished": "2018-12-04T19:23:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mad Cook"
+          },
+          "reviewBody": "The key to this cake IMO is resist the temptation to eat it straight out of the oven or even after it's cooled the same day.   Wrap it up and eat it the next morning with coffee for maximum donut enjoyment.   It was a very different cake the next day.  And yes, it freezes well.  I freeze all my baked goods in portion controllled sizes.",
+          "datePublished": "2018-10-29T13:50:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BakedWithBridget"
+          },
+          "reviewBody": "I realized a little too late while making this recipe that I had run out of nutmeg, but swapped it with two teaspoons of apple pie spice and ended up with a decadent oversized “apple cider donut” cake that I’ll be sure to make again!",
+          "datePublished": "2019-04-30T16:21:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liza"
+          },
+          "reviewBody": "I was looking for a recipe to try out with a new Nordic Ware mini-bundt pan. Cut the recipe in half, wound up with six little beauties. I brushed a mixture of melted butter/canola oil/flour (instead of cooking spray) in the pans, baked 22 minutes, rested 15, and the cakes released perfectly. Since I had mini-bundts I was able to put them gently into a ziploc bag with the cinnamon sugar, after brushing with the melted butter, and got a very nice even sugar coating on them. Nicely moist when cut.",
+          "datePublished": "2018-12-13T23:19:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "satah campbell"
+          },
+          "reviewBody": "Muffins!!!! After making this a couple times, and loving it, I decided to try something new and adapt it for muffins. This was a massive success. Before baking I put 1/4 tsp cinnamon sugar in the bottom of each cup then another on top. Once out of the oven I brushed them with butter then added another 1/2 tsp sugar topping. This way there’s more of the sugar and they are ready to eat sooner than the cake which needed a day or two to settle. One full recipe made 2 dozen muffins. Seriously, try it",
+          "datePublished": "2019-12-03T07:07:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Luther"
+          },
+          "reviewBody": "Excellent! Flavor is very reminiscent of old fashion doughnuts. Very moist.  It is difficult to get the sides of this coated with cinnamon sugar.  Several observations.  A number of people talk about how dry this is. Imperative that you use kitchen scales when measuring out the flour as the grams are nowhere near the same as the cup quantity, it's actually a lot less.  Sugar is the same, less using grams. 45 minutes is dead on. Used vanilla paste instead of extract. Same amount. Big hit. Thanks!",
+          "datePublished": "2019-02-02T20:41:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "chris g"
+          },
+          "reviewBody": "I  use Pam baking spray  with flour in my metal bunds pan. My cakes never stick. . By mistake I once used cooking spray, and my cake stuck. Must use BAKING spray.",
+          "datePublished": "2018-10-13T20:08:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura"
+          },
+          "reviewBody": "I find the absolute best cooking spray to use for bundt cakes is Bakers Joy. It has flour in it and, knock on wood, I always have a perfect bundt cake when I flip the pan over. You can buy it at Walmart or Shoprite or Amazon.",
+          "datePublished": "2018-12-18T13:07:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "HMD_RI"
+          },
+          "reviewBody": "I made this as cupcakes and added some jam in the middle for my workplace holiday potluck. Everyone loved them - they tasted great and were very flavorful. ",
+          "datePublished": "2018-12-20T21:01:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary Cusic"
+          },
+          "reviewBody": "I made this cake and used yogurt w whole milk for the buttermilk since I did not have buttermilk. Additionally, I used 2 T melted butter for the topping and sprinkled the cake with 1 T cinnamon sugar. The result is a scrumptious cake with a perfect sugar balance. I adjust the sugar with everything I bake. Enjoy!",
+          "datePublished": "2018-10-14T01:21:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mad Cook"
+          },
+          "reviewBody": "I discovered I only had three eggs so made 3/4 the recipe in an 8x8 square pan",
+          "datePublished": "2018-10-28T23:42:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christine"
+          },
+          "reviewBody": "That's a lot of eggs, and not very much butter, for 3 1/2 cups of flour. No wonder some people think it's dry. As for greasing the pan, try homemade pan release: equal amounts by volume of flour, oil, shortening.",
+          "datePublished": "2019-09-07T18:18:24.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1019623-old-fashioned-doughnut-bundt-cake",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Erin Jeanne McDowell"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018,
+      "description": "This simple vanilla Bundt cake has plenty of freshly grated nutmeg to nod to the flavor of old-fashioned doughnuts. But since it’s baked rather than fried, it also gets a generous coating of melted butter while it’s still warm to give it some of that doughnut richness. Then it’s coated in cinnamon-sugar. It’s neither a doughnut nor a cake – it’s both. It’s delicious right after it’s made, but it tastes even more like an old-fashioned doughnut after sitting overnight. Store it tightly wrapped in plastic wrap at room temperature for up to 4 days.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Old-Fashioned Doughnut Bundt Cake",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/cc14cf9a-1749-5916-86d8-f0b96f8defc4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Erin Jeanne McDowell's doughnut Bundt cake.",
+          "contentUrl": "https://static01.nyt.com/images/2018/09/27/dining/ed-doughnut-bundt-cake-horizontal/ed-doughnut-bundt-cake-horizontal-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "John Kernick for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2018-10-05T19:27:00.985Z",
+          "datePublished": "2018-09-27T19:48:54.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2018-09-27T19:48:54.000Z",
+          "url": "https://static01.nyt.com/images/2018/09/27/dining/ed-doughnut-bundt-cake-horizontal/ed-doughnut-bundt-cake-horizontal-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/cc14cf9a-1749-5916-86d8-f0b96f8defc4#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Erin Jeanne McDowell's doughnut Bundt cake.",
+          "contentUrl": "https://static01.nyt.com/images/2018/09/27/dining/ed-doughnut-bundt-cake-horizontal/ed-doughnut-bundt-cake-horizontal-superJumbo.jpg",
+          "creditText": "John Kernick for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2018-10-05T19:27:00.985Z",
+          "datePublished": "2018-09-27T19:48:54.000Z",
+          "height": "1404",
+          "representativeOfPage": true,
+          "uploadDate": "2018-09-27T19:48:54.000Z",
+          "url": "https://static01.nyt.com/images/2018/09/27/dining/ed-doughnut-bundt-cake-horizontal/ed-doughnut-bundt-cake-horizontal-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/cc14cf9a-1749-5916-86d8-f0b96f8defc4#square640",
+          "@type": "ImageObject",
+          "caption": "Erin Jeanne McDowell's doughnut Bundt cake.",
+          "contentUrl": "https://static01.nyt.com/images/2018/09/27/dining/ed-doughnut-bundt-cake-horizontal/ed-doughnut-bundt-cake-horizontal-square640.jpg",
+          "creditText": "John Kernick for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2018-10-05T19:27:00.985Z",
+          "datePublished": "2018-09-27T19:48:54.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2018-09-27T19:48:54.000Z",
+          "url": "https://static01.nyt.com/images/2018/09/27/dining/ed-doughnut-bundt-cake-horizontal/ed-doughnut-bundt-cake-horizontal-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019623-old-fashioned-doughnut-bundt-cake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:15.024Z",
+  "scraping_status": "scraped"
+}

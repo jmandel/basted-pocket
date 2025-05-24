@@ -1,0 +1,542 @@
+{
+  "id": "7b3c84cacd35b613",
+  "original_url": "https://cooking.nytimes.com/recipes/1024544-cold-sesame-noodles-with-cucumber-corn-and-basil",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1024544-cold-sesame-noodles-with-cucumber-corn-and-basil",
+  "fetched_title": "Cold Sesame Noodles With Cucumber, Corn and Basil Recipe",
+  "main_text_content": "For a summertime update on a beloved Chinese dish, cold sesame noodles are freshened up with crisp cucumbers, raw corn and aromatic basil The minimalism of the three-ingredient sesame dressing belies its complex flavor It brings together three flavor-dense condiments: chile crisp, sesame oil and sesame paste",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/10945-cold-noodles-with-sesame-sauce-chicken-and-cucumbers\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2017/02/28/dining/28COOKING-COLDNOODLES-CHIX-CUKES2/28COOKING-COLDNOODLES-CHIX-CUKES2-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2017/02/28/dining/28COOKING-COLDNOODLES-CHIX-CUKES2/28COOKING-COLDNOODLES-CHIX-CUKES2-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2017/02/28/dining/28COOKING-COLDNOODLES-CHIX-CUKES2/28COOKING-COLDNOODLES-CHIX-CUKES2-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2017/02/28/dining/28COOKING-COLDNOODLES-CHIX-CUKES2/28COOKING-COLDNOODLES-CHIX-CUKES2-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2017/02/28/dining/28COOKING-COLDNOODLES-CHIX-CUKES2/28COOKING-COLDNOODLES-CHIX-CUKES2-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2017/02/28/dining/28COOKING-COLDNOODLES-CHIX-CUKES2/28COOKING-COLDNOODLES-CHIX-CUKES2-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2017/02/28/dining/28COOKING-COLDNOODLES-CHIX-CUKES2/28COOKING-COLDNOODLES-CHIX-CUKES2-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2017/02/28/dining/28COOKING-COLDNOODLES-CHIX-CUKES2/28COOKING-COLDNOODLES-CHIX-CUKES2-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Cold Noodles With Sesame Sauce, Chicken And Cucumbers</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Mark Bittman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/08/23/multimedia/hm-cold-sesame-noodles-ckwq/hm-cold-sesame-noodles-ckwq-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/7b3c84cacd35b613/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/500658fb-b052-5404-8474-6e622463cbee",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1024544-cold-sesame-noodles-with-cucumber-corn-and-basil",
+        "@type": "WebPage",
+        "name": "Cold Sesame Noodles With Cucumber, Corn and Basil"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024544-cold-sesame-noodles-with-cucumber-corn-and-basil",
+      "name": "Cold Sesame Noodles With Cucumber, Corn and Basil",
+      "description": "For a summertime update on a beloved Chinese dish, cold sesame noodles are freshened up with crisp cucumbers, raw corn and aromatic basil. The minimalism of the three-ingredient sesame dressing belies its complex flavor. It brings together three flavor-dense condiments: chile crisp, sesame oil and sesame paste. Available from Asian grocery stores (or online), Chinese or Japanese sesame paste is similar to tahini. It is made from toasted sesame seeds, so the finish is darker, nuttier and stronger. If you can’t get a hold of sesame paste, substitute with smooth peanut butter or tahini. The noodle choice here is flexible to make space for those with dietary restrictions; use any type of thick rice or wheat noodle.",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/5ee03779-a103-5eda-b643-869f53a63db5#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/08/23/multimedia/hm-cold-sesame-noodles-ckwq/hm-cold-sesame-noodles-ckwq-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2023-08-23T17:09:45.861Z",
+          "datePublished": "2023-08-23T17:09:45.861Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-08-23T17:09:45.861Z",
+          "url": "https://static01.nyt.com/images/2023/08/23/multimedia/hm-cold-sesame-noodles-ckwq/hm-cold-sesame-noodles-ckwq-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/5ee03779-a103-5eda-b643-869f53a63db5#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/08/23/multimedia/hm-cold-sesame-noodles-ckwq/hm-cold-sesame-noodles-ckwq-superJumbo.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2023-08-23T17:09:45.861Z",
+          "datePublished": "2023-08-23T17:09:45.861Z",
+          "height": "1536",
+          "representativeOfPage": true,
+          "uploadDate": "2023-08-23T17:09:45.861Z",
+          "url": "https://static01.nyt.com/images/2023/08/23/multimedia/hm-cold-sesame-noodles-ckwq/hm-cold-sesame-noodles-ckwq-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/5ee03779-a103-5eda-b643-869f53a63db5#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/08/23/multimedia/hm-cold-sesame-noodles-ckwq/hm-cold-sesame-noodles-ckwq-mediumSquareAt3X.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2023-08-23T17:09:45.861Z",
+          "datePublished": "2023-08-23T17:09:45.861Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-08-23T17:09:45.861Z",
+          "url": "https://static01.nyt.com/images/2023/08/23/multimedia/hm-cold-sesame-noodles-ckwq/hm-cold-sesame-noodles-ckwq-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT10M",
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, quick, weeknight, noodles, main course",
+      "keywords": "basil, chile crisp, corn, cucumber, partial-access-ic, rice noodle, sesame oil, sesame paste, stovetop, gluten-free, vegan, summer",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 1063
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 462,
+        "unsaturatedFatContent": "13 grams",
+        "carbohydrateContent": "67 grams",
+        "cholesterolContent": null,
+        "fatContent": "17 grams",
+        "fiberContent": "5 grams",
+        "proteinContent": "15 grams",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "515 milligrams",
+        "sugarContent": "6 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "Salt",
+        "10 ounces dried thick rice or wheat noodles",
+        "4 Persian cucumbers (about 11 ounces)",
+        "1/4 cup Chinese or Japanese sesame paste or tahini",
+        "4 teaspoons toasted sesame oil",
+        "4 to 6 teaspoons chile crisp (to your taste), plus more for serving",
+        "2 ears corn, kernels removed (about 2 cups of kernels)",
+        "Toasted white sesame seeds, to serve",
+        "Handful of basil leaves"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bring a large pot of salted water to a boil. Add the noodles and cook according to packet instructions until al dente. Drain, refresh under cold water and drain again."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Halve cucumbers lengthwise. Using a small spoon, scrape out the seeds and discard. Cut cucumber into thin strips."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the sesame sauce: Place the sesame paste into a bowl and add the sesame oil and chile crisp. Add 1/4 cup of water and whisk until smooth and pourable. If the sauce is too thick, add another splash of water, until the sauce feels loose enough to coat the noodles. (The sauce can be prepared 1 day ahead, but it will thicken up over time. To loosen it up, whisk with a tablespoon or two of water.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place the noodles into a large bowl and add the sesame sauce, cucumber and corn. Toss to coat the noodles."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To serve, top with sesame seeds, basil leaves and a few drops of chile crisp."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-08-23T00:00:00.000Z",
+      "dateModified": "2024-06-10T20:46:06.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Adrienne"
+          },
+          "reviewBody": "easy way to fix the lack of salt and umami is to add white miso and a little garlic. we loved it.",
+          "datePublished": "2025-04-23T17:40:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Holly"
+          },
+          "reviewBody": "Not great. Needs salt, acid, umami. Maybe the chili crisp she used when testing the recipe was bigger in flavor than what I used but this was not something I would make again as written.",
+          "datePublished": "2025-02-04T02:42:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TrixieP"
+          },
+          "reviewBody": "I did not care for this at all. The noodles were heavy and had an unpleasing texture. Overall taste was fairly bland",
+          "datePublished": "2024-10-17T14:38:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leah"
+          },
+          "reviewBody": "We tried making this but didn’t have tahini, so we followed the suggestions substitutions and used peanut butter instead. The next day we tried it with tahini as written - we thought the peanut butter was much better!! Added a nice sweetness that the dish really needs.",
+          "datePublished": "2024-09-12T01:50:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J Nem"
+          },
+          "reviewBody": "Needed some salt and heat. I added lemon juice and s splash of rice vinegar to wake these up a little, but still need /something/. It was convenient to bring for work lunch, though.",
+          "datePublished": "2024-08-28T00:13:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Allison"
+          },
+          "reviewBody": "Agree with a lot of these comments that it was tasty, once you add a bunch of lime, more gingers, some soy sauce, and some chiles.",
+          "datePublished": "2024-08-27T18:53:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris"
+          },
+          "reviewBody": "Agree with others that this was a bit bland as is. Though can be easily doctored with salt, acid like lime juice and a spice kick from say sriracha which I did. Maybe my ears of corn were large but corn to noodle ratio for me was a bit high, and I’d prefer cooked over raw corn. Found it hard to integrate corn and cucumbers evenly with noodles.",
+          "datePublished": "2024-08-21T04:17:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jake"
+          },
+          "reviewBody": "Added mint, lime juice, and a little soy sauce, and cooked the corn in a pan. Overall this tastes like a Chopped challenge that turned out with some good aspects and some not so good aspects. If you are bored, it might be worth your time trying to make this general idea work, but only as an experiment for yourself, not for your family or date night.",
+          "datePublished": "2024-08-10T00:14:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandy"
+          },
+          "reviewBody": "I wish I would have consulted the comments prior to making...it was easy to make, love the corn and Chile crisp added...but was still bland. I want to make this again with some soy, scallions, more basil....",
+          "datePublished": "2024-08-04T23:37:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "alexis"
+          },
+          "reviewBody": "Also don’t scoop out center of cucumber \n\nMash/rest cucumbers in salt to draw out water and use in sauce. Yum",
+          "datePublished": "2024-07-31T03:19:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bev"
+          },
+          "reviewBody": "Like others have said, it needs salt and is bland.",
+          "datePublished": "2024-07-29T21:04:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shelley M"
+          },
+          "reviewBody": "Wonderful! I threw the corn in to cook with the noodles for a few minutes at the end which made it sweeter and added salt when mixing with the sauce. I also made the cucumber small chunks to give something to stab and wrap the noodles around.",
+          "datePublished": "2024-07-23T17:38:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KMM"
+          },
+          "reviewBody": "This was good…..but lacked salt and acid.  \nI added a splash of tamari but feel it needed something sweet and something sour to balance.  \nWill try again.",
+          "datePublished": "2024-07-21T23:03:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JustJayne"
+          },
+          "reviewBody": "Far from a favorite.  Seemed a waste of farm fresh corn and cucumber. Too bland.",
+          "datePublished": "2024-07-21T21:43:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kacon42"
+          },
+          "reviewBody": "In the summer, I like having a big glass bowl of pasta salad in the fridge to graze on throughout the day when I’m snacky…or let’s be real, when I’m bored at work. This is great for that purpose! I was pretty generous with my spicy chili crisp, threw in a handful of green onions, and a good pinch of salt.",
+          "datePublished": "2024-07-18T18:27:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sejo"
+          },
+          "reviewBody": "Tried it and it’s very underwhelming. Need more acidity, more sweetness, and a lot more flavor…..",
+          "datePublished": "2023-08-25T03:34:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Daphne"
+          },
+          "reviewBody": "Added soy sauce\nSugar\nFish sauce",
+          "datePublished": "2023-08-24T00:32:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FQ"
+          },
+          "reviewBody": "Found this a bit bland so added lime juice, minced ginger, ponzu sauce and some mint and cilantro. Very tasty. Problem with corn and long noodles is that all the corn ends up at the bottom of your bowl ….",
+          "datePublished": "2023-08-28T10:50:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "carena"
+          },
+          "reviewBody": "Raw corn? Or cooked?",
+          "datePublished": "2023-08-24T00:15:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CQ"
+          },
+          "reviewBody": "It's a crispy oniony spicy oily condiment. You can follow the link in the recipe to make your own, or find it at Trader Joe's if you have one in your area.",
+          "datePublished": "2023-08-25T14:53:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "chicagoan"
+          },
+          "reviewBody": "I second the comment about needing salt.  A teaspoon of soy sauce made a big difference.",
+          "datePublished": "2023-08-26T01:24:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Becca"
+          },
+          "reviewBody": "Heeded warnings of blandness. Added soy sauce, a small amount of rice vinegar and honey to the dressing and made about 1.5x the listed recipe. Added a bell pepper, two scallions, more basil and an equal amount of mint. Also roasted the corn on the grill to get some char. We really enjoyed it as jazzed up!",
+          "datePublished": "2023-08-28T00:36:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "zooey"
+          },
+          "reviewBody": "Very good! Easy, simple, light, refreshing. I added green onion, yellow bell pepper, and some other veggies that needed to get eaten in my fridge.",
+          "datePublished": "2023-08-24T00:32:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane"
+          },
+          "reviewBody": "In the list of ingredients chile crisp is underlined, click on it and you are taken to the recipe for chile crisp.",
+          "datePublished": "2023-08-23T22:59:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "moi"
+          },
+          "reviewBody": "Needs salt and spice. Ridiculously bland as it currently stands.",
+          "datePublished": "2023-08-26T00:47:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "this recipe is definitely missing salt, add a bunch",
+          "datePublished": "2023-08-25T17:14:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Max Alexander, Rome"
+          },
+          "reviewBody": "Raw corn. Corn doesn't really need cooking.",
+          "datePublished": "2023-08-26T17:06:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "reviewBody": "If it doesn't say to cook the corn, don't cook it. Not odd.",
+          "datePublished": "2023-08-26T22:34:21.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1024544-cold-sesame-noodles-with-cucumber-corn-and-basil",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "For a summertime update on a beloved Chinese dish, cold sesame noodles are freshened up with crisp cucumbers, raw corn and aromatic basil. The minimalism of the three-ingredient sesame dressing belies its complex flavor. It brings together three flavor-dense condiments: chile crisp, sesame oil and sesame paste. Available from Asian grocery stores (or online), Chinese or Japanese sesame paste is similar to tahini. It is made from toasted sesame seeds, so the finish is darker, nuttier and stronger. If you can’t get a hold of sesame paste, substitute with smooth peanut butter or tahini. The noodle choice here is flexible to make space for those with dietary restrictions; use any type of thick rice or wheat noodle.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Cold Sesame Noodles With Cucumber, Corn and Basil",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/5ee03779-a103-5eda-b643-869f53a63db5#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/08/23/multimedia/hm-cold-sesame-noodles-ckwq/hm-cold-sesame-noodles-ckwq-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2023-08-23T17:09:45.861Z",
+          "datePublished": "2023-08-23T17:09:45.861Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-08-23T17:09:45.861Z",
+          "url": "https://static01.nyt.com/images/2023/08/23/multimedia/hm-cold-sesame-noodles-ckwq/hm-cold-sesame-noodles-ckwq-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/5ee03779-a103-5eda-b643-869f53a63db5#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/08/23/multimedia/hm-cold-sesame-noodles-ckwq/hm-cold-sesame-noodles-ckwq-superJumbo.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2023-08-23T17:09:45.861Z",
+          "datePublished": "2023-08-23T17:09:45.861Z",
+          "height": "1536",
+          "representativeOfPage": true,
+          "uploadDate": "2023-08-23T17:09:45.861Z",
+          "url": "https://static01.nyt.com/images/2023/08/23/multimedia/hm-cold-sesame-noodles-ckwq/hm-cold-sesame-noodles-ckwq-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/5ee03779-a103-5eda-b643-869f53a63db5#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/08/23/multimedia/hm-cold-sesame-noodles-ckwq/hm-cold-sesame-noodles-ckwq-mediumSquareAt3X.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2023-08-23T17:09:45.861Z",
+          "datePublished": "2023-08-23T17:09:45.861Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-08-23T17:09:45.861Z",
+          "url": "https://static01.nyt.com/images/2023/08/23/multimedia/hm-cold-sesame-noodles-ckwq/hm-cold-sesame-noodles-ckwq-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024544-cold-sesame-noodles-with-cucumber-corn-and-basil"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:10:03.222Z",
+  "scraping_status": "scraped"
+}

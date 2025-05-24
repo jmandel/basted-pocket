@@ -1,0 +1,557 @@
+{
+  "id": "3ee408d4f26623a1",
+  "original_url": "https://cooking.nytimes.com/recipes/1024673-skillet-pasta-with-bacon-and-eggs",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1024673-skillet-pasta-with-bacon-and-eggs",
+  "fetched_title": "Skillet Pasta With Bacon and Eggs Recipe",
+  "main_text_content": "Emulsifying creamy carbonara sauce can feel trickier than treading a tightrope, but this skillet pasta recipe fulfills those cravings with ease, and all in one pan Start by searing some sliced bacon until crisp, toasting orzo in the rendered bacon fat, then simmering with stock until pasta is al dente Next, you’ll stir in a few handfuls of Parmesan, then crack eggs right into the nearly cooked pasta",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/12965-spaghetti-carbonara\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"A bowl of spaghetti carbonara on a white plate sits on a grey-and-white marble countertop.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-blogSmallInline-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-videoSixteenByNine310-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Spaghetti Carbonara</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Ian Fisher</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/03/05/multimedia/AS-skillet-pasta-bacon-and-eggs-jvck/AS-skillet-pasta-bacon-and-eggs-jvck-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/3ee408d4f26623a1/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/44fa8814-b083-57ff-9070-a2d6e72b461d",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1024673-skillet-pasta-with-bacon-and-eggs",
+        "@type": "WebPage",
+        "name": "Skillet Pasta With Bacon and Eggs"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024673-skillet-pasta-with-bacon-and-eggs",
+      "name": "Skillet Pasta With Bacon and Eggs",
+      "description": "Emulsifying creamy carbonara sauce can feel trickier than treading a tightrope, but this skillet pasta recipe fulfills those cravings with ease, and all in one pan. Start by searing some sliced bacon until crisp, toasting orzo in the rendered bacon fat, then simmering with stock until pasta is al dente. Next, you’ll stir in a few handfuls of Parmesan, then crack eggs right into the nearly cooked pasta. The whites will cook until creamy, but the yolks should remain runny, so that as you eat, the yolk mingles with the pasta for silky spoonfuls.",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/6824f7b0-9819-538f-adde-5a8af800cb7e#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/05/multimedia/AS-skillet-pasta-bacon-and-eggs-jvck/AS-skillet-pasta-bacon-and-eggs-jvck-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2024-03-05T20:32:56.573Z",
+          "datePublished": "2024-03-04T20:50:28.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-04T20:50:28.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/05/multimedia/AS-skillet-pasta-bacon-and-eggs-jvck/AS-skillet-pasta-bacon-and-eggs-jvck-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/6824f7b0-9819-538f-adde-5a8af800cb7e#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/05/multimedia/AS-skillet-pasta-bacon-and-eggs-jvck/AS-skillet-pasta-bacon-and-eggs-jvck-googleFourByThree.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2024-03-05T20:32:56.573Z",
+          "datePublished": "2024-03-04T20:50:28.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-04T20:50:28.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/05/multimedia/AS-skillet-pasta-bacon-and-eggs-jvck/AS-skillet-pasta-bacon-and-eggs-jvck-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/6824f7b0-9819-538f-adde-5a8af800cb7e#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/05/multimedia/AS-skillet-pasta-bacon-and-eggs-jvck/AS-skillet-pasta-bacon-and-eggs-jvck-mediumSquareAt3X.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2024-03-05T20:32:56.573Z",
+          "datePublished": "2024-03-04T20:50:28.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-04T20:50:28.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/05/multimedia/AS-skillet-pasta-bacon-and-eggs-jvck/AS-skillet-pasta-bacon-and-eggs-jvck-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT30M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "brunch, dinner, easy, lunch, quick, weeknight, one pot, pastas, main course",
+      "keywords": "bacon, chicken broth, egg, orzo, parmesan, partial-access-ic, skillet, stovetop",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 408
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 442,
+        "unsaturatedFatContent": "13 grams",
+        "carbohydrateContent": "27 grams",
+        "cholesterolContent": null,
+        "fatContent": "24 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "27 grams",
+        "saturatedFatContent": "10 grams",
+        "sodiumContent": "819 milligrams",
+        "sugarContent": "4 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "4 slices bacon, thinly sliced",
+        "1 cup orzo",
+        "Salt and pepper",
+        "2 3/4 cups chicken stock or water, plus more as necessary",
+        "2/3 cup grated Parmesan, plus more for serving",
+        "4 large eggs"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large Dutch oven or skillet (preferably nonstick) with a cover, heat the bacon over medium. Stir occasionally until golden and crisp, 5 to 8 minutes. Turn off the heat and transfer the bacon to a plate. Pour off all but about 2 tablespoons of the bacon fat."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the orzo and a few generous grindings of pepper to the pot. Return to medium heat and cook, stirring occasionally, until the orzo is golden, 3 to 5 minutes. Add the chicken stock and scrape up any browned bits from the pot. (If you’re using water, add a pinch of salt.) Simmer, stirring often, until the orzo is al dente, 7 to 9 minutes. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the Parmesan in big handfuls and stir until melted. Taste and add salt and pepper as needed. At this point, you want the pasta loose like a stew; if it’s dry, stir in 1/4 cup stock or water."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Crack the eggs into the pasta, spacing them apart so they don’t touch, then cover and cook until the whites are just set and the yolks are still runny, 3 to 5 minutes. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Top the pasta with the bacon and more Parmesan and pepper, then spoon into bowls. As you eat, break up the egg yolk and stir it into the pasta until creamy. "
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-03-05T00:00:00.000Z",
+      "dateModified": "2024-03-05T20:32:44.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marfonline"
+          },
+          "reviewBody": "I add chopped green onions on top for a lovely bite and crispness.",
+          "datePublished": "2025-02-18T18:10:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melissa"
+          },
+          "reviewBody": "I could live on this pasta (with a green veg or salad) -- texture and flavor are top notch. It's one of those recipes I'll memorize and make frequently. Tonight I added grated tomato and sliced basil from the garden at the end.",
+          "datePublished": "2024-08-06T03:23:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Oniongrrrl"
+          },
+          "reviewBody": "I keep chuckling at the instruction, \"Add the Parmesan in big handfuls\" because it calls for 2/3 cup. The author must have tiny hands. 2/3 cup would be just one handful for me. Who am I kidding? i always double the cheese.",
+          "datePublished": "2024-07-23T23:18:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "peggy the cook"
+          },
+          "reviewBody": "Had for breakfast and delicious. Plenty salty with the cheese and bacon, so didn't need more salt! I cut up the bacon in pieces to fry but wished I had left big and broken up at the end ... to many pieces to turn over! But I'll make again!",
+          "datePublished": "2024-07-18T14:16:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amanda"
+          },
+          "reviewBody": "After cooking the bacon, I recommend saving off the grease and then deglazing the pan. Otherwise the little brown bits stuck to the bottom of the pan may burn while toasting the orzo, thus resulting in a burned flavor throughout once adding the broth.",
+          "datePublished": "2024-06-25T01:12:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan in Seattle"
+          },
+          "reviewBody": "This dish is great for one person portioned down to a quarter of the ingredients, cooked in an 8 inch skillet.  I found the egg cooked perfectly in a little less than 2-1/2 minutes.  Rich and decadent!",
+          "datePublished": "2024-06-20T14:25:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hayes"
+          },
+          "reviewBody": "I only had penne, so I used pre-cooked rice instead of pasta, and it turned out pretty well, I think!!",
+          "datePublished": "2024-06-16T01:27:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "turn off stove??"
+          },
+          "reviewBody": "Was I supposed to turn off the stove once the eggs were in? I had really high hopes for this recipe based on the reviews, but after following the recipe it all stuck to the bottom, the eggs over cooked and it was watery on top. So disappointed.",
+          "datePublished": "2024-05-17T00:06:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul"
+          },
+          "reviewBody": "Great recipe! We added some green onions (white parts) before toasting the orzo and then the green part of the onions as a garnish. It gave it some color and added some nice flavor. Very tasty!",
+          "datePublished": "2024-05-13T07:41:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristin R."
+          },
+          "reviewBody": "Delicious! Everyone in the family loved it. I used turkey bacon and added a big spoonful of butter to make up for the bacon fat.",
+          "datePublished": "2024-05-08T01:54:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Linda S."
+          },
+          "reviewBody": "Melissa, I’d love to know how you scaled this down for one person. It sounds so good but I live by myself so the full recipe would be way too much for me. TIA.",
+          "datePublished": "2024-04-29T16:16:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emma"
+          },
+          "reviewBody": "Great recipe! If you're not into the sunny side up/runny yolk thing, you can always take more of the traditional carbonara route and whisk the eggs into the parmesan - then whisk cheese-egg mixture into the pasta after tempering with a little pasta water. Makes a delicious creamy sauce!",
+          "datePublished": "2024-05-02T16:55:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "macaronbaker"
+          },
+          "reviewBody": "Mine came out very soupy. I’ll just reduce the amount of stock next time. It was very tasty though!",
+          "datePublished": "2024-04-10T22:54:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nathan E"
+          },
+          "reviewBody": "Great fun, recipe.  Kids loved mixing up the eggs in their bowls.\n\nWill be more careful next time with my sock, which I didn’t taste before adding and the dish ended up being VERY salty.\n\nGreat recipe",
+          "datePublished": "2024-03-26T02:14:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kflo"
+          },
+          "reviewBody": "Too much liquid- start with 1 3/4 to start!",
+          "datePublished": "2024-03-25T01:01:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debjeb"
+          },
+          "reviewBody": "My parents had to save money in the 1950’s so occasionally our dinner was “spaghetti and eggs”, no bacon!  LEFTOVER spaghetti was browned in the frying pan with a small amount of butter.  The eggs were slightly beaten and added to the mixture.  When cooked, it was served for dinner with ketchup on the side.  Over the years,  I have indulged in this delicious meal with fond memories of our little apartment in Queens, and seen similar “gourmet” copycat recipes for lavish brunches.  Ha!",
+          "datePublished": "2024-03-07T12:49:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rosa"
+          },
+          "reviewBody": "I'm vegetarian so I subbed the bacon for butter and an onion and it was still SO GOOD! Such a good weeknight pantry dinner.",
+          "datePublished": "2024-03-07T14:07:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David S"
+          },
+          "reviewBody": "I smiled to myself when I read the line about how difficult carbonara sauce is to make - I've used Ruth Reichl's recipe for 10+ years and never had a problem, but I have to admit I love the idea of this recipe limiting it to one pot and using orzo.  I would favor adding some garlic (as Reichl does) and cooking for a min or 2 before adding broth.  Can't wait to try!",
+          "datePublished": "2024-03-07T14:12:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debra"
+          },
+          "reviewBody": "Step 4 I turned off the stove then back on after eggs added. (I used 6 eggs …  no problem!) Wow what a great recipe! Thx Ali!",
+          "datePublished": "2024-03-07T12:17:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melissa"
+          },
+          "reviewBody": "Loved this! I scaled it down for one person without any trouble (used an 8-inch skillet), added red pepper instead of black pepper toward the end, and had it for breakfast because I couldn't wait for dinner or lunch.",
+          "datePublished": "2024-03-07T16:16:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharon"
+          },
+          "reviewBody": "Ruth:  vegans don't use butter (or anything \"meat\" made, including eggs); but vegetarians do.",
+          "datePublished": "2024-03-07T16:48:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara"
+          },
+          "reviewBody": "I see there are questions about Orzo substitutes:\nAcini Pepe\nDitalini\nFarfaline - tiny bowtie pasta.\nMost of these are store available near me, anyway - Ronzoni, Barilla, and De Cecco pasta brands.\nBarilla has a website for a pasta shape locator.",
+          "datePublished": "2024-03-07T17:24:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Harvey"
+          },
+          "reviewBody": "This sounds delish! Being that one of my fav combos is the smell of bacon and onion, I will probably small dice a half of onion and saute in the bacon fat before proceeding with the rest of the recipe. Can't wait to try this!",
+          "datePublished": "2024-03-07T17:35:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kevin Kruger"
+          },
+          "reviewBody": "Use about 3 cups cooked orzo, more or less. Cook the bacon as noted and remove to a plate. Remove some of the fat. Stir in the leftover orzo along with 1/2 cup chicken stock (or salted water) and heat, stirring often, until the orzo is hot.  Adjust liquid so that it's stew-y, if needed, then add the part and continue with the recipe.",
+          "datePublished": "2024-03-07T21:01:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John M."
+          },
+          "reviewBody": "I assume it is as there is no instruction to turn off the stove as is usual in most recipes.",
+          "datePublished": "2024-03-07T12:12:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AKMom"
+          },
+          "reviewBody": "I'd use no or low sodium chicken stock, and skip the added salt because both the bacon and parm should have enough sodium to flavor this dish.",
+          "datePublished": "2024-03-07T16:07:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fred"
+          },
+          "reviewBody": "Can make this kosher by substituting lox for bacon and vegetable broth for chicken broth.",
+          "datePublished": "2024-03-07T16:05:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jules"
+          },
+          "reviewBody": "Barilla, which should be readily available, makes a chickpea orzo.",
+          "datePublished": "2024-03-07T16:09:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vickie"
+          },
+          "reviewBody": "I might try this with some almost naked cooked spaghetti that I made last night instead of orzo. Like Debjeb we often had Spaghetti Eggs when we were growing up. It was one of my Dad's favorite things to make. He would start cooking leftover spaghetti in a skillet and then make holes to put the eggs in. I still love to make this!",
+          "datePublished": "2024-03-07T16:19:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "HS"
+          },
+          "reviewBody": "where do you live? every safeway or kroger I've been to has orzo.",
+          "datePublished": "2024-03-07T17:06:43.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1024673-skillet-pasta-with-bacon-and-eggs",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "Emulsifying creamy carbonara sauce can feel trickier than treading a tightrope, but this skillet pasta recipe fulfills those cravings with ease, and all in one pan. Start by searing some sliced bacon until crisp, toasting orzo in the rendered bacon fat, then simmering with stock until pasta is al dente. Next, you’ll stir in a few handfuls of Parmesan, then crack eggs right into the nearly cooked pasta. The whites will cook until creamy, but the yolks should remain runny, so that as you eat, the yolk mingles with the pasta for silky spoonfuls.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Skillet Pasta With Bacon and Eggs",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/6824f7b0-9819-538f-adde-5a8af800cb7e#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/05/multimedia/AS-skillet-pasta-bacon-and-eggs-jvck/AS-skillet-pasta-bacon-and-eggs-jvck-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2024-03-05T20:32:56.573Z",
+          "datePublished": "2024-03-04T20:50:28.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-04T20:50:28.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/05/multimedia/AS-skillet-pasta-bacon-and-eggs-jvck/AS-skillet-pasta-bacon-and-eggs-jvck-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/6824f7b0-9819-538f-adde-5a8af800cb7e#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/05/multimedia/AS-skillet-pasta-bacon-and-eggs-jvck/AS-skillet-pasta-bacon-and-eggs-jvck-googleFourByThree.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2024-03-05T20:32:56.573Z",
+          "datePublished": "2024-03-04T20:50:28.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-04T20:50:28.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/05/multimedia/AS-skillet-pasta-bacon-and-eggs-jvck/AS-skillet-pasta-bacon-and-eggs-jvck-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/6824f7b0-9819-538f-adde-5a8af800cb7e#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/03/05/multimedia/AS-skillet-pasta-bacon-and-eggs-jvck/AS-skillet-pasta-bacon-and-eggs-jvck-mediumSquareAt3X.jpg",
+          "creditText": "Ryan Liebe for The New York Times. Food Stylist: Barrett Washburne. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2024-03-05T20:32:56.573Z",
+          "datePublished": "2024-03-04T20:50:28.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-03-04T20:50:28.000Z",
+          "url": "https://static01.nyt.com/images/2024/03/05/multimedia/AS-skillet-pasta-bacon-and-eggs-jvck/AS-skillet-pasta-bacon-and-eggs-jvck-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024673-skillet-pasta-with-bacon-and-eggs"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:10:41.504Z",
+  "scraping_status": "scraped"
+}

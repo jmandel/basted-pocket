@@ -1,0 +1,657 @@
+{
+  "id": "f6945d205d5b0729",
+  "original_url": "https://cooking.nytimes.com/recipes/1023008-oxtail-and-butter-beans",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1023008-oxtail-and-butter-beans",
+  "fetched_title": "Oxtail and Butter Beans Recipe (with Video)",
+  "main_text_content": "This hearty, warming recipe is inspired by Jamaican and West Indian oxtail stews Oxtail is a cut that benefits from a long cook time: Here, it falls off the bone and is surrounded by an incredibly rich gravy with a lot of body Worcestershire sauce is traditional and balances the dish’s earthy, spicy and sweet flavors",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1013460-jamaican-oxtail-stew\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2018/01/22/dining/22COOKING-OXTAILSTEW/22COOKING-OXTAILSTEW-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2018/01/22/dining/22COOKING-OXTAILSTEW/22COOKING-OXTAILSTEW-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2018/01/22/dining/22COOKING-OXTAILSTEW/22COOKING-OXTAILSTEW-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2018/01/22/dining/22COOKING-OXTAILSTEW/22COOKING-OXTAILSTEW-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2018/01/22/dining/22COOKING-OXTAILSTEW/22COOKING-OXTAILSTEW-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2018/01/22/dining/22COOKING-OXTAILSTEW/22COOKING-OXTAILSTEW-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2018/01/22/dining/22COOKING-OXTAILSTEW/22COOKING-OXTAILSTEW-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2018/01/22/dining/22COOKING-OXTAILSTEW/22COOKING-OXTAILSTEW-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Jamaican Oxtail Stew</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Sam Sifton</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/f6945d205d5b0729/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/6d12ecbc-ecca-549d-bb30-5cb33a69e324",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1023008-oxtail-and-butter-beans",
+        "@type": "WebPage",
+        "name": "Oxtail and Butter Beans"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023008-oxtail-and-butter-beans",
+      "name": "Oxtail and Butter Beans",
+      "description": "This hearty, warming recipe is inspired by Jamaican and West Indian oxtail stews. Oxtail is a cut that benefits from a long cook time: Here, it falls off the bone and is surrounded by an incredibly rich gravy with a lot of body. Worcestershire sauce is traditional and balances the dish’s earthy, spicy and sweet flavors. The butter beans add a slight bite to counter the tender meat. But back to that gravy: Sop it up with naan or roti, or serve it over coconut rice and peas. (Watch the video of Millie Peartree making oxtail and butter beans here.)",
+      "author": {
+        "@type": "Person",
+        "name": "Millie Peartree"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/7d03f5aa-5f60-5540-a49c-bdcee8e09179#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Yunhee Kim for The New York Times. Food Stylits: Victoria Granof.",
+          "dateModified": "2022-03-03T21:29:04.181Z",
+          "datePublished": "2022-03-03T21:29:04.181Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-03T21:29:04.181Z",
+          "url": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/7d03f5aa-5f60-5540-a49c-bdcee8e09179#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-superJumbo.jpg",
+          "creditText": "Yunhee Kim for The New York Times. Food Stylits: Victoria Granof.",
+          "dateModified": "2022-03-03T21:29:04.181Z",
+          "datePublished": "2022-03-03T21:29:04.181Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-03T21:29:04.181Z",
+          "url": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/7d03f5aa-5f60-5540-a49c-bdcee8e09179#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-mediumSquareAt3X.jpg",
+          "creditText": "Yunhee Kim for The New York Times. Food Stylits: Victoria Granof.",
+          "dateModified": "2022-03-03T21:29:04.181Z",
+          "datePublished": "2022-03-03T21:29:04.181Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-03T21:29:04.181Z",
+          "url": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT2H",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "caribbean",
+      "recipeCategory": "dinner, main course",
+      "keywords": "jamaican curry powder, oxtail, worcestershire sauce",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 700
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 1465,
+        "unsaturatedFatContent": "49 grams",
+        "carbohydrateContent": "61 grams",
+        "cholesterolContent": null,
+        "fatContent": "87 grams",
+        "fiberContent": "16 grams",
+        "proteinContent": "108 grams",
+        "saturatedFatContent": "31 grams",
+        "sodiumContent": "1884 milligrams",
+        "sugarContent": "9 grams",
+        "transFatContent": "2 grams"
+      },
+      "recipeIngredient": [
+        "4 pounds oxtails",
+        "2 teaspoons coarse kosher salt",
+        "2 teaspoons black pepper",
+        "1/4 cup vegetable oil",
+        "4 scallions, trimmed and chopped",
+        "2 large yellow onions, chopped",
+        "2 tablespoons Worcestershire sauce",
+        "2 tablespoons Jamaican curry powder",
+        "2 teaspoons smoked paprika",
+        "12 whole pimento seeds (allspice berries)",
+        "4 fresh thyme sprigs",
+        "2 Scotch bonnet peppers, pierced through the flesh with a paring knife",
+        "2 tablespoons chicken stock concentrated paste or 1 chicken bouillon cube",
+        "2 tablespoons tomato paste",
+        "4 teaspoons browning sauce, preferably Grace brand",
+        "4 large garlic cloves, grated",
+        "1 teaspoon freshly grated ginger",
+        "2 (15-ounce) cans butter beans, drained and rinsed"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Season oxtails with salt and pepper. Set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large pot over medium, heat oil. Add the oxtails in batches, taking care not to crowd the pan, and brown, scraping the bits off the bottom of the pan, about 3 minutes per side. (You want a deep-brown crust to form on the outside.) Drain some of the oil, leaving about 2 tablespoons in the pan, and move oxtails to a plate."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add scallions, onions, Worcestershire sauce, curry powder, paprika, pimento seeds and thyme, and sauté for about 5 minutes until the onions are translucent. Add Scotch bonnet peppers, bouillon, tomato and browning paste, and stir for 1 minute. Add garlic and ginger, and sauté for another 30 seconds."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add oxtails to the pot, along with enough liquid to completely cover the meat. Bring to a boil and let simmer until tender (depending on the oxtail size and preference), about 2 to 3 hours, stirring occasionally."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Once oxtails are tender, add butter beans to heat through, about 5 minutes and up to 10 or 15, if you like a more tender bean. Remove the thyme sprigs and Scotch bonnet peppers; remove the pimento seeds as you see them, or if you like. Taste and adjust seasoning, and serve hot with rice and peas, and sweet plantains."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/8542f8f0-8c61-5427-8b49-88fde484bd2c",
+        "@type": "VideoObject",
+        "author": {
+          "@id": "nyt://person/0f1a5b18-7e38-59fe-8132-b5015cd37148",
+          "@type": "Person",
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/by/the-new-york-times"
+        },
+        "bitrate": "0",
+        "contentSize": "87086205",
+        "contentUrl": "https://vp.nyt.com/video/2023/01/25/105711_1_MP-oxtail-and-beans-CV_wg_480p.mp4",
+        "creator": {
+          "@id": "nyt://person/0f1a5b18-7e38-59fe-8132-b5015cd37148",
+          "@type": "Person",
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/by/the-new-york-times"
+        },
+        "dateModified": "2024-10-15T18:48:31.613Z",
+        "datePublished": "2023-01-26T20:02:40.000Z",
+        "description": "This hearty, warming recipe is inspired by Jamaican and West Indian oxtail stews. Oxtail is a cut that benefits from a long cook time: Here, it falls off the bone and is surrounded by an incredibly rich gravy with a lot of body. Worcestershire sauce is traditional and balances the dish’s earthy, spicy and sweet flavors. The butter beans add a slight bite to counter the tender meat. But back to that gravy: Sop it up with naan or roti, or serve it over coconut rice and peas.",
+        "duration": "PT7M6S",
+        "height": "480",
+        "name": "Oxtail and Butter Beans",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/7d03f5aa-5f60-5540-a49c-bdcee8e09179#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-videoSixteenByNineJumbo1600.jpg",
+            "creditText": "Yunhee Kim for The New York Times. Food Stylits: Victoria Granof.",
+            "dateModified": "2022-03-03T21:29:04.181Z",
+            "datePublished": "2022-03-03T21:29:04.181Z",
+            "height": "900",
+            "uploadDate": "2022-03-03T21:29:04.181Z",
+            "url": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-videoSixteenByNineJumbo1600.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/7d03f5aa-5f60-5540-a49c-bdcee8e09179#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-superJumbo.jpg",
+            "creditText": "Yunhee Kim for The New York Times. Food Stylits: Victoria Granof.",
+            "dateModified": "2022-03-03T21:29:04.181Z",
+            "datePublished": "2022-03-03T21:29:04.181Z",
+            "height": "1365",
+            "uploadDate": "2022-03-03T21:29:04.181Z",
+            "url": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-superJumbo.jpg",
+            "width": "2048"
+          },
+          {
+            "@id": "nyt://image/7d03f5aa-5f60-5540-a49c-bdcee8e09179#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-mediumSquareAt3X.jpg",
+            "creditText": "Yunhee Kim for The New York Times. Food Stylits: Victoria Granof.",
+            "dateModified": "2022-03-03T21:29:04.181Z",
+            "datePublished": "2022-03-03T21:29:04.181Z",
+            "height": "1800",
+            "uploadDate": "2022-03-03T21:29:04.181Z",
+            "url": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-mediumSquareAt3X.jpg",
+            "width": "1800"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-videoSixteenByNineJumbo1600.jpg",
+        "uploadDate": "2023-01-26T20:02:40.000Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000008741674/oxtail-and-butter-beans.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2022-03-03T00:00:00.000Z",
+      "dateModified": "2024-05-17T21:45:28.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "EmilyB"
+          },
+          "reviewBody": "Does anyone have a pressure cooker version?\nAlso, if I wanted to use dried butter beans, can they be cooked together or is it best to make them ahead?",
+          "datePublished": "2025-03-17T23:20:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tim Maguire"
+          },
+          "reviewBody": "This works very well. All I would suggest is that after cooking the oxtail, you take the meat out and strain all the delicious liquid through a sieve and reduce it for about 30 minutes to make a much thicker sauce. Add it back when you put the beans in, ideally the following day",
+          "datePublished": "2025-01-19T21:18:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "leah"
+          },
+          "reviewBody": "Delicious! The aromatic base could easily be the start of a soup, as the flavors are so good.\n\nFor anyone else who has a lower heat tolerance - I used 1 pepper, did not pierce it, and simmered it with the oxtail for 30mins only. Then I removed it. This still yielded a strong heat that was present when eating the dish (but also wasn’t too spicy for me to eat).",
+          "datePublished": "2024-12-24T00:11:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "modifications"
+          },
+          "reviewBody": "Gravy master browning sauce",
+          "datePublished": "2024-05-24T00:04:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shirley Ricci"
+          },
+          "reviewBody": "Delicious!!! The Jamaican spice really adds something to the flavor. I never considered piercing the Scitch Bonnets before, but that a great way to add the heat!",
+          "datePublished": "2024-03-03T13:58:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ecobuilder"
+          },
+          "reviewBody": "Reading the notes below I see someone who lived outside of Boston bought oxtails from the Whole Foods in the “dog food” freezer.  Having worked in the meat industry I can tell you first hand that ANY meat marked “dog food” often comes from cows with cancer or other diseases and is very old or border line rotten.  Never buy “dog food” for human consumption.",
+          "datePublished": "2024-03-01T16:25:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tammi"
+          },
+          "reviewBody": "I made these for my husband. I substituted jalapeño for the scotch bonnet (I don’t like it too spicy) but everything else was the same. It was DELICIOUS and my husband almost burst from the amount he ate! But he was happy 😊",
+          "datePublished": "2024-02-15T23:44:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shirley Ricci"
+          },
+          "reviewBody": "You can use similar beans as a substitute of course. I’m English and that’s what we call them in England. I’m guessing that in the US they are called Lima beans, almost the same",
+          "datePublished": "2024-03-03T14:03:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marcus R."
+          },
+          "reviewBody": "I live in Orange County, CA where it can be difficult to find certain ethnic items. However, oxtails are easy to find in Mexican markets and I've even been able to find goat meat in a couple of places. Strangely enough, it's the butter beans I can't find anywhere.",
+          "datePublished": "2024-02-11T20:31:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Keith"
+          },
+          "reviewBody": "As others have said, you don't need all the oil to start. Also, be sure you have all your ingredients measured and prepped because once the browning paste goes in, things begin to burn quickly. We only used one pepper and that was plenty of heat.",
+          "datePublished": "2024-01-31T15:36:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SD Hays"
+          },
+          "reviewBody": "This my 2nd time cooking the oxtails using Chef Millie Peartree’s recipe.  I had never cooked oxtails before finding this recipe.  My husband said they were delicious and I agree.  I even made a beef stew with the remaining gravy.  Scrumptious!  Thank you, Millie.  \nSincerely,\nSylviafromdabronxviaOakland",
+          "datePublished": "2023-12-31T02:44:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KPC"
+          },
+          "reviewBody": "Finally made this today. Well worth searching out oxtail. I used an Indian curry powder since that is what I had. I also used fresh chipotles instead of the scotch bonnet chilies. It had enough heat and plenty of umami. Will make again during the February blizzards.",
+          "datePublished": "2023-12-23T00:49:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sonia"
+          },
+          "reviewBody": "For a different twist on oxtail stew I suggest Craig Claiborne's recipe from NYT cookbook. It is not Jamaican style but it is the best oxtail recipe I have eaten, restaurans included. I say different twist because it has no hot peppers or curry. \nAny good meat market can order oxtails, and they are fun to eat. A favorite.",
+          "datePublished": "2023-12-16T02:57:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SDHays"
+          },
+          "reviewBody": "I used fresh Lima beans my 2nd time around.  I cooked them before adding to the oxtails.  Delicious.",
+          "datePublished": "2023-12-31T02:47:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebeka Joy"
+          },
+          "reviewBody": "Has anyone tried this recipe with dried butter beans rather than canned?  Please share your process!  We can now get large dried lima beans, and we love 'em!",
+          "datePublished": "2023-12-15T17:42:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "roostahktchn"
+          },
+          "reviewBody": "The best substitution for oxtails are trimmed short ribs. Once the meat is cooked properly, they are tender and extremely flavorful. No other better substitution if you really know about oxtails. You can criticize me eccentric whatever but you gotta understand the star ingredient before giving your opinion.",
+          "datePublished": "2023-12-15T17:09:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan K-G"
+          },
+          "reviewBody": "Is there a slow cooker version of this?",
+          "datePublished": "2023-12-15T13:51:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "True yardie…"
+          },
+          "reviewBody": "Jamaican here. No need to add curry as an ingredient. I like browning my oxtails without oil. Naturally, oxtails have a lot of oil. Once the oxtails are browned…place oxtails with the seasonings in a pressure cooker for 20 minutes…remove the natural juices and place in freezer to coagulate oil from gravy for 15 minutes. Continue the recipe with gravy and oxtails as shown in the recipe.  A touch of Sweet Baby Ray is the key…",
+          "datePublished": "2022-03-04T20:56:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JoJo"
+          },
+          "reviewBody": "I don't often see oxtails at the market.  What do you suggest as a replacement?",
+          "datePublished": "2022-03-04T16:22:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kikster"
+          },
+          "reviewBody": "Browning the oxtail is simply oil in the pan add the oxtail and stir a few times for about 5-10 minutes this helps to release the natural flavor of the oxtail during the process of boiling it after to tenderness. Trust me this step is crucial and will provide an even more delicious taste. I'm Jamaican, take it from me and you don't need to add any curry powder and you can use molasses instead of worcestsire and browning sauce for a true authentic Jamaican country style oxtail. ketchup instead",
+          "datePublished": "2022-03-04T17:03:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Daryl"
+          },
+          "reviewBody": "Short Ribs are a decent substitute for Oxtails",
+          "datePublished": "2022-03-04T16:59:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Norda campbell"
+          },
+          "reviewBody": "I am Jamaican born living in the us we use a whole scotch bonnet pepper in everything we cook my advice don't cut them two scotch bonnet in 4 lbs of oxtails is a very spicy pot use them but don't burst them .\nas i said before i cook with pepper but don't  cut it open .your family not gonna enjoy that oxtails there mouth will be on gire instead.",
+          "datePublished": "2022-03-05T17:17:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deirdre"
+          },
+          "reviewBody": "I have also used short ribs or lamb shanks instead of oxtails and dried lima butter beans which were soaked overnight. I use a Dutch Oven start on the stove and after I bring it to a boil place it in a 325 F oven for 2 1/2 hours. I don't add the brown sauce or scotch bonnets. I use  2 tablespoons better then boullion beef  paste instead of chicken and add two diced  carrots. Very hearty and tasty. delicious the 2nd day.",
+          "datePublished": "2022-03-04T17:22:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KD"
+          },
+          "reviewBody": "English cut short ribs with the bone \nshould work just fine.",
+          "datePublished": "2022-03-04T16:54:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "robert"
+          },
+          "reviewBody": "A good oxtail needs to be slowly cooked for much longer than this recipe suggests. Four hours on Saturday, overnight in the fridge and three hours on Sunday.  Low temperature the whole time.",
+          "datePublished": "2022-03-05T01:45:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mari"
+          },
+          "reviewBody": "When I lived in MA, just outside Boston, The local Whole Foods Market had a freezer of 'dog food'. In there, I found oxtails, liver, kidneys ... all the offal that Americans tend to feed their animals, but not themselves. the oxtails were cheap, and very good.",
+          "datePublished": "2022-03-05T19:22:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patrick"
+          },
+          "reviewBody": "What would be a reasonable substitute for \"Jamaican curry powder\"? What gives a curry powder a Jamaican flavor?",
+          "datePublished": "2022-03-04T18:22:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bailey"
+          },
+          "reviewBody": "I love this recipe! I’ve made it and found it to be delicious with both oxtail and beef short ribs. It took a bit longer than the three hours to get the fall-of-the bone tenderness with the oxtail. I use habaneros or serranos is place of scotch bonnet peppers. I like to add an extra can of butter beans and serve with coconut rice. Makes fantastic leftovers! This is a fan favorite amongst my circle of friends.",
+          "datePublished": "2022-05-07T17:56:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Harris"
+          },
+          "reviewBody": "Flanken would be good instead of oxtail. Beef shank? Short ribs? And instead of canned butter beans, make your own and add some of the bean cooking liquor to the stew!",
+          "datePublished": "2022-03-05T01:46:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "elisheva"
+          },
+          "reviewBody": "I have the same question (kosher kitchen here, so can't get anythign from the back end of the cow); I am contemplating (extremely non-traditional) flanken, as being beefy, fatty, and bony like oxtail.",
+          "datePublished": "2022-03-04T16:47:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mark"
+          },
+          "reviewBody": "Beef neckbones are a great substitute for oxtail, and FAR cheaper.  Easy to find at any Asian supermarket I’ve been.",
+          "datePublished": "2022-12-01T17:39:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nicole"
+          },
+          "reviewBody": "I use beef neck bones instead of oxtail.",
+          "datePublished": "2022-03-05T14:46:13.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1023008-oxtail-and-butter-beans",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Millie Peartree"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022,
+      "description": "This hearty, warming recipe is inspired by Jamaican and West Indian oxtail stews. Oxtail is a cut that benefits from a long cook time: Here, it falls off the bone and is surrounded by an incredibly rich gravy with a lot of body. Worcestershire sauce is traditional and balances the dish’s earthy, spicy and sweet flavors. The butter beans add a slight bite to counter the tender meat. But back to that gravy: Sop it up with naan or roti, or serve it over coconut rice and peas. (Watch the video of Millie Peartree making oxtail and butter beans here.)",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Oxtail and Butter Beans",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/7d03f5aa-5f60-5540-a49c-bdcee8e09179#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Yunhee Kim for The New York Times. Food Stylits: Victoria Granof.",
+          "dateModified": "2022-03-03T21:29:04.181Z",
+          "datePublished": "2022-03-03T21:29:04.181Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-03T21:29:04.181Z",
+          "url": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/7d03f5aa-5f60-5540-a49c-bdcee8e09179#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-superJumbo.jpg",
+          "creditText": "Yunhee Kim for The New York Times. Food Stylits: Victoria Granof.",
+          "dateModified": "2022-03-03T21:29:04.181Z",
+          "datePublished": "2022-03-03T21:29:04.181Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-03T21:29:04.181Z",
+          "url": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/7d03f5aa-5f60-5540-a49c-bdcee8e09179#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-mediumSquareAt3X.jpg",
+          "creditText": "Yunhee Kim for The New York Times. Food Stylits: Victoria Granof.",
+          "dateModified": "2022-03-03T21:29:04.181Z",
+          "datePublished": "2022-03-03T21:29:04.181Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-03T21:29:04.181Z",
+          "url": "https://static01.nyt.com/images/2022/03/03/dining/mp-oxtail-butter-beans1/mp-oxtail-butter-beans1-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023008-oxtail-and-butter-beans"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:54.327Z",
+  "scraping_status": "scraped"
+}

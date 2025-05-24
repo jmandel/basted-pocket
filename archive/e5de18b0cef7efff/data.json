@@ -1,0 +1,563 @@
+{
+  "id": "e5de18b0cef7efff",
+  "original_url": "https://cooking.nytimes.com/recipes/1019384-coconut-poached-fish-with-bok-choy",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1019384-coconut-poached-fish-with-bok-choy",
+  "fetched_title": "Coconut-Poached Fish With Bok Choy Recipe",
+  "main_text_content": "This one pot, Thai-influenced dish couldn’t be easier to assemble, and its beautiful presentation makes it look like you spent a lot longer on dinner than you actually did The poaching liquid does double duty by gently cooking the fish and wilting the bok choy If bok choy is unavailable, another sturdy green, like kale or Napa cabbage, can be substituted",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025363-corn-and-cod-green-curry\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2024/09/13/multimedia/AS-corn-cod-green-curryrex-ptgj/AS-corn-cod-green-curryrex-ptgj-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2024/09/13/multimedia/AS-corn-cod-green-curryrex-ptgj/AS-corn-cod-green-curryrex-ptgj-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/09/13/multimedia/AS-corn-cod-green-curryrex-ptgj/AS-corn-cod-green-curryrex-ptgj-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/09/13/multimedia/AS-corn-cod-green-curryrex-ptgj/AS-corn-cod-green-curryrex-ptgj-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/09/13/multimedia/AS-corn-cod-green-curryrex-ptgj/AS-corn-cod-green-curryrex-ptgj-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/09/13/multimedia/AS-corn-cod-green-curryrex-ptgj/AS-corn-cod-green-curryrex-ptgj-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/09/13/multimedia/AS-corn-cod-green-curryrex-ptgj/AS-corn-cod-green-curryrex-ptgj-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/09/13/multimedia/AS-corn-cod-green-curryrex-ptgj/AS-corn-cod-green-curryrex-ptgj-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Corn and Cod Green Curry</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Ali Slagle</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2018/07/11/dining/colu-cod-horizontal/colu-cod-horizontal-threeByTwoMediumAt2X-v2.jpg",
+  "local_image_path": "scraped/e5de18b0cef7efff/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/dc8fd03e-a3c6-5f7a-a8d1-c29e069e657a",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1019384-coconut-poached-fish-with-bok-choy",
+        "@type": "WebPage",
+        "name": "Coconut-Poached Fish With Bok Choy"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019384-coconut-poached-fish-with-bok-choy",
+      "name": "Coconut-Poached Fish With Bok Choy",
+      "description": "This one pot, Thai-influenced dish couldn’t be easier to assemble, and its beautiful presentation makes it look like you spent a lot longer on dinner than you actually did. The poaching liquid does double duty by gently cooking the fish and wilting the bok choy. If bok choy is unavailable, another sturdy green, like kale or Napa cabbage, can be substituted. Serve with steamed jasmine rice to soak up some of the fragrant coconut milk broth.",
+      "author": {
+        "@type": "Person",
+        "name": "Colu Henry"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/a45a8f87-a87d-5919-a385-af1d40d4efc4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Colu Henry's coconut milk poached fish with bok choy",
+          "contentUrl": "https://static01.nyt.com/images/2018/07/11/dining/colu-cod-horizontal/colu-cod-horizontal-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Linda Xiao for The New York Times",
+          "dateModified": "2018-09-14T19:12:03.259Z",
+          "datePublished": "2018-07-11T19:00:14.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2018-07-11T19:00:14.000Z",
+          "url": "https://static01.nyt.com/images/2018/07/11/dining/colu-cod-horizontal/colu-cod-horizontal-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a45a8f87-a87d-5919-a385-af1d40d4efc4#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Colu Henry's coconut milk poached fish with bok choy",
+          "contentUrl": "https://static01.nyt.com/images/2018/07/11/dining/colu-cod-horizontal/colu-cod-horizontal-superJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times",
+          "dateModified": "2018-09-14T19:12:03.259Z",
+          "datePublished": "2018-07-11T19:00:14.000Z",
+          "height": "1316",
+          "representativeOfPage": true,
+          "uploadDate": "2018-07-11T19:00:14.000Z",
+          "url": "https://static01.nyt.com/images/2018/07/11/dining/colu-cod-horizontal/colu-cod-horizontal-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/a45a8f87-a87d-5919-a385-af1d40d4efc4#square640",
+          "@type": "ImageObject",
+          "caption": "Colu Henry's coconut milk poached fish with bok choy",
+          "contentUrl": "https://static01.nyt.com/images/2018/07/11/dining/colu-cod-horizontal/colu-cod-horizontal-square640-v2.jpg",
+          "creditText": "Linda Xiao for The New York Times",
+          "dateModified": "2018-09-14T19:12:03.259Z",
+          "datePublished": "2018-07-11T19:00:14.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2018-07-11T19:00:14.000Z",
+          "url": "https://static01.nyt.com/images/2018/07/11/dining/colu-cod-horizontal/colu-cod-horizontal-square640-v2.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "thai",
+      "recipeCategory": "dinner, weeknight, seafood, main course",
+      "keywords": "bok choy, cod, ginger, serrano",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 2446
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 645,
+        "unsaturatedFatContent": "10 grams",
+        "carbohydrateContent": "15 grams",
+        "cholesterolContent": null,
+        "fatContent": "51 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "40 grams",
+        "saturatedFatContent": "38 grams",
+        "sodiumContent": "1082 milligrams",
+        "sugarContent": "4 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "4 (6-ounce) cod fillets or other flaky white fish",
+        "Kosher salt",
+        "2 tablespoons canola or vegetable oil",
+        "1 large shallot, thinly sliced",
+        "2 garlic cloves, thinly sliced",
+        "1 (2-inch) piece ginger, peeled and cut into thin matchsticks",
+        "1 fresh Thai or Serrano chile, thinly sliced",
+        "2 (13 1/2-ounce) cans coconut milk",
+        "1 1/2 teaspoons fish sauce",
+        "1 teaspoon light brown sugar",
+        "About 7 ounces baby bok choy, ends trimmed and stalks separated",
+        "1/4 cup roughly chopped cilantro, both leaves and tender stems",
+        "2 tablespoons thinly sliced scallion greens",
+        "Lime wedges (from 1 lime), for serving",
+        "Flaky salt (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Season fish well with salt. In a large sauté pan, heat oil over medium heat. Add shallot, garlic, ginger and chile, and cook, stirring often until they become translucent, about 2 minutes. Season with salt."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add coconut milk, fish sauce and brown sugar, and whisk together until combined and sugar dissolves. Bring mixture to a gentle simmer. Add cod fillets and turn the heat down to low. Cover and cook until cod is just cooked through and opaque, about 6 to 8 minutes. Carefully remove the fish and plate in bowls."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add bok choy to the coconut milk broth and turn heat to medium-low. Cook bok choy until leaves are wilted and stems are tender, about 1 to 2 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide bok choy evenly alongside the fish and ladle the coconut milk broth over each portion. Top with cilantro, scallions and a good squeeze of lime, and serve with remaining wedges on the side. Garnish with flaky salt, if desired."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pelica"
+          },
+          "reviewBody": "Great one pot meal. Added blanched broccoli florets for more veggies, went heavy on the lime. Dash of hot sauce added some desired heat. Would definitely make again.",
+          "datePublished": "2025-05-20T03:33:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathleen"
+          },
+          "reviewBody": "I agree with adding a good amount of Green curry paste. I used a tablespoon of buckwheat honey instead of brown sugar. This recipe is a winner.",
+          "datePublished": "2025-05-05T22:14:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "trasheed215"
+          },
+          "reviewBody": "This does need something. That said, the children ate it up. \n\nIf I made this again I would only add one can coconut. Or stick with the excellent salmon miso curry also found on NYT cooking!",
+          "datePublished": "2025-05-05T01:04:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "trasheed215"
+          },
+          "reviewBody": "2 cans coconut milk is overkill- I can see how curry of any kind improves this.",
+          "datePublished": "2025-05-02T02:52:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kat"
+          },
+          "reviewBody": "This was so good. I had to make some last minute modifications but it turned out great and was super fast. I was surprised to find I didn’t have fish sauce so used a splash of soy sauce and a dollop of Trader Joe’s yuzu miso. Sautéed bell red pepper matchsticks with the shallots. Used frozen minced garlic and ginger, and plenty of it. One can of full fat unsweetened coconut milk with a little water. Frozen cod thrown right in, just cooked a few extra minutes. Spinach instead of bok choy. Plenty of lime and cilantro. Served with rice pilaf. Can’t wait to make again!! Very quick and forgiving.",
+          "datePublished": "2025-03-29T02:14:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ally C"
+          },
+          "reviewBody": "This was absolutely delicious! Didn’t change a thing other than slicing the bok choy into smaller pieces. Mise en place made this an easy and quick weeknight dinner. Will for sure be in the rotation.",
+          "datePublished": "2025-03-04T02:08:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Matt T"
+          },
+          "reviewBody": "I used halibut, tripled the garlic, Thai kitchen coconut milk. It was delicious",
+          "datePublished": "2025-02-22T01:55:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FITZHOKIE"
+          },
+          "reviewBody": "This was delicious.  I used frozen wild caught cod and thawed it in a bowl of water while I prepped everything. Followed recipe except for a teaspoon of green curry paste. Cod cooked quickly and I served it with jasmine rice.  My only change will be to trim more of the stem from the bok choy next time, it was a little awkward to eat.  The whole family loved it!",
+          "datePublished": "2025-02-19T00:31:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Holmas28"
+          },
+          "reviewBody": "Cooked last for Valentine’s. Delicious after following some advice:  increased salt, added shiitake mushrooms (yum!), added more heat.  Absolutely don’t forget the lime, cilantro and scallions!  Next time I will omit sugar (coconut milk has enough naturally), add more shallots and maybe green curry paste.",
+          "datePublished": "2025-02-15T12:36:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aliza"
+          },
+          "reviewBody": "Has anyone tried this with tofu?",
+          "datePublished": "2025-01-30T20:35:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JayBarnett"
+          },
+          "reviewBody": "I’m now making this for the third time in three weeks.",
+          "datePublished": "2025-01-29T20:47:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "E"
+          },
+          "reviewBody": "This was very good and quite easy! I have a small child, so I left out the chili and chopped ginger while poaching the fish (I threw in a knob of ginger, though). After the fish was out, and I ladled out a bit of broth for the kid's bowl, I added sliced Serrano chili and chopped ginger along with a mound of thinly sliced green cabbage (the only vegetable I had). Even in the few minutes it took for the cabbage to cook, the chili permeated the broth wonderfully. This was a keeper—will make again!",
+          "datePublished": "2025-01-20T04:02:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul"
+          },
+          "reviewBody": "I made this, in a wok, exactly as described and we loved it. Used cod, but I’m guessing it would be even better with our favourite fish, pickerel (walleye). The crunchiness and flavour of the sautéed  ginger matchsticks was really wonderful and well worth the small amount of effort.  One of the easiest recipes I’ve made.",
+          "datePublished": "2025-01-11T03:18:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "C"
+          },
+          "reviewBody": "Used chard because that's what I had, just cooked it longer. Still delicious!",
+          "datePublished": "2025-01-10T13:22:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth"
+          },
+          "reviewBody": "Delicious and light. I used salmon. Since this was just for 2 people, I used one can of full-fat coconut milk, but kept the shallot, garlic and ginger as the recipe indicated. Served with rice noodles tossed in the sauce. Very satisfying and quick for a weeknight.",
+          "datePublished": "2024-12-12T23:31:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David Hard"
+          },
+          "reviewBody": "I disagree. No sugar needed. At all.\nAlso, Don’t bother with light coconut milk like some suggest. The key to making dishes like this is to use a good quality full fat coconut milk like Chaokoh. American brands like Thai Kitchen or the Trader Joe’s or Whole Foods Store brands just wont cut it.\nAlso, you can amp up the flavor by stirring in a dollop of Mae Ploy green curry paste when your sautéing the shallots and garlic. ",
+          "datePublished": "2018-07-25T04:21:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Please don't buy Chaokoh"
+          },
+          "reviewBody": "I bought Chaokoh coconut milk because of a comment on here. It tasted great but we found out that they torture monkeys to pick the coconuts. \n<a href=\"https://www.peta.org/features/chaokoh-coconut-milk-monkeys\" target=\"_blank\">https://www.peta.org/features/chaokoh-coconut-milk-monkeys</a>/\n\nNeedless to say we won't be buying it anymore.",
+          "datePublished": "2021-04-28T02:57:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dan Peters"
+          },
+          "reviewBody": "This was a tasty dish that my son and I prepared for our family.  I did add more salt and sugar, as suggested by previous comments.  Next time, I'll use about twice as much bok choy.  I weighed out the ingredients, so I know I used the right amount, it just wasn't enough for my tastes.",
+          "datePublished": "2018-07-24T02:18:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Daphne"
+          },
+          "reviewBody": "I followed recipe exactly as written and I believe it to be perfect as is, served over a big heap of jasmine rice. Why does it need more sugar or salt? My family, including my 22-month-old, devoured it. The kid didn't seem to mind cramming in whole leaves of baby bok choy but I plan to chop it in the future.",
+          "datePublished": "2018-07-27T16:12:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Teresa"
+          },
+          "reviewBody": "I’ve made this delicious recipe twice now with frozen cod and substituting a jalapeño for the chili as it’s what we had on hand. I liked it with either lite and regular coconut milk just the same, and both times we omitted the sugar. It’s particularly delicious with a handful of quartered white mushrooms added in with the garlic/ginger/shallot. Even better served with a little rice and a generous squirt of sriracha! ",
+          "datePublished": "2018-11-20T23:16:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tracie C"
+          },
+          "reviewBody": "Agreed on be salt and sugar - more of both. I also think a generous squeeze of lime to up the acidity. Otherwise delicious, fast and easy! I would not reduce the liquid. You need it to get a good poach. ",
+          "datePublished": "2018-07-23T03:39:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Allyson"
+          },
+          "reviewBody": "I used halibut and doubled the garlic, shallot, and chile, It was really good, but I was glad I doubled up on the seasoning; I think it would have been a bit bland otherwise.",
+          "datePublished": "2019-01-12T01:13:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "md"
+          },
+          "reviewBody": "Made this once and loved it. The second time, I substituted chocolate chip cookies and it was equally great.",
+          "datePublished": "2021-06-23T02:01:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cookie"
+          },
+          "reviewBody": "Use curry paste, siacha or any heat. Try a Thai/Indian brand of coco milk. Serve over rice noodles",
+          "datePublished": "2018-09-14T12:43:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy"
+          },
+          "reviewBody": "Loved this. Added more lime and a tad more sugar.  Also chopped up Bok Choi into smaller two inch pieces.   Even more delicious on night two, reheated at medium low on stove w rice from night 1.  Turned risotto like.  ",
+          "datePublished": "2018-07-26T00:03:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Danny Fish"
+          },
+          "reviewBody": "NY Times recipes have gifted me with great meals.  But this one?  This is my Top 3.  Minor changes: I ditched the fish sauce (50% success rate when that's on board), I used 1 garlic clove and 1 large shallot instead of 2 garlic cloves, and I upped the brown sugar to 2 teaspoons.  But hey, it'd be amazing regardless.  But this recipe - this is what's up.",
+          "datePublished": "2019-09-24T01:03:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hanna Rifkin"
+          },
+          "reviewBody": "Started with small mushrooms cooked in coconut fat, and skipped the sugar entirely.  Great recipe.  ",
+          "datePublished": "2019-01-22T02:24:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kittanicus"
+          },
+          "reviewBody": "My partner doesn't eat fish, so I attempted this with chicken breast poached in the coconut milk broth. I was hoping it would work out, and it came out beautifully! \n\nI added extra ginger, garlic, and shallot, as well as extra fish sauce and a few drops of maggi to deepen the flavor. \n\nLeave the chicken in, add the bok choy on top and simmer for a few minutes before taking the veggies out. The longer the chicken stays in the soup, the more fall apart and delicious it gets.",
+          "datePublished": "2020-08-22T21:29:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeanne"
+          },
+          "reviewBody": "Delicious!  Made this as written except I had a mix of bok choy and napa cabbage and orange roughy instead of the cod.  The only change I'd make is to not leave the bok choy whole and to slice it up a bit for easier eating (always so awkward to try and cut things up in a soup bowl).   \n\nDefinitely a keeper - great weeknight meal because it was easy and fast.",
+          "datePublished": "2019-05-11T13:01:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth"
+          },
+          "reviewBody": "I was all ready to make this dish - until I realized I only had 1 can of coconut milk! In desperation I tried the following adaptation, and the result was DELICIOUS:\n\n14 ounces of crushed or chopped canned tomatoes (w/ juices)\nCurry powder/curry spice mix - as much as you desire (we like ours hot!)\n1/4 Cup Shiitake mushrooms\n\nThis become much more like an Indian Fish curry, but it was lovely - and a great emergency effort!",
+          "datePublished": "2019-07-24T17:53:39.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1019384-coconut-poached-fish-with-bok-choy",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Colu Henry"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018,
+      "description": "This one pot, Thai-influenced dish couldn’t be easier to assemble, and its beautiful presentation makes it look like you spent a lot longer on dinner than you actually did. The poaching liquid does double duty by gently cooking the fish and wilting the bok choy. If bok choy is unavailable, another sturdy green, like kale or Napa cabbage, can be substituted. Serve with steamed jasmine rice to soak up some of the fragrant coconut milk broth.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Coconut-Poached Fish With Bok Choy",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/a45a8f87-a87d-5919-a385-af1d40d4efc4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Colu Henry's coconut milk poached fish with bok choy",
+          "contentUrl": "https://static01.nyt.com/images/2018/07/11/dining/colu-cod-horizontal/colu-cod-horizontal-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Linda Xiao for The New York Times",
+          "dateModified": "2018-09-14T19:12:03.259Z",
+          "datePublished": "2018-07-11T19:00:14.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2018-07-11T19:00:14.000Z",
+          "url": "https://static01.nyt.com/images/2018/07/11/dining/colu-cod-horizontal/colu-cod-horizontal-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a45a8f87-a87d-5919-a385-af1d40d4efc4#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Colu Henry's coconut milk poached fish with bok choy",
+          "contentUrl": "https://static01.nyt.com/images/2018/07/11/dining/colu-cod-horizontal/colu-cod-horizontal-superJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times",
+          "dateModified": "2018-09-14T19:12:03.259Z",
+          "datePublished": "2018-07-11T19:00:14.000Z",
+          "height": "1316",
+          "representativeOfPage": true,
+          "uploadDate": "2018-07-11T19:00:14.000Z",
+          "url": "https://static01.nyt.com/images/2018/07/11/dining/colu-cod-horizontal/colu-cod-horizontal-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/a45a8f87-a87d-5919-a385-af1d40d4efc4#square640",
+          "@type": "ImageObject",
+          "caption": "Colu Henry's coconut milk poached fish with bok choy",
+          "contentUrl": "https://static01.nyt.com/images/2018/07/11/dining/colu-cod-horizontal/colu-cod-horizontal-square640-v2.jpg",
+          "creditText": "Linda Xiao for The New York Times",
+          "dateModified": "2018-09-14T19:12:03.259Z",
+          "datePublished": "2018-07-11T19:00:14.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2018-07-11T19:00:14.000Z",
+          "url": "https://static01.nyt.com/images/2018/07/11/dining/colu-cod-horizontal/colu-cod-horizontal-square640-v2.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019384-coconut-poached-fish-with-bok-choy"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:36:52.352Z",
+  "scraping_status": "scraped"
+}

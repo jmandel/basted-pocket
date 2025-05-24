@@ -1,0 +1,653 @@
+{
+  "id": "84fc7f6870c99ad2",
+  "original_url": "https://cooking.nytimes.com/recipes/1023019-cauliflower-shawarma-with-spicy-tahini",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1023019-cauliflower-shawarma-with-spicy-tahini",
+  "fetched_title": "Cauliflower Shawarma With Spicy Tahini Recipe (with Video)",
+  "main_text_content": "In this vegetarian take on shawarma, the usual spiced lamb, chicken or turkey is replaced with cauliflower florets and onion wedges that have been tossed with a classic combination of cumin, paprika and coriander, then roasted until browned, fragrant and very tender A hot sauce-spiked tahini served alongside lends creaminess and heat To serve it, you can tuck everything into a pita or flatbread, or keep the bread on the side and let everyone assemble their own sandwiches at the table",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1017161-oven-roasted-chicken-shawarma\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"A blue platter holds oven-roasted chicken shawarma with a small dish of olives. Dishes of pita bread, tomatoes and cucumbers and feta cheese are nearby.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2023/03/19/multimedia/SS-Oven-Roasted-Chicken-Shawarma-phmt/SS-Oven-Roasted-Chicken-Shawarma-phmt-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2023/03/19/multimedia/SS-Oven-Roasted-Chicken-Shawarma-phmt/SS-Oven-Roasted-Chicken-Shawarma-phmt-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2023/03/19/multimedia/SS-Oven-Roasted-Chicken-Shawarma-phmt/SS-Oven-Roasted-Chicken-Shawarma-phmt-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2023/03/19/multimedia/SS-Oven-Roasted-Chicken-Shawarma-phmt/SS-Oven-Roasted-Chicken-Shawarma-phmt-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2023/03/19/multimedia/SS-Oven-Roasted-Chicken-Shawarma-phmt/SS-Oven-Roasted-Chicken-Shawarma-phmt-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2023/03/19/multimedia/SS-Oven-Roasted-Chicken-Shawarma-phmt/SS-Oven-Roasted-Chicken-Shawarma-phmt-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2023/03/19/multimedia/SS-Oven-Roasted-Chicken-Shawarma-phmt/SS-Oven-Roasted-Chicken-Shawarma-phmt-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2023/03/19/multimedia/SS-Oven-Roasted-Chicken-Shawarma-phmt/SS-Oven-Roasted-Chicken-Shawarma-phmt-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Oven-Roasted Chicken Shawarma</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Sam Sifton</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/84fc7f6870c99ad2/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/8824d89a-18a1-5828-9a0a-d979772640c0",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1023019-cauliflower-shawarma-with-spicy-tahini",
+        "@type": "WebPage",
+        "name": "Cauliflower Shawarma With Spicy Tahini"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023019-cauliflower-shawarma-with-spicy-tahini",
+      "name": "Cauliflower Shawarma With Spicy Tahini",
+      "description": "In this vegetarian take on shawarma, the usual spiced lamb, chicken or turkey is replaced with cauliflower florets and onion wedges that have been tossed with a classic combination of cumin, paprika and coriander, then roasted until browned, fragrant and very tender. A hot sauce-spiked tahini served alongside lends creaminess and heat. To serve it, you can tuck everything into a pita or flatbread, or keep the bread on the side and let everyone assemble their own sandwiches at the table. Chopped cucumber, tomatoes and olives are optional, but they add a juicy brightness to contrast with the aromatic, roasted flavors. (Watch the video of Melissa Clark making cauliflower shawarma with spicy tahini here.)",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/a131eeea-dc9e-584e-8f89-6f21a434b230#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-01-12T21:44:56.633Z",
+          "datePublished": "2022-03-17T18:29:23.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-17T18:29:23.000Z",
+          "url": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a131eeea-dc9e-584e-8f89-6f21a434b230#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-superJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-01-12T21:44:56.633Z",
+          "datePublished": "2022-03-17T18:29:23.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-17T18:29:23.000Z",
+          "url": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/a131eeea-dc9e-584e-8f89-6f21a434b230#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-01-12T21:44:56.633Z",
+          "datePublished": "2022-03-17T18:29:23.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-17T18:29:23.000Z",
+          "url": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT45M",
+      "recipeYield": "2 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "vegetables, main course",
+      "keywords": "cauliflower, harissa, partial-access-ic, tahini, vegan",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 7726
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 835,
+        "unsaturatedFatContent": "49 grams",
+        "carbohydrateContent": "67 grams",
+        "cholesterolContent": null,
+        "fatContent": "60 grams",
+        "fiberContent": "21 grams",
+        "proteinContent": "23 grams",
+        "saturatedFatContent": "9 grams",
+        "sodiumContent": "1697 milligrams",
+        "sugarContent": "16 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "5 tablespoons extra-virgin olive oil, plus more as needed",
+        "1 1/4 teaspoons ground cumin",
+        "1 1/4 teaspoons sweet paprika",
+        "3/4 teaspoon fine sea or table salt, plus more as needed",
+        "1 teaspoon ground coriander",
+        "1/4 teaspoon ground turmeric",
+        "1/4 teaspoon freshly ground black pepper",
+        "Pinch of ground cayenne",
+        "1 large head cauliflower (about 2 1/2 pounds), trimmed and cut into bite-size florets",
+        "1 large red onion, cut into 1/4-inch wedges",
+        "Pita or flatbread, for serving",
+        "1/4 cup coarsely chopped parsley, plus more for serving",
+        "Chopped tomato, cucumber and olives, for serving",
+        "1 tablespoon fresh lemon juice, plus more to taste",
+        "1 to 2 teaspoons harissa paste or other hot sauce, or a large pinch of Urfa or Aleppo pepper, plus more to taste",
+        "1 fat garlic clove, finely grated, passed through a press or minced",
+        "1/4 teaspoon fine sea or table salt",
+        "1/3 cup tahini",
+        "1/3 cup ice water, plus more as needed"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Arrange racks in the upper and lower thirds of your oven. Heat oven to 425 degrees."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the cauliflower: In a large bowl, whisk together olive oil, cumin, paprika, salt, coriander, turmeric, black pepper and cayenne. Add cauliflower and onion, and toss until well coated. Spread mixture in a single layer on a rimmed baking sheet."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Roast vegetables on the top oven rack until they are golden brown, slightly crisp and tender, 30 to 40 minutes, stirring once or twice. If the vegetables look dry as they roast, drizzle with a little more olive oil."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "As they cook, prepare the tahini sauce: Whisk together lemon juice, 1 teaspoon harissa, garlic and salt in a small bowl, and let sit for a minute or two to mellow the garlic. Whisk in tahini. Whisk in ice water, 1 tablespoon at a time, until the sauce is smooth and thin enough to drizzle. You may not need all of the water or you may need to add a little more: Tahini brands vary a lot. Taste and adjust seasoning, adding more harissa, lemon juice and salt if you like. The sauce should taste zippy and creamy."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Warm the pitas or flatbread by placing them directly on the bottom oven rack during the last 5 minutes as the vegetables roast. (Or you can warm the bread on another baking pan if that’s easier for you.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Scatter parsley on top of the roasted vegetables and serve with warm pitas, tahini sauce, chopped tomato, cucumber and olives."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/a084ee7b-cedd-5838-ade0-bc9a6c7f998d",
+        "@type": "VideoObject",
+        "author": {
+          "@id": "nyt://person/0f1a5b18-7e38-59fe-8132-b5015cd37148",
+          "@type": "Person",
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/by/the-new-york-times"
+        },
+        "bitrate": "0",
+        "contentSize": "75292512",
+        "contentUrl": "https://vp.nyt.com/video/2023/01/12/105499_1_MC-cauliflower-shawarma-CV_wg_480p.mp4",
+        "creator": {
+          "@id": "nyt://person/0f1a5b18-7e38-59fe-8132-b5015cd37148",
+          "@type": "Person",
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/by/the-new-york-times"
+        },
+        "dateModified": "2024-10-15T14:47:24.656Z",
+        "datePublished": "2023-01-12T21:44:59.000Z",
+        "description": "In this vegetarian take on shawarma, the usual spiced lamb, chicken or turkey is replaced with cauliflower florets and onion wedges that have been tossed with a classic combination of cumin, paprika and coriander, then roasted until browned, fragrant and very tender. A hot sauce-spiked tahini served alongside lends creaminess and heat. To serve it, you can tuck everything into a pita or flatbread, or keep the bread on the side and let everyone assemble their own sandwiches at the table. Chopped cucumber, tomatoes and olives are optional, but they add a juicy brightness to contrast with the aromatic, roasted flavors.",
+        "duration": "PT6M8S",
+        "height": "480",
+        "name": "Cauliflower Shawarma With Spicy Tahini",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/a131eeea-dc9e-584e-8f89-6f21a434b230#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-videoSixteenByNineJumbo1600.jpg",
+            "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+            "dateModified": "2023-01-12T21:44:56.633Z",
+            "datePublished": "2022-03-17T18:29:23.000Z",
+            "height": "900",
+            "uploadDate": "2022-03-17T18:29:23.000Z",
+            "url": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-videoSixteenByNineJumbo1600.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/a131eeea-dc9e-584e-8f89-6f21a434b230#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-superJumbo.jpg",
+            "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+            "dateModified": "2023-01-12T21:44:56.633Z",
+            "datePublished": "2022-03-17T18:29:23.000Z",
+            "height": "1365",
+            "uploadDate": "2022-03-17T18:29:23.000Z",
+            "url": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-superJumbo.jpg",
+            "width": "2048"
+          },
+          {
+            "@id": "nyt://image/a131eeea-dc9e-584e-8f89-6f21a434b230#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-mediumSquareAt3X.jpg",
+            "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+            "dateModified": "2023-01-12T21:44:56.633Z",
+            "datePublished": "2022-03-17T18:29:23.000Z",
+            "height": "1800",
+            "uploadDate": "2022-03-17T18:29:23.000Z",
+            "url": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-mediumSquareAt3X.jpg",
+            "width": "1800"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-videoSixteenByNineJumbo1600.jpg",
+        "uploadDate": "2023-01-12T21:44:59.000Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000008725087/cauliflower-shawarma-with-spicy-tahini.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2022-03-23T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ruthie"
+          },
+          "reviewBody": "This is a fantastic veggie meal!  Soooo flavorful!  Didn't have pita,  but used whole wheat/flax tortillas that were warmed in microwave.   On rotation for sure.",
+          "datePublished": "2025-05-22T22:58:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jrpmc"
+          },
+          "reviewBody": "Excellent meal! I made a second bowl of marinade and threw in some cubed boneless skinless chicken breast for my kids. 2 trays of cauliflower and one of chicken done on convection. Took the chicken out about 10 minutes before the cauliflower and dinner was perfect!!",
+          "datePublished": "2025-05-21T03:57:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "YOI"
+          },
+          "reviewBody": "Added chickens for a hungry daughter after sports.  Chicken and cauliflower are best friends anyway, it worked superbly. Finger licking good!!",
+          "datePublished": "2025-05-20T18:00:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lanad"
+          },
+          "reviewBody": "I have made this for years as it is almost identical to my version except I add carrots . I use harissa paste. I admit I have made it using chicken in addition to the vegetables.. great in any case",
+          "datePublished": "2025-05-14T18:52:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "This is one of Melissa Clark's very best recipes ever.  It's healthy, delicious, and easy to make. Sometimes we add tofu to the mix and we serve with nan or pita.",
+          "datePublished": "2025-05-14T13:43:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ruthie"
+          },
+          "reviewBody": "The olives/tomatoes/cukes make it!",
+          "datePublished": "2025-05-22T23:00:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tania"
+          },
+          "reviewBody": "Made this twice already. so easy and yummy. added a bit more of the spices, didn't have tomatoes or cucumbers or olives and it's still perfect. Made quick flat breads in the time it took for the rest to cook. this will be on a regular rotation here",
+          "datePublished": "2025-05-08T10:39:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christy"
+          },
+          "reviewBody": "I'm so surprised to see so many 5 star reviews because i don't think it was good at all.  I actually DID weigh my cauliflower and it was right at 2.5 lbs.  Wondering if the recipe was actually supposed to be a smaller cauliflower, because i found it bland (barely coated with the spiced oil), waaaay too much for 2 servings, and did not fit on 1 sheet pan to roast.",
+          "datePublished": "2025-04-22T23:51:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "annie"
+          },
+          "reviewBody": "This is delicious. I am definitely going to be adding this to the weekly rotation. Cooked as the recipe states and ate it with flat bread. The sauce is heavenly!",
+          "datePublished": "2025-04-16T10:07:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "Fantastic. Since not everyone here loves the same level of heat I made some cooling tzatziki to go with. The blend of the 2 sauces and the rest of this dish were SO good. Thanks,  Melissa!",
+          "datePublished": "2025-04-16T01:17:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CathyF"
+          },
+          "reviewBody": "Absolutely delicious.  I made this last week and got another cauliflower to make again.  I didn’t have pitas or naan so served it with basmati rice.  A",
+          "datePublished": "2025-04-15T18:54:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katherine"
+          },
+          "reviewBody": "I didn’t weigh my cauliflower- should have as I think it was too much for the amount of seasoning oil (did not coat it completely let alone the onion).  Still really good but needed more flavor and will attend more carefully yi the proportions next time.  Fun to make NYT pitas with this and the oven is hot and ready.",
+          "datePublished": "2025-04-14T23:11:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kelly"
+          },
+          "reviewBody": "We have made this three times as it’s been an instant household favourite. So filling and love having left overs for lunch the next day",
+          "datePublished": "2025-04-10T20:04:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Daniel S."
+          },
+          "reviewBody": "Fantastic! An instant family favorite that I make every few weeks. I love adding some mushrooms and eggplant to the mix, with the cauliflower still as the main attraction, to add some different flavor and texture. The spicy tahini sauce is easy and really delicious, but you can't have enough sauces in a dish like this. So I make Mark Bittman's hummus and buy tzatziki or some similar yogurt sauce. We've tried different breads, and whole wheat pita is our favorite for flavor and stuffingness.",
+          "datePublished": "2025-04-10T18:50:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jayne"
+          },
+          "reviewBody": "This is SO good!! Make it tonight. You won’t regret it.",
+          "datePublished": "2025-04-10T18:14:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Trina"
+          },
+          "reviewBody": "We roast this cauliflower in the oven and have it s a side dish even without the tahini sauce. \nDelicious!",
+          "datePublished": "2025-04-07T02:03:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RP"
+          },
+          "reviewBody": "Have made this two more times since my initial review. Eating it while stoned is currently the main source of joy and self-fulfillment in my life.",
+          "datePublished": "2022-06-30T22:34:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Z. Stafford"
+          },
+          "reviewBody": "Melissa Clark could make a phone book delicious.",
+          "datePublished": "2023-03-12T22:55:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "dimmerswitch"
+          },
+          "reviewBody": "We have been eating plant based for over 80% of our meals by choice for a couple of decades now and this recipe 'called our names' for a perfect dinner and it was that!  Made per recipe for ingredients and technique except for swapping in fresh cilantro for the parsley in and instead of serving with pita or flatbread we served this with rice and the tahini sauce drizzled over all.  The tomato (we used quartered cherry ones), cukes and olives for garnish were perfect finish.",
+          "datePublished": "2022-03-18T14:58:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cheraud"
+          },
+          "reviewBody": "I made this dish tonight for my husband and I.  I am always looking for vegan side dishes to accompany the main meal.  \n\nI have been married for 31 years, and my husband said this was the best dish I ever made.  He gave it 12 stars out of 10.  It was  enjoyable, and very difficult to stop eating it..  \n\nI want more of your recipes.",
+          "datePublished": "2022-03-21T22:20:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "val q"
+          },
+          "reviewBody": "So funny, I have been making this, almost exactly, for several days after my husband bought too much cauliflower. So delicious! Also good in corn tortillas. And I do the cauliflower in my air fryer. Crispy and easy clean up.",
+          "datePublished": "2022-03-18T15:16:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janine Gross"
+          },
+          "reviewBody": "This is SO delicious! I added a can of chickpeas, rinsed and patted dry, to the other vegetables, and subbed berbere for paprika because I prefer the flavor, but otherwise followed the directions. I plan to make this often. Great recipe!  Thank you, Melissa.",
+          "datePublished": "2022-03-21T21:49:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michal N"
+          },
+          "reviewBody": "I suggest you sprinkle in a few capers if you don't have olives and cubed avocado pieces (not mushy ones!)  - they go well with tomatoes and cucumbers.",
+          "datePublished": "2022-03-18T17:19:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jo"
+          },
+          "reviewBody": "This was one of the best recipes I’ve tried in a long time! I added a red bell pepper to the roasted veg, but otherwise followed the recipe. It’s key to mix the spices in the olive oil, then toss the veg very well to make sure it’s fully coated. Spicy tahini sauce was delicious. Tomato, cucumber, olives, and cilantro (or parsley) are mandatory. I also served with hummus— for those wanting some chickpeas/added protein.",
+          "datePublished": "2022-03-21T18:19:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jackie Ellenson"
+          },
+          "reviewBody": "Quite a delicious recipe! I had a container of firm tofu, which I drained, broke up by hand and added to the cauliflower and onion in the oil and spice mixture. The craggy edges held the spices beautifully and added some protein to this fabulous vegetarian dish. I’ll be making this again!",
+          "datePublished": "2023-03-20T02:53:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "anna.d"
+          },
+          "reviewBody": "In the absence of olives we added some crumbled feta on top - same salty briny-ness with the added benefit of being cheese, which is never a bad thing. Also used a pinch of Asafoetida (billed the 'Indian MSG') on the cauli and onions which gave them that good good savoury hit - delish.",
+          "datePublished": "2022-03-23T10:50:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dani"
+          },
+          "reviewBody": "I made a cucumber, red onion, cherry tomato, feta, and avocado salad with lemon juice and dill to throw on top kinda like a taco garnish and it was 👌🏻",
+          "datePublished": "2022-05-28T02:10:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandra Burrowes"
+          },
+          "reviewBody": "I'd make this again. If you like the spices, try using extra. I find tahini to be bitter so I used salt, lime juice and extra harissa to balance its bitterness. A planning note: a 2-1/2 pound head of cauliflower makes closer to 5-6 servings when served inside pita.",
+          "datePublished": "2022-06-02T02:56:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tiggywinkle"
+          },
+          "reviewBody": "Some feta or chickpeas would add a protein and make a complete meal.",
+          "datePublished": "2022-03-21T15:01:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jean Smolen"
+          },
+          "reviewBody": "@RP Thank you for the best laugh I’ve had in a week. Can’t wait to try this recipe.",
+          "datePublished": "2024-09-18T17:28:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Abbie"
+          },
+          "reviewBody": "Made this tonight.  It was a hit for the whole family.  I also added some quick pickled (rice wine vinegar) carrot and cucumber matchsticks on top and used rice instead of pita.  I had some ground turkey to use up, so I browned it and added a similar mix of spices shawarma spices.  All of it together was wonderful with the sauce.",
+          "datePublished": "2022-03-19T22:46:44.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1023019-cauliflower-shawarma-with-spicy-tahini",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022,
+      "description": "In this vegetarian take on shawarma, the usual spiced lamb, chicken or turkey is replaced with cauliflower florets and onion wedges that have been tossed with a classic combination of cumin, paprika and coriander, then roasted until browned, fragrant and very tender. A hot sauce-spiked tahini served alongside lends creaminess and heat. To serve it, you can tuck everything into a pita or flatbread, or keep the bread on the side and let everyone assemble their own sandwiches at the table. Chopped cucumber, tomatoes and olives are optional, but they add a juicy brightness to contrast with the aromatic, roasted flavors. (Watch the video of Melissa Clark making cauliflower shawarma with spicy tahini here.)",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Cauliflower Shawarma With Spicy Tahini",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/a131eeea-dc9e-584e-8f89-6f21a434b230#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-01-12T21:44:56.633Z",
+          "datePublished": "2022-03-17T18:29:23.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-17T18:29:23.000Z",
+          "url": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a131eeea-dc9e-584e-8f89-6f21a434b230#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-superJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-01-12T21:44:56.633Z",
+          "datePublished": "2022-03-17T18:29:23.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-17T18:29:23.000Z",
+          "url": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/a131eeea-dc9e-584e-8f89-6f21a434b230#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-01-12T21:44:56.633Z",
+          "datePublished": "2022-03-17T18:29:23.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-03-17T18:29:23.000Z",
+          "url": "https://static01.nyt.com/images/2022/03/23/dining/18Apperex/merlin_202627638_8d05e37f-bba7-4295-a738-138f7f208131-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023019-cauliflower-shawarma-with-spicy-tahini"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:31:21.809Z",
+  "scraping_status": "scraped"
+}

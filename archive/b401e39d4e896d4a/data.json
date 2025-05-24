@@ -1,0 +1,554 @@
+{
+  "id": "b401e39d4e896d4a",
+  "original_url": "https://cooking.nytimes.com/recipes/1019468-green-shakshuka-with-avocado-and-lime",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1019468-green-shakshuka-with-avocado-and-lime",
+  "fetched_title": "Green Shakshuka With Avocado and Lime Recipe",
+  "main_text_content": "This easy twist on classic North African shakshuka (traditionally eggs baked in tomato-pepper sauce, with cumin, paprika and cayenne) starts with an onion-garlic-chard sautéed until gently wilted: a nest of sorts for steam-poaching eggs Once the eggs go in, be sure to keep the flame low and keep the pan covered while cooking, so the eggs stay soft and almost oozy at their yolk, and the Cotija melts a bit The chard and the half-and-half create a sort of light broth at the bottom of the shakshuka, which holds so much flavor and is one of the dish’s charms",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1014721-shakshuka-with-feta\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2023/05/03/multimedia/MC-Shakshuka-with-Feta2/03MOSTSAVED-Roundup-Shakshuka-with-Feta2-zhwm-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2023/05/03/multimedia/MC-Shakshuka-with-Feta2/03MOSTSAVED-Roundup-Shakshuka-with-Feta2-zhwm-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2023/05/03/multimedia/MC-Shakshuka-with-Feta2/03MOSTSAVED-Roundup-Shakshuka-with-Feta2-zhwm-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2023/05/03/multimedia/MC-Shakshuka-with-Feta2/03MOSTSAVED-Roundup-Shakshuka-with-Feta2-zhwm-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2023/05/03/multimedia/MC-Shakshuka-with-Feta2/03MOSTSAVED-Roundup-Shakshuka-with-Feta2-zhwm-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2023/05/03/multimedia/MC-Shakshuka-with-Feta2/03MOSTSAVED-Roundup-Shakshuka-with-Feta2-zhwm-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2023/05/03/multimedia/MC-Shakshuka-with-Feta2/03MOSTSAVED-Roundup-Shakshuka-with-Feta2-zhwm-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2023/05/03/multimedia/MC-Shakshuka-with-Feta2/03MOSTSAVED-Roundup-Shakshuka-with-Feta2-zhwm-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Shakshuka With Feta</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2019/08/01/dining/sc-green-shakshuka/sc-green-shakshuka-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/b401e39d4e896d4a/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/a642409a-6c61-5be1-8739-5ec2eb90323c",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1019468-green-shakshuka-with-avocado-and-lime",
+        "@type": "WebPage",
+        "name": "Green Shakshuka With Avocado and Lime"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019468-green-shakshuka-with-avocado-and-lime",
+      "name": "Green Shakshuka With Avocado and Lime",
+      "description": "This easy twist on classic North African shakshuka (traditionally eggs baked in tomato-pepper sauce, with cumin, paprika and cayenne) starts with an onion-garlic-chard sautéed until gently wilted: a nest of sorts for steam-poaching eggs. Once the eggs go in, be sure to keep the flame low and keep the pan covered while cooking, so the eggs stay soft and almost oozy at their yolk, and the Cotija melts a bit. The chard and the half-and-half create a sort of light broth at the bottom of the shakshuka, which holds so much flavor and is one of the dish’s charms. Lastly, be daring with smoked hot sauce at the end: It’ll push the creamy avocado, cheese and eggs to their peak.",
+      "author": {
+        "@type": "Person",
+        "name": "Sarah Copeland"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/76d5719b-b530-54b5-aceb-a96a2d401c45#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/08/01/dining/sc-green-shakshuka/sc-green-shakshuka-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-04T16:20:41.962Z",
+          "datePublished": "2019-08-01T15:22:39.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-08-01T15:22:39.000Z",
+          "url": "https://static01.nyt.com/images/2019/08/01/dining/sc-green-shakshuka/sc-green-shakshuka-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/76d5719b-b530-54b5-aceb-a96a2d401c45#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/08/01/dining/sc-green-shakshuka/sc-green-shakshuka-googleFourByThree-v2.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-04T16:20:41.962Z",
+          "datePublished": "2019-08-01T15:22:39.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2019-08-01T15:22:39.000Z",
+          "url": "https://static01.nyt.com/images/2019/08/01/dining/sc-green-shakshuka/sc-green-shakshuka-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/76d5719b-b530-54b5-aceb-a96a2d401c45#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/08/01/dining/sc-green-shakshuka/sc-green-shakshuka-square640.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-04T16:20:41.962Z",
+          "datePublished": "2019-08-01T15:22:39.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-08-01T15:22:39.000Z",
+          "url": "https://static01.nyt.com/images/2019/08/01/dining/sc-green-shakshuka/sc-green-shakshuka-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT35M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "breakfast, brunch, dinner, easy, weeknight, main course",
+      "keywords": "cast iron, cotija, egg, egg dish, half and half, heavy cream, queso fresco, skillet, swiss chard, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 5764
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 472,
+        "unsaturatedFatContent": "23 grams",
+        "carbohydrateContent": "18 grams",
+        "cholesterolContent": null,
+        "fatContent": "37 grams",
+        "fiberContent": "6 grams",
+        "proteinContent": "21 grams",
+        "saturatedFatContent": "11 grams",
+        "sodiumContent": "803 milligrams",
+        "sugarContent": "4 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 tablespoons olive oil",
+        "1 yellow onion, peeled and thinly sliced",
+        "2 garlic cloves, thinly sliced",
+        "1 large bunch/1 1/2 pounds Swiss chard, stems and leaves separated and chopped (about 9 cups)",
+        "1/2 teaspoon salt, plus more as needed",
+        "1/3 cup half-and-half or heavy cream",
+        "8 large eggs",
+        "1/4 teaspoon black pepper, plus more as needed",
+        "3 ounces Cotija cheese or queso fresco, crumbled (about 3/4 cup)",
+        "1 avocado, sliced, for serving",
+        "1 small jalapeño, thinly sliced, for serving",
+        "Chopped cilantro, for serving",
+        "Smoked hot sauce, for serving",
+        "Corn tortillas, toasted, for serving",
+        "1 lime, cut into wedges, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oil in a large cast-iron skillet over medium-low heat. Add onion and cook until softening, 5 minutes. Add the garlic and cook until fragrant, 5 minutes more."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Raise the heat to medium-high, add the chard stems, and cook to release some liquid, 5 minutes. Add the chard leaves, in batches, adding more as they wilt, and continue cooking, stirring occasionally, until completely wilted, 3 to 5 minutes more. Season with 1/2 teaspoon salt, pour in the half-and-half and stir loosely together."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make eight small hollows in the cooked chard with the back of a spoon. Gently crack an egg into each hollow. Cover with a lid or foil and cook on medium-low until the eggs are just set, but still soft, about 7 to 9 minutes. Remove the lid, sprinkle with salt, pepper, Cotija, avocado, jalapeño and cilantro. Serve with smoked hot sauce, toasted tortillas and lime wedges."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2018-08-08T00:00:00.000Z",
+      "dateModified": "2022-08-19T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cal Gal"
+          },
+          "reviewBody": "The picture only shows 7 eggs, but the recipe says 8.",
+          "datePublished": "2025-05-16T18:51:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "Used baby spinach and it was still good and easier to cook!",
+          "datePublished": "2025-05-14T12:05:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michele"
+          },
+          "reviewBody": "I find that garlic is fragrant a few seconds after cooking. For eliciting moisture from the stems and for quickening the wilting of the chard leaves I added the salt gradually with each batch of chard. Iron retains heat beautifully; I needed to turn the gas heat down now and then. My eggs cooked quickly, but then we like runny yolks. It was nice to use the chard stems and leaves together. Cholula sauce and tortilla chips were our accompaniments.",
+          "datePublished": "2025-04-27T18:37:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Moriah"
+          },
+          "reviewBody": "Add tomatillos\nCheese while eggs cook\nAdobo",
+          "datePublished": "2025-04-19T13:57:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julia"
+          },
+          "reviewBody": "Jumping back into the comments here because I just noticed that this recipe has 4 stars. That is insane to me. This is easily the most delicious thing I’ve ever made. I’ve made it twice now and am about to make it a third time; the second time I made it, I added the lime and avocado, and also swapped the queso fresco for feta because I had it on hand. Somehow all that made it even better. Truly an affront that this recipe only has 4 stars, I sincerely can’t fathom how that happened.",
+          "datePublished": "2025-04-13T02:48:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Moriah"
+          },
+          "reviewBody": "Use paprika and adobo w onions\nDefinitely use tomatillos",
+          "datePublished": "2025-04-02T03:37:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hannah"
+          },
+          "reviewBody": "One of my favorite weeknight dinners. Vegan option: I sub full fat coconut milk for the half and half, and it’s great.",
+          "datePublished": "2025-03-25T23:06:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julia"
+          },
+          "reviewBody": "I don’t think I’ve ever been quite as floored by a recipe as I was by my first bite of this. I’ve been trying to eat more vegetables, so I thought adding Swiss chard to my breakfast would be a good move. WOW. This was so delicious, I texted two people about it immediately. I served the bites on corn tortilla chips (the made-in-store kind) and that worked just as well as toasted tortilla. I also didn’t include lime, avocado, or hot sauce— all of those would elevate this meal even further.",
+          "datePublished": "2025-02-24T23:14:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bri"
+          },
+          "reviewBody": "10/10 would recommend. Skipped the cream, only used 4 eggs for two people for a comforting dinner! Used some leftover habanero peppers instead of the jalapeño.",
+          "datePublished": "2025-01-31T06:58:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BB"
+          },
+          "reviewBody": "This went over really well for a group at a cabin weekend. I added more greens, and added a jar of green enchilada sauce, and 14 eggs. It was an easy recipe to increase for a crowd.",
+          "datePublished": "2025-01-25T22:15:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cayleb"
+          },
+          "reviewBody": "Added zucchini, spinach, and mustard greens to the mix. Finished with thin sliced radish for some crunch and pickled hot jalapeños. 7 eggs was plenty. Nailed it.",
+          "datePublished": "2025-01-19T04:15:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "I liked this a lot! I can see riffing on this recipe.",
+          "datePublished": "2025-01-17T13:50:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rise and Shine"
+          },
+          "reviewBody": "Wish I'd had more chard; I just had 1 bunch of about 5 leaves for dinner for 3. But I cut up and added a mild poblano during the cooking of the greens, which helped bulk it up (and substituted for the jalapeño that one of us is allergic to). Squeezed some lime juice over all while cooking, after the half-and-half had cooked down a bit. Then I tossed cubed avocado with grated lime peel and juice and a pinch of salt to top it all with. Otherwise cooked as directed. Great flavor; family loved it.",
+          "datePublished": "2025-01-15T18:52:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christine"
+          },
+          "reviewBody": "Love this. I had a BUNCH of eggs I wanted to use and could only use so much at breakfast, and I'm a vegetarian so this was a great way to have eggs for dinner. I adapted to what I had at hand. Used coconut milk instead of half and half, used turnip greens, roasted cauliflower and carrot coins. I didn't have a lot of the stuff for dressing it, but tossed some coriander and ginger spices over eggs and served everything over basmati rice. Yum!",
+          "datePublished": "2025-01-10T22:37:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Heather"
+          },
+          "reviewBody": "Be sure to have everything ready (mise en place) before cooking to help assemble it. Could use other dry crumbly cheese: feta, etc. \nPlate quickly to keep the eggs from overcooking. \nIt was delicious!",
+          "datePublished": "2025-01-10T23:56:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marcia"
+          },
+          "reviewBody": "Nothing to do with the food (which looks awesome) - but for cast iron pan covers, I frequently use silicone \"suction lids\" (found everywhere on the web). They work like a charm, hold the heat, can be used as well in the fridge for bowl covers on all those differently-sized bowls - and they hang right over my stove. Best little investment (very small!) ever.",
+          "datePublished": "2018-09-08T17:29:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Betsy"
+          },
+          "reviewBody": "Perhaps some chopped tomatillos would add a nice, green touch of acid that would go well with the jalapeños and smoked hot sauce?",
+          "datePublished": "2018-09-09T23:58:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael"
+          },
+          "reviewBody": "Substituted greek yogurt thinned with lime juice for the cream and only used 4 eggs.  It was perfect!",
+          "datePublished": "2019-01-20T16:52:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jerilin"
+          },
+          "reviewBody": "I would recommend turning the heat way down at the end when adding eggs and keeping a close eye on them if you want them runny. Also, adding cheese during egg cooking time will help get the melted action going on before eggs overcook. :) I thought overall this was a fantastic dish, I added zucchini for some additional vegetable action. The flavors all worked well together and the lime added the pop to the entire dish.",
+          "datePublished": "2018-09-12T21:36:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": ".diana"
+          },
+          "reviewBody": "I made this for brunch today. It was a big hit. I followed the recipe as written, but made some additions as suggested in comments. They definitly livened up the flavour of the dish in a positive way.\nI added 2-3 teaspoons of mild smokey paprika, a small chopped jalapeno and 4-5 chopped tomatillos to the onions while sauteeing. I sauteed onions mix till almost caramalized before adding chard. As others said, watch eggs carefully!  lime juice and cilantro are a must. I will definitely make again!",
+          "datePublished": "2018-11-13T07:18:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pam"
+          },
+          "reviewBody": "We've made this a few times and found a few tricks to improve it, as well as make it a good weeknight dinner for two. We halve the recipe, but keep the greens the same and add a teaspoon or two of chipotle en adobo during the green-wilting step. Instead of tortillas, we also toasted a slice of sourdough and spread the compound butter from Melissa Clark's Green Garlic Toast recipe. The chipotle en adobo *really* adds depth to the dish and the garlic toast turns it into easy decadence.",
+          "datePublished": "2019-02-27T01:58:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CarlaWoodward"
+          },
+          "reviewBody": "This was ok. The cotija, fresh jalepeno, cilantro, lime juice, and hot sauce were the flavor pop. Otherwise it has a deep earthy flavor of chard and cream, lacking an acid, which is not what I expected of shakshuka. Feels a bit heavy with the cream. Would forego the avocado next time, as there is already plenty of fat going on in this dish. Made full veg and only 4 eggs to serve 2 people who eat a lot of veg. Had 1 egg left over. Served with corn tortillas toasted on cast iron griddle.",
+          "datePublished": "2018-09-09T18:08:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lorraine"
+          },
+          "reviewBody": "This was terrific!  Used goat feta cheese and it really punched up the flavor. Cilantro, hot sauce and fresh corn tortillas took this over the top. Took advice from others to cook for less time and I will cut it to 5 min at the end for the eggs since they continue to cook in the pan. Keeper! ",
+          "datePublished": "2018-09-17T02:21:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leslie"
+          },
+          "reviewBody": "Ooo great tip! I'm also in Switzerland, and I tend to just use a real nice salty feta anytime these other crumbly cheese are called for. I'll look for Sbrinz next time and give it a try. Also I've found it ups the flavor, tang, and health factor to use greek yogurt instead of the cream.",
+          "datePublished": "2019-03-11T10:58:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "esm624"
+          },
+          "reviewBody": "I'm doing keto (aka low carb diet) so this was a great recipe for that. I swapped out broccoli rabe for chard since that's what I had on hand and used heavy cream instead of half and half. I also used Frank's hot sauce. Otherwise, I followed this recipe but used only 3 eggs since it was just me.  Super delicious and easy. Highly recommend.",
+          "datePublished": "2019-03-23T00:00:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hannah"
+          },
+          "reviewBody": "Chars stems are super good! They are toothsome, tender, and flavorful, and often colorful. Cut them in thick slices—maybe 3/4 inch—and simmer or steam with the leaves till tender. Sometimes I add them a minute before the chopped leaves. I learned to love them while WWOOFing in France, over there many farmers grow chard specifically for the stems! It’s like celery without any of the stringiness, but more tender, with a mild and surprisingly savory spinachy flavor.",
+          "datePublished": "2019-05-04T06:28:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "rh"
+          },
+          "reviewBody": "Cook eggs for less time - 7 minutes is too long. Added sour cream instead of cream. Used beet greens",
+          "datePublished": "2018-11-27T03:21:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane"
+          },
+          "reviewBody": "I begin this dish with some cooked rice and then add the chard. The rice adds a little more substance. I also toss in some red pepper flakes with the chard.",
+          "datePublished": "2018-11-07T17:12:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Olivia"
+          },
+          "reviewBody": "Made with rainbow chard, shallot sautéed with a smidge of smoked paprika, and goats cheese. Topped with thinned Greek yogurt, cholula, and sliced jalapeños. Easy, bright, healthy, and delicious. A keeper. ",
+          "datePublished": "2019-01-04T00:29:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NYkr"
+          },
+          "reviewBody": "I couldn’t get chard so substituted a mix of spinach and arugula; otherwise I followed the recipe as is. I thought it was fantastic!",
+          "datePublished": "2018-11-02T15:13:13.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1019468-green-shakshuka-with-avocado-and-lime",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Sarah Copeland"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018,
+      "description": "This easy twist on classic North African shakshuka (traditionally eggs baked in tomato-pepper sauce, with cumin, paprika and cayenne) starts with an onion-garlic-chard sautéed until gently wilted: a nest of sorts for steam-poaching eggs. Once the eggs go in, be sure to keep the flame low and keep the pan covered while cooking, so the eggs stay soft and almost oozy at their yolk, and the Cotija melts a bit. The chard and the half-and-half create a sort of light broth at the bottom of the shakshuka, which holds so much flavor and is one of the dish’s charms. Lastly, be daring with smoked hot sauce at the end: It’ll push the creamy avocado, cheese and eggs to their peak.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Green Shakshuka With Avocado and Lime",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/76d5719b-b530-54b5-aceb-a96a2d401c45#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/08/01/dining/sc-green-shakshuka/sc-green-shakshuka-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-04T16:20:41.962Z",
+          "datePublished": "2019-08-01T15:22:39.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-08-01T15:22:39.000Z",
+          "url": "https://static01.nyt.com/images/2019/08/01/dining/sc-green-shakshuka/sc-green-shakshuka-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/76d5719b-b530-54b5-aceb-a96a2d401c45#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/08/01/dining/sc-green-shakshuka/sc-green-shakshuka-googleFourByThree-v2.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-04T16:20:41.962Z",
+          "datePublished": "2019-08-01T15:22:39.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2019-08-01T15:22:39.000Z",
+          "url": "https://static01.nyt.com/images/2019/08/01/dining/sc-green-shakshuka/sc-green-shakshuka-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/76d5719b-b530-54b5-aceb-a96a2d401c45#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/08/01/dining/sc-green-shakshuka/sc-green-shakshuka-square640.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-03-04T16:20:41.962Z",
+          "datePublished": "2019-08-01T15:22:39.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2019-08-01T15:22:39.000Z",
+          "url": "https://static01.nyt.com/images/2019/08/01/dining/sc-green-shakshuka/sc-green-shakshuka-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019468-green-shakshuka-with-avocado-and-lime"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:19:09.399Z",
+  "scraping_status": "scraped"
+}

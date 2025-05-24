@@ -1,0 +1,537 @@
+{
+  "id": "7192ba62e5724b04",
+  "original_url": "https://cooking.nytimes.com/recipes/1022691-savory-mixed-nut-shortbread",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1022691-savory-mixed-nut-shortbread",
+  "fetched_title": "Savory Mixed-Nut Shortbread Recipe",
+  "main_text_content": "Inspired by the cocktail nuts served at Union Square Cafe in New York City — butter-rich, toasty warm and fragrant with rosemary and cayenne — this no-mixer press-in cookie is a joy to make You simply melt butter with rosemary and black pepper, stir that into dry ingredients, and then press the dough into a pan Salted nuts and more fresh rosemary go on top before the whole thing is baked and broken into ragged pieces",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1023713-strawberry-jam-bars-with-cardamom\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2022/12/07/multimedia/YK-jam-bars-1-a209/YK-jam-bars-1-a209-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2022/12/07/multimedia/YK-jam-bars-1-a209/YK-jam-bars-1-a209-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2022/12/07/multimedia/YK-jam-bars-1-a209/YK-jam-bars-1-a209-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2022/12/07/multimedia/YK-jam-bars-1-a209/YK-jam-bars-1-a209-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2022/12/07/multimedia/YK-jam-bars-1-a209/YK-jam-bars-1-a209-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2022/12/07/multimedia/YK-jam-bars-1-a209/YK-jam-bars-1-a209-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2022/12/07/multimedia/YK-jam-bars-1-a209/YK-jam-bars-1-a209-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2022/12/07/multimedia/YK-jam-bars-1-a209/YK-jam-bars-1-a209-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Strawberry Jam Bars With Cardamom</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Yewande Komolafe</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/12/08/dining/08COOKIESREX1-NUT-SHORTBREAD/merlin_198252024_2c272bd1-907d-426d-b093-426579b5646c-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/7192ba62e5724b04/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/da2effad-e2a9-5e67-a73f-167853224ba3",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1022691-savory-mixed-nut-shortbread",
+        "@type": "WebPage",
+        "name": "Savory Mixed-Nut Shortbread"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022691-savory-mixed-nut-shortbread",
+      "name": "Savory Mixed-Nut Shortbread",
+      "description": "Inspired by the cocktail nuts served at Union Square Cafe in New York City — butter-rich, toasty warm and fragrant with rosemary and cayenne — this no-mixer press-in cookie is a joy to make. You simply melt butter with rosemary and black pepper, stir that into dry ingredients, and then press the dough into a pan. Salted nuts and more fresh rosemary go on top before the whole thing is baked and broken into ragged pieces. Persnickety cookie, this is not. Enjoy on a cheese board, with cocktails or after dinner with tea and dark chocolate. Or pack these in a cellophane bag and tie it with a bow to share as a gift. (The cookies will keep in an airtight container at room temperature for up to a week.)",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/08911724-790f-5ba5-a522-6d34f77c7103#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/08/dining/08COOKIESREX1-NUT-SHORTBREAD/merlin_198252024_2c272bd1-907d-426d-b093-426579b5646c-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Anna Williams for The New York Times. Food Stylist: Susan Spungen. Prop Stylist: Sarah Smart.",
+          "dateModified": "2021-11-24T17:39:22.440Z",
+          "datePublished": "2021-11-24T17:39:22.440Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-24T17:39:22.440Z",
+          "url": "https://static01.nyt.com/images/2021/12/08/dining/08COOKIESREX1-NUT-SHORTBREAD/merlin_198252024_2c272bd1-907d-426d-b093-426579b5646c-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/08911724-790f-5ba5-a522-6d34f77c7103#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/08/dining/08COOKIESREX1-NUT-SHORTBREAD/merlin_198252024_2c272bd1-907d-426d-b093-426579b5646c-superJumbo.jpg",
+          "creditText": "Anna Williams for The New York Times. Food Stylist: Susan Spungen. Prop Stylist: Sarah Smart.",
+          "dateModified": "2021-11-24T17:39:22.440Z",
+          "datePublished": "2021-11-24T17:39:22.440Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-24T17:39:22.440Z",
+          "url": "https://static01.nyt.com/images/2021/12/08/dining/08COOKIESREX1-NUT-SHORTBREAD/merlin_198252024_2c272bd1-907d-426d-b093-426579b5646c-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/08911724-790f-5ba5-a522-6d34f77c7103#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/08/dining/08COOKIESREX1-NUT-SHORTBREAD/merlin_198252024_2c272bd1-907d-426d-b093-426579b5646c-mediumSquareAt3X.jpg",
+          "creditText": "Anna Williams for The New York Times. Food Stylist: Susan Spungen. Prop Stylist: Sarah Smart.",
+          "dateModified": "2021-11-24T17:39:22.440Z",
+          "datePublished": "2021-11-24T17:39:22.440Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-24T17:39:22.440Z",
+          "url": "https://static01.nyt.com/images/2021/12/08/dining/08COOKIESREX1-NUT-SHORTBREAD/merlin_198252024_2c272bd1-907d-426d-b093-426579b5646c-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT45M",
+      "recipeYield": "One 9-by-13 pan (About 8 servings)",
+      "recipeCuisine": "",
+      "recipeCategory": "appetizer, dessert",
+      "keywords": "cayenne pepper, christmas cookie, nut, rosemary, christmas",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 426
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 487,
+        "unsaturatedFatContent": "13 grams",
+        "carbohydrateContent": "48 grams",
+        "cholesterolContent": null,
+        "fatContent": "31 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "8 grams",
+        "saturatedFatContent": "16 grams",
+        "sodiumContent": "186 milligrams",
+        "sugarContent": "17 grams",
+        "transFatContent": "1 gram"
+      },
+      "recipeIngredient": [
+        "1 cup/227 grams salted butter",
+        "1 rosemary sprig, plus 2 tablespoons leaves",
+        "3/4 teaspoon freshly ground black pepper",
+        "2 1/2 cups/300 grams all-purpose flour",
+        "2/3 cup/132 grams granulated sugar, plus more for sprinkling",
+        "1/4 teaspoon ground cayenne",
+        "1 1/2 cups/115 grams mixed, salted nuts (avoid peanuts if possible), lightly crushed with a heavy skillet or mallet"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 325 degrees. In a medium saucepan, combine the butter, rosemary sprig and 1/4 teaspoon black pepper. Cook over medium, swirling occasionally, until the butter is just melted. (You can also do this in a bowl in the microwave, stirring between 30-second bursts). Set aside to cool slightly. (Take a whiff of the butter; it smells like rosemary!)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In an ungreased 9-by-13-by-2-inch pan, use a fork to stir together the flour, sugar and cayenne until combined. Remove and discard the rosemary sprig from the butter. Pour the melted butter into the dry ingredients. Stir with a fork to combine, then use your hands to mix until no dry spots remain."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Press the dough evenly into the pan. Prick all over with a fork. Sprinkle the nuts and rosemary leaves on top, shake into a single layer, then press firmly into the dough until the nuts’ sides are surrounded by dough. (This is important, otherwise the nuts won’t adhere.) Sprinkle evenly with 1 teaspoon sugar and the remaining 1/2 teaspoon black pepper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake until golden brown (including in the center) and the edges start to pull away from the sides, 35 to 40 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Let cool completely, then gently break up with your hands into jagged pieces. Nuts along the edge may fall out. (Those are yours to eat.) The shortbread will keep in an airtight container at room temperature for up to a week."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-12-08T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Taszbo"
+          },
+          "reviewBody": "I made this with 1/2 butter, 1/2 olive oil and decreased the sugar to 1/2 c. Outstanding!",
+          "datePublished": "2025-03-16T19:19:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laudygirl"
+          },
+          "reviewBody": "I made this when we had friends come to visit for a couple days…… awesome! So easy….. wouldn’t great addition to a cheeseboard…. So good with a glass of wine or bourbon, my husband can’t stop eating them. I would add even more rosemary. I love the Herby taste, sweet and salty. I mixed the nuts right into the dough and then broke it apart and re-baked it five or so more minutes….. definitely a keeper something different…",
+          "datePublished": "2024-09-30T09:20:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stephanie"
+          },
+          "reviewBody": "Breaking this stuff up seems wrong and makes lots of crumbs that can only be eaten with a spoon.  I remove it from the oven, cut it leaving it in the pan, and then return it to the oven for an extra 10 minutes.",
+          "datePublished": "2024-08-28T18:52:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CSN"
+          },
+          "reviewBody": "Delicious but could probably back off sugar to make it more savory, less sweet. My husband thought it was a dessert. Hahaha.",
+          "datePublished": "2024-07-22T19:20:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "savory Mixed Nuts Shortbread"
+          },
+          "reviewBody": "Delicious….but very crumbly. In fact, it is hard to pick up a piece without it falling apart. Not sure how to resolve this. Like other users, I mixed the rosemary and nuts into the batter before baking. But good enough that I would make them again.",
+          "datePublished": "2024-03-07T00:31:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan Dasso"
+          },
+          "reviewBody": "This is an excellent amuse bouche with cocktails.  I have made it as written, but have also mixed up the nuts using smoked almonds, and TJ’s nut, Olive and herb mix.  All have been great.",
+          "datePublished": "2024-01-21T03:14:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen"
+          },
+          "reviewBody": "Mixed all together in large bowl as one note suggested & used a parchment sling in the pan.  \nDelicious !!!!",
+          "datePublished": "2024-01-05T23:53:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deb C"
+          },
+          "reviewBody": "@Previously Solved\nThanks for mentioning the possible weight/volume discrepancy. I will go with volume. For context: I used Kirkland mixed nuts. 1 ½ cups weighed 189 grams, not 115. I’ll bet that weight even varies from year to year. \n\nThese are killer scrumptious!",
+          "datePublished": "2024-12-21T20:04:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Previously Solved"
+          },
+          "reviewBody": "I have now made these three times, always to rave reviews (and requests for the recipe). But the volume and weight of the nuts listed in the recipe don't match, unless you have some very lightweight nuts. I went by the volume because I preferred it nuttier. I also mix the nuts into the dough. Bringing a batch to a cocktail party tonight -- this will go perfectly with drinks!",
+          "datePublished": "2023-12-08T13:43:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joanne"
+          },
+          "reviewBody": "I made these for a dinner party and they were wonderful! Next time I would add less sugar. I put the nuts in the dough, scored the dough into squares (and scored it again midway through baking) and decorated it with more nuts and rosemary on top. Even though it would take longer, I would also make individual cookies, which are prettier.",
+          "datePublished": "2023-11-12T14:28:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martha"
+          },
+          "reviewBody": "I love this salty sweet taste. I made just as directed.",
+          "datePublished": "2023-08-04T14:12:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kim"
+          },
+          "reviewBody": "I made this for a summer wine-tasting.  I used a package of cashews that were pre-roasted and then roasted walnuts and pistachios on my own.  I found that my home-roasted nuts adhered to the shortbread much better than the cashews.  So for future attempts I won’t use store-bought pre-roasted nuts.  I also reduced the sugar to 1/2 cup and will probably take more out on the next batch.  People loved this, I got multiple requests for the recipe.",
+          "datePublished": "2023-07-22T07:37:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JBuckBye"
+          },
+          "reviewBody": "I made this to take to a friend's afternoon tea. It was the hit of the party with many requests for the recipe. I made as written EXCEPT as others suggested I stirred in most of the nuts and all the rosemary.  I also underbaked: 20 minutes at 325, removed from oven and cut into small bars, then baked another 10 minutes at 300. If was a perfect crispy/chewy texture. Highly recommend!",
+          "datePublished": "2023-04-03T17:51:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "liz"
+          },
+          "reviewBody": "Try just 2 cups of flour and  225 g butter. Several people say the ratio is wrong.  The rosemary shortbread is 2 cups flour / 225 g butter.",
+          "datePublished": "2022-12-31T02:02:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "liz"
+          },
+          "reviewBody": "Ratio is wrong. 2 cups flour 225 g butter is better like the rosemary shortbread.",
+          "datePublished": "2022-12-31T02:03:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol K."
+          },
+          "reviewBody": "Excellent recipe especially if you are a fan of rosemary, which I am.  For some reason my guests were not keen on it as an appetizer with wine and instead preferred it as a slightly sweet desert. I also made it gluten free with mostly Bob’s Red Mill GF flour and a quarter GF oat floor.  It was great.  Don’t forget to add Xanthum gum for binding to replace gluten.  Also, I did a slight grinding of the nuts in the mini prep and had little problem with nuts adhering to the shortbread.",
+          "datePublished": "2022-12-27T01:11:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mariko"
+          },
+          "reviewBody": "I made these! I thought they were really tasty. After reading other people’s comments, I decided to mix the nuts into the dough rather than pressing them into the top to help them stick, which helped a lot. I also baked them for an additional 10 minutes at 300 on a separate sheet pan after breaking them into individual pieces to make them extra crispy. Next time I might sprinkle a little flaky sea salt on top in addition to the sugar.",
+          "datePublished": "2021-12-06T03:32:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vicki"
+          },
+          "reviewBody": "Based on the comments, I mixed in the nuts and rosemary prior to smoothing the dough in the pan. I over-baked it 5-10 minutes until it started to brown a bit more than one would want with a classic shortbread. This gave a deliciously crispy texture. I also think it helped the pieces hold together better, though there was still an abundance of delicious crumbles.",
+          "datePublished": "2021-12-08T03:46:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Blue Sunflower"
+          },
+          "reviewBody": "Good flavors!  The mixed nuts I used (Costco Kirkland) do not taste excessively roasted/burnt after baking.  The nuts were well embedded into the dough, but only adhered moderately well.  May try an egg wash or other coating to help them stick better next time, but that may create other textural issues.  Would like to try to achieve a crisper texture, may try a second bake like biscotti for more crunch.  Will bake in a parchment paper sling next time for easier removal and less disintegration.",
+          "datePublished": "2021-12-03T13:34:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "June"
+          },
+          "reviewBody": "Salted mixed nuts are usually already roasted... wouldn't baking them again for up to 40 minutes cause them to taste slightly burnt or at least 'over roasted'?",
+          "datePublished": "2021-12-01T20:03:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "janina"
+          },
+          "reviewBody": "I read all the reviews and incorporated the comments. I mixed in the nuts and rosemary to the flour mixture.  I used the parchment sling so the shortbread came out easily.  I underbaked a bit, cooled the shortbread and cut into squares and then baked for another 10 minutes at 310 degrees.  An excellent addition to the sweet Christmas cookies.",
+          "datePublished": "2021-12-14T15:10:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mary ann"
+          },
+          "reviewBody": "I made this recipe exactly as specified until at the very end. \"Gently\" breaking the cookies caused way more nuts to become dislodged than did simply cutting them with a knife the way I do with all other bar cookies so I switched to the latter.\n\nWay tastier than I had envisioned! (Black pepper, cayenne, and rosemary in a shortbread had me seriously worried!)",
+          "datePublished": "2021-12-09T04:26:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "janisani"
+          },
+          "reviewBody": "P.S. I buy raw nuts from the bulk bins at Sprouts.",
+          "datePublished": "2021-12-02T23:33:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kmccann18"
+          },
+          "reviewBody": "I did a test run on these for gift bags - AMAZING - after reading about crumbling and nuts falling out, I brushed the shortbread with an egg wash, put nuts on top and really pressed them in, and then reapplied egg wash.  I also sprinkled with sea salt instead of sugar, and doubled the rosemary.  Absolutely fabulous - nuts stayed on, it broke into nice pieces without crumbling, and is delicious!",
+          "datePublished": "2021-12-18T16:50:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lesley Christoph"
+          },
+          "reviewBody": "I live at about 6500' above sea level so often need to fiddle with the leavening when baking - but I don't think anything needs to be tweaked here since there's no baking powder or soda. I'm going to try it this week as written - it sounds delish!",
+          "datePublished": "2021-12-12T20:05:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JBuckBye"
+          },
+          "reviewBody": "I made this to take to a friend's afternoon tea. It was the hit of the party with many requests for the recipe. I made as written EXCEPT as others suggested I stirred in most of the nuts and all the rosemary.  I also underbaked: 20 minutes at 325, removed from oven and cut into small bars, then baked another 10 minutes at 300. If was a perfect crispy/chewy texture. Highly recommend!",
+          "datePublished": "2023-04-03T17:51:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "janisani"
+          },
+          "reviewBody": "They turned out delicious! Took the advice of others and mixed half the nuts into the dough. Still many didn't stick. I followed the directions to press the dough in the pan, then prick, but then I couldn't press the topping nuts in as much as I wanted. Should have left the dough a little looser and then pressed tightly when the nuts were on top.",
+          "datePublished": "2021-12-14T21:37:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sheri"
+          },
+          "reviewBody": "It's such a low temperature that I don't think they'll burn.",
+          "datePublished": "2021-12-02T02:12:37.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1022691-savory-mixed-nut-shortbread",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Ali Slagle"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "Inspired by the cocktail nuts served at Union Square Cafe in New York City — butter-rich, toasty warm and fragrant with rosemary and cayenne — this no-mixer press-in cookie is a joy to make. You simply melt butter with rosemary and black pepper, stir that into dry ingredients, and then press the dough into a pan. Salted nuts and more fresh rosemary go on top before the whole thing is baked and broken into ragged pieces. Persnickety cookie, this is not. Enjoy on a cheese board, with cocktails or after dinner with tea and dark chocolate. Or pack these in a cellophane bag and tie it with a bow to share as a gift. (The cookies will keep in an airtight container at room temperature for up to a week.)",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Savory Mixed-Nut Shortbread",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/08911724-790f-5ba5-a522-6d34f77c7103#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/08/dining/08COOKIESREX1-NUT-SHORTBREAD/merlin_198252024_2c272bd1-907d-426d-b093-426579b5646c-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Anna Williams for The New York Times. Food Stylist: Susan Spungen. Prop Stylist: Sarah Smart.",
+          "dateModified": "2021-11-24T17:39:22.440Z",
+          "datePublished": "2021-11-24T17:39:22.440Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-24T17:39:22.440Z",
+          "url": "https://static01.nyt.com/images/2021/12/08/dining/08COOKIESREX1-NUT-SHORTBREAD/merlin_198252024_2c272bd1-907d-426d-b093-426579b5646c-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/08911724-790f-5ba5-a522-6d34f77c7103#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/08/dining/08COOKIESREX1-NUT-SHORTBREAD/merlin_198252024_2c272bd1-907d-426d-b093-426579b5646c-superJumbo.jpg",
+          "creditText": "Anna Williams for The New York Times. Food Stylist: Susan Spungen. Prop Stylist: Sarah Smart.",
+          "dateModified": "2021-11-24T17:39:22.440Z",
+          "datePublished": "2021-11-24T17:39:22.440Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-24T17:39:22.440Z",
+          "url": "https://static01.nyt.com/images/2021/12/08/dining/08COOKIESREX1-NUT-SHORTBREAD/merlin_198252024_2c272bd1-907d-426d-b093-426579b5646c-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/08911724-790f-5ba5-a522-6d34f77c7103#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/08/dining/08COOKIESREX1-NUT-SHORTBREAD/merlin_198252024_2c272bd1-907d-426d-b093-426579b5646c-mediumSquareAt3X.jpg",
+          "creditText": "Anna Williams for The New York Times. Food Stylist: Susan Spungen. Prop Stylist: Sarah Smart.",
+          "dateModified": "2021-11-24T17:39:22.440Z",
+          "datePublished": "2021-11-24T17:39:22.440Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-11-24T17:39:22.440Z",
+          "url": "https://static01.nyt.com/images/2021/12/08/dining/08COOKIESREX1-NUT-SHORTBREAD/merlin_198252024_2c272bd1-907d-426d-b093-426579b5646c-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022691-savory-mixed-nut-shortbread"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:35:37.098Z",
+  "scraping_status": "scraped"
+}

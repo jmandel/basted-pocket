@@ -1,0 +1,554 @@
+{
+  "id": "eddf03bd6b7afebc",
+  "original_url": "https://cooking.nytimes.com/recipes/1023910-baked-salmon-and-dill-rice",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1023910-baked-salmon-and-dill-rice",
+  "fetched_title": "Baked Salmon and Dill Rice Recipe",
+  "main_text_content": "Fragrant dill rice is a natural accompaniment to salmon, and a complete meal of the two is made easy here by baking them together in one dish Add fresh or dried dill to basmati rice, which is eventually topped with salmon covered in a tangy, sweet and spicy paste of mayo, lemon zest, honey and dried chile flakes To ensure the rice is perfectly fluffy without overcooking the fish, the grains are baked until most of the water is absorbed before the salmon is added over the top.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1020253-roasted-dill-salmon\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2020/05/31/dining/nd-dill-salmon/nd-dill-salmon-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2020/05/31/dining/nd-dill-salmon/nd-dill-salmon-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2020/05/31/dining/nd-dill-salmon/nd-dill-salmon-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2020/05/31/dining/nd-dill-salmon/nd-dill-salmon-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2020/05/31/dining/nd-dill-salmon/nd-dill-salmon-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2020/05/31/dining/nd-dill-salmon/nd-dill-salmon-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2020/05/31/dining/nd-dill-salmon/nd-dill-salmon-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2020/05/31/dining/nd-dill-salmon/nd-dill-salmon-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Roasted Dill Salmon</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Naz Deravian</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/04/12/multimedia/nd-baked-salmon-and-dill-rice-vzkq/nd-baked-salmon-and-dill-rice-vzkq-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/eddf03bd6b7afebc/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/23ca92e8-d128-5c5a-826c-82f844a34338",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1023910-baked-salmon-and-dill-rice",
+        "@type": "WebPage",
+        "name": "Baked Salmon and Dill Rice"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023910-baked-salmon-and-dill-rice",
+      "name": "Baked Salmon and Dill Rice",
+      "description": "Fragrant dill rice is a natural accompaniment to salmon, and a complete meal of the two is made easy here by baking them together in one dish. Add fresh or dried dill to basmati rice, which is eventually topped with salmon covered in a tangy, sweet and spicy paste of mayo, lemon zest, honey and dried chile flakes. To ensure the rice is perfectly fluffy without overcooking the fish, the grains are baked until most of the water is absorbed before the salmon is added over the top.",
+      "author": {
+        "@type": "Person",
+        "name": "Naz Deravian"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/151f1d2b-aba3-5415-a785-9d2a2f16e173#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/04/12/multimedia/nd-baked-salmon-and-dill-rice-vzkq/nd-baked-salmon-and-dill-rice-vzkq-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2023-12-05T15:48:54.826Z",
+          "datePublished": "2023-04-12T18:06:56.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-04-12T18:06:56.000Z",
+          "url": "https://static01.nyt.com/images/2023/04/12/multimedia/nd-baked-salmon-and-dill-rice-vzkq/nd-baked-salmon-and-dill-rice-vzkq-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/151f1d2b-aba3-5415-a785-9d2a2f16e173#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/04/12/multimedia/nd-baked-salmon-and-dill-rice-vzkq/nd-baked-salmon-and-dill-rice-vzkq-superJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2023-12-05T15:48:54.826Z",
+          "datePublished": "2023-04-12T18:06:56.000Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2023-04-12T18:06:56.000Z",
+          "url": "https://static01.nyt.com/images/2023/04/12/multimedia/nd-baked-salmon-and-dill-rice-vzkq/nd-baked-salmon-and-dill-rice-vzkq-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/151f1d2b-aba3-5415-a785-9d2a2f16e173#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/04/12/multimedia/nd-baked-salmon-and-dill-rice-vzkq/nd-baked-salmon-and-dill-rice-vzkq-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2023-12-05T15:48:54.826Z",
+          "datePublished": "2023-04-12T18:06:56.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-04-12T18:06:56.000Z",
+          "url": "https://static01.nyt.com/images/2023/04/12/multimedia/nd-baked-salmon-and-dill-rice-vzkq/nd-baked-salmon-and-dill-rice-vzkq-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, quick, weeknight, one pot, seafood, main course",
+      "keywords": "basmati rice, dill, honey, lemon zest, mayonnaise, salmon fillet",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 2615
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 715,
+        "unsaturatedFatContent": "21 grams",
+        "carbohydrateContent": "62 grams",
+        "cholesterolContent": null,
+        "fatContent": "33 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "40 grams",
+        "saturatedFatContent": "7 grams",
+        "sodiumContent": "610 milligrams",
+        "sugarContent": "4 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 tablespoons extra-virgin olive oil",
+        "1 1/2 cups white basmati rice, rinsed and drained",
+        "Kosher salt (such as Diamond Crystal) and black pepper",
+        "4 ounces fresh dill, tough stems removed and finely chopped (about 1 cup), or ⅓ cup dried, plus more for serving",
+        "2 large garlic cloves, finely grated",
+        "1 large lemon, zested (about 1 teaspoon)",
+        "1 tablespoon mayonnaise",
+        "1 tablespoon honey",
+        "1/4 teaspoon ground turmeric",
+        "1/4 teaspoon red-pepper flakes, plus more for serving",
+        "4 (6-ounce) salmon fillets (1 inch thick at their thickest parts), skin on or off"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place an oven rack in the center position and heat the oven to 400 degrees. In a kettle or a small saucepan, bring 2¾ cups water to a boil."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To a 9-by-13-inch baking pan, add the olive oil and spread it around the pan. Add the rice, 1 teaspoon salt and the dill, and stir to combine. Spread the rice evenly across the pan. Add the boiling water, stir and cover tightly with foil. Place in the oven and bake until most of the water has been absorbed, 12 to 15 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, in a small bowl, combine the garlic, lemon zest, mayonnaise, honey, turmeric and red-pepper flakes. Season both sides of the salmon fillets well with salt (about 1½ teaspoons total) and pepper. Spread the mayonnaise paste on top (or flesh side) of the salmon fillets."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Remove the pan from the oven and very carefully lift the foil. Place the salmon fillets on top of the rice, paste side up, reseal and place back in the oven. Bake until the rice is fluffy and the salmon is tender, 15 to 20 minutes. Garnish with more fresh dill and red-pepper flakes."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-04-29T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "GiddyUp"
+          },
+          "reviewBody": "I've made this as directed and then I made it better. \n1. Started rice on the stove in my Dutch oven adding coconut milk, chicken stock, spinach, dill... (whatever I had in the fridge that I needed to use)\n2. After about 15/20mins, when the rice was almost done, I added the salmon and transfered to the oven and finished off there for about 12 mins.\n3. To serve add lemon and finishing salt.",
+          "datePublished": "2025-05-17T21:32:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alana"
+          },
+          "reviewBody": "This recipe is so amazing - we literally make it every week - quick and easy for a weeknight dinner, but delicious enough to serve to guests.  Recommend x 100!",
+          "datePublished": "2025-05-13T00:34:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Allison"
+          },
+          "reviewBody": "I made this for a crowd last night and it was perfect. Great for entertaining because the timing is not too demanding. Everyone loved it. I don’t think it’s bland or boring.",
+          "datePublished": "2025-04-20T23:38:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Megan"
+          },
+          "reviewBody": "Used brown rice and added broccoli when the salmon went in, turned out great! This will be a regular weeknight fish dinner for us!",
+          "datePublished": "2025-04-06T03:09:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Victoria"
+          },
+          "reviewBody": "So easy and sooo good! I used jasmine rice and half fresh dill/half fresh parsley. Squeezed a lemon on top after it was cooked. Looked beautiful in the ceramic pan that went from oven to table. Ta da!",
+          "datePublished": "2025-04-03T00:57:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barry"
+          },
+          "reviewBody": "Replaced water with veggie broth, used the last dried dill from my garden last year, and doubled the red pepper flakes; also added 1/2 tsp fish sauce.",
+          "datePublished": "2025-03-30T23:27:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "abbotdot"
+          },
+          "reviewBody": "Easy and delicious, although my rice never got fluffy...it was still very good!",
+          "datePublished": "2025-03-25T01:52:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lucy M."
+          },
+          "reviewBody": "This was delicious! I scattered some frozen peas and carrots over the rice when I added the salmon so we would have a veg!",
+          "datePublished": "2025-03-19T22:49:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kate"
+          },
+          "reviewBody": "Delicious! I have never made such fluffy rice. I used a Le Creuset braiser since it is shallow with a tight lid - easier than messing with foil. I washed what I thought would be 1 C chopped dill - I was pretty surprised that I needed to more than double the quantity to get to 4 Oz. More than one cup, but it did not taste like too much. I used wild salmon - a little thinner - so I did the minimum time on the rice and minimum recommended time on the salmon. Perfect.",
+          "datePublished": "2025-03-09T00:40:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gini"
+          },
+          "reviewBody": "While I loved the rice (added peas and broth), the salmon ended up overcooked, and the garlic was undercooked and pervasive. Loved the methodology and will try again.",
+          "datePublished": "2025-02-27T17:39:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrea"
+          },
+          "reviewBody": "This was SOOOOO good. Following other's advice, I used chicken stock instead of water and squeezed the lemon over everything at the end. I seriously could have licked the plate. I threw in some asparagus with the salmon to make it a full meal and both were perfectly cooked at 15 minutes. I probably could have taken it out a minute or two earlier for even more tender salmon.",
+          "datePublished": "2025-02-26T00:46:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "Added veggie stock to the water before cooking the rice and a squeeze of lemon juice just prior to serving - also allowed a 8min cook uncovered before serving - very tasty😊",
+          "datePublished": "2025-01-13T08:36:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennifer"
+          },
+          "reviewBody": "Next time I would add more mayonnaise and lemon juice, cook for 13-14m instead of 15. Otherwise pretty good.",
+          "datePublished": "2025-01-09T03:59:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "moira jk"
+          },
+          "reviewBody": "Huge hit, with the whole family! Used large dutch oven and lid as opposed to covering with foil. The rice was made with low sodium broth but still needed salt at the end. Also added a small bag of frozen peas after the rice, right before adding the salmon- cooked up just fine, and probably could have been added with the broth. A large squeeze of lemon at the end brightened it up perfectly.",
+          "datePublished": "2025-01-07T03:29:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "A great concept, but this was a bit bland for our taste.",
+          "datePublished": "2024-12-31T14:50:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Holly"
+          },
+          "reviewBody": "Easy recipe but a little bland.  Make rice with broth instead of water. Add some frozen peas to rice to add texture and more color. Double the fish seasoning mix and douse both sides of fish with same to enhance flavor.",
+          "datePublished": "2023-04-16T00:41:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chuck Breaux"
+          },
+          "reviewBody": "Baked it in a CorningWare casserole with lid as opposed to a baking pan with aluminum foil. I made it just as described, but it was missing a little something. I had already zested the lemon. Why waste the rest of it? I then squeezed the lemon juice over the salmon and rice at the end, and that was just what was needed!",
+          "datePublished": "2023-04-19T03:34:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Analisa"
+          },
+          "reviewBody": "I recommend adding saffron to the salmon, and even the rice. To do so, boil a little water-couple of tablespoons, and add the saffron to \"bloom\" it. Then add to salmon/rice.",
+          "datePublished": "2023-04-14T17:13:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vicki Wagner"
+          },
+          "reviewBody": "My family loved this. My daughter said it could have used more sauce, but otherwise wants me to add it to the rotation. I substituted jasmine rice because that is what I had on hand. A nice flavor for sure.",
+          "datePublished": "2023-04-14T14:04:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aric"
+          },
+          "reviewBody": "I made this last night a real crowd pleaser! To make things easy I just rubbed my salmon with harissa and it was fabulous! Made it in a Pyrex.",
+          "datePublished": "2023-04-15T18:27:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "taysty"
+          },
+          "reviewBody": "The salmon and it’s turmeric/honey paste is extremely decadent! I would make alone without the again. Unfortunately, I only had dried instead of fresh dill. The ratio of 1/3 cup dried dill to rice overpowered the meal. I would like to try the rice again with fresh dill and would not recommend the dried method. Save extra lemon juice to squeeze on top at the end!",
+          "datePublished": "2023-04-18T00:27:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gengen"
+          },
+          "reviewBody": "I made this as written with 2 substitutions.  For 2 people I used1 cup brown rice and 2 cups water; then baked as directed. For the fish I substituted Alaskan cod filets spread with tartar sauce from a bottle. Otherwise cooked as directed. Delicious,  husband said “add this to the rotation. As dessert after this fish dish I made a Cara cara orange, coconut shreds & a handful of walnuts dressed with Paul Newman ginger salad dressing. Perfect for a tasty fish dish.",
+          "datePublished": "2023-04-20T00:06:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martin Aiken"
+          },
+          "reviewBody": "I always find it a challenge to cook salmon to the right degree of doneness.  My wife and I have different preferences for how cooked the fish should be.  I also am often frustrated by having too much fat emerge from the fish.  This recipe worked very well to solve all those problems.  I think the steam from the rice must be a key, plus  it allows a relatively quick cooking time.  As for the rice itself, season to your preference is all I can say.",
+          "datePublished": "2023-04-17T14:54:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Comfy Cook"
+          },
+          "reviewBody": "Easy and delicious. Used 1C fresh dill; good as written; if you especially like the flavor of dill, you could certainly use a heavy hand here for even more oomph.",
+          "datePublished": "2023-04-17T14:24:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michellio"
+          },
+          "reviewBody": "We loved this. Perfect for a weeknight. Cooked the salmon 15 min but one piece was very thick and needed maybe two more minutes. The only thing I swapped out was mayo and swapped in Greek yogurt.",
+          "datePublished": "2023-04-19T00:10:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peter"
+          },
+          "reviewBody": "Made this tonight and the salmon was great. I had a problem with the rice though, as it wasn’t cooked when the salmon was. When you cook the rice the first time, it says the water should be “almost” gone. That’s not very specific. My advice is to cook the rice separately on the stove. That way you can control the cook times for the salmon and the rice and not have to hope they come out at the same time. We ate the salmon and let the rice cook a bit longer. Not ideal to eat in stages.",
+          "datePublished": "2023-04-29T23:52:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John C"
+          },
+          "reviewBody": "My rice was by no means done after only 12 minutes in the 400 degree oven. In fact, it was still chewy after 40 minutes of baking. Baked rice has always seemed to me an iffy proposition, so I was cautious about this recipe from the start. Am I doing something wrong? Or do I need a new oven?",
+          "datePublished": "2023-05-07T18:18:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Merry"
+          },
+          "reviewBody": "Last night's dinner and we thoroughly enjoyed it. Our salmon fillets only took 12 mins to be perfectly cooked and we look forward to leftovers!",
+          "datePublished": "2023-04-15T17:59:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MM Stewart"
+          },
+          "reviewBody": "Made this on a particularly warm night and not wanting to put on the oven, made it all in a rice cooker. Same amount of rice/dill, sauce that the recipe calls for but only 2 6 oz. salmon portions. I added the fish when the cooker button switched to warm mode for about 8-10 minute and was perfect!",
+          "datePublished": "2024-06-29T13:03:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan Peterson"
+          },
+          "reviewBody": "Easy to throw together and it's very tasty. Made it just as the recipe called for with Jasmati rice since that's what was in my cupboard.",
+          "datePublished": "2023-04-15T00:31:49.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1023910-baked-salmon-and-dill-rice",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Naz Deravian"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "Fragrant dill rice is a natural accompaniment to salmon, and a complete meal of the two is made easy here by baking them together in one dish. Add fresh or dried dill to basmati rice, which is eventually topped with salmon covered in a tangy, sweet and spicy paste of mayo, lemon zest, honey and dried chile flakes. To ensure the rice is perfectly fluffy without overcooking the fish, the grains are baked until most of the water is absorbed before the salmon is added over the top.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Baked Salmon and Dill Rice",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/151f1d2b-aba3-5415-a785-9d2a2f16e173#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/04/12/multimedia/nd-baked-salmon-and-dill-rice-vzkq/nd-baked-salmon-and-dill-rice-vzkq-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2023-12-05T15:48:54.826Z",
+          "datePublished": "2023-04-12T18:06:56.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-04-12T18:06:56.000Z",
+          "url": "https://static01.nyt.com/images/2023/04/12/multimedia/nd-baked-salmon-and-dill-rice-vzkq/nd-baked-salmon-and-dill-rice-vzkq-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/151f1d2b-aba3-5415-a785-9d2a2f16e173#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/04/12/multimedia/nd-baked-salmon-and-dill-rice-vzkq/nd-baked-salmon-and-dill-rice-vzkq-superJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2023-12-05T15:48:54.826Z",
+          "datePublished": "2023-04-12T18:06:56.000Z",
+          "height": "1366",
+          "representativeOfPage": true,
+          "uploadDate": "2023-04-12T18:06:56.000Z",
+          "url": "https://static01.nyt.com/images/2023/04/12/multimedia/nd-baked-salmon-and-dill-rice-vzkq/nd-baked-salmon-and-dill-rice-vzkq-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/151f1d2b-aba3-5415-a785-9d2a2f16e173#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/04/12/multimedia/nd-baked-salmon-and-dill-rice-vzkq/nd-baked-salmon-and-dill-rice-vzkq-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2023-12-05T15:48:54.826Z",
+          "datePublished": "2023-04-12T18:06:56.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-04-12T18:06:56.000Z",
+          "url": "https://static01.nyt.com/images/2023/04/12/multimedia/nd-baked-salmon-and-dill-rice-vzkq/nd-baked-salmon-and-dill-rice-vzkq-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023910-baked-salmon-and-dill-rice"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:10:14.271Z",
+  "scraping_status": "scraped"
+}

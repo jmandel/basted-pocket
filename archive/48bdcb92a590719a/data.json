@@ -1,0 +1,926 @@
+{
+  "id": "48bdcb92a590719a",
+  "original_url": "https://www.maangchi.com/recipe/sukju-namul",
+  "canonical_url": "https://www.maangchi.com/recipe/sukju-namul",
+  "fetched_title": "Mung bean sprouts recipe by Maangchi",
+  "main_text_content": "I&#039;m pretty excited to release this video! A couple years ago I made a video on how to grow your own soybean sprouts, and since then I&#039;ve been experimenting with growing my own...",
+  "main_html_content": "<h1 class=\"entry-title mega-heading\">Mung bean sprouts</h1><h2 class=\"entry-title mega-heading-translation\"><span class=\"romanized-name\">Sukju-namul</span> <span class=\"korean-name\">숙주나물</span></h2><p class=\"author vcard postedby\">By <a href=\"/about\" rel=\"author\"><span class=\"fn n nickname\">Maangchi</span></a></p><p class=\"postdate updated\">Updated on November 14th, 2023</p><div  class=\"rmp-widgets-container rmp-wp-plugin rmp-main-container js-rmp-widgets-container js-rmp-widgets-container--64582 \"  data-post-id=\"64582\"><div class=\"rmp-rating-widget js-rmp-rating-widget\"><div class=\"rmp-rating-widget__icons\"><ul class=\"rmp-rating-widget__icons-list js-rmp-rating-icons-list\"><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Not at all useful\" data-value=\"1\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Somewhat useful\" data-value=\"2\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Good recipe\" data-value=\"3\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Great recipe\" data-value=\"4\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"The besttt!!!\" data-value=\"5\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li></ul>",
+  "publication_date": "2015-10-09T23:29:17+00:00",
+  "author": "Maangchi",
+  "key_image_url": "https://i.ytimg.com/vi/-m74YYPVbWU/maxresdefault.jpg?meta=og:image",
+  "local_image_path": "scraped/48bdcb92a590719a/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "/recipe/sukju-namul#sso/recipe/64582",
+          "@context": "https://schema.org",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.maangchi.com/recipe/sukju-namul",
+          "url": "https://www.maangchi.com/recipe/sukju-namul",
+          "sameAs": [
+            "https://www.maangchi.com/?p=64582"
+          ],
+          "name": "Mung bean sprouts",
+          "description": "I&#039;m pretty excited to release this video! A couple years ago I made a video on how to grow your own soybean sprouts, and since then I&#039;ve been experimenting with growing my own mung bean sprouts. Korean cuisine uses mung bean and soybean sprouts in many dishes (like this mung bean sprout side...",
+          "aggregateRating": {
+            "@id": "/recipe/sukju-namul#sso/recipe/64582/rating-aggregate/5/412/1/5"
+          },
+          "image": [
+            {
+              "@id": "https://i.ytimg.com/vi/-m74YYPVbWU/maxresdefault.jpg?meta=og:image#sso/image-object"
+            }
+          ],
+          "video": [
+            {
+              "@id": "https://www.youtube.com/embed/-m74YYPVbWU#sso/video-object"
+            }
+          ],
+          "publisher": [
+            {
+              "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+            }
+          ],
+          "headline": "Mung bean sprouts",
+          "keywords": "bean sprouts, 녹두나물 키우기, grow your own sprouts, home grown bean sprouts, how to grow mung bean sprouts, how to grow sprouts, 숙주나물, Korean cooking, Korean cuisine, korean food, Korean recipes, mung bean sprouts",
+          "isFamilyFriendly": true,
+          "inLanguage": "en_US",
+          "datePublished": "2015-10-09T23:29:17+00:00",
+          "dateModified": "2023-11-15T02:15:03+00:00",
+          "author": {
+            "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+          },
+          "thumbnailUrl": "https://i.ytimg.com/vi/-m74YYPVbWU/maxresdefault.jpg?meta=og:image",
+          "commentCount": 34,
+          "comment": [
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/54431"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/52750"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/51968"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/50222"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/48896"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/48892"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/47753"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/45515"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/44958"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/44957"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/44925"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/44344"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/43647"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/43597"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42557"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42481"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42455"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42431"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42423"
+            },
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42422"
+            }
+          ],
+          "recipeCuisine": "Korean",
+          "recipeCategory": "Staple",
+          "recipeIngredient": [],
+          "recipeInstructions": [
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 1
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 2
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/sukju-namul#sso/recipe/64582/rating-aggregate/5/412/1/5",
+          "@context": "https://schema.org",
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "ratingCount": 412,
+          "worstRating": 1,
+          "bestRating": 5
+        },
+        {
+          "@id": "https://i.ytimg.com/vi/-m74YYPVbWU/maxresdefault.jpg?meta=og:image#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://i.ytimg.com/vi/-m74YYPVbWU/maxresdefault.jpg?meta=og:image",
+          "alternativeHeadline": "How to grow mung bean sprouts (Sukju-namul: ìì£¼ëë¬¼)",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1280",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1280"
+        },
+        {
+          "@id": "#sso/qv-height-px-720",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "720"
+        },
+        {
+          "@id": "https://www.youtube.com/embed/-m74YYPVbWU#sso/video-object",
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "url": "https://www.youtube.com/embed/-m74YYPVbWU",
+          "name": "How to grow mung bean sprouts (Sukju-namul: ìì£¼ëë¬¼)",
+          "description": "I'm showing you how to grow 5 pounds of mung bean sprouts with 1Â½ cup of dried mung beans! Exciting!Full recipe: http://www.maangchi.com/recipe/sukju-namulMy...",
+          "embedUrl": "https://www.youtube.com/embed/-m74YYPVbWU",
+          "encodingFormat": "text/html",
+          "duration": "PT10M10S",
+          "uploadDate": "2015-10-09T22:22:00+00:00",
+          "thumbnailUrl": "https://i.ytimg.com/vi/-m74YYPVbWU/maxresdefault.jpg?meta=og:image",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ],
+          "keywords": "how to grow sprouts, mung bean sprouts, how to grow mung bean sprouts, ë¹ëëë¬¼ í¤ì°ê¸°, ìì£¼ëë¬¼, bean sprouts, Korean food, Korean cooking, Korean recipes, Korean cuisine, grow your own sprouts, home grown bean sprouts, Mung Bean (Food), Cooking (Interest), nokdu-namul, Sukjunamul, Namul (Dish)"
+        },
+        {
+          "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person",
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "url": "https://www.maangchi.com",
+          "name": "Maangchi",
+          "description": "Author archive page for Maangchi.",
+          "image": [
+            {
+              "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object"
+            }
+          ]
+        },
+        {
+          "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-1200"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "#sso/qv-height-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png",
+          "identifier": "93971-wpsso-schema-4x3",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-900"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-900",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "900"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png",
+          "identifier": "93971-wpsso-schema-16x9",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-675"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-675",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "675"
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/54431",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-54431",
+          "name": "Comment by Jang-geum on May 21, 2023",
+          "description": "Came out really good!",
+          "text": "Came out really good!",
+          "dateCreated": "2023-05-21T14:43:17-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Jang-geum"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/52750",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-52750",
+          "name": "Comment by derangedplanet@gmail.com on October 4, 2021",
+          "description": "My beans are only 1.5 days into sprouying and I&#039;m already having so much fun. I really look forward to&hellip;",
+          "text": "My beans are only 1.5 days into sprouying and I&#039;m already having so much fun. I really look forward to finding out if I love these as much as the ones I&#039;m used to ordering! If we like them I&#039;ve decided to try it on a few other bean species including soybeans based on your recommendation up above. Have you ever tried using any other beans than soy or mung?? Hoping to find some variety for my stir fries this winter!",
+          "dateCreated": "2021-10-04T07:26:42-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "derangedplanet@gmail.com"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/51968",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-51968",
+          "name": "Comment by Pickle on January 12, 2021",
+          "description": "Do you need to water it every 3 hour for the full 5 days?",
+          "text": "Do you need to water it every 3 hour for the full 5 days?",
+          "dateCreated": "2021-01-12T02:05:56-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Pickle"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/50222",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-50222",
+          "name": "Comment by Susantr on January 24, 2020",
+          "description": "It was so fun growing sprouts",
+          "text": "It was so fun growing sprouts",
+          "dateCreated": "2020-01-24T21:06:48-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Susantr"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/48896",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-48896",
+          "name": "Comment by Hanjinhee on December 31, 2018",
+          "description": "Do you have to keep replanting mung beans for each new batch? I&rsquo;m assuming yes but I wanted to make&hellip;",
+          "text": "Do you have to keep replanting mung beans for each new batch? I&rsquo;m assuming yes but I wanted to make sure. And can you replant with the already sprouted beans or do you need new beans for each batch?",
+          "dateCreated": "2018-12-31T11:15:08-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Hanjinhee"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/48892",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-48892",
+          "name": "Comment by mdybus on December 30, 2018",
+          "description": "I am currently residing in Jesup, Georgia USA. I&#039;ve been attempting to purchase bean sprouts here without success. In order&hellip;",
+          "text": "I am currently residing in Jesup, Georgia USA. I&#039;ve been attempting to purchase bean sprouts here without success. In order to alleviate my frustration I decided to grow my own. After purchasing Mung Bean seeds on Amazon while waiting for the seeds to arrive I searched for &quot;growing Mung Beans&quot; with Google. Lucky for me you are the first and only click I made with the search! :-) Thank you for the useful Expert advice. is way more than I can use so I modified, by reducing,your amount of seeds, size of the container, and color of the cloth. The color was simply because I did not have a black cloth handy and assumed the important part was to block light. Here is a photo of the end of day 4 Once again my thanks and appreciation. I live alone and the 5 pound batch .",
+          "dateCreated": "2018-12-30T23:26:49-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "mdybus"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/48893"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/48893",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-48893",
+          "name": "Reply by mdybus on December 30, 2018",
+          "description": "I could not edit to repair what went wrong in the delivery so I&#039;ll correct it here. &quot;I live alone&hellip;",
+          "text": "I could not edit to repair what went wrong in the delivery so I&#039;ll correct it here. &quot;I live alone and the 5 pound batch&quot; should lead &quot;is way more than I can use&quot; Somehow the reduced amount also disappeared I reduced the amount from 1 and 1&#039;2 cups to 1/2 cup. I was unable to post the second photo with my red cloth so here it is.",
+          "dateCreated": "2018-12-30T23:35:37-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "mdybus"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/47753",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-47753",
+          "name": "Comment by yuki_sicily on May 3, 2018",
+          "description": "Maangchi, Unni!!! Look at my sukju-namol! Every time i open the black cover on my planter I get very excited.&hellip;",
+          "text": "Maangchi, Unni!!! Look at my sukju-namol! Every time i open the black cover on my planter I get very excited. It is just so amazing to see how much it&rsquo;s multiplied. I only had a cup of mung beans in the cupboard but even then i had a great harvest. Thank you so much for sharing how to grow our own bean sprouts. I also love kungnamol but i still have to find soybeans here in Sicily. I miss all the food back in Korea but now with your videos I can make my own but not all since some ingredients are not available in our island. Kamsahamnida, Maangchi!",
+          "dateCreated": "2018-05-03T21:25:29-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "yuki_sicily"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/45515",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-45515",
+          "name": "Comment by Maangchicj on April 5, 2017",
+          "description": "Hi Maangchi! First time trying your recipe and first time poster here. My sprouts look okay except for a little&hellip;",
+          "text": "Hi Maangchi! First time trying your recipe and first time poster here. My sprouts look okay except for a little purple due to light exposure (sunny window where I watered them&quot;. But I&#039;m afraid to use them because some of the mung beans have brown spots on them. I put a few at the top of the pile in the picture . It seem to occur most with those at the top of my planter bucket. So I discarded those. Do I need to the discard everything? Is it mold or rot? Do you know how I can avoid that in the future and get the lemony yellow colored sprouts like yours ? I did place the planter next to a heating floorboard. It wasn&#039;t hot by any means but it was the warmer area of the house . Dumont beans prefer to be cooler ... like near a window ( I live in Boston so right now the windows are cool ).",
+          "dateCreated": "2017-04-05T19:01:05-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Maangchicj"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/45516"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/45516",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-45516",
+          "name": "Reply by Maangchicj on April 5, 2017",
+          "description": "Sorry for the typo : *Do you mung beans prefer to be cooler?",
+          "text": "Sorry for the typo : *Do you mung beans prefer to be cooler?",
+          "dateCreated": "2017-04-05T19:02:23-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Maangchicj"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/45519"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/45519",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-45519",
+          "name": "Reply by Maangchic on April 6, 2017",
+          "description": "Update: I threw them out. I&#039;d like to start again but with your advice before I do so. So I&#039;ll&hellip;",
+          "text": "Update: I threw them out. I&#039;d like to start again but with your advice before I do so. So I&#039;ll patiently wait for an answer and look forward to eventually making a Namul and possibly use the sprouts in a bibimbop...if I can find some gosari :-)",
+          "dateCreated": "2017-04-06T21:28:02-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Maangchic"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/45532"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/45532",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-45532",
+          "name": "Reply by Maangchi on April 9, 2017",
+          "description": "Follow the directions closely and don&#039;t put the planter in a warm spot. And also check out the beans to&hellip;",
+          "text": "Follow the directions closely and don&#039;t put the planter in a warm spot. And also check out the beans to make sure they are not too old. That&#039;s all I can think of right now.",
+          "dateCreated": "2017-04-09T14:42:56-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/45538"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/45538",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-45538",
+          "name": "Reply by Maangchic on April 10, 2017",
+          "description": "Thanks Maangchi for your suggestions. I don&#039;t think it is the bean because they have good color, organic and were&hellip;",
+          "text": "Thanks Maangchi for your suggestions. I don&#039;t think it is the bean because they have good color, organic and were taken from a bulk bin where the beans are replenish frequently. Also, they looked creamy when they first started to sprout. I bet the warmth near the baseboard was too drying for them...especially overnight. I don&#039;t wake up during the night like your mother. So the longer overnight duration between watering and the warmth probably did it. I&#039;m hoping a cooler spot will better match to my watering abilities. :-) I hope this is helpful to anyone else considering a warmer place. Nothing definitive; consider it a &#039;?&quot; at this point. I will report back after I try again.",
+          "dateCreated": "2017-04-10T03:34:48-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Maangchic"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/44958",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-44958",
+          "name": "Comment by Mw on January 4, 2017",
+          "description": "Another pic",
+          "text": "Another pic",
+          "dateCreated": "2017-01-04T04:57:21-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Mw"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/44957",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-44957",
+          "name": "Comment by Mw on January 4, 2017",
+          "description": "Hi Maangchi - Mine turned out purple. Does that mean the sprouts were exposed to sunlight? Do you think that&hellip;",
+          "text": "Hi Maangchi - Mine turned out purple. Does that mean the sprouts were exposed to sunlight? Do you think that affects the taste. The roots also seem really long. Did I wait too long to harvest? Should I discard and start a new batch? Thanks, Mw",
+          "dateCreated": "2017-01-04T04:56:33-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Mw"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/44967"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/44967",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-44967",
+          "name": "Reply by Maangchi on January 5, 2017",
+          "description": "Yes, they look a little overgrown but you still can eat them. Regarding purple color, it happens when the beans&hellip;",
+          "text": "Yes, they look a little overgrown but you still can eat them. Regarding purple color, it happens when the beans are exposed to light.",
+          "dateCreated": "2017-01-05T07:23:21-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/44925",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-44925",
+          "name": "Comment by Mw on December 31, 2016",
+          "description": "Hi - If I am unable to water at night, can I just leave a wet paper towel on top&hellip;",
+          "text": "Hi - If I am unable to water at night, can I just leave a wet paper towel on top of the beans. Will that cause mold? Thanks, Mw",
+          "dateCreated": "2016-12-31T05:06:42-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Mw"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/44344",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-44344",
+          "name": "Comment by Rashna on September 6, 2016",
+          "description": "I gave it a try and after 5 days I was giving it to every body. My thai friends were&hellip;",
+          "text": "I gave it a try and after 5 days I was giving it to every body. My thai friends were more than happy to have them. My spanish mother-in-law is now saying big NO to the canned mung bean sprouts. She has been even trying it in her own spanish recipes. Thanks to you maangchi.",
+          "dateCreated": "2016-09-06T20:18:46-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Rashna"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/43647",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-43647",
+          "name": "Comment by neetika on April 30, 2016",
+          "description": "Thanks a lot for showing how to grow sprouts. loved ur video and u are an inspiration for me. my&hellip;",
+          "text": "Thanks a lot for showing how to grow sprouts. loved ur video and u are an inspiration for me. my sprouts grow very quickly and the roots tend to turn dark with time ...how can I prevent that? is there any way by which I can get rid of the roots? and how do I increase the life of stored sprouts? too many questions....but thanks again...lots of love",
+          "dateCreated": "2016-04-30T18:11:19-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "neetika"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/43597",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-43597",
+          "name": "Comment by Madara on April 23, 2016",
+          "description": "I did it maangchi...",
+          "text": "I did it maangchi...",
+          "dateCreated": "2016-04-23T14:44:41-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Madara"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/43602"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/43602",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-43602",
+          "name": "Reply by Maangchi on April 25, 2016",
+          "description": "Your bean sprouts look wonderfully well grown!",
+          "text": "Your bean sprouts look wonderfully well grown!",
+          "dateCreated": "2016-04-25T00:37:28-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42557",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-42557",
+          "name": "Comment by rocknchick on November 9, 2015",
+          "description": "Does it matter where you buy the beans? I bought a pack at the grocery store, pretty cheap. Does it&hellip;",
+          "text": "Does it matter where you buy the beans? I bought a pack at the grocery store, pretty cheap. Does it affect the quality of the sprouts? There&#039;s websites that sell beans and seeds, but why pay if it&#039;s not necessary, right?",
+          "dateCreated": "2015-11-09T18:13:42-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "rocknchick"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42481",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-42481",
+          "name": "Comment by T2 on October 26, 2015",
+          "description": "Maangchi this is my home grown beansprouts!! :D",
+          "text": "Maangchi this is my home grown beansprouts!! :D",
+          "dateCreated": "2015-10-26T15:49:49-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "T2"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42482"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42482",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-42482",
+          "name": "Reply by Maangchi on October 26, 2015",
+          "description": "yeah, plump plump! Did you cut off the roots? Please send this photo to maangchi@gmail.com I&#039;m planning to post a&hellip;",
+          "text": "yeah, plump plump! Did you cut off the roots? Please send this photo to maangchi@gmail.com I&#039;m planning to post a blog about my readers&#039; homegrown bean sprouts.",
+          "dateCreated": "2015-10-26T20:23:37-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42483"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42483",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-42483",
+          "name": "Reply by T2 on October 27, 2015",
+          "description": "yes i did cut the roots, and i almost spend 1 hour!! but the result was really worthed :D",
+          "text": "yes i did cut the roots, and i almost spend 1 hour!! but the result was really worthed :D",
+          "dateCreated": "2015-10-27T12:22:23-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "T2"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42455",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-42455",
+          "name": "Comment by ZenpunK on October 18, 2015",
+          "description": "What can I use if I don&#039;t have a mesh net?",
+          "text": "What can I use if I don&#039;t have a mesh net?",
+          "dateCreated": "2015-10-18T23:57:40-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "http://www.weirdhawaii.com",
+            "name": "ZenpunK"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/43472"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/43472",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-43472",
+          "name": "Reply by Nablial on March 28, 2016",
+          "description": "I am using cheesecloth. I think it should work",
+          "text": "I am using cheesecloth. I think it should work",
+          "dateCreated": "2016-03-28T04:44:31-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Nablial"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42431",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-42431",
+          "name": "Comment by AishaIftikhar89 on October 12, 2015",
+          "description": "Its Day 2 of my Mung bean sprouts project :). They have already sprouted on Day 1 within first 6&hellip;",
+          "text": "Its Day 2 of my Mung bean sprouts project :). They have already sprouted on Day 1 within first 6 hours. Now at Day 2, I&#039;m happy sprouts have grown a little more :)",
+          "dateCreated": "2015-10-12T08:57:39-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "AishaIftikhar89"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42432"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42432",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-42432",
+          "name": "Reply by Maangchi on October 12, 2015",
+          "description": "yay! I&#039;m so excited for you! Be sure to show me your sprouts! : )",
+          "text": "yay! I&#039;m so excited for you! Be sure to show me your sprouts! : )",
+          "dateCreated": "2015-10-12T15:28:06-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42459"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42459",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-42459",
+          "name": "Reply by AishaIftikhar89 on October 20, 2015",
+          "description": "I&#039;ve harvested my mung bean sprouts at Day 5. The pot I took was too little hehe, next time I&hellip;",
+          "text": "I&#039;ve harvested my mung bean sprouts at Day 5. The pot I took was too little hehe, next time I am going to correct my mistakes. And the TASTE?! OMG! so fresh and yummy. Love you Manngchi &lt;3 you always make me happy. :) I learn from you how joyful everyday meal prepration can be :)",
+          "dateCreated": "2015-10-20T16:25:48-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "AishaIftikhar89"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42460"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42460",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-42460",
+          "name": "Reply by Maangchi on October 20, 2015",
+          "description": "Gorgeous! It looks like a bouquet of flowers!",
+          "text": "Gorgeous! It looks like a bouquet of flowers!",
+          "dateCreated": "2015-10-20T16:52:31-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42423",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-42423",
+          "name": "Comment by AishaIftikhar89 on October 10, 2015",
+          "description": "Kamsahammida, you&#039;ve solved my problem.",
+          "text": "Kamsahammida, you&#039;ve solved my problem.",
+          "dateCreated": "2015-10-10T07:58:18-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "AishaIftikhar89"
+          }
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42422",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-42422",
+          "name": "Comment by Donnarz on October 10, 2015",
+          "description": "thanks maangchi! i&#039;ve been waiting for this. :) its my favourite. .:*",
+          "text": "thanks maangchi! i&#039;ve been waiting for this. :) its my favourite. .:*",
+          "dateCreated": "2015-10-10T02:08:27-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Donnarz"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42433"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/sukju-namul/comment-page-1#sso/comment/42433",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/sukju-namul/comment-page-1#comment-42433",
+          "name": "Reply by Maangchi on October 12, 2015",
+          "description": "If you grow them, take a photo and show them to me, please.",
+          "text": "If you grow them, take a photo and show them to me, please.",
+          "dateCreated": "2015-10-12T15:31:25-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "5",
+        "ratingCount": "412",
+        "ratingValue": "5"
+      },
+      "image": "https://www.maangchi.com/wp-content/uploads/2015/10/beansprouts-620x381.jpg",
+      "name": "Mung bean sprouts",
+      "description": "Mung bean sprouts"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:38:33.449Z",
+  "scraping_status": "scraped"
+}

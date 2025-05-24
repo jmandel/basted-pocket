@@ -1,0 +1,820 @@
+{
+  "id": "9db9c9c65c1f027e",
+  "original_url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong",
+  "canonical_url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong",
+  "fetched_title": "Sesame peanut candy (Kkae-ttangkong gangjeong) recipe by Maangchi",
+  "main_text_content": "Today I am introducing you to a delicious, sweet, crispy Korean dessert: a sesame peanut candy called kkae-ttangkong gangjeong. This is my version of a traditional Korean candy...",
+  "main_html_content": "<h1 class=\"entry-title mega-heading\">Sesame peanut candy</h1><h2 class=\"entry-title mega-heading-translation\"><span class=\"romanized-name\">Kkae-ttangkong gangjeong</span> <span class=\"korean-name\">깨땅콩 강정</span></h2><p class=\"author vcard postedby\">By <a href=\"/about\" rel=\"author\"><span class=\"fn n nickname\">Maangchi</span></a></p><p class=\"postdate updated\">Updated on June 24th, 2023</p><div  class=\"rmp-widgets-container rmp-wp-plugin rmp-main-container js-rmp-widgets-container js-rmp-widgets-container--57276 \"  data-post-id=\"57276\"><div class=\"rmp-rating-widget js-rmp-rating-widget\"><div class=\"rmp-rating-widget__icons\"><ul class=\"rmp-rating-widget__icons-list js-rmp-rating-icons-list\"><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Not at all useful\" data-value=\"1\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Somewhat useful\" data-value=\"2\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Good recipe\" data-value=\"3\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Great recipe\" data-value=\"4\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"The besttt!!!\" data-value=\"5\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li></ul>",
+  "publication_date": "2014-10-10T20:21:02+00:00",
+  "author": "Maangchi",
+  "key_image_url": "https://i.ytimg.com/vi/bOdvPiPOoks/maxresdefault.jpg?meta=og:image",
+  "local_image_path": "scraped/9db9c9c65c1f027e/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong#sso/recipe/57276",
+          "@context": "https://schema.org",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong",
+          "sameAs": [
+            "https://www.maangchi.com/?p=57276"
+          ],
+          "name": "Sesame peanut candy (Kkae-ttangkong gangjeong)",
+          "description": "Today I am introducing you to a delicious, sweet, crispy Korean dessert: a sesame peanut candy called kkae-ttangkong gangjeong. This is my version of a traditional Korean candy made with sesame seeds (called kkae-gangjeong) or peanuts (called ttangkong-gangjeong). I wanted to make these...",
+          "aggregateRating": {
+            "@id": "/recipe/kkae-ttangkong-gangjeong#sso/recipe/57276/rating-aggregate/5/219/1/5"
+          },
+          "image": [
+            {
+              "@id": "https://i.ytimg.com/vi/bOdvPiPOoks/maxresdefault.jpg?meta=og:image#sso/image-object"
+            }
+          ],
+          "video": [
+            {
+              "@id": "https://www.youtube.com/embed/bOdvPiPOoks#sso/video-object"
+            }
+          ],
+          "publisher": [
+            {
+              "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+            }
+          ],
+          "headline": "Sesame peanut candy (Kkae-ttangkong gangjeong)",
+          "keywords": "crispy sesame candy, crunchy sesame brittle recipe, 땅콩강정, 깨땅콩 강정, 깨강정, gangjeong, kangjeong, kkae-ganjeong, kkae-ttangkong-gangjeong, Korean cooking, Korean cooking website, Korean cuisine, korean food, Korean food blog, Korean food images, Korean food photos, Korean kitchen, Korean recipes, Korean sesame seed candy, Maangchi, Maangchi's recipes, no bake cookies, peanut candy, sesame brittle, sesame candy, sesame candy recipe, sesame peanut candy, sesame seed candy, sweet and crunchy sesame seed brittle, Trader Joe's freeze dried strawberries",
+          "isFamilyFriendly": true,
+          "inLanguage": "en_US",
+          "datePublished": "2014-10-10T20:21:02+00:00",
+          "dateModified": "2023-06-24T23:28:36+00:00",
+          "author": {
+            "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+          },
+          "thumbnailUrl": "https://i.ytimg.com/vi/bOdvPiPOoks/maxresdefault.jpg?meta=og:image",
+          "commentCount": 31,
+          "comment": [
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/47126"
+            },
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/46524"
+            },
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/42750"
+            },
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/42374"
+            },
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/41979"
+            },
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39674"
+            },
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39604"
+            },
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39592"
+            },
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39376"
+            },
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39369"
+            },
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39236"
+            },
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39189"
+            },
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39182"
+            },
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39168"
+            },
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39166"
+            }
+          ],
+          "recipeCuisine": "Korean",
+          "recipeCategory": "Snack",
+          "recipeIngredient": [],
+          "recipeInstructions": [
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 1
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 2
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong#sso/recipe/57276/rating-aggregate/5/219/1/5",
+          "@context": "https://schema.org",
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "ratingCount": 219,
+          "worstRating": 1,
+          "bestRating": 5
+        },
+        {
+          "@id": "https://i.ytimg.com/vi/bOdvPiPOoks/maxresdefault.jpg?meta=og:image#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://i.ytimg.com/vi/bOdvPiPOoks/maxresdefault.jpg?meta=og:image",
+          "alternativeHeadline": "Sesame Seed Candy (ê¹¨ê°ì )",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1280",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1280"
+        },
+        {
+          "@id": "#sso/qv-height-px-720",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "720"
+        },
+        {
+          "@id": "https://www.youtube.com/embed/bOdvPiPOoks#sso/video-object",
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "url": "https://www.youtube.com/embed/bOdvPiPOoks",
+          "name": "Sesame Seed Candy (ê¹¨ê°ì )",
+          "description": "http://www.maangchi.com/recipe/kkae-ttangkong-ganjeongA sweet Korean dessert: a sesame peanut candy called kkae-ttangkong gangjeong! It's sweet, crispy, ligh...",
+          "embedUrl": "https://www.youtube.com/embed/bOdvPiPOoks",
+          "encodingFormat": "text/html",
+          "duration": "PT8M47S",
+          "uploadDate": "2014-10-10T20:05:00+00:00",
+          "thumbnailUrl": "https://i.ytimg.com/vi/bOdvPiPOoks/maxresdefault.jpg?meta=og:image",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ],
+          "keywords": "sesame candy, peanut candy, kkae-ganjeong, gangjeong, kkae-ttangkong-gangjeong, kangjeong, sesame seed candy, Korean sesame seed candy, sesame brittle, sesame candy recipe, sesame peanut candy, crispy sesame candy, crunchy sesame brittle recipe, sweet and crunchy sesame seed brittle, ê¹¨ê°ì , ëì½©ê°ì , ê¹¨ëì½© ê°ì , Korean food, Korean cooking, Korean recipes, Korean cuisine, Korean kitchen, Candy (Food), Food (TV Genre), Sesame (Food)"
+        },
+        {
+          "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person",
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "url": "https://www.maangchi.com",
+          "name": "Maangchi",
+          "description": "Author archive page for Maangchi.",
+          "image": [
+            {
+              "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object"
+            }
+          ]
+        },
+        {
+          "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-1200"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "#sso/qv-height-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png",
+          "identifier": "93971-wpsso-schema-4x3",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-900"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-900",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "900"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png",
+          "identifier": "93971-wpsso-schema-16x9",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-675"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-675",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "675"
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/47126",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-47126",
+          "name": "Comment by ThePickle on January 28, 2018",
+          "description": "Made this today, came out great and granddaughter said &ldquo;it&rsquo;s the best candy ever!&rdquo;..So thanks Maangchi, for helping me make&hellip;",
+          "text": "Made this today, came out great and granddaughter said &ldquo;it&rsquo;s the best candy ever!&rdquo;..So thanks Maangchi, for helping me make my granddaughter smile!!",
+          "dateCreated": "2018-01-28T01:08:35-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "ThePickle"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/47127"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/47127",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-47127",
+          "name": "Reply by Maangchi on January 28, 2018",
+          "description": "I&#039;m so happy to hear that your granddaughter loves your sesame candy! You are such a great grandma! The strawberries&hellip;",
+          "text": "I&#039;m so happy to hear that your granddaughter loves your sesame candy! You are such a great grandma! The strawberries look like rose petals! Your granddaughter will never forget this sesame, strawberry-inlaid candy for the rest of her life!",
+          "dateCreated": "2018-01-28T02:12:06-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/47128"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/47128",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-47128",
+          "name": "Reply by ThePickle on January 28, 2018",
+          "description": "Actually I like to think I&rsquo;m a great Grandpa...lol...thanks Maangchi!",
+          "text": "Actually I like to think I&rsquo;m a great Grandpa...lol...thanks Maangchi!",
+          "dateCreated": "2018-01-28T02:14:50-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "ThePickle"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/47350"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/47350",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-47350",
+          "name": "Reply by Maangchi on February 25, 2018",
+          "description": "I forgot to reply even though I read your comment a while ago! Yes, what made me assume you are&hellip;",
+          "text": "I forgot to reply even though I read your comment a while ago! Yes, what made me assume you are a grandmother! : ) Your way of answering is so cool!",
+          "dateCreated": "2018-02-25T13:48:10-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/46524",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-46524",
+          "name": "Comment by Vey on September 23, 2017",
+          "description": "i made it, thanx for recipe..",
+          "text": "i made it, thanx for recipe..",
+          "dateCreated": "2017-09-23T01:45:37-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Vey"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/46529"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/46529",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-46529",
+          "name": "Reply by Maangchi on September 23, 2017",
+          "description": "It looks so pretty and delicious! Congratulations!",
+          "text": "It looks so pretty and delicious! Congratulations!",
+          "dateCreated": "2017-09-23T16:35:24-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/42750",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-42750",
+          "name": "Comment by Fany on December 10, 2015",
+          "description": "Hi Maangchi! I&rsquo;m from Poland and I love your recepies And I&rsquo;ve just made this candy. It&rsquo;s so delicious",
+          "text": "Hi Maangchi! I&rsquo;m from Poland and I love your recepies And I&rsquo;ve just made this candy. It&rsquo;s so delicious",
+          "dateCreated": "2015-12-10T17:52:41-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Fany"
+          }
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/42374",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-42374",
+          "name": "Comment by Norskanza on September 24, 2015",
+          "description": "We made a batch of this tonight for a late-night study group, but instead of working in freeze-dried fruit, we&hellip;",
+          "text": "We made a batch of this tonight for a late-night study group, but instead of working in freeze-dried fruit, we just made the sesame seed/peanut candy, put some sliced fresh fruit into bowls and let people top off their candy with whatever they wanted (kind of like putting cheese on a cracker ;) It was sticky cleanup, but a big hit! I&#039;m sure we&#039;ll be making this again. We might work in some sunflower seeds and chocolate chips this next time too. We could never get the sugar mixture to string though - we made ours with honey instead of the syrup, so that might be why. Still turned out delicious - that&#039;s what counts!",
+          "dateCreated": "2015-09-24T09:51:17-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Norskanza"
+          }
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/41979",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-41979",
+          "name": "Comment by theochagirl on July 31, 2015",
+          "description": "I made these the other day as a sweet treat for my family. Sesame seeds and peanuts are fantastic ingredients&hellip;",
+          "text": "I made these the other day as a sweet treat for my family. Sesame seeds and peanuts are fantastic ingredients for sweets as they contain protein, vitamins, calcium and other minerals. I couldn&#039;t find freeze dried strawberries or raspberries where I live so I used raisins instead, but they are still delicious! BTW I am going cooking through your blog and youtube recipes to learn Korean cooking and I am having so much fun doing it. I love the flavors, textures, and colours of Korean food. I am really enjoying this cooking project! :)",
+          "dateCreated": "2015-07-31T05:23:31-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "theochagirl"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/41985"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/41985",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-41985",
+          "name": "Reply by Maangchi on July 31, 2015",
+          "description": "wow, the candy looks gorgeous!",
+          "text": "wow, the candy looks gorgeous!",
+          "dateCreated": "2015-07-31T12:47:15-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39674",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39674",
+          "name": "Comment by radhika_naik on December 25, 2014",
+          "description": "Hi Maangchi, Greetings from India! I&#039;m just started learning about Korean food and your recipes and videos are just great&hellip;",
+          "text": "Hi Maangchi, Greetings from India! I&#039;m just started learning about Korean food and your recipes and videos are just great for that. The sesame peanut candy looks great. We have a similar dish in India called Chikki which is made with jaggery, sesame seeds and/or peanuts. Thanks! Radhika",
+          "dateCreated": "2014-12-25T06:41:44-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "radhika_naik"
+          }
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39604",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39604",
+          "name": "Comment by Rydia on December 16, 2014",
+          "description": "Hello Maangchi!! Is it ok to use black sesame seeds also? And should I toast the black seeds like the&hellip;",
+          "text": "Hello Maangchi!! Is it ok to use black sesame seeds also? And should I toast the black seeds like the white ones?",
+          "dateCreated": "2014-12-16T20:25:32-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Rydia"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39617"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39617",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39617",
+          "name": "Reply by Maangchi on December 18, 2014",
+          "description": "yes, use toasted black sesame seeds.",
+          "text": "yes, use toasted black sesame seeds.",
+          "dateCreated": "2014-12-18T13:46:44-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39592",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39592",
+          "name": "Comment by Zamramary on December 14, 2014",
+          "description": "wow thanks maangchi that was great candy i will try to make",
+          "text": "wow thanks maangchi that was great candy i will try to make",
+          "dateCreated": "2014-12-14T16:41:49-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Zamramary"
+          }
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39376",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39376",
+          "name": "Comment by Cynthia Loh on November 7, 2014",
+          "description": "Can maltose be use instead of corn syrup..?",
+          "text": "Can maltose be use instead of corn syrup..?",
+          "dateCreated": "2014-11-07T06:01:35-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Cynthia Loh"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39379"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39379",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39379",
+          "name": "Reply by Maangchi on November 7, 2014",
+          "description": "I can&#039;t guarantee it will work well. Use corn or rice syrup, please.",
+          "text": "I can&#039;t guarantee it will work well. Use corn or rice syrup, please.",
+          "dateCreated": "2014-11-07T16:26:06-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39369",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39369",
+          "name": "Comment by afan on November 6, 2014",
+          "description": "you are as sweet as your candy!!!!!!",
+          "text": "you are as sweet as your candy!!!!!!",
+          "dateCreated": "2014-11-06T13:53:54-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "afan"
+          }
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39236",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39236",
+          "name": "Comment by kidarida on October 22, 2014",
+          "description": "this is the photo of the gangjeong I just made! I substituted honey for syrup because I forgot the word&hellip;",
+          "text": "this is the photo of the gangjeong I just made! I substituted honey for syrup because I forgot the word for the right syrup and failed to ask correctly at the store, but! It worked well, I think. It&#039;s cooling now but I had alll the leftover candy sticking to the bowl",
+          "dateCreated": "2014-10-22T11:52:21-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "http://edofnec.blogspot.com",
+            "name": "kidarida"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39248"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39248",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39248",
+          "name": "Reply by Maangchi on October 22, 2014",
+          "description": "Thanks for letting me know! Your candy looks very crunchy!",
+          "text": "Thanks for letting me know! Your candy looks very crunchy!",
+          "dateCreated": "2014-10-22T23:10:50-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39189",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39189",
+          "name": "Comment by JaclynJordanF on October 14, 2014",
+          "description": "No matter what you make, your food always looks so pretty and delicious! Maangchi I feel like you made this&hellip;",
+          "text": "No matter what you make, your food always looks so pretty and delicious! Maangchi I feel like you made this recipe just for me, lol! I absolutely love sesame seed candy and freeze dried strawberries! Sounds like a wonderful combo! Can&#039;t wait to try!",
+          "dateCreated": "2014-10-14T16:08:01-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "JaclynJordanF"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39196"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39196",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39196",
+          "name": "Reply by Maangchi on October 14, 2014",
+          "description": "Thanks! Good luck with making yummy sesame candy!",
+          "text": "Thanks! Good luck with making yummy sesame candy!",
+          "dateCreated": "2014-10-14T23:48:00-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39182",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39182",
+          "name": "Comment by VictoriaNg on October 13, 2014",
+          "description": "Maangchi, I made this last night and I frozen raspberries and strawberries started to thaw and leak after I&#039;ve rolled&hellip;",
+          "text": "Maangchi, I made this last night and I frozen raspberries and strawberries started to thaw and leak after I&#039;ve rolled them with the rolling pin. Is that normal?",
+          "dateCreated": "2014-10-13T22:06:40-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "VictoriaNg"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39183"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39183",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39183",
+          "name": "Reply by Maangchi on October 13, 2014",
+          "description": "You need to use freeze dried fruit or dried fruit instead of frozen fruit. Freeze dried fruit doesn&#039;t contain any&hellip;",
+          "text": "You need to use freeze dried fruit or dried fruit instead of frozen fruit. Freeze dried fruit doesn&#039;t contain any water.http://media.maangchi.com/wp-content/uploads/2014/10/freeze-dried-fruits.jpg",
+          "dateCreated": "2014-10-13T22:27:03-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39191"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39191",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39191",
+          "name": "Reply by VictoriaNg on October 14, 2014",
+          "description": "Maangchi, I tried making it again, this time using freeze dried strawberries and it worked! I gave some to my&hellip;",
+          "text": "Maangchi, I tried making it again, this time using freeze dried strawberries and it worked! I gave some to my friends as a present as they just got married. Thank you for the recipe! :) Now, I just need a recipe to use up my frozen strawberries and raspberries. :p",
+          "dateCreated": "2014-10-14T22:47:10-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "VictoriaNg"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39197"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39197",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39197",
+          "name": "Reply by sanne on October 15, 2014",
+          "description": "Hi VictoriaNg, &quot;Now, I just need a recipe to use up my frozen strawberries and raspberries. :p&quot; Look here: &quot;Koreans&hellip;",
+          "text": "Hi VictoriaNg, &quot;Now, I just need a recipe to use up my frozen strawberries and raspberries. :p&quot; Look here: &quot;Koreans make fruit liquor by mixing soju and fruits like strawberry, maesil (plums), grapes, and apples.&quot; Guess who wrote this ... ;-) Just mix fruit with white sugar (1/1), let them sit for 2 days and cover them with alcohol (20% strong at least; soju e. g., you may use a stronger, clear and tasteless kind and dilute it with water). Let it sit for a few weeks. Filter and bottle. Enjoy! As for the frozen raspberries: Try resetting them ... oops ... ;-D Mix them with sugar-syrup, add a pinch of vanilla and blend them, still frozen. Instant icecream! Add unflavoured yoghurt, if you like. Bye, Sanne.",
+          "dateCreated": "2014-10-15T07:41:37-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "sanne"
+          }
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39168",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39168",
+          "name": "Comment by NessaLee on October 11, 2014",
+          "description": "These look so yummy! I&#039;m going to surprise my hubby with them later this week. Thanks for the awesome recipe!!!&hellip;",
+          "text": "These look so yummy! I&#039;m going to surprise my hubby with them later this week. Thanks for the awesome recipe!!! Ps will cashews or almonds work in place of the peanuts?",
+          "dateCreated": "2014-10-11T19:52:06-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "http://nessaleekorean.blogspot.com",
+            "name": "NessaLee"
+          }
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39166",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39166",
+          "name": "Comment by ina78 on October 10, 2014",
+          "description": "Wow.....can`t wait to make it...but...if I don&#039;t have rice syrup, what kind of syrup can substitute it?",
+          "text": "Wow.....can`t wait to make it...but...if I don&#039;t have rice syrup, what kind of syrup can substitute it?",
+          "dateCreated": "2014-10-10T23:33:52-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "ina78"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39176"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/kkae-ttangkong-gangjeong/comment-page-1#sso/comment/39176",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong/comment-page-1#comment-39176",
+          "name": "Reply by Maangchi on October 13, 2014",
+          "description": "Corn syrup will work well, too.",
+          "text": "Corn syrup will work well, too.",
+          "dateCreated": "2014-10-13T16:08:39-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "5",
+        "ratingCount": "219",
+        "ratingValue": "5"
+      },
+      "image": "https://www.maangchi.com/wp-content/uploads/2014/10/Sesame-candy_gift-620x467.jpg",
+      "name": "Sesame peanut candy (Kkae-ttangkong gangjeong)",
+      "description": "Sesame peanut candy (Kkae-ttangkong gangjeong)"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:37:38.493Z",
+  "scraping_status": "scraped"
+}

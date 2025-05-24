@@ -1,0 +1,566 @@
+{
+  "id": "c82ff50983ae57b4",
+  "original_url": "https://cooking.nytimes.com/recipes/1021286-one-pan-crispy-spaghetti-and-chicken",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021286-one-pan-crispy-spaghetti-and-chicken",
+  "fetched_title": "One-Pan Crispy Spaghetti and Chicken Recipe",
+  "main_text_content": "This dish has won the hearts of adults and children alike, and for good reason: It’s easy to prepare, fun to eat and doesn’t call upon any hard-to-source ingredients Cooking the spaghetti in this way lends plenty of texture, allowing for crispier bits at the edges and softer bits throughout Feel free to make this dish your own by using up any soft herbs or hard cheeses you have on hand, or sprucing it up further with the addition of spice (cumin would work great here)",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025169-baked-cheesy-chicken-and-mushroom-pasta\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2024/03/26/multimedia/VCT-baked-cheesy-mushroom-pasta-fgmc/VCT-baked-cheesy-mushroom-pasta-fgmc-mediumThreeByTwo440-v3.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2024/03/26/multimedia/VCT-baked-cheesy-mushroom-pasta-fgmc/VCT-baked-cheesy-mushroom-pasta-fgmc-blogSmallInline-v3.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/03/26/multimedia/VCT-baked-cheesy-mushroom-pasta-fgmc/VCT-baked-cheesy-mushroom-pasta-fgmc-mediumThreeByTwo210-v3.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/03/26/multimedia/VCT-baked-cheesy-mushroom-pasta-fgmc/VCT-baked-cheesy-mushroom-pasta-fgmc-mediumThreeByTwo252-v3.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/03/26/multimedia/VCT-baked-cheesy-mushroom-pasta-fgmc/VCT-baked-cheesy-mushroom-pasta-fgmc-videoSixteenByNine310-v3.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/03/26/multimedia/VCT-baked-cheesy-mushroom-pasta-fgmc/VCT-baked-cheesy-mushroom-pasta-fgmc-largeHorizontal375-v3.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/03/26/multimedia/VCT-baked-cheesy-mushroom-pasta-fgmc/VCT-baked-cheesy-mushroom-pasta-fgmc-mediumThreeByTwo378-v3.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/03/26/multimedia/VCT-baked-cheesy-mushroom-pasta-fgmc/VCT-baked-cheesy-mushroom-pasta-fgmc-mediumThreeByTwo440-v3.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Baked Cheesy Chicken and Mushroom Pasta</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Vivian Chan-Tam</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2020/08/26/dining/21ottorex/merlin_175804251_49041ab3-5aac-47ce-b01b-32868a3aba81-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/c82ff50983ae57b4/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/35c8405b-6e4e-59de-9456-dbc4d90604bb",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021286-one-pan-crispy-spaghetti-and-chicken",
+        "@type": "WebPage",
+        "name": "One-Pan Crispy Spaghetti and Chicken"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021286-one-pan-crispy-spaghetti-and-chicken",
+      "name": "One-Pan Crispy Spaghetti and Chicken",
+      "description": "This dish has won the hearts of adults and children alike, and for good reason: It’s easy to prepare, fun to eat and doesn’t call upon any hard-to-source ingredients. Cooking the spaghetti in this way lends plenty of texture, allowing for crispier bits at the edges and softer bits throughout. Feel free to make this dish your own by using up any soft herbs or hard cheeses you have on hand, or sprucing it up further with the addition of spice (cumin would work great here). Serve with some lightly cooked greens for a complete meal.",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/07703c43-f662-5eb7-967e-63b5cc671ca4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/08/26/dining/21ottorex/merlin_175804251_49041ab3-5aac-47ce-b01b-32868a3aba81-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-08-21T15:37:41.782Z",
+          "datePublished": "2020-08-21T15:37:41.782Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-08-21T15:37:41.782Z",
+          "url": "https://static01.nyt.com/images/2020/08/26/dining/21ottorex/merlin_175804251_49041ab3-5aac-47ce-b01b-32868a3aba81-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/07703c43-f662-5eb7-967e-63b5cc671ca4#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/08/26/dining/21ottorex/merlin_175804251_49041ab3-5aac-47ce-b01b-32868a3aba81-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-08-21T15:37:41.782Z",
+          "datePublished": "2020-08-21T15:37:41.782Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2020-08-21T15:37:41.782Z",
+          "url": "https://static01.nyt.com/images/2020/08/26/dining/21ottorex/merlin_175804251_49041ab3-5aac-47ce-b01b-32868a3aba81-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/07703c43-f662-5eb7-967e-63b5cc671ca4#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/08/26/dining/21ottorex/merlin_175804251_49041ab3-5aac-47ce-b01b-32868a3aba81-mediumSquareAt3X.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-08-21T15:37:41.782Z",
+          "datePublished": "2020-08-21T15:37:41.782Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2020-08-21T15:37:41.782Z",
+          "url": "https://static01.nyt.com/images/2020/08/26/dining/21ottorex/merlin_175804251_49041ab3-5aac-47ce-b01b-32868a3aba81-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT1H",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, casseroles, one pot, pastas, poultry, main course",
+      "keywords": "chicken thigh, kid-friendly, parmesan, parsley, spaghetti, thyme, tomato paste",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 2248
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 877,
+        "unsaturatedFatContent": "32 grams",
+        "carbohydrateContent": "55 grams",
+        "cholesterolContent": null,
+        "fatContent": "49 grams",
+        "fiberContent": "4 grams",
+        "proteinContent": "51 grams",
+        "saturatedFatContent": "13 grams",
+        "sodiumContent": "1191 milligrams",
+        "sugarContent": "6 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 tablespoons olive oil",
+        "2 1/2 pounds/1 kilogram bone-in, skin-on chicken thighs (4 to 6 thighs), deboned",
+        "Kosher salt and black pepper",
+        "1 large yellow onion (about 8 ounces/220 grams), cut into 1/2-inch/1-centimeter dice",
+        "3 tablespoons tomato paste",
+        "3 garlic cloves, finely chopped",
+        "2 tablespoons fresh thyme leaves",
+        "2 cups/480 milliliters boiling water",
+        "8 ounces/230 grams spaghetti, broken into thirds",
+        "1/3 lightly packed cup finely grated Parmesan (about 3/4 ounce/20 grams)",
+        "3 tablespoons/20 grams fresh bread crumbs",
+        "1/2 cup/10 grams finely chopped fresh parsley",
+        "1 1/2 teaspoons freshly grated lemon zest"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 425 degrees Fahrenheit/220 degrees Celsius."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add 1 tablespoon oil to a large, ovenproof lidded skillet and heat over high. Season the chicken with 3/4 teaspoon salt and 1/2 teaspoon pepper, then add to the hot oil, skin-side down. Cook for 7 minutes, without turning, to brown well."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Turn the heat down to medium-high, then stir in the onion and turn over the chicken. Cook for 5 minutes, until the onion has softened and is lightly browned. Add the tomato paste, garlic and 1 tablespoon thyme, and cook, stirring the paste into the onions, for 2 minutes, until fragrant and everything is nicely browned."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the boiling water, 1/2 teaspoon salt and 1/4 teaspoon pepper, then add the spaghetti, stirring to submerge and evenly distribute. Use tongs to lift the chicken pieces so they sit on top of the spaghetti, skin-side up. Bring to a simmer, cover with a lid and transfer to the oven for 30 minutes, until the liquid is absorbed."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the pasta is in the oven, in a small bowl, mix together the Parmesan, bread crumbs, parsley, lemon zest and remaining 1 tablespoon thyme."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "After the pasta has baked for 30 minutes, remove it from the oven and reset the temperature to a high broil (grill) setting. Sprinkle the Parmesan bread crumbs over the pasta and chicken, drizzle with the remaining oil and return to the center rack to broil (grill) for 3 to 4 minutes, until nicely browned and crisp. Leave to settle for about 5 minutes before serving warm, directly from the pan."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2020-08-21T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dana"
+          },
+          "reviewBody": "At the end of step 3., remove the chicken to a plate.  In step 4., add the chicken after the spaghetti is added.",
+          "datePublished": "2025-04-02T23:40:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kevin Clary"
+          },
+          "reviewBody": "Made this for the fam tonight and it instantly became a favorite. Amazing!",
+          "datePublished": "2025-01-20T00:54:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "momterrific"
+          },
+          "reviewBody": "I found this particularly unappealing. I would rather eat a good dish of beans or a good spaghetti dish without the chicken. Sometimes combining doesn’t work, at least not forr me.",
+          "datePublished": "2024-12-28T14:59:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rachel"
+          },
+          "reviewBody": "This has become one of my favourite things to cook, I've made it at least ten times since trying it. I use boneless, skinless thighs (as that's all my local shop stocks) and I prefer using linguine for a slightly thicker noodle. It's incredibly flexible in terms of herbs and spices too, I often use whatever fresh herbs I have on hand, sometimes even adding a bit of chili.",
+          "datePublished": "2024-12-01T03:52:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy"
+          },
+          "reviewBody": "Odd choice for sunny warm summer day - but didn’t feel like grilling outside.  Definitely a winter warmer!  Browned both sides of thighs first and removed from\nSkillet.  Followed steps from onion, etc.,  added red pepper flakes liberally, extra tomato paste, and used chicken broth.  Simmered on stove top and did not use oven (summer mode).  Very good.  Chicken was moist and flavorful.  Would recommend.",
+          "datePublished": "2024-08-11T19:54:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Momof3"
+          },
+          "reviewBody": "This was very good and much easier and faster than other recipes I’ve tried by this chef. I followed other commenters’ suggestions to remove the chicken before sautéing the onions. My only suggestion if I make it again would be to up the spices. I added more garlic as well as some red pepper flakes but it also needed more salt & pepper. I also upped the tomato paste and threw in some turmeric to make it more like Persian spaghetti. Basically successful!",
+          "datePublished": "2024-07-19T00:26:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Moose"
+          },
+          "reviewBody": "If I follow the directions as written, I have a problem with all of the water being absorbed and the spaghetti becoming crispy. My cooking time is 30-35 minutes, covered. Would uncovered for 1/2 of the cook time work?\n\nI found the thighs overcooked, so I now brown them on the skin side, only, and do not brown them on the other. I remove them from the pan until the spaghetti goes in and then replace the chicken skin side up. They cook through perfectly and are moist and delicious.",
+          "datePublished": "2024-07-14T19:45:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suzanne"
+          },
+          "reviewBody": "this dish is crazy tasty! My husband asks for it time after time. the first time I made it I disagreed with adding the onions, tomato paste, etc. with the chicken in the pan. Easy to remove the chicken while combining sauce ingredients. The only other adjustment I made was to cut the bread crumbs to 2 tablespoons- it just didn't need that much. Everything else about it comes together easily. Don't omit the lemon zest- it adds a wonderful zap of flavor.",
+          "datePublished": "2024-07-01T02:34:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam"
+          },
+          "reviewBody": "This works great with bone-in, skin-on thighs. \n\nThe savory onion/ tomato paste cooked in the chicken drippings / olive oil is the backbone of flavor - make sure this is browned well, to bring out the umami of cooked tomato paste.",
+          "datePublished": "2024-04-13T12:03:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Randy"
+          },
+          "reviewBody": "Ok. Just buy the chicken thighs with skin on and debone the chicken it is easy to do. You have to cook the chicken and then put it on a plate while you cook the onions. I use a little less water than they suggest. And I agree with the comment of returning it to the stove to crisp it up just a little bit more.",
+          "datePublished": "2024-02-17T01:09:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Krista"
+          },
+          "reviewBody": "Really good! I just used bone in skin on chicken and didn't bother deboning. I added some better than bouillon with the boiling water. Next time I think I'd throw in some red pepper flakes as well for a bit of spice.",
+          "datePublished": "2024-02-14T03:15:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "matt"
+          },
+          "reviewBody": "Definitely a great tasting dish! The notes here are important.  Crisp and brown the chicken, then remove.  Add more tomato paste than it asks for.  I also add some chilis while browning onion and garlic. Also using chicken stock instead of water is a pretty nice sub.",
+          "datePublished": "2024-01-27T22:31:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "I made this with skin-on BONE-IN thighs and left the bone. The recipe still turned out great and the thighs were above the necessary temp (actually got to 180F) following the recipe as written, and they were not dry. This is a fancy pasta bake for when I need the ease of a one pot meal but also something a little more special.",
+          "datePublished": "2024-01-24T18:53:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Matt"
+          },
+          "reviewBody": "This was  disappointing. I made the recipe according to the instructions, and it was rather bland and lacking in flavor. I think it could be improved but, while I thoroughly like dishes in which you have a lot of liquid and something like rice to absorb it, this recipe made me realize, once and for all, that I don’t like to cook pasta this way. The recipe is bland, lacking in a bit of brightness, and I will not make it again.",
+          "datePublished": "2024-01-19T04:08:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Catherine"
+          },
+          "reviewBody": "I am late to the party but this is delicious and so easy.",
+          "datePublished": "2024-01-06T23:29:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "rachel"
+          },
+          "reviewBody": "Not sure I understand the bone in thighs, deboned. Can I just get boneless thighs with skin on?",
+          "datePublished": "2020-08-23T14:17:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "William"
+          },
+          "reviewBody": "Could you use a LeCreuset dutch oven instead of an oven-safe skillet?",
+          "datePublished": "2020-08-22T15:02:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kevin Osinski"
+          },
+          "reviewBody": "Seems like it might be easier to brown the chicken on both sides in step 2 and remove it before moving on to step 3. I can picture having a hard time stirring the onions with the tomato paste with a bunch of chicken thighs in the pan. Return the chicken to the pan after you've added the pasta in step 4.",
+          "datePublished": "2020-08-23T05:44:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Avril"
+          },
+          "reviewBody": "I made this with bone-in thighs as the boneless thighs at my store did not have skin and the skin is important to making the chicken crispy and delicious. One thing I don’t understand is why he leaves the chicken in the pan while cooking the onion. The pan is way too crowded, so I removed the chicken after browning the thighs, just like you would in any braising recipe. After I added the pasta I put the thighs back in with the juices from the plate. Same cooking time in the oven; delicious￼.",
+          "datePublished": "2020-08-25T09:43:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "theresa"
+          },
+          "reviewBody": "For a vegetarian version you could substitute cauliflower for the chicken.",
+          "datePublished": "2020-08-23T13:15:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CL"
+          },
+          "reviewBody": "It's pretty rare to see boneless thighs in most grocery stores with the skin still on. Unless you have an accommodating butcher, usually you can only get bone-in skin-on or boneless skinless thighs (or any chicken parts for that matter).\n\nThankfully it's not too hard to debone. Here's a helpful video: <a href=\"https://www.youtube.com/watch?v=xG2nMUoD8y8\" target=\"_blank\">https://www.youtube.com/watch?v=xG2nMUoD8y8</a>",
+          "datePublished": "2020-08-23T16:49:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SusanH"
+          },
+          "reviewBody": "The problem would be the browning under the broiler at the very end. The dutch oven would be so deep that the food in it wouldn't be near enough the flame.",
+          "datePublished": "2020-08-23T23:04:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NA"
+          },
+          "reviewBody": "This was delicious.  However, I saw no reason to leave the chicken in the pan while browning the onions, garlic, tomato paste, etc. So I removed the thighs after browning, added the other ingredients, and then put the chicken on top of the pasta before popping the pan in the oven.",
+          "datePublished": "2020-08-26T21:49:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Justin"
+          },
+          "reviewBody": "This was tasty and who doesn't like the simplicity of one-pan dishes?\n\nI pulled mine from the oven when the top was nicely browned, but the pasta below wasn't crispy. Still good, but if you're looking for crispiness, you might want to check after the broiling step, and if it's not to your liking, return it to the stove for a bit to crisp up the bottom.",
+          "datePublished": "2020-08-21T23:56:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AM in Dallas"
+          },
+          "reviewBody": "Every week I try new recipes and often from NY  Times .  This one is one my husband begs for when he wants \"comfort food\".  My 2 additions are 2-4 tablespoons additional water and a pinch of red pepper flakes added with the tomato paste.\nThis  is very tasty.  I often don't have fresh bread crumbs, so I use panko crumbs, mix it with the parsley, thyme and grated lemon, then add some olive oil to moisten.  Then I don't have to drizzle oil before broiling.\nGreat leftovers for my lunch the next day.",
+          "datePublished": "2020-10-29T20:39:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jim Siler"
+          },
+          "reviewBody": "The fact that the spaghetti is broken into thirds may take most of the curse off of it.  There is something special about spaghetti that is pan fried as here, or oven baked as in a spaghetti frittata.  The ends and bends that catch the direct heat get crunchy and chewie, blending with the al dente smoothness in a way that I doubt would be replicated well with smaller or chunkier pasta.\n\nThat said, if spaghetti is just a bridge too far, either of your alternatives should work.",
+          "datePublished": "2020-08-22T11:28:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "amazing"
+          },
+          "reviewBody": "This was absolutely amazing!\nI did not deboned the chicken and have no complaints.\nI also used grated Parmesan, fettuccine and seasoned bread crumbs ! \nWill make it again for sure.",
+          "datePublished": "2020-08-25T03:41:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Matt"
+          },
+          "reviewBody": "Use lots of extra tomato paste and cumin. As much extra garlic as your heart desires, and of course extra parm. And, use panko instead of the fresh breadcrumbs: shelf-stable, available everywhere, and it amps up the crunch perfectly.",
+          "datePublished": "2021-02-28T19:02:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tracy"
+          },
+          "reviewBody": "usually deboned thighs are also skinless.",
+          "datePublished": "2020-08-23T18:15:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tim Donahue"
+          },
+          "reviewBody": "Edible.   Won't make again.\n\nActually, when I read the recipe it reminded me of recipes from a woman's magazine in the 1960s.  But it was in the NY Times, it was created by YOTAM OTTOLENGHI, so I was fascinated by what it might be and cooked it.  Blah, that's what it is.",
+          "datePublished": "2020-08-28T15:17:07.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021286-one-pan-crispy-spaghetti-and-chicken",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020,
+      "description": "This dish has won the hearts of adults and children alike, and for good reason: It’s easy to prepare, fun to eat and doesn’t call upon any hard-to-source ingredients. Cooking the spaghetti in this way lends plenty of texture, allowing for crispier bits at the edges and softer bits throughout. Feel free to make this dish your own by using up any soft herbs or hard cheeses you have on hand, or sprucing it up further with the addition of spice (cumin would work great here). Serve with some lightly cooked greens for a complete meal.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "One-Pan Crispy Spaghetti and Chicken",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/07703c43-f662-5eb7-967e-63b5cc671ca4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/08/26/dining/21ottorex/merlin_175804251_49041ab3-5aac-47ce-b01b-32868a3aba81-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-08-21T15:37:41.782Z",
+          "datePublished": "2020-08-21T15:37:41.782Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2020-08-21T15:37:41.782Z",
+          "url": "https://static01.nyt.com/images/2020/08/26/dining/21ottorex/merlin_175804251_49041ab3-5aac-47ce-b01b-32868a3aba81-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/07703c43-f662-5eb7-967e-63b5cc671ca4#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/08/26/dining/21ottorex/merlin_175804251_49041ab3-5aac-47ce-b01b-32868a3aba81-superJumbo.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-08-21T15:37:41.782Z",
+          "datePublished": "2020-08-21T15:37:41.782Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2020-08-21T15:37:41.782Z",
+          "url": "https://static01.nyt.com/images/2020/08/26/dining/21ottorex/merlin_175804251_49041ab3-5aac-47ce-b01b-32868a3aba81-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/07703c43-f662-5eb7-967e-63b5cc671ca4#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/08/26/dining/21ottorex/merlin_175804251_49041ab3-5aac-47ce-b01b-32868a3aba81-mediumSquareAt3X.jpg",
+          "creditText": "Andrew Scrivani for The New York Times",
+          "dateModified": "2020-08-21T15:37:41.782Z",
+          "datePublished": "2020-08-21T15:37:41.782Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2020-08-21T15:37:41.782Z",
+          "url": "https://static01.nyt.com/images/2020/08/26/dining/21ottorex/merlin_175804251_49041ab3-5aac-47ce-b01b-32868a3aba81-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021286-one-pan-crispy-spaghetti-and-chicken"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:36:35.481Z",
+  "scraping_status": "scraped"
+}

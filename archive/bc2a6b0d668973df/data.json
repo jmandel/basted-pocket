@@ -1,0 +1,658 @@
+{
+  "id": "bc2a6b0d668973df",
+  "original_url": "https://www.maangchi.com/recipe/jjolmyeon",
+  "canonical_url": "https://www.maangchi.com/recipe/jjolmyeon",
+  "fetched_title": "Spicy, chewy, sweet &#038; sour cold noodles (Jjolmyeon: 쫄면) recipe by Maangchi",
+  "main_text_content": "2 brands of jjolmyeon noodles, sold without broth I prefer to buy the just the noodles and then make my own seasoning sauce at home, which is more delicious and cheaper. If...",
+  "main_html_content": "<h1 class=\"entry-title mega-heading\">Spicy, chewy, sweet & sour cold noodles</h1><h2 class=\"entry-title mega-heading-translation\"><span class=\"romanized-name\">Jjolmyeon</span> <span class=\"korean-name\">쫄면</span></h2><p class=\"author vcard postedby\">By <a href=\"/about\" rel=\"author\"><span class=\"fn n nickname\">Maangchi</span></a></p><p class=\"postdate updated\">Updated on January 10th, 2023</p><div  class=\"rmp-widgets-container rmp-wp-plugin rmp-main-container js-rmp-widgets-container js-rmp-widgets-container--73321 \"  data-post-id=\"73321\"><div class=\"rmp-rating-widget js-rmp-rating-widget\"><div class=\"rmp-rating-widget__icons\"><ul class=\"rmp-rating-widget__icons-list js-rmp-rating-icons-list\"><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Not at all useful\" data-value=\"1\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Somewhat useful\" data-value=\"2\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Good recipe\" data-value=\"3\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Great recipe\" data-value=\"4\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"The besttt!!!\" data-value=\"5\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li></ul>",
+  "publication_date": "2017-05-24T16:52:41+00:00",
+  "author": "Maangchi",
+  "key_image_url": "https://i.ytimg.com/vi/vIctJQVZ3bk/maxresdefault.jpg?meta=og:image",
+  "local_image_path": "scraped/bc2a6b0d668973df/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "/recipe/jjolmyeon#sso/recipe/73321",
+          "@context": "https://schema.org",
+          "@type": "Recipe",
+          "mainEntityOfPage": "https://www.maangchi.com/recipe/jjolmyeon",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon",
+          "sameAs": [
+            "https://www.maangchi.com/?p=73321"
+          ],
+          "name": "Spicy, chewy, sweet &amp; sour cold noodles (Jjolmyeon: 쫄면)",
+          "description": "2 brands of jjolmyeon noodles, sold without broth I prefer to buy the just the noodles and then make my own seasoning sauce at home, which is more delicious and cheaper. If you&#039;re in a hurry you can get the set with the sauce, but I suggest that when you make jjolymyoen with the kit you dress it...",
+          "aggregateRating": {
+            "@id": "/recipe/jjolmyeon#sso/recipe/73321/rating-aggregate/5/391/1/5"
+          },
+          "image": [
+            {
+              "@id": "https://i.ytimg.com/vi/vIctJQVZ3bk/maxresdefault.jpg?meta=og:image#sso/image-object"
+            }
+          ],
+          "video": [
+            {
+              "@id": "https://www.youtube.com/embed/vIctJQVZ3bk#sso/video-object"
+            }
+          ],
+          "publisher": [
+            {
+              "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+            }
+          ],
+          "headline": "Spicy, chewy, sweet &amp; sour cold noodles (Jjolmyeon: 쫄면)",
+          "keywords": "chewy noodles, how to make jjolmyeon, 쫄면, jjolmyeon, jjolmyun, jolmyeon, Korean cooking, Korean cuisine, korean food, Korean kitchen, Korean spicy chewy noodles, Maangchi's chewy noodles recipe, sweet sour spicy chewy noodles, vegetarian noodles",
+          "isFamilyFriendly": true,
+          "inLanguage": "en_US",
+          "datePublished": "2017-05-24T16:52:41+00:00",
+          "dateModified": "2023-01-11T04:26:32+00:00",
+          "author": {
+            "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+          },
+          "thumbnailUrl": "https://i.ytimg.com/vi/vIctJQVZ3bk/maxresdefault.jpg?meta=og:image",
+          "commentCount": 23,
+          "comment": [
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/54647"
+            },
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/54049"
+            },
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/52383"
+            },
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/51951"
+            },
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/49078"
+            },
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/47961"
+            },
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/47099"
+            },
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/46730"
+            },
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/46618"
+            },
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/46083"
+            },
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/45815"
+            },
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/45811"
+            }
+          ],
+          "recipeCuisine": "Korean",
+          "recipeCategory": "Main dish",
+          "recipeIngredient": [],
+          "recipeInstructions": [
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 1
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 2
+            },
+            {
+              "@context": "https://schema.org",
+              "@type": "HowToStep",
+              "position": 3
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjolmyeon#sso/recipe/73321/rating-aggregate/5/391/1/5",
+          "@context": "https://schema.org",
+          "@type": "AggregateRating",
+          "ratingValue": 5,
+          "ratingCount": 391,
+          "worstRating": 1,
+          "bestRating": 5
+        },
+        {
+          "@id": "https://i.ytimg.com/vi/vIctJQVZ3bk/maxresdefault.jpg?meta=og:image#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://i.ytimg.com/vi/vIctJQVZ3bk/maxresdefault.jpg?meta=og:image",
+          "alternativeHeadline": "Spicy Chewy Noodles (Jjolmyeon: ì«ë©´)",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1280",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1280"
+        },
+        {
+          "@id": "#sso/qv-height-px-720",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "720"
+        },
+        {
+          "@id": "https://www.youtube.com/embed/vIctJQVZ3bk#sso/video-object",
+          "@context": "https://schema.org",
+          "@type": "VideoObject",
+          "url": "https://www.youtube.com/embed/vIctJQVZ3bk",
+          "name": "Spicy Chewy Noodles (Jjolmyeon: ì«ë©´)",
+          "description": "Korean jjolmyeon are chewy wheat noodles served chilled in a spicy, sweet and sour sauce with vegetables. Full recipe: https://www.maangchi.com/recipe/jjolmy...",
+          "embedUrl": "https://www.youtube.com/embed/vIctJQVZ3bk",
+          "encodingFormat": "text/html",
+          "duration": "PT16M27S",
+          "uploadDate": "2017-05-24T16:39:00+00:00",
+          "thumbnailUrl": "https://i.ytimg.com/vi/vIctJQVZ3bk/maxresdefault.jpg?meta=og:image",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1280"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-720"
+            }
+          ],
+          "keywords": "Maangchi, Maangchi recipes, Korean spicy chewy noodles, chewy noodles, jjolmyeon, jjolmyun, ì«ë©´, how to make jjolmyeon, jolmyeon, sweet sour spicy chewy noodles, vegetarian noodles, Korean food, Korean cooking, Korean cuisine, Korean kitchen, Maangchi's chewy noodles recipe"
+        },
+        {
+          "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person",
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "url": "https://www.maangchi.com",
+          "name": "Maangchi",
+          "description": "Author archive page for Maangchi.",
+          "image": [
+            {
+              "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object"
+            }
+          ]
+        },
+        {
+          "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-1200"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "#sso/qv-height-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png",
+          "identifier": "93971-wpsso-schema-4x3",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-900"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-900",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "900"
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png",
+          "identifier": "93971-wpsso-schema-16x9",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-675"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-675",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "675"
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/54647",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-54647",
+          "name": "Comment by missh on December 24, 2023",
+          "description": "Warning! If you are using DRY noodles, use less noodles! Try 2/3 of the amount of noodles if you are&hellip;",
+          "text": "Warning! If you are using DRY noodles, use less noodles! Try 2/3 of the amount of noodles if you are using dry noodles, so 10.7 oz if you are making a two-person batch with dry noodles. The noodles Maangchi has in the recipe need to be defrosted, so they are a type of fresh noodle. We did not think about this. We used angel hair pasta to make 1/2 batch to try it out because we had all the ingredients except the jjolmyeon noodles. It was so very tasty, but we had way too much noodles for the sauce and vegetables. We have an electric stove with coil burners. We toasted the gim by waving it an inch above the hot burner, not touching. Maangchi, thank you for another delicious recipe! Maybe make a note about using less dry noodles if someone can&#039;t get jjolmyeon? Also, you switch between &quot;jjolmyeon&quot; and &ldquo;jjolymyeon.&rdquo; Is there a difference?",
+          "dateCreated": "2023-12-24T04:28:42-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "missh"
+          }
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/54049",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-54049",
+          "name": "Comment by Jang-geum on November 19, 2022",
+          "description": "Made Jjolmyeon at home. It was terrific! Thank you Maangchi !",
+          "text": "Made Jjolmyeon at home. It was terrific! Thank you Maangchi !",
+          "dateCreated": "2022-11-19T03:12:07-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Jang-geum"
+          }
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/52383",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-52383",
+          "name": "Comment by vishnusa on May 16, 2021",
+          "description": "This was super easy to make and delicious. It&rsquo;s usually hard to find a dish that&rsquo;s cold and spicy! Loved&hellip;",
+          "text": "This was super easy to make and delicious. It&rsquo;s usually hard to find a dish that&rsquo;s cold and spicy! Loved it! Kamsamida, Maangchissi!!",
+          "dateCreated": "2021-05-16T17:14:09-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "vishnusa"
+          }
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/51951",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-51951",
+          "name": "Comment by MaangchiLove on January 2, 2021",
+          "description": "Yum!! Thank you, Maangchi &#x2764;&#xfe0f; :D",
+          "text": "Yum!! Thank you, Maangchi &#x2764;&#xfe0f; :D",
+          "dateCreated": "2021-01-02T22:04:21-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "MaangchiLove"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/51962"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/51962",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-51962",
+          "name": "Reply by Maangchi on January 8, 2021",
+          "description": "Yum! : )",
+          "text": "Yum! : )",
+          "dateCreated": "2021-01-08T12:24:39-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/49078",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-49078",
+          "name": "Comment by Beatriceteo on February 11, 2019",
+          "description": "Hi Maangchi, I am interested to make a noodle recipe but cannot decide between the jjolmyeon and the bibimguksu May&hellip;",
+          "text": "Hi Maangchi, I am interested to make a noodle recipe but cannot decide between the jjolmyeon and the bibimguksu May I know what are the differences in the flavour profile please? Thank you! Love your recipes",
+          "dateCreated": "2019-02-11T11:48:29-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Beatriceteo"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/51182"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/51182",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-51182",
+          "name": "Reply by freldici on June 16, 2020",
+          "description": "Bonjour ! Beaucoup plus de l&eacute;gumes et de finesse dans la sauce ici &#x270c;",
+          "text": "Bonjour ! Beaucoup plus de l&eacute;gumes et de finesse dans la sauce ici &#x270c;",
+          "dateCreated": "2020-06-16T23:42:09-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "freldici"
+          }
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/47961",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-47961",
+          "name": "Comment by deCombys on June 21, 2018",
+          "description": "I just had this for dinner with my partner. I made the red pepper paste myself as I have celiac&hellip;",
+          "text": "I just had this for dinner with my partner. I made the red pepper paste myself as I have celiac disease and malt is a huge no-no. I found a recipe for &quot;instant&quot; gochujang made with fermented soybean paste and sugar instead of malt. Although I have no way of telling how close it is to the real thing, the final result with this recipe was extremely good so very I&#039;m glad! My red pepper flakes were of the spicier kind, though, so we were really getting our asses kicked XD (which we enjoy) I&#039;ll definitely make it again.",
+          "dateCreated": "2018-06-21T04:05:35-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "deCombys"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/47991"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/47991",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-47991",
+          "name": "Reply by Maangchi on June 28, 2018",
+          "description": "&quot;malt is a huge no-no&quot; lol your expression is so funny!",
+          "text": "&quot;malt is a huge no-no&quot; lol your expression is so funny!",
+          "dateCreated": "2018-06-28T11:39:10-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/47099",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-47099",
+          "name": "Comment by ChristinaC on January 18, 2018",
+          "description": "This turned out great with red lentil noodles! It was my first time cooking lentil noodles, and I was so&hellip;",
+          "text": "This turned out great with red lentil noodles! It was my first time cooking lentil noodles, and I was so surprised that they were almost as chewy as 쫄면! I only had julienned red bell pepper and 콩나물 to mix in, but it was still tasty!",
+          "dateCreated": "2018-01-18T03:10:54-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "ChristinaC"
+          }
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/46730",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-46730",
+          "name": "Comment by Ella_kinney on October 27, 2017",
+          "description": "One of my favorite Korean recipes ever... Here is my version using &agrave; Tunisian traditional couscous plate! Love this",
+          "text": "One of my favorite Korean recipes ever... Here is my version using &agrave; Tunisian traditional couscous plate! Love this",
+          "dateCreated": "2017-10-27T01:47:24-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Ella_kinney"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/47993"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/47993",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-47993",
+          "name": "Reply by Maangchi on June 28, 2018",
+          "description": "I know this is very late, but I&#039;m seeing your photo just now. It looks great!",
+          "text": "I know this is very late, but I&#039;m seeing your photo just now. It looks great!",
+          "dateCreated": "2018-06-28T11:43:05-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/48138"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/48138",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-48138",
+          "name": "Reply by Ella_kinney on July 25, 2018",
+          "description": "Thank you so much for taking the time to reply to my photo!",
+          "text": "Thank you so much for taking the time to reply to my photo!",
+          "dateCreated": "2018-07-25T12:57:02-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Ella_kinney"
+          }
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/46618",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-46618",
+          "name": "Comment by bertman4 on October 13, 2017",
+          "description": "I made jjolmyeon on a hot August day and everyone enjoyed the cold but very spicy noodles.",
+          "text": "I made jjolmyeon on a hot August day and everyone enjoyed the cold but very spicy noodles.",
+          "dateCreated": "2017-10-13T05:09:08-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "bertman4"
+          }
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/46083",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-46083",
+          "name": "Comment by Kiss_the_cook on July 8, 2017",
+          "description": "So so so delicious. I had to substitute the noodles, as my son needs a gluten-free diet, but the rice&hellip;",
+          "text": "So so so delicious. I had to substitute the noodles, as my son needs a gluten-free diet, but the rice noodles I used (쌀소면) were chewy and perfect, too. Every single recipes of yours I tested so far was wonderful. Thank you! &lt;3",
+          "dateCreated": "2017-07-08T13:53:37-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Kiss_the_cook"
+          }
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/45815",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-45815",
+          "name": "Comment by Marjane on May 26, 2017",
+          "description": "It is very hot in here at the moment ! So for dinner we had jjolmyeon party :) Delicious !",
+          "text": "It is very hot in here at the moment ! So for dinner we had jjolmyeon party :) Delicious !",
+          "dateCreated": "2017-05-26T18:48:29-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Marjane"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/45854"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/45854",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-45854",
+          "name": "Reply by Maangchi on May 30, 2017",
+          "description": "The photo proves you were ready to mix all these in a few seconds! : ) Yes, it should be&hellip;",
+          "text": "The photo proves you were ready to mix all these in a few seconds! : ) Yes, it should be delicious!",
+          "dateCreated": "2017-05-30T18:37:36-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/45811",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-45811",
+          "name": "Comment by iamtonyyy on May 25, 2017",
+          "description": "Hello Maangchi!! This recipe looks great, but I was wondering if I can make this ahead of time will it&hellip;",
+          "text": "Hello Maangchi!! This recipe looks great, but I was wondering if I can make this ahead of time will it still be good? Will the noodles get soggy in 3-4 hours?? Best, Tony",
+          "dateCreated": "2017-05-25T00:51:57-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "iamtonyyy"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/46319"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/46319",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-46319",
+          "name": "Reply by Whirled Green Peas on August 23, 2017",
+          "description": "I made a really large 24 oz jar of the sauce in June, and keep it in the refrigerator. It&hellip;",
+          "text": "I made a really large 24 oz jar of the sauce in June, and keep it in the refrigerator. It won&#039;t go bad, since the gochujang and soy sauce both contain large amounts of salt. I&#039;d suggest making the sauce ahead of time, and cooking/rinsing the noodles just before serving. The noodles will get too soggy if you cook them and/or mix in the sauce that far in advance! Also, if you have access to perilla leaves (ggaennip), chiffonade some and try adding that. You can use naengmyeon noodles with this sauce as well. If using naengmyeon noodles, cubed watermelon (along with the mix-ins already suggested by Maangvhi) is a surprising tasty and popular combination in Korea. Hope that helped. :)",
+          "dateCreated": "2017-08-23T00:41:07-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Whirled Green Peas"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/47630"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/jjolmyeon/comment-page-1#sso/comment/47630",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/jjolmyeon/comment-page-1#comment-47630",
+          "name": "Reply by C.W. on April 16, 2018",
+          "description": "Hi Whirled Green Peas!! I&#039;m to lazy to figure out the measurements ;-) Would you mind sending how you made&hellip;",
+          "text": "Hi Whirled Green Peas!! I&#039;m to lazy to figure out the measurements ;-) Would you mind sending how you made this batch of sauce? I&#039;d REALLY appreciate it!! -C.W.",
+          "dateCreated": "2018-04-16T22:59:48-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "C.W."
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "5",
+        "ratingCount": "391",
+        "ratingValue": "5"
+      },
+      "image": "https://www.maangchi.com/wp-content/uploads/2017/05/jjolmyeon-web-620x426.jpg",
+      "name": "Spicy, chewy, sweet &#038; sour cold noodles (Jjolmyeon: 쫄면)",
+      "description": "Spicy, chewy, sweet &#038; sour cold noodles (Jjolmyeon: 쫄면)"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:38:14.045Z",
+  "scraping_status": "scraped"
+}

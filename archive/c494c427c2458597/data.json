@@ -1,0 +1,589 @@
+{
+  "id": "c494c427c2458597",
+  "original_url": "https://cooking.nytimes.com/recipes/1025655-banh-bo-n-ng-honeycomb-cake",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025655-banh-bo-n-ng-honeycomb-cake",
+  "fetched_title": "Bánh Bò Nướng (Honeycomb Cake) Recipe",
+  "main_text_content": "Known in English as honeycomb cake for its interior pattern of holes stretched long like yawns, bánh bò nướng is tinted jade from pandan paste, which flavors the coconut milk batter Glossy green pandan leaves, from which the paste is extracted, impart a scent that hovers like jasmine and vanilla with a grounding of soft herbs and toasted rice The mix of tapioca starch and rice flour yields a texture that’s stretchy, sticky and soft",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026825-lemon-honey-nian-gao-mochi-cake\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"An overhead image of mochi cake topped with lemon wheels.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Lemon-Honey Nian Gao (Mochi Cake)</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Eleanore Park</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/07/08/multimedia/08KOREX-Honeycomb-Cake-hkqz/08KOREX-Honeycomb-Cake-hkqz-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/c494c427c2458597/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/03b2889f-958b-52fa-a5b4-d14efdbe1532",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025655-banh-bo-nu-ng-honeycomb-cake",
+        "@type": "WebPage",
+        "name": "Bánh Bò Nướng (Honeycomb Cake)"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025655-banh-bo-nu-ng-honeycomb-cake",
+      "name": "Bánh Bò Nướng (Honeycomb Cake)",
+      "description": "Known in English as honeycomb cake for its interior pattern of holes stretched long like yawns, bánh bò nướng is tinted jade from pandan paste, which flavors the coconut milk batter. Glossy green pandan leaves, from which the paste is extracted, impart a scent that hovers like jasmine and vanilla with a grounding of soft herbs and toasted rice. The mix of tapioca starch and rice flour yields a texture that’s stretchy, sticky and soft. Hannah Pham’s take on this Vietnamese classic includes a crisp outer crust. She uses a Bundt pan so there’s more of the browned shell in each bite and, to make the exterior even more caramelized, cut down on the amount of butter brushed over the heated pan. For a foolproof cake, she calls for double-acting baking powder, avoids over whisking the eggs and passes the batter through a sieve.",
+      "author": {
+        "@type": "Person",
+        "name": "Genevieve Ko"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/6e456173-33fb-563d-831d-6e9590348a80#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/08/multimedia/08KOREX-Honeycomb-Cake-hkqz/08KOREX-Honeycomb-Cake-hkqz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-07-08T18:07:44.412Z",
+          "datePublished": "2024-07-08T18:07:44.412Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-08T18:07:44.412Z",
+          "url": "https://static01.nyt.com/images/2024/07/08/multimedia/08KOREX-Honeycomb-Cake-hkqz/08KOREX-Honeycomb-Cake-hkqz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/6e456173-33fb-563d-831d-6e9590348a80#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/08/multimedia/08KOREX-Honeycomb-Cake-hkqz/08KOREX-Honeycomb-Cake-hkqz-googleFourByThree.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-07-08T18:07:44.412Z",
+          "datePublished": "2024-07-08T18:07:44.412Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-08T18:07:44.412Z",
+          "url": "https://static01.nyt.com/images/2024/07/08/multimedia/08KOREX-Honeycomb-Cake-hkqz/08KOREX-Honeycomb-Cake-hkqz-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/6e456173-33fb-563d-831d-6e9590348a80#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/08/multimedia/08KOREX-Honeycomb-Cake-hkqz/08KOREX-Honeycomb-Cake-hkqz-mediumSquareAt3X.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-07-08T18:07:44.412Z",
+          "datePublished": "2024-07-08T18:07:44.412Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-08T18:07:44.412Z",
+          "url": "https://static01.nyt.com/images/2024/07/08/multimedia/08KOREX-Honeycomb-Cake-hkqz/08KOREX-Honeycomb-Cake-hkqz-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT5M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H5M",
+      "recipeYield": "One Bundt cake; about 12 servings",
+      "recipeCuisine": "vietnamese",
+      "recipeCategory": "cakes, project, dessert",
+      "keywords": "coconut milk, pandan, rice flour, gluten-free",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 128
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 299,
+        "unsaturatedFatContent": "4 grams",
+        "carbohydrateContent": "45 grams",
+        "cholesterolContent": null,
+        "fatContent": "13 grams",
+        "fiberContent": "0 grams",
+        "proteinContent": "4 grams",
+        "saturatedFatContent": "8 grams",
+        "sodiumContent": "242 milligrams",
+        "sugarContent": "24 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 cups/254 grams tapioca starch (see Tips)",
+        "1/4 cup/38 grams rice flour (see Tips)",
+        "1½ teaspoons double-acting baking powder",
+        "6 large eggs",
+        "1 1/3 cups/283 grams granulated sugar",
+        "1 (14-ounce) can/390 grams full-fat coconut milk, well-shaken",
+        "2 tablespoons canola oil",
+        "1 teaspoon kosher salt (such as Diamond Crystal) or 1/2 teaspoon fine salt",
+        "1/2 teaspoon pandan paste (see Tips)",
+        "3/4 tablespoon cold unsalted butter"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Arrange a rack in the center of the oven and put a 9½-inch nonstick Bundt pan on it. Heat the oven to 325 degrees."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Set a sieve over a large bowl and add the tapioca starch, rice flour and baking powder to it. Whisk the dry ingredients until they’re all sifted through."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Set the same sieve over another large bowl. Crack the eggs into it and break the yolks with a whisk, then slowly whisk the eggs clockwise until they all run through the sieve. Add the sugar, coconut milk, oil, salt and pandan paste to the sieved eggs and stir slowly with the whisk until smooth. Whisk gently throughout so as to not create too many air bubbles, which can cause the cake to sink."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Set the sieve over the dry ingredients and pour in the wet ingredients, whisking them through the sieve as needed to help the mixture pass through. Using the whisk, gently stir together the dry and wet ingredients until combined. Pour the batter through the sieve into the other bowl, whisking if needed to help it go through. Repeat the sieving two more times, going from one bowl to the other."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pull the rack with the hot Bundt pan out of the oven and drop the butter into the pan. Use a pastry or silicone brush to spread the butter over the inside of the pan, then immediately pour in the batter. Lay a sheet of foil on top of the pan without crimping the edges."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake for 45 minutes, then remove the foil and bake for 45 minutes longer, or until the top is browned and a cake tester comes out clean. Cool in the pan on a rack for 10 minutes, then use a rubber spatula to nudge the edges away from the pan. Carefully flip the cake onto a rack."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Cool completely, then slice into ½-inch-thick wedges to serve. The cake tastes best when served the same day, but keeps for up to 2 days in an airtight container at room temperature."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-07-08T00:00:00.000Z",
+      "dateModified": "2024-07-11T14:11:30.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jim"
+          },
+          "reviewBody": "Unfortunately I had similar experiences to others. The cake rose ridiculously high along the sides touching the pan, didn’t quite bake in the middle, then lost volume while cooling. Like a soufflé. \n\nDisappointing.",
+          "datePublished": "2025-05-23T19:58:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "laura b."
+          },
+          "reviewBody": "Came out perfect! Bring it to a party to impress.",
+          "datePublished": "2025-04-12T23:40:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erica"
+          },
+          "reviewBody": "SAME! The sides baked first and puffed up out over the edge, while the center sunk into a globby, eggy mess. I have no idea what caused this!",
+          "datePublished": "2025-04-06T20:55:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "phillip roullard"
+          },
+          "reviewBody": "I made this cake from the recipe directions and it was a flop literally.  The cake rose in the pan, which was a high sided souffle pan.  As soon as I took it out of the oven it fell and kept on falling until it was 1/3 of its original height.  The consistency of the cake I can only describe as like mochi.  Dense and thick.  Flavor was very eggy.  It was green since I used concentrated pandan flavoring.",
+          "datePublished": "2025-03-22T22:29:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pam"
+          },
+          "reviewBody": "I followed this recipe to the T and sadly did not work. The whole thing collapsed despite of having veryyyy minimal air bubbles. And 6 eggs wasted!",
+          "datePublished": "2025-01-26T03:35:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "aaron"
+          },
+          "reviewBody": "the sieving towards the beginning took a while, but this came together nicely. mine did not really have the brown-ish crust in the picture… more of a plain green bundt, which i think looks cooler.",
+          "datePublished": "2024-12-14T21:11:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "HM"
+          },
+          "reviewBody": "@lulu Did it go better for you? I tried that one today (pumpkin spice version) and it failed for me just as you described here. I’m looking for answers as to why it failed.",
+          "datePublished": "2025-01-01T02:39:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lulu"
+          },
+          "reviewBody": "though I followed the instructions carefully, my cake blew up while baking and even hit the top of the oven. then sank tremendously while cooling. Pretty bummed out. I'm going to try the NYT pumpkin spice variant tomorrow and see if it goes better",
+          "datePublished": "2024-12-10T05:12:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dorothea V"
+          },
+          "reviewBody": "mine collapsed as well ~ it had a nice taste but the gummy texture was not appreciated. would love to try this from a professional, see how it's supposed to be.",
+          "datePublished": "2024-12-07T19:31:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ShaneK"
+          },
+          "reviewBody": "Collapsed into a gluggy mess on cooling. Was VERY difficult to get out of the pan. Like eating dough. I don’t understand how this could go so wrong!",
+          "datePublished": "2024-10-29T03:22:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stefan"
+          },
+          "reviewBody": "The cake had a toasty crust and the flavor was overly eggy and sugary. Unfortunately, the pandan essence didn’t come through as much as I’d hoped, which was disappointing since I enjoy the distinctive taste of pandan.",
+          "datePublished": "2024-10-27T12:12:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate"
+          },
+          "reviewBody": "Hmm. Completely collapsed… Has anyone had a collapse and then solved it?",
+          "datePublished": "2024-10-06T13:01:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrea"
+          },
+          "reviewBody": "Wow! I had put this on my list of things to try to make after having it for the first time at a Vietnamese restaurant, and then grew intimidated by the internet saying it’s notoriously difficult to make.\n\nWell, we followed instructions to a t (with this additional tip: whisk IN the strainer, IN the batter to minimize air bubbles even more), and at *altitude*, and it still turned out perfectly!!Everyone enjoyed this, picky eaters included. Someone who had never had it before said it was like a perfect cookie: crisp on the outside and chewy on the inside. We finished it in a day. Best part is—dare I say it—it was pretty easy (gasp).\n\nI used pandan extract instead of paste!",
+          "datePublished": "2024-09-20T02:08:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Finn"
+          },
+          "reviewBody": "The recipe was certainly finicky, though I appreciate it could be all hand-done.  I think my sieve was too fine- the sieving took forever.   But I used the recommended brands and it came out.  It does have a chewy texture (like a very soft gummy bear).  The flavor was nice.  I’m going to put this one in the category of “very interesting and fun at least once.” I would bake it again if I was trying to win a “cool ingredients” contest.",
+          "datePublished": "2024-09-15T20:14:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pandan Express"
+          },
+          "reviewBody": "Made some small subs but the technique ensured great texture and flavor; Coconut cream rather than milk with half the oil, added 1/2 oz rum",
+          "datePublished": "2024-09-03T17:01:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KNick"
+          },
+          "reviewBody": "Followed the ingredient instructions with a couple of exceptions:   20 extra minutes in oven; sprayed Pam non- stick in Bundt pan along with butter to help set it free after baking; added vanilla ice cream, dragon fruit, mango and toasted coconut to complete the presentation.",
+          "datePublished": "2024-09-02T02:47:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jill"
+          },
+          "reviewBody": "I too struggled to get cake out in one piece but my Bundt pan is old and scratched. Ran an ice pack around all edges and can out easily with a little help from rubber spatula",
+          "datePublished": "2024-08-25T00:08:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Danielle"
+          },
+          "reviewBody": "As a Vietnamese person I want to reassure everyone in the comments that pandan paste is welcome but certainly not mandatory. If you image search bánh bò you'll see that if we don't have pandan paste/extract we'll just use food coloring. We eat bánh bò primarily for the springy, chewy, fun texture; it's not as good on the 2nd or 3rd day, and it changes for the worse when refrigerated, so I'd worry more about finding enough people to eat this cake on the day it's made than finding pandan paste :)",
+          "datePublished": "2024-07-09T15:14:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "keith"
+          },
+          "reviewBody": "Pandab paste is really hard to find, even in NYC, but you can try an Asian grocery store. The popular brand seems to be Koepoe Koepoe. I tried this cake and I used 1 teaspoon of vanilla and 1/2 TBLSP of matcha tea powder (to give a warm vanilla floral essence) and it came out pretty good",
+          "datePublished": "2024-07-09T14:17:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Danielle"
+          },
+          "reviewBody": "As a Viet person I just want to reassure others in the comments that for bánh bò the pandan flavoring is welcome but not essential. If you image search bánh bò you'll see that if we don't have pandan paste/extract on hand we simply substitute food coloring. We eat bánh bò primarily for the springy, chewy texture; left 2-3 days it becomes less pleasant, and refrigerating it changes the texture for the worse as well. I'd worry more about finishing it the day it's made than finding pandan paste :)",
+          "datePublished": "2024-07-09T15:00:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne Elk (Miss)"
+          },
+          "reviewBody": "1/2 tsp of pandan paste? SUCH a tiny amount! Where to buy it, and is this one of those ingredients that is expensive, difficult to find and available in quantities that will go to waste after baking this cake that one time?\n\nMaybe Kalustyan's has it...",
+          "datePublished": "2024-07-09T10:28:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CL"
+          },
+          "reviewBody": "I found a video of her making the cake, and she uses the brand Butterfly, available on Amazon. Sadly, the list of ingredients include no pandan. Instead, it includes artificial flavors and food dye. Same for brands like McCormick and Koepoe Koepoe. I found one pure extract - Bionutricia. Reviewers on Amazon are mixed about the flavor, with many saying it's too light to notice. Perhaps what we think is pandan flavor is artificial since the more common brands are probably used in these desserts.",
+          "datePublished": "2024-07-10T14:54:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mike"
+          },
+          "reviewBody": "Followed the recipe.  My wife is Vietnamese and I know this is supposed to be a hard cake to make.  It came out great and all my in laws were shocked at me for trying and succeeding.  Thanks!",
+          "datePublished": "2024-07-16T19:32:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Miami Baker"
+          },
+          "reviewBody": "When I saw that commercial pandan paste was essentially sweet food coloring, I decided to make my own. I got 100% pandan powder online and used organic vanilla paste and organic agave syrup and mixed to a paste like consistency. The color was a darker green but the taste was great. I would agree with another users suggestion to use matcha powder and vanilla. It’s a close enough replacement",
+          "datePublished": "2024-07-13T16:01:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathy"
+          },
+          "reviewBody": "This did not work at all. The cake fell and the interior, while tasty, was dense and gelatinous. I followed the recipe exactly, taking care not to have too many bubbles and used the pandan paste from Amazon. Bummed.",
+          "datePublished": "2024-07-13T15:47:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth"
+          },
+          "reviewBody": "Just made this. Color is not at all the same. More like a pale matcha color. It was a bear getting it out of my buttered bundt pan. I've never worked so hard to get something out in one piece.\n\nIt tastes good. It's weird in a good way. I would try it one more time. More pandan -- which I got at the Asian grocery store. If they have pandan in Boise, you can probably get it anywhere.",
+          "datePublished": "2024-07-13T19:07:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marty"
+          },
+          "reviewBody": "In step 3 one is instructed to whisk clockwise. Does that hold for both hemispheres?\nDo left-handed people have to obey?",
+          "datePublished": "2024-07-12T01:30:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "carlota"
+          },
+          "reviewBody": "As for others on here, my cake puffed up enormously only to collapse immediately after being removed from the oven into what looked like a puddle of melted Grinch fur. I followed all the instructions, did all the sifting. What am I doing wrong?",
+          "datePublished": "2024-08-15T13:26:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "tomrely"
+          },
+          "reviewBody": "This endless sieving back and forth, tip toeing in case we create air bubbles, hushed tones fretting over pandan, the guilt of food coloring ...  like there's not enough to worry about these days. \nCan't we just crank the music up and make brownies?",
+          "datePublished": "2024-07-13T03:42:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martha Hunter"
+          },
+          "reviewBody": "I found the ingredients at an Asian market but the Pandan I found was liquid in a little vial. I added scrapings of one vanilla bean. I goofed somewhere. The cake ballooned out of the Bundt pan while baking then quickly deflated once cooling, to halfway down the pan. My result had little taste and texture was kind of like a soft gummy bear. Well I tried!",
+          "datePublished": "2024-07-15T00:11:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristi"
+          },
+          "reviewBody": "I used coconut creme instead of full fat coconut milk. It turned out wonderfully. And on day two after the crunchy, chewy textures shifted I toasted slices and added butter. Yumm!",
+          "datePublished": "2024-07-29T17:38:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elaine Camp"
+          },
+          "reviewBody": "Maybe I did something wrong in this incredibly complicated recipe.  I ordered all the recommended Asian ingredients and followed all the steps, including the endless sieving, but the results were underwhelming.  The cake is beautiful, but had very little taste.  It wasn’t at all sweet, but very chewy, an interesting texture.  I certainly won’t go to all this trouble again.",
+          "datePublished": "2024-07-24T20:47:43.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025655-banh-bo-nu-ng-honeycomb-cake",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Genevieve Ko"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "Known in English as honeycomb cake for its interior pattern of holes stretched long like yawns, bánh bò nướng is tinted jade from pandan paste, which flavors the coconut milk batter. Glossy green pandan leaves, from which the paste is extracted, impart a scent that hovers like jasmine and vanilla with a grounding of soft herbs and toasted rice. The mix of tapioca starch and rice flour yields a texture that’s stretchy, sticky and soft. Hannah Pham’s take on this Vietnamese classic includes a crisp outer crust. She uses a Bundt pan so there’s more of the browned shell in each bite and, to make the exterior even more caramelized, cut down on the amount of butter brushed over the heated pan. For a foolproof cake, she calls for double-acting baking powder, avoids over whisking the eggs and passes the batter through a sieve.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Bánh Bò Nướng (Honeycomb Cake)",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/6e456173-33fb-563d-831d-6e9590348a80#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/08/multimedia/08KOREX-Honeycomb-Cake-hkqz/08KOREX-Honeycomb-Cake-hkqz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-07-08T18:07:44.412Z",
+          "datePublished": "2024-07-08T18:07:44.412Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-08T18:07:44.412Z",
+          "url": "https://static01.nyt.com/images/2024/07/08/multimedia/08KOREX-Honeycomb-Cake-hkqz/08KOREX-Honeycomb-Cake-hkqz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/6e456173-33fb-563d-831d-6e9590348a80#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/08/multimedia/08KOREX-Honeycomb-Cake-hkqz/08KOREX-Honeycomb-Cake-hkqz-googleFourByThree.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-07-08T18:07:44.412Z",
+          "datePublished": "2024-07-08T18:07:44.412Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-08T18:07:44.412Z",
+          "url": "https://static01.nyt.com/images/2024/07/08/multimedia/08KOREX-Honeycomb-Cake-hkqz/08KOREX-Honeycomb-Cake-hkqz-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/6e456173-33fb-563d-831d-6e9590348a80#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/08/multimedia/08KOREX-Honeycomb-Cake-hkqz/08KOREX-Honeycomb-Cake-hkqz-mediumSquareAt3X.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2024-07-08T18:07:44.412Z",
+          "datePublished": "2024-07-08T18:07:44.412Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-07-08T18:07:44.412Z",
+          "url": "https://static01.nyt.com/images/2024/07/08/multimedia/08KOREX-Honeycomb-Cake-hkqz/08KOREX-Honeycomb-Cake-hkqz-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025655-banh-bo-nu-ng-honeycomb-cake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:04:58.175Z",
+  "scraping_status": "scraped"
+}

@@ -1,0 +1,542 @@
+{
+  "id": "9e7cbb118b3feee5",
+  "original_url": "https://cooking.nytimes.com/recipes/1024445-shrimp-in-rundown-sauce-with-cavatelli",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1024445-shrimp-in-rundown-sauce-with-cavatelli",
+  "fetched_title": "Shrimp in Rundown Sauce With Cavatelli Recipe",
+  "main_text_content": "Richly flavored rundown, popular across the Caribbean, is the result of gently simmering seafood in coconut milk and tomatoes with aromatics such as scallions, onion and garlic until the flavors are concentrated and intense Some say it gets its name from the way it lightly runs down and coats any starch or protein with which it comes into contact At her restaurant, Bywater American Bistro, the chef Nina Compton tosses shrimp and house-made gnocchi with a rundown sauce made with the shrimp shells and scented with ginger and lemongrass",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1018101-shrimp-fajitas-with-peppers-and-zucchini\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2016/05/11/dining/11FAJITAS3/11FAJITAS3-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2016/05/11/dining/11FAJITAS3/11FAJITAS3-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2016/05/11/dining/11FAJITAS3/11FAJITAS3-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2016/05/11/dining/11FAJITAS3/11FAJITAS3-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2016/05/11/dining/11FAJITAS3/11FAJITAS3-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2016/05/11/dining/11FAJITAS3/11FAJITAS3-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2016/05/11/dining/11FAJITAS3/11FAJITAS3-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2016/05/11/dining/11FAJITAS3/11FAJITAS3-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Shrimp Fajitas With Peppers and Zucchini</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Martha Rose Shulman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/07/27/multimedia/yk-shrimp-and-rundown-sauce-whmc/yk-shrimp-and-rundown-sauce-whmc-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/9e7cbb118b3feee5/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/5f08ff76-4c30-585f-973d-2b8ecde86492",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1024445-shrimp-in-rundown-sauce-with-cavatelli",
+        "@type": "WebPage",
+        "name": "Shrimp in Rundown Sauce With Cavatelli"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024445-shrimp-in-rundown-sauce-with-cavatelli",
+      "name": "Shrimp in Rundown Sauce With Cavatelli",
+      "description": "Richly flavored rundown, popular across the Caribbean, is the result of gently simmering seafood in coconut milk and tomatoes with aromatics such as scallions, onion and garlic until the flavors are concentrated and intense. Some say it gets its name from the way it lightly runs down and coats any starch or protein with which it comes into contact. At her restaurant, Bywater American Bistro, the chef Nina Compton tosses shrimp and house-made gnocchi with a rundown sauce made with the shrimp shells and scented with ginger and lemongrass. Here it’s served with cavatelli or shell pasta and is every bit as delicious. Lime zest plus a garnish of mixed soft herbs such as basil, chives and dill brighten the dish and add a hint of freshness.",
+      "author": {
+        "@type": "Person",
+        "name": "Yewande Komolafe"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/84d22523-c1d2-5907-8f31-cfa8ec975f92#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/07/27/multimedia/yk-shrimp-and-rundown-sauce-whmc/yk-shrimp-and-rundown-sauce-whmc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Alex Lau for The New York Times. Food Stylist: Susie Theodorou.",
+          "dateModified": "2023-07-27T18:53:27.702Z",
+          "datePublished": "2023-07-27T18:53:27.702Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-07-27T18:53:27.702Z",
+          "url": "https://static01.nyt.com/images/2023/07/27/multimedia/yk-shrimp-and-rundown-sauce-whmc/yk-shrimp-and-rundown-sauce-whmc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/84d22523-c1d2-5907-8f31-cfa8ec975f92#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/07/27/multimedia/yk-shrimp-and-rundown-sauce-whmc/yk-shrimp-and-rundown-sauce-whmc-superJumbo.jpg",
+          "creditText": "Alex Lau for The New York Times. Food Stylist: Susie Theodorou.",
+          "dateModified": "2023-07-27T18:53:27.702Z",
+          "datePublished": "2023-07-27T18:53:27.702Z",
+          "height": "1638",
+          "representativeOfPage": true,
+          "uploadDate": "2023-07-27T18:53:27.702Z",
+          "url": "https://static01.nyt.com/images/2023/07/27/multimedia/yk-shrimp-and-rundown-sauce-whmc/yk-shrimp-and-rundown-sauce-whmc-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/84d22523-c1d2-5907-8f31-cfa8ec975f92#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/07/27/multimedia/yk-shrimp-and-rundown-sauce-whmc/yk-shrimp-and-rundown-sauce-whmc-mediumSquareAt3X.jpg",
+          "creditText": "Alex Lau for The New York Times. Food Stylist: Susie Theodorou.",
+          "dateModified": "2023-07-27T18:53:27.702Z",
+          "datePublished": "2023-07-27T18:53:27.702Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-07-27T18:53:27.702Z",
+          "url": "https://static01.nyt.com/images/2023/07/27/multimedia/yk-shrimp-and-rundown-sauce-whmc/yk-shrimp-and-rundown-sauce-whmc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT35M",
+      "totalTime": "PT45M",
+      "recipeYield": "Serves 4 to 6",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, weeknight, seafood, main course",
+      "keywords": "coconut milk, fresh ginger, lemongrass, pasta, shrimp, stovetop",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 301
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 334,
+        "unsaturatedFatContent": "7 grams",
+        "carbohydrateContent": "10 grams",
+        "cholesterolContent": null,
+        "fatContent": "23 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "26 grams",
+        "saturatedFatContent": "15 grams",
+        "sodiumContent": "545 milligrams",
+        "sugarContent": "2 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 1/2 pounds jumbo shell-on shrimp",
+        "2 tablespoons neutral oil, such as canola",
+        "2 tablespoons grated fresh ginger (from a 2-inch piece)",
+        "2 lemongrass stalks, trimmed, tough outer layers removed and tender centers sliced lengthwise and smashed with the back of a knife",
+        "2 garlic cloves, smashed and peeled",
+        "Salt",
+        "1/4 cup tomato paste",
+        "1 (13.5-ounce) can coconut milk",
+        "1 pound cavatelli or medium shell pasta",
+        "4 scallions, thinly sliced",
+        "1 lime",
+        "2 tablespoons unsalted butter, room temperature",
+        "1/2 cup mixed soft herbs, such as dill, basil and chives, chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the rundown sauce: Peel and devein the shrimp, reserving the shells and refrigerating the shrimp. Heat 1 tablespoon oil in a large Dutch oven or skillet over medium-high. Add the ginger, lemongrass and garlic and cook, stirring frequently, until the lemongrass is just beginning to soften, about 2 minutes. Add the shrimp shells, season lightly with salt and cook, stirring, until the shells turn pink, 2 to 4 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the tomato paste, reduce the heat to medium, spread the paste in the Dutch oven and cook until it darkens in color, 1 to 2 minutes. Add the coconut milk, stirring to dissolve the tomato paste. Add enough water to completely submerge the shrimp shells (about 3/4 cup)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bring the liquid to a boil. Simmer, pressing down on the shells frequently, until the stock is reduced to three-quarters of its original volume, 12 to 15 minutes. Strain through a sieve into a liquid measuring cup, pressing down on the solids to get out as much liquid as you can. Reserve the Dutch oven."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, bring a pot filled with generously salted water to a boil. Cook the pasta until al dente. Reserve 1 cup pasta water and drain the pasta."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Set the reserved Dutch oven over medium heat and heat the remaining 1 tablespoon oil. Add the scallions, season lightly with salt and cook until softened, about 1 minute. Add the rundown sauce, increase the heat to medium-high and add the shrimp. Season lightly with salt and stir to coat the shrimp in sauce. Add the pasta and cook, stirring, until the shrimp are cooked through, 3 to 5 minutes. If at any point the liquid starts to dry out before the shrimp is cooked through, use the reserved pasta water (about 1/4 cup at a time) to loosen up the sauce and prevent the pasta from burning or sticking to the bottom of the Dutch oven."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Remove from heat, zest the lime directly over the pasta and slice the lime into wedges. Add the butter to the pasta and stir to coat. Serve immediately, with a shower of mixed herbs and the lime wedges for squeezing."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-07-27T00:00:00.000Z",
+      "dateModified": "2023-10-12T13:51:51.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Máire"
+          },
+          "reviewBody": "Absolute firm favourite in our house - love making this, pretty easy recipe and yet taste like it involves a lot of work… I would happily serve this to guests too. This is a solid 10.",
+          "datePublished": "2025-04-20T13:04:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellie"
+          },
+          "reviewBody": "Any gravy made direct from shrimp shells is nice. This one is really delicious and elegant.  Made it with rice and unfrozen cooked shrimps, put less water. Will definitely cook again.",
+          "datePublished": "2025-03-11T21:05:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "moonmountain"
+          },
+          "reviewBody": "Beautiful velvety sauce from this recipe; absolutely gorgeous dish. A showstopper yet easily made.",
+          "datePublished": "2024-06-03T05:28:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan Bass"
+          },
+          "reviewBody": "Made this tonight. It needs heat so we supplemented the dish with some Choula hot sauce. I did add three cloves of chopped garlic to the 6 scallions I used and used basil as my herb. I did just squeeze the lime over the dish, and we are happy campers. Very nice",
+          "datePublished": "2024-03-28T20:57:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lyz m"
+          },
+          "reviewBody": "I used shrimp with the heads and during the shelling process removed the heads to add to the sauce. It added so much delicious shrimpy flavor.",
+          "datePublished": "2024-03-17T15:13:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kimberly"
+          },
+          "reviewBody": "The end result was ok but it was time consuming and dirtied a lot of dishes - not sure I would bother making it again.",
+          "datePublished": "2024-01-19T03:09:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ken Dunlap"
+          },
+          "reviewBody": "I made with 1 lb shrimp and ½ lb pasta - very nice proportions for 2 people.  I added ¼ tsp of a homemade ghost pepper sauce a friend made.  It was perfect.  It wasn't noticeably hot, but after a few bites my mouth was pleasantly warm and happy.",
+          "datePublished": "2023-11-19T23:03:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mel"
+          },
+          "reviewBody": "loved this recipe! made a couple of tweaks:\n1. I added a little sugar as the sauce simmered for a bit of sweetness and balance, and it was great!\n2. I am usually a huge citrus fan, but found the lime at the end sort of distracting \n3. next time i am going to give the shrimp a rough chop, so that it incorporates into the sauce a little better.",
+          "datePublished": "2023-11-03T01:06:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kevsilverr"
+          },
+          "reviewBody": "This was quite delicious. It’s a bit labor intensive so it’s not really something that I would make multiple times a month, but it’s well worth the effort. It definitely needs some heat, so next time I will be adding quite a bit of red pepper flakes, or if I’m feeling really adventurous some scotch bonnet peppers. I think the lime zest and lime juice at the end set this dish over the edge. I didn’t think the herbs at the end were necessary, so I’ll probably skip that step next time.",
+          "datePublished": "2023-10-26T02:28:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JB"
+          },
+          "reviewBody": "I followed the recipe exactly except for halving it (proportions were the same). Really wanted to like it, but it was incredibly bland. Far too much work for very little flavor, IMO.",
+          "datePublished": "2023-10-13T01:07:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Molly"
+          },
+          "reviewBody": "What kind of coconut milk should be used?",
+          "datePublished": "2023-10-02T06:26:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "pizzasonfleek"
+          },
+          "reviewBody": "Made this largely as is, other than a few minor tweaks for preference (more ginger/lemongrass) and added some rainbow chard.\n\nWas really impressed with how much flavor came out of the shells so quickly. Next time will probably use a little more coconut milk and let it simmer and cook down even longer.",
+          "datePublished": "2023-09-24T15:44:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily"
+          },
+          "reviewBody": "I mean wow. Just wow.",
+          "datePublished": "2023-09-23T23:17:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Musica"
+          },
+          "reviewBody": "As noted by several others, there was no further mention of the saved cup of pasta water; and the \"conversion\" of the initially-mentioned large Dutch oven into a skillet (the photo helped with that!).  Just eyeballing the reducing volume of liquid (including the ¾ cup of added water), I ended up with about 1¾ cup of sauce after sieving out the shells, etc. The other confusion (for me) was the direction to use 1 lb of dry pasta.  I opted for 2 cups of dry pasta--16 oz--which weighed about ½ lb.",
+          "datePublished": "2023-09-12T21:07:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SPS"
+          },
+          "reviewBody": "Excellent, made exactly as described. Our family likes a bit more kick to food, so at the table we added Cholula. I sprinkled some chili pepper flakes on.",
+          "datePublished": "2023-08-13T22:01:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "skyandstars"
+          },
+          "reviewBody": "I've cooked for many decades.  I've over cooked shrimp more often than I care to admit.  When a recipe has three things going on- thickening the sauce, finishing the cooking of the al dente pasta and cooking the shrimp, all in the same pot, the chance of this occurring in the same amount of time is slim.  The big loser, of course would be the shrimp.  To avoid this, I will saute the shrimp until just done and reserve.  When the pasta and sauce are done, I will add the shrimp to rewarm.",
+          "datePublished": "2023-07-30T16:27:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JeanO"
+          },
+          "reviewBody": "I made it, without the butter and reserve pasta water, because I had no idea what to do with them. There was plenty of sauce without them.",
+          "datePublished": "2023-07-29T23:51:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stacey A."
+          },
+          "reviewBody": "I think the butter gets stirred into the pasta and sauce at the end.  Reserved pasta water to be added to sauce if needed? But should have stated that if one is not used to using it.",
+          "datePublished": "2023-07-30T16:38:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Idoknowbeans"
+          },
+          "reviewBody": "Could some math major please tell me what amount of stock I'm looking for when I've reduced a can of coconut milk and about 3/4 cup of water (plus all the aromatics) to about 3/4 of its original volume? Thanks!",
+          "datePublished": "2023-07-31T00:55:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cath"
+          },
+          "reviewBody": "The Dutch oven seems to have become a skillet. Perhaps a deep skillet?",
+          "datePublished": "2023-07-30T17:15:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debbie"
+          },
+          "reviewBody": "When is the reserved pasta cooking water added?  It's not mentioned again in the recipe.",
+          "datePublished": "2023-07-30T15:21:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary Young"
+          },
+          "reviewBody": "I had seafood stock already in my freezer so used 1 cup of that instead of making the sauce with shells. And agree that shrimp are overcooked if you follow the directions…either take them out or add later.",
+          "datePublished": "2023-07-30T18:37:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CL"
+          },
+          "reviewBody": "@skyandstars\n\nThe method described in this recipe is how I finish most pasta dishes with or without shrimp. Adding the pasta a couple minutes before it’s fully al dente and the shrimp at the same time and finishing it in the sauce with a ladleful of added pasta water (which will be absorbed with the sauce into the pasta) and butter/oil, depending, typically yields the best results. The shrimp needs about 3-5 minutes, which is exactly what the pasta needs in that situation as well.",
+          "datePublished": "2023-08-09T00:15:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Su"
+          },
+          "reviewBody": "No, unfortunately; quite a bit of the seafood flavor of the sauce comes from those shells. The dish will be fine without them, of course, but you'll have shrimp in coconut-tomato sauce rather than a seafood-flavored sauce.",
+          "datePublished": "2023-07-30T19:04:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rufus"
+          },
+          "reviewBody": "Echoing others, I would not describe this as “richly flavored.” It was a pretty bland sauce. Probably could have benefited from a large amount of salt. I managed to simmer it down to a nice creamy texture/body, so I wouldn’t say it was thin. I served it over jasmine rice instead of pasta at the request of my family, and I kept expecting it to taste like a Thai curry and kept being disappointed.",
+          "datePublished": "2023-08-12T00:09:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Richard"
+          },
+          "reviewBody": "And how would you measure the liquid as it simmers to know when it had reduced by 1/4 ?\n\nHere's a trick: when you start the reduction process, put the handle of a wooden spoon in the liquid and note the point where the liquid comes on the spoon. As the liquid reduces, put the spoon handle in the liquid and see when it's at about the 3/4 mark. No mathematic involved.",
+          "datePublished": "2023-08-02T20:33:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kevsilverr"
+          },
+          "reviewBody": "This was quite delicious. It’s a bit labor intensive so it’s not really something that I would make multiple times a month, but it’s well worth the effort. It definitely needs some heat, so next time I will be adding quite a bit of red pepper flakes, or if I’m feeling really adventurous some scotch bonnet peppers. I think the lime zest and lime juice at the end set this dish over the edge. I didn’t think the herbs at the end were necessary, so I’ll probably skip that step next time.",
+          "datePublished": "2023-10-26T02:28:19.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1024445-shrimp-in-rundown-sauce-with-cavatelli",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yewande Komolafe"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "Richly flavored rundown, popular across the Caribbean, is the result of gently simmering seafood in coconut milk and tomatoes with aromatics such as scallions, onion and garlic until the flavors are concentrated and intense. Some say it gets its name from the way it lightly runs down and coats any starch or protein with which it comes into contact. At her restaurant, Bywater American Bistro, the chef Nina Compton tosses shrimp and house-made gnocchi with a rundown sauce made with the shrimp shells and scented with ginger and lemongrass. Here it’s served with cavatelli or shell pasta and is every bit as delicious. Lime zest plus a garnish of mixed soft herbs such as basil, chives and dill brighten the dish and add a hint of freshness.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Shrimp in Rundown Sauce With Cavatelli",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/84d22523-c1d2-5907-8f31-cfa8ec975f92#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/07/27/multimedia/yk-shrimp-and-rundown-sauce-whmc/yk-shrimp-and-rundown-sauce-whmc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Alex Lau for The New York Times. Food Stylist: Susie Theodorou.",
+          "dateModified": "2023-07-27T18:53:27.702Z",
+          "datePublished": "2023-07-27T18:53:27.702Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-07-27T18:53:27.702Z",
+          "url": "https://static01.nyt.com/images/2023/07/27/multimedia/yk-shrimp-and-rundown-sauce-whmc/yk-shrimp-and-rundown-sauce-whmc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/84d22523-c1d2-5907-8f31-cfa8ec975f92#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/07/27/multimedia/yk-shrimp-and-rundown-sauce-whmc/yk-shrimp-and-rundown-sauce-whmc-superJumbo.jpg",
+          "creditText": "Alex Lau for The New York Times. Food Stylist: Susie Theodorou.",
+          "dateModified": "2023-07-27T18:53:27.702Z",
+          "datePublished": "2023-07-27T18:53:27.702Z",
+          "height": "1638",
+          "representativeOfPage": true,
+          "uploadDate": "2023-07-27T18:53:27.702Z",
+          "url": "https://static01.nyt.com/images/2023/07/27/multimedia/yk-shrimp-and-rundown-sauce-whmc/yk-shrimp-and-rundown-sauce-whmc-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/84d22523-c1d2-5907-8f31-cfa8ec975f92#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/07/27/multimedia/yk-shrimp-and-rundown-sauce-whmc/yk-shrimp-and-rundown-sauce-whmc-mediumSquareAt3X.jpg",
+          "creditText": "Alex Lau for The New York Times. Food Stylist: Susie Theodorou.",
+          "dateModified": "2023-07-27T18:53:27.702Z",
+          "datePublished": "2023-07-27T18:53:27.702Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-07-27T18:53:27.702Z",
+          "url": "https://static01.nyt.com/images/2023/07/27/multimedia/yk-shrimp-and-rundown-sauce-whmc/yk-shrimp-and-rundown-sauce-whmc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024445-shrimp-in-rundown-sauce-with-cavatelli"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:09:55.672Z",
+  "scraping_status": "scraped"
+}

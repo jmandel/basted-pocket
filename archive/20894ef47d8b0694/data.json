@@ -1,0 +1,567 @@
+{
+  "id": "20894ef47d8b0694",
+  "original_url": "https://cooking.nytimes.com/recipes/1015473-spicy-big-tray-chicken",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1015473-spicy-big-tray-chicken",
+  "fetched_title": "Spicy Big Tray Chicken Recipe",
+  "main_text_content": "At Spicy Village in in Manhattan’s Chinatown, the Spicy Big Tray Chicken arrives on an aluminum tray You eat it on a foam plate with a plastic fork or chopsticks It’s a mound of chicken nearly afloat in a bath of dark, spicy sauce that contains star anise, Sichuan peppercorns, chile, garlic, cilantro, a few mystery ingredients and potatoes",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1016019-chinese-chili\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2014/02/05/dining/05PAIR_SPAN/05PAIR_SPAN-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2014/02/05/dining/05PAIR_SPAN/05PAIR_SPAN-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2014/02/05/dining/05PAIR_SPAN/05PAIR_SPAN-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2014/02/05/dining/05PAIR_SPAN/05PAIR_SPAN-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2014/02/05/dining/05PAIR_SPAN/05PAIR_SPAN-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2014/02/05/dining/05PAIR_SPAN/05PAIR_SPAN-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Chinese Chili</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Florence Fabricant</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2013/11/17/magazine/17eat/mag-17Eat-t_CA0-superJumbo.jpg",
+  "local_image_path": "scraped/20894ef47d8b0694/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/59f036af-f328-5bc5-b8e0-767d89218588",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1015473-spicy-big-tray-chicken",
+        "@type": "WebPage",
+        "name": "Spicy Big Tray Chicken"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1015473-spicy-big-tray-chicken",
+      "name": "Spicy Big Tray Chicken",
+      "description": "At Spicy Village in in Manhattan’s Chinatown, the Spicy Big Tray Chicken arrives on an aluminum tray. You eat it on a foam plate with a plastic fork or chopsticks. It’s a mound of chicken nearly afloat in a bath of dark, spicy sauce that contains star anise, Sichuan peppercorns, chile, garlic, cilantro, a few mystery ingredients and potatoes.  Those of you who live in or visit New York should eat this dish whenever you can, but it can absolutely be prepared at home. It’s not precisely a simple recipe. But it’s an excellent project one. And you can improve on the ingredients. The restaurant uses both MSG and Budweiser in the recipe. We subbed in Modelo Negra and omitted the MSG, but you certainly don't need to.",
+      "author": {
+        "@type": "Person",
+        "name": "Mark Bittman"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/fa2f4c2f-1944-528a-ad61-679d0630805d#videoSixteenByNine1050",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2013/11/17/magazine/17eat/mag-17Eat-t_CA0-videoSixteenByNine1050.jpg",
+          "creditText": "William Brinson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Raina Kattelson.",
+          "dateModified": "2019-10-08T18:12:00.937Z",
+          "datePublished": "2013-11-12T01:34:36.000Z",
+          "height": "591",
+          "representativeOfPage": true,
+          "uploadDate": "2013-11-12T01:34:36.000Z",
+          "url": "https://static01.nyt.com/images/2013/11/17/magazine/17eat/mag-17Eat-t_CA0-videoSixteenByNine1050.jpg",
+          "width": "1050"
+        },
+        {
+          "@id": "nyt://image/fa2f4c2f-1944-528a-ad61-679d0630805d#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2013/11/17/magazine/17eat/mag-17Eat-t_CA0-superJumbo.jpg",
+          "creditText": "William Brinson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Raina Kattelson.",
+          "dateModified": "2019-10-08T18:12:00.937Z",
+          "datePublished": "2013-11-12T01:34:36.000Z",
+          "height": "1331",
+          "representativeOfPage": true,
+          "uploadDate": "2013-11-12T01:34:36.000Z",
+          "url": "https://static01.nyt.com/images/2013/11/17/magazine/17eat/mag-17Eat-t_CA0-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/fa2f4c2f-1944-528a-ad61-679d0630805d#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2013/11/17/magazine/17eat/mag-17Eat-t_CA0-square640.jpg",
+          "creditText": "William Brinson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Raina Kattelson.",
+          "dateModified": "2019-10-08T18:12:00.937Z",
+          "datePublished": "2013-11-12T01:34:36.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2013-11-12T01:34:36.000Z",
+          "url": "https://static01.nyt.com/images/2013/11/17/magazine/17eat/mag-17Eat-t_CA0-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT1H",
+      "recipeYield": "at least 4 servings",
+      "recipeCuisine": "chinese",
+      "recipeCategory": "brunch, dinner, lunch, project, main course",
+      "keywords": "beer, chicken leg, chicken thighs, sichuan peppercorn",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 933
+      },
+      "recipeIngredient": [
+        "3 pounds bone-in, skin-on chicken thighs and legs",
+        "2 teaspoons salt, plus more to taste",
+        "2 teaspoons, plus 1 tablespoon black pepper, plus more to taste",
+        "1 12-ounce beer",
+        "1 pound new potatoes",
+        "1 to 2 quarts vegetable oil",
+        "2 tablespoons sliced garlic",
+        "2 teaspoons cumin seeds",
+        "2 teaspoons fennel seeds",
+        "1 teaspoon Sichuan peppercorns, roughly chopped",
+        "1 star anise, left whole",
+        "2 dried chiles, minced",
+        "1 1/2 tablespoons Sichuan hot bean sauce",
+        "2 tablespoons dark rice wine (preferably Fujian Cooking Wine)",
+        "3 to 4 cups chicken stock or water",
+        "2 tablespoons sugar",
+        "1/4 cup soy sauce",
+        "Cilantro, for garnish"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "With a cleaver, chop the chicken into 2-inch pieces, and toss with 2 teaspoons salt and 2 teaspoons black pepper. (Use chicken scraps to make stock if you can.) Cover with the beer and marinate it in the refrigerator overnight or for at least  a few hours. Cook the potatoes in salted water until nearly done; drain; cut into bite-size pieces if necessary."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat at least 2 inches of the oil in a wok or tall, narrow pot over high heat. \nThe more oil you use, the more chicken you can cook at one time."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When the oil is hot, fry the chicken, in batches if necessary, until slightly brown; depending on your heat, this could take 1 to 5 minutes. Stir frequently. Remove with a spider or slotted spoon and let rest until cool, then fry again — up to 5 minutes depending on your heat — until nicely browned and crisp; remove. If you have the time, refrigerate the chicken before proceeding."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Reduce the oil to about 2 tablespoons (reserve the rest for frying or other \nuses), and turn the heat to high. Add the garlic, and cook a few seconds, then \nadd another tablespoon of oil."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the cumin seeds, fennel seeds, Sichuan peppercorns, anise and dried chiles, and stir to combine. Add the hot bean sauce, and stir; return \nthe chicken to the wok or skillet."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Stir in the dark rice wine and 2 cups stock or water, and stir to create a  sauce. Add 1 tablespoon black pepper, the sugar and soy sauce; bring to a \nvigorous boil."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the potatoes, and continue to boil for another 10 to 15 minutes, adding \nmore liquid as needed to keep the mixture soupy; you want to wind up with 1 to \n2 cups sauce and tender potatoes. Taste, and adjust seasoning; add more black pepper if the taste isn’t strong."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Ladle the chicken, potatoes and broth into bowls. Garnish with cilantro and serve with noodles or rice."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2013-11-17T00:00:00.000Z",
+      "dateModified": "2020-12-21T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael C"
+          },
+          "reviewBody": "While we loved the sauce, the chicken just didn’t do it for us. An exceptional amount of work on the protein with not a great payoff. I would try it with boneless, skin-on thighs next time.",
+          "datePublished": "2025-04-08T08:25:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Clara"
+          },
+          "reviewBody": "This was great.  Used whole chickens cut up; double fried etc.   I've never been to Spicy Kitchen but this tasted just like something you'd buy in a cheap and fantastic Asian restaurant somewhere in the world.  Loved it.  Process to do but may very well do again for the result.",
+          "datePublished": "2025-03-01T14:38:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pepe"
+          },
+          "reviewBody": "The number seven was a number one in my book. The flavors were fantastic. Followed the recipe exactly, except I chopped up an entire chicken, I live with non-dark meat fanatics. I will definitely do this recipe again. Maybe add more broth to sop up all the yummy flavors with the rice.",
+          "datePublished": "2024-11-21T21:27:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sara"
+          },
+          "reviewBody": "Following the suggestions of other comments, I made this using wings/drumettes cooked with the air fryer setting on my range (400 for about 30 minutes).  Same results with less oil and no bone shards. It is fabulous- a ton of flavor and went well with the hand-pulled noodles as suggested by last weeks’ email. I might try it with a winter squash instead of potatoes next time…",
+          "datePublished": "2024-11-17T04:25:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Petra"
+          },
+          "reviewBody": "Made this for dinner last night, all the way over in little ol' NZ. Utterly delicious! My fussy daughter: \"I'd be happy if I was served this at a restaurant\"! We're heading to NY next year, I'm hoping I can try the original at Spicy Village if it's still there.",
+          "datePublished": "2024-11-11T00:40:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BarbaraC"
+          },
+          "reviewBody": "Thank you guys for suggesting roasting the chicken instead of deep-frying. I also added only 1 tsp sugar. It came out excellent!",
+          "datePublished": "2024-11-10T22:39:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jonesy"
+          },
+          "reviewBody": "I subbed tofu for the chicken left out all the vegetables put it on a sheet pan with donuts and coffee threw it out and ordered take out. Delicious.",
+          "datePublished": "2024-11-09T19:55:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "caroline"
+          },
+          "reviewBody": "I’ve had this at spicy village and made at home at least a dozen times. Don’t skip frying the chicken twice! Because you end up putting the chicken in the sauce you want to make sure the skin is a crispy-gone-soggy texture rather than something that goes rubbery. I soak wide rice noodles in cold water and throw them in the sauce towards the end of cooking. Turns into more of a noodle dish but it’s delicious. Using chicken wings is a great alternative to using a cleaver. And I always add MSG.",
+          "datePublished": "2024-02-14T13:21:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tony Boskovich"
+          },
+          "reviewBody": "Didn’t work for me or my wife. The flavors were not consistent through the dish. It probably works in a restaurant, but is too much work for the end product at home.",
+          "datePublished": "2022-08-21T23:57:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joe"
+          },
+          "reviewBody": "Da pan ji! I noticed this recipe on cooking.nytimes.com front page the morning of the opening day of the Beijing Winter Olympics and interpreted that placement as a subtly subversive sign. This dish was created by the Hui outside Xian in the late 1990s, quickly adopted by the Uyghur thereafter, and within years could be found throughout the entire country of China. It is an extremely symbolic food for the muslims in China. I'll cook of \"big plate chicken\" in honor of my friend out west!",
+          "datePublished": "2022-02-04T15:06:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rit"
+          },
+          "reviewBody": "Is there a version that does not require alcohol ?  What can be substituted for beer in this recipe ?",
+          "datePublished": "2022-02-04T12:33:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennifer"
+          },
+          "reviewBody": "Wish I had read the comments before making this. For a home cook, the double frying is a mess. And eating it with the bone in was not enjoyable. Next time, I'll get boneless skinless chicken thighs and stir fry them. I ended up adding a sliced shallot with the garlic and baby spinach at the end. Family loved it with the caveat of no frying nor bones next time. The sauce was the bomb!",
+          "datePublished": "2022-01-31T02:24:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "p"
+          },
+          "reviewBody": "if you dont like deep frying than a lot of szechuan cooking is just not for you",
+          "datePublished": "2022-01-29T22:44:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John"
+          },
+          "reviewBody": "50:50 mix of miso paste and sriracha to substitute hot bean sauce\nhigh heat roast(450f) the chicken and proceed with step 4\nSpicy Village serves it with your choice of noodles",
+          "datePublished": "2022-01-29T14:03:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Trexx"
+          },
+          "reviewBody": "A lot of these notes are 2+years old or more.  Instead of all of the fuss with oil frying the chicken, use an air fryer.  Efficient and much easier, and neater.",
+          "datePublished": "2022-01-28T21:23:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alan"
+          },
+          "reviewBody": "Maybe it's just me, but when I see 1 or 2 quarts cooking oil I stop reading.",
+          "datePublished": "2017-10-24T18:34:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathy"
+          },
+          "reviewBody": "The steam from the wet meat pushes the fat away from the interior. Deep fat frying just until the food is cooked does not add much fat to the dish. I filtered the cooled fat through a paper towel in a sieve set into a funnel back into the jar I used once before. It is getting more and more chicken fat tasting! It will go over my woodpile when it starts to turn rancid. But protected from air and light, I will probably get a few more chicken fries out of it. I don't fear deep fat frying.",
+          "datePublished": "2017-10-30T15:46:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan Lopez"
+          },
+          "reviewBody": "I love chicken thighs so I tried this recipe for a change of pace. <br/><br/>Instead of wok frying I oven baked the the marinated chicken with a bit of olive oil at high temperature for 40min (everyone's oven is different-for my oven this was at 250c ) This crisped the chicken and rendered the fat nicely. I used the rendered fat to begin at step 4 with a wok and it turned out well. I also added some sautéed green beans.",
+          "datePublished": "2017-10-24T21:32:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mjan"
+          },
+          "reviewBody": "Two tips, sportsfans!  Fry the chicken in a deep stock pot or a Dutch oven.  Keeps the oil off your cooktop and countertops.  Once the chicken is fried, finish this dish in a paella pan if you've got one.  You can complete cooking in the pan and use it to serve also.",
+          "datePublished": "2017-10-24T18:26:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "June"
+          },
+          "reviewBody": "i'm an old retired person and i'm lazy: i had a rotisserie chicken in the frig, cut it up and started with step #4. this recipe is fabulous and i'm going to make it again tonight. i had small dried red chiles from the Mexican spice rack at the supermercado and i didn't have the hot bean sauce. this is currently my very favorite chicken recipe and it looks great served in my paella pan.",
+          "datePublished": "2017-10-24T21:46:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mark"
+          },
+          "reviewBody": "I'm generally not attuned to deep frying mainly because the use of huge amounts of oil that needs to be filtered and stored when done.    That being said, you can shallow fry ,saute or even high heat roast(450f) the chicken and proceed with step 4 and still end up with a tasty dish.   I did and it was delicious.    Not trying to mess with the recipe, just pointing out a viable alternative to concerns that some posters have expressed.",
+          "datePublished": "2017-10-01T17:37:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mari"
+          },
+          "reviewBody": "I baked the marinated chicken on a pre-heated crisper pan at 240C (460F), having brushed it with vegetable oil and sprinkled it with salt. It took 25 mins to become browned and crispy - no deep-frying mess required! I used baby potatoes (Charlotte) and steamed them in skins until almost done, then halved them and added them to the sauce. I added 1/2, not 2, tbsp of sugar (brown), and Korean Gochujang instead of Sichuan hot bean sauce. I had a large fresh red chili so I used that, not dried. mmmm",
+          "datePublished": "2017-10-24T17:38:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leslye Borden"
+          },
+          "reviewBody": "I saw many notes about the mess frying made.  While I love the recipe, I try to avoid deep frying anything, so I roasted the thighs (not cut into 2-inch pieces) in a 450 degree oven, 15 minutes on each side.  They came out brown and crispy and I proceeded with the recipe after the frying step.  Came out wonderful.  Big hit!",
+          "datePublished": "2017-10-01T13:25:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael S"
+          },
+          "reviewBody": "Hi y'all,\n\nJust fyi this is an adaptation of a Uyghur dish from Xinjiang province in western China that is popular in Sichuan. It is known as \"da pan ji\" or \"big plate chicken.\" It is usually served over long wide noodles (think tagliatelle but like 2 or 3 times as wide). Not sure why the noodles are left out here as that's one of the best parts of this dish! You can usually find these noodles or something similar in the refrigerated section in a Chinese market. \n\nHappy cooking!",
+          "datePublished": "2021-01-29T20:38:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deborah Payne"
+          },
+          "reviewBody": "This was delicious but could Mr Bittman come clean my kitchen?  The frying is so messy and I used a wok which I thought would contain the splatters.  Also, I'm not certain anything was gained by frying the chicken twice and then refrigerating it before proceeding with the next steps.  It was tasty and I would cook it again in spite of the state of my kitchen.",
+          "datePublished": "2017-10-30T12:39:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pete"
+          },
+          "reviewBody": "The faster food is cooled the less likely it is to grow bacteria. Cooling food on the counter before refrigerating is a great way to ensure the food stays in the danger zone between 40F and 140F. Place cooked food in a shallow pan, not piled up or too close together, and refrigerate. If you want to avoid sogginess from condensation cool it unwrapped to start, then wrap once it has cooled if you plan to store it more than a few hours.",
+          "datePublished": "2017-10-24T21:53:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nick"
+          },
+          "reviewBody": "Wow. 90% percent of the people who commented below do not understand this dish... This recipe is an excellent simplified version of the actual glorious mouth tingling plate at Spicy Village.",
+          "datePublished": "2019-02-19T04:05:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NYTfan"
+          },
+          "reviewBody": "My first post on NYT :-) My children like their food well spiced but are not fond of whole spices. So I used cumin, fennel and sichuan pepper powders. I oven roasted chicken and potatoes and I substituted sparkling apple soda for beer (gluten allergy) and did not have Chinese rice wine. Yet it turned out amazing. Will definitely make this again... and again!",
+          "datePublished": "2017-10-01T14:41:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathleen"
+          },
+          "reviewBody": "This is delicious! So flavorful! Next time I'll add more potatoes. (I boiled another pound of potatoes and enjoyed the flavorful leftovers the next day.) Used boneless chicken thighs and less oil.",
+          "datePublished": "2017-10-30T12:37:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathy"
+          },
+          "reviewBody": "I found hacking the legs the most complicated part. I will bone out the thighs next time. The pepper beer marinade was great. I very much liked the taste of the chicken after the second frying and will try that without the braise too.  I used water instead of broth and the sauce was fabulous.",
+          "datePublished": "2017-10-30T15:48:57.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2013
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1015473-spicy-big-tray-chicken",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Mark Bittman"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2013,
+      "description": "At Spicy Village in in Manhattan’s Chinatown, the Spicy Big Tray Chicken arrives on an aluminum tray. You eat it on a foam plate with a plastic fork or chopsticks. It’s a mound of chicken nearly afloat in a bath of dark, spicy sauce that contains star anise, Sichuan peppercorns, chile, garlic, cilantro, a few mystery ingredients and potatoes.  Those of you who live in or visit New York should eat this dish whenever you can, but it can absolutely be prepared at home. It’s not precisely a simple recipe. But it’s an excellent project one. And you can improve on the ingredients. The restaurant uses both MSG and Budweiser in the recipe. We subbed in Modelo Negra and omitted the MSG, but you certainly don't need to.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Spicy Big Tray Chicken",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/fa2f4c2f-1944-528a-ad61-679d0630805d#videoSixteenByNine1050",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2013/11/17/magazine/17eat/mag-17Eat-t_CA0-videoSixteenByNine1050.jpg",
+          "creditText": "William Brinson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Raina Kattelson.",
+          "dateModified": "2019-10-08T18:12:00.937Z",
+          "datePublished": "2013-11-12T01:34:36.000Z",
+          "height": "591",
+          "representativeOfPage": true,
+          "uploadDate": "2013-11-12T01:34:36.000Z",
+          "url": "https://static01.nyt.com/images/2013/11/17/magazine/17eat/mag-17Eat-t_CA0-videoSixteenByNine1050.jpg",
+          "width": "1050"
+        },
+        {
+          "@id": "nyt://image/fa2f4c2f-1944-528a-ad61-679d0630805d#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2013/11/17/magazine/17eat/mag-17Eat-t_CA0-superJumbo.jpg",
+          "creditText": "William Brinson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Raina Kattelson.",
+          "dateModified": "2019-10-08T18:12:00.937Z",
+          "datePublished": "2013-11-12T01:34:36.000Z",
+          "height": "1331",
+          "representativeOfPage": true,
+          "uploadDate": "2013-11-12T01:34:36.000Z",
+          "url": "https://static01.nyt.com/images/2013/11/17/magazine/17eat/mag-17Eat-t_CA0-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/fa2f4c2f-1944-528a-ad61-679d0630805d#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2013/11/17/magazine/17eat/mag-17Eat-t_CA0-square640.jpg",
+          "creditText": "William Brinson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Raina Kattelson.",
+          "dateModified": "2019-10-08T18:12:00.937Z",
+          "datePublished": "2013-11-12T01:34:36.000Z",
+          "height": "640",
+          "representativeOfPage": true,
+          "uploadDate": "2013-11-12T01:34:36.000Z",
+          "url": "https://static01.nyt.com/images/2013/11/17/magazine/17eat/mag-17Eat-t_CA0-square640.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1015473-spicy-big-tray-chicken"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:04:12.837Z",
+  "scraping_status": "scraped"
+}

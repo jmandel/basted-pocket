@@ -1,0 +1,620 @@
+{
+  "id": "a6fb1b88879f4655",
+  "original_url": "https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles",
+  "fetched_title": "San Francisco-Style Vietnamese American Garlic Noodles Recipe (with Video)",
+  "main_text_content": "These noodles, adapted from the cookbook &quot;The Wok&quot; by J Kenji López-Alt, and based on the noodle dish originally created and served by Helene An at San Francisco’s Thanh Long restaurant, are extraordinarily simple and delicious on their own, but that doesn’t mean you can’t fancy them up a bit They go very well with seafood, and some raw, shell-​on shrimp stir-​fried along with the garlic right from the start would be an excellent addition",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026260-hoisin-garlic-noodles\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/04/17/multimedia/hm-hoisin-garlic-noodles-cblh/hm-hoisin-garlic-noodles-cblh-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Hoisin Garlic Noodles</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Hetty Lui McKinnon</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/a6fb1b88879f4655/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/5e0de4ac-8eba-5e0e-9438-f4487f4d8422",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles",
+        "@type": "WebPage",
+        "name": "San Francisco-Style Vietnamese American Garlic Noodles"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles",
+      "name": "San Francisco-Style Vietnamese American Garlic Noodles",
+      "description": "These noodles, adapted from the cookbook \"The Wok\" by J. Kenji López-Alt, and based on the noodle dish originally created and served by Helene An at San Francisco’s Thanh Long restaurant, are extraordinarily simple and delicious on their own, but that doesn’t mean you can’t fancy them up a bit. They go very well with seafood, and some raw, shell-​on shrimp stir-​fried along with the garlic right from the start would be an excellent addition. You could also add a few spoonfuls of tarako or mentaiko — ​Japanese salted pollock roe. Sushi-​style flying fish roe (tobiko) or salmon roe (ikura) would also be a great addition, as would chunks of crab or lobster meat, or even Western-​style caviar (if you’re feeling flush).",
+      "author": {
+        "@type": "Person",
+        "name": "J. Kenji López-Alt"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/8576b280-bd0c-5603-9aee-e59391d81fd8#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Sang An for The New York Times. Food Stylist; Simon Andrews.",
+          "dateModified": "2024-02-29T16:40:04.072Z",
+          "datePublished": "2024-02-29T16:40:04.072Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-29T16:40:04.072Z",
+          "url": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/8576b280-bd0c-5603-9aee-e59391d81fd8#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-superJumbo.jpg",
+          "creditText": "Sang An for The New York Times. Food Stylist; Simon Andrews.",
+          "dateModified": "2024-02-29T16:40:04.072Z",
+          "datePublished": "2024-02-29T16:40:04.072Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-29T16:40:04.072Z",
+          "url": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/8576b280-bd0c-5603-9aee-e59391d81fd8#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-mediumSquareAt3X.jpg",
+          "creditText": "Sang An for The New York Times. Food Stylist; Simon Andrews.",
+          "dateModified": "2024-02-29T16:40:04.072Z",
+          "datePublished": "2024-02-29T16:40:04.072Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-29T16:40:04.072Z",
+          "url": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT15M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, quick, weeknight, noodles, pastas, main course",
+      "keywords": "budget, fish sauce, garlic, spaghetti, vietnamese american",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 10338
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 578,
+        "unsaturatedFatContent": "5 grams",
+        "carbohydrateContent": "91 grams",
+        "cholesterolContent": null,
+        "fatContent": "15 grams",
+        "fiberContent": "4 grams",
+        "proteinContent": "19 grams",
+        "saturatedFatContent": "9 grams",
+        "sodiumContent": "593 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "4 tablespoons unsalted butter",
+        "20 medium garlic cloves, minced or smashed in a mortar and pestle",
+        "4 teaspoons oyster sauce",
+        "2 teaspoons light soy sauce or shoyu",
+        "2 teaspoons fish sauce",
+        "1 pound dry spaghetti",
+        "1 ounce grated Parmesan or Pecorino Romano (heaping 1/4 cup)",
+        "A small handful of thinly sliced scallions (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Melt the butter in a wok or saucepan over medium heat. Add the garlic and cook, stirring, until fragrant but not browned, about 2 minutes. Add the oyster sauce, soy sauce and fish sauce, and stir to combine. Remove from the heat."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, bring 1 1/2 inches of water to a boil in a 12-​inch skillet or sauté pan over high heat. (Alternatively, heat up just enough water to cover the spaghetti in a large Dutch oven or saucepan.) Add the pasta, stir a few times to make sure it’s not clumping, and cook, stirring occasionally, until just shy of al dente (about 2 minutes short of the recommended cook time on the package)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Using tongs, transfer the cooked pasta to the garlic sauce, along with whatever water clings to it. (Reserve the pasta water in the skillet.) Increase the heat to high, add the cheese to the wok, and stir with a wooden spatula or spoon and toss vigorously until the sauce is creamy and emulsified, about 30 seconds. If the sauce looks too watery, let it keep reducing. If it looks greasy, splash some more cooking water into it and let it re-​emulsify. Stir in the scallions (if using), and serve immediately."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/05aa651e-b444-561c-b71c-f376f07ba236",
+        "@type": "VideoObject",
+        "author": {
+          "@id": "nyt://person/0f1a5b18-7e38-59fe-8132-b5015cd37148",
+          "@type": "Person",
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/by/the-new-york-times"
+        },
+        "bitrate": "0",
+        "contentSize": "116902753",
+        "contentUrl": "https://vp.nyt.com/video/2024/03/11/116335_1_KLA-garlic-noodles-CV_wg_480p.mp4",
+        "creator": {
+          "@id": "nyt://person/0f1a5b18-7e38-59fe-8132-b5015cd37148",
+          "@type": "Person",
+          "name": "The New York Times",
+          "url": "https://www.nytimes.com/by/the-new-york-times"
+        },
+        "dateModified": "2024-10-15T14:14:05.000Z",
+        "datePublished": "2024-03-12T13:13:49.000Z",
+        "description": "These noodles, adapted from the cookbook “The Wok” by J. Kenji López-Alt, and based on the noodle dish originally created and served by Helene An at San Francisco’s Thanh Long restaurant, are extraordinarily simple and delicious on their own, but that doesn’t mean you can’t fancy them up a bit. They go very well with seafood, and some raw, shell-​on shrimp stir-​fried along with the garlic right from the start would be an excellent addition. Recently, I’ve taken to adding a few spoonfuls of tarako or mentaiko — ​Japanese salted pollock roe. Sushi-​style flying fish roe (tobiko) or salmon roe (ikura) would also be a great addition, as would chunks of crab or lobster meat, or even Western-​style caviar (if you’re feeling flush).",
+        "duration": "PT9M32S",
+        "height": "480",
+        "name": "San Francisco-Style Vietnamese American Garlic Noodles",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/8576b280-bd0c-5603-9aee-e59391d81fd8#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-videoSixteenByNineJumbo1600.jpg",
+            "creditText": "Sang An for The New York Times. Food Stylist; Simon Andrews.",
+            "dateModified": "2024-02-29T16:40:04.072Z",
+            "datePublished": "2024-02-29T16:40:04.072Z",
+            "height": "900",
+            "uploadDate": "2024-02-29T16:40:04.072Z",
+            "url": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-videoSixteenByNineJumbo1600.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/8576b280-bd0c-5603-9aee-e59391d81fd8#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-superJumbo.jpg",
+            "creditText": "Sang An for The New York Times. Food Stylist; Simon Andrews.",
+            "dateModified": "2024-02-29T16:40:04.072Z",
+            "datePublished": "2024-02-29T16:40:04.072Z",
+            "height": "1365",
+            "uploadDate": "2024-02-29T16:40:04.072Z",
+            "url": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-superJumbo.jpg",
+            "width": "2048"
+          },
+          {
+            "@id": "nyt://image/8576b280-bd0c-5603-9aee-e59391d81fd8#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-mediumSquareAt3X.jpg",
+            "creditText": "Sang An for The New York Times. Food Stylist; Simon Andrews.",
+            "dateModified": "2024-02-29T16:40:04.072Z",
+            "datePublished": "2024-02-29T16:40:04.072Z",
+            "height": "1800",
+            "uploadDate": "2024-02-29T16:40:04.072Z",
+            "url": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-mediumSquareAt3X.jpg",
+            "width": "1800"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-videoSixteenByNineJumbo1600.jpg",
+        "transcript": "“Whoa. Whoa!” [MUSIC PLAYING] Hey, everyone. This is Kenji López-Alt, and today we’re going to make some Vietnamese-American San Francisco-style garlic noodles. I first had this dish in 2014 at a restaurant in the Outer Sunset called Thanh Long, which is actually where the dish was invented. So, it’s not a Vietnamese dish. It’s a dish that was invented, in fact, in the US in San Francisco. The story goes that Helene An, who was the owner of the restaurant, traveled to a restaurant in Nob Hill, an Italian area, and she had a bowl of garlic spaghetti, which she thought was bland. And so, she decided that she wanted to take some of the ideas from the garlic spaghetti, apply some of her flavors, some of those Vietnamese flavors, and come up with a new dish that would be appealing both to her regular customers and also, hopefully, draw in some new customers. So, it’s got soy sauce, fish sauce, oyster sauce, butter, and Parmesan cheese. So, the combination sounds a little strange, but when you get it all mixed up into a single bowl, it’s really incredible. The dish has a lot of garlic, and I mean a lot. There’s 20 cloves of garlic for four servings, so it’s a lot of garlic in there. The way we cook it down and the way we emulsify it into the sauce makes it a little bit milder than it seems, but it is definitely a dish for garlic lovers. First thing I’m going to do is start with some water, and I’m putting this in a skillet, as opposed to a deep pot, which I’ll explain in a little bit when we’re actually cooking the pasta. But first thing, I’m going to get this going into a boil. At Thanh Long, they use fresh wheat noodles. I like to make this dish at home with spaghetti because I find it to be -- well, first of all, I always have dried spaghetti at home, and I rarely have fresh wheat noodles. And I also sort of like the nod to the more Italian and Italian-American traditions. So, using dried spaghetti works really well for this dish. All right, and while that comes to a boil, I’m going to start working with my garlic. So, 20 cloves of garlic. There’s a number of ways you can prepare your garlic. And depending on how you prepare it, you get different flavors out of it. And so, garlic, the flavor that we strongly associate with garlic, the pungent, spicy stuff, those flavors don’t exist in raw garlic. They only exist once you cut open garlic cells. These precursor chemicals come out and combine and form those flavor compounds that give garlic its heat. And so, depending on how you cut the garlic, you’re going to form more or less of those compounds. Also, the more cells you rupture when you’re preparing your garlic, the stronger that flavor is going to be. And so, in order to get the maximum amount of garlic flavor, I like to use a mortar and pestle because a mortar and pestle crushes, as opposed to simply shears apart cells. You know, it’s like when Godzilla comes and steps on the shipping yard and crushes all those containers and really releases everything? So you get much more flavor using a mortar and pestle than just chopping it with a knife. So, I’m going to roughly chop those garlic cloves, just to get them started. Add a little pinch of salt. The salt does a couple of things. Early on in the process, it acts as an abrasive, so it really helps the garlic kind of grind down. And then eventually, that salt, it pretty quickly is going to dissolve into the juices of the garlic that you’re pulling out. So I’m not going for a total paste here. It doesn’t have to be super fine. I think that looks about right. So, there’s still some kind of chunks in there. So, now, butter. We don’t want the butter to brown, though. We just want to kind of melt it. We’re going for that milder cooked garlic flavor that is not yet to the point where it’s browning or really developing any of those darker flavors. Oh, man, that’s pungent. Yeah, we’re going to let it soften and cook. Oh, and by the way, once you get it pounded in the mortar and pestle, those really stronger, what are called the lachrymators, the things that get into your eyes and get into the back of your nose, those flavor compounds will start to develop relatively rapidly. So, you do want to make sure that you pound the garlic just before you start using it. Otherwise, it’ll start to get a little bit too strong. This is also one of those situations where if you go to the farmer’s market and you find that really nice garlic, the really nice fresh garlic or some kind of special variety of garlic that you want to try out, this is a great dish to do that with. All right, so our water’s coming up to a boil. I’m not going to season it as heavily with salt as I would if I had a big pot because what’s going to happen is this pasta water is going to get very concentrated. And we’re going to add it to our sauce later on. There’s already a bunch of other salty ingredients going into the sauce, so we don’t want to put too much salt in that water. All right, so I think at this point, our garlic is on the verge of starting to brown, which I don’t want to happen, so I’m going to lower the heat. I’m going to start adding my sauces. So, soy sauce, fish sauce, and oyster sauce. So these three sauces, all of them are sort of what I’ve referred to as umami bombs. So, it’s a big umami party in here. So, the reason I’m cooking this spaghetti in a smaller skillet, as opposed to a big pot, you can see it already. The water is starting to get kind of cloudy and starchy. And that’s all starch that’s being boiled off from the pasta itself. That starchy pasta water, obviously, is going to help our sauce emulsify later on and make it really nice and creamy, so that all the spaghetti gets coated really well in that sauce. If you were to boil this in a very big pot, you end up diluting that starch, so it doesn’t work as effectively. I used to work in an Italian restaurant. At the beginning of service, when the water was completely fresh, it was really hard to get pasta sauces to emulsify properly. And then over the course of the evening, as you were cooking, use the same water to cook pasta so it would get starchier and starchier and starchier. And so, the pasta dishes would actually get better as the night went on. So, if you’ve got a late reservation at an Italian restaurant, you’re probably getting better pasta than if you get that first reservation. The one thing when you cook in a skillet like this, as opposed to a big pot, you do have to stir it a little bit more, because at the very start especially, there’s a chance that the surface starch on the pasta is going to get it all to stick together. So you want to make sure that those strands of spaghetti are separated from each other. So, we’re going for a shy of al dente, which means we want the pasta to be tender, but still have more than a little bite in the center. So the very center of it should actually taste a little bit undercooked. I’m not going to drain the pasta. I’m just going to lift it with tongs. And whatever water comes with it stays with it. I’m going to keep the skillet of pasta water on the side, just to adjust things as I go. It’s always a good idea to reserve that pasta water because there’s nothing better for adjusting the consistency of your sauce at the end. Once you get the pasta in your skillet like this, it kind of enters what my friend and colleague Daniel Gritzer over at Serious Eats, he calls it pasta bullet time, where, essentially, once you get it into the sauce, it cooks slower than it would in just the plain water, mainly because there’s acid in the sauce, and so the way the pasta absorbs water, the way the starch cooks is a little bit slower and a little bit different. So, even though, in here, it probably would have been done in about a minute, we now probably have 2 or 3 minutes to get it done in here. So it buys you a little bit of time. All right, so I can hear it’s kind of sizzling, which tells me that there’s not enough water in there. That sizzling is the sound of frying, which indicates that the water has boiled off a little too much. So you want to hear more of like a sputtering as opposed to a sizzle. We don’t want to fry the spaghetti. We want to get it nice and creamy. I’m doing this at the highest heat, by the way, because we want to encourage real rapid boiling, because that also is going to help with the emulsification. All right, so, we are now basically at al dente, which means this is done. [MUSIC PLAYING] I want it to be actually slightly looser in the pan than I want to serve it because as it cools, it’s going to thicken up a bit. And of course, in the time that it takes to get that pasta to the table, it’s also going to absorb some of that liquid. But you can see here how nice and creamy this sauce has become. And that’s just from all the starch in the pasta. All right, so at the very end, we’re going to shut off the heat. We’ll add our cheese. I’m going to reserve a tiny bit to sprinkle on at the end. Add some scallions. Scallions are totally optional, I think typically not even in the dish at the restaurant, but I like them. Another thing I like to add here is any kind of salted preserved fish eggs. I like to do it with mentaiko, so Japanese salted pollock roe. But you could also do it with something like shaved bottarga. You could do it with flying fish roe. I think fish eggs go really nicely in this. All right, so we’re just going to give it a few turns until that cheese is distributed, and everything’s nice and creamy. And so, what you want to see is this creamy texture of the sauce clinging to the spaghetti. You don’t want to see it watery. You don’t want to see your spaghetti kind of just pull up loose. You want it to really cling to there, and I think we’re at that point. All right, so this is it. You saw I added the cheese off heat, by the way, the cheese and the scallions off heat. The cheese is really the more important part to do off heat. If you add it while it’s on the heat, you increase the chance that the cheese is going to clump up and turn into a congealed ball of parmesan, instead of staying creamy and emulsified. The amount of pasta water we had in here and the starchiness of that pasta water really goes a long way in making sure that doesn’t happen, but it’s still a risk. And so to mitigate that risk, you always add the cheese off heat and toss it in. I like to see the garlic clinging to it, like that. Super garlicky, real umami. I mean, it has all the things that you want out of like garlic spaghetti. It has a little bit of that cacio e pepe, real intense cheesiness to it, umami flavor. That’s a good bowl of noodles. [LAUGHS] [MUSIC PLAYING]",
+        "uploadDate": "2024-03-12T13:13:49.000Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000009355953/san-francisco-style-vietnamese-american-garlic-noodles.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2022-09-25T00:00:00.000Z",
+      "dateModified": "2025-02-18T15:31:41.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ben"
+          },
+          "reviewBody": "If you’ve lived in San Francisco for a while and visited the restaurants that serve these noodles, you’ll likely have learned the local lore about just how hard the family who runs this restaurant has worked to keep this recipe a secret - according to some, all the way back to Vietnam. I find it in very, very poor taste that Lopez-Alt went out of his way to sleuth this. I’ve stopped using any of his recipes as a result.",
+          "datePublished": "2025-05-14T05:12:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandra"
+          },
+          "reviewBody": "Delicious! Followed the recipe as it was written.",
+          "datePublished": "2025-05-04T16:35:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PABlues"
+          },
+          "reviewBody": "I doubted this modest recipe, but shouldn’t have. It was excellent and earned a spot in the repeat line up.",
+          "datePublished": "2025-05-03T22:43:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ThatGirlAnna"
+          },
+          "reviewBody": "I cooked bacon with the garlic, I highly recommend. Add the garlic when the bacon is halfway done. I accidentally burnt the bacon and garlic.",
+          "datePublished": "2025-05-01T02:42:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "IK"
+          },
+          "reviewBody": "This was tasty. I followed the instructions closely and I think you need more water for the pasta as I had none leftover when the pasta was transferred to the sauce pan.",
+          "datePublished": "2025-04-20T22:51:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill"
+          },
+          "reviewBody": "You can never go wrong with a recipe from Kenji - and this was no exception.  Very good!  And as an added bonus, I now use the garlic plus all the liquids as a marinade for tuna steaks.",
+          "datePublished": "2025-04-15T23:30:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Skominsky"
+          },
+          "reviewBody": "Very delicious.  I’ve yet to try it without peel-on shrimp like in the notes, but this might be my favorite recipe on here so far.  Soooo good, easy peasy to fix.",
+          "datePublished": "2025-04-08T14:12:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Terry Murphy...G.I. Murphys son."
+          },
+          "reviewBody": "I purchased oyster sauce and fish sauce a while ago and they were both getting old so I looked for a recipe using both and this fit the bill. I recommend it. I am a sauce man.",
+          "datePublished": "2025-04-02T23:08:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amanda"
+          },
+          "reviewBody": "Please do yourself a favor and make this with five-spice chicken on top. The perfect combination and one of my favorite meals from the Perilla restaurant in SF.",
+          "datePublished": "2025-03-29T01:36:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melanie Mowinski"
+          },
+          "reviewBody": "I substituted cannellini beans for the cheese and added fresh grated carrots and spinach to enhance nutritional value.  It came out great.",
+          "datePublished": "2025-03-27T23:40:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen LaForge"
+          },
+          "reviewBody": "I substituted the fish sauce and clam sauce for white wine and the juice of a jar of stuffed green olives with garlic, \nKept the soy sauce keeping it vegetarian.\nIt was delicious, divine, and delightful!\nThanks!",
+          "datePublished": "2025-03-22T01:46:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steve"
+          },
+          "reviewBody": "I like to pan-fry the cooked pasta in some hot oil (with a heavy iron skillet pressing down on the noodles as they fry).  I also add peas.  And sometimes I also add Asian fried-chile oil to the sauce.",
+          "datePublished": "2025-03-15T22:56:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RS"
+          },
+          "reviewBody": "One of my fav Kenji recipe",
+          "datePublished": "2025-03-13T02:51:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "K williams"
+          },
+          "reviewBody": "I replace 1/4 of noodles with stringy zucchini.",
+          "datePublished": "2025-03-09T23:44:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bobbi"
+          },
+          "reviewBody": "Excellent. I used what I had : Udon noodles, cotija cheese (can’t get good parm here), and chopped broccolini for the green stuff at the end.",
+          "datePublished": "2025-03-08T19:50:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ian from Salt Spring Island, BC Canada"
+          },
+          "reviewBody": "I’ve been using my meat tenderizing mallet for smashing garlic lately. Turns it into a creamy paste. Does a great job and I’ll use it with this recipe.",
+          "datePublished": "2022-03-06T16:16:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gigi"
+          },
+          "reviewBody": "As a Vietnamese immigrant whose parents owned a restaurant for decades in Denver, I would like to add another essential condiment/sauce in the canon of Vietnamese cooking called Maggi. My family makes this dish using Maggi and not fish sauce. Just thought I'd offer this up as another way to make these yummy noodles. Maggi, in its iconic curvaceous dark brown bottle, is not made of soy but wheat protein. You will often that tangy saltiness in Vietnamese sandwiches.",
+          "datePublished": "2022-03-08T02:32:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eileen"
+          },
+          "reviewBody": "I keep a large bulb of garlic, roots intact, in a small vase (one that held a hyacinth bulb purchased at Aldi works well). Use the tall green shoots from the garlic instead of scallions to add flavor and greenery to any number of dishes. The roots that grow swirl in a lovely pattern in the bottom of the vase, and the bulb will continue to produce shoots for weeks.",
+          "datePublished": "2022-03-07T16:27:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patrick"
+          },
+          "reviewBody": "YiaYia, a mortar and pestle crushes the garlic, releasing its flavors and oils, but a food processor just cuts it up finely, and the hard sides of the garlic are still intact, albeit smaller.  But, little of the garlic’s flavor is released when it is simply cut into small pieces, so if you don’t have a mortar and pestle, it’s better to crush the garlic with the flat side of a heavy knife, and then mince it.",
+          "datePublished": "2022-03-05T14:23:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RobinP"
+          },
+          "reviewBody": "Have been cooking pasta in a skillet for years. Use approximately 3 cups of water per 12 oz of pasta in 12-inch skillet. Turn heat to high. Cook approximately 10 minutes, stirring frequently, adding more water towards end if needed as noodles absorb the water and soften. Add favorite sauce - or transfer as recommended in this recipe and toss till you are happy with the finish.",
+          "datePublished": "2022-03-05T12:55:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "James F"
+          },
+          "reviewBody": "Hamish, \nFolks have tested this plenty of times - there's basic science to it.  Here's one article from a colleague of Kenji's:\n<a href=\"https://www.seriouseats.com/how-to-mince-chop-garlic-microplane-vs-garlic-press\" target=\"_blank\">https://www.seriouseats.com/how-to-mince-chop-garlic-microplane-vs-garlic-press</a>\nThat said, we cook for our homes, not a lab. Process the garlic any which way you want.  The important thing is someone wanting to cook.",
+          "datePublished": "2022-03-07T12:24:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jacques B"
+          },
+          "reviewBody": "DO not buy crushed garlic in a jar. You can get away with whole peeled garlic in a crunch. Garlic is easy to use peel a few bulbs and leave it whole in your fridge and then you will have the pleasure of using garlic in your cereal in the morning.(just to see if anyone is reading)",
+          "datePublished": "2022-03-07T19:34:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "michelle"
+          },
+          "reviewBody": "Unusual for me, completely followed the recipe, no changes. I'll never cook pasta in a pot again.Added a fair amount of the pasta water, to the end product and tasted like we had a cream sauce. This is amazing, no leftovers ...and chop the garlic however you want!",
+          "datePublished": "2022-03-07T01:53:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CFXK"
+          },
+          "reviewBody": "1. On a well supported cutting board, smash garlic cloves with the flat side of a chef's knife - making sure to: hold the handle of the knife over the edge of the board; center the blade over the garlic (lest you send the clove flying across the kitchen); and give the side of the blade a nice hard whack.\n2.  Gather smashed cloves into what will look almost like a pile of pulp, and mince away.\n\nEasy; fast; efficient - and a great way to channel aggression.",
+          "datePublished": "2022-03-06T14:55:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lena"
+          },
+          "reviewBody": "I have made this dish dozens of times over the last few years and it's always delicious. I do have a suggestion, however. The amount of sauce needs to be at least doubled from what is suggested above. Keep the butter and garlic on a very low flame so the garlic doesn't burn. Turn the heat off before adding the cheese.",
+          "datePublished": "2022-03-07T21:43:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brad"
+          },
+          "reviewBody": "I found a garlic \"rocker\" on Amazon while browsing kitchen utensils. I's a bent bar shape with small holes in the center. You press down and rock back and forth on a garlic clove and it pushes the garlic through the holes, releasing the most intense garlic flavor. It's much like a press, but without the messy clean up and frustration of getting all the garlic out of the press. It cleans up in about 15 seconds.\nI'll never mince garlic again!",
+          "datePublished": "2022-03-07T17:58:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Betsy"
+          },
+          "reviewBody": "Fresh is surely better, but those little jars of minced garlic really do make life easier.",
+          "datePublished": "2022-03-05T22:35:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MenloPaul"
+          },
+          "reviewBody": "I think there is also a little tangerine juice to counter the garlic, as in their sumptuous roast crabs...",
+          "datePublished": "2022-03-05T05:29:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MichaelH"
+          },
+          "reviewBody": "There are lots of vegan fish sauces and oyster sauces available, and they taste great.  \n\nI live in Northern Virginia, so I get them from H Mart, but you can also find online.  The vegan oyster sauce I prefer is Kikkoman. \n\nps I just checked the bottle and it says vegetarian, not vegan - but I don't see anything in the ingredient list that's non-vegan.",
+          "datePublished": "2022-03-05T15:40:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "laurie"
+          },
+          "reviewBody": "1- Trust and follow the pasta cooking method - but stir to unstick from pan  \n2- Use all the garlic even if it seems like too much \n3- Add a bit more of each of the sauces, and more like 1/2 c. cheese \n\nI ended up not even needing to drain the pasta, end result was perfectly creamy/emulsified, not greasy in the slightest. I told my Roman-born husband it was like Vietnamese carbonara. We added lots of black pepper (like the crab dish has). Anyone tried it w/ bottarga instead of cheese?",
+          "datePublished": "2022-03-06T20:06:36.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "J. Kenji López-Alt"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022,
+      "description": "These noodles, adapted from the cookbook \"The Wok\" by J. Kenji López-Alt, and based on the noodle dish originally created and served by Helene An at San Francisco’s Thanh Long restaurant, are extraordinarily simple and delicious on their own, but that doesn’t mean you can’t fancy them up a bit. They go very well with seafood, and some raw, shell-​on shrimp stir-​fried along with the garlic right from the start would be an excellent addition. You could also add a few spoonfuls of tarako or mentaiko — ​Japanese salted pollock roe. Sushi-​style flying fish roe (tobiko) or salmon roe (ikura) would also be a great addition, as would chunks of crab or lobster meat, or even Western-​style caviar (if you’re feeling flush).",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "San Francisco-Style Vietnamese American Garlic Noodles",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/8576b280-bd0c-5603-9aee-e59391d81fd8#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Sang An for The New York Times. Food Stylist; Simon Andrews.",
+          "dateModified": "2024-02-29T16:40:04.072Z",
+          "datePublished": "2024-02-29T16:40:04.072Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-29T16:40:04.072Z",
+          "url": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/8576b280-bd0c-5603-9aee-e59391d81fd8#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-superJumbo.jpg",
+          "creditText": "Sang An for The New York Times. Food Stylist; Simon Andrews.",
+          "dateModified": "2024-02-29T16:40:04.072Z",
+          "datePublished": "2024-02-29T16:40:04.072Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-29T16:40:04.072Z",
+          "url": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/8576b280-bd0c-5603-9aee-e59391d81fd8#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-mediumSquareAt3X.jpg",
+          "creditText": "Sang An for The New York Times. Food Stylist; Simon Andrews.",
+          "dateModified": "2024-02-29T16:40:04.072Z",
+          "datePublished": "2024-02-29T16:40:04.072Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-02-29T16:40:04.072Z",
+          "url": "https://static01.nyt.com/images/2022/03/09/dining/09Kenji-Garlic-Noodles-e-copy/merlin_202696338_41f4cf49-3706-44b8-a732-cbcfc7e955dd-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:53.250Z",
+  "scraping_status": "scraped"
+}

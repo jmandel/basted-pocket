@@ -1,0 +1,566 @@
+{
+  "id": "9ef060510abce1c3",
+  "original_url": "https://cooking.nytimes.com/recipes/1020187-spiced-chickpea-salad-with-tahini-and-pita-chips",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1020187-spiced-chickpea-salad-with-tahini-and-pita-chips",
+  "fetched_title": "Spiced Chickpea Salad With Tahini and Pita Chips Recipe",
+  "main_text_content": "This main-course salad has all the fresh flavors of a great falafel sandwich — tahini, mint, paprika, cucumber, cumin, garlic — plus the crunch of pita and the satisfying heft of chickpeas The vegetarian cookbook writer Hetty McKinnon created this recipe, and the amount of olive oil she calls for might seem excessive Don’t hold back: After cooking the chickpeas, the oil becomes part of the garlicky, paprika-warmed dressing for the finished dish",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1020529-creamy-chickpea-pasta-with-spinach-and-rosemary\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-blogSmallInline-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-videoSixteenByNine310-v3.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2021/10/26/dining/aw-creamy-chickpea-pasta/aw-creamy-chickpea-pasta-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Creamy Chickpea Pasta With Spinach and Rosemary</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Alexa Weibel</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2020/09/27/dining/30faqrex1/merlin_153889782_0ac0b415-2667-4236-bb80-3d3b141e43f2-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/9ef060510abce1c3/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/d881d538-ee5c-5a45-ad8a-73ef9646925f",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1020187-spiced-chickpea-salad-with-tahini-and-pita-chips",
+        "@type": "WebPage",
+        "name": "Spiced Chickpea Salad With Tahini and Pita Chips"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020187-spiced-chickpea-salad-with-tahini-and-pita-chips",
+      "name": "Spiced Chickpea Salad With Tahini and Pita Chips",
+      "description": "This main-course salad has all the fresh flavors of a great falafel sandwich — tahini, mint, paprika, cucumber, cumin, garlic — plus the crunch of pita and the satisfying heft of chickpeas. The vegetarian cookbook writer Hetty McKinnon created this recipe, and the amount of olive oil she calls for might seem excessive. Don’t hold back: After cooking the chickpeas, the oil becomes part of the garlicky, paprika-warmed dressing for the finished dish. You could make her recipe even easier by using salad greens instead of cooked greens as the base.",
+      "author": {
+        "@type": "Person",
+        "name": "Julia Moskin"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/2c6d377b-16bf-50c0-b019-8f7e5d134afa#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/09/27/dining/30faqrex1/30faqrex1-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-05-20T15:23:48.958Z",
+          "datePublished": "2019-04-25T22:01:46.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-04-25T22:01:46.000Z",
+          "url": "https://static01.nyt.com/images/2020/09/27/dining/30faqrex1/30faqrex1-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/2c6d377b-16bf-50c0-b019-8f7e5d134afa#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/09/27/dining/30faqrex1/30faqrex1-googleFourByThree-v2.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-05-20T15:23:48.958Z",
+          "datePublished": "2019-04-25T22:01:46.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2019-04-25T22:01:46.000Z",
+          "url": "https://static01.nyt.com/images/2020/09/27/dining/30faqrex1/30faqrex1-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/2c6d377b-16bf-50c0-b019-8f7e5d134afa#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/09/27/dining/30faqrex1/30faqrex1-mediumSquareAt3X-v2.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-05-20T15:23:48.958Z",
+          "datePublished": "2019-04-25T22:01:46.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2019-04-25T22:01:46.000Z",
+          "url": "https://static01.nyt.com/images/2020/09/27/dining/30faqrex1/30faqrex1-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT1H",
+      "recipeYield": "4 main-course servings",
+      "recipeCuisine": "middle eastern",
+      "recipeCategory": "dinner, lunch, weeknight, main course, side dish",
+      "keywords": "chickpea, extra virgin olive oil, greens, mint, pita, salad, tahini, dairy-free, healthy, high fiber, low cholesterol, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 4496
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 1111,
+        "unsaturatedFatContent": "59 grams",
+        "carbohydrateContent": "97 grams",
+        "cholesterolContent": null,
+        "fatContent": "73 grams",
+        "fiberContent": "26 grams",
+        "proteinContent": "30 grams",
+        "saturatedFatContent": "10 grams",
+        "sodiumContent": "1123 milligrams",
+        "sugarContent": "14 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 (15-ounce) cans chickpeas, well drained, or 4 cups cooked chickpeas",
+        "3/4 to 1 cup extra-virgin olive oil",
+        "2 garlic cloves, minced",
+        "2 teaspoons ground cumin, or 1 teaspoon each ground cumin and ground coriander",
+        "1 teaspoon sweet paprika",
+        "Salt and pepper",
+        "1/3 cup tahini",
+        "Freshly squeezed juice of 1 lemon, plus more to taste",
+        "1 garlic clove, minced",
+        "Warm water, as needed",
+        "Olive oil, for cooking",
+        "About 10 ounces kale, chard or spinach, well washed and thick stems removed",
+        "3 cups store-bought or homemade pita chips (see Tip)",
+        "Handful of roughly chopped flat-leaf parsley",
+        "Handful of roughly chopped mint",
+        "1 large or 2 small cucumbers, peeled and thinly sliced",
+        "Lemon, cut into wedges"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the chickpeas: Heat oven to 425 degrees. Pour the chickpeas into a small baking dish, about 6 inches by 8 inches. The chickpeas should be crowded together in a thick layer, not spread out. Pour in olive oil just until chickpeas are covered. (This will look like a lot, but don’t worry: It forms part of the dressing.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add garlic, cumin, paprika, and 2 big pinches each of salt and pepper. Stir gently to combine. Bake until oil is bubbling around the chickpeas and they are turning reddish-brown, 35 to 40 minutes. Set aside to cool."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, make tahini sauce: Pour tahini into a bowl and whisk in lemon juice and garlic. The tahini will thicken and clump. Slowly whisk in warm water, 1 tablespoon at a time, until sauce becomes smooth, creamy and pourable. Taste and season with salt, pepper and more lemon juice, if desired. Set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Cook the greens: Place a large frying pan over medium heat and drizzle lightly with olive oil. When hot, add the greens in batches, along with a big pinch of salt. Stir until wilted and tender and set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When ready to serve, in a large bowl, gently mix chickpeas and their cooking oil with the cooked greens, half the pita chips, and the chopped herbs. Mound chickpea mixture in 4 shallow bowls. Divide cucumber slices around chickpeas. Drizzle thickly with half the tahini sauce and scatter remaining pita chips on top. Place a lemon wedge on the side and serve, passing extra tahini sauce at the table."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2019-05-01T00:00:00.000Z",
+      "dateModified": "2024-06-10T20:47:47.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SJ"
+          },
+          "reviewBody": "I made 1.5x the recipe, hoping it would feed six people. Thank goodness for the two no shows - the four of us ate every bite. I used about 1/2 cup olive oil for 3 cans of chickpeas and it was enough, in my opinion. Can’t wait to make this again!",
+          "datePublished": "2025-04-13T05:02:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JTracey"
+          },
+          "reviewBody": "Made it twice this week! It's delicious and infinitely adaptable. Today's version included collard greens and green garlic.",
+          "datePublished": "2025-04-09T00:59:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "A&T"
+          },
+          "reviewBody": "Another way to make pita chips is to cut up as noted in the recipe and then bake at 350F for about 5-10 minutes until crisp and brown for a much lower-fat option.",
+          "datePublished": "2025-04-07T22:31:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Megan"
+          },
+          "reviewBody": "I made this recipe just for the chickpeas. They were so good straight from the oven.",
+          "datePublished": "2025-04-04T00:43:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joss M."
+          },
+          "reviewBody": "Cooked 2/23. Baked chickpeas in loaf pan.  Added extra garlic to chickpeas and tahini.  Delicious,  didn't miss the meat.  Next time, cut chard smaller. Makes 2 days worth of lunches easily.",
+          "datePublished": "2025-02-24T16:47:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katerina"
+          },
+          "reviewBody": "Very good with thinly sliced cabbage, no wilting, instead of spinach",
+          "datePublished": "2025-02-09T08:53:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joanne"
+          },
+          "reviewBody": "I  have made this many times pretty much as written. I agree that sometimes I'll just stir the spinach in to the hot peas and they wilt enough, no need to dirty another pan. It's delicious.",
+          "datePublished": "2025-01-08T00:18:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DC"
+          },
+          "reviewBody": "So good and easy!",
+          "datePublished": "2024-12-10T04:27:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tammy"
+          },
+          "reviewBody": "This was excellent. I make a lot of kale and chickpea salads, but had never made a warmed version. I used green curly kale and spinach. I loved the blend of flavors with pita chips and tahini dressing. I don’t think it needed feta. I loved it and will definitely make again!",
+          "datePublished": "2024-10-27T03:09:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hope"
+          },
+          "reviewBody": "-made with brown rice\n-use less oil\n-be liberal when adding salt to chickpeas - I didn't add enough, and they desperately needed more\n-do! not! skip! the! mint! will add basil next time too\n-added some leftover orange pepper, which was a nice addition",
+          "datePublished": "2024-09-02T15:45:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Doone"
+          },
+          "reviewBody": "I did the chickpeas in a skillet with less oil- I found them too mushy for my taste- I mean, they're already cooked then recooked- I did not like the texture of the greens/chickpea combo- any thoughts?",
+          "datePublished": "2024-08-29T01:50:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dan"
+          },
+          "reviewBody": "Why is this marked \"healthy\" when I call for one cup of oil?\nOlive oil is a healthier oil but it is still very fattening just like any oil.",
+          "datePublished": "2024-06-16T20:03:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Natalie M."
+          },
+          "reviewBody": "Will be a go to chickpea pantry recipe for me. I think the amount of oil is appropriate and I like to squeeze one whole lemon into the beans once they're out of the oven.",
+          "datePublished": "2024-05-12T23:55:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rachel"
+          },
+          "reviewBody": "A great weekday and vegan-friendly salad recipe! I prefer not cooking the greens (dino kale) to make it a crunchy salad. I agree with a lot of other reviewers about cutting down the amount of olive oil. I just toss the chickpeas into a cast iron skillet and eyeball the oil. We also add cherry tomatoes & roasted sweet potatoes to the salad to make it more filling. I also don't add herbs because I never have those on hand. Just do whatever you want it'll taste good!",
+          "datePublished": "2024-05-10T00:18:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristin"
+          },
+          "reviewBody": "The omnivores in my house were very happy with this for dinner. The carnivores (who are not unfamiliar with vegetarian meals) were not satisfied. I made it just as written but added some more spice to the chickpeas, and used fresh lettuce. We also added ricotta salata (did not have feta, which was our first choice).",
+          "datePublished": "2024-05-02T01:45:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Denise"
+          },
+          "reviewBody": "add tomatoes, pepper, and feta, zatar seasoning",
+          "datePublished": "2019-05-05T12:09:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ann"
+          },
+          "reviewBody": "Next time I would just add the greens directly to the chick peas in mid cooking.  Don’t think there’s any need for another  pan.  But it was  delicious",
+          "datePublished": "2019-05-08T16:23:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Fivel"
+          },
+          "reviewBody": "Absolutely delicious and healthy weeknight meal that the whole crew enjoyed. We added some harissa. Don't think it needs anything changed really but my boo suggested adding feta or halloumi next time.  Five stars!",
+          "datePublished": "2019-04-30T02:37:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeff B"
+          },
+          "reviewBody": "Excellent salad, we loved the flavors and texture.  I made the short cut version with salad greens (red leaf and baby spinach), and did not bake the chickpeas with so much oil.  I was in a rush, and sauteed the chickpeas with 2 tbsp of olive oil and the cumin, coriander and paprika until warm and fragrant, and dumped that onto the greens, added the cucumber and pita chips, tahini sauce, and finished with a squeeze of fresh lemon.  So good, we will certainly make this again.",
+          "datePublished": "2020-01-09T20:00:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barnaby Q. Carruthers"
+          },
+          "reviewBody": "Really good. About 2/3 of the oil called for would have been ideal.",
+          "datePublished": "2019-05-09T23:14:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bryan"
+          },
+          "reviewBody": "Just hazarding a guess, but I would imagine this could be made with a fraction of the oil and still be delicious. If it sounds like too much for your taste/health goals then just reduce to a level you are more comfortable with!",
+          "datePublished": "2019-05-06T16:07:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joyce"
+          },
+          "reviewBody": "Loved all the flavors, felt we could have used 2/3 of the oil and been happy, and olive oil is a real fave here. We added more cukes, peppers and ate with naan. Looking forward to tomorrow’s lunch!",
+          "datePublished": "2019-05-09T02:58:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "Well, of course your version was full of flavour!  you added tomatoes and pickles and smoked paprika, all things that add zing and crunch.  My version tasted pretty good, too--made it with a LOT less olive oil (in a frying pan, to avoid heating an entire oven), added harissa and more garlic, baked my pita chips in the oven with a sprinkling of zaatar and coarse salt.  In fact, both of us made something different and better than the original.",
+          "datePublished": "2019-05-06T20:37:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tim Coates"
+          },
+          "reviewBody": "-Don't cover chickpeas with oil, that's too much. Make sure top layer is not submerged. Those on the top get crispy.",
+          "datePublished": "2020-02-18T01:30:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janie"
+          },
+          "reviewBody": "Great recipe! Full of flavour! I added a 1/2 tsp of smoked paprika to the chickpeas. I also added tomatoes and pickles to the salad at the end. I used baby spinach that I cooked briefly and mixed with baby gem lettuce as I couldn’t access any full leaf green which I think would be better than baby greens as they melt to nearly nothing. Looking forward to leftovers.",
+          "datePublished": "2019-05-06T17:09:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leslie"
+          },
+          "reviewBody": "Wowwwwww this was so good. I doubled the volume of greens and used spinach, sauteed and then drained it before adding the chickpeas and their magic oil. With the extra greens the ratio felt right, so I'm glad I doubled. Used both cumin and coriander. Added cherry tomatoes to the veggie mix and I also had a small cauliflower on hand so I roasted it with salt and pepper while the chickpeas were in the oven. This was incredible and I can't wait to eat the leftovers for lunch tomorrow!",
+          "datePublished": "2019-05-07T17:44:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erin"
+          },
+          "reviewBody": "Food satisfaction at a time when the world feels like it's coming undone.",
+          "datePublished": "2020-04-02T11:38:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Leslie J"
+          },
+          "reviewBody": "This was very good. For 2, I baked one can of the chickpea mix in a small crock with a few tablespoons of EVOO. Sauteed and drained a 14-oz pkg of baby spinach. Served as a rice bowl, layering ~ 1/3 c rice, spinach, chickpea mix and tahini sauce. Per suggestions, topped with feta, chips, chopped cukes and tomatoes, pickles & pepperocini, and harissa. Sprinkled w za'atar.",
+          "datePublished": "2020-11-18T16:52:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy"
+          },
+          "reviewBody": "I added a Trader Joe’s falafel and dab of tzatki on top, as well as peppers and tomatoes to make the meal more substantial. Surprisingly delicious.",
+          "datePublished": "2019-05-13T02:04:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenn"
+          },
+          "reviewBody": "Really tasty. Added a sliced shallot to the chickpeas to cook in the oil for some oniony flavor. Used a bag of baby spinach, but didn’t cook it, just tossed it in a bowl with the chickpeas and oil hot out of the oven. It was wilted but still had a bit of texture.",
+          "datePublished": "2020-08-11T16:09:49.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1020187-spiced-chickpea-salad-with-tahini-and-pita-chips",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Julia Moskin"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2019,
+      "description": "This main-course salad has all the fresh flavors of a great falafel sandwich — tahini, mint, paprika, cucumber, cumin, garlic — plus the crunch of pita and the satisfying heft of chickpeas. The vegetarian cookbook writer Hetty McKinnon created this recipe, and the amount of olive oil she calls for might seem excessive. Don’t hold back: After cooking the chickpeas, the oil becomes part of the garlicky, paprika-warmed dressing for the finished dish. You could make her recipe even easier by using salad greens instead of cooked greens as the base.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Spiced Chickpea Salad With Tahini and Pita Chips",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/2c6d377b-16bf-50c0-b019-8f7e5d134afa#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/09/27/dining/30faqrex1/30faqrex1-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-05-20T15:23:48.958Z",
+          "datePublished": "2019-04-25T22:01:46.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2019-04-25T22:01:46.000Z",
+          "url": "https://static01.nyt.com/images/2020/09/27/dining/30faqrex1/30faqrex1-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/2c6d377b-16bf-50c0-b019-8f7e5d134afa#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/09/27/dining/30faqrex1/30faqrex1-googleFourByThree-v2.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-05-20T15:23:48.958Z",
+          "datePublished": "2019-04-25T22:01:46.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2019-04-25T22:01:46.000Z",
+          "url": "https://static01.nyt.com/images/2020/09/27/dining/30faqrex1/30faqrex1-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/2c6d377b-16bf-50c0-b019-8f7e5d134afa#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/09/27/dining/30faqrex1/30faqrex1-mediumSquareAt3X-v2.jpg",
+          "creditText": "Con Poulos for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-05-20T15:23:48.958Z",
+          "datePublished": "2019-04-25T22:01:46.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2019-04-25T22:01:46.000Z",
+          "url": "https://static01.nyt.com/images/2020/09/27/dining/30faqrex1/30faqrex1-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020187-spiced-chickpea-salad-with-tahini-and-pita-chips"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:55.400Z",
+  "scraping_status": "scraped"
+}

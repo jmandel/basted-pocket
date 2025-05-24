@@ -1,0 +1,534 @@
+{
+  "id": "eae667867ade3a8b",
+  "original_url": "https://cooking.nytimes.com/recipes/1022161-spicy-shrimp-and-chickpea-salad",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1022161-spicy-shrimp-and-chickpea-salad",
+  "fetched_title": "Spicy Shrimp and Chickpea Salad Recipe",
+  "main_text_content": "This warm salad of garlicky shrimp and herby chickpeas comes together in just 15 minutes and requires very little effort Canned chickpeas, Fresno chiles, parsley and red onion get a quick marinade in a creamy citrus dressing while the shrimp cooks in a little garlic and olive oil Fresno chile adds a little heat, but if you’re sensitive to spice, you can remove the membranes and seeds before adding the chile to the salad",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/6553-spicy-shrimp-salad-with-mint\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2017/08/22/dining/22COOKING-SPICYSHRIMPSALADMINT2/22COOKING-SPICYSHRIMPSALADMINT2-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2017/08/22/dining/22COOKING-SPICYSHRIMPSALADMINT2/22COOKING-SPICYSHRIMPSALADMINT2-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2017/08/22/dining/22COOKING-SPICYSHRIMPSALADMINT2/22COOKING-SPICYSHRIMPSALADMINT2-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2017/08/22/dining/22COOKING-SPICYSHRIMPSALADMINT2/22COOKING-SPICYSHRIMPSALADMINT2-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2017/08/22/dining/22COOKING-SPICYSHRIMPSALADMINT2/22COOKING-SPICYSHRIMPSALADMINT2-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2017/08/22/dining/22COOKING-SPICYSHRIMPSALADMINT2/22COOKING-SPICYSHRIMPSALADMINT2-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2017/08/22/dining/22COOKING-SPICYSHRIMPSALADMINT2/22COOKING-SPICYSHRIMPSALADMINT2-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2017/08/22/dining/22COOKING-SPICYSHRIMPSALADMINT2/22COOKING-SPICYSHRIMPSALADMINT2-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Spicy Shrimp Salad With Mint</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Mark Bittman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/05/03/dining/yf-Spicy-Shrimp-and-Chickpea-Salad/merlin_186367128_e9f5e0f5-0dbc-4dd8-bfde-a9bb4ce52026-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/eae667867ade3a8b/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/15ca7a43-16d3-5c5d-ba83-1b705ac4898d",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1022161-spicy-shrimp-and-chickpea-salad",
+        "@type": "WebPage",
+        "name": "Spicy Shrimp and Chickpea Salad"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022161-spicy-shrimp-and-chickpea-salad",
+      "name": "Spicy Shrimp and Chickpea Salad",
+      "description": "This warm salad of garlicky shrimp and herby chickpeas comes together in just 15 minutes and requires very little effort. Canned chickpeas, Fresno chiles, parsley and red onion get a quick marinade in a creamy citrus dressing while the shrimp cooks in a little garlic and olive oil. Fresno chile adds a little heat, but if you’re sensitive to spice, you can remove the membranes and seeds before adding the chile to the salad. Make the dish your own by adding arugula, or swap the parsley for cilantro or the shrimp for scallops. Serve warm with a hunk of crusty bread, and enjoy leftovers straight from the fridge the next day with a squeeze of lime or lemon juice.",
+      "author": {
+        "@type": "Person",
+        "name": "Yasmin Fahr"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/28548e5e-81e5-5b0a-8935-d8bdb671de5c#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Yasmin Fahr’s spicy chickpea and shrimp salad.&nbsp;",
+          "contentUrl": "https://static01.nyt.com/images/2021/05/03/dining/yf-Spicy-Shrimp-and-Chickpea-Salad/merlin_186367128_e9f5e0f5-0dbc-4dd8-bfde-a9bb4ce52026-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-05-04T18:48:21.013Z",
+          "datePublished": "2021-05-03T17:02:04.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-05-03T17:02:04.000Z",
+          "url": "https://static01.nyt.com/images/2021/05/03/dining/yf-Spicy-Shrimp-and-Chickpea-Salad/merlin_186367128_e9f5e0f5-0dbc-4dd8-bfde-a9bb4ce52026-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/28548e5e-81e5-5b0a-8935-d8bdb671de5c#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Yasmin Fahr’s spicy chickpea and shrimp salad.&nbsp;",
+          "contentUrl": "https://static01.nyt.com/images/2021/05/03/dining/yf-Spicy-Shrimp-and-Chickpea-Salad/merlin_186367128_e9f5e0f5-0dbc-4dd8-bfde-a9bb4ce52026-superJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-05-04T18:48:21.013Z",
+          "datePublished": "2021-05-03T17:02:04.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-05-03T17:02:04.000Z",
+          "url": "https://static01.nyt.com/images/2021/05/03/dining/yf-Spicy-Shrimp-and-Chickpea-Salad/merlin_186367128_e9f5e0f5-0dbc-4dd8-bfde-a9bb4ce52026-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/28548e5e-81e5-5b0a-8935-d8bdb671de5c#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "caption": "Yasmin Fahr’s spicy chickpea and shrimp salad.&nbsp;",
+          "contentUrl": "https://static01.nyt.com/images/2021/05/03/dining/yf-Spicy-Shrimp-and-Chickpea-Salad/merlin_186367128_e9f5e0f5-0dbc-4dd8-bfde-a9bb4ce52026-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-05-04T18:48:21.013Z",
+          "datePublished": "2021-05-03T17:02:04.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-05-03T17:02:04.000Z",
+          "url": "https://static01.nyt.com/images/2021/05/03/dining/yf-Spicy-Shrimp-and-Chickpea-Salad/merlin_186367128_e9f5e0f5-0dbc-4dd8-bfde-a9bb4ce52026-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT15M",
+      "recipeYield": "3 to 4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, quick, weeknight, main course",
+      "keywords": "chickpea, fresno chile, jalapeño, salad, shrimp",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 2552
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 573,
+        "unsaturatedFatContent": "18 grams",
+        "carbohydrateContent": "56 grams",
+        "cholesterolContent": null,
+        "fatContent": "24 grams",
+        "fiberContent": "16 grams",
+        "proteinContent": "39 grams",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "976 milligrams",
+        "sugarContent": "10 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 medium lemon, zested and juiced",
+        "1 lime, zested and halved",
+        "1 teaspoon Dijon mustard",
+        "5 tablespoons olive oil",
+        "Kosher salt and black pepper",
+        "2 (15-ounce) cans chickpeas, drained and rinsed",
+        "1/2 small red onion, diced (about 1/4 cup)",
+        "1 Fresno chile or jalapeño, cut into thin coins or seeded and diced",
+        "1 packed cup parsley leaves and tender stems, roughly chopped",
+        "2 large garlic cloves, grated or minced",
+        "1/2 teaspoon red-pepper flakes",
+        "1 pound shrimp, peeled and deveined, patted dry"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large serving bowl, combine the lemon zest and juice, lime zest and mustard. Whisk in 3 tablespoons olive oil until smooth; season with salt and pepper. Add the chickpeas, onion, chile and most of the parsley (reserving some for garnish), and toss to coat with the dressing. Season with salt and pepper; set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the remaining 2 tablespoons olive oil in a 12-inch skillet over medium-high until shimmering. Add the garlic and red-pepper flakes, and cook, stirring constantly, until fragrant, about 30 seconds, pulling the pan from the heat briefly if it seems like the garlic is burning."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the shrimp to the pan, season with salt and pepper and stir to coat with the garlic and oil. Cook until the shrimp are pink all over with a golden crust in parts, stirring and flipping the shrimp halfway through, about 4 to 6 minutes total. Turn off the heat, then squeeze the lime juice over the shrimp in the pan, stirring to combine and scraping up anything on the bottom of the pan to coat the shrimp."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Serve the shrimp on top of the salad. Garnish with the remaining parsley and serve."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-05-04T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Adriene"
+          },
+          "reviewBody": "I took other commenters’ advice and roasted the chickpeas with a little oil and salt (425F, 20 min.) and let them sit with the dressing mix (white onion worked) while rice cooked. It was immediately addicting.",
+          "datePublished": "2025-01-30T01:52:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris"
+          },
+          "reviewBody": "Recommend roasting the chickpeas with a light toss of salt, pepper, and smoked paprika to give them a light smokey char before adding to the bowl in Step 1.",
+          "datePublished": "2024-10-11T22:58:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elyse"
+          },
+          "reviewBody": "Made with cilantro and fresh chickpeas (not canned), and marinated chickpeas for about an hour. It was fantastic--to the point where my 2yo was eating the chickpeas with a spoon out of the bowl they were marinating in.",
+          "datePublished": "2024-08-25T22:30:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "´Emily"
+          },
+          "reviewBody": "Great on a bed of asparagus. Much prefer cilantro to parsley.",
+          "datePublished": "2024-08-13T00:39:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bellaverdi"
+          },
+          "reviewBody": "This is very satisfying, and has earned a place in my summer rotation. \nI made few alterations. Primarily, I thought it was heavy on chickpeas, so I reduced to one can. I added about 1/4 cup chopped red bell peppers. The seeded and minced jalapeño pepper was plenty of spice, though I did add a bit of finishing salt. After marinating the chickpeas in veg mix, and just prior to serving, I added about 2 cups of baby arugula. The lime juice atop the cooked shrimp was essential.\nNote: serves 2.",
+          "datePublished": "2024-07-30T00:20:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa G"
+          },
+          "reviewBody": "This was a good summer meal but I felt it really was missing a lot it needed.  Too many chickpeas and too much parsley.  So I added arugula, a red bell pepper, some leftover corn cut off the cob and some cooked diced kohlrabi from our farm share.  I used only one can of chickpeas.  Also omitted the jalapeño.  Crushed red pepper flakes gave enough spice. Served with nice French bread, it was a meal.",
+          "datePublished": "2024-07-24T22:44:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laurel in OR"
+          },
+          "reviewBody": "Repeatable. Made whole recipe and we had one serving of the salad left so would have served 3, easily. Next time I’ll try cilantro. Shrimp would be great with other sides.",
+          "datePublished": "2024-07-06T02:08:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Coquille"
+          },
+          "reviewBody": "Swapped in 6 oz. crumbled feta for the shrimp (husband doesn't eat it). Delish! Will definitely make it again and will probably use even more feta.",
+          "datePublished": "2024-06-11T02:04:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nate H"
+          },
+          "reviewBody": "My family loves this! I swapped a few shakes of red pepper flakes for the chile since my family doesn't like spicy food. They said I can make this any time!",
+          "datePublished": "2024-06-10T21:56:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul"
+          },
+          "reviewBody": "Great dish. Had to reduce recommended cook time for shrimp a bit, so adjust that as needed. Used cilantro and pickled jalapeno. Agree that salad on own w/o shrimp is great. My wife says, \"If it swims in the sea, it's not for me.\" Me, I'll take shrimp every time.",
+          "datePublished": "2024-06-09T18:22:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KathyT"
+          },
+          "reviewBody": "This was a flavourful, light, healthy supper. I used dried chickpeas soaked overnight then cooked in water and drained. Used ground chicken instead of shrimp because that’s what I had on hand. Upped the chili flakes and used a combo of cilantro, parsley and mint. Topped with diced avocado and feta just before serving. Really nice. And easy!",
+          "datePublished": "2024-06-07T04:52:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Name Lucy’s mom"
+          },
+          "reviewBody": "I was out of garbanzos so I used spicy black beans instead, also substituted cilantro for parsley, and added halved cherry tomatoes.  Otherwise, I stuck to the recipe with delicious results.  I will definitely make this again!",
+          "datePublished": "2024-06-07T01:21:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "GGD"
+          },
+          "reviewBody": "It just never takes me 15 minutes...what am I doing wrong?  But it was a great dish for a hot summer night...will serve next time on arugala for a real salad!",
+          "datePublished": "2024-06-06T16:49:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dori"
+          },
+          "reviewBody": "This has become a go to meal in our house - we make it almost once a week in the summer. I use cilantro instead of parsley but otherwise find it absolutely perfect!",
+          "datePublished": "2024-06-01T16:44:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Althea K"
+          },
+          "reviewBody": "Made it to recipe with exception that I added more chopped garlic. It was delicious! And that lime juice at the end after cooking the shrimp added just the right acidity to balance the chickpeas. Reminder - the shrimp are going to release liquid so really try to pat them dry or you get the flavoring more in the salad and not on the shrimp themselves, Next time I will try with cilantro instead of the parsley as I am a bigger fan of cilantro.",
+          "datePublished": "2024-06-01T00:31:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathrine E"
+          },
+          "reviewBody": "As luck would have it, my husband just returned from a trip to the Georgia coast with fresh May prawns. This made a delightful Sunday supper. \n\nBe sure to allow plenty of time for your chickpeas to marinate. I used an assortment of garden herbs, scallions, and a newly dug garlic bulb so young the cloves weren’t papered yet. \n\nThe local grocery had fresh corn which I cut off the cob and cooked in the pan after the shrimp were finished. It rounded out the dish quite well.",
+          "datePublished": "2021-05-09T23:34:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jim in japan"
+          },
+          "reviewBody": "Delicious! Per author’s suggestion, made it with cilantro instead of parsley, which matched nicely with the lime. Was the perfect recipe for our first dinner outside this year.",
+          "datePublished": "2021-05-09T11:35:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam"
+          },
+          "reviewBody": "Be mindful of where you source your shrimp, instead of refusing to eat it. Whole Foods, among other responsible retailers, sources carefully and responsibly.",
+          "datePublished": "2021-05-10T14:01:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael E"
+          },
+          "reviewBody": "I made this with shrimp (wild caught) but it also works just as a chickpea salad, especially if you toss in some greens. Delicious!",
+          "datePublished": "2021-05-12T00:39:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Harvey in San Francisco"
+          },
+          "reviewBody": "Fabulous served hot over shallot-infused jasmine rice!  Adjustments:  I used 1 can garbanzos not 2; 1/2 can diced Ortega chilis instead of jalapeno for less heat; and cilantro instead of parsley.  When the shrimp was done, I threw the entire salad/dressing mix into the skillet and heated through - a great, complex, flavorful meal-in-a-bowl.  Don't underestimate the zing of the lemon zest, do two of them if you have!\n\nI can see this working with a light creole sauce, too...be imaginative!",
+          "datePublished": "2021-05-14T03:19:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barry Warner-Hudson"
+          },
+          "reviewBody": "Delightful.  I added spinach (2 whacking handfuls) to the shrimp while cooking, and it added to the flavours, without a fight...... a nice look too.   And hah, if you can make this in 15, you've got a sous chef at hand.  The double time allows the salad to marinate in the excellent dressing.  I cut the oil down by a third, as always, to no apparent lack.  Another NYT gem.",
+          "datePublished": "2021-05-20T02:10:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "quaasam"
+          },
+          "reviewBody": "Very nice and quite filling. Added feta cubes on top. Cooked the  canned chickpeas for extra 5 minutes because they seemed hard. Marinate the chickpeas longer to absorb the dressing. Add the shrimps at the end.",
+          "datePublished": "2021-05-25T17:48:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brenda Wiegand"
+          },
+          "reviewBody": "Big hit! Added Persian cucumber slices and a bit of dill, served on mixed greens from local farmer. Definitely will add to summer rotation.",
+          "datePublished": "2021-06-01T15:51:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vegan_Isaac"
+          },
+          "reviewBody": "Vegan shrimp are delicious, I was quite skeptical when I made vegan shrimp quesadillas but my wife and I loved it! I am planning to use those vegan shrimp in this recipe (Sophie’s Kitchen brand)…",
+          "datePublished": "2021-05-15T15:10:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Just Me"
+          },
+          "reviewBody": "Very good. I made the chickpea salad using both cilantro and parsley with a handful of fresh mint, then topped with leftover broiled salmon. It was a light, refreshing dinner. I could see this being used a number of ways. Almost any mild protein would pair well with the chickpeas",
+          "datePublished": "2021-05-19T23:08:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Catherine"
+          },
+          "reviewBody": "Loved it. I only had white onion and no jalapeño, so I added a bit of cumin. I also had a splash of white wine left so used that instead of the lime to add to the pan with the shrimp. I used cilantro instead of parsley and loved it. Really tasty.",
+          "datePublished": "2021-06-02T23:54:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane"
+          },
+          "reviewBody": "The recipe for the chickpea salad should definitely be listed on its own—it is so delicious! As the comments show, it pairs well not just with shrimp but with a variety of fish and other accompaniments. I followed the suggestion to use cilantro instead of parsley, and served it over a bed of arugula. Make the salad in advance so that the flavors have a chance to blend together. A very satisfying dish!",
+          "datePublished": "2022-03-19T22:52:44.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1022161-spicy-shrimp-and-chickpea-salad",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yasmin Fahr"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "This warm salad of garlicky shrimp and herby chickpeas comes together in just 15 minutes and requires very little effort. Canned chickpeas, Fresno chiles, parsley and red onion get a quick marinade in a creamy citrus dressing while the shrimp cooks in a little garlic and olive oil. Fresno chile adds a little heat, but if you’re sensitive to spice, you can remove the membranes and seeds before adding the chile to the salad. Make the dish your own by adding arugula, or swap the parsley for cilantro or the shrimp for scallops. Serve warm with a hunk of crusty bread, and enjoy leftovers straight from the fridge the next day with a squeeze of lime or lemon juice.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Spicy Shrimp and Chickpea Salad",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/28548e5e-81e5-5b0a-8935-d8bdb671de5c#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Yasmin Fahr’s spicy chickpea and shrimp salad.&nbsp;",
+          "contentUrl": "https://static01.nyt.com/images/2021/05/03/dining/yf-Spicy-Shrimp-and-Chickpea-Salad/merlin_186367128_e9f5e0f5-0dbc-4dd8-bfde-a9bb4ce52026-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-05-04T18:48:21.013Z",
+          "datePublished": "2021-05-03T17:02:04.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-05-03T17:02:04.000Z",
+          "url": "https://static01.nyt.com/images/2021/05/03/dining/yf-Spicy-Shrimp-and-Chickpea-Salad/merlin_186367128_e9f5e0f5-0dbc-4dd8-bfde-a9bb4ce52026-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/28548e5e-81e5-5b0a-8935-d8bdb671de5c#superJumbo",
+          "@type": "ImageObject",
+          "caption": "Yasmin Fahr’s spicy chickpea and shrimp salad.&nbsp;",
+          "contentUrl": "https://static01.nyt.com/images/2021/05/03/dining/yf-Spicy-Shrimp-and-Chickpea-Salad/merlin_186367128_e9f5e0f5-0dbc-4dd8-bfde-a9bb4ce52026-superJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-05-04T18:48:21.013Z",
+          "datePublished": "2021-05-03T17:02:04.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2021-05-03T17:02:04.000Z",
+          "url": "https://static01.nyt.com/images/2021/05/03/dining/yf-Spicy-Shrimp-and-Chickpea-Salad/merlin_186367128_e9f5e0f5-0dbc-4dd8-bfde-a9bb4ce52026-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/28548e5e-81e5-5b0a-8935-d8bdb671de5c#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "caption": "Yasmin Fahr’s spicy chickpea and shrimp salad.&nbsp;",
+          "contentUrl": "https://static01.nyt.com/images/2021/05/03/dining/yf-Spicy-Shrimp-and-Chickpea-Salad/merlin_186367128_e9f5e0f5-0dbc-4dd8-bfde-a9bb4ce52026-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-05-04T18:48:21.013Z",
+          "datePublished": "2021-05-03T17:02:04.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-05-03T17:02:04.000Z",
+          "url": "https://static01.nyt.com/images/2021/05/03/dining/yf-Spicy-Shrimp-and-Chickpea-Salad/merlin_186367128_e9f5e0f5-0dbc-4dd8-bfde-a9bb4ce52026-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022161-spicy-shrimp-and-chickpea-salad"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:39.106Z",
+  "scraping_status": "scraped"
+}

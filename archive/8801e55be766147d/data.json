@@ -1,0 +1,556 @@
+{
+  "id": "8801e55be766147d",
+  "original_url": "https://cooking.nytimes.com/recipes/1024306-corn-and-miso-pasta-salad",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1024306-corn-and-miso-pasta-salad",
+  "fetched_title": "Corn and Miso Pasta Salad Recipe",
+  "main_text_content": "The interplay between the crunch of the celery, the chew of the pasta and the pop of the corn kernels makes this (potentially vegan) pasta salad a textural pleasure to eat Pasta salads that you can easily eat with a spoon reign supreme, and ditalini’s petite shape — which mimics the size of fresh corn kernels — makes it the perfect pasta candidate Miso adds savory notes and deep umami flavor to the mayonnaise dressing",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1020979-five-ingredient-creamy-miso-pasta\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2020/04/17/dining/17help/aw-miso-pasta-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2020/04/17/dining/17help/aw-miso-pasta-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2020/04/17/dining/17help/aw-miso-pasta-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2020/04/17/dining/17help/aw-miso-pasta-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2020/04/17/dining/17help/aw-miso-pasta-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2020/04/17/dining/17help/aw-miso-pasta-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2020/04/17/dining/17help/aw-miso-pasta-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2020/04/17/dining/17help/aw-miso-pasta-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Five-Ingredient Creamy Miso Pasta</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Alexa Weibel</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/08/03/multimedia/hew-corn-and-miso-pasta-salad-bqjl/hew-corn-and-miso-pasta-salad-bqjl-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/8801e55be766147d/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/1ed1b121-a44d-569a-ac43-bb995928e85c",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1024306-corn-and-miso-pasta-salad",
+        "@type": "WebPage",
+        "name": "Corn and Miso Pasta Salad"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024306-corn-and-miso-pasta-salad",
+      "name": "Corn and Miso Pasta Salad",
+      "description": "The interplay between the crunch of the celery, the chew of the pasta and the pop of the corn kernels makes this (potentially vegan) pasta salad a textural pleasure to eat. Pasta salads that you can easily eat with a spoon reign supreme, and ditalini’s petite shape — which mimics the size of fresh corn kernels — makes it the perfect pasta candidate. Miso adds savory notes and deep umami flavor to the mayonnaise dressing. This recipe calls for Calabrian chile, but the miso-mayo mix is versatile: You can substitute anything from chopped chipotles in adobo to a spoonful of gochujang for a hit of heat.",
+      "author": {
+        "@type": "Person",
+        "name": "Ham El-Waylly"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/4cc67458-221a-5e69-95c4-ad36fac1d1cc#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/08/03/multimedia/hew-corn-and-miso-pasta-salad-bqjl/hew-corn-and-miso-pasta-salad-bqjl-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Nico Schinco for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-08-03T15:17:47.093Z",
+          "datePublished": "2023-07-31T19:45:00.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-07-31T19:45:00.000Z",
+          "url": "https://static01.nyt.com/images/2023/08/03/multimedia/hew-corn-and-miso-pasta-salad-bqjl/hew-corn-and-miso-pasta-salad-bqjl-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/4cc67458-221a-5e69-95c4-ad36fac1d1cc#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/08/03/multimedia/hew-corn-and-miso-pasta-salad-bqjl/hew-corn-and-miso-pasta-salad-bqjl-superJumbo.jpg",
+          "creditText": "Nico Schinco for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-08-03T15:17:47.093Z",
+          "datePublished": "2023-07-31T19:45:00.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2023-07-31T19:45:00.000Z",
+          "url": "https://static01.nyt.com/images/2023/08/03/multimedia/hew-corn-and-miso-pasta-salad-bqjl/hew-corn-and-miso-pasta-salad-bqjl-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/4cc67458-221a-5e69-95c4-ad36fac1d1cc#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/08/03/multimedia/hew-corn-and-miso-pasta-salad-bqjl/hew-corn-and-miso-pasta-salad-bqjl-mediumSquareAt3X.jpg",
+          "creditText": "Nico Schinco for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-08-03T15:17:47.093Z",
+          "datePublished": "2023-07-31T19:45:00.000Z",
+          "height": "1799",
+          "representativeOfPage": true,
+          "uploadDate": "2023-07-31T19:45:00.000Z",
+          "url": "https://static01.nyt.com/images/2023/08/03/multimedia/hew-corn-and-miso-pasta-salad-bqjl/hew-corn-and-miso-pasta-salad-bqjl-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT35M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 to 6 servings (about 8 cups)",
+      "recipeCuisine": "american",
+      "recipeCategory": "dinner, easy, lunch, quick, weeknight, main course, side dish",
+      "keywords": "budget, celery, corn, mayonnaise, miso, pasta, pasta salad, picnic, stovetop, summer, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 674
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 373,
+        "unsaturatedFatContent": "14 grams",
+        "carbohydrateContent": "48 grams",
+        "cholesterolContent": null,
+        "fatContent": "17 grams",
+        "fiberContent": "4 grams",
+        "proteinContent": "9 grams",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "641 milligrams",
+        "sugarContent": "9 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "Kosher salt",
+        "8 ounces ditalini pasta",
+        "4 ears fresh corn, shucked and washed",
+        "2 large stalks celery, peeled and finely chopped",
+        "2/3 cup finely minced fresh chives",
+        "Granulated sugar",
+        "4 1/2 tablespoons white or yellow miso",
+        "4 1/2 tablespoons lemon juice, plus more to taste",
+        "1 1/2 tablespoons finely chopped Calabrian chiles (or minced chipotles in adobo, or gochujang, or sambal oelek), plus more to taste",
+        "1/2 cup mayonnaise (vegan, if desired)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bring a medium pot of salted water to a boil over high heat. Add ditalini to the water and boil according to package instructions. Drain the pasta, and rinse under cold water until cool. Drain well and set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Grab a large bowl and invert a smaller bowl inside of it. Hold the corn upright on the center of the smaller bowl. Using a sharp chef’s knife, slice downward to shave the kernels off the cob. Discard the cobs and remove the smaller bowl. Add the cooked ditalini, plus the celery and chives. Season with a large pinch of salt and a pinch of sugar; toss to combine."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In the smaller bowl, whisk to combine the miso, lemon juice and Calabrian chile. Add the mayonnaise and whisk until fully incorporated."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Combine with the corn mixture and toss. Taste and adjust seasoning with more lemon juice, chile, salt or sugar as needed. Store refrigerated (up to 3 days) until serving."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-08-03T00:00:00.000Z",
+      "dateModified": "2023-10-12T16:56:51.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "stefinmotion"
+          },
+          "reviewBody": "I only used half the miso and wow… brands must differ in saltiness because I can’t imagine how insanely salty this would be with the full amount. I also added cilantro and diced red pepper, and used sambal in place of the calabrian chilis. Delicious in the end!",
+          "datePublished": "2025-05-19T22:53:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carole"
+          },
+          "reviewBody": "@Theresa fennel?",
+          "datePublished": "2025-05-14T18:20:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "charlotte"
+          },
+          "reviewBody": "Have made this according to recipe a few times, with raw corn off the cob- causes stomach upset, watch out! Using thawed frozen corn is much easier and makes this tasty pasta salad doable year round.",
+          "datePublished": "2025-04-19T20:02:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hunter"
+          },
+          "reviewBody": "Great recipe. Don't underestimate how salty your miso is, because I needed to add some honey to balance it out. Charring the corn and using scallions in place of the chives I found is also a nice touch.",
+          "datePublished": "2025-01-11T02:36:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan M"
+          },
+          "reviewBody": "I used gojujang paste in the sauce and used Trader Joe’s fire roasted corn I sautéed in olive oil to defrost which added the nice roasted flavor- excellent recipe! Crowd pleaser every time I make it!",
+          "datePublished": "2024-10-28T04:19:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily"
+          },
+          "reviewBody": "This just tasted like watery mac salad to me. Sum was less than the ingredients it took to make this.",
+          "datePublished": "2024-10-01T05:00:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lauren Fischer"
+          },
+          "reviewBody": "I used 2 cups of frozen corn. So easy! And still delicious.",
+          "datePublished": "2024-09-25T20:30:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "M"
+          },
+          "reviewBody": "Wow, this recipe slaps! I grilled the corn, used chipotles in adobo, and didn't add any salt or sugar. I also added pancetta. Chef's kiss!",
+          "datePublished": "2024-09-18T22:06:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alyssa"
+          },
+          "reviewBody": "I used frozen fire roasted corn in place of fresh corn since that's what I had/wanted to use up. Used avocado oil mayo and bean pasta for added protein. No exaggeration, this was honestly the best pasta salad I have ever had. As someone who leans more towards salty foods than sweet foods, this is sure a winner. The umami kick from the miso is unreal and the Calabrian peppers add just enough heat to let you know they're there but not enough to overpower the dish, wow..I could eat this every day.",
+          "datePublished": "2024-09-16T19:17:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "Other than quickly blanching the corn as suggested by a commenter, I followed the recipe as is.  The miso dressing was delicious, something I'd like to try with other pasta salads.  Served to guests as a side salad and everyone went for seconds.  I do think the number of servings is way more generous than 4-6.",
+          "datePublished": "2024-09-06T20:29:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Notes"
+          },
+          "reviewBody": "For 8 oz ditalini (1/2 box),\n2T white miso\n2T lemon juice\n2T mayo\n1/2T harissa",
+          "datePublished": "2024-08-31T17:48:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "spanky"
+          },
+          "reviewBody": "Add can of white beans and 8 oz feta crumbled. Yummy. Kids aren’t huge on it but they like it ok.",
+          "datePublished": "2024-08-31T02:39:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ldgcooks"
+          },
+          "reviewBody": "Followed all the directions but added a cup of edemame and a diced orange pepper for color, chipotles in adobo and siracha for heat. It is fabulous!",
+          "datePublished": "2024-08-30T18:22:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "gpederson"
+          },
+          "reviewBody": "I made this with the addition of chopped red pepper and parsley. I agree with another reviewer that said they couldn’t stop eating it from the bowl. It’s strangely addictive, but also unusual in its flavor profile. I did blanch the corn for a couple minutes as well. I prefer it at room temperature. I’m curious to try lime, cilantro and some red onion as well. My husband ate it up!",
+          "datePublished": "2024-08-29T21:39:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "whitney"
+          },
+          "reviewBody": "I made exactly per recipe, found it very salty. Would make again but no extra salt, would cut down on miso, prob add more celery and another 4 ounces of pasta.",
+          "datePublished": "2024-08-26T22:14:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maura"
+          },
+          "reviewBody": "I blanched the corn (whole cobs) for 2.5 minutes and then shocked them in an ice bath before cutting them for the salad. I think Ham uses raw corn for maximum crunch vs the pasta but I found my method yielded crunchy corn that wasn't too heavy on raw starch taste which I wanted to avoid. Result was delish :)",
+          "datePublished": "2023-09-10T02:19:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Naomi"
+          },
+          "reviewBody": "I found this to be much too salty. Next time I’ll eliminate the salt and possibly cut back a bit on the miso. I added diced Granny Smith apples and found that rounded out the flavours quite nicely.",
+          "datePublished": "2023-08-25T00:26:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Morgan Plant"
+          },
+          "reviewBody": "We made this with orzo as we didn't have the ditalini.",
+          "datePublished": "2023-08-17T17:22:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Margot"
+          },
+          "reviewBody": "I added shrimp to this the second time I made it and it was very good.",
+          "datePublished": "2023-08-11T00:48:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeremy"
+          },
+          "reviewBody": "This was unexpectedly delicious! I used preserved lemon because it’s what I had on hand but all that actually matters is that I cannot stop eating this",
+          "datePublished": "2023-08-24T02:09:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christina"
+          },
+          "reviewBody": "So good! I watch Ham and Sola on YouTube and I’m always inspired by Ham’s flavors, so when I saw this I had to try it. Absolutely delicious. The crunch and sweetness of the corn, the depth and creaminess of the dressing, tartness from the lemon, chew from the pasta, and heat from the chilis is such an brilliant combination.",
+          "datePublished": "2023-08-04T22:27:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Margot"
+          },
+          "reviewBody": "Such a good pasta salad. I had a lot of corn from the Farmer's Market and I saw this recipe and I had to try it. I also had the 1st roast green chile of the season and added it. It's the only change I made. The miso is delicious!",
+          "datePublished": "2023-08-04T17:43:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alyssa"
+          },
+          "reviewBody": "Yes, one large ear. I found that 3/4 cup of frozen corn = 1 regular-sized ear.",
+          "datePublished": "2024-09-10T20:22:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gw"
+          },
+          "reviewBody": "I caramelized the corn kernels in a skillet and added chopped shrimp, gochujang, feta and blanched asparagus.  I also used preserved lemon juice.  Super addicting.",
+          "datePublished": "2024-06-30T17:37:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Notes"
+          },
+          "reviewBody": "For 8 oz ditalini (1/2 box),\n2T white miso\n2T lemon juice\n2T mayo\n1/2T harissa",
+          "datePublished": "2024-08-31T17:48:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Megan Elizabeth"
+          },
+          "reviewBody": "This was utterly excellent and mouthwatering! It was a huge hit with everyone when I brought it to a Memorial Day cabin weekend. Something about the mix of lemon juice and miso, tempered by the creaminess of the mayo, was to die for. I also used light mayo; I’m sure it would be even more amazing with full-fat mayo, but if you’re trying to keep the overall caloric-density reasonable, rest assured that it tastes amazing with the light mayo.",
+          "datePublished": "2024-06-12T13:22:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joshua"
+          },
+          "reviewBody": "This a definite keeper.  I did it quick and easy. My mods:\nI cooked the pasta in water salted like good chicken soup. Did not add more salt to the cooked pasta. I used frozen corn in a microwave ready bag, 2 min on high (1/3rd of the cooking time to just thaw). For dressing, I found 4 T of Miso, 1 T of sugar, 5 T Lemon juice, 1.5 T minced chipotle and mayo.  For a big upgrade, shake on some white Alba truffle powder.  Wow.",
+          "datePublished": "2024-07-03T21:58:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mikek"
+          },
+          "reviewBody": "@Maura blanching the corn is the way to go! love this recipe as is otherwise - most recently used gochujang and was also excellent",
+          "datePublished": "2025-03-17T20:18:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nichole"
+          },
+          "reviewBody": "This was pretty good, easy and quick; the whole batch will be eaten happily. However I used jarred Calabrian Chile, in oil, and I think that altered the flavor. I'll try again but drain and test maybe even rinse the chopped chiles first. I think the oil took the magic away, my sauce was bright orange and no tweaking made it what I think this is supposed to be. Also, it's winter, so I did use frozen corn and quickly blanched it/ kept the crunch.",
+          "datePublished": "2023-12-05T00:58:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jo"
+          },
+          "reviewBody": "Used 12 oz (instead of 8 oz) elbow macaroni, lime juice instead of lemon, and chili crunch, because that is what I had. I also added a can of chickpeas-excellent!!",
+          "datePublished": "2024-08-04T23:19:45.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1024306-corn-and-miso-pasta-salad",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Ham El-Waylly"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "The interplay between the crunch of the celery, the chew of the pasta and the pop of the corn kernels makes this (potentially vegan) pasta salad a textural pleasure to eat. Pasta salads that you can easily eat with a spoon reign supreme, and ditalini’s petite shape — which mimics the size of fresh corn kernels — makes it the perfect pasta candidate. Miso adds savory notes and deep umami flavor to the mayonnaise dressing. This recipe calls for Calabrian chile, but the miso-mayo mix is versatile: You can substitute anything from chopped chipotles in adobo to a spoonful of gochujang for a hit of heat.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Corn and Miso Pasta Salad",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/4cc67458-221a-5e69-95c4-ad36fac1d1cc#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/08/03/multimedia/hew-corn-and-miso-pasta-salad-bqjl/hew-corn-and-miso-pasta-salad-bqjl-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Nico Schinco for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-08-03T15:17:47.093Z",
+          "datePublished": "2023-07-31T19:45:00.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-07-31T19:45:00.000Z",
+          "url": "https://static01.nyt.com/images/2023/08/03/multimedia/hew-corn-and-miso-pasta-salad-bqjl/hew-corn-and-miso-pasta-salad-bqjl-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/4cc67458-221a-5e69-95c4-ad36fac1d1cc#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/08/03/multimedia/hew-corn-and-miso-pasta-salad-bqjl/hew-corn-and-miso-pasta-salad-bqjl-superJumbo.jpg",
+          "creditText": "Nico Schinco for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-08-03T15:17:47.093Z",
+          "datePublished": "2023-07-31T19:45:00.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2023-07-31T19:45:00.000Z",
+          "url": "https://static01.nyt.com/images/2023/08/03/multimedia/hew-corn-and-miso-pasta-salad-bqjl/hew-corn-and-miso-pasta-salad-bqjl-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/4cc67458-221a-5e69-95c4-ad36fac1d1cc#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/08/03/multimedia/hew-corn-and-miso-pasta-salad-bqjl/hew-corn-and-miso-pasta-salad-bqjl-mediumSquareAt3X.jpg",
+          "creditText": "Nico Schinco for The New York Times. Food Stylist: Barrett Washburne.",
+          "dateModified": "2023-08-03T15:17:47.093Z",
+          "datePublished": "2023-07-31T19:45:00.000Z",
+          "height": "1799",
+          "representativeOfPage": true,
+          "uploadDate": "2023-07-31T19:45:00.000Z",
+          "url": "https://static01.nyt.com/images/2023/08/03/multimedia/hew-corn-and-miso-pasta-salad-bqjl/hew-corn-and-miso-pasta-salad-bqjl-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1024306-corn-and-miso-pasta-salad"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:07:02.147Z",
+  "scraping_status": "scraped"
+}

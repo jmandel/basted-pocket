@@ -1,0 +1,551 @@
+{
+  "id": "6db0859679074962",
+  "original_url": "https://cooking.nytimes.com/recipes/1021718-maple-baked-salmon",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021718-maple-baked-salmon",
+  "fetched_title": "Maple-Baked Salmon Recipe",
+  "main_text_content": "Salmon baked at a low temperature until medium-rare delivers a silky texture that tastes special enough to make it a festive centerpiece This easy dish works any night of the week, since it comes together in less than half an hour Maple syrup sweetens the glaze, which gets a savory pop from whole mustard seeds in Dijon",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1024496-baked-salmon\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"Four pieces of salmon are roasted with a simple spice mixture.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2023/10/24/multimedia/LH-Baked-Salmon-mztp-copy/LH-Baked-Salmon-mztp-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Baked Salmon</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Lidey Heuck</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/12/14/dining/11Salmonrex-copy/merlin_180930006_d41e5468-49f7-4034-a367-fd2c8edcb6d8-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/6db0859679074962/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/61cb4bdc-5611-5852-986f-407e10a13f38",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1021718-maple-baked-salmon",
+        "@type": "WebPage",
+        "name": "Maple-Baked Salmon"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021718-maple-baked-salmon",
+      "name": "Maple-Baked Salmon",
+      "description": "Salmon baked at a low temperature until medium-rare delivers a silky texture that tastes special enough to make it a festive centerpiece. This easy dish works any night of the week, since it comes together in less than half an hour. Maple syrup sweetens the glaze, which gets a savory pop from whole mustard seeds in Dijon. Even though salmon is naturally fatty, a dollop of mayonnaise adds extra richness while thickening the glaze to help it seal onto&nbsp;the fish. The herbaceous aroma of cilantro stems baked into the sauce brightens the dish, as do tender leaves scattered on top.&nbsp;Fill out your feast with any combination of&nbsp;steamed rice, roasted potatoes,&nbsp;green beans&nbsp;or salad.",
+      "author": {
+        "@type": "Person",
+        "name": "Genevieve Ko"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/b8b96b29-7878-5141-9b0e-4d299d972c00#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/14/dining/11Salmonrex-copy/merlin_180930006_d41e5468-49f7-4034-a367-fd2c8edcb6d8-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times",
+          "dateModified": "2023-10-12T17:43:01.705Z",
+          "datePublished": "2023-10-12T17:42:51.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-10-12T17:42:51.000Z",
+          "url": "https://static01.nyt.com/images/2021/12/14/dining/11Salmonrex-copy/merlin_180930006_d41e5468-49f7-4034-a367-fd2c8edcb6d8-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/b8b96b29-7878-5141-9b0e-4d299d972c00#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/14/dining/11Salmonrex-copy/merlin_180930006_d41e5468-49f7-4034-a367-fd2c8edcb6d8-superJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times",
+          "dateModified": "2023-10-12T17:43:01.705Z",
+          "datePublished": "2023-10-12T17:42:51.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2023-10-12T17:42:51.000Z",
+          "url": "https://static01.nyt.com/images/2021/12/14/dining/11Salmonrex-copy/merlin_180930006_d41e5468-49f7-4034-a367-fd2c8edcb6d8-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/b8b96b29-7878-5141-9b0e-4d299d972c00#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/14/dining/11Salmonrex-copy/merlin_180930006_d41e5468-49f7-4034-a367-fd2c8edcb6d8-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times",
+          "dateModified": "2023-10-12T17:43:01.705Z",
+          "datePublished": "2023-10-12T17:42:51.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-10-12T17:42:51.000Z",
+          "url": "https://static01.nyt.com/images/2021/12/14/dining/11Salmonrex-copy/merlin_180930006_d41e5468-49f7-4034-a367-fd2c8edcb6d8-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT25M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "american",
+      "recipeCategory": "dinner, easy, lunch, weeknight, seafood, main course",
+      "keywords": "dijon mustard, maple syrup, partial-access-ic, party, salmon fillet, thanksgiving",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 7419
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 413,
+        "unsaturatedFatContent": "16 grams",
+        "carbohydrateContent": "8 grams",
+        "cholesterolContent": null,
+        "fatContent": "26 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "35 grams",
+        "saturatedFatContent": "6 grams",
+        "sodiumContent": "466 milligrams",
+        "sugarContent": "6 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 (1 1/2-pound) skin-on or skinless salmon fillet",
+        "12 fresh cilantro sprigs",
+        "2 tablespoons pure maple syrup",
+        "2 tablespoons whole-grain Dijon mustard",
+        "1 tablespoon mayonnaise",
+        "Kosher salt and freshly ground black pepper",
+        "Lemon wedges, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Remove salmon from the refrigerator. Heat oven to 325 degrees."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bundle the cilantro sprigs by their stems and hold them tightly, then slice the stems crosswise until you get to the leaves. Reserve leaves for garnish. Transfer sliced stems to a small bowl and stir in the maple syrup, mustard and mayonnaise until well mixed."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Season the salmon all over with salt and pepper and place in a baking dish, skin-side down if there is skin. Slather the maple sauce all over the top."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake until a paring knife slides into the center with only a little resistance, 15 to 20 minutes. When you remove the knife and touch the blade to your upper lip, it should feel very warm but not hot. The salmon will continue to heat through out of the oven while in the baking dish. Top with the reserved cilantro leaves, and squeeze lemon wedges all over just before serving."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2020-12-16T00:00:00.000Z",
+      "dateModified": "2024-01-29T22:22:16.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KRK"
+          },
+          "reviewBody": "30 minutes. Perfect",
+          "datePublished": "2025-05-20T21:55:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ken"
+          },
+          "reviewBody": "Excellent, done in about 17 minutes.",
+          "datePublished": "2025-05-15T00:46:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anita"
+          },
+          "reviewBody": "This was quick, easy and delicious! We'll fix it again. And again. It's Spring - we had it with sauteed asparagus and a green salad. And Albarino from Trader Joe's. PS We have an in-house annual salmon fisherman, so used wild-caught Alaskan salmon.",
+          "datePublished": "2025-04-01T03:29:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Batteiger"
+          },
+          "reviewBody": "Fantastic! Thank you.",
+          "datePublished": "2025-03-24T20:25:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "elaine"
+          },
+          "reviewBody": "we adjusted the sauce with some apple cider vinegar and quite a bit of salt to taste. The dish was a hit and was so convenient and fast.",
+          "datePublished": "2025-03-22T01:24:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Connie"
+          },
+          "reviewBody": "Did anyone feel the salmon was not fully cooked at this temp and length of cooking? I kept it in for 10 more minutes and raised the temp a bit.",
+          "datePublished": "2025-03-09T22:23:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patty"
+          },
+          "reviewBody": "Made this last night. Substituted tahini for the mayo which was a great suggestion by another cook. We enjoyed it. But it was a little sweet for me. Next time I'll try 2 Tbspn Tahini, 1 maple syrup and 2 mustard.",
+          "datePublished": "2025-03-07T12:41:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jesse"
+          },
+          "reviewBody": "Also great (maybe even better) over high heat such as grilled salmon or grilled pork tenderloin.  Finish low heat salmon with a quick broil to caremelize the sugars.  add Aleppo pepper to the glaze",
+          "datePublished": "2025-03-07T12:31:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Delicious!"
+          },
+          "reviewBody": "Delicious! I used olive oil instead of mayo. The salmon needed a solid 35 minutes at 325 to reach a safe temp of 145.",
+          "datePublished": "2025-02-18T02:56:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Buttercup"
+          },
+          "reviewBody": "I have made this simple recipe several times. The fish is almost a steamed texture, but much more buttery rich tasting.  My only change is to cut the maple syrup in half.",
+          "datePublished": "2025-02-04T12:34:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gayle"
+          },
+          "reviewBody": "I substituted aioli for the mayonnaise.  My guests loved it!  And I'm enjoying the little that was left and a salad with mango, strawberry and avocado.",
+          "datePublished": "2025-02-03T18:54:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane"
+          },
+          "reviewBody": "Simple and delicious; huge hit at my family's Christmas dinner (and the leftovers tasted great, too)!",
+          "datePublished": "2024-12-29T16:39:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Win"
+          },
+          "reviewBody": "I just cooked this tonight for a potluck party.  It was a two pounder and it needed to be in the oven for about 23 min.  Since I didn’t have cilantro at home, I substituted with dry dill and added some lemon pepper.  Everyone loves it and asked what was in the sauce!  I will definitely make it again.",
+          "datePublished": "2024-12-29T08:19:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul Marc"
+          },
+          "reviewBody": "Absolutely delicious. Unless using sushi grade salmon, which is much more expensive, I tend to cook salmon longer to make sure any parasites are killed but other than that, made exactly the same. The mayo is great on the skin by itself as it stops the salmon sticking to the pan and helps crisp it a bit.",
+          "datePublished": "2024-12-28T09:55:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate Whelley McCabe"
+          },
+          "reviewBody": "Yum. A staple. Then substituted red pepper flakes for cilantro, used maple sugar and rice wine vinegar instead of syrup. Liked it even more.",
+          "datePublished": "2024-11-18T23:22:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "amazing!!"
+          },
+          "reviewBody": "....A four-ingredient, five-minute glaze coats a single slab of salmon, and the whole thing comes together in under 30 minutes....\n\nShould you choose farmed Atlantic salmon there will be a few more ingredients, like antibiotics, artificial coloring, and given that vaccines are all the rage, you'll get that too!  \n\nTake it from someone who's in the fish biz, choose wild sockeye or king salmon.",
+          "datePublished": "2020-12-14T17:16:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Irina"
+          },
+          "reviewBody": "I have cleaned a LOT of salmon (wild, not farmed) in my life and as a result won't eat any salmon that is not cooked all the way through. To at least 'medium well'. Maybe it sacrifices a bit of flavor, but adds peace of mind. \nLots of wild salmon are wormy, including the famous Copper River reds\nwhich we dip out of the Copper River. I can't even imagine what farmed ones look like inside.",
+          "datePublished": "2020-12-20T17:13:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary Prorok"
+          },
+          "reviewBody": "I made this recipe exactly as written and it was fantastic.  I don't think the cilantro is necessarily key here (and I'm a cilantro freak), so leaving it out won't exact irreparable harm on the dish.  It's the mustard, maple, mayo triumvirate that makes this dish so delectable.",
+          "datePublished": "2020-12-14T17:36:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gregg"
+          },
+          "reviewBody": "I just prepared this salmon tonight, and it was delicious.  I followed the simple recipe as written, and I would not change a thing.  My only thought is that a lot of the glaze slid off the fish and wound up in the pan.  I think next time I will put have the glaze on at the beginning and the remainder half way through cooking.  This recipe is a keeper!",
+          "datePublished": "2020-12-17T04:36:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Es"
+          },
+          "reviewBody": "Delicious. Husband very skeptical; thought it would be too sweet. Not at all sweet. Complex. Only recommendation I would make is to use skinless salmon. The skin is not crispy and it's useless. I would oil the baking pan just a little before putting salmon in. For two, I used .8 pounds of salmon. Served with smashed potatoes and broccoli rabe. Oh, he likes well-done salmon, so I roasted it about 25 minutes. It was luscious.",
+          "datePublished": "2020-12-13T01:01:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Russ"
+          },
+          "reviewBody": "I make something very similar except tahini for mayonnaise.  Adds a nuttiness to the mix.",
+          "datePublished": "2020-12-14T22:08:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristin"
+          },
+          "reviewBody": "Great to see this in the NY Times, since I just made a very similar recipe I found elsewhere a few weeks ago! I hadn't thought of baking fresh herbs, so that's a great addition. I'm not a fan of mayonnaise, so I didn't and won't use that. Garlic is also great in the sauce. One thing I really liked from the other recipe is that you can add halved Brussels sprouts that have been tossed in olive oil, salt and pepper to the pan. They take the same amount of time, and then it's a full sheet pan meal.",
+          "datePublished": "2020-12-18T20:43:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "shirley"
+          },
+          "reviewBody": "For those who think the cilantro debate is frivolous, 23 and me actually says it is genetic.",
+          "datePublished": "2020-12-17T15:25:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne"
+          },
+          "reviewBody": "One tip - don't bother putting oil in the pan. If you use parchment paper in the pan instead the salmon won't stick.",
+          "datePublished": "2020-12-28T19:52:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "bam"
+          },
+          "reviewBody": "Make this all the time, but with horseradish instead of mayonnaise. Adds great flavor!",
+          "datePublished": "2020-12-16T04:40:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan B. A."
+          },
+          "reviewBody": "Good recipe. Adding half a teaspoon of red miso to the maple syrup mix will take it to the next level. Miso adds depth, warmth, and umami. \n\nI make this whenever I can afford salmon, serve with a salad and cous-cous - and lick the plate when done.",
+          "datePublished": "2020-12-28T16:29:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "Might I suggest wild rice with this recipe?",
+          "datePublished": "2020-12-14T02:35:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susana528"
+          },
+          "reviewBody": "I do a similar recipe using honey in place of the maple syrup",
+          "datePublished": "2020-12-13T16:01:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CarolJ"
+          },
+          "reviewBody": "The article that came with the recipe in today’s print edition added a wonderful lesson by Ms. Ko on slow-cooking salmon.  Her explanation was spot on, and, as an added lesson, she included a great line about cooking seafood taken from “The River Cottage Fish Book”:  “It’s not that cooking fish is difficult.  It’s just that overcooking fish is easy.”",
+          "datePublished": "2020-12-17T00:50:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Purple GIrl"
+          },
+          "reviewBody": "Although I'm sure your herb mixture is delicious, I don't recommend using yogurt here, since it tends to separate when heated. It might make the presentation less appealing. 1 Tbsp of regular mayo ends up being about 25 additional calories per person if this recipe serves 4 ppl. Fairly insignificant.",
+          "datePublished": "2020-12-13T17:08:16.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1021718-maple-baked-salmon",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Genevieve Ko"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020,
+      "description": "Salmon baked at a low temperature until medium-rare delivers a silky texture that tastes special enough to make it a festive centerpiece. This easy dish works any night of the week, since it comes together in less than half an hour. Maple syrup sweetens the glaze, which gets a savory pop from whole mustard seeds in Dijon. Even though salmon is naturally fatty, a dollop of mayonnaise adds extra richness while thickening the glaze to help it seal onto&nbsp;the fish. The herbaceous aroma of cilantro stems baked into the sauce brightens the dish, as do tender leaves scattered on top.&nbsp;Fill out your feast with any combination of&nbsp;steamed rice, roasted potatoes,&nbsp;green beans&nbsp;or salad.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Maple-Baked Salmon",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/b8b96b29-7878-5141-9b0e-4d299d972c00#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/14/dining/11Salmonrex-copy/merlin_180930006_d41e5468-49f7-4034-a367-fd2c8edcb6d8-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times",
+          "dateModified": "2023-10-12T17:43:01.705Z",
+          "datePublished": "2023-10-12T17:42:51.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-10-12T17:42:51.000Z",
+          "url": "https://static01.nyt.com/images/2021/12/14/dining/11Salmonrex-copy/merlin_180930006_d41e5468-49f7-4034-a367-fd2c8edcb6d8-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/b8b96b29-7878-5141-9b0e-4d299d972c00#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/14/dining/11Salmonrex-copy/merlin_180930006_d41e5468-49f7-4034-a367-fd2c8edcb6d8-superJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times",
+          "dateModified": "2023-10-12T17:43:01.705Z",
+          "datePublished": "2023-10-12T17:42:51.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2023-10-12T17:42:51.000Z",
+          "url": "https://static01.nyt.com/images/2021/12/14/dining/11Salmonrex-copy/merlin_180930006_d41e5468-49f7-4034-a367-fd2c8edcb6d8-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/b8b96b29-7878-5141-9b0e-4d299d972c00#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/14/dining/11Salmonrex-copy/merlin_180930006_d41e5468-49f7-4034-a367-fd2c8edcb6d8-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times",
+          "dateModified": "2023-10-12T17:43:01.705Z",
+          "datePublished": "2023-10-12T17:42:51.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-10-12T17:42:51.000Z",
+          "url": "https://static01.nyt.com/images/2021/12/14/dining/11Salmonrex-copy/merlin_180930006_d41e5468-49f7-4034-a367-fd2c8edcb6d8-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1021718-maple-baked-salmon"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:11.405Z",
+  "scraping_status": "scraped"
+}

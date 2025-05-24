@@ -1,0 +1,568 @@
+{
+  "id": "034cede89a08b1a8",
+  "original_url": "https://cooking.nytimes.com/recipes/1025317-creamy-fish-with-mushrooms-and-bacon",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025317-creamy-fish-with-mushrooms-and-bacon",
+  "fetched_title": "Creamy Fish With Mushrooms and Bacon Recipe",
+  "main_text_content": "This delightful fish recipe is inspired by a recipe from the chef Hugue Dufour of M Wells restaurant in Long Island City, Queens It’s based on the classic French preparation called bonne femme, which refers to simple, homey dishes often containing wine, mushrooms and cream",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1016650-bourride-a-la-setoise\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2014/07/16/dining/16FESTIVAL_STEW/16FESTIVAL_STEW-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2014/07/16/dining/16FESTIVAL_STEW/16FESTIVAL_STEW-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2014/07/16/dining/16FESTIVAL_STEW/16FESTIVAL_STEW-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2014/07/16/dining/16FESTIVAL_STEW/16FESTIVAL_STEW-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2014/07/16/dining/16FESTIVAL_STEW/16FESTIVAL_STEW-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2014/07/16/dining/16FESTIVAL_STEW/16FESTIVAL_STEW-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Bourride à la Sétoise</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Elaine Sciolino</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/04/22/multimedia/22seafoodrex-hptm/22seafoodrex-hptm-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/034cede89a08b1a8/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/e99e3250-2592-527b-8b74-6d885f4433ca",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025317-creamy-fish-with-mushrooms-and-bacon",
+        "@type": "WebPage",
+        "name": "Creamy Fish With Mushrooms and Bacon"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025317-creamy-fish-with-mushrooms-and-bacon",
+      "name": "Creamy Fish With Mushrooms and Bacon",
+      "description": "This delightful fish recipe is inspired by a recipe from the chef Hugue Dufour of M. Wells restaurant in Long Island City, Queens. It’s based on the classic French preparation called bonne femme, which refers to simple, homey dishes often containing wine, mushrooms and cream. Here, bacon and tomatoes are added to the sauce, giving it brawny depth and brightness. You can use any kind of mild, white-fleshed fish you like. Just watch it carefully so the fillets don’t overcook under the broiler.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/bd9bc938-90b7-58f5-b386-c2f7c0210beb#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/22/multimedia/22seafoodrex-hptm/22seafoodrex-hptm-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-04-26T17:00:00.047Z",
+          "datePublished": "2024-04-22T20:13:10.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-22T20:13:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/04/22/multimedia/22seafoodrex-hptm/22seafoodrex-hptm-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/bd9bc938-90b7-58f5-b386-c2f7c0210beb#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/22/multimedia/22seafoodrex-hptm/22seafoodrex-hptm-googleFourByThree.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-04-26T17:00:00.047Z",
+          "datePublished": "2024-04-22T20:13:10.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-22T20:13:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/04/22/multimedia/22seafoodrex-hptm/22seafoodrex-hptm-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/bd9bc938-90b7-58f5-b386-c2f7c0210beb#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/22/multimedia/22seafoodrex-hptm/22seafoodrex-hptm-mediumSquareAt3X.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-04-26T17:00:00.047Z",
+          "datePublished": "2024-04-22T20:13:10.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-22T20:13:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/04/22/multimedia/22seafoodrex-hptm/22seafoodrex-hptm-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT20M",
+      "totalTime": "PT35M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, quick, weeknight, one pot, seafood, main course",
+      "keywords": "bacon, canned tomato, crème fraîche, cremini, skillet, white fish, white mushroom",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 859
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 286,
+        "unsaturatedFatContent": "7 grams",
+        "carbohydrateContent": "15 grams",
+        "cholesterolContent": null,
+        "fatContent": "12 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "27 grams",
+        "saturatedFatContent": "4 grams",
+        "sodiumContent": "506 milligrams",
+        "sugarContent": "5 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "4 ounces bacon (4 to 8 slices, depending on thickness), diced",
+        "8 ounces cremini or white mushrooms, stems discarded and caps halved or quartered",
+        "1 large shallot, diced",
+        "1 cup canned peeled whole tomatoes",
+        "1/4 cup white wine",
+        "1 cup vegetable or chicken stock",
+        "1/4 teaspoon fine sea salt, plus more for fish and to taste",
+        "1/4 teaspoon finely ground black pepper, plus more for fish",
+        "5 tablespoons crème fraîche or heavy cream",
+        "5 thyme sprigs, plus ½ teaspoon thyme leaves, more for garnish",
+        "4 to 6 fillets black sea bass, fluke, tilefish, hake or other white fish (1¼ to 1½ pounds), skin removed",
+        "Baguette slices or buttered toast, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large oven-safe skillet over medium-high heat, cook the bacon until crisp and brown, about 5 minutes. Add mushrooms and shallot, and cook until tender and deeply golden, 5 to 8 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Use your hands to crush the tomatoes or a knife to roughly chop them. Deglaze the skillet with the crushed tomatoes and their liquid, along with the wine and vegetable stock. Add the salt and pepper. Bring to a strong simmer and cook until the sauce has thickened, about 10 minutes. Taste and add more salt if needed."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Whisk in 4 tablespoons crème fraîche or cream, then add thyme sprigs. Simmer for 2 to 3 more minutes or until the sauce has reduced slightly."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the sauce reduces, generously season the fillets on both sides with salt and pepper. Heat broiler on high with a rack placed 6 inches from the heat source."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place the thicker fillets toward the edge of the skillet on top of the sauce and place the thinner fillets toward the center. Some overlapping is fine. Use a spoon to scoop some of the mushroom mixture over the fillets and dollop the remaining 1 tablespoon of crème fraîche evenly over the skillet. Sprinkle with thyme leaves."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Broil for 2 to 5 minutes for thin fillets and 6 to 10 for thick ones, or until the sauce is bubbling and the fillets are just cooked through. Serve garnished with thyme leaves in shallow bowls with baguette slices or buttered toast for dipping."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-04-22T00:00:00.000Z",
+      "dateModified": "2024-04-29T20:27:07.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jude"
+          },
+          "reviewBody": "I might have been too generous in salting the fish but the sauce was very good. I would salt the fish lightly next time.",
+          "datePublished": "2025-05-18T23:08:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kingwing"
+          },
+          "reviewBody": "Make this wonderful recipe as written. It's delicious, earthy, comforting, and is now in permanent rotation. There were raves. I blushed.",
+          "datePublished": "2025-05-18T12:44:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen"
+          },
+          "reviewBody": "This was wonderful. Made exactly as written. I would just add that you can use a whole 14.5oz can of tomatoes. Difference is minimal and then there is no waste. (FYI I bought the fire roasted. Outstanding!)",
+          "datePublished": "2025-05-17T22:42:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DRB"
+          },
+          "reviewBody": "I thought 4 Tbs of cream was too much. Next time I might eliminate it altogether. Dish was  very nice with a dry champagne.",
+          "datePublished": "2025-05-16T21:48:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellie V"
+          },
+          "reviewBody": "I think it could do with a whole large can of crushed tomatoes. My oven doesn’t have a broil setting and we had quite a thick cut of lingcod (over an inch thick) so I baked for 15 minutes at 400F. Didn’t bother taking the skin off and there was no need to. Whole family scarfed it right up. Served over a bed of mashed potatoes.",
+          "datePublished": "2025-05-16T04:16:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "HanTran"
+          },
+          "reviewBody": "I might try this with crisped tofu.",
+          "datePublished": "2025-05-15T21:30:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jen"
+          },
+          "reviewBody": "This was great! I used frozen branzino from Trader Joe’s and put it in the broiler skin side up so it crisped the skin. Everyone really enjoyed it.",
+          "datePublished": "2025-05-12T22:55:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jolee"
+          },
+          "reviewBody": "This sauce is so delicious. Topped with some Parmesan. Otherwise make as is",
+          "datePublished": "2025-05-11T10:57:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne"
+          },
+          "reviewBody": "Agree that it was a little bland, but I so loved the main idea and ease of preparation. Made with corvina, a mild fish. I may try again with a more strongly flavored fish and some doctoring of the sauce--some red pepper, a more robust broth, smokier bacon.",
+          "datePublished": "2025-05-10T23:03:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bruce"
+          },
+          "reviewBody": "I see there is hesitation about using the broiler but I did and it does make a difference: it roasts the top of the dish, providing a lovely textural difference that oven heat cannot duplicate. I too was hesitant but felt better once I measured where the rack with the skillet needed to be in a cold oven. So when I put the skillet under the broiler I did so knowing it was going to be ok. And it was far better than ok. It was phenomenal! And the leftover sauce made a great pasta sauce.",
+          "datePublished": "2025-05-10T15:44:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laurie D"
+          },
+          "reviewBody": "I made this tonight with no modifications. We liked it, but it was salty. I used an instant chicken broth which I think is quite salty, plus the bacon. I added a pinch of salt to the sauce, but didn’t salt the fish. Next time I would leave out all the added salt. Tasty though!",
+          "datePublished": "2025-05-10T01:02:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brian T."
+          },
+          "reviewBody": "Absolutely delicious, will definitely make for guests.  I used sole filets and made the dish in a large electric skillet able to accommodate all of the fish in a single layer. The sauce was akin to the taste of jaegerschnitzel and was dazzling atop the light and delicate sole in the same way the bacon-mushroom-caper mixture elevates veal.",
+          "datePublished": "2025-05-09T15:07:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brian"
+          },
+          "reviewBody": "Phenomenal recipe.  I used Chilean sea bass with skin on, and it was sublime.  Not sure why I spent nine bucks on fine sea salt though, as any salt will dissolve into the sauce.",
+          "datePublished": "2025-05-09T15:36:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dori"
+          },
+          "reviewBody": "This was so so good. Made it exactly as written, with halibut, and already know this will be a meal we repeat often. Served with sautéed spinach and toast.",
+          "datePublished": "2025-05-08T02:23:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura"
+          },
+          "reviewBody": "I don't understand the 5-star ratings. 3-stars is generous. I followed the recipe exactly. Cut it in half for 12 ounces of fish. The sauce was bland, the bacon flavor was lost init, and the fish dried out. I used Mahi Mahi. I literally couldn't finish it and threw out the leftovers. IF I made it again I'd drain the tomatoes, use more cream, onion instead of shallot, and add the bacon and mushrooms for the last 2 minutes of cooking.",
+          "datePublished": "2025-05-07T19:34:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bob"
+          },
+          "reviewBody": "\"1 cup canned peeled whole tomatoes\"\n\nThat's about two tomatoes?  Cans of whole peeled tomatoes only come in 28oz cans. We used a 15oz can of diced tomatoes, and frankly, a can of whole peeled tomatoes would be fine - they cook down.\n\nThe final sauce is absolutely delicious, but we used Dover sole and thought the fish got lost in it.  Use a stronger white fish, maybe even salmon filets (sliced thin)\n\nActually we are eager to try this with chicken.",
+          "datePublished": "2024-07-26T12:34:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Yinzer Fan"
+          },
+          "reviewBody": "Deliciousness!  Killer sauce that is truly plate-licking good.  I added red pepper flakes and opted to finish in the oven (400 degrees for 8 mins) instead of broiling. I used cod and will keep this recipe in my lineup.",
+          "datePublished": "2024-05-06T11:14:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RPR"
+          },
+          "reviewBody": "I’m going to disagree with the comments that say just braise the fish on the stove.  The broiler is very fast and easy and gives the fish and the mushrooms a bit of a roasted look and taste.  I checked the fish internal temp every 3 minutes or so  with a Thermoworks probe and pulled it at around 130 degrees F. I suggest making it as written.",
+          "datePublished": "2024-05-07T02:18:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KMLWPA"
+          },
+          "reviewBody": "Canned whole peeled tomatoes also come in 14.5 oz cans.",
+          "datePublished": "2025-04-30T15:47:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Betsy"
+          },
+          "reviewBody": "Y’all!!! This recipe slaps! So good! So easy! So delicious! Sauce is so creamy and amazing. Would be good on any/everything! Can’t wait to make this again!",
+          "datePublished": "2024-04-25T01:04:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Charley"
+          },
+          "reviewBody": "Quite satisfying. Made as written except I didn’t broil. I added the filete to the finished sauce and cooked five minutes in the pan covered.",
+          "datePublished": "2024-06-19T17:52:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lorraine"
+          },
+          "reviewBody": "Loved it, will definitely be making again...and again. Instead of bacon (I know, I know) I used olive oil and added halved black olives near the end of cooking. I used barramundi, a thin fish, so I added the fillets to the pan and covered it to finish cooking. I used creme fraiche, next time I may use buttermilk. I often sub buttermilk for cream in dishes, it lightens it and adds a little zing. This was delicious.",
+          "datePublished": "2024-05-06T18:36:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam, NJ"
+          },
+          "reviewBody": "Or just add the fish and continue to cook stovetop. Maybe covering.",
+          "datePublished": "2024-04-25T15:38:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "shelli"
+          },
+          "reviewBody": "Used a 14 oz can of peeled tomatoes for just over 1# of haddock and it made the perfect amount of sauce.  Also finished on stove top and it worked fine.  Lovely, simple meal!",
+          "datePublished": "2024-12-31T13:50:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jane r"
+          },
+          "reviewBody": "Swordfish pan fried for a couple of minutes each side ( defrosted Trader Joe's is great) then add to the finished sauce on the stove top is my go to. Easier than other fish and gets huge pluses from family.",
+          "datePublished": "2024-10-05T15:54:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sophie"
+          },
+          "reviewBody": "Classic French country cooking.  Yum!  I reserved the crispy bacon and used it as a garnish at the end.  Otherwise I followed the recipe exactly.",
+          "datePublished": "2024-10-15T02:20:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cooksalot"
+          },
+          "reviewBody": "@Charley\nDid it make the sauce more watery when you cooked the fish in the sauce instead of under the broiler?",
+          "datePublished": "2025-04-30T17:43:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David"
+          },
+          "reviewBody": "I followed the recipe closely, used a 28 oz can of Italian whole tomatoes which is a bit more than a cup, and heavy cream. People loved it and we served it on a bed of mashed potatoes. Will make it again.",
+          "datePublished": "2024-05-10T04:01:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "would’ve given it 5 stars"
+          },
+          "reviewBody": "But definitely did NOT take 35 minutes. Closer to an hour. Be sure to ask your fishmonger to remove the halibut skin because it was a pain to do at home, which probably added time to my cook",
+          "datePublished": "2024-06-06T00:07:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Yvette"
+          },
+          "reviewBody": "Per the recipe you would need the bacon fat to saute the mushrooms and shallot.  4 slices of diced bacon shouldn't yield that much fat but if it seems too much, just pour some out but leave enough for the mushrooms and shallot.",
+          "datePublished": "2024-04-29T17:28:03.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025317-creamy-fish-with-mushrooms-and-bacon",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "This delightful fish recipe is inspired by a recipe from the chef Hugue Dufour of M. Wells restaurant in Long Island City, Queens. It’s based on the classic French preparation called bonne femme, which refers to simple, homey dishes often containing wine, mushrooms and cream. Here, bacon and tomatoes are added to the sauce, giving it brawny depth and brightness. You can use any kind of mild, white-fleshed fish you like. Just watch it carefully so the fillets don’t overcook under the broiler.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Creamy Fish With Mushrooms and Bacon",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/bd9bc938-90b7-58f5-b386-c2f7c0210beb#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/22/multimedia/22seafoodrex-hptm/22seafoodrex-hptm-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-04-26T17:00:00.047Z",
+          "datePublished": "2024-04-22T20:13:10.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-22T20:13:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/04/22/multimedia/22seafoodrex-hptm/22seafoodrex-hptm-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/bd9bc938-90b7-58f5-b386-c2f7c0210beb#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/22/multimedia/22seafoodrex-hptm/22seafoodrex-hptm-googleFourByThree.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-04-26T17:00:00.047Z",
+          "datePublished": "2024-04-22T20:13:10.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-22T20:13:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/04/22/multimedia/22seafoodrex-hptm/22seafoodrex-hptm-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/bd9bc938-90b7-58f5-b386-c2f7c0210beb#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/04/22/multimedia/22seafoodrex-hptm/22seafoodrex-hptm-mediumSquareAt3X.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-04-26T17:00:00.047Z",
+          "datePublished": "2024-04-22T20:13:10.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-04-22T20:13:10.000Z",
+          "url": "https://static01.nyt.com/images/2024/04/22/multimedia/22seafoodrex-hptm/22seafoodrex-hptm-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025317-creamy-fish-with-mushrooms-and-bacon"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T20:05:12.704Z",
+  "scraping_status": "scraped"
+}

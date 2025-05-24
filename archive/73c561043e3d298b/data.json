@@ -1,0 +1,428 @@
+{
+  "id": "73c561043e3d298b",
+  "original_url": "https://www.maangchi.com/recipe/mandu-guk",
+  "canonical_url": "https://www.maangchi.com/recipe/mandu-guk",
+  "fetched_title": "Dumpling soup (Mandu-guk: 만두국) recipe by Maangchi",
+  "main_text_content": "Imagine garlic-flavored rich beef brisket stock filled with sweet, springy shrimp and chive mandu dumplings. If you&#039;re a soup person, this is going to make your stomach very happy!",
+  "main_html_content": "<h1 class=\"entry-title mega-heading\">Dumpling soup</h1><h2 class=\"entry-title mega-heading-translation\"><span class=\"romanized-name\">Mandu-guk</span> <span class=\"korean-name\">만두국</span></h2><p class=\"author vcard postedby\">By <a href=\"/about\" rel=\"author\"><span class=\"fn n nickname\">Maangchi</span></a></p><p class=\"postdate updated\">Updated on January 20th, 2023</p><div  class=\"rmp-widgets-container rmp-wp-plugin rmp-main-container js-rmp-widgets-container js-rmp-widgets-container--71331 \"  data-post-id=\"71331\"><div class=\"rmp-rating-widget js-rmp-rating-widget\"><div class=\"rmp-rating-widget__icons\"><ul class=\"rmp-rating-widget__icons-list js-rmp-rating-icons-list\"><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Not at all useful\" data-value=\"1\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Somewhat useful\" data-value=\"2\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Good recipe\" data-value=\"3\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"Great recipe\" data-value=\"4\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li><li class=\"rmp-rating-widget__icons-list__icon js-rmp-rating-item\" data-descriptive-rating=\"The besttt!!!\" data-value=\"5\"> <i class=\"js-rmp-rating-icon rmp-icon rmp-icon--ratings rmp-icon--star rmp-icon--full-highlight\"></i></li></ul>",
+  "publication_date": "2017-02-07T01:50:09+00:00",
+  "author": "Maangchi",
+  "key_image_url": "https://www.maangchi.com/wp-content/uploads/2017/02/mandoo-1200x630-cropped.jpg",
+  "local_image_path": "scraped/73c561043e3d298b/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@id": "/recipe/mandu-guk#sso/article/71331",
+          "@context": "https://schema.org",
+          "@type": "Article",
+          "mainEntityOfPage": "https://www.maangchi.com/recipe/mandu-guk",
+          "url": "https://www.maangchi.com/recipe/mandu-guk",
+          "sameAs": [
+            "https://www.maangchi.com/?p=71331"
+          ],
+          "name": "Dumpling soup (Mandu-guk: 만두국)",
+          "description": "Imagine garlic-flavored rich beef brisket stock filled with sweet, springy shrimp and chive mandu dumplings. If you&#039;re a soup person, this is going to make your stomach very happy!",
+          "image": [
+            {
+              "@id": "/wp-content/uploads/2017/02/49180-1200x1200-cropped.jpg#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2017/02/mandoo-1200x900-cropped.jpg#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2017/02/mandoo-1200x675-cropped.jpg#sso/image-object"
+            }
+          ],
+          "publisher": [
+            {
+              "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+            }
+          ],
+          "headline": "Dumpling soup (Mandu-guk: 만두국)",
+          "keywords": "dumpling soup, dumplings, dumplings for soup, Dumplings recipe, 만두, 만두국, 계란 지단, easy dumplings, homemade dumplings, how to make gyeran jidan, Korean cooking, Korean cuisine, Korean dumpling recipe, korean dumplings, Korean dumplings soup recipe, korean food, Korean kitchen, Maangchi's dumpling recipe, mandu, mandu-guk, manduguk",
+          "isFamilyFriendly": true,
+          "inLanguage": "en_US",
+          "datePublished": "2017-02-07T01:50:09+00:00",
+          "dateModified": "2023-01-20T14:16:49+00:00",
+          "author": {
+            "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person"
+          },
+          "thumbnailUrl": "https://www.maangchi.com/wp-content/uploads/2017/02/mandoo-1200x630-cropped.jpg",
+          "commentCount": 9,
+          "comment": [
+            {
+              "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/54247"
+            },
+            {
+              "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/53119"
+            },
+            {
+              "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/49180"
+            },
+            {
+              "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/49007"
+            },
+            {
+              "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/45797"
+            },
+            {
+              "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/45281"
+            },
+            {
+              "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/45261"
+            },
+            {
+              "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/45174"
+            }
+          ],
+          "articleSection": "Food / Cooking",
+          "timeRequired": "PT3M",
+          "speakable": {
+            "@context": "https://schema.org",
+            "@type": "SpeakableSpecification",
+            "cssSelector": [
+              ".wp-block-post-title",
+              ".speakable"
+            ]
+          }
+        },
+        {
+          "@id": "/wp-content/uploads/2017/02/49180-1200x1200-cropped.jpg#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2017/02/49180-1200x1200-cropped.jpg",
+          "identifier": "81036-wpsso-schema-1x1",
+          "name": "49180",
+          "description": "No Description.",
+          "encodingFormat": "image/jpeg",
+          "uploadDate": "2019-03-02T10:18:32+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-1200"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-width-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Width",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "#sso/qv-height-px-1200",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "1200"
+        },
+        {
+          "@id": "/wp-content/uploads/2017/02/mandoo-1200x900-cropped.jpg#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2017/02/mandoo-1200x900-cropped.jpg",
+          "identifier": "71354-wpsso-schema-4x3",
+          "name": "dumpling soup (manduguk: 만두국)",
+          "description": "dumpling soup (manduguk: 만두국)",
+          "encodingFormat": "image/jpeg",
+          "uploadDate": "2017-02-07T01:53:48+00:00",
+          "alternativeHeadline": "dumpling soup (manduguk: 만두국)",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-900"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-900",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "900"
+        },
+        {
+          "@id": "/wp-content/uploads/2017/02/mandoo-1200x675-cropped.jpg#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2017/02/mandoo-1200x675-cropped.jpg",
+          "identifier": "71354-wpsso-schema-16x9",
+          "name": "dumpling soup (manduguk: 만두국)",
+          "description": "dumpling soup (manduguk: 만두국)",
+          "encodingFormat": "image/jpeg",
+          "uploadDate": "2017-02-07T01:53:48+00:00",
+          "alternativeHeadline": "dumpling soup (manduguk: 만두국)",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-675"
+            }
+          ]
+        },
+        {
+          "@id": "#sso/qv-height-px-675",
+          "@context": "https://schema.org",
+          "@type": "QuantitativeValue",
+          "name": "Height",
+          "unitText": "px",
+          "unitCode": "E37",
+          "value": "675"
+        },
+        {
+          "@id": "/9742511fc05bd01bd12ed2c582837de4#sso/person",
+          "@context": "https://schema.org",
+          "@type": "Person",
+          "url": "https://www.maangchi.com",
+          "name": "Maangchi",
+          "description": "Author archive page for Maangchi.",
+          "image": [
+            {
+              "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object"
+            },
+            {
+              "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object"
+            }
+          ]
+        },
+        {
+          "@id": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://secure.gravatar.com/avatar/c6a86ca58399fc225413e4bb69c7d96b.jpg?d=mp&s=1200",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-1200"
+            }
+          ]
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x900-cropped.png",
+          "identifier": "93971-wpsso-schema-4x3",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-900"
+            }
+          ]
+        },
+        {
+          "@id": "/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png#sso/image-object",
+          "@context": "https://schema.org",
+          "@type": "ImageObject",
+          "url": "https://www.maangchi.com/wp-content/uploads/2021/07/maangchi-square-2000-1200x675-cropped.png",
+          "identifier": "93971-wpsso-schema-16x9",
+          "name": "maangchi-square-2000",
+          "description": "No Description.",
+          "encodingFormat": "image/png",
+          "uploadDate": "2021-07-29T23:27:17+00:00",
+          "width": [
+            {
+              "@id": "#sso/qv-width-px-1200"
+            }
+          ],
+          "height": [
+            {
+              "@id": "#sso/qv-height-px-675"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/54247",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/mandu-guk/comment-page-1#comment-54247",
+          "name": "Comment by Caroldoyun on February 6, 2023",
+          "description": "Hello! If I want to make for a bigger crowd, can I just triple each ingredient or do I need&hellip;",
+          "text": "Hello! If I want to make for a bigger crowd, can I just triple each ingredient or do I need to adjust some ingredients? THANK YOU, Carol (Also, if I want to add some sliced rice cakes to it, when do I add it? Same time as the mandu dumplings?)",
+          "dateCreated": "2023-02-06T00:36:47-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Caroldoyun"
+          }
+        },
+        {
+          "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/53119",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/mandu-guk/comment-page-1#comment-53119",
+          "name": "Comment by Ms.B on February 22, 2022",
+          "description": "This was a great first recipe to try! I subbed beef broth for the water and I only had pork&hellip;",
+          "text": "This was a great first recipe to try! I subbed beef broth for the water and I only had pork and veggie mandu. It came out delicious!",
+          "dateCreated": "2022-02-22T02:20:59-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Ms.B"
+          }
+        },
+        {
+          "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/49180",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/mandu-guk/comment-page-1#comment-49180",
+          "name": "Comment by kamkakosz@o2.pl on March 2, 2019",
+          "description": "I love this soup. Thank you for the recipie.",
+          "text": "I love this soup. Thank you for the recipie.",
+          "dateCreated": "2019-03-02T10:18:31-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "kamkakosz@o2.pl"
+          }
+        },
+        {
+          "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/49007",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/mandu-guk/comment-page-1#comment-49007",
+          "name": "Comment by Megan87 on January 27, 2019",
+          "description": "Hello Maangchi!! Is there a spice version of this with flatter noodles? I I&rsquo;ve eaten a soup similar to this&hellip;",
+          "text": "Hello Maangchi!! Is there a spice version of this with flatter noodles? I I&rsquo;ve eaten a soup similar to this in Gangwon-do but the noodles were flat and dried seaweed flakes were added.",
+          "dateCreated": "2019-01-27T04:32:55-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Megan87"
+          }
+        },
+        {
+          "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/45797",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/mandu-guk/comment-page-1#comment-45797",
+          "name": "Comment by michaelines_zoo on May 20, 2017",
+          "description": "It&#039;s deceptively delicious! I used cubed chuck roast and it came out great, especially with some kimchi. Thank you!!",
+          "text": "It&#039;s deceptively delicious! I used cubed chuck roast and it came out great, especially with some kimchi. Thank you!!",
+          "dateCreated": "2017-05-20T17:17:58-04:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "michaelines_zoo"
+          }
+        },
+        {
+          "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/45281",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/mandu-guk/comment-page-1#comment-45281",
+          "name": "Comment by Emi on February 25, 2017",
+          "description": "Me and my friend made this recipe today, but used your kimchi-wangmandu (made with your recipe for the mandu skins,&hellip;",
+          "text": "Me and my friend made this recipe today, but used your kimchi-wangmandu (made with your recipe for the mandu skins, which was an awesome recipe because the dough was super easy to work with) instead of shrimp dumplings, and it was delicious!! Next time I&#039;m going to try and just fry the dumplings in a pan, but they were super tasty in the soup. Thanks for sharing your recipies!",
+          "dateCreated": "2017-02-25T22:29:14-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Emi"
+          }
+        },
+        {
+          "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/45261",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/mandu-guk/comment-page-1#comment-45261",
+          "name": "Comment by Saicogirl97 on February 21, 2017",
+          "description": "Will it still be tasty when i leave out the beef?",
+          "text": "Will it still be tasty when i leave out the beef?",
+          "dateCreated": "2017-02-21T16:08:48-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Saicogirl97"
+          },
+          "comment": [
+            {
+              "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/45298"
+            }
+          ]
+        },
+        {
+          "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/45298",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/mandu-guk/comment-page-1#comment-45298",
+          "name": "Reply by Maangchi on March 1, 2017",
+          "description": "You should make good stock if you don&#039;t use beef. You can use a can of beef or chicken broth.",
+          "text": "You should make good stock if you don&#039;t use beef. You can use a can of beef or chicken broth.",
+          "dateCreated": "2017-03-01T14:34:02-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "url": "https://www.maangchi.com",
+            "name": "Maangchi"
+          }
+        },
+        {
+          "@id": "/recipe/mandu-guk/comment-page-1#sso/comment/45174",
+          "@context": "https://schema.org",
+          "@type": "Comment",
+          "url": "https://www.maangchi.com/recipe/mandu-guk/comment-page-1#comment-45174",
+          "name": "Comment by Jazzy0903 on February 10, 2017",
+          "description": "Hi Maangchi! I made mandu guk today and it was delicious. I added some chopped baby bok choy to it&hellip;",
+          "text": "Hi Maangchi! I made mandu guk today and it was delicious. I added some chopped baby bok choy to it and made my own mandu. My son loved it. Thank you for inspiring me to make Korean food. I am half Korean and miss my mother&#039;s cooking. I am grateful for being able to share the Korean foods that I loved growing up with my own son.",
+          "dateCreated": "2017-02-10T02:36:15-05:00",
+          "author": {
+            "@context": "https://schema.org",
+            "@type": "Person",
+            "name": "Jazzy0903"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "http://schema.org",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "bestRating": "5",
+        "ratingCount": "404",
+        "ratingValue": "5"
+      },
+      "image": "https://www.maangchi.com/wp-content/uploads/2017/02/mandoo-620x349.jpg",
+      "name": "Dumpling soup (Mandu-guk: 만두국)",
+      "description": "Dumpling soup (Mandu-guk: 만두국)"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:37:57.800Z",
+  "scraping_status": "scraped"
+}

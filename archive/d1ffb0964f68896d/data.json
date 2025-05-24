@@ -1,0 +1,550 @@
+{
+  "id": "d1ffb0964f68896d",
+  "original_url": "https://cooking.nytimes.com/recipes/1023156-baghali-ghatogh-fava-bean-stew",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1023156-baghali-ghatogh-fava-bean-stew",
+  "fetched_title": "Baghali Ghatogh (Fava Bean Stew) Recipe",
+  "main_text_content": "A popular and beloved stew from northern Iran, baghali ghatogh is an ambassador of early spring produce Earthy, bright-green fava beans, fragrant dill and an assertive amount of garlic are combined with eggs for a comforting meal Although shelling and peeling fresh favas is a rite of passage (see Tip), it’s a time-consuming task, given the amount needed here (but if you have the time, go for it!)",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1018096-mashed-fava-bean-toasts\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2016/05/11/dining/11KITCH5/11KITCH5-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2016/05/11/dining/11KITCH5/11KITCH5-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2016/05/11/dining/11KITCH5/11KITCH5-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2016/05/11/dining/11KITCH5/11KITCH5-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2016/05/11/dining/11KITCH5/11KITCH5-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2016/05/11/dining/11KITCH5/11KITCH5-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2016/05/11/dining/11KITCH5/11KITCH5-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2016/05/11/dining/11KITCH5/11KITCH5-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Mashed Fava Bean Toasts</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">David Tanis</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2022/04/26/dining/nd-baghali-ghatogh/merlin_205954455_f3fc9869-83f5-402b-ac28-81a68c126a64-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/d1ffb0964f68896d/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/5f290637-4ea7-5de7-a4bb-4670bcfecc74",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1023156-baghali-ghatogh-fava-bean-stew",
+        "@type": "WebPage",
+        "name": "Baghali Ghatogh (Fava Bean Stew)"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023156-baghali-ghatogh-fava-bean-stew",
+      "name": "Baghali Ghatogh (Fava Bean Stew)",
+      "description": "A popular and beloved stew from northern Iran, baghali ghatogh is an ambassador of early spring produce. Earthy, bright-green fava beans, fragrant dill and an assertive amount of garlic are combined with eggs for a comforting meal. Although shelling and peeling fresh favas is a rite of passage (see Tip), it’s a time-consuming task, given the amount needed here (but if you have the time, go for it!). Frozen fava beans are a worthy substitute, but if they aren't available, you can use canned butter beans or frozen lima beans. Just enough eggs are used to give the stew some heft, but they shouldn’t overwhelm the vibrant flavors of this verdant stew. The eggs can be incorporated two ways: cracked in and poached, or stirred in to break apart. Baghali ghatogh is typically served over rice with a side of smoked fish and pickled garlic, or with bread. ",
+      "author": {
+        "@type": "Person",
+        "name": "Naz Deravian"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/8d3cff24-f011-546b-9be7-2b57dbf52180#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/04/26/dining/nd-baghali-ghatogh/merlin_205954455_f3fc9869-83f5-402b-ac28-81a68c126a64-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist; Simon Andrews.",
+          "dateModified": "2023-03-31T16:27:40.877Z",
+          "datePublished": "2022-04-26T20:49:02.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-04-26T20:49:02.000Z",
+          "url": "https://static01.nyt.com/images/2022/04/26/dining/nd-baghali-ghatogh/merlin_205954455_f3fc9869-83f5-402b-ac28-81a68c126a64-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/8d3cff24-f011-546b-9be7-2b57dbf52180#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/04/26/dining/nd-baghali-ghatogh/merlin_205954455_f3fc9869-83f5-402b-ac28-81a68c126a64-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist; Simon Andrews.",
+          "dateModified": "2023-03-31T16:27:40.877Z",
+          "datePublished": "2022-04-26T20:49:02.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2022-04-26T20:49:02.000Z",
+          "url": "https://static01.nyt.com/images/2022/04/26/dining/nd-baghali-ghatogh/merlin_205954455_f3fc9869-83f5-402b-ac28-81a68c126a64-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/8d3cff24-f011-546b-9be7-2b57dbf52180#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/04/26/dining/nd-baghali-ghatogh/nd-baghali-ghatogh-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist; Simon Andrews.",
+          "dateModified": "2023-03-31T16:27:40.877Z",
+          "datePublished": "2022-04-26T20:49:02.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-04-26T20:49:02.000Z",
+          "url": "https://static01.nyt.com/images/2022/04/26/dining/nd-baghali-ghatogh/nd-baghali-ghatogh-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT40M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "middle eastern",
+      "recipeCategory": "dinner, lunch, beans, main course",
+      "keywords": "dill, eggs, fava bean, spring, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 634
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 192,
+        "unsaturatedFatContent": "9 grams",
+        "carbohydrateContent": "15 grams",
+        "cholesterolContent": null,
+        "fatContent": "12 grams",
+        "fiberContent": "5 grams",
+        "proteinContent": "9 grams",
+        "saturatedFatContent": "2 grams",
+        "sodiumContent": "261 milligrams",
+        "sugarContent": "6 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1/4 cup olive oil",
+        "5 to 10 large garlic cloves (depending on preference), finely grated  ",
+        "1 teaspoon ground turmeric",
+        "14 ounces double-peeled frozen fava beans, thawed (see Tip), or 2 (15-ounce) cans butter beans, lima beans or cannellini beans, rinsed",
+        "2 large bunches fresh dill (about 8.5 ounces), stems trimmed, finely chopped, or ¼ cup dried dill",
+        "Kosher salt (such as Diamond Crystal) and black pepper",
+        "3 to 4 large eggs"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the oil and garlic to a medium pot, then set it over medium-low heat. Cook the garlic, stirring often, until fragrant and cooked, taking care not to burn it, 5 to 7 minutes. Add the turmeric, stir and cook until fragrant, about 30 seconds. Add the beans, dill, 1½ teaspoons salt and ¼ teaspoon pepper. Stir gently so the beans don’t break, and cook for about 3 minutes, just so the flavors meld and no longer taste raw. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Increase the heat to medium-high, add enough water to cover the beans, about 2 cups (or more as needed, if you’re using cannellini beans, which absorb more liquid), and bring to a gentle boil. Partially cover with the lid barely ajar, reduce the heat to medium-low, and gently simmer, stirring occasionally, until the beans are tender, but still maintain their shape (no mushy beans please), and the flavors have come to life, about 12 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Taste the beans and liquid for salt and pepper, and adjust as needed. The stew should be juicy enough to serve over rice, but if it seems too liquidy, remove the lid and cook a little longer to reduce it, keeping in mind that the eggs will also thicken it up. Add a little more water if the stew is too thick."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Increase the heat to medium and add the eggs one at a time. If poaching whole eggs, use 4 eggs and make individual wells in the stew before adding each egg. Cook, uncovered, until the whites set and the yolk is cooked to desired consistency, 3 to 5 minutes. (Alternately, you can stir the eggs in: Add 3 eggs, then run a spoon through each egg to break them apart and cook, slightly covered, until the eggs set, about 3 to 5 minutes.) Taste, add more water if the stew is too thick, adjust seasoning and serve."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2022-04-26T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Neda"
+          },
+          "reviewBody": "So similar to how my dad made it growing up. It was delicious!",
+          "datePublished": "2025-03-01T19:23:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erin."
+          },
+          "reviewBody": "This is DELICIOUS. Bizarrely delicious--it has hardly any ingredients, but tastes amazing. Really rich and still a bit fresh and green.",
+          "datePublished": "2025-02-17T20:06:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "So Many Names"
+          },
+          "reviewBody": "Fava beans are actually broad beans in other countries",
+          "datePublished": "2024-12-13T03:26:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melinda"
+          },
+          "reviewBody": "I added beet greens, spinach, basil, and parsley. Topped with lemon juice and really good olive oil - easy and delicious on rice",
+          "datePublished": "2024-06-10T03:13:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alec"
+          },
+          "reviewBody": "I loved it !!! \n\nIt’s fresh and light but really hearty and warming at the same time. I used fresh favas and yes it takes a minute but it’s worth it, a great way to celebrate spring. The garlic in olive oil really brings the flavor here, along with the fresh dill. Served with rice and a little smoked fish as the recipe recommends. Used a squeeze of lemon. Maybe crazy but I think a little parm would be great here too. Next time I’d cook off a little less liquid.",
+          "datePublished": "2024-05-17T03:57:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "xtinehlee"
+          },
+          "reviewBody": "I made this exactly as specified using fresh fava beans…except I didn’t have dill so I used flat leaf parsley. And this was AMAZING. I’m going to make it again!",
+          "datePublished": "2024-04-25T22:33:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara G"
+          },
+          "reviewBody": "I made this last week, as written, and it was delicious. I think that this is the first recipe I have made in which turmeric was the primary spice. It has an interesting flavor, but sort of bitter. I would likely reduce the amount to less than a teaspoon the next time I make this.",
+          "datePublished": "2024-04-08T16:08:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "GB"
+          },
+          "reviewBody": "Made with white beans and it was delicious. I served it over rice and added some fresh lime before serving for a bit of brightness. I enjoyed the bitterness of the dill and I'm not usually a huge dill fan. Next time I would add a dollop of yogurt and serve with some really crusty bread. Felt like the perfect winter/spring transition dinner!",
+          "datePublished": "2024-04-01T17:46:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Catalina"
+          },
+          "reviewBody": "Only added 1 tsp of salt and even that was too salty. Love all the other flavors though, especially the turmeric.",
+          "datePublished": "2024-03-26T01:00:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jodyG"
+          },
+          "reviewBody": "Anyone have any idea whether corona beans would be good in this?",
+          "datePublished": "2024-03-13T16:12:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mel"
+          },
+          "reviewBody": "I made this in the slow cooker using dried white beans. Our stores were out of fresh dill so used dried dill. Came out so yummy! Bright flavours and rich creamy beans. I'll be cooking this up regularly and tying out different varieties of beans.",
+          "datePublished": "2023-11-13T11:55:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Becca L"
+          },
+          "reviewBody": "This recipe is amazing!!! I was out of dill, so I added fresh parsley. I also added onion in with the garlic, mushrooms after adding the turmeric, and added spinach right before the eggs. Delish!",
+          "datePublished": "2023-10-06T00:42:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "carroll"
+          },
+          "reviewBody": "Great, delicious with freekah",
+          "datePublished": "2023-07-22T00:51:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "geteb"
+          },
+          "reviewBody": "Michelle's note re:box cutter (what I used) fava peeling trick is brilliant!  Peeling fresh favas still takes an inordinate amount of time, but this makes it easy.  Tasty, strange dish.  Took others' comments & added shallots, lemon rind & juice, tsp of BTB veggie broth & decreased dill.  Made with 10 ozs fresh favas, 1 can cannellini beans & run-through eggs.  Good veggie meal - different & interesting!",
+          "datePublished": "2023-07-08T16:09:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shinta"
+          },
+          "reviewBody": "Used parsley, cilantro and dill. Added a teaspoon of chicken bouillon. Tasted vegetal, but we loved it, especially with the runny eggs mixed in the soup",
+          "datePublished": "2023-05-28T00:12:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tara G"
+          },
+          "reviewBody": "This was delicious, but the recipe, in my view, calls for far too much dill. Using two bunches completely overwhelmed the wonderful flavor and made it bitter. I ended up dredging out clumps of dill and then adding a can of cannellini beans. Next time I will make with half the dill to start with and it will be perfect. I also used canned butter beans.",
+          "datePublished": "2022-05-23T13:02:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michelle"
+          },
+          "reviewBody": "Another fava peeling tip: using the edge of a razor (I use a single edge blade), score the whole pod, going deep enough to nick the beans inside. This makes removing the beans from the pod very easy.  Then, after you parboil the favas, the beans will squirt out the nicked places much more easily. (Otherwise, you have to nick each parboiled bean with your thumbnail to provide an escape route, and after a pound, your thumb starts getting sore.)",
+          "datePublished": "2022-04-28T15:42:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "M"
+          },
+          "reviewBody": "I know nothing about Iranian cuisine so I hope this isn’t a cultural faux pas and apologize if it is - after tasting the end result, I at least doubled the black pepper, upped the tumeric, added a splash of lemon for brightness, and threw in some paprika for a slightly more complex flavor.",
+          "datePublished": "2022-06-27T04:38:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vince"
+          },
+          "reviewBody": "Careful with the turmeric it quickly makes things bitter.",
+          "datePublished": "2022-05-20T06:39:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KaneSugar"
+          },
+          "reviewBody": "I have dried Favas...how would that work.  Cook first till tender but still a bit firm?  Do they require peeling as well?",
+          "datePublished": "2022-04-27T17:45:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "British Gardener"
+          },
+          "reviewBody": "If you grow your own favs beans and you pick them young you do not need to take the skins off. Just pop them out of the pod.",
+          "datePublished": "2022-05-06T18:24:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sara"
+          },
+          "reviewBody": "Dried favas, or ful, would not work here. Think of it liking trying to substitute split peas for fresh peas in a vegetable dish.",
+          "datePublished": "2022-05-06T18:51:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah S"
+          },
+          "reviewBody": "This was so good- a yummy, fresh, warm-weather soup! I made with one can Limas and one can cannellini beans, added an extra 1/4 cup water and followed all other instructions (except salt… I never add as much salt as a cooking recipe tells me- baking is a different story). I opted for the run-through eggs so that it might “keep” a little better for reheating. So good served over brown rice.",
+          "datePublished": "2022-05-31T20:07:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vivi"
+          },
+          "reviewBody": "Dried fava beans are a bit of work but I find them very ZEN to prepare:\nPlace your dried beans in a covered container and pour boiling water over them.  Let cool then peel by squeezing.  The beans are now ready to cook!",
+          "datePublished": "2022-05-19T14:01:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cf"
+          },
+          "reviewBody": "I made this with canned white beans. I had to make a last minute addition of some other herbs I had (parsley, cilantro), because I misread and didn’t buy enough dill. Despite these subs, this was really, really easy and quite good. I will definitely be making this again.",
+          "datePublished": "2022-05-11T00:38:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Wonderfully Fragrant and Magical!"
+          },
+          "reviewBody": "This is spring in a pan!  I bought frozen favas at our local Lebanese market.  Everything then came together so quickly and easily.  Some grated garlic in olive oil (next time I'll add shallots, because everything is better with shallots), the thawed fava beans, tumeric, salt, pepper, and loads of dill simmered for 12-15 minutes with enough water to cover, and finally, the eggs.  The eggs!!!  They were magical as one by one they were swirled into the stew, and it thickened to a luscious texture.",
+          "datePublished": "2022-05-30T23:02:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bree"
+          },
+          "reviewBody": "Made some changes based on what needed using and the comments. Sauteed a shallot with the garlic, used a medium bunch of fresh dill (what I had) and a generous tsp of dried. A few cups of chopped baby spinach for extra greenery. A little Better Than Buillion \"No Chicken Base\" mixed with the water instead of salt, added aleppo pepper and the zest of a lemon while it simmered for depth and brightness. Had butter beans so that's what I used. Even my carnivore of a husband enjoyed!",
+          "datePublished": "2023-03-02T18:36:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RobinF,CA"
+          },
+          "reviewBody": "You can buy dried, already peeled fava beans in middle eastern grocery store. Another traditional Iranian greens mix (instead of only dill) is ratio 2:1:1/2 is chopped parsley:cilantro:dill. Cook until drab green (about 15-20 min).",
+          "datePublished": "2023-03-19T16:58:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kelly"
+          },
+          "reviewBody": "Used cannelini beans and fresh dill and it was delicious, though a tad on the salty side (maybe from the canned beans?). In the future, I'll use less salt to start and add as needed if using canned beans.",
+          "datePublished": "2022-08-03T14:51:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aaron"
+          },
+          "reviewBody": "It will be tasty but not the same dish. You can make Ful Medames though. And no need to peel if they are dried.",
+          "datePublished": "2022-04-28T12:22:18.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1023156-baghali-ghatogh-fava-bean-stew",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Naz Deravian"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022,
+      "description": "A popular and beloved stew from northern Iran, baghali ghatogh is an ambassador of early spring produce. Earthy, bright-green fava beans, fragrant dill and an assertive amount of garlic are combined with eggs for a comforting meal. Although shelling and peeling fresh favas is a rite of passage (see Tip), it’s a time-consuming task, given the amount needed here (but if you have the time, go for it!). Frozen fava beans are a worthy substitute, but if they aren't available, you can use canned butter beans or frozen lima beans. Just enough eggs are used to give the stew some heft, but they shouldn’t overwhelm the vibrant flavors of this verdant stew. The eggs can be incorporated two ways: cracked in and poached, or stirred in to break apart. Baghali ghatogh is typically served over rice with a side of smoked fish and pickled garlic, or with bread. ",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Baghali Ghatogh (Fava Bean Stew)",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/8d3cff24-f011-546b-9be7-2b57dbf52180#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/04/26/dining/nd-baghali-ghatogh/merlin_205954455_f3fc9869-83f5-402b-ac28-81a68c126a64-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist; Simon Andrews.",
+          "dateModified": "2023-03-31T16:27:40.877Z",
+          "datePublished": "2022-04-26T20:49:02.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-04-26T20:49:02.000Z",
+          "url": "https://static01.nyt.com/images/2022/04/26/dining/nd-baghali-ghatogh/merlin_205954455_f3fc9869-83f5-402b-ac28-81a68c126a64-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/8d3cff24-f011-546b-9be7-2b57dbf52180#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/04/26/dining/nd-baghali-ghatogh/merlin_205954455_f3fc9869-83f5-402b-ac28-81a68c126a64-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist; Simon Andrews.",
+          "dateModified": "2023-03-31T16:27:40.877Z",
+          "datePublished": "2022-04-26T20:49:02.000Z",
+          "height": "1365",
+          "representativeOfPage": true,
+          "uploadDate": "2022-04-26T20:49:02.000Z",
+          "url": "https://static01.nyt.com/images/2022/04/26/dining/nd-baghali-ghatogh/merlin_205954455_f3fc9869-83f5-402b-ac28-81a68c126a64-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/8d3cff24-f011-546b-9be7-2b57dbf52180#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/04/26/dining/nd-baghali-ghatogh/nd-baghali-ghatogh-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist; Simon Andrews.",
+          "dateModified": "2023-03-31T16:27:40.877Z",
+          "datePublished": "2022-04-26T20:49:02.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-04-26T20:49:02.000Z",
+          "url": "https://static01.nyt.com/images/2022/04/26/dining/nd-baghali-ghatogh/nd-baghali-ghatogh-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023156-baghali-ghatogh-fava-bean-stew"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:32:26.425Z",
+  "scraping_status": "scraped"
+}

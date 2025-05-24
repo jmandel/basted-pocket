@@ -1,0 +1,590 @@
+{
+  "id": "fab464c0298318a5",
+  "original_url": "https://cooking.nytimes.com/recipes/1019242-lemon-sweet-rolls-with-cream-cheese-icing",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1019242-lemon-sweet-rolls-with-cream-cheese-icing",
+  "fetched_title": "Lemon Sweet Rolls With Cream Cheese Icing Recipe",
+  "main_text_content": "These sweet, lemony rolls are a fresh alternative to classic cinnamon rolls A little cardamom in the dough and filling enhances the bright citrus flavor without overtaking it. This dough is adaptable: You can let the dough rise in the refrigerator, instead of at room temperature, so you can serve fresh, warm rolls for breakfast without getting up at the crack of dawn to make them.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1018490-cinnamon-rolls\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2019/01/08/dining/ar-cinnamon-rolls/merlin_147610815_a671c63a-47a9-44a0-88fa-79a8ee282494-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2019/01/08/dining/ar-cinnamon-rolls/merlin_147610815_a671c63a-47a9-44a0-88fa-79a8ee282494-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2019/01/08/dining/ar-cinnamon-rolls/merlin_147610815_a671c63a-47a9-44a0-88fa-79a8ee282494-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2019/01/08/dining/ar-cinnamon-rolls/merlin_147610815_a671c63a-47a9-44a0-88fa-79a8ee282494-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2019/01/08/dining/ar-cinnamon-rolls/merlin_147610815_a671c63a-47a9-44a0-88fa-79a8ee282494-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2019/01/08/dining/ar-cinnamon-rolls/merlin_147610815_a671c63a-47a9-44a0-88fa-79a8ee282494-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2019/01/08/dining/ar-cinnamon-rolls/merlin_147610815_a671c63a-47a9-44a0-88fa-79a8ee282494-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2019/01/08/dining/ar-cinnamon-rolls/merlin_147610815_a671c63a-47a9-44a0-88fa-79a8ee282494-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Cinnamon Rolls</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Alison Roman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-LEMON-ROLLS2/31COOKING-LEMON-ROLLS2-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "scraped/fab464c0298318a5/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/572e00ce-0a2b-5fa4-90a1-7b6dd759156a",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1019242-lemon-sweet-rolls-with-cream-cheese-icing",
+        "@type": "WebPage",
+        "name": "Lemon Sweet Rolls With Cream Cheese Icing"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019242-lemon-sweet-rolls-with-cream-cheese-icing",
+      "name": "Lemon Sweet Rolls With Cream Cheese Icing",
+      "description": "These sweet, lemony rolls are a fresh alternative to classic cinnamon rolls. A little cardamom in the dough and filling enhances the bright citrus flavor without overtaking it. This dough is adaptable: You can let the dough rise in the refrigerator, instead of at room temperature, so you can serve fresh, warm rolls for breakfast without getting up at the crack of dawn to make them.",
+      "author": {
+        "@type": "Person",
+        "name": "Yossy Arefi"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/7a791896-fcbe-5e84-b42d-df4765e6737b#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-LEMON-ROLLS2/31COOKING-LEMON-ROLLS2-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2019-04-03T16:17:00.885Z",
+          "datePublished": "2018-06-06T14:13:34.000Z",
+          "height": "900",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2018-06-06T14:13:34.000Z",
+          "url": "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-LEMON-ROLLS2/31COOKING-LEMON-ROLLS2-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/7a791896-fcbe-5e84-b42d-df4765e6737b#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-LEMON-ROLLS2/31COOKING-LEMON-ROLLS2-superJumbo.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2019-04-03T16:17:00.885Z",
+          "datePublished": "2018-06-06T14:13:34.000Z",
+          "height": "1365",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2018-06-06T14:13:34.000Z",
+          "url": "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-LEMON-ROLLS2/31COOKING-LEMON-ROLLS2-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/7a791896-fcbe-5e84-b42d-df4765e6737b#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-LEMON-ROLLS2/31COOKING-LEMON-ROLLS2-square640-v2.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2019-04-03T16:17:00.885Z",
+          "datePublished": "2018-06-06T14:13:34.000Z",
+          "height": "640",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2018-06-06T14:13:34.000Z",
+          "url": "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-LEMON-ROLLS2/31COOKING-LEMON-ROLLS2-square640-v2.jpg",
+          "width": "640"
+        }
+      ],
+      "totalTime": "PT1H",
+      "recipeYield": "12 large rolls",
+      "recipeCuisine": "american",
+      "recipeCategory": "breakfast, brunch, breads, project, dessert, side dish",
+      "keywords": "easter, father’s day, mother’s day, new year’s day, thanksgiving",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 2499
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 484,
+        "unsaturatedFatContent": "7 grams",
+        "carbohydrateContent": "68 grams",
+        "cholesterolContent": null,
+        "fatContent": "20 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "8 grams",
+        "saturatedFatContent": "12 grams",
+        "sodiumContent": "263 milligrams",
+        "sugarContent": "33 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 (2 1/4 teaspoons/7 grams) package active dry yeast",
+        "1 cup buttermilk, warmed to 100 degrees",
+        "1/4 cup/50 grams granulated sugar",
+        "1/2 cup/113 grams unsalted butter, softened",
+        "1 tablespoon finely grated lemon zest",
+        "1 teaspoon kosher salt",
+        "1/2 teaspoon cardamom",
+        "3 large eggs, lightly beaten",
+        "4 to 4 1/2 cups/512 to 576 grams all-purpose flour, plus more for the work surface",
+        "1 cup/201 grams granulated sugar",
+        "1 tablespoon finely grated lemon zest",
+        "1/4 teaspoon cardamom",
+        "Pinch kosher salt",
+        "6 tablespoons/85 grams unsalted butter, very soft, plus more for the parchment paper",
+        "6 ounces/170 grams cream cheese, softened",
+        "1 cup/123 grams powdered sugar",
+        "1 to 2 tablespoons lemon juice, plus more as needed"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the dough: Combine the yeast, buttermilk and 1 tablespoon sugar and let sit until foamy, about 5 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the butter, remaining 3 tablespoons sugar, lemon zest, salt and cardamom to the bowl of a stand mixer fitted with the paddle attachment and mix on low to combine. Add the eggs and buttermilk mixture, and stir until combined."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "With the mixer on low speed, slowly add 4 cups/510 grams of the flour and stir until all of the flour is moistened. Switch to the dough hook, and mix for 5 more minutes. The dough will be soft and billowy, and it will stick to the bottom of the bowl. Add more flour if the dough seems very, very soft."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Transfer the dough to a fresh, lightly oiled bowl. Turn the dough to coat it with oil, then cover the bowl with plastic wrap and let the dough rise in a warm spot until doubled in size, about 1 hour. Alternately, refrigerate the dough before rising for up to 24 hours and proceed with the recipe as written. The rolls may need a slightly longer second rise."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the filling: Combine the sugar, lemon zest, cardamom and a pinch of salt. Use your fingers to rub the lemon zest into the sugar."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Assemble the rolls: Line a 9-by-13-inch baking pan with parchment paper and butter the pan and paper. Gently deflate the dough by folding it over itself a few times in the bowl. Turn the dough out onto a floured surface and pat or roll it into a rectangle about 12-by-16-inches and 1/4-inch thick. Gently spread the soft butter over the dough, and sprinkle the sugar mixture evenly over the top. Roll the dough into a tight log and use a serrated knife or length of floss to cut the log into 12 even pieces."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place the rolls into the prepared pan, cover, and let rise again until doubled in size, about 1 hour. You can also refrigerate the rolls before the second rise for up to 24 hours, if you’d like to bake them later. Let the rolls rise at room temperature until doubled in size before baking."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Finish the rolls: Heat oven to 350 degrees and bake for 30 to 35 minutes or until the rolls are golden and cooked through. While the rolls are baking, make the icing: In the bowl of a stand mixer fitted with the whisk attachment, whisk the softened cream cheese, powdered sugar and lemon juice until smooth. The icing should be quite thick, but spreadable. Add a little more lemon juice if necessary."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Let the rolls cool for about 5 minutes, then spread the icing over the top. Enjoy warm."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hannah"
+          },
+          "reviewBody": "One of the best things I've ever baked! These turned out perfect. I felt like a professional taking them out of the oven, I was so proud of myself, and yet they're pretty simple to make. Once rolled and placed in the pan, I put them in the fridge overnight and then let them rise for an hour and a half the next morning before baking. Made mine into 8 very large, gorgeous rolls.",
+          "datePublished": "2025-05-18T19:51:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RC"
+          },
+          "reviewBody": "Fabulous and so easy! I can't wait to use this as a base for different types of sweet rolls! I used the mixer to do the original mix and then just kneaded on the counter, rather than use a hook. Rose beautifully, definitely add extra lemon. Start checking at 28 minutes.",
+          "datePublished": "2025-05-06T23:30:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AMB"
+          },
+          "reviewBody": "Should this be rolled on the long end or short end? Guessing long but would prefer it to say!!",
+          "datePublished": "2025-04-19T20:53:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "G in Golden"
+          },
+          "reviewBody": "I made these as is EXCEPT I used Bob’s One to One gluten free flour. Taste was on point, but my 8 yo was spot on. “Not your best mom, but it was your first time.” The gf flour just didn’t hold up and they were a bit of a mess. I think when it comes to bread items - the one to one just doesn’t work.",
+          "datePublished": "2025-02-22T17:22:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peggy"
+          },
+          "reviewBody": "Turned out perfectly, as written.  I did the second rise over night and had the  rolls warm with breakfast. I added about 1/4 t. lemon extract to the frosting, but otherwise, why mess with perfection!?",
+          "datePublished": "2025-02-16T15:52:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Crystal"
+          },
+          "reviewBody": "Save some extra lemon juice. Drizzle over the rolls before icing them for a great extra tang!",
+          "datePublished": "2025-02-16T15:51:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lexlexmd"
+          },
+          "reviewBody": "To cut rolls: use dental floss, not a knife, or you will have a bad time.",
+          "datePublished": "2025-02-09T13:53:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Adleto"
+          },
+          "reviewBody": "Best rolldough I ever made. Buttermilk instead of milk is a gamechanger!",
+          "datePublished": "2025-02-08T10:03:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brooke"
+          },
+          "reviewBody": "I made these with the raspberry filling addition from another commenter. Out of this world! The frozen raspberries made the second rise take longer but so worth it! The kitchen smelled heavenly. This is the same dough recipe as Yossy’s sticky buns and I think I may never use another dough again for sweet rolls. Super easy to work with and tastes sublime",
+          "datePublished": "2025-02-05T17:46:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lori"
+          },
+          "reviewBody": "Made these with half pastry flour and half bread flour from Grist and Toll artisan flour mill in LA, they are perfection! A whole grain bread flour also goes beautifully with the cinnamon version of these rolls. The dough is very wet as others have noted, sticky is ok but soupy is not ok. I found that notching the log before using the floss guillotine method was very effective to get even size rolls, definitely use a bench scraper to gently carefully transfer the rolls to the pan.",
+          "datePublished": "2024-12-25T05:29:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "riverpeace"
+          },
+          "reviewBody": "Baking isn’t my wheelhouse but these weren’t very fun to make despite ample time and motivation.  Bringing the buttermilk to 100 degrees without curdling it was time consuming.  The dough was so soft it made tight rolling difficult so I had gaps between the layers.  I even had the insight to roll using parchment, alas.  Yet this soft dough yields a cakey textured roll that seemed baffling to me.  Most rolls were only partially consumed as they were filling but simply so-so.",
+          "datePublished": "2024-12-08T04:16:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cathleen"
+          },
+          "reviewBody": "If you have the time to make these (the est. of 1hr of active time is woefully low), they are stellar. We had a power outage just before the 2nd rise finished, so I stowed the casserole dish in the garage overnight to stay cool and baked them this AM. Because we lost power for over 12 hrs, I had to throw out the frosting, so they are bare. But, they are so sweet and rich without it. Next time I have a full day to make these suckers, I will reserve 1-2T of the filling to sprinkle on top instead.",
+          "datePublished": "2024-11-20T17:25:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rochelle K"
+          },
+          "reviewBody": "Delicious-texture very light and a burst of lemon. I did follow some hints to only use 3/4 C sugar in the filling and did add more lemon zest everywhere. I made 18 and split over 2 8 inch cake pans-froze half (and half of the icing). Will see how that works.",
+          "datePublished": "2024-09-22T00:24:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane"
+          },
+          "reviewBody": "I wonder whether one could make these almost through the second rise, then freeze them to bake later? Any insights? One can do this with bread, right?",
+          "datePublished": "2024-09-19T19:36:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dorothy"
+          },
+          "reviewBody": "These were a home run. At the get go, I made sure to test the yeast to make sure it was alive and after I mixed the yeast, I let the dough sit in the covered bowl with olive oil in the refrigerator overnight before rolling it out and filling it. I also let the rolls sit and rise for about 5 hours before baking and I used black cardamom that I grounded in a coffee grinder. Those efforts seemed to do the trick! Got a lot of positive feedback from some sophisticated pallets.",
+          "datePublished": "2024-09-16T04:54:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christopher"
+          },
+          "reviewBody": "This is actually my recipe. I published it on my bakery website years ago when we couldn't keep up with the demand.\n\nThe original also had a filling variation using 1 1/2 cup frozen raspberries tossed with 1/2 tbsp cornstarch, and lemon juice in the cream cheese frosting.\n\nNotes: Knead 7 minutes in Kitchen Aid, it is a *very* wet dough, do *not* add extra flour. Use a dough scraper to pull dough from bowl and add oil, then turn dough over so it is coated. Internal temp should be 190F.",
+          "datePublished": "2020-12-22T01:42:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patricia"
+          },
+          "reviewBody": "Could we please always have baking measurements in grams as well as cups? Thank you!!",
+          "datePublished": "2018-03-30T16:05:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Helen"
+          },
+          "reviewBody": "Wonderful flavor and aroma! I bake a lot of yeast breads and rolls. This one is a keeper! I divided the rolls into two buttered and lined 8-inch cake pans...6 rolls in each. I had some lemon sugar left from the filling, so I scattered it on top before baking. The rolls looked beautiful right out of the oven with this sparkling granular topping. So I decided not to make the heavy cream cheese icing and used a drizzled lemon-confectioner sugar glaze instead.",
+          "datePublished": "2018-04-02T02:23:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathy Kerr-Carpenter"
+          },
+          "reviewBody": "This recipe can also be made with orange zest and nutmeg in place of the lemon zest and cardemom.",
+          "datePublished": "2018-04-04T02:52:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erica"
+          },
+          "reviewBody": "I do find it frustrating that almost all baking recipes these days are written using only stand mixers. Some of us just have a handheld! It would be nice to include the alternative options for mixing in the recipe.",
+          "datePublished": "2020-05-31T14:19:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sticky Dough Solotion"
+          },
+          "reviewBody": "Completely by chance, I once had olive oil on my hands and realized that it makes it MUCH easier to handle a sticky dough. Is this trick well-known? No need to add more flour - simply rub hands with a nice olive oil and working with the dough becomes very easy!",
+          "datePublished": "2018-11-22T23:01:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "nadyne"
+          },
+          "reviewBody": "I made a small 1/3 batch:\nDough - 3/4 teaspoon active dry yeast, 1/3 cup buttermilk (or 1T lemon juice   milk to reach 1/3 cup), 1 tablespoon sugar, 2-2/3 tablespoon butter, 1/2 heaping tablespoon lemon zest, 1/3 teaspoon salt, 1/4 teaspoon cardamom, 1 egg, 1-1/3 cup flour.\nFilling - scant 1/3 cup sugar, 1/2 heaping tablespoon lemon zest, pinch cardamom, pinch kosher salt, 2 tablespoons butter\nPat out to 12”x8”, cut into 8 pieces, then rise and 25-30 min at 350 in a 8”x8” glass pan",
+          "datePublished": "2021-02-08T21:13:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy Bell"
+          },
+          "reviewBody": "I was so excited to try these and they are delicious, but much heavier than I prefer--dough was denser and cakier. I tried them again, but only added one egg, much better! Kept everything else the same. Will do that from now on. :)",
+          "datePublished": "2018-04-29T07:49:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Therese"
+          },
+          "reviewBody": "Internal temp should be around 190.\nI used at least 2 Tbsp. lemon juice in icing; it could probably even handle more.\nI did the overnight rise.",
+          "datePublished": "2018-03-31T22:49:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carla Hanrahan"
+          },
+          "reviewBody": "These taste wonderful and are fun to make.  I followed one suggestion and cut the sugar in the filling to 3/4 cup.   Another reader suggested adding more lemon juice to the icing, did that.  Both worked out well.  Next time - and there will definitely be more next times - I'll add more zest to the dough.  I also think it would be good to add zest to the icing as well.  Excellent recipe!",
+          "datePublished": "2018-06-11T14:22:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "I made these again this weekend for brunch. I had Meyer lemons so reduced the sugar in the filling to 3/4 cup. \n\nRather than try to roll out a rectangle, I pressed the dough into a rimmed half sheet pan. Magic! I was able to make 12 evenly sized rolls. Next time I might line the sheet pan with parchment to make the rolling a little easier. The dough is SO soft!",
+          "datePublished": "2018-12-30T18:20:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Therese"
+          },
+          "reviewBody": "Oh dear God. These are the best sweet rolls I've ever had. CRAZY good.",
+          "datePublished": "2018-03-31T22:39:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "I assembled the rolls last night and did the overnight rise; the oven rise was lovely.\n\n1. Dental floss is a must.\n\n2. This made 18 rolls -- 6 were small thanks to uneven rolling.  I put 6 to rise overnight in a 9\" round pan and froze the rest.  With a little practice I can see getting 18 even rolls from this recipe.\n\n3. There was a little syrup leaking from the rolls at the bottom, so I inverted the rolls onto a plate for a minute or so to let the syrup absorb before icing.",
+          "datePublished": "2018-04-01T16:47:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KT"
+          },
+          "reviewBody": "Couldn't/wouldn't stop myself from adding a tablespoon of Meyers lemon honey (thank you Bees Knees!). Used SAF instant yeast, upped the cardamom to a teaspoon and added 1tsp powdered lemon juice (King Arthur's) . The lemon sugar filling caramelized during baking and the rolls were divinely (oh, c'mon it's Easter) light and ethereal. The frosting was tangy, having dropped the powdered sugar to 3/4 cup. I'll be making this again.",
+          "datePublished": "2018-04-02T00:05:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary M."
+          },
+          "reviewBody": "Followed recipe almost exactly on Saturday.  While putting the sugar mixture on the dough, 3/4 cup looked like plenty so I didn't use anymore.  Sunday morning, took the prepared rolls out of the refrigerator at 6 AM. Turned oven on at 7 AM to preheat while we walked the dog.  Put the rolls in upon our return; less than 40 minutes later we able to enjoy a delicious lemony treat.  I'd use this dough again as I liked its lightness and flavor; would be good even without the cardamon.",
+          "datePublished": "2018-04-01T15:23:03.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1019242-lemon-sweet-rolls-with-cream-cheese-icing",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yossy Arefi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018,
+      "description": "These sweet, lemony rolls are a fresh alternative to classic cinnamon rolls. A little cardamom in the dough and filling enhances the bright citrus flavor without overtaking it. This dough is adaptable: You can let the dough rise in the refrigerator, instead of at room temperature, so you can serve fresh, warm rolls for breakfast without getting up at the crack of dawn to make them.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Lemon Sweet Rolls With Cream Cheese Icing",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/7a791896-fcbe-5e84-b42d-df4765e6737b#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-LEMON-ROLLS2/31COOKING-LEMON-ROLLS2-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2019-04-03T16:17:00.885Z",
+          "datePublished": "2018-06-06T14:13:34.000Z",
+          "height": "900",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2018-06-06T14:13:34.000Z",
+          "url": "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-LEMON-ROLLS2/31COOKING-LEMON-ROLLS2-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/7a791896-fcbe-5e84-b42d-df4765e6737b#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-LEMON-ROLLS2/31COOKING-LEMON-ROLLS2-superJumbo.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2019-04-03T16:17:00.885Z",
+          "datePublished": "2018-06-06T14:13:34.000Z",
+          "height": "1365",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2018-06-06T14:13:34.000Z",
+          "url": "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-LEMON-ROLLS2/31COOKING-LEMON-ROLLS2-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/7a791896-fcbe-5e84-b42d-df4765e6737b#square640",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-LEMON-ROLLS2/31COOKING-LEMON-ROLLS2-square640-v2.jpg",
+          "creditText": "Craig Lee for The New York Times",
+          "dateModified": "2019-04-03T16:17:00.885Z",
+          "datePublished": "2018-06-06T14:13:34.000Z",
+          "height": "640",
+          "inLanguage": "en-US",
+          "representativeOfPage": true,
+          "uploadDate": "2018-06-06T14:13:34.000Z",
+          "url": "https://static01.nyt.com/images/2018/06/05/dining/31COOKING-LEMON-ROLLS2/31COOKING-LEMON-ROLLS2-square640-v2.jpg",
+          "width": "640"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019242-lemon-sweet-rolls-with-cream-cheese-icing"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-05-23T21:16:29.955Z",
+  "scraping_status": "scraped"
+}
