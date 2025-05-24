@@ -2,6 +2,7 @@
 
 ## 2025
 
+- https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesan #dinner #veg
 - https://cooking.nytimes.com/recipes/1018180-perfect-buttermilk-pancakes #brunch
 - https://cooking.nytimes.com/recipes/1025743-chickpea-noodle-soup #dinner #recipe #soup #veg
 - https://cooking.nytimes.com/recipes/1026167-scallion-oil-fish #asian #dinner #fish
