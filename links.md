@@ -2,6 +2,7 @@
 
 ## 2025
 
+- https://cooking.nytimes.com/recipes/1026928-pistachio-halvah-rice-krispies-treats #dessert #nuts #recipe
 - https://cooking.nytimes.com/recipes/1021769-herbed-chicken-and-spinach-meatballs #dinner
 - https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesan #dinner #veg
 - https://cooking.nytimes.com/recipes/1018180-perfect-buttermilk-pancakes #brunch
