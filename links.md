@@ -2,6 +2,7 @@
 
 ## 2025
 
+- https://cooking.nytimes.com/recipes/271-blueberry-polenta-upside-down-cake#notes_section #cake #dessert #summer
 - https://cooking.nytimes.com/recipes/1027053-burst-cherry-tomato-orzotto #dinner #noodles #potluck #side #summer #veg
 - https://cooking.nytimes.com/recipes/1026734-one-pot-miso-turmeric-salmon-and-coconut-rice #dinner #fish #recipe
 - https://www.nytimes.com/2025/06/18/t-magazine/summer-cornbread-recipe-cabbage.html #bread #potluck #side #veg
