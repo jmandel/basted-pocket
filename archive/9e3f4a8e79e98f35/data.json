@@ -1,0 +1,566 @@
+{
+  "id": "9e3f4a8e79e98f35",
+  "original_url": "https://cooking.nytimes.com/recipes/1018180-perfect-buttermilk-pancakes",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1018180-perfect-buttermilk-pancakes",
+  "fetched_title": "Perfect Buttermilk Pancakes Recipe (with Video)",
+  "main_text_content": "Pancakes are the hero of the breakfast table, and their very taste can even be described as “deeply breakfasty”: eggy, salty, just this side of sweet A little indulgent and yet still somehow appropriate first thing in the morning, those fluffy stacks with crisped edges, dripping with maple syrup, are everything you want, exactly when you want them Here is how to get to them right every time, whether it&#x27;s a lazy Sunday morning or a hurried weekday.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1023833-whole-wheat-buttermilk-pancakes\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2023/01/17/multimedia/as-whole-wheat-buttermilk-pancakes-bmpl/as-whole-wheat-buttermilk-pancakes-bmpl-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2023/01/17/multimedia/as-whole-wheat-buttermilk-pancakes-bmpl/as-whole-wheat-buttermilk-pancakes-bmpl-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2023/01/17/multimedia/as-whole-wheat-buttermilk-pancakes-bmpl/as-whole-wheat-buttermilk-pancakes-bmpl-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2023/01/17/multimedia/as-whole-wheat-buttermilk-pancakes-bmpl/as-whole-wheat-buttermilk-pancakes-bmpl-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2023/01/17/multimedia/as-whole-wheat-buttermilk-pancakes-bmpl/as-whole-wheat-buttermilk-pancakes-bmpl-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2023/01/17/multimedia/as-whole-wheat-buttermilk-pancakes-bmpl/as-whole-wheat-buttermilk-pancakes-bmpl-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2023/01/17/multimedia/as-whole-wheat-buttermilk-pancakes-bmpl/as-whole-wheat-buttermilk-pancakes-bmpl-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2023/01/17/multimedia/as-whole-wheat-buttermilk-pancakes-bmpl/as-whole-wheat-buttermilk-pancakes-bmpl-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Whole-Wheat Buttermilk Pancakes</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Ali Slagle</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-threeByTwoMediumAt2X-v2.jpg",
+  "local_image_path": "archive/9e3f4a8e79e98f35/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/54a3236d-8b0a-5122-9bb3-ae47d41d103d",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1018180-perfect-buttermilk-pancakes",
+        "@type": "WebPage",
+        "name": "Perfect Buttermilk Pancakes"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1018180-perfect-buttermilk-pancakes",
+      "name": "Perfect Buttermilk Pancakes",
+      "description": "Pancakes are the hero of the breakfast table, and their very taste can even be described as “deeply breakfasty”: eggy, salty, just this side of sweet. A little indulgent and yet still somehow appropriate first thing in the morning, those fluffy stacks with crisped edges, dripping with maple syrup, are everything you want, exactly when you want them. Here is how to get to them right every time, whether it's a lazy Sunday morning or a hurried weekday.",
+      "author": {
+        "@type": "Person",
+        "name": "Alison Roman"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/ea1befd6-73b3-567f-a992-42c8124e644a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Karsten Moran for The New York Times",
+          "dateModified": "2025-03-31T17:51:04.684Z",
+          "datePublished": "2016-06-09T21:47:30.000Z",
+          "height": "899",
+          "representativeOfPage": true,
+          "uploadDate": "2016-06-09T21:47:30.000Z",
+          "url": "https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ea1befd6-73b3-567f-a992-42c8124e644a#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-googleFourByThree-v2.jpg",
+          "creditText": "Karsten Moran for The New York Times",
+          "dateModified": "2025-03-31T17:51:04.684Z",
+          "datePublished": "2016-06-09T21:47:30.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2016-06-09T21:47:30.000Z",
+          "url": "https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-googleFourByThree-v2.jpg",
+          "width": "800"
+        }
+      ],
+      "totalTime": "PT10M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "breakfast, easy, quick, pancakes",
+      "keywords": "buttermilk, cast iron",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 14209
+      },
+      "recipeIngredient": [
+        "2 cups all-purpose flour",
+        "3 tablespoons sugar",
+        "1 1/2 teaspoons baking powder",
+        "1 1/2 teaspoons baking soda",
+        "1 1/4 teaspoons kosher salt",
+        "2 1/2 cups buttermilk",
+        "2 large eggs",
+        "3 tablespoons unsalted butter, melted",
+        "Vegetable, canola or coconut oil for the pan"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 325 degrees. Whisk flour, sugar, baking powder, baking soda and kosher salt together in a bowl. Using the whisk, make a well in the center. Pour the buttermilk into the well and crack eggs into buttermilk. Pour the melted butter into the mixture. Starting in the center, whisk everything together, moving towards the outside of the bowl, until all ingredients are incorporated. Do not overbeat (lumps are fine). The batter can be refrigerated for up to one hour."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat a large nonstick griddle or skillet, preferably cast-iron, over low heat for about 5 minutes. Add 1 tablespoon oil to the skillet. Turn heat up to medium–low and using a measuring cup, ladle 1/3 cup batter into the skillet. If you are using a large skillet or a griddle, repeat once or twice, taking care not to crowd the cooking surface."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Flip pancakes after bubbles rise to surface and bottoms brown, about 2 to 4 minutes. Cook until the other sides are lightly browned. Remove pancakes to a wire rack set inside a rimmed baking sheet, and keep in heated oven until all the batter is cooked and you are ready to serve."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/5dfc4901-eb79-5435-83c0-a42db644a74b",
+        "@type": "VideoObject",
+        "bitrate": "1460128",
+        "contentSize": "21558482",
+        "contentUrl": "https://vp.nyt.com/video/2016/06/06/40528_1_guide-pancake-basic_wg_480p.mp4",
+        "dateModified": "2025-03-11T20:44:30.751Z",
+        "datePublished": "2016-06-10T15:18:42.000Z",
+        "description": "Learn to make these classic, easy pancakes.",
+        "duration": "PT1M48S",
+        "height": "480",
+        "name": "Perfect Buttermilk Pancakes",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/ea1befd6-73b3-567f-a992-42c8124e644a#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-videoSixteenByNineJumbo1600-v2.jpg",
+            "creditText": "Karsten Moran for The New York Times",
+            "dateModified": "2025-03-31T17:51:04.684Z",
+            "datePublished": "2016-06-09T21:47:30.000Z",
+            "height": "899",
+            "uploadDate": "2016-06-09T21:47:30.000Z",
+            "url": "https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-videoSixteenByNineJumbo1600-v2.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/ea1befd6-73b3-567f-a992-42c8124e644a#googleFourByThree",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-googleFourByThree-v2.jpg",
+            "creditText": "Karsten Moran for The New York Times",
+            "dateModified": "2025-03-31T17:51:04.684Z",
+            "datePublished": "2016-06-09T21:47:30.000Z",
+            "height": "600",
+            "uploadDate": "2016-06-09T21:47:30.000Z",
+            "url": "https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-googleFourByThree-v2.jpg",
+            "width": "800"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-videoSixteenByNineJumbo1600-v2.jpg",
+        "transcript": "n/a",
+        "uploadDate": "2016-06-10T15:18:42.000Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000004456127/basic-pancake-recipe.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2016-06-10T00:00:00.000Z",
+      "dateModified": "2025-02-03T17:08:21.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elysa"
+          },
+          "reviewBody": "Like most of Alison Roman's recipes, this was a total winner! I topped with cinnamon, peach compote and a sprinkling of granola with a dab of yogurt for a perfect sunday breakfast.  YUM!",
+          "datePublished": "2025-07-20T22:32:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ChefRob"
+          },
+          "reviewBody": "Batter was WAY too thin, even after sitting for a little while. I whisked in more flour and it didn't help much at all. Disappointing recipe.",
+          "datePublished": "2025-07-20T17:00:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Judah"
+          },
+          "reviewBody": "Seconding the other commenters who note to give the batter a half hour or so to get to room temp and thicken.\n\nI made this recipe today for the 2nd time after it worked great the first and it turned out super runny.\n\nNow that I see that comment, I'm remembering the first time I made it, I had something come up that let the batter rest for a while inadvertently. They turned out great, thick, and fluffy. I'll definitely be letting it rest on my next try.",
+          "datePublished": "2025-07-14T22:12:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Griddle temp?"
+          },
+          "reviewBody": "What’s the ideal temp for an electric griddle?",
+          "datePublished": "2025-07-14T00:42:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam Weiser"
+          },
+          "reviewBody": "why do instructions mention to turn on the oven. if you supposed to serve immediately? maybe I am confused 🤔",
+          "datePublished": "2025-07-12T17:43:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Douglas Short"
+          },
+          "reviewBody": "I don’t understand the appeal of super thick muffin like pancakes.  I much prefer them thin and a tad crispy on the outside with an eggy creamy center.  Up the milk so they spread a bit more and an extra tablespoon or two of sugar to help them crisp.",
+          "datePublished": "2025-07-12T03:04:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "nora"
+          },
+          "reviewBody": "It is to watery and it can't serve enough peopke",
+          "datePublished": "2025-07-10T11:32:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Douglas Short"
+          },
+          "reviewBody": "The point is to control the amount of salt.  Salt co tent varies from brand to brand, so to control the difference, unsalted butter then add the fixed amount provided by the recipe.  It’s probably no big deal if you use salted butter, you just lose a small bit of control.",
+          "datePublished": "2025-07-12T03:06:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Doug McDonald"
+          },
+          "reviewBody": "Why do you always specify \"kosher\" salt and \"unsalted\" butter? Nobody\nI know uses such things. After all, some of the salt just compensates for\nunslated butter.",
+          "datePublished": "2025-07-10T02:42:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nikki"
+          },
+          "reviewBody": "We separate the whites and yolks. Whip the whites and fold into the batter for fluffier pancakes.",
+          "datePublished": "2025-07-07T10:39:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeff"
+          },
+          "reviewBody": "Amazing! Based on what I read… I reduced salt to 1tsp, and added 1/2tsp vanilla. I’m lazy, so I put all ingredients into my Vitamix for 30-60 seconds, let rest at room temp for 45min. I used my bbq griddle, they were light and fluffy, and voted best ever!",
+          "datePublished": "2025-07-06T01:22:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cece"
+          },
+          "reviewBody": "Any other reason to heat the oven to 325° other than to warm up my kitchen?",
+          "datePublished": "2025-07-05T13:27:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sully"
+          },
+          "reviewBody": "Why am I turning on the oven for Pancakes?",
+          "datePublished": "2025-07-05T00:56:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "GinaG"
+          },
+          "reviewBody": "My go too pancake recipe.",
+          "datePublished": "2025-07-04T12:03:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JOHN"
+          },
+          "reviewBody": "A bit of buckwheat flour makes these even better, not to mention what happens when you pour some maple syrup over them.",
+          "datePublished": "2025-07-01T02:09:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Catherine"
+          },
+          "reviewBody": "I wonder what I did wrong, as these came out flat for me. I let the batter rest, used the correct amt of ingredients, cast iron, etc. So mysterious. Wanted these to be amazing!",
+          "datePublished": "2025-06-29T16:21:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J. Scott Wilson"
+          },
+          "reviewBody": "As with any buttermilk batter recipe, this works best if you let the batter sit at room temperature for about a half-hour. The buttermilk will work its magic and thicken the batter, making for super-fluffy pancakes. By cooking immediately, you're completely defeating the purpose of using the buttermilk.",
+          "datePublished": "2017-10-23T13:28:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MMS"
+          },
+          "reviewBody": "Any reason why the eggs aren't lightly beaten before adding to pancake mixture?  I thought over mixing was to be avoided, and it seems that mixing whole unbeaten eggs would risk this.  Thoughts from the pancake experts?",
+          "datePublished": "2017-10-24T20:41:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stu"
+          },
+          "reviewBody": "A generous teaspoon of Vanilla extract makes a big difference in my experience (or 1-inch+ scraped vanilla bean).",
+          "datePublished": "2017-10-24T20:45:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JLR"
+          },
+          "reviewBody": "The unibowlness of this is sublime, but with volumetric measurements, it's something of a fallacy! If weighed in the bowl:<br/><br/>250 g APF<br/>38 g sugar<br/>1.5 tsp each of soda, powder and salt (even my drug-dealer scale isn't up to the task of weighing these)<br/>600 g of buttermilk (or, as I did, about 550 g of buttermilk and 50 g milk)<br/>2 eggs<br/>45 g butter, melted in the frying pan or on the griddle<br/><br/>The butter's still on my hands as I type this — delicious!",
+          "datePublished": "2017-10-04T15:29:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jean"
+          },
+          "reviewBody": "This is my new go to recipe. I don't make any changes, but I do find that the batter is thicker if you let it sit for about 10 minutes or so after mixing everything together. It spreads like crazy if you cook right away.",
+          "datePublished": "2017-10-01T13:01:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Greg"
+          },
+          "reviewBody": "This is my \"go-to\" Saturday morning pancake recipe.  I kick it up with two teaspoons of vanilla in the batter.\n\nWhen I die, I want to be buried in a vat filled with Grey Goose vodka and the NYT buttermilk pancake batter.",
+          "datePublished": "2018-12-25T15:18:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cw"
+          },
+          "reviewBody": "325? Some if my pancakes were more like cookies by the end. 200 degrees is plenty to keep pancakes warm. (And heat some plates to serve!)",
+          "datePublished": "2019-03-25T14:40:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sarnor"
+          },
+          "reviewBody": "I always beat the eggs and combine with the melted butter and buttermilk then add to the dry ingredients. If you read the \"How to Make Pancakes\" article cited above, the reason they are added directly to the dry ingredients is so there is one less bowl to clean.",
+          "datePublished": "2017-10-24T20:29:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane"
+          },
+          "reviewBody": "I regularly cook in both the US and the UK, and I have made these pancakes several times in each place.  In my experience, buttermilk can vary a lot in thickness. The buttermilk I purchase in the US is consistently thinner than in the UK.  Reading the notes of other cooks, it appears that the thickness varies even within the US, since some cooks comment on the extreme thinness of the batter, while others find the opposite. Start with 1/4 to 1/2 c. less buttermilk, adjusting as necessary.",
+          "datePublished": "2017-10-01T15:22:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katie"
+          },
+          "reviewBody": "These didn't turn out right for me--too thin and liquidy. I feel fairly certain that was due to an excess of milk. Looking at other pancake recipes I regularly use, the quantity of flour and milk is the same, but here there's a 1/2 cup more of buttermilk. If I try these again I'd reduce the milk.",
+          "datePublished": "2017-10-24T20:51:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stan"
+          },
+          "reviewBody": "I have tried many recipes for pancakes, including some others from NY Times Cooking.  This is by far the best-fluffy and full of flavor.  I made the recipe for 2 people and added blueberries and 1/2 teaspoon of vanilla.  Beautiful and delicious.",
+          "datePublished": "2017-10-24T20:29:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dave Smucker"
+          },
+          "reviewBody": "I fix a lot of pancakes - once a week breakfast for high school boys at church and Shrove Tuesday Pancake Supper too.  Want better lighter pancakes - change the flour.  Use unbleached self-rising biscuit flour, not all purpose.  You want soft wheat flour, not hard wheat flour.  Want to make them really bad use bread flour.  We use 10 percent sugar, and lots of butter.  (That is about 160 pancakes each Thursday morning, and 1600 for Shrove Tuesday Pancake Supper).",
+          "datePublished": "2017-10-01T13:21:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "rose"
+          },
+          "reviewBody": "Excellent recipe. My go-to for pancakes has always been the one in Joy of Cooking, which requires you to separate the whites from the egg yokes and then make an almost-meringue, before folding everything back into the batter. The result was unfailingly fluffy cakes. Was VERY skeptical about this method, but the result were amazing. This method is so much quicker, since there's no need to beat the egg whites.",
+          "datePublished": "2017-10-24T21:09:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jen"
+          },
+          "reviewBody": "I used yogurt for some of the buttermilk, and the pancakes were fantastic.Great with orange zest, marmalade and vanilla in the batter.",
+          "datePublished": "2018-05-20T21:36:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kaitie"
+          },
+          "reviewBody": "Best pancake recipe EVER. My two year old said, \"Oh mommy, these taste like fluffy pillows!\" DON'T CHANGE ANYTHING, follow the recipe as is!",
+          "datePublished": "2017-10-01T14:29:11.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2016
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1018180-perfect-buttermilk-pancakes",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Alison Roman"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2016,
+      "description": "Pancakes are the hero of the breakfast table, and their very taste can even be described as “deeply breakfasty”: eggy, salty, just this side of sweet. A little indulgent and yet still somehow appropriate first thing in the morning, those fluffy stacks with crisped edges, dripping with maple syrup, are everything you want, exactly when you want them. Here is how to get to them right every time, whether it's a lazy Sunday morning or a hurried weekday.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Perfect Buttermilk Pancakes",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/ea1befd6-73b3-567f-a992-42c8124e644a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Karsten Moran for The New York Times",
+          "dateModified": "2025-03-31T17:51:04.684Z",
+          "datePublished": "2016-06-09T21:47:30.000Z",
+          "height": "899",
+          "representativeOfPage": true,
+          "uploadDate": "2016-06-09T21:47:30.000Z",
+          "url": "https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ea1befd6-73b3-567f-a992-42c8124e644a#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-googleFourByThree-v2.jpg",
+          "creditText": "Karsten Moran for The New York Times",
+          "dateModified": "2025-03-31T17:51:04.684Z",
+          "datePublished": "2016-06-09T21:47:30.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2016-06-09T21:47:30.000Z",
+          "url": "https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-googleFourByThree-v2.jpg",
+          "width": "800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1018180-perfect-buttermilk-pancakes"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-07-21T02:11:46.075Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}

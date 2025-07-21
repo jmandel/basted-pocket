@@ -1,0 +1,569 @@
+{
+  "id": "2c306b2c611fb53a",
+  "original_url": "https://cooking.nytimes.com/recipes/1027053-burst-cherry-tomato-orzotto",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1027053-burst-cherry-tomato-orzotto",
+  "fetched_title": "Burst Cherry Tomato Orzotto Recipe",
+  "main_text_content": "Peak-season cherry tomatoes and fragrant basil join forces in this light and summery one-pot orzotto Cherry tomatoes are first cooked down with aromatics until they burst and their juices thicken This concentrated tomato mixture fortifies the broth, imparting its flavor to the orzo",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1016634-pasta-with-burst-cherry-tomatoes\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2019/06/20/dining/mc-pasta-with-burst-cherry-tomatoes/mc-pasta-with-burst-cherry-tomatoes-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2019/06/20/dining/mc-pasta-with-burst-cherry-tomatoes/mc-pasta-with-burst-cherry-tomatoes-blogSmallInline-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2019/06/20/dining/mc-pasta-with-burst-cherry-tomatoes/mc-pasta-with-burst-cherry-tomatoes-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2019/06/20/dining/mc-pasta-with-burst-cherry-tomatoes/mc-pasta-with-burst-cherry-tomatoes-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2019/06/20/dining/mc-pasta-with-burst-cherry-tomatoes/mc-pasta-with-burst-cherry-tomatoes-videoSixteenByNine310-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2019/06/20/dining/mc-pasta-with-burst-cherry-tomatoes/mc-pasta-with-burst-cherry-tomatoes-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2019/06/20/dining/mc-pasta-with-burst-cherry-tomatoes/mc-pasta-with-burst-cherry-tomatoes-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2019/06/20/dining/mc-pasta-with-burst-cherry-tomatoes/mc-pasta-with-burst-cherry-tomatoes-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Pasta With Burst Cherry Tomatoes</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/07/10/multimedia/KH-tomato-basil-orzotto-bktl/KH-tomato-basil-orzotto-bktl-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/2c306b2c611fb53a/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/404d0a07-2525-5c8e-aae3-2d8a1452ae61",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1027053-burst-cherry-tomato-orzotto",
+        "@type": "WebPage",
+        "name": "Burst Cherry Tomato Orzotto"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027053-burst-cherry-tomato-orzotto",
+      "name": "Burst Cherry Tomato Orzotto",
+      "description": "Peak-season cherry tomatoes and fragrant basil join forces in this light and summery one-pot orzotto. Cherry tomatoes are first cooked down with aromatics until they burst and their juices thicken. This concentrated tomato mixture fortifies the broth, imparting its flavor to the orzo. Stirring every minute or so releases the pasta’s starch, while a pat of butter makes this dish silky and that much more reminiscent of a saucy risotto. The orzotto is only as good as the tomatoes you use, so be sure to use the best ones you can get your hands on. Topping each serving with a handful of arugula is a wonderful way to incorporate more greens and add a bit of fresh, peppery zing.",
+      "author": {
+        "@type": "Person",
+        "name": "Kayla Hoang"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/b01ba484-0a5c-5bbd-a1d6-c417bdc12cb0#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/10/multimedia/KH-tomato-basil-orzotto-bktl/KH-tomato-basil-orzotto-bktl-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Nico Schinco for The New York Times. Food Stylist: Kaitlin Wayne.",
+          "dateModified": "2025-07-11T20:09:19.353Z",
+          "datePublished": "2025-07-10T18:24:14.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-10T18:24:14.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/10/multimedia/KH-tomato-basil-orzotto-bktl/KH-tomato-basil-orzotto-bktl-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/b01ba484-0a5c-5bbd-a1d6-c417bdc12cb0#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/10/multimedia/KH-tomato-basil-orzotto-bktl/KH-tomato-basil-orzotto-bktl-googleFourByThree.jpg",
+          "creditText": "Nico Schinco for The New York Times. Food Stylist: Kaitlin Wayne.",
+          "dateModified": "2025-07-11T20:09:19.353Z",
+          "datePublished": "2025-07-10T18:24:14.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-10T18:24:14.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/10/multimedia/KH-tomato-basil-orzotto-bktl/KH-tomato-basil-orzotto-bktl-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/b01ba484-0a5c-5bbd-a1d6-c417bdc12cb0#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/10/multimedia/KH-tomato-basil-orzotto-bktl/KH-tomato-basil-orzotto-bktl-mediumSquareAt3X.jpg",
+          "creditText": "Nico Schinco for The New York Times. Food Stylist: Kaitlin Wayne.",
+          "dateModified": "2025-07-11T20:09:19.353Z",
+          "datePublished": "2025-07-10T18:24:14.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-10T18:24:14.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/10/multimedia/KH-tomato-basil-orzotto-bktl/KH-tomato-basil-orzotto-bktl-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT40M",
+      "totalTime": "PT50M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, lunch, quick, weeknight, one pot, pastas, main course, side dish",
+      "keywords": "basil, cherry tomato, chicken broth, orzo, stovetop, vegetable broth, summer, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 405
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 511,
+        "unsaturatedFatContent": "10 grams",
+        "carbohydrateContent": "69 grams",
+        "cholesterolContent": null,
+        "fatContent": "16 grams",
+        "fiberContent": "4 grams",
+        "proteinContent": "21 grams",
+        "saturatedFatContent": "5 grams",
+        "sodiumContent": "914 milligrams",
+        "sugarContent": "8 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 tablespoons olive oil ",
+        "1 large shallot, chopped (about 1/3 cup)",
+        "Salt ",
+        "1 tablespoon grated garlic, from 3 to 4 large cloves",
+        "1/4 to 1/2 teaspoon crushed red pepper ",
+        "1 1/2 pounds cherry tomatoes ",
+        "1 cup tightly packed fresh basil leaves, roughly chopped, plus 1 sprig ",
+        "1 pound orzo ",
+        "1 quart (4 cups) low-sodium vegetable or chicken broth",
+        "2/3 cup grated Parmesan, plus more for serving",
+        "1 tablespoon unsalted butter ",
+        "1 1/2 teaspoons fresh lemon juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the olive oil in a large Dutch oven or heavy-bottomed pot over medium heat for about 30 seconds. Add the shallot and 1 teaspoon salt and cook, stirring often, until the shallot is translucent and fragrant, 2 to 3 minutes. Add the garlic and crushed red pepper and cook, stirring constantly, until fragrant, about 30 seconds more."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the tomatoes, basil sprig and 1 1/4 cups water and cover the pot. Increase the heat to medium-high and let cook, covered, until the tomatoes are very soft and easily burst when pressed with a wooden spoon or spatula, about 8 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Use the back of a wooden spoon or spatula to press the tomatoes against the side of the pot until all the tomatoes are broken down. Adjust the heat as needed to maintain a steady yet gentle boil."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Cover and continue to cook, stirring occasionally, until the tomato liquid has thickened, slightly deepened in color and reduced by about half, 6 to 10 minutes. The mixture will go from very brothy to a tomato soup-like texture."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Stir in the orzo, broth and 1/4 teaspoon salt and bring to a boil over high heat, 4 to 5 minutes. Lower the heat to maintain a simmer and cook, stirring every minute or two and making sure to scrape the bottom of the pot to prevent sticking, until the orzo is tender and saucy, 9 to 10 minutes more."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Remove the pot from the heat and discard the basil sprig. Stir in the Parmesan, butter, lemon juice and chopped basil until silky and evenly combined. Season to taste with salt as needed. Serve immediately, topped with more Parmesan as desired."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-07-10T00:00:00.000Z",
+      "dateModified": "2025-07-10T21:03:59.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ML"
+          },
+          "reviewBody": "Thank you for giving a volume measurement for the shallot. Shallots have such a wide range of sizes and I like to know the intended measurement when I prepare the recipe the first time. I used lemon orzo and it was delicious. Than you!",
+          "datePublished": "2025-07-21T00:27:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AnnieNP"
+          },
+          "reviewBody": "2 things, first, I generally look at recipes as a basic guideline and do what I want.  Second, I have never really appreciated one-pot pasta dishes as they usually come out too starchy. \nBUT, I decided to give this one a go as written... and it was DELICIOUS. Really yummy.  Add everything, especially the fresh basil, the butter at the end, lemon and parm.  Easy one-pot dish, you won't be disappointed. This is on our rotation forever.",
+          "datePublished": "2025-07-20T23:29:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deborah Rivers"
+          },
+          "reviewBody": "I wish you would offer an option to cut your recipes in half. Many seniors are now cooking for one or two and would love to make your recipes but it’s hard to try and reduce the amount of the ingredients especially the spices.",
+          "datePublished": "2025-07-20T17:01:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "laurie"
+          },
+          "reviewBody": "Delicious. Added a few diced anchovies for extra umami when sautéing the onions and garlic. Served with roasted chicken. Everyone loved it: the adults and the 3 and 1 year old kids.",
+          "datePublished": "2025-07-20T10:07:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Juliebythesea"
+          },
+          "reviewBody": "This is delicious! I had a bunch of beautiful ripe sweet grape tomatoes and used them. Unusual for me I followed the recipe. I used the immersion blender for the tomatoes. I was hesitant to use the whole box of orzo for only 2 people but… having the small amount or leftovers tonight",
+          "datePublished": "2025-07-20T01:51:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Valerie"
+          },
+          "reviewBody": "Made this last night…exceeded my expectations. Added extra hot pepper flakes because that’s our personal spice preference. I’ve read the comments of the few who didn’t really love this…I’ll reiterate what was said in the intro…this dish will be as good as the tomatoes you use. Living in Italy, we get some pretty amazing little tomatoes (multiple varieties) on the regular…and I think it def makes a difference. we added a few extra tomatoes plus some jarred artichokes I had…excellent result!",
+          "datePublished": "2025-07-19T22:32:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol Manning"
+          },
+          "reviewBody": "We really liked this as written.  I had a few extra tomatoes so I made a 2nd batch while I was making this one and added a 2 T of fresh chopped red pepper to the boiling tomatoes and then when finished added a handful of chopped spinach.  It was also delicious.  Thanks for sharing.",
+          "datePublished": "2025-07-19T16:51:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Clare"
+          },
+          "reviewBody": "I added about 4 oz spinach in the last few minutes of simmering and topped with Italian sausage, super tasty!",
+          "datePublished": "2025-07-19T15:25:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gail"
+          },
+          "reviewBody": "I just made this and cut it half.  It made plenty.  I really liked it.",
+          "datePublished": "2025-07-19T13:39:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nana Ruth"
+          },
+          "reviewBody": "add a can of cannelloni beans for protein",
+          "datePublished": "2025-07-19T13:06:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KSWinCA"
+          },
+          "reviewBody": "Delicious. For the two of us, 4 oz orzo (2/3 cup dry), 1 cup stock, 1/2 pound tomatoes.  KSW",
+          "datePublished": "2025-07-19T05:42:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Francophile"
+          },
+          "reviewBody": "Excellent! Great use of our fresh tomatoes. Made the whole recipe, for just two of us - looking forward to leftovers! Made as directed but added kale from our garden toward the end, and sliced smoked sausage for protein. The smokiness was divine! May try it with shrimp next. I omitted the butter bc  it was creamy enough with the Parmesan. A keeper!",
+          "datePublished": "2025-07-19T02:06:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "debra b"
+          },
+          "reviewBody": "This is a perfect recipe to use up Parmesan cheese rinds- instead of grated cheese, simply simmer a 1x2” piece of rind in the mixture while you’re reducing the tomatoes. It adds richness and depth to the sauce.",
+          "datePublished": "2025-07-18T23:46:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gini"
+          },
+          "reviewBody": "How many cups is a pound of orzo? I have never had a NYT recipe call for orzo in weight.",
+          "datePublished": "2025-07-18T23:11:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy"
+          },
+          "reviewBody": "We didn't have enough orzo so added farro and it was delicious. Also, we didn't have enough fresh basil so added fresh thyme and oregano. I can't wait to eat the leftovers!!",
+          "datePublished": "2025-07-18T13:11:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie Keith"
+          },
+          "reviewBody": "Outstanding!  The orzo turned into creamy goodness as I added the stock and stirred.  I made as written, but reduced to make approx. 1/3 the recipe for 2 people.  Using good stock (homemade, if you can)  really adds to the rich, creamy texture, and the splash of lemon at the end puts the finishing touch to highlight the flavor of the tomato.  I did add a handful of baby arugula at the end, as suggested.  \nThis is a definite keeper!",
+          "datePublished": "2025-07-14T23:33:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "heather"
+          },
+          "reviewBody": "Add cannellini beans at the end for some protein - yum!",
+          "datePublished": "2025-07-15T18:28:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patrick"
+          },
+          "reviewBody": "Subbing smoked paprika for crushed red pepper flakes isn't a bad idea either.,",
+          "datePublished": "2025-07-13T18:14:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joe"
+          },
+          "reviewBody": "Cooked for my family, including grandma and kids, and it was widely loved! If you are adverse to spice, I recommend going on the lower end of the recipe’s recommendation for crushed red pepper or substituting with black pepper at the end.",
+          "datePublished": "2025-07-11T22:36:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "Made exactly as directed and topped with arugula - delicious! One tip: I found it much easier to break up the tomatoes with a potato masher than with a wooden spoon.",
+          "datePublished": "2025-07-16T15:57:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "suki"
+          },
+          "reviewBody": "this is easily one of the best recipes i’ve cooked so far! we kept eating it straight out of the pan because it’s that good and satisfying! reheats well, too!",
+          "datePublished": "2025-07-14T17:10:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jd1991"
+          },
+          "reviewBody": "Great dish! Absolutely loved it. Gave it a good kick with the chili, but also see me do a more summery one without chili and with lemon zest.",
+          "datePublished": "2025-07-14T01:12:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ashley Martinage"
+          },
+          "reviewBody": "Delicious! The squeeze of lemon at the end makes a real difference.",
+          "datePublished": "2025-07-15T11:57:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "salex53"
+          },
+          "reviewBody": "I made this yesterday and we both loved it. Since I had nothing planned for dinner tonight, I reheated it and topped it with some grilled shrimp. If anything, the orzo was even better after having 24 hours to meld the flavors.",
+          "datePublished": "2025-07-16T01:46:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "This tasted amazing even though I accidentally added all the basil in the beginning. I used whole wheat orzo and cherry tomatoes straight out of the garden. My partner claimed he wasn't hungry, then proceeded to eat a huge bowl of it once he had a bite. This recipe slaps, as the kids say.",
+          "datePublished": "2025-07-16T03:20:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lizzzi"
+          },
+          "reviewBody": "Yum. My family demolished this tonight. I’d add more red pepper, but we like spice. This will def go into the rotation. Delicious!!",
+          "datePublished": "2025-07-13T22:38:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Holly"
+          },
+          "reviewBody": "We really enjoyed this. I did add some white wine and served it with a nice piece of salmon, cooked low and slow, on top. Will definately make this again.",
+          "datePublished": "2025-07-14T01:33:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ann"
+          },
+          "reviewBody": "Made exactly as written- delicious! Reminded us of grown up spaghettios (in a good way) :)",
+          "datePublished": "2025-07-15T23:50:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily"
+          },
+          "reviewBody": "@Dr.Lisa.Travels.The.World\n\nTry Smitten Kitchen recipe for roasted tomatoes with Israeli couscous. Similar flavor notes. But so much tastier.",
+          "datePublished": "2025-07-16T03:33:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rachel"
+          },
+          "reviewBody": "Sweeter than I expected. Might try with canned tomatoes in the winter",
+          "datePublished": "2025-07-15T00:20:56.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1027053-burst-cherry-tomato-orzotto",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Kayla Hoang"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "Peak-season cherry tomatoes and fragrant basil join forces in this light and summery one-pot orzotto. Cherry tomatoes are first cooked down with aromatics until they burst and their juices thicken. This concentrated tomato mixture fortifies the broth, imparting its flavor to the orzo. Stirring every minute or so releases the pasta’s starch, while a pat of butter makes this dish silky and that much more reminiscent of a saucy risotto. The orzotto is only as good as the tomatoes you use, so be sure to use the best ones you can get your hands on. Topping each serving with a handful of arugula is a wonderful way to incorporate more greens and add a bit of fresh, peppery zing.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Burst Cherry Tomato Orzotto",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/b01ba484-0a5c-5bbd-a1d6-c417bdc12cb0#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/10/multimedia/KH-tomato-basil-orzotto-bktl/KH-tomato-basil-orzotto-bktl-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Nico Schinco for The New York Times. Food Stylist: Kaitlin Wayne.",
+          "dateModified": "2025-07-11T20:09:19.353Z",
+          "datePublished": "2025-07-10T18:24:14.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-10T18:24:14.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/10/multimedia/KH-tomato-basil-orzotto-bktl/KH-tomato-basil-orzotto-bktl-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/b01ba484-0a5c-5bbd-a1d6-c417bdc12cb0#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/10/multimedia/KH-tomato-basil-orzotto-bktl/KH-tomato-basil-orzotto-bktl-googleFourByThree.jpg",
+          "creditText": "Nico Schinco for The New York Times. Food Stylist: Kaitlin Wayne.",
+          "dateModified": "2025-07-11T20:09:19.353Z",
+          "datePublished": "2025-07-10T18:24:14.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-10T18:24:14.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/10/multimedia/KH-tomato-basil-orzotto-bktl/KH-tomato-basil-orzotto-bktl-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/b01ba484-0a5c-5bbd-a1d6-c417bdc12cb0#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/10/multimedia/KH-tomato-basil-orzotto-bktl/KH-tomato-basil-orzotto-bktl-mediumSquareAt3X.jpg",
+          "creditText": "Nico Schinco for The New York Times. Food Stylist: Kaitlin Wayne.",
+          "dateModified": "2025-07-11T20:09:19.353Z",
+          "datePublished": "2025-07-10T18:24:14.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-10T18:24:14.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/10/multimedia/KH-tomato-basil-orzotto-bktl/KH-tomato-basil-orzotto-bktl-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027053-burst-cherry-tomato-orzotto"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-07-21T02:11:39.526Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}

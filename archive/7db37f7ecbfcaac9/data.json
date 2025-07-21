@@ -1,0 +1,632 @@
+{
+  "id": "7db37f7ecbfcaac9",
+  "original_url": "https://cooking.nytimes.com/recipes/1026790-crispy-chicken-with-lime-butter",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026790-crispy-chicken-with-lime-butter",
+  "fetched_title": "Crispy Chicken With Lime Butter Recipe (with Video)",
+  "main_text_content": "You don’t need a thermometer to know when these chicken thighs are done You just need your ears In this recipe, chicken thighs are slow seared using a technique from the chef Paul Bertolli called “bottom-up cooking” where the chicken cooks almost entirely on the skin side over moderate heat, resulting in shatteringly crisp skin",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1018197-flattened-chicken-thighs-with-roasted-lemon-slices\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2016/06/29/dining/29CASTIRON-WEB6/29CASTIRON-WEB6-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2016/06/29/dining/29CASTIRON-WEB6/29CASTIRON-WEB6-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2016/06/29/dining/29CASTIRON-WEB6/29CASTIRON-WEB6-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2016/06/29/dining/29CASTIRON-WEB6/29CASTIRON-WEB6-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2016/06/29/dining/29CASTIRON-WEB6/29CASTIRON-WEB6-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2016/06/29/dining/29CASTIRON-WEB6/29CASTIRON-WEB6-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2016/06/29/dining/29CASTIRON-WEB6/29CASTIRON-WEB6-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2016/06/29/dining/29CASTIRON-WEB6/29CASTIRON-WEB6-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Flattened Chicken Thighs With Roasted Lemon Slices</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Julia Moskin</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-threeByTwoMediumAt2X-v2.jpg",
+  "local_image_path": "archive/7db37f7ecbfcaac9/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/62a03025-780b-5a4d-b727-04673fb13ab8",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026790-crispy-chicken-with-lime-butter",
+        "@type": "WebPage",
+        "name": "Crispy Chicken With Lime Butter"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026790-crispy-chicken-with-lime-butter",
+      "name": "Crispy Chicken With Lime Butter",
+      "description": "You don’t need a thermometer to know when these chicken thighs are done. You just need your ears. In this recipe, chicken thighs are slow seared using a technique from the chef Paul Bertolli called “bottom-up cooking” where the chicken cooks almost entirely on the skin side over moderate heat, resulting in shatteringly crisp skin. The gentle sputtering sound that signals the release of moisture from the chicken hitting the hot fat in the pan stops when the meat is fully cooked and the skin crisp and evenly browned. A quick pan sauce of chicken stock, lime juice and maple syrup, made glossy with a few pats of butter, completes this dish.",
+      "author": {
+        "@type": "Person",
+        "name": "Eric Kim"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/02bf2262-2156-5457-b83f-5677675ac03a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-04-25T15:03:06.583Z",
+          "datePublished": "2025-04-24T16:50:03.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T16:50:03.000Z",
+          "url": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/02bf2262-2156-5457-b83f-5677675ac03a#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-googleFourByThree-v2.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-04-25T15:03:06.583Z",
+          "datePublished": "2025-04-24T16:50:03.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T16:50:03.000Z",
+          "url": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/02bf2262-2156-5457-b83f-5677675ac03a#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-mediumSquareAt3X-v2.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-04-25T15:03:06.583Z",
+          "datePublished": "2025-04-24T16:50:03.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T16:50:03.000Z",
+          "url": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT5M",
+      "cookTime": "PT35M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, quick, weeknight, one pot, poultry, main course",
+      "keywords": "budget, chicken thigh, lime juice, maple syrup, stovetop, unsalted butter, gluten-free",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 1293
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 484,
+        "unsaturatedFatContent": "23 grams",
+        "carbohydrateContent": "5 grams",
+        "cholesterolContent": null,
+        "fatContent": "39 grams",
+        "fiberContent": "0 grams",
+        "proteinContent": "27 grams",
+        "saturatedFatContent": "13 grams",
+        "sodiumContent": "663 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "4 large bone-in, skin-on chicken thighs (about 2 pounds)",
+        "Salt and pepper",
+        "1 tablespoon peanut or canola oil",
+        "2 garlic cloves, crushed ",
+        "1/2 cup chicken stock or 1/4 cup water",
+        "2 tablespoons fresh lime juice, plus wedges for serving",
+        "2 teaspoons maple syrup",
+        "3 tablespoons cold unsalted butter, cut into pats",
+        "Parsley, cilantro, basil or mint leaves, for serving (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pat the chicken dry and season with salt and pepper. If you have time, set aside at room temperature for at least 10 minutes and up to 30 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat a large skillet over medium. Add the oil and swirl the pan to coat it. Place the chicken skin side down and cook without moving it until the skin is crispy and golden brown, 20 to 25 minutes. Reduce the heat if the chicken splatters too much or browns too quickly."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the garlic to the pan. Flip the chicken and cook until the bottom is lightly browned and the meat is cooked through, about 5 minutes. Transfer the chicken to a plate, skin side up. Remove all but 3 tablespoons of the fat from the pan and save for another use (see Tip)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the chicken stock, lime juice and maple syrup to the skillet. Season with salt and pepper. Bring to a simmer over high, then reduce the heat to medium and cook, stirring occasionally, until reduced by half, about 3 minutes. Add the butter and continue simmering, now stirring constantly, until incorporated; the sauce will thicken and become shiny as the butter melts. Taste and add more salt and pepper as desired."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Serve the chicken with the pan sauce, lime wedges and the optional fresh herbs (spritzed with a little lime juice and lightly seasoned with salt and pepper)."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/f3233c77-e7f4-5adf-8f31-febdf0bf6e1e",
+        "@type": "VideoObject",
+        "author": {
+          "@id": "nyt://person/a89444f5-07d8-5c29-86d1-3c6c30133277",
+          "@type": "Person",
+          "name": "The New York Times Cooking",
+          "url": "https://www.nytimes.com/by/the-new-york-times-cooking"
+        },
+        "bitrate": "1414775",
+        "contentSize": "79733236",
+        "contentUrl": "https://vp.nyt.com/video/2025/05/08/139538_1_Crispy-Chicken-With-Lime-Butter-YT-VID_wg_480p.mp4",
+        "creator": {
+          "@id": "nyt://person/a89444f5-07d8-5c29-86d1-3c6c30133277",
+          "@type": "Person",
+          "name": "The New York Times Cooking"
+        },
+        "dateModified": "2025-05-09T16:05:49.893Z",
+        "datePublished": "2025-05-09T16:00:43.000Z",
+        "duration": "PT6M53S",
+        "height": "480",
+        "name": "Crispy Chicken With Lime Butter",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/02bf2262-2156-5457-b83f-5677675ac03a#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-videoSixteenByNineJumbo1600-v2.jpg",
+            "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+            "dateModified": "2025-04-25T15:03:06.583Z",
+            "datePublished": "2025-04-24T16:50:03.000Z",
+            "height": "900",
+            "uploadDate": "2025-04-24T16:50:03.000Z",
+            "url": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-videoSixteenByNineJumbo1600-v2.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/02bf2262-2156-5457-b83f-5677675ac03a#googleFourByThree",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-googleFourByThree-v2.jpg",
+            "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+            "dateModified": "2025-04-25T15:03:06.583Z",
+            "datePublished": "2025-04-24T16:50:03.000Z",
+            "height": "600",
+            "uploadDate": "2025-04-24T16:50:03.000Z",
+            "url": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-googleFourByThree-v2.jpg",
+            "width": "800"
+          },
+          {
+            "@id": "nyt://image/02bf2262-2156-5457-b83f-5677675ac03a#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-mediumSquareAt3X-v2.jpg",
+            "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+            "dateModified": "2025-04-25T15:03:06.583Z",
+            "datePublished": "2025-04-24T16:50:03.000Z",
+            "height": "1800",
+            "uploadDate": "2025-04-24T16:50:03.000Z",
+            "url": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-mediumSquareAt3X-v2.jpg",
+            "width": "1800"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-videoSixteenByNineJumbo1600-v2.jpg",
+        "transcript": "\"The taste and aroma of home cooking.\" What is the taste and aroma of home cooking to you guys? “A fresh pot of rice.” “Rice. Just rice. Just the smell of rice.” “Also rice.” We’re all Asian in this room. [MUSIC PLAYING] Hey, my name is Eric Kim. I’m a cooking columnist for The New York Times. And today, we’re making crispy chicken with lime butter. Today, I’m going to teach you a technique I think produces the absolute best chicken at home. We’re really, really rendering that chicken fat that just really guarantees crispy skin. It’s very easy. It’s very simple, but it requires technique and finesse, and it requires your attention. [MUSIC PLAYING] All this happens entirely on the stove top and the skillet over like very moderate heat, medium, medium low. We’re going to salt and pepper this and let it sit for like 5 to 10 minutes. The salt’s going to draw out a little bit of moisture before it goes in the pan. I like to pat it dry right before it goes in the pan. See, it’s only been like a few seconds, but you can already see the water drawing out. I’m going to pat it dry now. It’s going to be in that pan for a very long time on the skin side. So it’s going to have time to really render out the fat and remove moisture. This step just really ensures that you get a head start. It’s worth doing. The thing about stainless steel skillets, in order to create a non-stick surface, we are going to heat it first, medium, medium low, not very high. When I add the oil to the heated pan, you’ll see how immediately it just floats on top because it’s nonstick. I like this because it really creates a nice bond. You could use a cast iron skillet if you want. Same thing. See how it is loose already? The oil is dancing on top. So I’d just like to lay it in. To get them to all fit, have the bone side the thick bone side facing outward and then the little flabby skin part facing inward. You don’t have to be that precious about it, but I’m precious so. See, it’s already not sticking. To be honest, this heat is too high for me. I’m going to lower it because, again, I want this to go for 20 minutes. I’m going to wash my hands again. So this is where you can just really nurse it. You hear that sound, right, the sizzling sound? That’s going to really quiet down once it’s done. If you find that the skin is already like blackening before the chicken’s even been in here for that long, then that’s when you want to lower the heat. You can look at it. Like see, it’s already pretty good, right? But we’re going to just keep going for a really long time. This is like fried chicken but no batter. I’m ready to flip. Don’t be fooled by the quiet sound. That oil is still so hot. In fact, it’s hotter than before. Gorgeous. “Wow.” Thanks. Love having an audience. And then this just cooks for five more minutes, or until the internal temperature is 180. Dark meat needs to go to 180 for it to really fall apart from the bone and be fully cooked in a way that’s pleasurable to eat. So to build the pan sauce, I do want to get the garlic started a little bit in the fat, and it’s going to season the fat. I like to crush the garlic. Just with the back of my knife I’m like [VOCALIZING]:. So this has been going for three minutes. I’m going to let it go for the full five. And then I might make the bigger guy kind of hang out a little longer. Doesn’t it look like roast chicken? Because we did it entirely in the pan it has this beautiful, even browning. I’m really proud of that. I’m feeling pretty smug about it, actually. I’m going to take out the small pieces. Where the oil is, is where the pan is the hottest. So I put the things that I don’t want to cook as much on the top part. It’s almost like a grill where you’re using the surface that you have to your advantage. And what you have here now, it’s like mostly chicken fat. This chicken’s going to taste chicken-y as heck. We’re ready to build the pan sauce now. So the chicken’s out of the pan. And now, we have the beautiful garlic. However, I don’t want all of this fat. I want about 3 tablespoons. So I’m going to take out a good amount. And this is -- I hate when people say liquid gold. This is liquid copper. Just kidding. You really want to save the chicken fat. It’s great to fry an egg into. It’s great as butter for toast. I like buttering toast with it. So yeah, that’s about 3 tablespoons, I would say. So into here 1/2 a cup of chicken stock. Water works as well. We’re just trying to pick up all the fun, the flavorful bits at the bottom. 2 tablespoons of lime juice. 2 teaspoons of maple syrup. Use honey if you want. You can use a pinch of sugar if you want. And we’re going to bring this up to a boil. A little sugar also adds body to the final sauce. You get a shininess, a glossiness, a thickness because of the sugar. We’re going to reduce this by about half. That’s so good. It’s so stupid how good that is. A little salt, little pepper, fresh pepper. You can actually turn off the heat completely. I’m just going to lower it and add the butter. You can keep it at a simmer. And I’m just going to really agitate the pan. And once the butter is melted, the sauce is done. [MUSIC PLAYING] Let’s eat. Let’s try one of these. Even the sauced portion is still crispy. This is what I like to show people. The skin can come off in one piece. It’s because that underside has been rendered so well. The pan sauce, it’s so balanced. It tastes so much of the chicken, but there’s a lot of acid from the lime. There’s a little caramelly flavor from the butter. You’re kind of really bringing out the best of the ingredients. So go forth and make chicken. We have some of that chicken fat. This is like when you’re alone and no one’s watching.",
+        "uploadDate": "2025-05-09T16:00:43.000Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000010157483/crispy-chicken-with-lime-butter.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-04-24T00:00:00.000Z",
+      "dateModified": "2025-05-09T16:40:09.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "geteb"
+          },
+          "reviewBody": "Made this last night & wow!  Followed recipe....well, ok, doubled garlic cuz it's fresh from my garden & that's who I am...& it was fantastic!  Used a splatterguard to beneficial effect & the chicken was just scrumptious.",
+          "datePublished": "2025-07-20T00:24:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Clay Russell"
+          },
+          "reviewBody": "I made this last night exactly according to the recipe and loved it. The thighs came out crispy and moist, and the sauce delivered. But...\n\nI'm afraid it wasn't worth the oil splatter—stovetop, countertops, floor. But I can definitely see adapting the sauce for boneless, skinless chicken breasts, which would of course cook much quicker, or on grilled meats.",
+          "datePublished": "2025-07-19T14:04:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "craig s."
+          },
+          "reviewBody": "Once again a recipe that says 40 mins total took like 65 mins, but alas… I did mine in a cast iron skillet and even after almost 30 mins they were still poppin and spitting chicken grease all over the stove-top.   I must say, even though the whole place smelled like chicken fat (could be worse) and the cleanup was an ordeal, the crust and flavor was way more of a restaurant quality meal than I ever have had baking in oven, which yields a thinner less crispy skin.   I always use Better Than Bullion mixed with water for recipes calling for such a small amount of stock, and it came out excellent.    As delish as this was, I think it’s a one-off due to smoke/mess/super high fat quotient.   Very good recipe and excellent flavor of sauce too.  If I had a huge hood vent and a maid it would be on rotation lol.",
+          "datePublished": "2025-07-18T10:25:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane"
+          },
+          "reviewBody": "I hate sugar on meat, anyone try without added sweetener? Or shoukd i skip?",
+          "datePublished": "2025-07-17T03:28:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Grandma"
+          },
+          "reviewBody": "For crispy chicken go Korean chicken style and coat the slightly seasoned (a bit of salt) chicken thighs with cornstarch...  and fry up  skin side down..",
+          "datePublished": "2025-07-16T03:32:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DLAyers"
+          },
+          "reviewBody": "If you are worried about oil splatter here, I highly recommend a Frywall.  It's a collar that fits your favorite size skillet and catches all the splatter - then simply through in the dishwasher and store in the pan for next time.",
+          "datePublished": "2025-07-16T01:45:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rochelle K"
+          },
+          "reviewBody": "The skin did not crispy enough (it was 180) even with cooking longer. The sputtering never stopped (didn't get quiet). Should I have done it at a higher temp? I don't usually cook chicken thighs (and almost always use boneless, skinless) and I am now using gas stove (used to electric) so I was being a little...chicken. But the sauce was absolutely delicious-I spooned some over the asparagus. Totally wanted to lick the pan (but I settled for the spoon). Another amazing Eric! Thank you.",
+          "datePublished": "2025-07-02T01:13:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bela"
+          },
+          "reviewBody": "I was slurping up that sauce",
+          "datePublished": "2025-06-30T17:14:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joanne"
+          },
+          "reviewBody": "My husband made this recently and we've had it twice since! The chicken is moist, the skin crunchy and the butter sauce takes it all the way to yummy!",
+          "datePublished": "2025-06-29T17:01:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ximena Apisdorf"
+          },
+          "reviewBody": "I did it with lower heat, but it took me a lot of time!!! Its tasted amazing!!! I did it in Mexico City",
+          "datePublished": "2025-06-27T13:56:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jimmy"
+          },
+          "reviewBody": "I really don't think you need that much butter...maybe just one tbsp of butter...the chicken comes out quite rich. Otherwise quite crispy and delicious",
+          "datePublished": "2025-06-25T01:31:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Audrey"
+          },
+          "reviewBody": "This is similar to Eric Kim's chicken thighs with fish sauce butter, and I must say, though it was yummy, if I want to make this sort of meal, I'll stick with the other recipe.  This one was more work and mess, and the sauce was very good but not holding-myself-back-from-licking-my-plate good.",
+          "datePublished": "2025-06-19T16:09:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cutie Pie"
+          },
+          "reviewBody": "Yummy, Good Stuff! I made a few small mistakes, but it still turned out delicious. My chicken thighs did not lie flat in the pan, so I put them under the broiler, which worked well for the curved edges. Then, I added the butter to the sauce first instead of last, and too much maple syrup. I fixed this by adding lemon juice (I already used all the limes) and adding more butter at the end. The sauce was tangy and velvety despite my little mess-ups. Don't skip the fresh herbs at the end.",
+          "datePublished": "2025-06-19T15:54:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meegan"
+          },
+          "reviewBody": "This chicken is so delicious!  I removed the bone before cooking.  Cuts down cooking time and is easier to eat.",
+          "datePublished": "2025-06-19T11:53:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nanci"
+          },
+          "reviewBody": "It was amazing! Juicy, crispy skin and super flavorful!",
+          "datePublished": "2025-06-18T13:34:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eric Kim"
+          },
+          "reviewBody": "I find a lower heat helps, and less oil in the beginning. It'll just take a little longer.\n\nWhat's important is to listen to the pan: The gentle sputtering sound signals the release of moisture from the chicken hitting the hot fat. This stops when the meat is fully cooked through and the skin crisp and evenly browned.",
+          "datePublished": "2025-04-30T01:29:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennifer Humeniuk"
+          },
+          "reviewBody": "This is absolutely lovely. One note: I learned from the incomparable Jacque Pepin to cook the thighs skin side down in a HOT non-stick skillet but with NO fat or oil at all and it works brilliantly and avoids the oil splatter some have mentioned. Just leave the heat on high for about 3-5 minutes, then turn it down to low-med and cover the skillet for about 20 minutes. It always comes out perfectly with gorgeous, crispy skin. You can still follow the rest of the recipe as written.",
+          "datePublished": "2025-04-30T16:30:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ZD"
+          },
+          "reviewBody": "@Kim I often bake bone-in, skin-on chicken thighs for about 40 min (or longer) in the oven, at anywhere between 400-425 degrees. I find this ensures the chicken is fully cooked through, while also guaranteeing crispy skin.",
+          "datePublished": "2025-04-28T22:53:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Astrid"
+          },
+          "reviewBody": "Save the stovetop splatter cleanup and do all of this in a very hot oven.",
+          "datePublished": "2025-04-26T10:48:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Malia"
+          },
+          "reviewBody": "I thought the credit for this method belongs to Jacques Pepin? \nI’ve never found splattering to be a problem if you do it in a Dutch oven, meaning a pot with high walls.",
+          "datePublished": "2025-04-30T14:27:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kim"
+          },
+          "reviewBody": "@Astrid I’m curious how you do that? I would love to avoid the mess. Would you share how to do it? Thanks!",
+          "datePublished": "2025-04-28T18:27:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DW"
+          },
+          "reviewBody": "oh this was so good.  I made this for a dinner party and everyone loved it, the sauce is delicious.  I did have to cook it about 20 mins longer, 10  of which was in a hot oven to cook the inside.  Be sure to put the sauce along the side or underneath when serving, so that you don't ruin the crisp of the skin.  Pared with spicey roast veggies, scalloped potatoes and crisp garlic toast.  I put Thai red chilis in with the veggies and the heat went well with the sweet sauce.\nThank you, great recipe",
+          "datePublished": "2025-04-28T12:37:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Beth"
+          },
+          "reviewBody": "@Astrid\n\nOr use a spatter cover. Easy peasy",
+          "datePublished": "2025-04-30T15:47:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JKNY"
+          },
+          "reviewBody": "The skin will release cleanly once it browns. If it is sticking, let it go longer.",
+          "datePublished": "2025-04-30T15:49:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Helen Kinigopoulos"
+          },
+          "reviewBody": "Many comments here are about cooking time and sticking, it seems, and all relate to the quite subjective, non-standardized term “medium”.  You have to know your stove, know your pan, know your ingredients. One reason why the comments are always a must-read for me. I always learn something.",
+          "datePublished": "2025-05-01T11:23:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura"
+          },
+          "reviewBody": "can you adapt this to breasts?",
+          "datePublished": "2025-04-30T15:07:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandy"
+          },
+          "reviewBody": "Jacques Pepin does the following:  Slash the thighs on both sides of the bone for faster cooking.  Put skin side down in a cold non-stick skillet.  Start on high heat and then lower heat & cover the pan.  Cook about 20-25 minutes and check for doneness. He makes a delicious vinegar pan sauce but you can make whatever sauce you want.  The chicken come out perfect.",
+          "datePublished": "2025-04-30T16:40:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David"
+          },
+          "reviewBody": "@Jennifer Humeniuk non stick on high is never recommend, not is using no fat at all in that pan",
+          "datePublished": "2025-05-19T23:41:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathleen"
+          },
+          "reviewBody": "After one minute in the hot pan, shake the skillet to release the skin from the pan.",
+          "datePublished": "2025-04-30T15:14:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MMG"
+          },
+          "reviewBody": "This was really delicious. I’ve never made an Eric Kim recipe I didn’t like. I appreciate the other comments on how to avoid stovetop splatter for next time.",
+          "datePublished": "2025-04-28T23:51:48.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026790-crispy-chicken-with-lime-butter",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Eric Kim"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "You don’t need a thermometer to know when these chicken thighs are done. You just need your ears. In this recipe, chicken thighs are slow seared using a technique from the chef Paul Bertolli called “bottom-up cooking” where the chicken cooks almost entirely on the skin side over moderate heat, resulting in shatteringly crisp skin. The gentle sputtering sound that signals the release of moisture from the chicken hitting the hot fat in the pan stops when the meat is fully cooked and the skin crisp and evenly browned. A quick pan sauce of chicken stock, lime juice and maple syrup, made glossy with a few pats of butter, completes this dish.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Crispy Chicken With Lime Butter",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/02bf2262-2156-5457-b83f-5677675ac03a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-04-25T15:03:06.583Z",
+          "datePublished": "2025-04-24T16:50:03.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T16:50:03.000Z",
+          "url": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/02bf2262-2156-5457-b83f-5677675ac03a#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-googleFourByThree-v2.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-04-25T15:03:06.583Z",
+          "datePublished": "2025-04-24T16:50:03.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T16:50:03.000Z",
+          "url": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/02bf2262-2156-5457-b83f-5677675ac03a#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-mediumSquareAt3X-v2.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-04-25T15:03:06.583Z",
+          "datePublished": "2025-04-24T16:50:03.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-04-24T16:50:03.000Z",
+          "url": "https://static01.nyt.com/images/2025/04/24/multimedia/ek-crispy-chicken-with-lime-butter-zpkh/ek-crispy-chicken-with-lime-butter-zpkh-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026790-crispy-chicken-with-lime-butter"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-07-21T02:11:36.468Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}

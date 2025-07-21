@@ -1,0 +1,582 @@
+{
+  "id": "0e95919e77709d16",
+  "original_url": "https://cooking.nytimes.com/recipes/1026928-pistachio-halvah-rice-krispies-treats",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026928-pistachio-halvah-rice-krispies-treats",
+  "fetched_title": "Pistachio Halvah Rice Krispies Treats Recipe",
+  "main_text_content": "What’s better than a pan full of freshly made, just-gooey-enough Rice Krispies treats A core memory for many, it continues to be a fan favorite, whether a packaged gas station treat or a high-end bakery grab like this one Perfectly balanced with an additional layer of texture from the pistachio and halvah, this recipe comes from Shilpa and Miro Uskokovic, the supertalented pastry chef duo that opened Hani’s Bakery + Café in New York’s East Village in 2024",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/11587-caramelized-brown-butter-rice-krispies-treats\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2017/01/29/dining/29COOKING-CRMLZDKRISPIETREAT1/29COOKING-CRMLZDKRISPIETREAT1-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2017/01/29/dining/29COOKING-CRMLZDKRISPIETREAT1/29COOKING-CRMLZDKRISPIETREAT1-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2017/01/29/dining/29COOKING-CRMLZDKRISPIETREAT1/29COOKING-CRMLZDKRISPIETREAT1-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2017/01/29/dining/29COOKING-CRMLZDKRISPIETREAT1/29COOKING-CRMLZDKRISPIETREAT1-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2017/01/29/dining/29COOKING-CRMLZDKRISPIETREAT1/29COOKING-CRMLZDKRISPIETREAT1-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2017/01/29/dining/29COOKING-CRMLZDKRISPIETREAT1/29COOKING-CRMLZDKRISPIETREAT1-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2017/01/29/dining/29COOKING-CRMLZDKRISPIETREAT1/29COOKING-CRMLZDKRISPIETREAT1-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2017/01/29/dining/29COOKING-CRMLZDKRISPIETREAT1/29COOKING-CRMLZDKRISPIETREAT1-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Caramelized Brown Butter Rice Krispies Treats</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Julia Moskin</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/05/27/multimedia/01FD-EATrex-kbvz/01FD-EATrex-kbvz-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/0e95919e77709d16/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/87946cbf-bd50-511a-95d2-19ad0f11e491",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026928-pistachio-halvah-rice-krispies-treats",
+        "@type": "WebPage",
+        "name": "Pistachio Halvah Rice Krispies Treats"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026928-pistachio-halvah-rice-krispies-treats",
+      "name": "Pistachio Halvah Rice Krispies Treats",
+      "description": "What’s better than a pan full of freshly made, just-gooey-enough Rice Krispies treats? A core memory for many, it continues to be a fan favorite, whether a packaged gas station treat or a high-end bakery grab like this one. Perfectly balanced with an additional layer of texture from the pistachio and halvah, this recipe comes from Shilpa and Miro Uskokovic, the supertalented pastry chef duo that opened Hani’s Bakery + Café in New York’s East Village in 2024. Their use of tahini brings a level of sophistication, and offsets the sweet bite this snack can often have. There is not a thing that needs altering in this recipe, yet, in Rice Krispie treat tradition, it encourages a bit of playfulness for the cook to make it their own.",
+      "author": {
+        "@type": "Person",
+        "name": "Lisa Donovan"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/e5be439e-c13b-541a-b5e4-ae3b41380aa7#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/27/multimedia/01FD-EATrex-kbvz/01FD-EATrex-kbvz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Monica Pierini. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-05-29T03:50:52.447Z",
+          "datePublished": "2025-05-26T17:59:44.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-26T17:59:44.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/27/multimedia/01FD-EATrex-kbvz/01FD-EATrex-kbvz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/e5be439e-c13b-541a-b5e4-ae3b41380aa7#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/27/multimedia/01FD-EATrex-kbvz/01FD-EATrex-kbvz-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Monica Pierini. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-05-29T03:50:52.447Z",
+          "datePublished": "2025-05-26T17:59:44.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-26T17:59:44.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/27/multimedia/01FD-EATrex-kbvz/01FD-EATrex-kbvz-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/e5be439e-c13b-541a-b5e4-ae3b41380aa7#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/27/multimedia/01FD-EATrex-kbvz/01FD-EATrex-kbvz-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Monica Pierini. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-05-29T03:50:52.447Z",
+          "datePublished": "2025-05-26T17:59:44.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-26T17:59:44.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/27/multimedia/01FD-EATrex-kbvz/01FD-EATrex-kbvz-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT2H25M",
+      "totalTime": "PT2H30M",
+      "recipeYield": "6 to 8 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dessert",
+      "keywords": "bar cookie, brown butter, make-ahead, marshmallow, pistachio, plan-ahead, sesame seed, stovetop, sweetened condensed milk, tahini, fourth of july, memorial day",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 172
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 521,
+        "unsaturatedFatContent": "16 grams",
+        "carbohydrateContent": "61 grams",
+        "cholesterolContent": null,
+        "fatContent": "29 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "9 grams",
+        "saturatedFatContent": "12 grams",
+        "sodiumContent": "270 milligrams",
+        "sugarContent": "31 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1/2 cup/113 grams unsalted butter, cut into pieces",
+        "1 (10-ounce/ 283-gram) bag mini marshmallows",
+        "1/3 cup/100 grams sweetened condensed milk",
+        "2 tablespoons tahini, well stirred",
+        "2 tablespoons pistachio butter (preferably unsweetened)",
+        "1 tablespoon vanilla bean paste or extract",
+        "1 1/2 teaspoons kosher salt (such as Diamond Crystal)",
+        "6 cups/160 grams Rice Krispies cereal",
+        "4 ounces/113 grams store-bought or homemade pistachio or sesame halvah, crumbled and divided",
+        "1/2 cup/67 grams shelled roasted pistachios, coarsely chopped and divided",
+        "2 tablespoons white sesame seeds, lightly toasted and divided"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Line an 8-inch square metal or glass pan with parchment paper, leaving an overhang on two opposite sides."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Melt butter in a large Dutch oven or other heavy bottomed pot over medium. Cook over medium-low heat, stirring constantly with heatproof flexible spatula, until butter foams, settles and then turns dark brown, about 5 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add marshmallows and stir vigorously until melted and smooth, about 2 minutes. Add condensed milk, tahini, pistachio butter, vanilla and salt; stir well until incorporated and mixture is smooth, about 1 minute."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Remove pan from heat and stir in cereal, half of the crumbled halvah, half the pistachios and half the sesame seeds, scraping bottom of pot and folding until cereal is well coated."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Scrape into prepared pan and smooth top with spatula. Immediately sprinkle remaining pistachios, sesame seeds and halva on top, covering the surface evenly. Press down lightly with spatula to help adhere. (For best texture, do not compact or press down too firmly.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Cover loosely and set aside at room temperature until set, at least 2 hours and up to 24."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Just before serving, using the parchment paper sling, lift treats out of the pan. Peel away the parchment from underneath and discard. Place the treats on a cutting board. Using a sharp knife, cut into 6 to 8 pieces. Store any leftovers in an airtight container at room temperature for up to four days."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-05-27T00:00:00.000Z",
+      "dateModified": "2025-05-28T14:13:30.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pamela Rollings"
+          },
+          "reviewBody": "11 ingredients v. 3 for the original cereal box recipe! If you manage to find all of them, you may have to make these more than you want. It would be very helpful if recipes like this indicated which ingredients are optional or have handy pantry substitutes.",
+          "datePublished": "2025-07-18T15:39:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lucy"
+          },
+          "reviewBody": "For those looking for pistachio butter, your local Middle Eastern grocer should carry it. That is where I found some to make this recipe. It was pricey, but sooooooo worth it to make these Rice Krispie treats!",
+          "datePublished": "2025-07-18T02:19:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karla K"
+          },
+          "reviewBody": "First time I didn't have thini so I used cashew butter. They were amazing! Second time I used tahini, my husband loved them even more. I preferred the first batch so I'll have to trade off.",
+          "datePublished": "2025-07-16T23:32:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dina"
+          },
+          "reviewBody": "I made this recipe exactly as written and it was perfect. But then I sliced it into thin rectangles, layered a scoop of vanilla ice cream between 2 of them and made…ice cream sandwiches! They were ridiculously delicious! Next time I’m going to roll the edges in crushed pistachios.",
+          "datePublished": "2025-07-10T23:36:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elo"
+          },
+          "reviewBody": "These were a hit, and great for a crowd. I made the following changes: I cut the condensed milk by half (they are already so sweet!) and I finished with sprinkle of salt on top. This really helped them pop. In the future I will likely play with the pistachio and tahini ratio. These are tahini/sesame first, pistachio second. I want it the other way around, so more pistachio cream (in my case, it's what I found) and less tahini. But that is really personal preference.",
+          "datePublished": "2025-07-08T13:50:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mare"
+          },
+          "reviewBody": "I made this yesterday and they were a big hit. Really delicious but very very rich. I would think that chocolate would overpower the pistachio and halva and you'd lose the Middle Eastern taste. Also, they're very gooey, which makes me think I'll use less condensed milk next time.",
+          "datePublished": "2025-07-07T01:13:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kzkz"
+          },
+          "reviewBody": "These were good but I agree they were WAY too sweet. And I am someone who usually scoffs when people say that. I ended up cutting off the top layer to get rid of all the extra halva (which, again, I love!). I just ground my own pistachios into \"butter\" which worked fine, and I used plain halva since it's what I had on hand. Plenty pistachio-y.",
+          "datePublished": "2025-07-05T18:57:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sao"
+          },
+          "reviewBody": "Didn’t use the condensed milk, just added more vanilla and a bit of water to the tahini. Next time I’ll use less halva, which added nice texture and flavor, but added too much sugar for my taste.",
+          "datePublished": "2025-07-05T00:43:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "grptcoooker"
+          },
+          "reviewBody": "I’ve made these twice now and they’re a go to for me. \n\nAmendments:\nSalted butter\nSalted pistachios, double or even triple the amount\nDouble sesame seeds\nAll tahini instead of pistachio butter (in THIS economy!?)\n\nTHE BEST THING TO EVER HAPPEN: I bought condensed milk and came home and realized it was coffee condensed milk, Bandi foods brand. It tastes so incredible with this recipe and adds a little bite or earthiness that balances all the sugar so beautifully, I can’t recommend it enough.",
+          "datePublished": "2025-07-05T03:35:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J in PA"
+          },
+          "reviewBody": "7/2/25. Took about 45 minutes to prep. Cooled in fridge 1 hour. Very sticky on foil - spray or use parchment. Very tasty and rich, way more sophisticated than regular Rice Krispie treats. Extra ingredients are pricey though and needed to be ordered from Amazon.",
+          "datePublished": "2025-07-03T01:16:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "Would these freeze well?",
+          "datePublished": "2025-06-28T23:40:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cara d."
+          },
+          "reviewBody": "I had to make these vegan for my vegan family members and it was still really good! Used Mykonos vegan butter, Trader Joe’s marshmallows and sweetened condensed oat milk (Nature’s Charm brand that I found at Whole Foods). The butter and marshmallows took longer to melt and smooth out but otherwise no problem.\n\nFor the pistachio butter I used the food processor and made it myself. No other ingredients needed. (Next time I’ll make extra pistachio butter because it was so good!)",
+          "datePublished": "2025-06-26T23:51:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Donna in Brooklyn"
+          },
+          "reviewBody": "I made these and while they are tasty -- browned butter adds a nice caramel flavor -- they are too sweet. I used condensed unsweetened coconut milk, so that is not the cause of the excess sweetness. I also used jarred marshmallow fluff instead of marshmallows because the ingredient list for marshmallows is appalling. And the ingredients for the jarred fluff were not actually too bad. However both the fluff and the Rice Krispies are sort of naturally sweet, and together they are too much.",
+          "datePublished": "2025-06-25T16:58:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ben B."
+          },
+          "reviewBody": "It is a time commitment. I recommend reading the recipe several times before proceeding and have all ingredients measured and ready.  I could not find pistachio butter but used almond butter instead.  No other substitutions or deviations.   I may have had the heat on the butter too low because it took twice the time to foam, settle, and brown (10 minutes).  Could not be happier with the result.  This pistachio halvah version is heads and shoulders above the standard  Rice Krispies Treat.",
+          "datePublished": "2025-06-25T08:02:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jocelyn Jenik"
+          },
+          "reviewBody": "Sure, I don't see why not.",
+          "datePublished": "2025-06-21T23:37:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Terri"
+          },
+          "reviewBody": "Can peanuts be substituted for the pistachios? I have a tree nut allergy",
+          "datePublished": "2025-06-15T16:05:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "louis"
+          },
+          "reviewBody": "@Marc g. I’m wondering if it’s the same as pistachio cream or pistachio spread? My grocery store has both, but not butter…",
+          "datePublished": "2025-05-28T18:46:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meribeth"
+          },
+          "reviewBody": "@louis Yes! I usually buy Italian pistachio paste. I look for one that has the prettiest green color and no added sugar.",
+          "datePublished": "2025-05-28T22:10:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AngelaR"
+          },
+          "reviewBody": "@Suz- I just asked my husband “who is this person who still has Rice Krispie treats around on day 3?” Mythical, no doubt.",
+          "datePublished": "2025-06-01T13:02:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meribeth"
+          },
+          "reviewBody": "@Marc g It’s like peanut butter, but it’s made with pistachios. Sometimes also called Pistachio paste or cream.",
+          "datePublished": "2025-05-28T22:11:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marc g"
+          },
+          "reviewBody": "Pistachio butter?",
+          "datePublished": "2025-05-28T14:34:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "denise"
+          },
+          "reviewBody": "I'm thinking a drizzle of bittersweet chocolate, and these could be dubbed Dubai-Krispy Treats.",
+          "datePublished": "2025-05-29T09:45:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lurlene"
+          },
+          "reviewBody": "So I'm going to try this, because pistachios--yes! But my favorite method is to take normal rice krispy treat mixture, spread out half in a buttered dish, sprinkle it with some chopped dark chocolate and place the dish in a 200 degree oven so the chocolate softens. Then bring the dish to a counter and use an offset spatula to spread the chocolate. Then press the remaining rice krispy mixture on top of the chocolate (using wet hands helps). Let cool completely. It's like an inside out candy bar.",
+          "datePublished": "2025-05-29T02:25:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sobremesa"
+          },
+          "reviewBody": "Can pistachio butter just be made by blending pistachios, as you would with almonds or peanuts?",
+          "datePublished": "2025-05-29T00:44:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "anne marie"
+          },
+          "reviewBody": "I have purchased pistachio butter (like peanut butter or almond butter) before, but for such a small amount, I would probably just make it at home with my food processor. I will report back once I have time to make these because for me, this sounds like a match made in heaven.",
+          "datePublished": "2025-05-28T23:29:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "French Creek Baker"
+          },
+          "reviewBody": "@SBa\nIn my experience the bags of puffed rice sold in Indian Stores are not crispy like the Rice Krispies cereal? The product I have seen would alter the texture and result in a different treat. Nothing wrong with that, same same but different.",
+          "datePublished": "2025-05-29T09:41:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy"
+          },
+          "reviewBody": "Very cute. But if it ain't broke, don't fix it.",
+          "datePublished": "2025-05-29T00:04:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suz"
+          },
+          "reviewBody": "I think it's funny that anyone would need to extend the shelf life of a krispy treat.",
+          "datePublished": "2025-05-29T19:10:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SBa"
+          },
+          "reviewBody": "You can get unsalted puffed rice in any Indian store. Do not need Rice Krispies for this. But otherwise, the recipe is interesting and shall definitely try it out.",
+          "datePublished": "2025-05-28T18:57:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "louis"
+          },
+          "reviewBody": "@anne marie Please keep us updated on how it works for this recipe. All the butters/creams/spreads I can find locally have sugar added (and a lot of other stuff). Thank you :)",
+          "datePublished": "2025-05-30T19:36:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristen Woodward"
+          },
+          "reviewBody": "Where have these been all my life?!  This is an amazingly simple recipe with a surprising flavor combo.  I used almond butter since I couldn't find pistachio butter.  I just read in the comments that others are using Italian pistachio paste.  If my next batch is any better I'm buying bigger pants.",
+          "datePublished": "2025-06-01T20:56:42.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026928-pistachio-halvah-rice-krispies-treats",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Lisa Donovan"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "What’s better than a pan full of freshly made, just-gooey-enough Rice Krispies treats? A core memory for many, it continues to be a fan favorite, whether a packaged gas station treat or a high-end bakery grab like this one. Perfectly balanced with an additional layer of texture from the pistachio and halvah, this recipe comes from Shilpa and Miro Uskokovic, the supertalented pastry chef duo that opened Hani’s Bakery + Café in New York’s East Village in 2024. Their use of tahini brings a level of sophistication, and offsets the sweet bite this snack can often have. There is not a thing that needs altering in this recipe, yet, in Rice Krispie treat tradition, it encourages a bit of playfulness for the cook to make it their own.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Pistachio Halvah Rice Krispies Treats",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/e5be439e-c13b-541a-b5e4-ae3b41380aa7#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/27/multimedia/01FD-EATrex-kbvz/01FD-EATrex-kbvz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Monica Pierini. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-05-29T03:50:52.447Z",
+          "datePublished": "2025-05-26T17:59:44.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-26T17:59:44.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/27/multimedia/01FD-EATrex-kbvz/01FD-EATrex-kbvz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/e5be439e-c13b-541a-b5e4-ae3b41380aa7#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/27/multimedia/01FD-EATrex-kbvz/01FD-EATrex-kbvz-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Monica Pierini. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-05-29T03:50:52.447Z",
+          "datePublished": "2025-05-26T17:59:44.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-26T17:59:44.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/27/multimedia/01FD-EATrex-kbvz/01FD-EATrex-kbvz-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/e5be439e-c13b-541a-b5e4-ae3b41380aa7#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/27/multimedia/01FD-EATrex-kbvz/01FD-EATrex-kbvz-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Monica Pierini. Prop Stylist: Sophia Eleni Pappas.",
+          "dateModified": "2025-05-29T03:50:52.447Z",
+          "datePublished": "2025-05-26T17:59:44.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-26T17:59:44.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/27/multimedia/01FD-EATrex-kbvz/01FD-EATrex-kbvz-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026928-pistachio-halvah-rice-krispies-treats"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-07-21T02:11:45.044Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}

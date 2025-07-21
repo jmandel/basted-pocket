@@ -1,0 +1,583 @@
+{
+  "id": "478fa33efb46e02f",
+  "original_url": "https://cooking.nytimes.com/recipes/1023287-vegan-potato-salad-with-tahini",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1023287-vegan-potato-salad-with-tahini",
+  "fetched_title": "Vegan Potato Salad With Tahini Recipe",
+  "main_text_content": "This robustly seasoned vegan potato salad is lively and earthy from a dressing of cumin, charred scallion and loads of tahini, which gives it a rich and creamy texture This is a good one to make a day before you want to serve it as the flavors get better as they sit Just be sure to let it come to room temperature so everything is at its brightest and most supple.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1023842-vegan-twice-baked-potatoes\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2023/02/17/multimedia/as-vegan-twice-baked-potatoes-fmcv/as-vegan-twice-baked-potatoes-fmcv-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2023/02/17/multimedia/as-vegan-twice-baked-potatoes-fmcv/as-vegan-twice-baked-potatoes-fmcv-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2023/02/17/multimedia/as-vegan-twice-baked-potatoes-fmcv/as-vegan-twice-baked-potatoes-fmcv-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2023/02/17/multimedia/as-vegan-twice-baked-potatoes-fmcv/as-vegan-twice-baked-potatoes-fmcv-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2023/02/17/multimedia/as-vegan-twice-baked-potatoes-fmcv/as-vegan-twice-baked-potatoes-fmcv-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2023/02/17/multimedia/as-vegan-twice-baked-potatoes-fmcv/as-vegan-twice-baked-potatoes-fmcv-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2023/02/17/multimedia/as-vegan-twice-baked-potatoes-fmcv/as-vegan-twice-baked-potatoes-fmcv-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2023/02/17/multimedia/as-vegan-twice-baked-potatoes-fmcv/as-vegan-twice-baked-potatoes-fmcv-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Vegan Twice-Baked Potatoes</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Ali Slagle</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2022/06/29/dining/24Apperex/24Apperex-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/478fa33efb46e02f/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/1fa590cf-2e12-5e0e-9220-7ebc2ed5548f",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1023287-vegan-potato-salad-with-tahini",
+        "@type": "WebPage",
+        "name": "Vegan Potato Salad With Tahini"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023287-vegan-potato-salad-with-tahini",
+      "name": "Vegan Potato Salad With Tahini",
+      "description": "This robustly seasoned vegan potato salad is lively and earthy from a dressing of cumin, charred scallion and loads of tahini, which gives it a rich and creamy texture. This is a good one to make a day before you want to serve it as the flavors get better as they sit. Just be sure to let it come to room temperature so everything is at its brightest and most supple.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/4570b4ce-e771-5e58-9076-d0b545fc867d#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/06/29/dining/24Apperex/24Apperex-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-06-24T15:34:57.443Z",
+          "datePublished": "2022-06-24T14:51:05.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-06-24T14:51:05.000Z",
+          "url": "https://static01.nyt.com/images/2022/06/29/dining/24Apperex/24Apperex-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/4570b4ce-e771-5e58-9076-d0b545fc867d#threeByTwoLargeAt2X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/06/29/dining/24Apperex/24Apperex-threeByTwoLargeAt2X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-06-24T15:34:57.443Z",
+          "datePublished": "2022-06-24T14:51:05.000Z",
+          "height": "3323",
+          "representativeOfPage": true,
+          "uploadDate": "2022-06-24T14:51:05.000Z",
+          "url": "https://static01.nyt.com/images/2022/06/29/dining/24Apperex/24Apperex-threeByTwoLargeAt2X.jpg",
+          "width": "4984"
+        },
+        {
+          "@id": "nyt://image/4570b4ce-e771-5e58-9076-d0b545fc867d#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/06/29/dining/24Apperex/24Apperex-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-06-24T15:34:57.443Z",
+          "datePublished": "2022-06-24T14:51:05.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-06-24T14:51:05.000Z",
+          "url": "https://static01.nyt.com/images/2022/06/29/dining/24Apperex/24Apperex-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT1H45M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "vegetables, side dish",
+      "keywords": "fourth of july, labor day, memorial day, potato, potato salad, scallion, tahini, vegan",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 611
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 230,
+        "unsaturatedFatContent": "15 grams",
+        "carbohydrateContent": "17 grams",
+        "cholesterolContent": null,
+        "fatContent": "18 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "4 grams",
+        "saturatedFatContent": "2 grams",
+        "sodiumContent": "300 milligrams",
+        "sugarContent": "2 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 3/4 pounds yellow potatoes, such as Yukon Gold, cut into 1-inch chunks",
+        "Salt and freshly ground black pepper",
+        "2 bunches scallions, trimmed",
+        "1/3 cup extra-virgin olive oil, plus more for drizzling",
+        "2 tablespoons freshly squeezed lemon juice, plus more as needed",
+        "1 to 2 garlic cloves, finely grated",
+        "1 teaspoon ground cumin",
+        "1/4 cup tahini",
+        "Ice water, as needed",
+        "1/2 cup soft herbs, such as cilantro, parsley, mint, dill or a combination"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place the potatoes in a large pot with enough salted water to cover by 1 inch. Bring to a boil over high heat and cook until potatoes are just tender, 10 to 15 minutes, depending on the kind of potato. Drain very well."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the broiler. Arrange 1 bunch scallions on a sheet pan. Thinly slice the other bunch, reserving the slices for serving."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Season the whole scallions in the pan with salt and pepper, and very lightly drizzle with olive oil. Broil until charred, tossing occasionally, for 3 to 7 minutes. Transfer to a cutting board to cool. Coarsely chop scallions and set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large bowl, whisk together lemon juice, garlic, cumin and a large pinch of salt. Let sit for 1 minute to mellow the garlic and dissolve the salt. Whisk in tahini, then gradually add ice water, 1 tablespoon at a time (about 3 to 6 tablespoons total), until the sauce thickens and is smooth enough to drizzle. The sauce can take 30 seconds to 1 minute to thicken so keep whisking; if it gets too thick, thin it down with a little more water. Taste and add more lemon juice and salt if needed."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Transfer hot potatoes and charred scallions to bowl with tahini dressing. Drizzle in the remaining 1/3 cup olive oil and toss until potatoes are well coated. Taste and add more salt and lemon juice if needed."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Let cool to room temperature for at least an hour before serving, or refrigerate for up to 24 hours. The potatoes will absorb the dressing as they sit. Just before serving, taste and add more salt or lemon juice if needed, and toss with the raw scallion slices and herbs."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2022-06-24T00:00:00.000Z",
+      "dateModified": "2022-06-29T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rsp"
+          },
+          "reviewBody": "If Tahini isn't readily available of course any potato salad with an oil/acid (lemon or vinegar)  dressing is vegan.",
+          "datePublished": "2025-07-19T15:31:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "john"
+          },
+          "reviewBody": "got totally devoured",
+          "datePublished": "2025-06-07T01:39:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Candace"
+          },
+          "reviewBody": "As much as I love cumin, I think it can be skipped in this recipe. Tahini, lemon and garlic are a gorgeous trio on their own.",
+          "datePublished": "2025-04-19T12:44:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jlborozan"
+          },
+          "reviewBody": "I’m not a purist and needed to empty out the fridge. I took the comments about it being boring and needing a crunch to heart, so added cucumber, radishes, red bell pepper, red kale, and arugula. And then I sautéed onion and a green bell pepper with some garlic and chili powder for some additional flavor. Only had fresh parsley. Tahini dressing was essentially as is but doubled to accommodate all the extra ingredients. Legit delicious and got a ton of compliments.",
+          "datePublished": "2024-08-05T18:00:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rachel"
+          },
+          "reviewBody": "Absolutely loved this.  The only thing I would add is heat.  Next time I'll add some jalapeños.",
+          "datePublished": "2024-07-10T13:10:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex V."
+          },
+          "reviewBody": "Very nice!\nI added 1+ cup of black-eyes peas (for a bit of extra proteins.) Was nice with dill or mint or cilantro.",
+          "datePublished": "2023-11-02T08:24:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KJA"
+          },
+          "reviewBody": "I made this one day ahead of when I planned to serve it. Before adding the second bunch of scallions, I soaked them in ice water to crispen them up to add crunch; celery is a nice addition too.  I scaled back on the final 1/3 cup oil in step 5. Seemed like a lot of oil. This salad is very flavorful! For those who said it was bland, if you're tasting the dressing as you add the lemon, salt and pepper it will be  seasoned to one's own taste. This is a delicious salad!",
+          "datePublished": "2023-09-23T12:48:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "wtchywmn9"
+          },
+          "reviewBody": "Perhaps coating the potatoes with oil will keep them from absorbing all of the dressing?",
+          "datePublished": "2025-07-20T16:01:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erin"
+          },
+          "reviewBody": "I like this potato salad. I chopped the charred scallions into one-inch pieces before adding them with the potatoes. I’m not sure why the oil is mixed in separately, but I just whisked it into the dressing, so I didn’t keep jostling the delicate potatoes around. I found I needed to add black pepper at the end for balance. Good flavor overall. I think something briny, like chopped olives or capers could be a nice addition in the future.",
+          "datePublished": "2023-08-10T23:41:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marty"
+          },
+          "reviewBody": "Should I use both the white and green parts of the scallions?",
+          "datePublished": "2023-06-30T15:48:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Juliet"
+          },
+          "reviewBody": "Why on earth does the water need to be ice water? Why not just normal, room temperature water?",
+          "datePublished": "2023-06-21T08:07:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Avigail"
+          },
+          "reviewBody": "super! i suggest doubling or tripling since it will go fast! I also used less olive oil. Delicious and doesn't go bad when sitting outside (unlike version with mayo and egg).",
+          "datePublished": "2023-05-18T18:35:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maya"
+          },
+          "reviewBody": "This is very tasty. I only had mint and it worked, but I think a mixture of herbs would be even better. I definitely didn't need all the olive oil it called for.",
+          "datePublished": "2022-09-12T20:54:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Avi"
+          },
+          "reviewBody": "I also found it needed a bit more water added to *liven* it. if it was bland more lemon, salt and pepper may have been in order :)",
+          "datePublished": "2023-05-18T17:14:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tess K"
+          },
+          "reviewBody": "Keep trying to find good vegan recipes for some family members. This was a fail. Bland and having been made a few hours ahead, dry.",
+          "datePublished": "2022-09-05T23:24:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "James B"
+          },
+          "reviewBody": "Made triple batches of this for both of my family reunions (I know...so much cooking). It was a big hit for both sides of the fam! Even better after a few days. Highly recommend.",
+          "datePublished": "2022-08-03T06:25:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrea"
+          },
+          "reviewBody": "I doubled the scallions as I think their charred flavor is what elevated this salad to another level.",
+          "datePublished": "2022-08-01T20:03:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kath B"
+          },
+          "reviewBody": "Hi Melissa:  You call for the potatoes to be cubed. But step one says whole unpeeled potatoes. Please advise. I want to cook this for the 4th. Thanks.",
+          "datePublished": "2022-06-24T21:48:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AnnabellaJ"
+          },
+          "reviewBody": "Glad to see Melissa providing vegan recipes!  In the past, many of her offerings were cheesy and gooey with dairy. Larger numbers of us can't digest it, even with the aid of lactose pills.  Brava!  Will try this one.",
+          "datePublished": "2022-06-25T15:39:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Krysten Chambrot, Associate Editor, NYT Cooking"
+          },
+          "reviewBody": "Hi, Kath! Thanks for flagging. The potatoes should be cubed, and we've adjusted the recipe to reflect that.",
+          "datePublished": "2022-06-29T14:21:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Davidcl"
+          },
+          "reviewBody": "When are the charred scallions added?  There's no mention of how they are utilized in the recipe, only their prep. I assume they're added to the dressing along with the cooked potatoes rather than at the end when the reserved raw scallions and herbs are added.",
+          "datePublished": "2022-06-26T15:44:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Swenbeck"
+          },
+          "reviewBody": "Yes, let this dish sit a day in the frig for a huge flavor boost. Thinly slice the uncharred scallions in ice water to curl them and then add them with freshly chopped dill before letting the dish sit for 24 hours. Double the charred scallion and consider adding them right before serving so they don’t get mushy.",
+          "datePublished": "2022-07-12T03:32:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "quaasam"
+          },
+          "reviewBody": "Very nice. Needs a lot of lemon.",
+          "datePublished": "2022-06-28T10:51:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "gale"
+          },
+          "reviewBody": "Step 5",
+          "datePublished": "2022-06-27T21:43:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Moveable Feast"
+          },
+          "reviewBody": "See Step 5!!! \"Transfer hot potatoes and charred scallions to bowl with tahini dressing.\"",
+          "datePublished": "2022-06-29T15:40:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mimi"
+          },
+          "reviewBody": "Riffing: I’ve made something similar to this but with roasted cauliflower and adding in roasted sliced lemons. I recommend trying out other veggies that call to you you. I was inspired by a side dish at Ox Restaurant in Portland, OR (great place btw). I’m going to do this again with cauliflower bc it’s so good — and less work than potatoes for me.",
+          "datePublished": "2022-07-05T22:31:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam"
+          },
+          "reviewBody": "This was delicious- made it exactly as directed. Definitely will be making again. I got one comment that some crunch would be nice; thinking maybe a little celery next time? Or any other vegan ideas?",
+          "datePublished": "2022-07-06T15:58:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laurie B."
+          },
+          "reviewBody": "Same question as Melissa - but making it soon!  Any wisdom?",
+          "datePublished": "2022-06-26T16:16:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KWarner"
+          },
+          "reviewBody": "Would this work with cauliflower florets for the potato avoidant?  Seems like it should but I'm wondering if anyone else has tried it.",
+          "datePublished": "2022-07-01T15:36:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca"
+          },
+          "reviewBody": "Pretty much made as is, except for the extra olive oil at the end. I had tiny golden potatoes that only needed to be cut in half. This might be a summer staple this year",
+          "datePublished": "2022-07-07T23:38:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michelle"
+          },
+          "reviewBody": "Add a bit of ancho chili powder to the dressing for some subtle heat.",
+          "datePublished": "2022-07-17T12:04:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "James B"
+          },
+          "reviewBody": "Made triple batches of this for both of my family reunions (I know...so much cooking). It was a big hit for both sides of the fam! Even better after a few days. Highly recommend.",
+          "datePublished": "2022-08-03T06:25:36.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1023287-vegan-potato-salad-with-tahini",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022,
+      "description": "This robustly seasoned vegan potato salad is lively and earthy from a dressing of cumin, charred scallion and loads of tahini, which gives it a rich and creamy texture. This is a good one to make a day before you want to serve it as the flavors get better as they sit. Just be sure to let it come to room temperature so everything is at its brightest and most supple.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Vegan Potato Salad With Tahini",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/4570b4ce-e771-5e58-9076-d0b545fc867d#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/06/29/dining/24Apperex/24Apperex-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-06-24T15:34:57.443Z",
+          "datePublished": "2022-06-24T14:51:05.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-06-24T14:51:05.000Z",
+          "url": "https://static01.nyt.com/images/2022/06/29/dining/24Apperex/24Apperex-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/4570b4ce-e771-5e58-9076-d0b545fc867d#threeByTwoLargeAt2X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/06/29/dining/24Apperex/24Apperex-threeByTwoLargeAt2X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-06-24T15:34:57.443Z",
+          "datePublished": "2022-06-24T14:51:05.000Z",
+          "height": "3323",
+          "representativeOfPage": true,
+          "uploadDate": "2022-06-24T14:51:05.000Z",
+          "url": "https://static01.nyt.com/images/2022/06/29/dining/24Apperex/24Apperex-threeByTwoLargeAt2X.jpg",
+          "width": "4984"
+        },
+        {
+          "@id": "nyt://image/4570b4ce-e771-5e58-9076-d0b545fc867d#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/06/29/dining/24Apperex/24Apperex-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2022-06-24T15:34:57.443Z",
+          "datePublished": "2022-06-24T14:51:05.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-06-24T14:51:05.000Z",
+          "url": "https://static01.nyt.com/images/2022/06/29/dining/24Apperex/24Apperex-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023287-vegan-potato-salad-with-tahini"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-07-21T02:11:37.492Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}

@@ -1,0 +1,578 @@
+{
+  "id": "cd743a78f5f3e5c8",
+  "original_url": "https://cooking.nytimes.com/recipes/271-blueberry-polenta-upside-down-cake",
+  "canonical_url": "https://cooking.nytimes.com/recipes/271-blueberry-polenta-upside-down-cake",
+  "fetched_title": "Blueberry Polenta Upside-Down Cake Recipe",
+  "main_text_content": "This light but satisfying fruit and cornmeal upside-down cake is a dish that can be shopped for at lunch and cooked without too much fanfare after work.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025576-blueberry-spoon-cake\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2024/06/12/multimedia/12berry-cakerex-mqct/cdb-berry-cakerex-mqct-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2024/06/12/multimedia/12berry-cakerex-mqct/cdb-berry-cakerex-mqct-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/06/12/multimedia/12berry-cakerex-mqct/cdb-berry-cakerex-mqct-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/06/12/multimedia/12berry-cakerex-mqct/cdb-berry-cakerex-mqct-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/06/12/multimedia/12berry-cakerex-mqct/cdb-berry-cakerex-mqct-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/06/12/multimedia/12berry-cakerex-mqct/cdb-berry-cakerex-mqct-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/06/12/multimedia/12berry-cakerex-mqct/cdb-berry-cakerex-mqct-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/06/12/multimedia/12berry-cakerex-mqct/cdb-berry-cakerex-mqct-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Blueberry Spoon Cake</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Clare de Boer</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/05/14/multimedia/Polenta-And-Orange-Upside-Down-Cake-fvpl/Polenta-And-Orange-Upside-Down-Cake-fvpl-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/cd743a78f5f3e5c8/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/d2a13c23-1d63-51e0-b7c9-2bc9d17a6506",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/271-blueberry-polenta-upside-down-cake",
+        "@type": "WebPage",
+        "name": "Blueberry Polenta Upside-Down Cake"
+      },
+      "url": "https://cooking.nytimes.com/recipes/271-blueberry-polenta-upside-down-cake",
+      "name": "Blueberry Polenta Upside-Down Cake",
+      "description": "This light but satisfying fruit and cornmeal upside-down cake is a dish that can be shopped for at lunch and cooked without too much fanfare after work.",
+      "author": {
+        "@type": "Person",
+        "name": "Nigella Lawson"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/81bf983e-e5f3-513f-a1a4-514997c5346b#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/14/multimedia/Polenta-And-Orange-Upside-Down-Cake-fvpl/Polenta-And-Orange-Upside-Down-Cake-fvpl-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-05-12T16:06:15.963Z",
+          "datePublished": "2025-05-12T16:06:15.963Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-12T16:06:15.963Z",
+          "url": "https://static01.nyt.com/images/2025/05/14/multimedia/Polenta-And-Orange-Upside-Down-Cake-fvpl/Polenta-And-Orange-Upside-Down-Cake-fvpl-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/81bf983e-e5f3-513f-a1a4-514997c5346b#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/14/multimedia/Polenta-And-Orange-Upside-Down-Cake-fvpl/Polenta-And-Orange-Upside-Down-Cake-fvpl-googleFourByThree.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-05-12T16:06:15.963Z",
+          "datePublished": "2025-05-12T16:06:15.963Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-12T16:06:15.963Z",
+          "url": "https://static01.nyt.com/images/2025/05/14/multimedia/Polenta-And-Orange-Upside-Down-Cake-fvpl/Polenta-And-Orange-Upside-Down-Cake-fvpl-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/81bf983e-e5f3-513f-a1a4-514997c5346b#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/14/multimedia/Polenta-And-Orange-Upside-Down-Cake-fvpl/Polenta-And-Orange-Upside-Down-Cake-fvpl-mediumSquareAt3X.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-05-12T16:06:15.963Z",
+          "datePublished": "2025-05-12T16:06:15.963Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-12T16:06:15.963Z",
+          "url": "https://static01.nyt.com/images/2025/05/14/multimedia/Polenta-And-Orange-Upside-Down-Cake-fvpl/Polenta-And-Orange-Upside-Down-Cake-fvpl-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT1H",
+      "recipeYield": "One 9-inch square cake (9 to 12 servings)",
+      "recipeCuisine": "",
+      "recipeCategory": "easy, quick, cakes, dessert",
+      "keywords": "blueberry, orange juice, orange zest, polenta, dairy-free, vegetarian, fourth of july, mother’s day, spring, summer",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 1328
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 327,
+        "unsaturatedFatContent": "12 grams",
+        "carbohydrateContent": "46 grams",
+        "cholesterolContent": null,
+        "fatContent": "15 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "3 grams",
+        "saturatedFatContent": "2 grams",
+        "sodiumContent": "171 milligrams",
+        "sugarContent": "29 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "Vegetable oil for greasing pan",
+        "1 1/3 cup sugar, divided",
+        "3 cups blueberries",
+        "2 large eggs",
+        "Finely grated zest of 1 large orange",
+        "2/3 cup orange juice",
+        "2/3 cup olive oil (not extra virgin) or sunflower oil",
+        "1/2 cup regular or instant polenta",
+        "1 1/4 cups all-purpose flour",
+        "2 teaspoons baking powder",
+        "1/2 teaspoon salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 350 degrees. Grease and line base and sides of a 9-inch-square cake pan with baking parchment, and grease the parchment. Sprinkle 1/3 cup sugar over base of pan, and cover evenly with blueberries."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large mixing bowl, combine eggs, 1 cup sugar and orange zest. Whisk until pale and thick. Add orange juice and oil, and whisk until blended. In a separate bowl, whisk together polenta, flour, baking powder and salt. Add flour mixture to egg mixture, whisking until smooth. Pour into prepared pan."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake for about 45 to 55 minutes, until golden brown and springy to the touch, and a toothpick inserted near the center comes out clean. Cool cake on a rack for about 5 minutes. Carefully invert cake onto a serving plate, and slowly peel off parchment paper. Serve warm or at room temperature."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2003-11-26T00:00:00.000Z",
+      "dateModified": "2025-05-12T16:07:16.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Will"
+          },
+          "reviewBody": "If you have a finer ground polenta it may work better—the Bob’s Red Mill I used created a bit of a tough texture. I liked it but will definitely use a finer ground one next time. Good recipe. Very much enjoyed it. I did use EVOO because that is all I use around the kitchen and it came out just fine, very nice flavor.",
+          "datePublished": "2025-07-20T23:31:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie"
+          },
+          "reviewBody": "Not a vegan and not on a gluten free diet. I am just a forgetful baker who used up the flour in my sourdough. Guests on the way, so the almond flour went in. The bake time was longer by about 10 min. I cooled for 5 min before the scary and successful flip. After sitting the cake thru the main meal, I made lemon whipped cream to cover the ugly top. The cake is surprisingly like a blueberry tres leches marinated cake and slightly grainy. The guests were happy.",
+          "datePublished": "2025-07-20T17:37:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robert Fenerty"
+          },
+          "reviewBody": "So tasty, especially with fresh Maine blueberries. This is one of those recipes where the method and the ingredients far surpass the limits of the cook (me). My only mod was to use the orange pulp as I did not have a juicer in this AirBnB.",
+          "datePublished": "2025-07-20T20:50:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JessieC"
+          },
+          "reviewBody": "Required a solid 30 minutes additional bake time on top of recommendation. Perfectly fine, perfectly blue, perfectly delicious.",
+          "datePublished": "2025-07-20T19:39:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy Bernardy"
+          },
+          "reviewBody": "Can I substitute semolina for the polenta?",
+          "datePublished": "2025-07-20T16:16:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carola"
+          },
+          "reviewBody": "Made it as written, using sunflower oil, and frozen blueberries, with the addition of three apricots I needed to get rid of. Good recipe, although next time I think I’ll substitute melted butter for the oil.",
+          "datePublished": "2025-07-20T16:16:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Charles Davis"
+          },
+          "reviewBody": "I had a comedy of errors on this recipe, but it still turned out surprisingly delicious.  I couldn't find my square glass pan; later, I found it hiding in the back of one of those slender cabinets the kitchen designer had begged me not to install. I misread three ingredients: 1/3 cup too much oil, 1 cup less of blueberries, and I honestly couldn't remember if I added 1/2 or 1 cup of sugar.  Anytime an ingredient includes the word 'divided', it throws me off. However, it was outstanding!",
+          "datePublished": "2025-07-20T13:59:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deb V"
+          },
+          "reviewBody": "Put a layer of white peaches, then blueberries on bottom of 8\" spring form pan. Used Meyer lemon zest instead of orange, and combo of lemon and orange juice and a quarter teaspoon of fior di sicilia. Delish.",
+          "datePublished": "2025-07-20T04:41:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Caryn"
+          },
+          "reviewBody": "does anyone have experience subbing the blueberries, etc. with canned pie filling?",
+          "datePublished": "2025-07-20T02:31:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ZDiggs"
+          },
+          "reviewBody": "@Lily my favorite upside down cake recipes always seem to call for buttermilk, so that’s what I plan on using.",
+          "datePublished": "2025-07-20T02:43:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lily"
+          },
+          "reviewBody": "Can we omit the orange juice?  Do we need to replace with another liquid and if so what?",
+          "datePublished": "2025-07-20T00:42:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "joy"
+          },
+          "reviewBody": "I have baked a similar type cake with stone fruit - so this time I tried sugar plums instead of blueberries. I also mixed in a 1/4 tsp of 5 spice powder in with the sugar in the bottom where the fruit was. That worked. It was a nice warm spice. The sugar plums however were way too ripe and juicy. Nice time I'll add a bit of tapioca or corn starch into the sugar if the fruit is too juicy.",
+          "datePublished": "2025-07-20T01:04:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Silicon Valley Chicken Farmer"
+          },
+          "reviewBody": "I just wash rhubarb, cut it into chunks (raw) and freeze. Then I use it like fresh. @melinda",
+          "datePublished": "2025-07-19T18:45:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joy"
+          },
+          "reviewBody": "It can have a strong/robust taste and overpower everything else. The reg olive oil is less 'olive-y'.",
+          "datePublished": "2025-07-20T01:05:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ann"
+          },
+          "reviewBody": "Why not use extra virgin olive oil?!?\nThat’s all I ever buy in Italy and ship home. We don’t fry anything in it but use it for everything else.",
+          "datePublished": "2025-07-19T19:59:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy"
+          },
+          "reviewBody": "@Elise  Masa Harina is corn that is processed by soaking the kernels in an alkaline mixture, often lime. It substantially changes the flavor profile.",
+          "datePublished": "2025-07-20T16:10:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elise"
+          },
+          "reviewBody": "Has anyone tried making this with masa harina?",
+          "datePublished": "2025-07-19T19:00:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kelly"
+          },
+          "reviewBody": "You can use an EVOO mixed with a neutral oil to dilute the flavor of the EVOO. Do NOT use all EVOO, I made a mistake like that when I was new to baking loo",
+          "datePublished": "2025-07-19T17:38:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Coumarianos"
+          },
+          "reviewBody": "I was determined to use what I had. So I substituted frozen blueberries, butter and grapeseed oil, and whole wheat ffour and corn flour. I cut the formula in half and used a small, round cast iron pan because that's all I had. I also forgot the wax paper, and probably overcooked it given the halved formula. And it still turned out very well. This is a forgiving, hard-to-screw-up formula/recipe.",
+          "datePublished": "2017-10-24T20:02:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy"
+          },
+          "reviewBody": "Why do you stipulate olive oil, not Virgin olive oil for this recipe?",
+          "datePublished": "2017-10-24T20:18:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandra"
+          },
+          "reviewBody": "Cornmeal and frozen blueberries (thawed, slightly drained) worked perfectly for me. Normally I prefer stoneground cornmeal but I tried it both ways, and here, regular/fine-ground cornmeal is better because the stoneground stayed a bit undercooked/crunchy. Not bad but not ideal!",
+          "datePublished": "2017-10-24T20:07:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "I substituted the zest of 2 lemons for the orange zest, and also added a sprinkling of lemon zest to the blueberries themselves.  This is insanely delicious. I disagree with reviewers who find it too sweet, I would say it's not very sweet at all, perfect for breakfast or tea. Fine-ground cornmeal works best; stone-ground will leave a few crunchy bits. I've used several different kinds of oil, I honestly don't think it matters much. Finally, this cake is best the next day.",
+          "datePublished": "2017-10-24T21:10:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sean Crawford"
+          },
+          "reviewBody": "She stipulates olive oil, not virgin olive oil, because as the dish is sweet instead of savory, she doesn't want it to taste of olives -- she just wants the wonderful character of the oil itself.",
+          "datePublished": "2017-10-24T20:01:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Donna"
+          },
+          "reviewBody": "I am guessing that EVO would be too fruity and change the flavor of the cake.",
+          "datePublished": "2017-10-24T20:02:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "Because EVO is the first press so has the most olive flavor... which won't pair well in a cake.  When you get into further pressings, you lose the strong olive flavor.",
+          "datePublished": "2017-10-24T20:15:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "Super easy, super good, super GONE!!!! Also plan to try the recipe with pineapple (duh!), cherries, plums, apples, rhubarb, or other types of fruit.",
+          "datePublished": "2017-10-24T20:07:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "Because extra virgin olive oil is too good for baking--it's a waste of money.",
+          "datePublished": "2017-10-24T20:18:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "EEVO is too \"Good\" for baking, you won't get the subtle taste differences. Just a good, decent, more affordable olive oil is used for these sorts of applications.",
+          "datePublished": "2017-10-24T20:08:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Geoffry"
+          },
+          "reviewBody": "A perfect quick recipe for an impromptu dessert. I substituted all-purpose flour for chickpea flour, applesauce instead of oil, and brown sugar Truvia for a healthier and slightly more savory twist. And added minced ginger! Definitely will keep experimenting with a range of fruit toppings.",
+          "datePublished": "2017-10-24T19:56:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Weinssh"
+          },
+          "reviewBody": "Used fresh blueberries-- did not add sugar to base of pan.  Went with 1/2 orange zest - Bertolli \" light\" olive oil  and good ole' Quaker yellow corn meal.  Since I do a lot of baking for get togethers, my close friends are honest -- and they raved   There were a lot of desserts-- about 25 people -- and while I knew my cookies would go--this all went  too. A keeper. ( btw, I could not find my  9x9 pan -- so used 8x8 w/2\" depth -- perfect)",
+          "datePublished": "2017-10-24T21:22:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nathan Brasfield"
+          },
+          "reviewBody": "To make a gluten-free and vegan version, I simply added more oil to compensate for the missing eggs (which may not even be necessary, but) and used Cup for Cup gluten-free flour. I was going to be happy if it was merely edible, but it turned out *perfectly.* I used a large cast iron skillet and it allowed the blueberries to spread out very evenly and it presents well.",
+          "datePublished": "2017-10-01T16:19:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pam"
+          },
+          "reviewBody": "Made this with fresh blackberries using the zest of one small lemon in place of the zest of a large orange. Used Bob's Red Mill Polenta (aka grits) for the cornmeal. At first blush, I didn't love it—thought maybe the cornmeal was too gritty or something else not quite right—but I put it in a tight container in the fridge and it tasted wonderful the next day. And the next, actually. A new favorite.",
+          "datePublished": "2017-10-24T20:59:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrea"
+          },
+          "reviewBody": "Used a cast iron skillet with no parchment as suggested below. My glass pan was too small and based on some of the comments, didn't want the fruit to be runny. It came out perfect, baked for 50 minutes. Used lemon zest instead of orange, and I use an oil that is combination of coconut and canola. Guests loved it, no one thought it was too sweet. I had the leftovers for breakfast the next day with plain Greek yogurt to cut the sweetness. Will make again.",
+          "datePublished": "2017-10-24T21:08:08.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2003
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/271-blueberry-polenta-upside-down-cake",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Nigella Lawson"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2003,
+      "description": "This light but satisfying fruit and cornmeal upside-down cake is a dish that can be shopped for at lunch and cooked without too much fanfare after work.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Blueberry Polenta Upside-Down Cake",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/81bf983e-e5f3-513f-a1a4-514997c5346b#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/14/multimedia/Polenta-And-Orange-Upside-Down-Cake-fvpl/Polenta-And-Orange-Upside-Down-Cake-fvpl-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-05-12T16:06:15.963Z",
+          "datePublished": "2025-05-12T16:06:15.963Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-12T16:06:15.963Z",
+          "url": "https://static01.nyt.com/images/2025/05/14/multimedia/Polenta-And-Orange-Upside-Down-Cake-fvpl/Polenta-And-Orange-Upside-Down-Cake-fvpl-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/81bf983e-e5f3-513f-a1a4-514997c5346b#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/14/multimedia/Polenta-And-Orange-Upside-Down-Cake-fvpl/Polenta-And-Orange-Upside-Down-Cake-fvpl-googleFourByThree.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-05-12T16:06:15.963Z",
+          "datePublished": "2025-05-12T16:06:15.963Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-12T16:06:15.963Z",
+          "url": "https://static01.nyt.com/images/2025/05/14/multimedia/Polenta-And-Orange-Upside-Down-Cake-fvpl/Polenta-And-Orange-Upside-Down-Cake-fvpl-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/81bf983e-e5f3-513f-a1a4-514997c5346b#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/14/multimedia/Polenta-And-Orange-Upside-Down-Cake-fvpl/Polenta-And-Orange-Upside-Down-Cake-fvpl-mediumSquareAt3X.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-05-12T16:06:15.963Z",
+          "datePublished": "2025-05-12T16:06:15.963Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-12T16:06:15.963Z",
+          "url": "https://static01.nyt.com/images/2025/05/14/multimedia/Polenta-And-Orange-Upside-Down-Cake-fvpl/Polenta-And-Orange-Upside-Down-Cake-fvpl-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/271-blueberry-polenta-upside-down-cake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-07-21T02:11:38.509Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}

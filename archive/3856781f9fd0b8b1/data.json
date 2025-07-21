@@ -1,0 +1,573 @@
+{
+  "id": "3856781f9fd0b8b1",
+  "original_url": "https://cooking.nytimes.com/recipes/1026734-one-pot-miso-turmeric-salmon-and-coconut-rice",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026734-one-pot-miso-turmeric-salmon-and-coconut-rice",
+  "fetched_title": "One-Pot Miso-Turmeric Salmon and Coconut Rice Recipe",
+  "main_text_content": "In this layered spinach, salmon and rice dish, a bed of greens layered on simmering coconut rice acts as a steamer basket for the fish nestled on top, allowing it to cook gently The rice starts cooking while easy-to-eat salmon pieces are coated with savory miso and colorful turmeric A bit of lime balances the rich flavors",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025510-sticky-miso-salmon-bowl\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2024/06/21/multimedia/ab-sticky-miso-citrus-broiled-salmon-bowlrex/SSe:-Panko-crusted-pork-with-tahini-lime-slawrex-qwlh-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2024/06/21/multimedia/ab-sticky-miso-citrus-broiled-salmon-bowlrex/SSe:-Panko-crusted-pork-with-tahini-lime-slawrex-qwlh-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/06/21/multimedia/ab-sticky-miso-citrus-broiled-salmon-bowlrex/SSe:-Panko-crusted-pork-with-tahini-lime-slawrex-qwlh-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/06/21/multimedia/ab-sticky-miso-citrus-broiled-salmon-bowlrex/SSe:-Panko-crusted-pork-with-tahini-lime-slawrex-qwlh-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/06/21/multimedia/ab-sticky-miso-citrus-broiled-salmon-bowlrex/SSe:-Panko-crusted-pork-with-tahini-lime-slawrex-qwlh-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/06/21/multimedia/ab-sticky-miso-citrus-broiled-salmon-bowlrex/SSe:-Panko-crusted-pork-with-tahini-lime-slawrex-qwlh-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/06/21/multimedia/ab-sticky-miso-citrus-broiled-salmon-bowlrex/SSe:-Panko-crusted-pork-with-tahini-lime-slawrex-qwlh-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/06/21/multimedia/ab-sticky-miso-citrus-broiled-salmon-bowlrex/SSe:-Panko-crusted-pork-with-tahini-lime-slawrex-qwlh-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Sticky Miso Salmon Bowl</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Andy Baraghani</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/05/14/multimedia/yf-one-pot-salmon-and-rice-jfkt/yf-one-pot-salmon-and-rice-jfkt-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/3856781f9fd0b8b1/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/be2c9e45-13ff-5ff3-b5b5-1cbb30c588c0",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026734-one-pot-miso-turmeric-salmon-and-coconut-rice",
+        "@type": "WebPage",
+        "name": "One-Pot Miso-Turmeric Salmon and Coconut Rice"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026734-one-pot-miso-turmeric-salmon-and-coconut-rice",
+      "name": "One-Pot Miso-Turmeric Salmon and Coconut Rice",
+      "description": "In this layered spinach, salmon and rice dish, a bed of greens layered on simmering coconut rice acts as a steamer basket for the fish nestled on top, allowing it to cook gently. The rice starts cooking while easy-to-eat salmon pieces are coated with savory miso and colorful turmeric. A bit of lime balances the rich flavors. It’s a recipe to play with, depending on whim and what you’ve got on hand: Swap the spinach for chopped chard or kale; stir in preserved lemon for brightness or sliced ginger for a warming kick; or serve with fresh avocado or radish slices.",
+      "author": {
+        "@type": "Person",
+        "name": "Yasmin Fahr"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/d7937fd9-7f18-5b00-95b8-d9087e55a691#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/14/multimedia/yf-one-pot-salmon-and-rice-jfkt/yf-one-pot-salmon-and-rice-jfkt-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-05-14T17:19:44.935Z",
+          "datePublished": "2025-05-14T17:19:44.935Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-14T17:19:44.935Z",
+          "url": "https://static01.nyt.com/images/2025/05/14/multimedia/yf-one-pot-salmon-and-rice-jfkt/yf-one-pot-salmon-and-rice-jfkt-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/d7937fd9-7f18-5b00-95b8-d9087e55a691#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/14/multimedia/yf-one-pot-salmon-and-rice-jfkt/yf-one-pot-salmon-and-rice-jfkt-googleFourByThree.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-05-14T17:19:44.935Z",
+          "datePublished": "2025-05-14T17:19:44.935Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-14T17:19:44.935Z",
+          "url": "https://static01.nyt.com/images/2025/05/14/multimedia/yf-one-pot-salmon-and-rice-jfkt/yf-one-pot-salmon-and-rice-jfkt-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/d7937fd9-7f18-5b00-95b8-d9087e55a691#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/14/multimedia/yf-one-pot-salmon-and-rice-jfkt/yf-one-pot-salmon-and-rice-jfkt-mediumSquareAt3X.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-05-14T17:19:44.935Z",
+          "datePublished": "2025-05-14T17:19:44.935Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-14T17:19:44.935Z",
+          "url": "https://static01.nyt.com/images/2025/05/14/multimedia/yf-one-pot-salmon-and-rice-jfkt/yf-one-pot-salmon-and-rice-jfkt-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, quick, weeknight, grains and rice, one pot, seafood, main course",
+      "keywords": "coconut milk, dutch oven, ground turmeric, jasmine rice, miso, salmon fillet, spinach, stovetop, dairy-free, healthy",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 1487
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 976,
+        "unsaturatedFatContent": "18 grams",
+        "carbohydrateContent": "85 grams",
+        "cholesterolContent": null,
+        "fatContent": "50 grams",
+        "fiberContent": "4 grams",
+        "proteinContent": "47 grams",
+        "saturatedFatContent": "26 grams",
+        "sodiumContent": "1073 milligrams",
+        "sugarContent": "1 gram",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 cups white jasmine rice",
+        "1 (15-ounce) can full-fat coconut milk",
+        "Salt and pepper",
+        "4 scallions, light white and green parts thinly sliced",
+        "2 tablespoons white miso paste",
+        "2 tablespoons soy sauce",
+        "1 tablespoon olive oil",
+        "1 teaspoon ground turmeric",
+        "1 1/2 pounds skinless salmon fillets, cut into 2- to 3-inch pieces ",
+        "5 packed cups/5 ounces baby spinach",
+        "1 lime, quartered ",
+        "Cilantro leaves (optional), for garnish"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large Dutch oven or other large heavy pot with a tight-fitting lid, combine the rice, coconut milk and 2 cups of water; season with 1 teaspoon salt. Bring to a boil, covered, over high."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, in a medium bowl, combine the scallions with the miso, soy sauce, olive oil, turmeric and a few grinds of pepper to form a chunky paste. Add the salmon; toss to coat."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When the rice starts to boil, reduce the heat to medium-low, adjusting it as needed to maintain a simmer. Stir to make sure nothing is sticking on the bottom."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Layer the spinach on top of the rice. Squeeze 2 lime quarters over the spinach. Nestle the salmon pieces on top in an even layer, scraping in any scallions remaining in the bowl. Cover and cook until the salmon is just cooked through, breaking apart the thickest piece to check, 12 to 16 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Squeeze the remaining lime quarters over the salmon. Top with cilantro, if using. Scoop into bowls or plates to serve."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-05-15T00:00:00.000Z",
+      "dateModified": "2025-05-15T18:35:32.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie and Torr"
+          },
+          "reviewBody": "Loved the flavors but it didn't work well as a one-pot meal. We used a Le Creuset Dutch oven and the rice stuck to the bottom and the salmon wasn't cooked all the way through. We remedied this by adding the miso glaze to the salmon and grilling it instead. Made the rice in the stove by itself with the spinach and it came out great. Made this three times already.",
+          "datePublished": "2025-07-18T23:38:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nicole C"
+          },
+          "reviewBody": "Read through the comments because we had leftover rice and wanted to see if anyone cooked it differently. We added coconut milk to reheat the rice in the oven and cooked the salmon and spinach in a pan on the stove. Added ginger, garlic, green chilies and subbed shallot for scallions and tamari for soy sauce for preference. Added a touch too much salt to marinade forgetting the the miso and tamari is salty. This was fantastic, quick and easy to make. It will go on rotation!",
+          "datePublished": "2025-07-18T01:32:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gregg"
+          },
+          "reviewBody": ". . . and I'll remove the word \"turmeric\" from the title of the recipe. ;-)",
+          "datePublished": "2025-07-17T19:06:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gregg"
+          },
+          "reviewBody": "I loved the simplicity, but the amount of turmeric was way too much for my palate. The next time I make it, I'll reduce it to 1/4 tsp of turmeric.",
+          "datePublished": "2025-07-16T15:54:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "OnlyInNY"
+          },
+          "reviewBody": "7.14.25 1 c water, used Sesame Oil, added ginger and garlic......the rice was getting too clumpy, so I added the additional cup of water.  Ginger and garlic are key here.\n\nNo true sharp knife, so could not cut the skin off of the $almon (which came from the Faroe Islands. ) Lawd.  \n\nMade a spinach/kale mix sep.  \n\nOpening the lid, now.....omg, it's delicious! The skin comes right off.  I DID toss a handful of unsweetened coconut and a splash of lime juice.  So. Good.",
+          "datePublished": "2025-07-15T01:40:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jaime"
+          },
+          "reviewBody": "For 6 people, I bought 2 lbs salmon. Should I figure 1.5x the entire recipe, including the rice?",
+          "datePublished": "2025-07-11T20:22:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex R"
+          },
+          "reviewBody": "What worked best for me: Let the rice simmer for 10 minutes, then add salmon and cook for 8 minutes, then add spinach cook for 5ish minutes (until spinach is wilted) then check salmon for doneness. If using a good nonstick pan don’t stir the rice and you’ll get some good crispy rice near the bottom. Spinach really cooks down so can add more than recipe calls for. Top with peanuts alongside the cilantro.",
+          "datePublished": "2025-07-10T15:39:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JC"
+          },
+          "reviewBody": "I love this recipe, but it's a tad bland. If you like your food a bit more punchy, double the scallions and add some ginger/lemon grass.",
+          "datePublished": "2025-07-06T19:47:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "The Best Cook Ever"
+          },
+          "reviewBody": "THIS IS NOT A ONE POT MEAL. VERY MISLEADING. MY KIDS ARE UPSET.",
+          "datePublished": "2025-07-04T22:18:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "João"
+          },
+          "reviewBody": "Made it in Rice Cooker. \nFor those interested here’s what I did: \n(probably the expected but still…)\n\n1. rinsed 2 rice cooker cups of rice and added to the pot\n2. followed the rice cooker water line, added salt and did half coconut milk / half water \n3. mixed and then layered the spinach on top\n4. put the salmon already mixed with the paste on top\n5. sprinkled some tiny bits of the paste around the rice and spinach\n6. pressed start on the white rice setting on the rice cooker, but you can use regular one as well.\n7. enjoyed the meal",
+          "datePublished": "2025-07-02T19:44:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barb Harris"
+          },
+          "reviewBody": "It was fine. Didn’t have a ton of flavor. I’d amp up all the seasonings. Oh and I used a full 10 oz of spinach and it was perfect for 4 adults.",
+          "datePublished": "2025-07-02T04:38:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "João"
+          },
+          "reviewBody": "Made it all at once in the rice cooker and…\n\noh, my, god. delicious!",
+          "datePublished": "2025-07-02T11:19:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "smilespreder"
+          },
+          "reviewBody": "I’d lessens the rice to 1.5 cups and add fresh grated ginger to the miso mix",
+          "datePublished": "2025-06-29T22:01:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Could use some tweaking"
+          },
+          "reviewBody": "The recipe was easy to follow and the flavors on the salmon   coconut were nice. Definitely felt like it could use some ginger slivers, or more turmeric. More of something. My rice stuck to the bottom and got a little bit mushy, but the salmon did cook through in the promised 16 minutes. I think full fat coconut milk felt a little too decadent for me too. I might try it again and use a lighter coconut milk   stir early on to make sure the rice doesn’t stick.",
+          "datePublished": "2025-06-28T22:26:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tammy"
+          },
+          "reviewBody": "A hit with my picky mother and husband. Loved the crispy rice at the bottom.",
+          "datePublished": "2025-06-27T14:09:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Wonderful"
+          },
+          "reviewBody": "I have made this twice and love it. I would recommend grating a tablespoon of ginger and garlic into the rice. As others have mentioned, it takes longer to cook unless you like your salmon medium rare. Crispy bits of rice on the bottom an extra treat.",
+          "datePublished": "2025-06-24T23:29:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Felicia Brown"
+          },
+          "reviewBody": "@Chris I highly recommend soaking the rice for at least an hour before you cook it, which will soften it, allowing it to cook quicker, but even then I find you need at least 20-25 minutes to cook rice! It then has to stand off the heat for 5-10 minutes, so I would add the salmon after rice has been cooking for about 10-15 mins.",
+          "datePublished": "2025-05-17T23:34:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julia"
+          },
+          "reviewBody": "@Chris the rice has a head start while it comes to a boil and you layer the spinach. Total rice cooking time is longer than the fish cooking time by about 5 minutes or so. My concern was the opposite. The fish might be overcooked at 16 minutes. But I’ll just add it a minute or two later.",
+          "datePublished": "2025-05-17T13:58:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "stefanie"
+          },
+          "reviewBody": "I made this mostly per the recipe. Replaced the olive oil with toasted sesame and the spinach with some other firm greens (mustard?). WOW, delicious. You will not regret making this one. Adding it to favorites.",
+          "datePublished": "2025-05-17T02:41:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "E"
+          },
+          "reviewBody": "@Try it\nHi, I cooked the l rice in a rice cooker. When the rice had about 10 minutes to go, I cooked the freshly washed spinach and salmon in a pan over medium heat covered, stirring occasionally, for about 10 minutes. (No need to coat the sauté pan with oil because the spinach and marinated salmon release liquid.) It turned out well. I added ginger to the marinade, used one less tablespoon soy sauce, and used sesame oil instead of olive oil.",
+          "datePublished": "2025-05-21T01:40:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Try it"
+          },
+          "reviewBody": "@No rice Hi there, I think it would be great if you tried it and reported back to the rest of us :) \n\nLet us know how it works out",
+          "datePublished": "2025-05-17T21:16:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "In Virginia"
+          },
+          "reviewBody": "The flavors seem delightful and the technique handy. I plan to try it, but with a lot more spinach (5oz for 4 people is measly) and a lot less rice (2 uncooked cups of rice yields 6 to 8 servings)",
+          "datePublished": "2025-05-17T00:15:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "textwoman"
+          },
+          "reviewBody": "Fantastic recipe that is going into our rotation. All the right notes for a simple Asian dinner. Recipe should make it clear that spinach and salmon go into the pot immediately after rice comes to a boil and you give it a stir. I lowered temp when spinach and fish added. Thank you!!",
+          "datePublished": "2025-05-17T23:02:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Millie de Olio"
+          },
+          "reviewBody": "I followed the recipe but substituted the olive oil with sesame oil as someone recommended, but found the dish as a whole, \"meh\". The salmon was very good, the marinade was quite good, but the rice and spinach were bland. \nI will try it again, but I will add only 1 cup of water since the spinach releases quite a bit of liquid and the rice turned out mushy,  a handful of unsweetened coconut flakes to kick up the coconut flavor, and definitely some garlic and ginger.",
+          "datePublished": "2025-05-19T02:33:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris"
+          },
+          "reviewBody": "I’m not sure how this was supposed to work? 16 minutes is not enough time to cook the rice.",
+          "datePublished": "2025-05-16T22:57:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kim"
+          },
+          "reviewBody": "Any tips for making with brown rice or gaba rice?",
+          "datePublished": "2025-05-17T15:58:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KCBW"
+          },
+          "reviewBody": "The directions are strange.  I cooked the rice for 10 minutes, then added spinach and salmon to cook another 12-15 minutes.  I don’t like overdone Salmon and this worked well.  However, next time, I will only add the spinach at the very end so it stays looking nice and green and slightly wilted.  (Cooking it 15 minutes turned it kind of brown and lifeless).",
+          "datePublished": "2025-05-18T15:34:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenne Scherer"
+          },
+          "reviewBody": "Bringing the rice/coconut milk to an actual boil seemed to put me on the path to destruction with this recipe. I’d recommend bringing it *almost* to a boil and then turning the heat way down. The spinach wound up woefully overcooked. Overall this did not turn out well for me.",
+          "datePublished": "2025-05-18T03:31:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janet Planet"
+          },
+          "reviewBody": "Would this recipe work in a rice cooker? \nCan someone provide instructions for that?",
+          "datePublished": "2025-05-18T15:55:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "João"
+          },
+          "reviewBody": "@Janet Planet I’d suggest putting some of the marinade into the rice water, and add the salmon and greens after the first 10min.\n\nat least that’s what I’d do for a rice cooker version.",
+          "datePublished": "2025-05-24T20:35:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maureen"
+          },
+          "reviewBody": "@In Virginia\nIt’s 24 oz of salmon. Divided by 4 is an appropriate amount, 6 oz each. At my table that worked out well, since one housemate always eats double the normal.",
+          "datePublished": "2025-05-28T23:05:09.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026734-one-pot-miso-turmeric-salmon-and-coconut-rice",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yasmin Fahr"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "In this layered spinach, salmon and rice dish, a bed of greens layered on simmering coconut rice acts as a steamer basket for the fish nestled on top, allowing it to cook gently. The rice starts cooking while easy-to-eat salmon pieces are coated with savory miso and colorful turmeric. A bit of lime balances the rich flavors. It’s a recipe to play with, depending on whim and what you’ve got on hand: Swap the spinach for chopped chard or kale; stir in preserved lemon for brightness or sliced ginger for a warming kick; or serve with fresh avocado or radish slices.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "One-Pot Miso-Turmeric Salmon and Coconut Rice",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/d7937fd9-7f18-5b00-95b8-d9087e55a691#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/14/multimedia/yf-one-pot-salmon-and-rice-jfkt/yf-one-pot-salmon-and-rice-jfkt-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-05-14T17:19:44.935Z",
+          "datePublished": "2025-05-14T17:19:44.935Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-14T17:19:44.935Z",
+          "url": "https://static01.nyt.com/images/2025/05/14/multimedia/yf-one-pot-salmon-and-rice-jfkt/yf-one-pot-salmon-and-rice-jfkt-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/d7937fd9-7f18-5b00-95b8-d9087e55a691#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/14/multimedia/yf-one-pot-salmon-and-rice-jfkt/yf-one-pot-salmon-and-rice-jfkt-googleFourByThree.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-05-14T17:19:44.935Z",
+          "datePublished": "2025-05-14T17:19:44.935Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-14T17:19:44.935Z",
+          "url": "https://static01.nyt.com/images/2025/05/14/multimedia/yf-one-pot-salmon-and-rice-jfkt/yf-one-pot-salmon-and-rice-jfkt-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/d7937fd9-7f18-5b00-95b8-d9087e55a691#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/14/multimedia/yf-one-pot-salmon-and-rice-jfkt/yf-one-pot-salmon-and-rice-jfkt-mediumSquareAt3X.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-05-14T17:19:44.935Z",
+          "datePublished": "2025-05-14T17:19:44.935Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-14T17:19:44.935Z",
+          "url": "https://static01.nyt.com/images/2025/05/14/multimedia/yf-one-pot-salmon-and-rice-jfkt/yf-one-pot-salmon-and-rice-jfkt-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026734-one-pot-miso-turmeric-salmon-and-coconut-rice"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-07-21T02:11:40.544Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}

@@ -1,0 +1,479 @@
+{
+  "id": "adfd6de863e1c886",
+  "original_url": "https://cooking.nytimes.com/recipes/1026826-baked-red-bean-nian-gao-mochi-cake",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026826-baked-red-bean-nian-gao-mochi-cake",
+  "fetched_title": "Baked Red Bean Nian Gao (Mochi Cake) Recipe",
+  "main_text_content": "There’s a decadence to red bean nian gao that might lead you to assume there’s labor behind the richness Instead, this butter mochi cake couldn’t be simpler This recipe is as easy as it is riffable, and the snack invites different nuts and seeds as additions or substitutions for toppings",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026825-lemon-honey-nian-gao-mochi-cake\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"An overhead image of mochi cake topped with lemon wheels.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk/05FD-MOMSrex-EP-lemon-mochi-cake-zjbk-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Lemon-Honey Nian Gao (Mochi Cake)</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Eleanore Park</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/adfd6de863e1c886/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/88b24954-1095-584e-a72b-63a7b622f9e8",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026826-baked-red-bean-nian-gao-mochi-cake",
+        "@type": "WebPage",
+        "name": "Baked Red Bean Nian Gao (Mochi Cake)"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026826-baked-red-bean-nian-gao-mochi-cake",
+      "name": "Baked Red Bean Nian Gao (Mochi Cake)",
+      "description": "There’s a decadence to red bean nian gao that might lead you to assume there’s labor behind the richness. Instead, this butter mochi cake couldn’t be simpler. This recipe is as easy as it is riffable, and the snack invites different nuts and seeds as additions or substitutions for toppings. Mochiko (sweet rice flour) results in a lovely, paradoxical cake crumb that’s both chewy and springy. Jessica Wang, who runs Gu Grocery, a Chinese Taiwanese online store, in Los Angeles, has collaborated with her mother, Peggy Wang, teaching cooking classes and baking pastries at pop-ups where they sell lemon-honey nian gao and other variations of her mother’s baked nian gao (red bean butter mochi cake). For added caramelization and even more textural contrast, Ms. Wang recommends briefly broiling the top or lightly searing any leftover pieces in a cast-iron skillet.",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanore Park"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/0794f1f2-f3c1-5287-b770-57851ab32431#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-05-05T17:49:51.415Z",
+          "datePublished": "2025-05-05T17:49:51.415Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-05T17:49:51.415Z",
+          "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/0794f1f2-f3c1-5287-b770-57851ab32431#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-05-05T17:49:51.415Z",
+          "datePublished": "2025-05-05T17:49:51.415Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-05T17:49:51.415Z",
+          "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/0794f1f2-f3c1-5287-b770-57851ab32431#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-05-05T17:49:51.415Z",
+          "datePublished": "2025-05-05T17:49:51.415Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-05T17:49:51.415Z",
+          "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT1H15M",
+      "totalTime": "PT1H30M",
+      "recipeYield": "One 9-by-13-inch cake",
+      "recipeCuisine": "chinese",
+      "recipeCategory": "easy, snack, cakes, dessert",
+      "keywords": "coconut milk, make-ahead, party, rice flour, sweetened condensed milk, taiwanese, unsalted butter, gluten-free, vegetarian, mother’s day",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 37
+      },
+      "recipeIngredient": [
+        "1/2 cup/113 grams unsalted butter, melted and cooled, plus more for greasing the pan",
+        "3 cups/454 grams mochiko (sweet rice flour), like Koda Farms Blue Star brand",
+        "1 tablespoon baking powder",
+        "1/2 teaspoon kosher salt (such as Diamond Crystal)",
+        "4 large eggs",
+        "1 (14-ounce) can unsweetened coconut milk",
+        "1 (14-ounce) can sweetened condensed milk",
+        "2 cups/500 grams homemade or store-bought anko (red bean paste)",
+        "2 tablespoons white sesame seeds"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 350 degrees. Butter a 9-by-13-inch cake pan. (Be generous greasing the pan, which will yield a deeply golden brown crust.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Whisk the mochiko, baking powder and salt in a large bowl. In a separate large bowl, whisk the eggs to break up the yolks. Add the butter, coconut milk and condensed milk, and whisk until the mixture is smooth."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour the liquid mixture into the dry ingredients. Whisk, making sure that the whisk makes contact with the bottom of the bowl, until the batter is smooth and there are no lumps or streaks of flour remaining. Pour the batter into the prepared pan."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Working in batches, fill the batter with the red bean paste: Scatter about a third of the red bean paste in small spoonfuls (about one teaspoon) evenly all over the surface of the batter. Using a large flexible or offset spatula, smooth and gently press the surface of the cake so that the red bean paste naturally falls deeper into the batter and marbling streaks begin to appear. Repeat dotting the red bean paste and smoothing the batter twice more. Scatter the sesame seeds all over the top of the cake. (For a more elaborate design, use a toothpick or the tip of a paring knife to create rustic swirls on the surface of the cake.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake until the cake is golden-brown around the edges, deeply blond across the surface and slightly puffed, 35 to 45 minutes. (A cake tester, toothpick or paring knife should come out mostly clean, with perhaps a few clingy crumbs. There should be some bounce when you touch the cake without it feeling too tough.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Cool the cake for at least 20 minutes in the pan on a wire rack. Serve warm or at room temperature. Leftovers can be kept in an airtight container in the refrigerator for up to 3 days."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-05-05T00:00:00.000Z",
+      "dateModified": "2025-05-06T13:57:05.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dalia"
+          },
+          "reviewBody": "Can you make this without the red bean?",
+          "datePublished": "2025-07-13T09:49:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susy H"
+          },
+          "reviewBody": "@Gigi just one 415ml can of condensed milk. The other can called for is coconut milk.",
+          "datePublished": "2025-07-13T01:15:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gigi"
+          },
+          "reviewBody": "Is it calling for 2 cans of condensed milk?",
+          "datePublished": "2025-07-12T15:45:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kzkz"
+          },
+          "reviewBody": "I love mochi cakes and this was a good version. Next time I'll put in half the batter, plop in the red bean paste and swirl, and then top with the rest-- I think it would be better a bit more spread throughout. The red bean paste I buy comes in 400g packets so I just used that and I thought the ratio was fine. I used koshian (the smooth variant) but probably tsubuan (chunky) would be nice too. I skipped the sesame seeds as I had run out, oh well.",
+          "datePublished": "2025-06-12T01:31:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jerry"
+          },
+          "reviewBody": "This is a great dessert for a big dinner.  Not too sweet.  Folkowing the recipe gave perfect result!",
+          "datePublished": "2025-05-27T14:57:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MikeyInOregon"
+          },
+          "reviewBody": "I was skeptical about this recipe but am I glad I tried it?! It’s absolutely delicious, just the right amount of chewiness. I used lotus seed paste in place of red bean paste and I omitted sesame seeds cause I don’t like them, I rained 10x sugar on it instead.  I think the flavor profile could benefit from adding almond abstract which I’ll try next time.",
+          "datePublished": "2025-05-24T04:31:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NCSong"
+          },
+          "reviewBody": "I made this just as the recipe called for. So incredibly delicious and tender. It took much longer than the five minute prep, but so worth it. I checked online and enough people said it could be frozen so I’m going to try it. Each piece should be individually wrapped and frozen for no more than three months. Let’s see how that goes.",
+          "datePublished": "2025-05-17T17:49:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lucinda K."
+          },
+          "reviewBody": "@Christina, I’ve used regular whole milk to sub for coconut milk, although you’d be missing out in the coconut flavor.",
+          "datePublished": "2025-05-16T23:10:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christina"
+          },
+          "reviewBody": "Any suggestions for a coconut milk substitute? Thanks!",
+          "datePublished": "2025-05-14T18:38:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jdt"
+          },
+          "reviewBody": "@Ruwi\nNo, they are very different. By the way, sweet rice flour is also known as glutinous rice flour and is available at any Chinese grocery store.",
+          "datePublished": "2025-05-14T21:10:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ruwi"
+          },
+          "reviewBody": "Can I use just rice flour instead of Sweet Rice Flour?",
+          "datePublished": "2025-05-14T18:02:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lucinda K."
+          },
+          "reviewBody": "@RonC, I’d say a dozen if each person just eats two. I’ve never been able to stop at just two, though. Pretty high calorie.",
+          "datePublished": "2025-05-16T23:11:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RonC"
+          },
+          "reviewBody": "How many people do you think this would serve?",
+          "datePublished": "2025-05-14T16:08:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Isabel"
+          },
+          "reviewBody": "Something about this looked good, so I made it on a whim this afternoon (exactly as the recipe read) and I think it’s one of the best things I’ve ever eaten or baked! I’m so sorry I’m not having a dinner party!",
+          "datePublished": "2025-05-09T23:45:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Red Bean Girl"
+          },
+          "reviewBody": "I absolutely love it! Flavor was sublime and it is super easy to make with minimal measuring as it uses full cans or both milks and exactly one full box of the rice flour. Note that the sweetness of your red bean paste will have material import on the overall sweetness. I bought an all natural Japanese kind (not in a can) that was not very sweet and it was great. I threw some black sesame seeds on top in addition to the white for visual interest- looks very pretty. I had two pieces warm and OMG.",
+          "datePublished": "2025-05-09T23:24:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Red Bean Girl"
+          },
+          "reviewBody": "I absolutely love it! Flavor was sublime and it is super easy to make with minimal measuring as it uses full cans or both milks and exactly one full box of the rice flour. Note that the sweetness of your red bean paste will have material import on the overall sweetness. I bought an all natural Japanese kind (not in a can) that was not very sweet and it was great. I threw some black sesame seeds on top in addition to the white for visual interest- looks very pretty. I had two pieces warm and OMG.",
+          "datePublished": "2025-05-09T23:24:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Isabel"
+          },
+          "reviewBody": "Something about this looked good, so I made it on a whim this afternoon (exactly as the recipe read) and I think it’s one of the best things I’ve ever eaten or baked! I’m so sorry I’m not having a dinner party!",
+          "datePublished": "2025-05-09T23:45:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jdt"
+          },
+          "reviewBody": "@Ruwi\nNo, they are very different. By the way, sweet rice flour is also known as glutinous rice flour and is available at any Chinese grocery store.",
+          "datePublished": "2025-05-14T21:10:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lucinda K."
+          },
+          "reviewBody": "@Christina, I’ve used regular whole milk to sub for coconut milk, although you’d be missing out in the coconut flavor.",
+          "datePublished": "2025-05-16T23:10:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kzkz"
+          },
+          "reviewBody": "I love mochi cakes and this was a good version. Next time I'll put in half the batter, plop in the red bean paste and swirl, and then top with the rest-- I think it would be better a bit more spread throughout. The red bean paste I buy comes in 400g packets so I just used that and I thought the ratio was fine. I used koshian (the smooth variant) but probably tsubuan (chunky) would be nice too. I skipped the sesame seeds as I had run out, oh well.",
+          "datePublished": "2025-06-12T01:31:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NCSong"
+          },
+          "reviewBody": "I made this just as the recipe called for. So incredibly delicious and tender. It took much longer than the five minute prep, but so worth it. I checked online and enough people said it could be frozen so I’m going to try it. Each piece should be individually wrapped and frozen for no more than three months. Let’s see how that goes.",
+          "datePublished": "2025-05-17T17:49:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MikeyInOregon"
+          },
+          "reviewBody": "I was skeptical about this recipe but am I glad I tried it?! It’s absolutely delicious, just the right amount of chewiness. I used lotus seed paste in place of red bean paste and I omitted sesame seeds cause I don’t like them, I rained 10x sugar on it instead.  I think the flavor profile could benefit from adding almond abstract which I’ll try next time.",
+          "datePublished": "2025-05-24T04:31:18.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026826-baked-red-bean-nian-gao-mochi-cake",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Eleanore Park"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "There’s a decadence to red bean nian gao that might lead you to assume there’s labor behind the richness. Instead, this butter mochi cake couldn’t be simpler. This recipe is as easy as it is riffable, and the snack invites different nuts and seeds as additions or substitutions for toppings. Mochiko (sweet rice flour) results in a lovely, paradoxical cake crumb that’s both chewy and springy. Jessica Wang, who runs Gu Grocery, a Chinese Taiwanese online store, in Los Angeles, has collaborated with her mother, Peggy Wang, teaching cooking classes and baking pastries at pop-ups where they sell lemon-honey nian gao and other variations of her mother’s baked nian gao (red bean butter mochi cake). For added caramelization and even more textural contrast, Ms. Wang recommends briefly broiling the top or lightly searing any leftover pieces in a cast-iron skillet.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Baked Red Bean Nian Gao (Mochi Cake)",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/0794f1f2-f3c1-5287-b770-57851ab32431#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-05-05T17:49:51.415Z",
+          "datePublished": "2025-05-05T17:49:51.415Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-05T17:49:51.415Z",
+          "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/0794f1f2-f3c1-5287-b770-57851ab32431#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-05-05T17:49:51.415Z",
+          "datePublished": "2025-05-05T17:49:51.415Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-05T17:49:51.415Z",
+          "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/0794f1f2-f3c1-5287-b770-57851ab32431#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-05-05T17:49:51.415Z",
+          "datePublished": "2025-05-05T17:49:51.415Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-05T17:49:51.415Z",
+          "url": "https://static01.nyt.com/images/2025/05/05/multimedia/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg/05FD-MOTHERS-DAYrex-red-bean-mochi-cake-lmpg-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026826-baked-red-bean-nian-gao-mochi-cake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-07-21T02:11:42.691Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
