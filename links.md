@@ -5,7 +5,7 @@
 - https://cooking.nytimes.com/recipes/1017699-miso-chicken #asian #dinner
 - https://cooking.nytimes.com/recipes/1026790-crispy-chicken-with-lime-butter #dinner
 - https://cooking.nytimes.com/recipes/1023287-vegan-potato-salad-with-tahini #gf #side #summer #veg
-- https://cooking.nytimes.com/recipes/271-blueberry-polenta-upside-down-cake#notes_section #cake #dessert #summer
+- https://cooking.nytimes.com/recipes/271-blueberry-polenta-upside-down-cake #cake #dessert #summer
 - https://cooking.nytimes.com/recipes/1027053-burst-cherry-tomato-orzotto #dinner #noodles #potluck #side #summer #veg
 - https://cooking.nytimes.com/recipes/1026734-one-pot-miso-turmeric-salmon-and-coconut-rice #dinner #fish
 - https://www.nytimes.com/2025/06/18/t-magazine/summer-cornbread-recipe-cabbage.html #bread #potluck #side #veg
@@ -34,7 +34,7 @@
 - [Chile Oil Wontons Recipe (with Video)](https://cooking.nytimes.com/recipes/1026437-chile-oil-wontons) #asian #dinner @note:Added_to_Pocket_on_2025-01-29
 - [Matcha Black Sesame Rolls | Sift & Simmer](https://www.siftandsimmer.com/matcha-black-sesame-rolls/) #asian #bread @note:Added_to_Pocket_on_2025-01-27
 - [Marbled Matcha Milk Bread Recipe | King Arthur Baking](https://www.kingarthurbaking.com/recipes/marbled-matcha-milk-bread-recipe) #asian #bread @note:Added_to_Pocket_on_2025-01-27
-- [Matcha Shokupan (Japanese Milk Bread) | Sift & Simmer](https://www.siftandsimmer.com/matcha-shokupan-japanese-milk-bread/#comments) #asian #bread @note:Added_to_Pocket_on_2025-01-27
+- [Matcha Shokupan (Japanese Milk Bread) | Sift & Simmer](https://www.siftandsimmer.com/matcha-shokupan-japanese-milk-bread/) #asian #bread @note:Added_to_Pocket_on_2025-01-27
 - [Chicken and Red Lentil Soup With Lemony Yogurt  Recipe](https://cooking.nytimes.com/recipes/1026473-chicken-and-red-lentil-soup-with-lemony-yogurt) #dinner #soup @note:Added_to_Pocket_on_2025-01-17
 - [Merguez and Kale Pasta Recipe](https://cooking.nytimes.com/recipes/1024242-merguez-and-kale-pasta) #dinner #noodles @note:Added_to_Pocket_on_2025-01-13
 - [Shrimp in Rundown Sauce With Cavatelli Recipe](https://cooking.nytimes.com/recipes/1024445-shrimp-in-rundown-sauce-with-cavatelli) #dinner #noodles @note:Added_to_Pocket_on_2025-01-10
@@ -44,7 +44,7 @@
 - [https://cooking.nytimes.com/recipes/1022681-crispy-salmon-with-mixed-seeds](https://cooking.nytimes.com/recipes/1022681-crispy-salmon-with-mixed-seeds) #dinner #fish @note:Added_to_Pocket_on_2024-12-24
 - [https://cooking.nytimes.com/recipes/1023910-baked-salmon-and-dill-rice](https://cooking.nytimes.com/recipes/1023910-baked-salmon-and-dill-rice) #dinner #fish @note:Added_to_Pocket_on_2024-12-24
 - [Brown Butter Shortbread Cookies](https://www.seriouseats.com/brown-butter-shortbread-cookie-recipe) #cookies #dessert @note:Added_to_Pocket_on_2024-12-23
-- [The best pierogi dough recipe + how to make perfect pierogi (+VIDEO!)](https://www.everyday-delicious.com/the-best-pierogi-dough-recipe-how-to-make-the-best-pierogi-polish-dumplings/#comments) #dinner #veg @note:Added_to_Pocket_on_2024-12-18
+- [The best pierogi dough recipe + how to make perfect pierogi (+VIDEO!)](https://www.everyday-delicious.com/the-best-pierogi-dough-recipe-how-to-make-the-best-pierogi-polish-dumplings/) #dinner #veg @note:Added_to_Pocket_on_2024-12-18
 - [Mapo Ragù Recipe](https://cooking.nytimes.com/recipes/1018404-mapo-ragu) #asian #dinner @note:Added_to_Pocket_on_2024-12-16
 - [Miso Leeks With White Beans Recipe](https://cooking.nytimes.com/recipes/1025022-miso-leeks-with-white-beans) #dinner #veg @note:Added_to_Pocket_on_2024-12-11
 - [Miso Mushroom and Leek Pasta  Recipe](https://cooking.nytimes.com/recipes/1025951-miso-mushroom-and-leek-pasta) #noodles #veg @note:Added_to_Pocket_on_2024-12-06
