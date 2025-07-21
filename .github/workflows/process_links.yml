@@ -11,7 +11,7 @@ on:
   workflow_dispatch: # Allow manual triggering
 
 permissions:
-  contents: read
+  contents: write  # Changed from 'read' to 'write' to allow commits
   pages: write
   id-token: write
 
@@ -59,6 +59,23 @@ jobs:
 
     - name: Generate static site
       run: bun run scripts/generateSite.ts
+    
+    - name: Commit scraped data back to repository
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Add only the archive directory (scraped data)
+        git add archive/
+        
+        # Only commit if there are changes
+        if ! git diff --staged --quiet; then
+          git commit -m "Update scraped content from GitHub Actions"
+          git push
+          echo "✅ Committed new scraped data"
+        else
+          echo "ℹ️ No new scraped data to commit"
+        fi
     
     - name: Setup Pages
       uses: actions/configure-pages@v4
