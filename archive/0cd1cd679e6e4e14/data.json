@@ -1,0 +1,541 @@
+{
+  "id": "0cd1cd679e6e4e14",
+  "original_url": "https://cooking.nytimes.com/recipes/1017699-miso-chicken",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1017699-miso-chicken",
+  "fetched_title": "Miso Chicken Recipe",
+  "main_text_content": "Making a compound of unsalted butter and the salty, fungal deliciousness of Japanese miso paste is a surefire way of adding immense flavor to a simple weeknight meal Here the mixture is spread over chicken thighs, which are then roasted to golden perfection But you could easily use it on salmon or flounder, on corn or potatoes",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1027025-one-pot-chicken-arroz-rojo\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/06/27/multimedia/kc-chicken-arroz-rojo-qfpb/kc-chicken-arroz-rojo-qfpb-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/06/27/multimedia/kc-chicken-arroz-rojo-qfpb/kc-chicken-arroz-rojo-qfpb-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/06/27/multimedia/kc-chicken-arroz-rojo-qfpb/kc-chicken-arroz-rojo-qfpb-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/06/27/multimedia/kc-chicken-arroz-rojo-qfpb/kc-chicken-arroz-rojo-qfpb-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/06/27/multimedia/kc-chicken-arroz-rojo-qfpb/kc-chicken-arroz-rojo-qfpb-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/06/27/multimedia/kc-chicken-arroz-rojo-qfpb/kc-chicken-arroz-rojo-qfpb-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/06/27/multimedia/kc-chicken-arroz-rojo-qfpb/kc-chicken-arroz-rojo-qfpb-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/06/27/multimedia/kc-chicken-arroz-rojo-qfpb/kc-chicken-arroz-rojo-qfpb-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">One-Pot Chicken Arroz Rojo</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Kay Chun</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/08/08/multimedia/SS-Miso-Chicken1-whvz/SS-Miso-Chicken1-whvz-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/0cd1cd679e6e4e14/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/b6a47ec2-e95a-52c2-b58f-76675b020ca2",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1017699-miso-chicken",
+        "@type": "WebPage",
+        "name": "Miso Chicken"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1017699-miso-chicken",
+      "name": "Miso Chicken",
+      "description": "Making a compound of unsalted butter and the salty, fungal deliciousness of Japanese miso paste is a surefire way of adding immense flavor to a simple weeknight meal. Here the mixture is spread over chicken thighs, which are then roasted to golden perfection. But you could easily use it on salmon or flounder, on corn or potatoes. The recipe calls for white miso, which is more mild than the aged version known as red miso. But you could certainly use red for a more intense result.",
+      "author": {
+        "@type": "Person",
+        "name": "Sam Sifton"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/ab649c47-ec29-5852-bbbb-0706ee43e624#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/08/08/multimedia/SS-Miso-Chicken1-whvz/SS-Miso-Chicken1-whvz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Simon Andrews.",
+          "dateModified": "2024-08-08T14:11:56.430Z",
+          "datePublished": "2024-08-08T14:11:56.430Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-08-08T14:11:56.430Z",
+          "url": "https://static01.nyt.com/images/2024/08/08/multimedia/SS-Miso-Chicken1-whvz/SS-Miso-Chicken1-whvz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ab649c47-ec29-5852-bbbb-0706ee43e624#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/08/08/multimedia/SS-Miso-Chicken1-whvz/SS-Miso-Chicken1-whvz-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Simon Andrews.",
+          "dateModified": "2024-08-08T14:11:56.430Z",
+          "datePublished": "2024-08-08T14:11:56.430Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-08-08T14:11:56.430Z",
+          "url": "https://static01.nyt.com/images/2024/08/08/multimedia/SS-Miso-Chicken1-whvz/SS-Miso-Chicken1-whvz-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/ab649c47-ec29-5852-bbbb-0706ee43e624#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/08/08/multimedia/SS-Miso-Chicken1-whvz/SS-Miso-Chicken1-whvz-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Simon Andrews.",
+          "dateModified": "2024-08-08T14:11:56.430Z",
+          "datePublished": "2024-08-08T14:11:56.430Z",
+          "height": "1801",
+          "representativeOfPage": true,
+          "uploadDate": "2024-08-08T14:11:56.430Z",
+          "url": "https://static01.nyt.com/images/2024/08/08/multimedia/SS-Miso-Chicken1-whvz/SS-Miso-Chicken1-whvz-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "totalTime": "PT45M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "asian",
+      "recipeCategory": "dinner, easy, quick, weeknight, main course",
+      "keywords": "chicken thigh, miso, roast chicken",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 12510
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 1059,
+        "unsaturatedFatContent": "45 grams",
+        "carbohydrateContent": "19 grams",
+        "cholesterolContent": null,
+        "fatContent": "78 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "68 grams",
+        "saturatedFatContent": "25 grams",
+        "sodiumContent": "1597 milligrams",
+        "sugarContent": "11 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "4 tablespoons unsalted butter, softened",
+        "1/2 cup white miso",
+        "2 tablespoons honey",
+        "1 tablespoon rice vinegar (do not use seasoned rice vinegar)",
+        "Black pepper, to taste",
+        "8 skin-on, bone-in chicken thighs, approximately 2 1/2 to 3 pounds"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 425 degrees. Combine butter, miso, honey, rice vinegar and black pepper in a large bowl and mix with a spatula or spoon until it is well combined."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add chicken to the bowl and massage the miso-butter mixture all over it. Place the chicken in a single layer in a roasting pan and slide it into the oven. Roast for 30 to 40 minutes, turning the chicken pieces over once or twice, until the skin is golden brown and crisp, and the internal temperature of the meat is 160 to 165 degrees."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2015-09-23T00:00:00.000Z",
+      "dateModified": "2024-08-08T14:12:47.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jordan"
+          },
+          "reviewBody": "Wanted to leave the 1000th comment!\n\nI cooked these as a tray bake over eggplant. Came out watery, would be better cooked separately then combined.",
+          "datePublished": "2025-07-21T03:00:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mkean"
+          },
+          "reviewBody": "The miso mixture blackened before the chicken was done.  It wasn’t burnt, but I just didn’t think the flavor profile worked for me. A bit too salty.  Maybe more honey and less miso?",
+          "datePublished": "2025-07-20T00:01:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Beth"
+          },
+          "reviewBody": "Why did the chicken skin come out burnt? I baked the chicken thighs at 392 degrees Fahrenheit ?",
+          "datePublished": "2025-07-18T04:40:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "suze_blues"
+          },
+          "reviewBody": "hey community~~ i want to make this but it's too darn hot at the moment to put the oven on.  would it work in the instant pot or range?",
+          "datePublished": "2025-07-15T21:39:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NG"
+          },
+          "reviewBody": "Ok yet I don’t see the hype. I followed the instructions. Chicken was good yet not amazing. I think people like the butter and sugar, which are fine, yet this isn’t something I would make again.",
+          "datePublished": "2025-07-14T01:44:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lish"
+          },
+          "reviewBody": "Absolutely delicious! I did on the grill and the miso/honey made beautiful grill marks. Will definitely make this again.",
+          "datePublished": "2025-07-14T01:28:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "melinda"
+          },
+          "reviewBody": "I made the paste and slathered it on salmon. The butter did cut down on the miso flavor but I didn’t mind the “grease” of the filets basting in butter. I didn’t tip the pan over and drink it for God’ s sake!",
+          "datePublished": "2025-07-12T11:50:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AnnJ"
+          },
+          "reviewBody": "Not sure if butter is the right ingredient..after 25 min in the oven it was charred black",
+          "datePublished": "2025-07-11T01:06:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dee B"
+          },
+          "reviewBody": "Can this be served cold out of fridge?",
+          "datePublished": "2025-07-10T20:47:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Judy786"
+          },
+          "reviewBody": "I made this dish twice, and my son couldn’t stop asking, “Mom, how do you make this chicken taste so good?” It’s truly the perfect weeknight dinner! I also took a fabulous tip from a reviewer and used foil for easy cleanup and effortless!",
+          "datePublished": "2025-07-09T13:43:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lynette"
+          },
+          "reviewBody": "I made this with tahini instead of butter and used boneless thighs since that’s what I had. I cooked them over our outdoor grill and they were delicious. Can’t wait to try this stuff on salmon or grilled veggies.",
+          "datePublished": "2025-07-09T08:59:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "our favorite. Line your pan with parchment. That's all.",
+          "datePublished": "2025-07-09T01:48:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "alison"
+          },
+          "reviewBody": "Makes a ton of marinade -do two packs of skinless chicken thighs next time. Used the broiler pan cooked for about 25 minutes on one side flipped and then broiled for about 5 minutes more. It was a hit!",
+          "datePublished": "2025-07-08T23:16:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CT Jaye"
+          },
+          "reviewBody": "After reading the comments I decided to grate some fresh garlic and a shallot into the mix. I used 8 chicken thighs, tucked some under the skin of the thighs and marinated over night. I kept the 425 temp from the recipe and they came out great. I’ll be adding this to my rotation.",
+          "datePublished": "2025-07-08T20:42:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sara"
+          },
+          "reviewBody": "Tried this with a mild white miso and didn't love it, something was missing. Would love to try this recipe again with a different miso, maybe a red or something with a little more flavor. Overall this recipe was still delicious although it didn't quite turn out as expected.",
+          "datePublished": "2025-07-08T20:26:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael in YVR"
+          },
+          "reviewBody": "I opted to use red miso, thinking the boost in flavour would be worthwhile. After sneaking a taste in the slathering-on stage, I worried maybe I'd overdone it; so it wasn't until I encountered the miso again, caramelized and schmaltzed to a fare-the-well at the recipe's end that I realized the true genius of this recipe. This is arguably the most toothsome chicken I've ever tasted. Five stars: most emphatically.",
+          "datePublished": "2017-10-30T15:00:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Greg"
+          },
+          "reviewBody": "Skip the butter. Add a tablespoon or two of tahini for richness if you're in the mood. Glorious (and not greasy if, like me, you don't like greasy).",
+          "datePublished": "2017-10-30T14:39:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Annie V"
+          },
+          "reviewBody": "I skinned and cut up a whole chicken and marinated it in a half portion of the miso mixture for 24 hours. Subbed brown sugar for honey. It only took 20 minutes for the dark meat and 10 minutes for the light meat to come to temperature, but I think my oven runs hot. Turn halfway through. Deglazed the pan with white wine and reduced it for a sauce, and garnished with cilantro and scallions. Served to friends with green beans and mushrooms sauteed with soy & sherry. Will make often!",
+          "datePublished": "2017-10-30T15:12:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PaPa"
+          },
+          "reviewBody": "An Absolutely Delicious, Straightforward Recipe!<br/>We found the chicken thighs silky tender and<br/>thoroughly baked in 25-30min @ 425 degrees.<br/>Hubby and I have already used it 3x in the past two weeks,<br/>it's now a family favorite.<br/>Suggestions:<br/>1) There's plenty of miso concoction for 12 thighs.<br/>2) Try to slather the paste under AND on top of the skin for<br/>    a maximum punch of flavor<br/>3) Try using half the butter and line the baking sheet w/ foil.",
+          "datePublished": "2017-10-24T18:53:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Judy"
+          },
+          "reviewBody": "I made this with boneless, skinless chicken breasts baked at 375º for 30 min.  (Could have been less.)  I also added a splash of Sriracha instead of black pepper.  They were nicely caramelized and very tasty.  I served them on a bed of steamed Swiss chard which was a good vehicle for the sauce.  Paired it with Moroccan spiced spaghetti squash with chick peas and dates.  A fine supper!",
+          "datePublished": "2017-10-30T15:19:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paula"
+          },
+          "reviewBody": "This was excellent.  If using boneless, skinless thighs, roast at 375 for 30 minutes turning at least 2xs.  Spoon the melted sauces onto the thighs as they cook.  Finish under the broiler.  Easy, tasty--absolutely makes the rotation.",
+          "datePublished": "2017-10-30T15:02:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mdurphy"
+          },
+          "reviewBody": "It's been fun to read all the comments on this recipe after cooking it.  I know that Sam really likes butter, but I think in this recipe it's too much.  The suggestions of subbing in sesame oil or tahini are right on.  And adding zaatar and/or pimenton to the rub gives more depth of flavor.  As far as crisping the skin, I used a convection oven at 400, and it worked fine (actually it was delicious).  So I know it's possible.  You may have to experiment a bit with your own setup.",
+          "datePublished": "2017-10-30T15:31:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maggie"
+          },
+          "reviewBody": "Absolutely delicious. Would suggest lining pan with tin foil, or using a nonstick surface.",
+          "datePublished": "2017-10-30T14:36:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "WA reader"
+          },
+          "reviewBody": "what brands of miso do you recommend.  I have tried several and not found one I am crazy about.",
+          "datePublished": "2017-10-30T14:43:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth"
+          },
+          "reviewBody": "Made this with red miso, plus a splash of soy sauce. Added chunks of peeled butternut squash and red onion. Quantity of butter is excessive. I used 1/2.  Needs a bit more time at a lower temp (375) to brown well. But yummy!",
+          "datePublished": "2017-10-30T14:36:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John"
+          },
+          "reviewBody": "I posted this recipe (this looks verbatim) 3 months ago--see below, except I credited the source: the Steamy Kitchen blog. Glad you apparently enjoyed it, too.",
+          "datePublished": "2017-10-24T18:11:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maeve"
+          },
+          "reviewBody": "Second time making this. Really wonderful. YUM yum yum. <br/><br/>Add thinly sliced scallions or black sesame seed to garnish right after it comes out of the oven.",
+          "datePublished": "2017-10-30T15:06:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Harold Lee Miller"
+          },
+          "reviewBody": "Try this amazing concoction on the side as a dip: 1TB lime juice, 2 TB chicken broth, 2 tsp sugar, 4 TB sriracha chili sauce, 4 cloves garlic, a 1-inch piece of peeled ginger, and a pinch of salt. Place all ingredients in a blender (I use an electric Indian mixie blender and use the small 1/2 cup container--a great appliance for producing spice and curry pastes) and blend until completely smooth and bright red. This dip and a sprinkle of cilantro with cure the blah's.",
+          "datePublished": "2017-10-30T15:23:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John"
+          },
+          "reviewBody": "I've made this recipe several times and find myself craving the subtle flavor & rich creaminess of the coating. I like to rest the thighs for a few minutes after cooking and then pull off the skin and meat in as large pieces as possible to make for easier eating (no bones). For anyone who wants more oomph, try sprinkling the finished dish with cilantro and the following killer homemade chili sauce:",
+          "datePublished": "2017-10-30T15:04:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mark"
+          },
+          "reviewBody": "I cooked half skin on, half skin off.  Although I find skin pretty tasty, the result was fine both ways.  So remove the skin to your heart's content!",
+          "datePublished": "2017-10-30T14:38:12.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2015
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1017699-miso-chicken",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Sam Sifton"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2015,
+      "description": "Making a compound of unsalted butter and the salty, fungal deliciousness of Japanese miso paste is a surefire way of adding immense flavor to a simple weeknight meal. Here the mixture is spread over chicken thighs, which are then roasted to golden perfection. But you could easily use it on salmon or flounder, on corn or potatoes. The recipe calls for white miso, which is more mild than the aged version known as red miso. But you could certainly use red for a more intense result.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Miso Chicken",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/ab649c47-ec29-5852-bbbb-0706ee43e624#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/08/08/multimedia/SS-Miso-Chicken1-whvz/SS-Miso-Chicken1-whvz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Simon Andrews.",
+          "dateModified": "2024-08-08T14:11:56.430Z",
+          "datePublished": "2024-08-08T14:11:56.430Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-08-08T14:11:56.430Z",
+          "url": "https://static01.nyt.com/images/2024/08/08/multimedia/SS-Miso-Chicken1-whvz/SS-Miso-Chicken1-whvz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ab649c47-ec29-5852-bbbb-0706ee43e624#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/08/08/multimedia/SS-Miso-Chicken1-whvz/SS-Miso-Chicken1-whvz-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Simon Andrews.",
+          "dateModified": "2024-08-08T14:11:56.430Z",
+          "datePublished": "2024-08-08T14:11:56.430Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-08-08T14:11:56.430Z",
+          "url": "https://static01.nyt.com/images/2024/08/08/multimedia/SS-Miso-Chicken1-whvz/SS-Miso-Chicken1-whvz-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/ab649c47-ec29-5852-bbbb-0706ee43e624#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/08/08/multimedia/SS-Miso-Chicken1-whvz/SS-Miso-Chicken1-whvz-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Simon Andrews.",
+          "dateModified": "2024-08-08T14:11:56.430Z",
+          "datePublished": "2024-08-08T14:11:56.430Z",
+          "height": "1801",
+          "representativeOfPage": true,
+          "uploadDate": "2024-08-08T14:11:56.430Z",
+          "url": "https://static01.nyt.com/images/2024/08/08/multimedia/SS-Miso-Chicken1-whvz/SS-Miso-Chicken1-whvz-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1017699-miso-chicken"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-07-21T15:59:19.052Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
