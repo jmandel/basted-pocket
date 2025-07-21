@@ -27,12 +27,17 @@ interface ScrapedArticle extends ScrapedData {
   id: string;
   original_url: string;
   scraping_timestamp: string;
-  scraping_status: 'scraped' | 'error_scraping' | 'skipped';
+  scraping_status: 'scraped' | 'error_scraping' | 'skipped' | 'permanently_failed';
+  failure_count?: number;
+  last_failure_timestamp?: string;
 }
 
 class ContentScraper {
   private refreshOlderThan: Date | null = null;
   private existingData: Map<string, ScrapedArticle> = new Map();
+  private readonly MAX_FAILURE_COUNT = 5;
+  private readonly FAILURE_COOLDOWN_DAYS = 7;
+  private permanentlyFailedUrls: Set<string> = new Set();
 
   constructor(refreshOlderThan?: string) {
     if (refreshOlderThan) {
@@ -41,6 +46,7 @@ class ContentScraper {
     }
     
     this.loadExistingData();
+    this.loadPermanentlyFailedUrls();
   }
 
   private loadExistingData(): void {
@@ -92,6 +98,36 @@ class ContentScraper {
     }
   }
 
+  private loadPermanentlyFailedUrls(): void {
+    try {
+      const errorsFile = 'archive/permanently_failed_urls.json';
+      if (existsSync(errorsFile)) {
+        const failedUrls = JSON.parse(readFileSync(errorsFile, 'utf-8'));
+        this.permanentlyFailedUrls = new Set(failedUrls.urls || []);
+        console.log(`📋 Loaded ${this.permanentlyFailedUrls.size} permanently failed URLs`);
+      }
+    } catch (error) {
+      console.warn('Could not load permanently failed URLs:', error);
+      this.permanentlyFailedUrls = new Set();
+    }
+  }
+
+  private savePermanentlyFailedUrl(link: UrlToScrape): void {
+    try {
+      this.permanentlyFailedUrls.add(link.canonical_url);
+      const errorsFile = 'archive/permanently_failed_urls.json';
+      const errorsData = {
+        last_updated: new Date().toISOString(),
+        count: this.permanentlyFailedUrls.size,
+        urls: Array.from(this.permanentlyFailedUrls)
+      };
+      writeFileSync(errorsFile, JSON.stringify(errorsData, null, 2));
+      console.log(`💾 Added to permanently failed URLs: ${link.canonical_url}`);
+    } catch (error) {
+      console.warn('Could not save permanently failed URL:', error);
+    }
+  }
+
   private shouldScrapeArticle(link: UrlToScrape): boolean {
     const existing = this.existingData.get(link.id);
     
@@ -101,20 +137,50 @@ class ContentScraper {
       return false;
     }
     
+    // Skip permanently failed URLs
+    if (existing && existing.scraping_status === 'permanently_failed') {
+      console.log(`🚫 Skipping permanently failed article: ${link.canonical_url}`);
+      return false;
+    }
+    
     // If no existing data, scrape it
     if (!existing) {
       return true;
     }
     
-    // If we have a refresh date and existing data is older, scrape it
-    if (this.refreshOlderThan && existing.scraping_timestamp) {
+    // Check if we should respect failure cooldown
+    if (existing.scraping_status === 'error_scraping' && existing.failure_count && existing.last_failure_timestamp) {
+      const failureCount = existing.failure_count || 0;
+      
+      // If we've reached max failures, mark as permanently failed and skip
+      if (failureCount >= this.MAX_FAILURE_COUNT) {
+        console.log(`🚫 Article has failed ${failureCount} times, marking as permanently failed: ${link.canonical_url}`);
+        // Mark as permanently failed and skip scraping
+        existing.scraping_status = 'permanently_failed';
+        this.existingData.set(link.id, existing);
+        this.savePermanentlyFailedUrl(link);
+        return false;
+      }
+      
+      // Check cooldown period for recent failures
+      const lastFailure = new Date(existing.last_failure_timestamp);
+      const cooldownEnd = new Date(lastFailure.getTime() + (this.FAILURE_COOLDOWN_DAYS * 24 * 60 * 60 * 1000));
+      
+      if (new Date() < cooldownEnd) {
+        console.log(`⏳ Article in cooldown period until ${cooldownEnd.toISOString()}: ${link.canonical_url}`);
+        return false;
+      }
+    }
+    
+    // If we have a refresh date and existing data is older, scrape it (but only for successful articles)
+    if (this.refreshOlderThan && existing.scraping_timestamp && existing.scraping_status === 'scraped') {
       const scrapingDate = new Date(existing.scraping_timestamp);
       if (scrapingDate < this.refreshOlderThan) {
         return true;
       }
     }
     
-    // If existing data has an error, try again
+    // If existing data has an error and hasn't exceeded failure limits, try again
     if (existing.scraping_status === 'error_scraping') {
       return true;
     }
@@ -613,7 +679,7 @@ class ContentScraper {
       
       // Create abort controller for timeout
       const controller = new AbortController();
-      const timeoutId = setTimeout(() => controller.abort(), 4000); // 4 second timeout
+      const timeoutId = setTimeout(() => controller.abort(), 8000); // 8 second timeout (increased from 4)
       
       const response = await fetch(url, {
         headers: {
@@ -781,25 +847,36 @@ class ContentScraper {
   private async scrapeLink(link: UrlToScrape): Promise<ScrapedArticle> {
     console.log(`🔄 Processing: ${link.canonical_url}`);
 
+    // Get existing data to track failure count
+    const existing = this.existingData.get(link.id);
+    const currentFailureCount = existing?.failure_count || 0;
+
     // Scrape content
     const scrapedData = await this.scrapeUrl(link.canonical_url, link.id);
     
     if (scrapedData.error) {
+      const newFailureCount = currentFailureCount + 1;
+      console.log(`❌ Failure ${newFailureCount}/${this.MAX_FAILURE_COUNT} for: ${link.canonical_url}`);
+      
       return {
         id: link.id,
         original_url: link.original_url,
         ...scrapedData,
         scraping_timestamp: new Date().toISOString(),
-        scraping_status: 'error_scraping'
+        scraping_status: 'error_scraping',
+        failure_count: newFailureCount,
+        last_failure_timestamp: new Date().toISOString()
       };
     }
 
+    // Reset failure count on success
     return {
       id: link.id,
       original_url: link.original_url,
       ...scrapedData,
       scraping_timestamp: new Date().toISOString(),
-      scraping_status: 'scraped'
+      scraping_status: 'scraped',
+      failure_count: 0
     };
   }
 
@@ -872,6 +949,7 @@ class ContentScraper {
     console.log(`  Total links: ${links.length}`);
     console.log(`  Already scraped: ${skippedCount}`);
     console.log(`  Need scraping: ${linksToScrape.length}`);
+    console.log(`  Permanently failed: ${this.permanentlyFailedUrls.size}`);
 
     let scrapedCount = 0;
     let errorCount = 0;
@@ -932,6 +1010,7 @@ class ContentScraper {
     console.log(`  Total articles: ${allArticles.length}`);
     console.log(`  Successfully scraped: ${allArticles.filter(a => a.scraping_status === 'scraped').length}`);
     console.log(`  Errors: ${allArticles.filter(a => a.scraping_status === 'error_scraping').length}`);
+    console.log(`  Permanently failed: ${allArticles.filter(a => a.scraping_status === 'permanently_failed').length}`);
     console.log(`  This session: +${scrapedCount} scraped, ${errorCount} errors`);
   }
 }

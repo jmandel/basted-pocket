@@ -48,9 +48,14 @@ jobs:
     
     - name: Scrape content from URLs
       run: |
-        # Only refresh scraped content older than 30 days
-        REFRESH_DATE=$(date -d '30 days ago' --iso-8601)
-        bun run scripts/scrapeContent.ts --refresh-older-than $REFRESH_DATE
+        # Only scrape new content, don't refresh old content automatically
+        # This prevents long rebuild times in GitHub Actions
+        # 
+        # To manually refresh old content, use:
+        # bun run scripts/scrapeContent.ts --refresh-older-than YYYY-MM-DD
+        # 
+        # Example: bun run scripts/scrapeContent.ts --refresh-older-than 2024-01-01
+        bun run scripts/scrapeContent.ts
 
     - name: Generate static site
       run: bun run scripts/generateSite.ts
