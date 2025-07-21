@@ -6,302 +6,302 @@
 - https://cooking.nytimes.com/recipes/1023287-vegan-potato-salad-with-tahini #gf #side #summer #veg
 - https://cooking.nytimes.com/recipes/271-blueberry-polenta-upside-down-cake#notes_section #cake #dessert #summer
 - https://cooking.nytimes.com/recipes/1027053-burst-cherry-tomato-orzotto #dinner #noodles #potluck #side #summer #veg
-- https://cooking.nytimes.com/recipes/1026734-one-pot-miso-turmeric-salmon-and-coconut-rice #dinner #fish #recipe
+- https://cooking.nytimes.com/recipes/1026734-one-pot-miso-turmeric-salmon-and-coconut-rice #dinner #fish
 - https://www.nytimes.com/2025/06/18/t-magazine/summer-cornbread-recipe-cabbage.html #bread #potluck #side #veg
-- https://cooking.nytimes.com/recipes/1026826-baked-red-bean-nian-gao-mochi-cake #dessert #potluck #recipe
-- https://www.recipetineats.com/basque-cheesecake/ #dessert #recipe
-- https://cooking.nytimes.com/recipes/1026928-pistachio-halvah-rice-krispies-treats #dessert #nuts #recipe
+- https://cooking.nytimes.com/recipes/1026826-baked-red-bean-nian-gao-mochi-cake #dessert #potluck
+- https://www.recipetineats.com/basque-cheesecake/ #dessert
+- https://cooking.nytimes.com/recipes/1026928-pistachio-halvah-rice-krispies-treats #dessert #nuts
 - https://cooking.nytimes.com/recipes/1021769-herbed-chicken-and-spinach-meatballs #dinner
 - https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesan #dinner #veg
 - https://cooking.nytimes.com/recipes/1018180-perfect-buttermilk-pancakes #brunch
-- https://cooking.nytimes.com/recipes/1025743-chickpea-noodle-soup #dinner #recipe #soup #veg
+- https://cooking.nytimes.com/recipes/1025743-chickpea-noodle-soup #dinner #soup #veg
 - https://cooking.nytimes.com/recipes/1026167-scallion-oil-fish #asian #dinner #fish
-- [Spicy Miso Lentil Soup Recipe](https://cooking.nytimes.com/recipes/1026788-spicy-miso-lentil-soup) #dinner #gf #recipe #soup #veg @note:Added_to_Pocket_on_2025-04-26
-- [How to Cook Fish, the French Way - NYT Cooking](https://cooking.nytimes.com/article/dover-sole-meuniere) #dinner #fish #recipe @note:Added_to_Pocket_on_2025-03-29
-- [Caramelized-Scallion Sauce Recipe](https://cooking.nytimes.com/recipes/1019308-caramelized-scallion-sauce) #dinner #recipe @note:Added_to_Pocket_on_2025-03-28
-- [Ramen With Charred Scallions, Green Beans and Chile Oil Recipe](https://cooking.nytimes.com/recipes/1021339-ramen-with-charred-scallions-green-beans-and-chile-oil) #asian #dinner #noodles #recipe @note:Added_to_Pocket_on_2025-03-28
-- [Lazy Daisy Cake Recipe](https://cooking.nytimes.com/recipes/1026645-lazy-daisy-cake) #cake #dessert #recipe @note:Added_to_Pocket_on_2025-03-27
-- [Stir-Fried Cabbage and Pork in Fish Sauce Butter Recipe](https://cooking.nytimes.com/recipes/1026308-stir-fried-cabbage-and-pork-in-fish-sauce-butter) #asian #dinner #recipe @note:Added_to_Pocket_on_2025-03-27
-- [Fragrant Coconut Chicken and Sweet Potato  Recipe](https://cooking.nytimes.com/recipes/1026305-fragrant-coconut-chicken-and-sweet-potato) #asian #dinner #recipe @note:Added_to_Pocket_on_2025-03-27
-- [Roasted Vegetables With Creamy Coconut Dressing Recipe](https://cooking.nytimes.com/recipes/1024701-roasted-vegetables-with-creamy-coconut-dressing) #dinner #recipe #salad #side #veg @note:Added_to_Pocket_on_2025-03-26
-- [Creamy Fish With Mushrooms and Bacon Recipe](https://cooking.nytimes.com/recipes/1025317-creamy-fish-with-mushrooms-and-bacon) #dinner #fish #recipe @note:Added_to_Pocket_on_2025-03-23
-- [Chile-Lime Crispy Rice With Roasted Vegetables Recipe](https://cooking.nytimes.com/recipes/1026659-chile-lime-crispy-rice-with-roasted-vegetables) #asian #dinner #recipe #veg @note:Added_to_Pocket_on_2025-03-23
-- [Ash Reshteh (Greens, Beans and Noodle Soup)  Recipe](https://cooking.nytimes.com/recipes/1026638-ash-reshteh-greens-beans-and-noodle-soup) #dinner #noodles #recipe #soup #veg @note:Added_to_Pocket_on_2025-03-15
-- [Microwave Sticky Toffee Pudding](https://cooking.nytimes.com/recipes/1026585-microwave-sticky-toffee-pudding) #dessert #recipe @note:Added_to_Pocket_on_2025-02-25
-- [Chicken and Chickpea Tray Bake Recipe](https://cooking.nytimes.com/recipes/1026583-chicken-and-chickpea-tray-bake) #dinner #gf #recipe @note:Added_to_Pocket_on_2025-02-18
-- [Slow-Roasted Salmon With Mushroom-Leek Broth Recipe](https://cooking.nytimes.com/recipes/1021584-slow-roasted-salmon-with-mushroom-leek-broth) #asian #dinner #fish #recipe @note:Added_to_Pocket_on_2025-01-29
-- [Chile Oil Wontons Recipe (with Video)](https://cooking.nytimes.com/recipes/1026437-chile-oil-wontons) #asian #dinner #recipe @note:Added_to_Pocket_on_2025-01-29
-- [Matcha Black Sesame Rolls | Sift & Simmer](https://www.siftandsimmer.com/matcha-black-sesame-rolls/) #asian #bread #recipe @note:Added_to_Pocket_on_2025-01-27
-- [Marbled Matcha Milk Bread Recipe | King Arthur Baking](https://www.kingarthurbaking.com/recipes/marbled-matcha-milk-bread-recipe) #asian #bread #recipe @note:Added_to_Pocket_on_2025-01-27
-- [Matcha Shokupan (Japanese Milk Bread) | Sift & Simmer](https://www.siftandsimmer.com/matcha-shokupan-japanese-milk-bread/#comments) #asian #bread #recipe @note:Added_to_Pocket_on_2025-01-27
-- [Chicken and Red Lentil Soup With Lemony Yogurt  Recipe](https://cooking.nytimes.com/recipes/1026473-chicken-and-red-lentil-soup-with-lemony-yogurt) #dinner #recipe #soup @note:Added_to_Pocket_on_2025-01-17
-- [Merguez and Kale Pasta Recipe](https://cooking.nytimes.com/recipes/1024242-merguez-and-kale-pasta) #dinner #noodles #recipe @note:Added_to_Pocket_on_2025-01-13
-- [Shrimp in Rundown Sauce With Cavatelli Recipe](https://cooking.nytimes.com/recipes/1024445-shrimp-in-rundown-sauce-with-cavatelli) #dinner #noodles #recipe @note:Added_to_Pocket_on_2025-01-10
+- [Spicy Miso Lentil Soup Recipe](https://cooking.nytimes.com/recipes/1026788-spicy-miso-lentil-soup) #dinner #gf #soup #veg @note:Added_to_Pocket_on_2025-04-26
+- [How to Cook Fish, the French Way - NYT Cooking](https://cooking.nytimes.com/article/dover-sole-meuniere) #dinner #fish @note:Added_to_Pocket_on_2025-03-29
+- [Caramelized-Scallion Sauce Recipe](https://cooking.nytimes.com/recipes/1019308-caramelized-scallion-sauce) #dinner @note:Added_to_Pocket_on_2025-03-28
+- [Ramen With Charred Scallions, Green Beans and Chile Oil Recipe](https://cooking.nytimes.com/recipes/1021339-ramen-with-charred-scallions-green-beans-and-chile-oil) #asian #dinner #noodles @note:Added_to_Pocket_on_2025-03-28
+- [Lazy Daisy Cake Recipe](https://cooking.nytimes.com/recipes/1026645-lazy-daisy-cake) #cake #dessert @note:Added_to_Pocket_on_2025-03-27
+- [Stir-Fried Cabbage and Pork in Fish Sauce Butter Recipe](https://cooking.nytimes.com/recipes/1026308-stir-fried-cabbage-and-pork-in-fish-sauce-butter) #asian #dinner @note:Added_to_Pocket_on_2025-03-27
+- [Fragrant Coconut Chicken and Sweet Potato  Recipe](https://cooking.nytimes.com/recipes/1026305-fragrant-coconut-chicken-and-sweet-potato) #asian #dinner @note:Added_to_Pocket_on_2025-03-27
+- [Roasted Vegetables With Creamy Coconut Dressing Recipe](https://cooking.nytimes.com/recipes/1024701-roasted-vegetables-with-creamy-coconut-dressing) #dinner #salad #side #veg @note:Added_to_Pocket_on_2025-03-26
+- [Creamy Fish With Mushrooms and Bacon Recipe](https://cooking.nytimes.com/recipes/1025317-creamy-fish-with-mushrooms-and-bacon) #dinner #fish @note:Added_to_Pocket_on_2025-03-23
+- [Chile-Lime Crispy Rice With Roasted Vegetables Recipe](https://cooking.nytimes.com/recipes/1026659-chile-lime-crispy-rice-with-roasted-vegetables) #asian #dinner #veg @note:Added_to_Pocket_on_2025-03-23
+- [Ash Reshteh (Greens, Beans and Noodle Soup)  Recipe](https://cooking.nytimes.com/recipes/1026638-ash-reshteh-greens-beans-and-noodle-soup) #dinner #noodles #soup #veg @note:Added_to_Pocket_on_2025-03-15
+- [Microwave Sticky Toffee Pudding](https://cooking.nytimes.com/recipes/1026585-microwave-sticky-toffee-pudding) #dessert @note:Added_to_Pocket_on_2025-02-25
+- [Chicken and Chickpea Tray Bake Recipe](https://cooking.nytimes.com/recipes/1026583-chicken-and-chickpea-tray-bake) #dinner #gf @note:Added_to_Pocket_on_2025-02-18
+- [Slow-Roasted Salmon With Mushroom-Leek Broth Recipe](https://cooking.nytimes.com/recipes/1021584-slow-roasted-salmon-with-mushroom-leek-broth) #asian #dinner #fish @note:Added_to_Pocket_on_2025-01-29
+- [Chile Oil Wontons Recipe (with Video)](https://cooking.nytimes.com/recipes/1026437-chile-oil-wontons) #asian #dinner @note:Added_to_Pocket_on_2025-01-29
+- [Matcha Black Sesame Rolls | Sift & Simmer](https://www.siftandsimmer.com/matcha-black-sesame-rolls/) #asian #bread @note:Added_to_Pocket_on_2025-01-27
+- [Marbled Matcha Milk Bread Recipe | King Arthur Baking](https://www.kingarthurbaking.com/recipes/marbled-matcha-milk-bread-recipe) #asian #bread @note:Added_to_Pocket_on_2025-01-27
+- [Matcha Shokupan (Japanese Milk Bread) | Sift & Simmer](https://www.siftandsimmer.com/matcha-shokupan-japanese-milk-bread/#comments) #asian #bread @note:Added_to_Pocket_on_2025-01-27
+- [Chicken and Red Lentil Soup With Lemony Yogurt  Recipe](https://cooking.nytimes.com/recipes/1026473-chicken-and-red-lentil-soup-with-lemony-yogurt) #dinner #soup @note:Added_to_Pocket_on_2025-01-17
+- [Merguez and Kale Pasta Recipe](https://cooking.nytimes.com/recipes/1024242-merguez-and-kale-pasta) #dinner #noodles @note:Added_to_Pocket_on_2025-01-13
+- [Shrimp in Rundown Sauce With Cavatelli Recipe](https://cooking.nytimes.com/recipes/1024445-shrimp-in-rundown-sauce-with-cavatelli) #dinner #noodles @note:Added_to_Pocket_on_2025-01-10
 
 ## 2024
 
-- [https://cooking.nytimes.com/recipes/1022681-crispy-salmon-with-mixed-seeds](https://cooking.nytimes.com/recipes/1022681-crispy-salmon-with-mixed-seeds) #dinner #fish #recipe @note:Added_to_Pocket_on_2024-12-24
-- [https://cooking.nytimes.com/recipes/1023910-baked-salmon-and-dill-rice](https://cooking.nytimes.com/recipes/1023910-baked-salmon-and-dill-rice) #dinner #fish #recipe @note:Added_to_Pocket_on_2024-12-24
-- [Brown Butter Shortbread Cookies](https://www.seriouseats.com/brown-butter-shortbread-cookie-recipe) #cookies #dessert #recipe @note:Added_to_Pocket_on_2024-12-23
-- [The best pierogi dough recipe + how to make perfect pierogi (+VIDEO!)](https://www.everyday-delicious.com/the-best-pierogi-dough-recipe-how-to-make-the-best-pierogi-polish-dumplings/#comments) #dinner #recipe #veg @note:Added_to_Pocket_on_2024-12-18
-- [Mapo Ragù Recipe](https://cooking.nytimes.com/recipes/1018404-mapo-ragu) #asian #dinner #recipe @note:Added_to_Pocket_on_2024-12-16
-- [Miso Leeks With White Beans Recipe](https://cooking.nytimes.com/recipes/1025022-miso-leeks-with-white-beans) #dinner #recipe #veg @note:Added_to_Pocket_on_2024-12-11
-- [Miso Mushroom and Leek Pasta  Recipe](https://cooking.nytimes.com/recipes/1025951-miso-mushroom-and-leek-pasta) #noodles #recipe #veg @note:Added_to_Pocket_on_2024-12-06
-- [Focaccia di Recco Recipe](https://www.seriouseats.com/focaccia-di-recco-5214962) #bread #recipe @note:Added_to_Pocket_on_2024-12-04
-- [Milk tarts and special sauce spinach: Yotam Ottolenghi’s freezer-raid recipes](https://www.theguardian.com/food/2024/nov/09/yotam-ottolenghi-milk-tarts-special-sauce-stange-flavour-spinach-recipes-freezer) #recipe #veg @note:Added_to_Pocket_on_2024-12-04
-- [Pumpkin Bundt Cake With Maple Brown-Butter Glaze Recipe](https://cooking.nytimes.com/recipes/1018933-pumpkin-bundt-cake-with-maple-brown-butter-glaze) #cake #dessert #recipe @note:Added_to_Pocket_on_2024-11-27
-- [Coconut Curry Chickpeas With Pumpkin and Lime Recipe](https://cooking.nytimes.com/recipes/1020463-coconut-curry-chickpeas-with-pumpkin-and-lime) #dinner #pantry #recipe #veg @note:Added_to_Pocket_on_2024-11-15
-- [Crispy Sage Fried Chicken Recipe](https://cooking.nytimes.com/recipes/1026010-crispy-sage-fried-chicken) #dinner #fried #recipe @note:Added_to_Pocket_on_2024-11-15
-- [Spicy Big Tray Chicken](https://cooking.nytimes.com/recipes/1015473-spicy-big-tray-chicken) #asian #dinner #recipe @note:Added_to_Pocket_on_2024-11-11
-- [Hand-Pulled Noodles](https://cooking.nytimes.com/recipes/1024752-hand-pulled-noodles) #asian #dinner #noodles #recipe #veg @note:Added_to_Pocket_on_2024-11-11
-- [Chocolate Stout Cake With Coffee Glaze](https://cooking.nytimes.com/recipes/1021873-chocolate-stout-cake-with-coffee-glaze) #cake #dessert #recipe @note:Added_to_Pocket_on_2024-11-10
-- [https://www.patagoniaprovisions.com/blogs/recipes/easy-skillet-mac-and-cheese](https://www.patagoniaprovisions.com/blogs/recipes/easy-skillet-mac-and-cheese) #dinner #noodles #recipe #veg @note:Added_to_Pocket_on_2024-11-10
-- [Spicy Slow-Roasted Salmon With Cucumbers and Feta Recipe](https://cooking.nytimes.com/recipes/1019789-spicy-slow-roasted-salmon-with-cucumbers-and-feta) #dinner #fish #recipe @note:Added_to_Pocket_on_2024-11-05
-- [Lemony Chicken-Feta Meatball Soup With Spinach Recipe](https://cooking.nytimes.com/recipes/1021943-lemony-chicken-feta-meatball-soup-with-spinach) #dinner #recipe #soup @note:Added_to_Pocket_on_2024-11-05
-- [Scallion-Oil Fish Recipe](https://cooking.nytimes.com/recipes/1026167-scallion-oil-fish) #asian #dinner #fish #recipe @note:Added_to_Pocket_on_2024-11-05
-- [Bánh Bò Nướng (Honeycomb Cake) Recipe](https://cooking.nytimes.com/recipes/1025655-banh-bo-n-ng-honeycomb-cake) #cake #dessert #recipe @note:Added_to_Pocket_on_2024-11-04
-- [Squash and Spinach Salad With Sesame Vinaigrette Recipe](https://cooking.nytimes.com/recipes/1023809-squash-and-spinach-salad-with-sesame-vinaigrette) #dinner #recipe #salad #side #veg @note:Added_to_Pocket_on_2024-10-21
-- [Breakfast Salad](https://cooking.nytimes.com/recipes/1019419-breakfast-salad) #brunch #egg #gf #recipe #salad #veg @note:Added_to_Pocket_on_2024-10-20
-- [Lentil Salad With Roasted Vegetables](https://cooking.nytimes.com/recipes/1017128-lentil-salad-with-roasted-vegetables?algo=identity&fellback=true&imp_id=400262543400172&req_id=6105328794061311) #dinner #recipe #side #veg @note:Added_to_Pocket_on_2024-10-12
-- [Tofu and Tomato Egg Drop Soup](https://cooking.nytimes.com/recipes/1023123-tofu-and-tomato-egg-drop-soup) #asian #dinner #recipe #soup #veg @note:Added_to_Pocket_on_2024-10-12
-- [Lemony Greek Chicken, Spinach and Potato Stew](https://cooking.nytimes.com/recipes/1024015-lemony-greek-chicken-spinach-and-potato-stew) #dinner #recipe #soup @note:Added_to_Pocket_on_2024-10-12
-- [Miso-Mushroom Barley Soup](https://cooking.nytimes.com/recipes/1025053-miso-mushroom-barley-soup) #asian #dinner #recipe #soup #veg @note:Added_to_Pocket_on_2024-10-12
-- [Sheet-Pan Chicken With Potatoes, Arugula and Garlic Yogurt Recipe (with Video)](https://cooking.nytimes.com/recipes/1017359-sheet-pan-chicken-with-potatoes-arugula-and-garlic-yogurt) #dinner #recipe @note:Added_to_Pocket_on_2024-09-29
-- [Corn and Miso Pasta Salad Recipe](https://cooking.nytimes.com/recipes/1024306-corn-and-miso-pasta-salad) #dinner #noodles #recipe #summer #veg @note:Added_to_Pocket_on_2024-09-29
-- [Tahini Apple Tart](https://cooking.nytimes.com/recipes/1025924-tahini-apple-tart) #dessert #recipe #tried-and-true @note:Added_to_Pocket_on_2024-09-29
-- [Spanish-Style Lamb Stew Recipe](https://cooking.nytimes.com/recipes/1013115-spanish-style-lamb-stew) #dinner #recipe @note:Added_to_Pocket_on_2024-09-26
-- [https://cooking.nytimes.com/recipes/1017170-cauliflower-parmesan?smid=url-share](https://cooking.nytimes.com/recipes/1017170-cauliflower-parmesan?smid=url-share) #dinner #recipe #veg @note:Added_to_Pocket_on_2024-09-15
-- [Ube Bibingka Custard Buns](https://www.kingarthurbaking.com/recipes/ube-bibingka-custard-buns-recipe) #bread #cake #dessert #recipe @note:Added_to_Pocket_on_2024-09-01
-- [Peachberry Buckle](https://www.kingarthurbaking.com/recipes/peachberry-buckle-recipe) #brunch #cake #dessert #recipe @note:Added_to_Pocket_on_2024-09-01
-- [Spicy Mushroom and Tofu Mazemen Recipe](https://cooking.nytimes.com/recipes/1025021-spicy-mushroom-and-tofu-mazemen) #asian #dinner #noodles #recipe #summer #tried-and-true #veg @note:Added_to_Pocket_on_2024-08-26
-- [Gingery Meatballs in Tomato Sauce Recipe](https://cooking.nytimes.com/recipes/1024295-gingery-meatballs-in-tomato-sauce) #dinner #recipe #summer #tried-and-true @note:Added_to_Pocket_on_2024-08-05
-- [Crispy Pork with Avocado Salsa and Tomato Salsa](https://www.epicurious.com/recipes/food/views/crispy-pork-with-avocado-salsa-and-tomato-salsa-108049) #dinner #potluck #recipe #tried-and-true @note:Added_to_Pocket_on_2024-08-04
-- [Smoky Confit Tomato and Lemon Pasta Recipe](https://cooking.nytimes.com/recipes/1025558-smoky-confit-tomato-and-lemon-pasta) #dinner #noodles #recipe #veg @note:Added_to_Pocket_on_2024-07-18
-- [Curry Tomatoes and Chickpeas With Cucumber Yogurt Recipe](https://cooking.nytimes.com/recipes/1025658-curry-tomatoes-and-chickpeas-with-cucumber-yogurt) #dinner #recipe #side #summer #veg @note:Added_to_Pocket_on_2024-07-14
-- [Pearl Couscous Salad With Shrimp and Feta Recipe](https://cooking.nytimes.com/recipes/1025552-pearl-couscous-salad-with-shrimp-and-feta) #dinner #noodles #recipe #summer @note:Added_to_Pocket_on_2024-07-10
-- [Crispy Gnocchi With Burst Tomatoes and Mozzarella Recipe](https://cooking.nytimes.com/recipes/1022024-crispy-gnocchi-with-burst-tomatoes-and-mozzarella) #dinner #noodles #recipe #veg @note:Added_to_Pocket_on_2024-07-05
-- [Cold Sesame Noodles With Cucumber, Corn and Basil Recipe](https://cooking.nytimes.com/recipes/1024544-cold-sesame-noodles-with-cucumber-corn-and-basil) #asian #dinner #noodles #recipe #summer #veg @note:Added_to_Pocket_on_2024-07-05
-- [Black Lime Salmon Recipe](https://cooking.nytimes.com/recipes/1025467-black-lime-salmon) #dinner #fish #recipe @note:Added_to_Pocket_on_2024-07-01
-- [Skillet Pasta With Bacon and Eggs Recipe](https://cooking.nytimes.com/recipes/1024673-skillet-pasta-with-bacon-and-eggs) #dinner #noodles #recipe @note:Added_to_Pocket_on_2024-06-28
-- [Cold Noodles With Zucchini Recipe](https://cooking.nytimes.com/recipes/1025615-cold-noodles-with-zucchini) #noodles #recipe #veg @note:Added_to_Pocket_on_2024-06-28
-- [Indian Poha 101: How to Buy and Cook With Poha | Bon Appétit](https://www.bonappetit.com/story/all-about-poha) #brunch #recipe #side #veg @note:Added_to_Pocket_on_2024-06-24
-- [Tahini Ramen Salad Recipe](https://cooking.nytimes.com/recipes/1024037-tahini-ramen-salad) #dinner #noodles #recipe #side #veg @note:Added_to_Pocket_on_2024-06-09
-- [https://cooking.nytimes.com/recipes/1014804-one-pot-mujadara-with-leeks-and-greens](https://cooking.nytimes.com/recipes/1014804-one-pot-mujadara-with-leeks-and-greens) #dinner #recipe #veg @note:Added_to_Pocket_on_2024-05-28
-- [Lemon Sweet Rolls With Cream Cheese Icing](https://cooking.nytimes.com/recipes/1019242-lemon-sweet-rolls-with-cream-cheese-icing) #bread #brunch #dessert #recipe #veg @note:Added_to_Pocket_on_2024-05-26
-- [Lemony Turmeric Tea Cake](https://cooking.nytimes.com/recipes/1020637-lemony-turmeric-tea-cake) #cake #dessert #recipe @note:Added_to_Pocket_on_2024-05-26
-- [Creamy, Spicy Tomato Beans and Greens  Recipe](https://cooking.nytimes.com/recipes/1025325-creamy-spicy-tomato-beans-and-greens) #dinner #recipe #veg @note:Added_to_Pocket_on_2024-05-24
-- [Yotam Ottolenghi’s five-ingredient (or thereabouts) recipes | Chicken | The](https://www.theguardian.com/food/article/2024/may/11/yotam-ottolenghi-five-ingredient-or-thereabouts-recipes-chicken-rice-spring-onion-broad-beans) #dinner #recipe @note:Added_to_Pocket_on_2024-05-12
-- [Grilled Asparagus With Miso and Olives Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1025150-grilled-asparagus-with-miso-and-olives) #recipe #side #veg @note:Added_to_Pocket_on_2024-04-26
-- [Spicy Sesame Noodles With Chicken and Peanuts Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts) #asian #dinner #noodles #nuts #recipe @note:Added_to_Pocket_on_2024-04-18
-- [Skillet Chicken and Pearl Couscous With Moroccan Spices Recipe - NYT Cookin](https://cooking.nytimes.com/recipes/1020967-skillet-chicken-and-pearl-couscous-with-moroccan-spices) #dinner #noodles #recipe @note:Added_to_Pocket_on_2024-04-18
-- [Broccoli Rabe, Shakshuka Style Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1018252-broccoli-rabe-shakshuka-style) #brunch #dinner #egg #recipe @note:Added_to_Pocket_on_2024-04-18
-- [Green Shakshuka With Avocado and Lime Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1019468-green-shakshuka-with-avocado-and-lime) #brunch #dinner #egg #recipe #veg @note:Added_to_Pocket_on_2024-04-18
+- [https://cooking.nytimes.com/recipes/1022681-crispy-salmon-with-mixed-seeds](https://cooking.nytimes.com/recipes/1022681-crispy-salmon-with-mixed-seeds) #dinner #fish @note:Added_to_Pocket_on_2024-12-24
+- [https://cooking.nytimes.com/recipes/1023910-baked-salmon-and-dill-rice](https://cooking.nytimes.com/recipes/1023910-baked-salmon-and-dill-rice) #dinner #fish @note:Added_to_Pocket_on_2024-12-24
+- [Brown Butter Shortbread Cookies](https://www.seriouseats.com/brown-butter-shortbread-cookie-recipe) #cookies #dessert @note:Added_to_Pocket_on_2024-12-23
+- [The best pierogi dough recipe + how to make perfect pierogi (+VIDEO!)](https://www.everyday-delicious.com/the-best-pierogi-dough-recipe-how-to-make-the-best-pierogi-polish-dumplings/#comments) #dinner #veg @note:Added_to_Pocket_on_2024-12-18
+- [Mapo Ragù Recipe](https://cooking.nytimes.com/recipes/1018404-mapo-ragu) #asian #dinner @note:Added_to_Pocket_on_2024-12-16
+- [Miso Leeks With White Beans Recipe](https://cooking.nytimes.com/recipes/1025022-miso-leeks-with-white-beans) #dinner #veg @note:Added_to_Pocket_on_2024-12-11
+- [Miso Mushroom and Leek Pasta  Recipe](https://cooking.nytimes.com/recipes/1025951-miso-mushroom-and-leek-pasta) #noodles #veg @note:Added_to_Pocket_on_2024-12-06
+- [Focaccia di Recco Recipe](https://www.seriouseats.com/focaccia-di-recco-5214962) #bread @note:Added_to_Pocket_on_2024-12-04
+- [Milk tarts and special sauce spinach: Yotam Ottolenghi’s freezer-raid recipes](https://www.theguardian.com/food/2024/nov/09/yotam-ottolenghi-milk-tarts-special-sauce-stange-flavour-spinach-recipes-freezer) #veg @note:Added_to_Pocket_on_2024-12-04
+- [Pumpkin Bundt Cake With Maple Brown-Butter Glaze Recipe](https://cooking.nytimes.com/recipes/1018933-pumpkin-bundt-cake-with-maple-brown-butter-glaze) #cake #dessert @note:Added_to_Pocket_on_2024-11-27
+- [Coconut Curry Chickpeas With Pumpkin and Lime Recipe](https://cooking.nytimes.com/recipes/1020463-coconut-curry-chickpeas-with-pumpkin-and-lime) #dinner #pantry #veg @note:Added_to_Pocket_on_2024-11-15
+- [Crispy Sage Fried Chicken Recipe](https://cooking.nytimes.com/recipes/1026010-crispy-sage-fried-chicken) #dinner #fried @note:Added_to_Pocket_on_2024-11-15
+- [Spicy Big Tray Chicken](https://cooking.nytimes.com/recipes/1015473-spicy-big-tray-chicken) #asian #dinner @note:Added_to_Pocket_on_2024-11-11
+- [Hand-Pulled Noodles](https://cooking.nytimes.com/recipes/1024752-hand-pulled-noodles) #asian #dinner #noodles #veg @note:Added_to_Pocket_on_2024-11-11
+- [Chocolate Stout Cake With Coffee Glaze](https://cooking.nytimes.com/recipes/1021873-chocolate-stout-cake-with-coffee-glaze) #cake #dessert @note:Added_to_Pocket_on_2024-11-10
+- [https://www.patagoniaprovisions.com/blogs/recipes/easy-skillet-mac-and-cheese](https://www.patagoniaprovisions.com/blogs/recipes/easy-skillet-mac-and-cheese) #dinner #noodles #veg @note:Added_to_Pocket_on_2024-11-10
+- [Spicy Slow-Roasted Salmon With Cucumbers and Feta Recipe](https://cooking.nytimes.com/recipes/1019789-spicy-slow-roasted-salmon-with-cucumbers-and-feta) #dinner #fish @note:Added_to_Pocket_on_2024-11-05
+- [Lemony Chicken-Feta Meatball Soup With Spinach Recipe](https://cooking.nytimes.com/recipes/1021943-lemony-chicken-feta-meatball-soup-with-spinach) #dinner #soup @note:Added_to_Pocket_on_2024-11-05
+- [Scallion-Oil Fish Recipe](https://cooking.nytimes.com/recipes/1026167-scallion-oil-fish) #asian #dinner #fish @note:Added_to_Pocket_on_2024-11-05
+- [Bánh Bò Nướng (Honeycomb Cake) Recipe](https://cooking.nytimes.com/recipes/1025655-banh-bo-n-ng-honeycomb-cake) #cake #dessert @note:Added_to_Pocket_on_2024-11-04
+- [Squash and Spinach Salad With Sesame Vinaigrette Recipe](https://cooking.nytimes.com/recipes/1023809-squash-and-spinach-salad-with-sesame-vinaigrette) #dinner #salad #side #veg @note:Added_to_Pocket_on_2024-10-21
+- [Breakfast Salad](https://cooking.nytimes.com/recipes/1019419-breakfast-salad) #brunch #egg #gf #salad #veg @note:Added_to_Pocket_on_2024-10-20
+- [Lentil Salad With Roasted Vegetables](https://cooking.nytimes.com/recipes/1017128-lentil-salad-with-roasted-vegetables?algo=identity&fellback=true&imp_id=400262543400172&req_id=6105328794061311) #dinner #side #veg @note:Added_to_Pocket_on_2024-10-12
+- [Tofu and Tomato Egg Drop Soup](https://cooking.nytimes.com/recipes/1023123-tofu-and-tomato-egg-drop-soup) #asian #dinner #soup #veg @note:Added_to_Pocket_on_2024-10-12
+- [Lemony Greek Chicken, Spinach and Potato Stew](https://cooking.nytimes.com/recipes/1024015-lemony-greek-chicken-spinach-and-potato-stew) #dinner #soup @note:Added_to_Pocket_on_2024-10-12
+- [Miso-Mushroom Barley Soup](https://cooking.nytimes.com/recipes/1025053-miso-mushroom-barley-soup) #asian #dinner #soup #veg @note:Added_to_Pocket_on_2024-10-12
+- [Sheet-Pan Chicken With Potatoes, Arugula and Garlic Yogurt Recipe (with Video)](https://cooking.nytimes.com/recipes/1017359-sheet-pan-chicken-with-potatoes-arugula-and-garlic-yogurt) #dinner @note:Added_to_Pocket_on_2024-09-29
+- [Corn and Miso Pasta Salad Recipe](https://cooking.nytimes.com/recipes/1024306-corn-and-miso-pasta-salad) #dinner #noodles #summer #veg @note:Added_to_Pocket_on_2024-09-29
+- [Tahini Apple Tart](https://cooking.nytimes.com/recipes/1025924-tahini-apple-tart) #dessert #tried-and-true @note:Added_to_Pocket_on_2024-09-29
+- [Spanish-Style Lamb Stew Recipe](https://cooking.nytimes.com/recipes/1013115-spanish-style-lamb-stew) #dinner @note:Added_to_Pocket_on_2024-09-26
+- [https://cooking.nytimes.com/recipes/1017170-cauliflower-parmesan?smid=url-share](https://cooking.nytimes.com/recipes/1017170-cauliflower-parmesan?smid=url-share) #dinner #veg @note:Added_to_Pocket_on_2024-09-15
+- [Ube Bibingka Custard Buns](https://www.kingarthurbaking.com/recipes/ube-bibingka-custard-buns-recipe) #bread #cake #dessert @note:Added_to_Pocket_on_2024-09-01
+- [Peachberry Buckle](https://www.kingarthurbaking.com/recipes/peachberry-buckle-recipe) #brunch #cake #dessert @note:Added_to_Pocket_on_2024-09-01
+- [Spicy Mushroom and Tofu Mazemen Recipe](https://cooking.nytimes.com/recipes/1025021-spicy-mushroom-and-tofu-mazemen) #asian #dinner #noodles #summer #tried-and-true #veg @note:Added_to_Pocket_on_2024-08-26
+- [Gingery Meatballs in Tomato Sauce Recipe](https://cooking.nytimes.com/recipes/1024295-gingery-meatballs-in-tomato-sauce) #dinner #summer #tried-and-true @note:Added_to_Pocket_on_2024-08-05
+- [Crispy Pork with Avocado Salsa and Tomato Salsa](https://www.epicurious.com/recipes/food/views/crispy-pork-with-avocado-salsa-and-tomato-salsa-108049) #dinner #potluck #tried-and-true @note:Added_to_Pocket_on_2024-08-04
+- [Smoky Confit Tomato and Lemon Pasta Recipe](https://cooking.nytimes.com/recipes/1025558-smoky-confit-tomato-and-lemon-pasta) #dinner #noodles #veg @note:Added_to_Pocket_on_2024-07-18
+- [Curry Tomatoes and Chickpeas With Cucumber Yogurt Recipe](https://cooking.nytimes.com/recipes/1025658-curry-tomatoes-and-chickpeas-with-cucumber-yogurt) #dinner #side #summer #veg @note:Added_to_Pocket_on_2024-07-14
+- [Pearl Couscous Salad With Shrimp and Feta Recipe](https://cooking.nytimes.com/recipes/1025552-pearl-couscous-salad-with-shrimp-and-feta) #dinner #noodles #summer @note:Added_to_Pocket_on_2024-07-10
+- [Crispy Gnocchi With Burst Tomatoes and Mozzarella Recipe](https://cooking.nytimes.com/recipes/1022024-crispy-gnocchi-with-burst-tomatoes-and-mozzarella) #dinner #noodles #veg @note:Added_to_Pocket_on_2024-07-05
+- [Cold Sesame Noodles With Cucumber, Corn and Basil Recipe](https://cooking.nytimes.com/recipes/1024544-cold-sesame-noodles-with-cucumber-corn-and-basil) #asian #dinner #noodles #summer #veg @note:Added_to_Pocket_on_2024-07-05
+- [Black Lime Salmon Recipe](https://cooking.nytimes.com/recipes/1025467-black-lime-salmon) #dinner #fish @note:Added_to_Pocket_on_2024-07-01
+- [Skillet Pasta With Bacon and Eggs Recipe](https://cooking.nytimes.com/recipes/1024673-skillet-pasta-with-bacon-and-eggs) #dinner #noodles @note:Added_to_Pocket_on_2024-06-28
+- [Cold Noodles With Zucchini Recipe](https://cooking.nytimes.com/recipes/1025615-cold-noodles-with-zucchini) #noodles #veg @note:Added_to_Pocket_on_2024-06-28
+- [Indian Poha 101: How to Buy and Cook With Poha | Bon Appétit](https://www.bonappetit.com/story/all-about-poha) #brunch #side #veg @note:Added_to_Pocket_on_2024-06-24
+- [Tahini Ramen Salad Recipe](https://cooking.nytimes.com/recipes/1024037-tahini-ramen-salad) #dinner #noodles #side #veg @note:Added_to_Pocket_on_2024-06-09
+- [https://cooking.nytimes.com/recipes/1014804-one-pot-mujadara-with-leeks-and-greens](https://cooking.nytimes.com/recipes/1014804-one-pot-mujadara-with-leeks-and-greens) #dinner #veg @note:Added_to_Pocket_on_2024-05-28
+- [Lemon Sweet Rolls With Cream Cheese Icing](https://cooking.nytimes.com/recipes/1019242-lemon-sweet-rolls-with-cream-cheese-icing) #bread #brunch #dessert #veg @note:Added_to_Pocket_on_2024-05-26
+- [Lemony Turmeric Tea Cake](https://cooking.nytimes.com/recipes/1020637-lemony-turmeric-tea-cake) #cake #dessert @note:Added_to_Pocket_on_2024-05-26
+- [Creamy, Spicy Tomato Beans and Greens  Recipe](https://cooking.nytimes.com/recipes/1025325-creamy-spicy-tomato-beans-and-greens) #dinner #veg @note:Added_to_Pocket_on_2024-05-24
+- [Yotam Ottolenghi’s five-ingredient (or thereabouts) recipes | Chicken | The](https://www.theguardian.com/food/article/2024/may/11/yotam-ottolenghi-five-ingredient-or-thereabouts-recipes-chicken-rice-spring-onion-broad-beans) #dinner @note:Added_to_Pocket_on_2024-05-12
+- [Grilled Asparagus With Miso and Olives Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1025150-grilled-asparagus-with-miso-and-olives) #side #veg @note:Added_to_Pocket_on_2024-04-26
+- [Spicy Sesame Noodles With Chicken and Peanuts Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1020732-spicy-sesame-noodles-with-chicken-and-peanuts) #asian #dinner #noodles #nuts @note:Added_to_Pocket_on_2024-04-18
+- [Skillet Chicken and Pearl Couscous With Moroccan Spices Recipe - NYT Cookin](https://cooking.nytimes.com/recipes/1020967-skillet-chicken-and-pearl-couscous-with-moroccan-spices) #dinner #noodles @note:Added_to_Pocket_on_2024-04-18
+- [Broccoli Rabe, Shakshuka Style Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1018252-broccoli-rabe-shakshuka-style) #brunch #dinner #egg @note:Added_to_Pocket_on_2024-04-18
+- [Green Shakshuka With Avocado and Lime Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1019468-green-shakshuka-with-avocado-and-lime) #brunch #dinner #egg #veg @note:Added_to_Pocket_on_2024-04-18
 - [Lemony Pearl Barley Soup Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1025017-lemony-pearl-barley-soup) #dinner #soup #veg @note:Added_to_Pocket_on_2024-02-29
 - [Log Into Facebook](https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesan) @note:Added_to_Pocket_on_2024-01-28
 
 ## 2023
 
-- [Passion Fruit Curd](https://niksharmacooks.com/passion-fruit-curd-2/) #dessert #recipe @note:Added_to_Pocket_on_2023-12-16
-- [Thai Tea Tres Leches Cake](https://cooking.nytimes.com/recipes/1024865-thai-tea-tres-leches-cake) #cake #dessert #recipe #tea @note:Added_to_Pocket_on_2023-12-06
-- [Julia Child’s Classic French Bouillabaisse Recipe](https://familystylefood.com/julia-childs-bouillabaisse-recipe/) #dinner #fish #recipe #soup @note:Added_to_Pocket_on_2023-12-03
-- [Mark Bittman’s Bouillabaisse](https://cooking.nytimes.com/recipes/12637-mark-bittmans-bouillabaisse) #dinner #fish #recipe #soup @note:Added_to_Pocket_on_2023-12-03
-- [Fish pie with a rosti topping recipe by Rosie Sykes](https://www.theguardian.com/food/2023/jan/30/fish-pie-with-rosti-topping-recipe-rosie-sykes) #dinner #fish #recipe @note:Added_to_Pocket_on_2023-11-22
-- [Sungold Tomato Pasta](https://wishbonekitchen.com/sungold-tomato-pasta/) #noodles #recipe #veg @note:Added_to_Pocket_on_2023-09-11
-- [Coconut Fish and Tomato Bake](https://cooking.nytimes.com/recipes/1022129-coconut-fish-and-tomato-bake) #dinner #fish #recipe @note:Added_to_Pocket_on_2023-08-28
-- [Superiority Burger’s Crispy Fried Tofu Sandwich](https://cooking.nytimes.com/recipes/1021237-superiority-burgers-crispy-fried-tofu-sandwich) #dinner #recipe #veg @note:Added_to_Pocket_on_2023-08-07
-- [Cauliflower Shawarma With Spicy Tahini](https://cooking.nytimes.com/recipes/1023019-cauliflower-shawarma-with-spicy-tahini) #dinner #recipe #veg @note:Added_to_Pocket_on_2023-08-07
-- [Four Levels of Vegetarian Sandwiches](https://www.nytimes.com/2023/08/03/dining/four-levels-of-vegetarian-sandwiches.html) #dinner #recipe #veg @note:Added_to_Pocket_on_2023-08-06
-- [Feast of the Seven Fishes Pie](https://cooking.nytimes.com/recipes/1020712-feast-of-the-seven-fishes-pie) #dinner #fish #recipe @note:Added_to_Pocket_on_2023-07-06
-- [Dumpling Tomato Salad With Chile Crisp Vinaigrette](https://cooking.nytimes.com/recipes/1024075-dumpling-tomato-salad-with-chile-crisp-vinaigrette) #asian #dinner #recipe #summer @note:Added_to_Pocket_on_2023-06-24
-- [Cold Noodles With Tomatoes](https://cooking.nytimes.com/recipes/1022543-cold-noodles-with-tomatoes) #asian #dinner #noodles #potluck #recipe #summer #veg @note:Added_to_Pocket_on_2023-06-24
-- [Toasted Sesame and Citrus Wedding Cake](https://cooking.nytimes.com/recipes/1024238-toasted-sesame-and-citrus-wedding-cake) #cake #dessert #recipe @note:Added_to_Pocket_on_2023-06-04
-- [Gochujang Burger With Spicy Slaw](https://cooking.nytimes.com/recipes/1023423-gochujang-burger-with-spicy-slaw) #dinner #grill #recipe @note:Added_to_Pocket_on_2023-06-04
-- [Chef Mel's Genuine Journey: Charred sweet corn ice cream](https://www.wickedlocal.com/story/the-winchester-star/2017/07/29/chef-mel-s-genuine-journey/20056098007/) #dessert #recipe @note:Added_to_Pocket_on_2023-05-18
-- [Spring Tofu Soup Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1021030-spring-tofu-soup) #dinner #gf #recipe #soup #tried-and-true #veg @note:Added_to_Pocket_on_2023-05-16
-- [Feijoada (Brazilian Black Bean Stew) Recipe • Curious Cuisiniere](https://www.curiouscuisiniere.com/feijoada-brazilian-black-bean-stew/) #dinner #noodles #recipe @note:Added_to_Pocket_on_2023-04-21
-- [Ash Reshteh (Persian Greens, Bean and Noodle Soup)](https://cooking.nytimes.com/recipes/1020205-ash-reshteh-persian-greens-bean-and-noodle-soup) #dinner #noodles #recipe #soup #veg @note:Added_to_Pocket_on_2023-03-11
-- [Ash Reshteh - Persian Noodle Soup](https://www.proportionalplate.com/ash-reshteh/) #dinner #noodles #recipe #soup #veg @note:Added_to_Pocket_on_2023-03-11
-- [Julia Child's Tian de Courgettes au Riz (Zucchini Tian)](https://food52.com/recipes/18672-julia-child-s-tian-de-courgettes-au-riz-zucchini-tian) #dinner #recipe #side #veg @note:Added_to_Pocket_on_2023-03-08
-- [One-pot miso corn pasta](https://www.abc.net.au/everyday/one-pot-miso-corn-pasta-recipe/100999086) #dinner #noodles #recipe #veg @note:Added_to_Pocket_on_2023-03-08
-- [corn butter farro](https://smittenkitchen.com/2022/08/corn-butter-farro/) #dinner #recipe #side #veg @note:Added_to_Pocket_on_2023-03-08
-- [https://food52.com/recipes/87490-best-broccoli-pesto-recipe](https://food52.com/recipes/87490-best-broccoli-pesto-recipe) #dinner #noodles #recipe #veg @note:Added_to_Pocket_on_2023-03-07
-- [From lamb meatballs to kale pesto: Yotam Ottolenghi’s one-pot pasta recipes](https://www.theguardian.com/food/2023/feb/25/from-lamb-meatballs-to-kale-pesto-yotam-ottolenghis-one-pot-pasta-recipes) #noodles #recipe @note:Added_to_Pocket_on_2023-02-26
+- [Passion Fruit Curd](https://niksharmacooks.com/passion-fruit-curd-2/) #dessert @note:Added_to_Pocket_on_2023-12-16
+- [Thai Tea Tres Leches Cake](https://cooking.nytimes.com/recipes/1024865-thai-tea-tres-leches-cake) #cake #dessert #tea @note:Added_to_Pocket_on_2023-12-06
+- [Julia Child’s Classic French Bouillabaisse Recipe](https://familystylefood.com/julia-childs-bouillabaisse-recipe/) #dinner #fish #soup @note:Added_to_Pocket_on_2023-12-03
+- [Mark Bittman’s Bouillabaisse](https://cooking.nytimes.com/recipes/12637-mark-bittmans-bouillabaisse) #dinner #fish #soup @note:Added_to_Pocket_on_2023-12-03
+- [Fish pie with a rosti topping recipe by Rosie Sykes](https://www.theguardian.com/food/2023/jan/30/fish-pie-with-rosti-topping-recipe-rosie-sykes) #dinner #fish @note:Added_to_Pocket_on_2023-11-22
+- [Sungold Tomato Pasta](https://wishbonekitchen.com/sungold-tomato-pasta/) #noodles #veg @note:Added_to_Pocket_on_2023-09-11
+- [Coconut Fish and Tomato Bake](https://cooking.nytimes.com/recipes/1022129-coconut-fish-and-tomato-bake) #dinner #fish @note:Added_to_Pocket_on_2023-08-28
+- [Superiority Burger’s Crispy Fried Tofu Sandwich](https://cooking.nytimes.com/recipes/1021237-superiority-burgers-crispy-fried-tofu-sandwich) #dinner #veg @note:Added_to_Pocket_on_2023-08-07
+- [Cauliflower Shawarma With Spicy Tahini](https://cooking.nytimes.com/recipes/1023019-cauliflower-shawarma-with-spicy-tahini) #dinner #veg @note:Added_to_Pocket_on_2023-08-07
+- [Four Levels of Vegetarian Sandwiches](https://www.nytimes.com/2023/08/03/dining/four-levels-of-vegetarian-sandwiches.html) #dinner #veg @note:Added_to_Pocket_on_2023-08-06
+- [Feast of the Seven Fishes Pie](https://cooking.nytimes.com/recipes/1020712-feast-of-the-seven-fishes-pie) #dinner #fish @note:Added_to_Pocket_on_2023-07-06
+- [Dumpling Tomato Salad With Chile Crisp Vinaigrette](https://cooking.nytimes.com/recipes/1024075-dumpling-tomato-salad-with-chile-crisp-vinaigrette) #asian #dinner #summer @note:Added_to_Pocket_on_2023-06-24
+- [Cold Noodles With Tomatoes](https://cooking.nytimes.com/recipes/1022543-cold-noodles-with-tomatoes) #asian #dinner #noodles #potluck #summer #veg @note:Added_to_Pocket_on_2023-06-24
+- [Toasted Sesame and Citrus Wedding Cake](https://cooking.nytimes.com/recipes/1024238-toasted-sesame-and-citrus-wedding-cake) #cake #dessert @note:Added_to_Pocket_on_2023-06-04
+- [Gochujang Burger With Spicy Slaw](https://cooking.nytimes.com/recipes/1023423-gochujang-burger-with-spicy-slaw) #dinner #grill @note:Added_to_Pocket_on_2023-06-04
+- [Chef Mel's Genuine Journey: Charred sweet corn ice cream](https://www.wickedlocal.com/story/the-winchester-star/2017/07/29/chef-mel-s-genuine-journey/20056098007/) #dessert @note:Added_to_Pocket_on_2023-05-18
+- [Spring Tofu Soup Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1021030-spring-tofu-soup) #dinner #gf #soup #tried-and-true #veg @note:Added_to_Pocket_on_2023-05-16
+- [Feijoada (Brazilian Black Bean Stew) Recipe • Curious Cuisiniere](https://www.curiouscuisiniere.com/feijoada-brazilian-black-bean-stew/) #dinner #noodles @note:Added_to_Pocket_on_2023-04-21
+- [Ash Reshteh (Persian Greens, Bean and Noodle Soup)](https://cooking.nytimes.com/recipes/1020205-ash-reshteh-persian-greens-bean-and-noodle-soup) #dinner #noodles #soup #veg @note:Added_to_Pocket_on_2023-03-11
+- [Ash Reshteh - Persian Noodle Soup](https://www.proportionalplate.com/ash-reshteh/) #dinner #noodles #soup #veg @note:Added_to_Pocket_on_2023-03-11
+- [Julia Child's Tian de Courgettes au Riz (Zucchini Tian)](https://food52.com/recipes/18672-julia-child-s-tian-de-courgettes-au-riz-zucchini-tian) #dinner #side #veg @note:Added_to_Pocket_on_2023-03-08
+- [One-pot miso corn pasta](https://www.abc.net.au/everyday/one-pot-miso-corn-pasta-recipe/100999086) #dinner #noodles #veg @note:Added_to_Pocket_on_2023-03-08
+- [corn butter farro](https://smittenkitchen.com/2022/08/corn-butter-farro/) #dinner #side #veg @note:Added_to_Pocket_on_2023-03-08
+- [https://food52.com/recipes/87490-best-broccoli-pesto-recipe](https://food52.com/recipes/87490-best-broccoli-pesto-recipe) #dinner #noodles #veg @note:Added_to_Pocket_on_2023-03-07
+- [From lamb meatballs to kale pesto: Yotam Ottolenghi’s one-pot pasta recipes](https://www.theguardian.com/food/2023/feb/25/from-lamb-meatballs-to-kale-pesto-yotam-ottolenghis-one-pot-pasta-recipes) #noodles @note:Added_to_Pocket_on_2023-02-26
 - [5 Dinners to Stress-Cook and Stress-Eat During Stress-Time, a.k.a Election ](https://www.epicurious.com/recipes-menus/5-dinners-to-stress-cook-and-stress-eat-during-election-week-article) @note:Added_to_Pocket_on_2023-02-24
-- [Lemon cream pie, buttered toast crust](https://sassafrascurio.substack.com/p/lemon-cream-pie-buttered-toast-crust) #dessert #recipe @note:Added_to_Pocket_on_2023-02-20
-- [https://www.foodandwine.com/recipes/easy-seeded-rye-bread](https://www.foodandwine.com/recipes/easy-seeded-rye-bread) #bread #recipe @note:Added_to_Pocket_on_2023-01-25
+- [Lemon cream pie, buttered toast crust](https://sassafrascurio.substack.com/p/lemon-cream-pie-buttered-toast-crust) #dessert @note:Added_to_Pocket_on_2023-02-20
+- [https://www.foodandwine.com/recipes/easy-seeded-rye-bread](https://www.foodandwine.com/recipes/easy-seeded-rye-bread) #bread @note:Added_to_Pocket_on_2023-01-25
 - [Building Resilient Organizations | The Forge](https://forgeorganizing.org/article/building-resilient-organizations) @note:Added_to_Pocket_on_2023-01-24
-- [Labaniyeh bil Ruz (Garlicky Yogurt and Rice Porridge) Recipe](https://www.seriouseats.com/labaniyeh-bil-ruz-5180234) #dinner #recipe #veg @note:Added_to_Pocket_on_2023-01-06
-- [Harissa (Armenian Wheat and Chicken Porridge)](https://www.seriouseats.com/harissa-armenian-wheat-and-chicken-porridge-recipe-5224855) #dinner #recipe #soup @note:Added_to_Pocket_on_2023-01-05
+- [Labaniyeh bil Ruz (Garlicky Yogurt and Rice Porridge) Recipe](https://www.seriouseats.com/labaniyeh-bil-ruz-5180234) #dinner #veg @note:Added_to_Pocket_on_2023-01-06
+- [Harissa (Armenian Wheat and Chicken Porridge)](https://www.seriouseats.com/harissa-armenian-wheat-and-chicken-porridge-recipe-5224855) #dinner #soup @note:Added_to_Pocket_on_2023-01-05
 
 ## 2022
 
-- [Cantonese Slippery Eggs with Tofu and Peas Recipe](https://www.seriouseats.com/cantonese-eggs-with-tofu-and-peas-recipe-5218067) #asian #dinner #egg #recipe #veg @note:Added_to_Pocket_on_2022-12-11
-- [West Lake Soup Recipe](https://www.seriouseats.com/west-lake-soup-chichis-chinese-recipe) #asian #beef #egg #recipe #soup @note:Added_to_Pocket_on_2022-12-11
-- [Guizhou Rice Shake (冰浆)](https://www.youtube.com/watch?v=4CQY05nXT-s) #asian #drink #recipe @note:Added_to_Pocket_on_2022-12-11
-- [Breakfast Split Pea Soup from Yunnan (稀豆粉)](https://www.youtube.com/watch?v=vUqYd68OTv8) #asian #brunch #recipe #veg @note:Added_to_Pocket_on_2022-12-11
-- [Steamed Pork Buns (Xian Rou Bao)](https://www.kingarthurbaking.com/recipes/steamed-pork-buns-xian-rou-bao-recipe) #asian #dinner #recipe @note:Added_to_Pocket_on_2022-12-06
-- [Sesame-Brown Butter Udon Noodles Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1023588-sesame-brown-butter-udon-noodles) #asian #dinner #noodles #recipe #veg @note:Added_to_Pocket_on_2022-12-01
+- [Cantonese Slippery Eggs with Tofu and Peas Recipe](https://www.seriouseats.com/cantonese-eggs-with-tofu-and-peas-recipe-5218067) #asian #dinner #egg #veg @note:Added_to_Pocket_on_2022-12-11
+- [West Lake Soup Recipe](https://www.seriouseats.com/west-lake-soup-chichis-chinese-recipe) #asian #beef #egg #soup @note:Added_to_Pocket_on_2022-12-11
+- [Guizhou Rice Shake (冰浆)](https://www.youtube.com/watch?v=4CQY05nXT-s) #asian #drink @note:Added_to_Pocket_on_2022-12-11
+- [Breakfast Split Pea Soup from Yunnan (稀豆粉)](https://www.youtube.com/watch?v=vUqYd68OTv8) #asian #brunch #veg @note:Added_to_Pocket_on_2022-12-11
+- [Steamed Pork Buns (Xian Rou Bao)](https://www.kingarthurbaking.com/recipes/steamed-pork-buns-xian-rou-bao-recipe) #asian #dinner @note:Added_to_Pocket_on_2022-12-06
+- [Sesame-Brown Butter Udon Noodles Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1023588-sesame-brown-butter-udon-noodles) #asian #dinner #noodles #veg @note:Added_to_Pocket_on_2022-12-01
 - [Cranberry Curd Tart Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1017817-cranberry-curd-tart) #dessert @note:Added_to_Pocket_on_2022-11-24
-- [Maple-Baked Salmon Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1021718-maple-baked-salmon) #dinner #fish #recipe @note:Added_to_Pocket_on_2022-11-24
-- [Cumin Tofu Stir-Fry](https://cooking.nytimes.com/recipes/1022438-cumin-tofu-stir-fry) #dinner #recipe #veg @note:Added_to_Pocket_on_2022-11-20
-- [Old-Fashioned Doughnut Bundt Cake Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1019623-old-fashioned-doughnut-bundt-cake) #cake #dessert #recipe @note:Added_to_Pocket_on_2022-11-15
-- [Moroccan-Spiced Chicken Meatballs Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1022719-moroccan-spiced-chicken-meatballs) #dinner #recipe @note:Added_to_Pocket_on_2022-11-14
-- [Chewy Curried Pork Donuts From Mandy Lee](https://food52.com/recipes/88371-chewy-curried-pork-donuts) #recipe @note:Added_to_Pocket_on_2022-10-12
-- [Roasted Cauliflower Soup Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1019934-roasted-cauliflower-soup) #dinner #recipe #soup #veg @note:Added_to_Pocket_on_2022-09-23
-- [https://cooking.nytimes.com/recipes/1023051-spring-barley-soup](https://cooking.nytimes.com/recipes/1023051-spring-barley-soup) #dinner #recipe #soup #veg @note:Added_to_Pocket_on_2022-09-23
-- [https://cooking.nytimes.com/recipes/1022040-spring-pasta-bolognese-with-lamb-and-peas](https://cooking.nytimes.com/recipes/1022040-spring-pasta-bolognese-with-lamb-and-peas) #dinner #noodles #recipe @note:Added_to_Pocket_on_2022-09-23
-- [https://cooking.nytimes.com/recipes/1021938-ginger-dill-salmon](https://cooking.nytimes.com/recipes/1021938-ginger-dill-salmon) #dinner #fish #recipe #salad @note:Added_to_Pocket_on_2022-09-23
-- [https://cooking.nytimes.com/recipes/1023156-baghali-ghatogh-fava-bean-stew](https://cooking.nytimes.com/recipes/1023156-baghali-ghatogh-fava-bean-stew) #dinner #recipe #soup #veg @note:Added_to_Pocket_on_2022-09-23
-- [https://cooking.nytimes.com/recipes/1022127-lemony-pea-and-spinach-soup](https://cooking.nytimes.com/recipes/1022127-lemony-pea-and-spinach-soup) #dinner #recipe #soup #veg @note:Added_to_Pocket_on_2022-09-23
-- [https://cooking.nytimes.com/recipes/1020613-celery-leek-soup-with-potato-and-parsley](https://cooking.nytimes.com/recipes/1020613-celery-leek-soup-with-potato-and-parsley) #potluck #recipe #soup #veg @note:Added_to_Pocket_on_2022-09-23
-- [27 Of Our Favorite Tofu Recipes - The Woks of Life](https://thewoksoflife.com/27-favorite-tofu-recipes/) #asian #dinner #recipe #veg @note:Added_to_Pocket_on_2022-08-29
-- [https://tcho.com/blogs/recipes-desserts/ube-sweet-potato-pie-with-chocolate-crust](https://tcho.com/blogs/recipes-desserts/ube-sweet-potato-pie-with-chocolate-crust) #dessert #recipe @note:Added_to_Pocket_on_2022-08-11
-- [https://cooking.nytimes.com/recipes/1022063-brothy-cod-with-peas-and-mushrooms](https://cooking.nytimes.com/recipes/1022063-brothy-cod-with-peas-and-mushrooms) #dinner #fish #recipe #soup @note:Added_to_Pocket_on_2022-05-16
-- [https://cooking.nytimes.com/recipes/1019768-baked-eggs-for-a-crowd](https://cooking.nytimes.com/recipes/1019768-baked-eggs-for-a-crowd) #brunch #egg #recipe #veg @note:Added_to_Pocket_on_2022-05-14
-- [Spicy Shrimp and Chickpea Salad Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1022161-spicy-shrimp-and-chickpea-salad) #dinner #recipe @note:Added_to_Pocket_on_2022-05-09
-- [From dal to butter beans: Yotam Ottolenghi's recipes for legumes | Food | T](https://amp.theguardian.com/food/2020/oct/17/from-dal-to-butter-beans-yotam-ottolenghi-legumes-recipes) #dinner #recipe #veg @note:Added_to_Pocket_on_2022-05-01
-- [https://www.cooking-therapy.com/vegetarian-banh-cuon/](https://www.cooking-therapy.com/vegetarian-banh-cuon/) #asian #dinner #recipe #veg @note:Added_to_Pocket_on_2022-03-31
-- [https://www.cooking-therapy.com/banh-cuon-recipe/](https://www.cooking-therapy.com/banh-cuon-recipe/) #asian #dinner #recipe @note:Added_to_Pocket_on_2022-03-31
-- [https://www.indianhealthyrecipes.com/khaman-dhokla/](https://www.indianhealthyrecipes.com/khaman-dhokla/) #potluck #recipe #veg @note:Added_to_Pocket_on_2022-03-20
-- [https://ottolenghi.co.uk/recipes/slow-cooked-chicken-with-a-crisp-corn-crust](https://ottolenghi.co.uk/recipes/slow-cooked-chicken-with-a-crisp-corn-crust) #dinner #recipe @note:Added_to_Pocket_on_2022-03-11
-- [https://www.washingtonpost.com/food/2022/03/06/chickpea-flour-omelet-recipe/](https://www.washingtonpost.com/food/2022/03/06/chickpea-flour-omelet-recipe/) #brunch #dinner #recipe #veg @note:Added_to_Pocket_on_2022-03-07
-- [https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles](https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles) #dinner #noodles #recipe #veg @note:Added_to_Pocket_on_2022-03-06
-- [https://cooking.nytimes.com/recipes/1023008-oxtail-and-butter-beans](https://cooking.nytimes.com/recipes/1023008-oxtail-and-butter-beans) #beef #dinner #recipe @note:Added_to_Pocket_on_2022-03-06
-- [https://cooking.nytimes.com/recipes/1020187-spiced-chickpea-salad-with-tahini-and-pita-chips](https://cooking.nytimes.com/recipes/1020187-spiced-chickpea-salad-with-tahini-and-pita-chips) #dinner #recipe #salad #veg @note:Added_to_Pocket_on_2022-03-01
-- [https://cooking.nytimes.com/recipes/1021939-sholeh-zard-persian-rice-pudding](https://cooking.nytimes.com/recipes/1021939-sholeh-zard-persian-rice-pudding) #dessert #gf #recipe @note:Added_to_Pocket_on_2022-03-01
-- [https://www.101cookbooks.com/vegetarian-paella/](https://www.101cookbooks.com/vegetarian-paella/) #dinner #recipe #veg @note:Added_to_Pocket_on_2022-02-28
-- [Dorayaki, galettes and blintzes: Yotam Ottolenghi’s pancake recipes from ar](https://www.theguardian.com/food/2022/feb/26/dorayaki-galettes-blintzes-yotam-ottolenghi-pancake-recipes-from-around-the-world) #brunch #egg #recipe @note:Added_to_Pocket_on_2022-02-26
-- [https://www.theguardian.com/food/2022/feb/05/yotam-ottolenghi-filipino-recipes-pork-lumpia-prawn-coconut-stew-pandan-tapioca-custards](https://www.theguardian.com/food/2022/feb/05/yotam-ottolenghi-filipino-recipes-pork-lumpia-prawn-coconut-stew-pandan-tapioca-custards) #asian #dinner #recipe #soup @note:Added_to_Pocket_on_2022-02-05
-- [https://www.101cookbooks.com/tlt-sandwich/](https://www.101cookbooks.com/tlt-sandwich/) #dinner #recipe #veg @note:Added_to_Pocket_on_2022-02-05
-- [https://www.101cookbooks.com/archives/tempeh-curry-recipe.html](https://www.101cookbooks.com/archives/tempeh-curry-recipe.html) #dinner #recipe #tried-and-true #veg @note:Added_to_Pocket_on_2022-02-05
-- [https://cooking.nytimes.com/recipes/1019542-velvet-fish-with-mushrooms](https://cooking.nytimes.com/recipes/1019542-velvet-fish-with-mushrooms) #asian #dinner #fish #recipe @note:Added_to_Pocket_on_2022-01-31
-- [https://cooking.nytimes.com/recipes/1021840-pressure-cooker-vietnamese-caramel-pork-and-eggs](https://cooking.nytimes.com/recipes/1021840-pressure-cooker-vietnamese-caramel-pork-and-eggs) #asian #dinner #recipe @note:Added_to_Pocket_on_2022-01-31
-- [https://thewoksoflife.com/shanghai-scallion-flatbread-qiang-bing/](https://thewoksoflife.com/shanghai-scallion-flatbread-qiang-bing/) #asian #bread #recipe @note:Added_to_Pocket_on_2022-01-30
-- [https://cooking.nytimes.com/recipes/1020854-rice-cake-soup-with-bok-choy-and-edamame](https://cooking.nytimes.com/recipes/1020854-rice-cake-soup-with-bok-choy-and-edamame) #asian #dinner #recipe #soup #veg @note:Added_to_Pocket_on_2022-01-30
-- [https://cooking.nytimes.com/recipes/1021833-thit-heo-kho-trung-pork-and-eggs-in-caramel-sauce](https://cooking.nytimes.com/recipes/1021833-thit-heo-kho-trung-pork-and-eggs-in-caramel-sauce) #asian #dinner #recipe @note:Added_to_Pocket_on_2022-01-30
-- [https://cooking.nytimes.com/recipes/1022930-cock-a-leekie-soup-scottish-chicken-and-leek-soup](https://cooking.nytimes.com/recipes/1022930-cock-a-leekie-soup-scottish-chicken-and-leek-soup) #dinner #recipe #soup @note:Added_to_Pocket_on_2022-01-30
-- [https://cooking.nytimes.com/recipes/1020727-chickpea-and-herb-fatteh](https://cooking.nytimes.com/recipes/1020727-chickpea-and-herb-fatteh) #potluck #recipe #veg @note:Added_to_Pocket_on_2022-01-18
-- [https://japan.recipetineats.com/hiroshima-okonomiyaki/](https://japan.recipetineats.com/hiroshima-okonomiyaki/) #asian #brunch #dinner #noodles #recipe @note:Added_to_Pocket_on_2022-01-14
-- [https://www.bonappetit.com/recipe/thai-roast-chicken-thighs-with-coconut-rice](https://www.bonappetit.com/recipe/thai-roast-chicken-thighs-with-coconut-rice) #asian #dinner #recipe @note:Added_to_Pocket_on_2022-01-03
+- [Maple-Baked Salmon Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1021718-maple-baked-salmon) #dinner #fish @note:Added_to_Pocket_on_2022-11-24
+- [Cumin Tofu Stir-Fry](https://cooking.nytimes.com/recipes/1022438-cumin-tofu-stir-fry) #dinner #veg @note:Added_to_Pocket_on_2022-11-20
+- [Old-Fashioned Doughnut Bundt Cake Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1019623-old-fashioned-doughnut-bundt-cake) #cake #dessert @note:Added_to_Pocket_on_2022-11-15
+- [Moroccan-Spiced Chicken Meatballs Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1022719-moroccan-spiced-chicken-meatballs) #dinner @note:Added_to_Pocket_on_2022-11-14
+- [Chewy Curried Pork Donuts From Mandy Lee](https://food52.com/recipes/88371-chewy-curried-pork-donuts) @note:Added_to_Pocket_on_2022-10-12
+- [Roasted Cauliflower Soup Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1019934-roasted-cauliflower-soup) #dinner #soup #veg @note:Added_to_Pocket_on_2022-09-23
+- [https://cooking.nytimes.com/recipes/1023051-spring-barley-soup](https://cooking.nytimes.com/recipes/1023051-spring-barley-soup) #dinner #soup #veg @note:Added_to_Pocket_on_2022-09-23
+- [https://cooking.nytimes.com/recipes/1022040-spring-pasta-bolognese-with-lamb-and-peas](https://cooking.nytimes.com/recipes/1022040-spring-pasta-bolognese-with-lamb-and-peas) #dinner #noodles @note:Added_to_Pocket_on_2022-09-23
+- [https://cooking.nytimes.com/recipes/1021938-ginger-dill-salmon](https://cooking.nytimes.com/recipes/1021938-ginger-dill-salmon) #dinner #fish #salad @note:Added_to_Pocket_on_2022-09-23
+- [https://cooking.nytimes.com/recipes/1023156-baghali-ghatogh-fava-bean-stew](https://cooking.nytimes.com/recipes/1023156-baghali-ghatogh-fava-bean-stew) #dinner #soup #veg @note:Added_to_Pocket_on_2022-09-23
+- [https://cooking.nytimes.com/recipes/1022127-lemony-pea-and-spinach-soup](https://cooking.nytimes.com/recipes/1022127-lemony-pea-and-spinach-soup) #dinner #soup #veg @note:Added_to_Pocket_on_2022-09-23
+- [https://cooking.nytimes.com/recipes/1020613-celery-leek-soup-with-potato-and-parsley](https://cooking.nytimes.com/recipes/1020613-celery-leek-soup-with-potato-and-parsley) #potluck #soup #veg @note:Added_to_Pocket_on_2022-09-23
+- [27 Of Our Favorite Tofu Recipes - The Woks of Life](https://thewoksoflife.com/27-favorite-tofu-recipes/) #asian #dinner #veg @note:Added_to_Pocket_on_2022-08-29
+- [https://tcho.com/blogs/recipes-desserts/ube-sweet-potato-pie-with-chocolate-crust](https://tcho.com/blogs/recipes-desserts/ube-sweet-potato-pie-with-chocolate-crust) #dessert @note:Added_to_Pocket_on_2022-08-11
+- [https://cooking.nytimes.com/recipes/1022063-brothy-cod-with-peas-and-mushrooms](https://cooking.nytimes.com/recipes/1022063-brothy-cod-with-peas-and-mushrooms) #dinner #fish #soup @note:Added_to_Pocket_on_2022-05-16
+- [https://cooking.nytimes.com/recipes/1019768-baked-eggs-for-a-crowd](https://cooking.nytimes.com/recipes/1019768-baked-eggs-for-a-crowd) #brunch #egg #veg @note:Added_to_Pocket_on_2022-05-14
+- [Spicy Shrimp and Chickpea Salad Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1022161-spicy-shrimp-and-chickpea-salad) #dinner @note:Added_to_Pocket_on_2022-05-09
+- [From dal to butter beans: Yotam Ottolenghi's recipes for legumes | Food | T](https://amp.theguardian.com/food/2020/oct/17/from-dal-to-butter-beans-yotam-ottolenghi-legumes-recipes) #dinner #veg @note:Added_to_Pocket_on_2022-05-01
+- [https://www.cooking-therapy.com/vegetarian-banh-cuon/](https://www.cooking-therapy.com/vegetarian-banh-cuon/) #asian #dinner #veg @note:Added_to_Pocket_on_2022-03-31
+- [https://www.cooking-therapy.com/banh-cuon-recipe/](https://www.cooking-therapy.com/banh-cuon-recipe/) #asian #dinner @note:Added_to_Pocket_on_2022-03-31
+- [https://www.indianhealthyrecipes.com/khaman-dhokla/](https://www.indianhealthyrecipes.com/khaman-dhokla/) #potluck #veg @note:Added_to_Pocket_on_2022-03-20
+- [https://ottolenghi.co.uk/recipes/slow-cooked-chicken-with-a-crisp-corn-crust](https://ottolenghi.co.uk/recipes/slow-cooked-chicken-with-a-crisp-corn-crust) #dinner @note:Added_to_Pocket_on_2022-03-11
+- [https://www.washingtonpost.com/food/2022/03/06/chickpea-flour-omelet-recipe/](https://www.washingtonpost.com/food/2022/03/06/chickpea-flour-omelet-recipe/) #brunch #dinner #veg @note:Added_to_Pocket_on_2022-03-07
+- [https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles](https://cooking.nytimes.com/recipes/1023012-san-francisco-style-vietnamese-american-garlic-noodles) #dinner #noodles #veg @note:Added_to_Pocket_on_2022-03-06
+- [https://cooking.nytimes.com/recipes/1023008-oxtail-and-butter-beans](https://cooking.nytimes.com/recipes/1023008-oxtail-and-butter-beans) #beef #dinner @note:Added_to_Pocket_on_2022-03-06
+- [https://cooking.nytimes.com/recipes/1020187-spiced-chickpea-salad-with-tahini-and-pita-chips](https://cooking.nytimes.com/recipes/1020187-spiced-chickpea-salad-with-tahini-and-pita-chips) #dinner #salad #veg @note:Added_to_Pocket_on_2022-03-01
+- [https://cooking.nytimes.com/recipes/1021939-sholeh-zard-persian-rice-pudding](https://cooking.nytimes.com/recipes/1021939-sholeh-zard-persian-rice-pudding) #dessert #gf @note:Added_to_Pocket_on_2022-03-01
+- [https://www.101cookbooks.com/vegetarian-paella/](https://www.101cookbooks.com/vegetarian-paella/) #dinner #veg @note:Added_to_Pocket_on_2022-02-28
+- [Dorayaki, galettes and blintzes: Yotam Ottolenghi’s pancake recipes from ar](https://www.theguardian.com/food/2022/feb/26/dorayaki-galettes-blintzes-yotam-ottolenghi-pancake-recipes-from-around-the-world) #brunch #egg @note:Added_to_Pocket_on_2022-02-26
+- [https://www.theguardian.com/food/2022/feb/05/yotam-ottolenghi-filipino-recipes-pork-lumpia-prawn-coconut-stew-pandan-tapioca-custards](https://www.theguardian.com/food/2022/feb/05/yotam-ottolenghi-filipino-recipes-pork-lumpia-prawn-coconut-stew-pandan-tapioca-custards) #asian #dinner #soup @note:Added_to_Pocket_on_2022-02-05
+- [https://www.101cookbooks.com/tlt-sandwich/](https://www.101cookbooks.com/tlt-sandwich/) #dinner #veg @note:Added_to_Pocket_on_2022-02-05
+- [https://www.101cookbooks.com/archives/tempeh-curry-recipe.html](https://www.101cookbooks.com/archives/tempeh-curry-recipe.html) #dinner #tried-and-true #veg @note:Added_to_Pocket_on_2022-02-05
+- [https://cooking.nytimes.com/recipes/1019542-velvet-fish-with-mushrooms](https://cooking.nytimes.com/recipes/1019542-velvet-fish-with-mushrooms) #asian #dinner #fish @note:Added_to_Pocket_on_2022-01-31
+- [https://cooking.nytimes.com/recipes/1021840-pressure-cooker-vietnamese-caramel-pork-and-eggs](https://cooking.nytimes.com/recipes/1021840-pressure-cooker-vietnamese-caramel-pork-and-eggs) #asian #dinner @note:Added_to_Pocket_on_2022-01-31
+- [https://thewoksoflife.com/shanghai-scallion-flatbread-qiang-bing/](https://thewoksoflife.com/shanghai-scallion-flatbread-qiang-bing/) #asian #bread @note:Added_to_Pocket_on_2022-01-30
+- [https://cooking.nytimes.com/recipes/1020854-rice-cake-soup-with-bok-choy-and-edamame](https://cooking.nytimes.com/recipes/1020854-rice-cake-soup-with-bok-choy-and-edamame) #asian #dinner #soup #veg @note:Added_to_Pocket_on_2022-01-30
+- [https://cooking.nytimes.com/recipes/1021833-thit-heo-kho-trung-pork-and-eggs-in-caramel-sauce](https://cooking.nytimes.com/recipes/1021833-thit-heo-kho-trung-pork-and-eggs-in-caramel-sauce) #asian #dinner @note:Added_to_Pocket_on_2022-01-30
+- [https://cooking.nytimes.com/recipes/1022930-cock-a-leekie-soup-scottish-chicken-and-leek-soup](https://cooking.nytimes.com/recipes/1022930-cock-a-leekie-soup-scottish-chicken-and-leek-soup) #dinner #soup @note:Added_to_Pocket_on_2022-01-30
+- [https://cooking.nytimes.com/recipes/1020727-chickpea-and-herb-fatteh](https://cooking.nytimes.com/recipes/1020727-chickpea-and-herb-fatteh) #potluck #veg @note:Added_to_Pocket_on_2022-01-18
+- [https://japan.recipetineats.com/hiroshima-okonomiyaki/](https://japan.recipetineats.com/hiroshima-okonomiyaki/) #asian #brunch #dinner #noodles @note:Added_to_Pocket_on_2022-01-14
+- [https://www.bonappetit.com/recipe/thai-roast-chicken-thighs-with-coconut-rice](https://www.bonappetit.com/recipe/thai-roast-chicken-thighs-with-coconut-rice) #asian #dinner @note:Added_to_Pocket_on_2022-01-03
 
 ## 2021
 
-- [Eggs, tomatoes, feta and fruit: Yotam Ottolenghi’s brunch recipes | Food | ](https://www.theguardian.com/food/2021/oct/02/eggs-rougaille-leek-cheese-pita-pepper-dip-grilled-pineapple-maple-lime-dressing-yotam-ottolenghi-brunch-recipes) #brunch #egg #recipe @note:Added_to_Pocket_on_2021-12-13
-- [https://cooking.nytimes.com/recipes/1022691-savory-mixed-nut-shortbread](https://cooking.nytimes.com/recipes/1022691-savory-mixed-nut-shortbread) #cookies #dessert #recipe @note:Added_to_Pocket_on_2021-12-13
-- [https://cooking.nytimes.com/recipes/1021487-mapo-tofu-spaghetti](https://cooking.nytimes.com/recipes/1021487-mapo-tofu-spaghetti) #asian #dinner #noodles #recipe @note:Added_to_Pocket_on_2021-12-05
-- [https://cooking.nytimes.com/recipes/11948-gruyere-puff](https://cooking.nytimes.com/recipes/11948-gruyere-puff) #recipe #side #veg @note:Added_to_Pocket_on_2021-12-05
-- [https://cooking.nytimes.com/recipes/1020666-japanese-cheesecake](https://cooking.nytimes.com/recipes/1020666-japanese-cheesecake) #asian #cake #dessert #recipe @note:Added_to_Pocket_on_2021-12-05
-- [https://cooking.nytimes.com/recipes/1022669-french-onion-stuffing](https://cooking.nytimes.com/recipes/1022669-french-onion-stuffing) #bread #dinner #potluck #recipe #veg @note:Added_to_Pocket_on_2021-11-24
-- [https://cooking.nytimes.com/recipes/1022670-persian-rice-stuffed-onions](https://cooking.nytimes.com/recipes/1022670-persian-rice-stuffed-onions) #dinner #potluck #recipe #veg @note:Added_to_Pocket_on_2021-11-24
-- [https://iamafoodblog.com/vegan-taiwanese-popcorn-chickpea-chicken-recipe/](https://iamafoodblog.com/vegan-taiwanese-popcorn-chickpea-chicken-recipe/) #asian #dinner #fried #recipe #veg @note:Added_to_Pocket_on_2021-10-31
-- [https://cooking.nytimes.com/recipes/1021582-taiwanese-popcorn-chicken-with-fried-basil](https://cooking.nytimes.com/recipes/1021582-taiwanese-popcorn-chicken-with-fried-basil) #asian #dinner #fried #recipe #tried-and-true @note:Added_to_Pocket_on_2021-10-31
-- [Ottolenghi’s za’atar salmon and tahini recipe | The Independent](https://www.independent.co.uk/life-style/food-and-drink/ottolenghi-salmon-tahini-zaatar-recipe-b1935596.html) #dinner #fish #recipe #tried-and-true @note:Added_to_Pocket_on_2021-10-12
-- [Miso-Maple Loaf Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1022610-miso-maple-loaf) #cake #dessert #recipe @note:Added_to_Pocket_on_2021-10-09
-- [Italian rice cake and allspice chicken: Yotam Ottolenghi’s rice recipes | F](https://www.theguardian.com/food/2021/oct/09/italian-rice-cake-and-allspice-chicken-with-dill-rice-yotam-ottolenghi-rice-recipes) #cake #dessert #recipe @note:Added_to_Pocket_on_2021-10-09
-- [https://web.archive.org/web/20191203104527/http://www.limeandcilantro.com/2016/02/burmese-bean-thread-noodle-soup.html](https://web.archive.org/web/20191203104527/http://www.limeandcilantro.com/2016/02/burmese-bean-thread-noodle-soup.html) #dinner #recipe #soup #veg @note:Added_to_Pocket_on_2021-08-31
-- [https://chefoodrevolution.com/en/red-lentil-patties-packed-with-iron-and-perfect-for-summer/](https://chefoodrevolution.com/en/red-lentil-patties-packed-with-iron-and-perfect-for-summer/) #dinner #recipe #veg @note:Added_to_Pocket_on_2021-08-31
-- [https://food52.com/recipes/82939-red-lentil-kofte](https://food52.com/recipes/82939-red-lentil-kofte) #dinner #recipe #veg @note:Added_to_Pocket_on_2021-08-31
-- [https://cooking.nytimes.com/recipes/1021161-caramelized-corn-and-asparagus-pasta-with-ricotta](https://cooking.nytimes.com/recipes/1021161-caramelized-corn-and-asparagus-pasta-with-ricotta) #dinner #noodles #recipe #veg @note:Added_to_Pocket_on_2021-08-11
-- [https://cooking.nytimes.com/recipes/1018212-creamy-corn-pasta-with-basil](https://cooking.nytimes.com/recipes/1018212-creamy-corn-pasta-with-basil) #dinner #noodles #recipe #tried-and-true #veg @note:Added_to_Pocket_on_2021-08-11
-- [https://www.epicurious.com/recipes/food/views/masa-pancakes-alan-delgado](https://www.epicurious.com/recipes/food/views/masa-pancakes-alan-delgado) #brunch #recipe #veg @note:Added_to_Pocket_on_2021-06-27
-- [https://afghancooks.com/mashawa-soup/](https://afghancooks.com/mashawa-soup/) #dinner #recipe #soup #tried-and-true #veg @note:Added_to_Pocket_on_2021-06-14
-- [https://www.feastingathome.com/moroccan-eggs/](https://www.feastingathome.com/moroccan-eggs/) #brunch #dinner #egg #recipe @note:Added_to_Pocket_on_2021-06-14
-- [https://www.saveur.com/article/recipes/makhlama-lahm-iraqi-eggs-with-lamb-and-tomatoes/](https://www.saveur.com/article/recipes/makhlama-lahm-iraqi-eggs-with-lamb-and-tomatoes/) #brunch #dinner #egg #recipe @note:Added_to_Pocket_on_2021-06-14
-- [https://www.seriouseats.com/galam-plee-nam-pla-thai-stir-fried-cabbage-with-fish-sauce-and-garlic](https://www.seriouseats.com/galam-plee-nam-pla-thai-stir-fried-cabbage-with-fish-sauce-and-garlic) #asian #recipe #side #veg @note:Added_to_Pocket_on_2021-06-07
-- [https://www.seriouseats.com/yam-khai-do-thai-fried-egg-salad](https://www.seriouseats.com/yam-khai-do-thai-fried-egg-salad) #asian #egg #recipe #salad #veg @note:Added_to_Pocket_on_2021-06-07
+- [Eggs, tomatoes, feta and fruit: Yotam Ottolenghi’s brunch recipes | Food | ](https://www.theguardian.com/food/2021/oct/02/eggs-rougaille-leek-cheese-pita-pepper-dip-grilled-pineapple-maple-lime-dressing-yotam-ottolenghi-brunch-recipes) #brunch #egg @note:Added_to_Pocket_on_2021-12-13
+- [https://cooking.nytimes.com/recipes/1022691-savory-mixed-nut-shortbread](https://cooking.nytimes.com/recipes/1022691-savory-mixed-nut-shortbread) #cookies #dessert @note:Added_to_Pocket_on_2021-12-13
+- [https://cooking.nytimes.com/recipes/1021487-mapo-tofu-spaghetti](https://cooking.nytimes.com/recipes/1021487-mapo-tofu-spaghetti) #asian #dinner #noodles @note:Added_to_Pocket_on_2021-12-05
+- [https://cooking.nytimes.com/recipes/11948-gruyere-puff](https://cooking.nytimes.com/recipes/11948-gruyere-puff) #side #veg @note:Added_to_Pocket_on_2021-12-05
+- [https://cooking.nytimes.com/recipes/1020666-japanese-cheesecake](https://cooking.nytimes.com/recipes/1020666-japanese-cheesecake) #asian #cake #dessert @note:Added_to_Pocket_on_2021-12-05
+- [https://cooking.nytimes.com/recipes/1022669-french-onion-stuffing](https://cooking.nytimes.com/recipes/1022669-french-onion-stuffing) #bread #dinner #potluck #veg @note:Added_to_Pocket_on_2021-11-24
+- [https://cooking.nytimes.com/recipes/1022670-persian-rice-stuffed-onions](https://cooking.nytimes.com/recipes/1022670-persian-rice-stuffed-onions) #dinner #potluck #veg @note:Added_to_Pocket_on_2021-11-24
+- [https://iamafoodblog.com/vegan-taiwanese-popcorn-chickpea-chicken-recipe/](https://iamafoodblog.com/vegan-taiwanese-popcorn-chickpea-chicken-recipe/) #asian #dinner #fried #veg @note:Added_to_Pocket_on_2021-10-31
+- [https://cooking.nytimes.com/recipes/1021582-taiwanese-popcorn-chicken-with-fried-basil](https://cooking.nytimes.com/recipes/1021582-taiwanese-popcorn-chicken-with-fried-basil) #asian #dinner #fried #tried-and-true @note:Added_to_Pocket_on_2021-10-31
+- [Ottolenghi’s za’atar salmon and tahini recipe | The Independent](https://www.independent.co.uk/life-style/food-and-drink/ottolenghi-salmon-tahini-zaatar-recipe-b1935596.html) #dinner #fish #tried-and-true @note:Added_to_Pocket_on_2021-10-12
+- [Miso-Maple Loaf Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1022610-miso-maple-loaf) #cake #dessert @note:Added_to_Pocket_on_2021-10-09
+- [Italian rice cake and allspice chicken: Yotam Ottolenghi’s rice recipes | F](https://www.theguardian.com/food/2021/oct/09/italian-rice-cake-and-allspice-chicken-with-dill-rice-yotam-ottolenghi-rice-recipes) #cake #dessert @note:Added_to_Pocket_on_2021-10-09
+- [https://web.archive.org/web/20191203104527/http://www.limeandcilantro.com/2016/02/burmese-bean-thread-noodle-soup.html](https://web.archive.org/web/20191203104527/http://www.limeandcilantro.com/2016/02/burmese-bean-thread-noodle-soup.html) #dinner #soup #veg @note:Added_to_Pocket_on_2021-08-31
+- [https://chefoodrevolution.com/en/red-lentil-patties-packed-with-iron-and-perfect-for-summer/](https://chefoodrevolution.com/en/red-lentil-patties-packed-with-iron-and-perfect-for-summer/) #dinner #veg @note:Added_to_Pocket_on_2021-08-31
+- [https://food52.com/recipes/82939-red-lentil-kofte](https://food52.com/recipes/82939-red-lentil-kofte) #dinner #veg @note:Added_to_Pocket_on_2021-08-31
+- [https://cooking.nytimes.com/recipes/1021161-caramelized-corn-and-asparagus-pasta-with-ricotta](https://cooking.nytimes.com/recipes/1021161-caramelized-corn-and-asparagus-pasta-with-ricotta) #dinner #noodles #veg @note:Added_to_Pocket_on_2021-08-11
+- [https://cooking.nytimes.com/recipes/1018212-creamy-corn-pasta-with-basil](https://cooking.nytimes.com/recipes/1018212-creamy-corn-pasta-with-basil) #dinner #noodles #tried-and-true #veg @note:Added_to_Pocket_on_2021-08-11
+- [https://www.epicurious.com/recipes/food/views/masa-pancakes-alan-delgado](https://www.epicurious.com/recipes/food/views/masa-pancakes-alan-delgado) #brunch #veg @note:Added_to_Pocket_on_2021-06-27
+- [https://afghancooks.com/mashawa-soup/](https://afghancooks.com/mashawa-soup/) #dinner #soup #tried-and-true #veg @note:Added_to_Pocket_on_2021-06-14
+- [https://www.feastingathome.com/moroccan-eggs/](https://www.feastingathome.com/moroccan-eggs/) #brunch #dinner #egg @note:Added_to_Pocket_on_2021-06-14
+- [https://www.saveur.com/article/recipes/makhlama-lahm-iraqi-eggs-with-lamb-and-tomatoes/](https://www.saveur.com/article/recipes/makhlama-lahm-iraqi-eggs-with-lamb-and-tomatoes/) #brunch #dinner #egg @note:Added_to_Pocket_on_2021-06-14
+- [https://www.seriouseats.com/galam-plee-nam-pla-thai-stir-fried-cabbage-with-fish-sauce-and-garlic](https://www.seriouseats.com/galam-plee-nam-pla-thai-stir-fried-cabbage-with-fish-sauce-and-garlic) #asian #side #veg @note:Added_to_Pocket_on_2021-06-07
+- [https://www.seriouseats.com/yam-khai-do-thai-fried-egg-salad](https://www.seriouseats.com/yam-khai-do-thai-fried-egg-salad) #asian #egg #salad #veg @note:Added_to_Pocket_on_2021-06-07
 - [The Lab-Leak Theory: Inside the Fight to Uncover COVID-19’s Origins | Vanit](https://www.vanityfair.com/news/2021/06/the-lab-leak-theory-inside-the-fight-to-uncover-covid-19s-origins) @note:Added_to_Pocket_on_2021-06-05
 - [https://smittenkitchen.com/2021/04/sheet-pan-chow-mein/#:~:text=%20Sheet%20Pan%20Chow%20Mein%20%201%201,asparagus%2C%20sugar%20snaps%2C%20or%20snow%20peas%2C...%20More%20](https://smittenkitchen.com/2021/04/sheet-pan-chow-mein/#:~:text=%20Sheet%20Pan%20Chow%20Mein%20%201%201,asparagus%2C%20sugar%20snaps%2C%20or%20snow%20peas%2C...%20More%20) #asian #dinner #noodles #veg @note:Added_to_Pocket_on_2021-04-19
-- [http://somanymiles.com/2019/04/khao-soi-lao-rice-noodles/](http://somanymiles.com/2019/04/khao-soi-lao-rice-noodles/) #asian #dinner #noodles #recipe #soup @note:Added_to_Pocket_on_2021-03-02
-- [https://www.theguardian.com/food/2021/feb/13/from-lime-gravadlax-to-pulled-lamb-yotam-ottolenghi-slow-cooked-recipes](https://www.theguardian.com/food/2021/feb/13/from-lime-gravadlax-to-pulled-lamb-yotam-ottolenghi-slow-cooked-recipes) #cake #dessert #dinner #recipe @note:Added_to_Pocket_on_2021-02-13
-- [https://cooking.nytimes.com/recipes/1021789-fried-tagliatelle-with-chickpeas-and-smoky-tomatoes](https://cooking.nytimes.com/recipes/1021789-fried-tagliatelle-with-chickpeas-and-smoky-tomatoes) #dinner #noodles #pantry #recipe #veg @note:Added_to_Pocket_on_2021-01-23
-- [https://www.theguardian.com/food/2021/jan/09/yotam-ottolenghis-recipes-warming-winter-soups-spinach-dulse-dal-pita-noodle-meat-broth-pomegranate-beetroot](https://www.theguardian.com/food/2021/jan/09/yotam-ottolenghis-recipes-warming-winter-soups-spinach-dulse-dal-pita-noodle-meat-broth-pomegranate-beetroot) #noodles #recipe #soup #veg @note:Added_to_Pocket_on_2021-01-10
-- [https://cooking.nytimes.com/recipes/1021769-herbed-chicken-and-spinach-meatballs](https://cooking.nytimes.com/recipes/1021769-herbed-chicken-and-spinach-meatballs) #recipe #tried-and-true @note:Added_to_Pocket_on_2021-01-07
+- [http://somanymiles.com/2019/04/khao-soi-lao-rice-noodles/](http://somanymiles.com/2019/04/khao-soi-lao-rice-noodles/) #asian #dinner #noodles #soup @note:Added_to_Pocket_on_2021-03-02
+- [https://www.theguardian.com/food/2021/feb/13/from-lime-gravadlax-to-pulled-lamb-yotam-ottolenghi-slow-cooked-recipes](https://www.theguardian.com/food/2021/feb/13/from-lime-gravadlax-to-pulled-lamb-yotam-ottolenghi-slow-cooked-recipes) #cake #dessert #dinner @note:Added_to_Pocket_on_2021-02-13
+- [https://cooking.nytimes.com/recipes/1021789-fried-tagliatelle-with-chickpeas-and-smoky-tomatoes](https://cooking.nytimes.com/recipes/1021789-fried-tagliatelle-with-chickpeas-and-smoky-tomatoes) #dinner #noodles #pantry #veg @note:Added_to_Pocket_on_2021-01-23
+- [https://www.theguardian.com/food/2021/jan/09/yotam-ottolenghis-recipes-warming-winter-soups-spinach-dulse-dal-pita-noodle-meat-broth-pomegranate-beetroot](https://www.theguardian.com/food/2021/jan/09/yotam-ottolenghis-recipes-warming-winter-soups-spinach-dulse-dal-pita-noodle-meat-broth-pomegranate-beetroot) #noodles #soup #veg @note:Added_to_Pocket_on_2021-01-10
+- [https://cooking.nytimes.com/recipes/1021769-herbed-chicken-and-spinach-meatballs](https://cooking.nytimes.com/recipes/1021769-herbed-chicken-and-spinach-meatballs) #tried-and-true @note:Added_to_Pocket_on_2021-01-07
 
 ## 2020
 
-- [https://cooking.nytimes.com/recipes/1018570-chinese-stir-fried-tomatoes-and-eggs](https://cooking.nytimes.com/recipes/1018570-chinese-stir-fried-tomatoes-and-eggs) #asian #brunch #dinner #egg #recipe #tried-and-true #veg @note:Added_to_Pocket_on_2020-09-05
-- [https://cooking.nytimes.com/recipes/1020401-warm-fig-and-chocolate-sponge-cake?action=click&module=Recirculation%20Band%20Recipe%20Card&region=More%20recipes%20from%20Yotam%20Ottolenghi&pgType=recipedetails&rank=3](https://cooking.nytimes.com/recipes/1020401-warm-fig-and-chocolate-sponge-cake?action=click&module=Recirculation%20Band%20Recipe%20Card&region=More%20recipes%20from%20Yotam%20Ottolenghi&pgType=recipedetails&rank=3) #cake #dessert #recipe @note:Added_to_Pocket_on_2020-08-23
-- [https://cooking.nytimes.com/recipes/1021286-one-pan-crispy-spaghetti-and-chicken](https://cooking.nytimes.com/recipes/1021286-one-pan-crispy-spaghetti-and-chicken) #dinner #noodles #recipe @note:Added_to_Pocket_on_2020-08-23
-- [https://www.101cookbooks.com/chocolate-fudge-tahini-cake/](https://www.101cookbooks.com/chocolate-fudge-tahini-cake/) #cake #dessert #recipe @note:Added_to_Pocket_on_2020-08-19
-- [https://www.seriouseats.com/2016/03/the-food-lab-vegan-experience-best-homemade-falafel.html](https://www.seriouseats.com/2016/03/the-food-lab-vegan-experience-best-homemade-falafel.html) #dinner #fried #recipe #tried-and-true #veg @note:Added_to_Pocket_on_2020-08-18
-- [https://www.bonappetit.com/recipe/healthyish-lentil-burgers](https://www.bonappetit.com/recipe/healthyish-lentil-burgers) #dinner #recipe #veg @note:Added_to_Pocket_on_2020-06-29
-- [https://www.epicurious.com/recipes/food/views/lentil-bolognese](https://www.epicurious.com/recipes/food/views/lentil-bolognese) #dinner #noodles #pantry #recipe #veg @note:Added_to_Pocket_on_2020-06-26
-- [https://www.ranchogordo.com/blogs/blog/slow-baked-garbanzos](https://www.ranchogordo.com/blogs/blog/slow-baked-garbanzos) #recipe #veg @note:Added_to_Pocket_on_2020-06-05
-- [https://www.epicurious.com/recipes/food/views/tunisian-aromatic-fish-soup-with-potatoes-321](https://www.epicurious.com/recipes/food/views/tunisian-aromatic-fish-soup-with-potatoes-321) #fish #recipe #soup @note:Added_to_Pocket_on_2020-03-13
-- [https://www.thebittenword.com/thebittenword/2016/03/persian-style-rice-with-golden-crust-chelow.html](https://www.thebittenword.com/thebittenword/2016/03/persian-style-rice-with-golden-crust-chelow.html) #dinner #potluck #recipe #tried-and-true #veg @note:Added_to_Pocket_on_2020-03-08
-- [https://katykeck.com/cheese-crisp/](https://katykeck.com/cheese-crisp/) #potluck #recipe #veg @note:Added_to_Pocket_on_2020-01-13
+- [https://cooking.nytimes.com/recipes/1018570-chinese-stir-fried-tomatoes-and-eggs](https://cooking.nytimes.com/recipes/1018570-chinese-stir-fried-tomatoes-and-eggs) #asian #brunch #dinner #egg #tried-and-true #veg @note:Added_to_Pocket_on_2020-09-05
+- [https://cooking.nytimes.com/recipes/1020401-warm-fig-and-chocolate-sponge-cake?action=click&module=Recirculation%20Band%20Recipe%20Card&region=More%20recipes%20from%20Yotam%20Ottolenghi&pgType=recipedetails&rank=3](https://cooking.nytimes.com/recipes/1020401-warm-fig-and-chocolate-sponge-cake?action=click&module=Recirculation%20Band%20Recipe%20Card&region=More%20recipes%20from%20Yotam%20Ottolenghi&pgType=recipedetails&rank=3) #cake #dessert @note:Added_to_Pocket_on_2020-08-23
+- [https://cooking.nytimes.com/recipes/1021286-one-pan-crispy-spaghetti-and-chicken](https://cooking.nytimes.com/recipes/1021286-one-pan-crispy-spaghetti-and-chicken) #dinner #noodles @note:Added_to_Pocket_on_2020-08-23
+- [https://www.101cookbooks.com/chocolate-fudge-tahini-cake/](https://www.101cookbooks.com/chocolate-fudge-tahini-cake/) #cake #dessert @note:Added_to_Pocket_on_2020-08-19
+- [https://www.seriouseats.com/2016/03/the-food-lab-vegan-experience-best-homemade-falafel.html](https://www.seriouseats.com/2016/03/the-food-lab-vegan-experience-best-homemade-falafel.html) #dinner #fried #tried-and-true #veg @note:Added_to_Pocket_on_2020-08-18
+- [https://www.bonappetit.com/recipe/healthyish-lentil-burgers](https://www.bonappetit.com/recipe/healthyish-lentil-burgers) #dinner #veg @note:Added_to_Pocket_on_2020-06-29
+- [https://www.epicurious.com/recipes/food/views/lentil-bolognese](https://www.epicurious.com/recipes/food/views/lentil-bolognese) #dinner #noodles #pantry #veg @note:Added_to_Pocket_on_2020-06-26
+- [https://www.ranchogordo.com/blogs/blog/slow-baked-garbanzos](https://www.ranchogordo.com/blogs/blog/slow-baked-garbanzos) #veg @note:Added_to_Pocket_on_2020-06-05
+- [https://www.epicurious.com/recipes/food/views/tunisian-aromatic-fish-soup-with-potatoes-321](https://www.epicurious.com/recipes/food/views/tunisian-aromatic-fish-soup-with-potatoes-321) #fish #soup @note:Added_to_Pocket_on_2020-03-13
+- [https://www.thebittenword.com/thebittenword/2016/03/persian-style-rice-with-golden-crust-chelow.html](https://www.thebittenword.com/thebittenword/2016/03/persian-style-rice-with-golden-crust-chelow.html) #dinner #potluck #tried-and-true #veg @note:Added_to_Pocket_on_2020-03-08
+- [https://katykeck.com/cheese-crisp/](https://katykeck.com/cheese-crisp/) #potluck #veg @note:Added_to_Pocket_on_2020-01-13
 
 ## 2019
 
-- [https://www.thekitchn.com/recipe-quicker-spicy-rice-cakes-253300](https://www.thekitchn.com/recipe-quicker-spicy-rice-cakes-253300) #asian #dinner #recipe @note:Added_to_Pocket_on_2019-10-08
-- [https://www.bonappetit.com/recipe/nutty-grain-and-oat-bars](https://www.bonappetit.com/recipe/nutty-grain-and-oat-bars) #recipe @note:Added_to_Pocket_on_2019-09-23
-- [https://www.theguardian.com/food/2019/jul/27/yotam-ottolenghi-miso-recipes-gochujang-eggs-leeks-sticky-bananas](https://www.theguardian.com/food/2019/jul/27/yotam-ottolenghi-miso-recipes-gochujang-eggs-leeks-sticky-bananas) #brunch #dinner #egg #recipe @note:Added_to_Pocket_on_2019-09-22
-- [https://food52.com/recipes/63237-koupa-pie](https://food52.com/recipes/63237-koupa-pie) #dinner #potluck #recipe #tried-and-true @note:Added_to_Pocket_on_2019-09-14
-- [https://cooking.nytimes.com/recipes/1019384-coconut-poached-fish-with-bok-choy](https://cooking.nytimes.com/recipes/1019384-coconut-poached-fish-with-bok-choy) #asian #dinner #fish #recipe #tried-and-true @note:Added_to_Pocket_on_2019-07-21
-- [https://smittenkitchen.com/2018/12/baklava-babka](https://smittenkitchen.com/2018/12/baklava-babka) #bread #cake #dessert #nuts #recipe @note:Added_to_Pocket_on_2019-06-16
-- [https://smittenkitchen.com/2019/05/potato-vareniki](https://smittenkitchen.com/2019/05/potato-vareniki) #dinner #noodles #recipe #veg @note:Added_to_Pocket_on_2019-06-16
-- [https://www.theguardian.com/food/2019/apr/20/yotam-ottolenghi-dumpling-recipes-aubergine-ricotta-gnocchi-rum-currant-speculaas](https://www.theguardian.com/food/2019/apr/20/yotam-ottolenghi-dumpling-recipes-aubergine-ricotta-gnocchi-rum-currant-speculaas) #dinner #recipe @note:Added_to_Pocket_on_2019-05-07
-- [https://www.theguardian.com/food/2019/apr/06/lamb-aubergine-kofta-mushroom-bake-meatball-recipe-yotam-ottolenghi](https://www.theguardian.com/food/2019/apr/06/lamb-aubergine-kofta-mushroom-bake-meatball-recipe-yotam-ottolenghi) #dinner #recipe @note:Added_to_Pocket_on_2019-05-07
-- [https://www.theguardian.com/food/2019/may/04/yotam-ottolenghi-broccoli-recipes-fried-pickled-rocket-pasta-mushroom-ketchup](https://www.theguardian.com/food/2019/may/04/yotam-ottolenghi-broccoli-recipes-fried-pickled-rocket-pasta-mushroom-ketchup) #recipe #side #veg @note:Added_to_Pocket_on_2019-05-07
-- [https://smittenkitchen.com/2018/04/crispy-tofu-pad-thai/](https://smittenkitchen.com/2018/04/crispy-tofu-pad-thai/) #asian #dinner #noodles #recipe @note:Added_to_Pocket_on_2019-04-14
-- [https://www.theguardian.com/food/2019/apr/13/yotam-ottolenghi-easter-recipes-devilled-eggs-rice-lamb-chicken-chocolate-orange-bread](https://www.theguardian.com/food/2019/apr/13/yotam-ottolenghi-easter-recipes-devilled-eggs-rice-lamb-chicken-chocolate-orange-bread) #asian #bread #brunch #egg #potluck #recipe @note:Added_to_Pocket_on_2019-04-13
-- [https://food52.com/recipes/80653-hannah-bae-s-toasted-rice-ice-cream](https://food52.com/recipes/80653-hannah-bae-s-toasted-rice-ice-cream) #dessert #recipe @note:Added_to_Pocket_on_2019-03-13
-- [https://www.theguardian.com/food/2019/jan/19/yotam-ottolenghi-recipes-traybakes-pork-mushroom-pasta-spicy-chicken-chickpeas](https://www.theguardian.com/food/2019/jan/19/yotam-ottolenghi-recipes-traybakes-pork-mushroom-pasta-spicy-chicken-chickpeas) #dinner #recipe @note:Added_to_Pocket_on_2019-03-09
-- [https://www.bonappetit.com/recipe/barbecue-carrots-with-yogurt-and-pecans](https://www.bonappetit.com/recipe/barbecue-carrots-with-yogurt-and-pecans) #recipe #side #veg @note:Added_to_Pocket_on_2019-02-24
-- [https://www.bbcgoodfood.com/recipes/166615/walkers-wild-mushroom-bacon-and-barley-broth](https://www.bbcgoodfood.com/recipes/166615/walkers-wild-mushroom-bacon-and-barley-broth) #dinner #recipe #soup @note:Added_to_Pocket_on_2019-01-28
+- [https://www.thekitchn.com/recipe-quicker-spicy-rice-cakes-253300](https://www.thekitchn.com/recipe-quicker-spicy-rice-cakes-253300) #asian #dinner @note:Added_to_Pocket_on_2019-10-08
+- [https://www.bonappetit.com/recipe/nutty-grain-and-oat-bars](https://www.bonappetit.com/recipe/nutty-grain-and-oat-bars) @note:Added_to_Pocket_on_2019-09-23
+- [https://www.theguardian.com/food/2019/jul/27/yotam-ottolenghi-miso-recipes-gochujang-eggs-leeks-sticky-bananas](https://www.theguardian.com/food/2019/jul/27/yotam-ottolenghi-miso-recipes-gochujang-eggs-leeks-sticky-bananas) #brunch #dinner #egg @note:Added_to_Pocket_on_2019-09-22
+- [https://food52.com/recipes/63237-koupa-pie](https://food52.com/recipes/63237-koupa-pie) #dinner #potluck #tried-and-true @note:Added_to_Pocket_on_2019-09-14
+- [https://cooking.nytimes.com/recipes/1019384-coconut-poached-fish-with-bok-choy](https://cooking.nytimes.com/recipes/1019384-coconut-poached-fish-with-bok-choy) #asian #dinner #fish #tried-and-true @note:Added_to_Pocket_on_2019-07-21
+- [https://smittenkitchen.com/2018/12/baklava-babka](https://smittenkitchen.com/2018/12/baklava-babka) #bread #cake #dessert #nuts @note:Added_to_Pocket_on_2019-06-16
+- [https://smittenkitchen.com/2019/05/potato-vareniki](https://smittenkitchen.com/2019/05/potato-vareniki) #dinner #noodles #veg @note:Added_to_Pocket_on_2019-06-16
+- [https://www.theguardian.com/food/2019/apr/20/yotam-ottolenghi-dumpling-recipes-aubergine-ricotta-gnocchi-rum-currant-speculaas](https://www.theguardian.com/food/2019/apr/20/yotam-ottolenghi-dumpling-recipes-aubergine-ricotta-gnocchi-rum-currant-speculaas) #dinner @note:Added_to_Pocket_on_2019-05-07
+- [https://www.theguardian.com/food/2019/apr/06/lamb-aubergine-kofta-mushroom-bake-meatball-recipe-yotam-ottolenghi](https://www.theguardian.com/food/2019/apr/06/lamb-aubergine-kofta-mushroom-bake-meatball-recipe-yotam-ottolenghi) #dinner @note:Added_to_Pocket_on_2019-05-07
+- [https://www.theguardian.com/food/2019/may/04/yotam-ottolenghi-broccoli-recipes-fried-pickled-rocket-pasta-mushroom-ketchup](https://www.theguardian.com/food/2019/may/04/yotam-ottolenghi-broccoli-recipes-fried-pickled-rocket-pasta-mushroom-ketchup) #side #veg @note:Added_to_Pocket_on_2019-05-07
+- [https://smittenkitchen.com/2018/04/crispy-tofu-pad-thai/](https://smittenkitchen.com/2018/04/crispy-tofu-pad-thai/) #asian #dinner #noodles @note:Added_to_Pocket_on_2019-04-14
+- [https://www.theguardian.com/food/2019/apr/13/yotam-ottolenghi-easter-recipes-devilled-eggs-rice-lamb-chicken-chocolate-orange-bread](https://www.theguardian.com/food/2019/apr/13/yotam-ottolenghi-easter-recipes-devilled-eggs-rice-lamb-chicken-chocolate-orange-bread) #asian #bread #brunch #egg #potluck @note:Added_to_Pocket_on_2019-04-13
+- [https://food52.com/recipes/80653-hannah-bae-s-toasted-rice-ice-cream](https://food52.com/recipes/80653-hannah-bae-s-toasted-rice-ice-cream) #dessert @note:Added_to_Pocket_on_2019-03-13
+- [https://www.theguardian.com/food/2019/jan/19/yotam-ottolenghi-recipes-traybakes-pork-mushroom-pasta-spicy-chicken-chickpeas](https://www.theguardian.com/food/2019/jan/19/yotam-ottolenghi-recipes-traybakes-pork-mushroom-pasta-spicy-chicken-chickpeas) #dinner @note:Added_to_Pocket_on_2019-03-09
+- [https://www.bonappetit.com/recipe/barbecue-carrots-with-yogurt-and-pecans](https://www.bonappetit.com/recipe/barbecue-carrots-with-yogurt-and-pecans) #side #veg @note:Added_to_Pocket_on_2019-02-24
+- [https://www.bbcgoodfood.com/recipes/166615/walkers-wild-mushroom-bacon-and-barley-broth](https://www.bbcgoodfood.com/recipes/166615/walkers-wild-mushroom-bacon-and-barley-broth) #dinner #soup @note:Added_to_Pocket_on_2019-01-28
 
 ## 2018
 
-- [https://www.olivemagazine.com/recipes/entertain/beetroot-and-goats-cheese-terrine/](https://www.olivemagazine.com/recipes/entertain/beetroot-and-goats-cheese-terrine/) #dinner #potluck #recipe #veg @note:Added_to_Pocket_on_2018-12-27
-- [https://www.olivemagazine.com/recipes/vegetarian/cauliflower-sformato-with-crispy-kale-and-caramelised-pine-nuts/](https://www.olivemagazine.com/recipes/vegetarian/cauliflower-sformato-with-crispy-kale-and-caramelised-pine-nuts/) #dinner #recipe #veg @note:Added_to_Pocket_on_2018-12-27
-- [http://angelasfoodlove.com/food-blog/2014/2/22/jamaican-jerk-chicken-with-serrano-lime-slaw-bringing-the-ca.html](http://angelasfoodlove.com/food-blog/2014/2/22/jamaican-jerk-chicken-with-serrano-lime-slaw-bringing-the-ca.html) #dinner #recipe @note:Added_to_Pocket_on_2018-11-26
-- [http://www.pbs.org/food/kitchen-vignettes/delicata-squash-and-sage-biscuits/](http://www.pbs.org/food/kitchen-vignettes/delicata-squash-and-sage-biscuits/) #potluck #recipe @note:Added_to_Pocket_on_2018-11-20
-- [https://www.epicurious.com/recipes/food/views/lemon-black-pepper-cornmeal-cookies-105885](https://www.epicurious.com/recipes/food/views/lemon-black-pepper-cornmeal-cookies-105885) #cookies #dessert #recipe @note:Added_to_Pocket_on_2018-10-18
+- [https://www.olivemagazine.com/recipes/entertain/beetroot-and-goats-cheese-terrine/](https://www.olivemagazine.com/recipes/entertain/beetroot-and-goats-cheese-terrine/) #dinner #potluck #veg @note:Added_to_Pocket_on_2018-12-27
+- [https://www.olivemagazine.com/recipes/vegetarian/cauliflower-sformato-with-crispy-kale-and-caramelised-pine-nuts/](https://www.olivemagazine.com/recipes/vegetarian/cauliflower-sformato-with-crispy-kale-and-caramelised-pine-nuts/) #dinner #veg @note:Added_to_Pocket_on_2018-12-27
+- [http://angelasfoodlove.com/food-blog/2014/2/22/jamaican-jerk-chicken-with-serrano-lime-slaw-bringing-the-ca.html](http://angelasfoodlove.com/food-blog/2014/2/22/jamaican-jerk-chicken-with-serrano-lime-slaw-bringing-the-ca.html) #dinner @note:Added_to_Pocket_on_2018-11-26
+- [http://www.pbs.org/food/kitchen-vignettes/delicata-squash-and-sage-biscuits/](http://www.pbs.org/food/kitchen-vignettes/delicata-squash-and-sage-biscuits/) #potluck @note:Added_to_Pocket_on_2018-11-20
+- [https://www.epicurious.com/recipes/food/views/lemon-black-pepper-cornmeal-cookies-105885](https://www.epicurious.com/recipes/food/views/lemon-black-pepper-cornmeal-cookies-105885) #cookies #dessert @note:Added_to_Pocket_on_2018-10-18
 - [https://www.maangchi.com/recipe/dak-kalguksu](https://www.maangchi.com/recipe/dak-kalguksu) #dinner #maangchi #noodles #soup #tried-and-true @note:Added_to_Pocket_on_2018-08-26
-- [https://thewoksoflife.com/2016/11/chinese-tea-eggs/](https://thewoksoflife.com/2016/11/chinese-tea-eggs/) #egg #potluck #recipe @note:Added_to_Pocket_on_2018-08-23
-- [https://omnivorescookbook.com/chinese-tea-eggs/](https://omnivorescookbook.com/chinese-tea-eggs/) #egg #potluck #recipe #tea @note:Added_to_Pocket_on_2018-08-23
-- [https://cookieandkate.com/2018/masala-lentil-salad-with-cumin-roasted-carrots/](https://cookieandkate.com/2018/masala-lentil-salad-with-cumin-roasted-carrots/) #dinner #recipe #salad #veg @note:Added_to_Pocket_on_2018-08-23
-- [https://ny.eater.com/2014/4/22/6237793/the-pastry-cases-sample-christina-tosis-popcorn-cake](https://ny.eater.com/2014/4/22/6237793/the-pastry-cases-sample-christina-tosis-popcorn-cake) #cake #dessert #recipe #tosi @note:Added_to_Pocket_on_2018-08-07
-- [https://www.thekitchn.com/how-to-make-the-best-homemade-chocolate-ice-cream-244716](https://www.thekitchn.com/how-to-make-the-best-homemade-chocolate-ice-cream-244716) #dessert #recipe @note:Added_to_Pocket_on_2018-08-07
-- [https://www.seriouseats.com/2018/08/indian-street-food-snack-guide.html](https://www.seriouseats.com/2018/08/indian-street-food-snack-guide.html) #dinner #recipe #veg @note:Added_to_Pocket_on_2018-08-07
-- [https://www.theguardian.com/lifeandstyle/2018/jun/02/yotam-ottolenghi-fish-recipes](https://www.theguardian.com/lifeandstyle/2018/jun/02/yotam-ottolenghi-fish-recipes) #dinner #fish #recipe #tried-and-true @note:Added_to_Pocket_on_2018-07-09
-- [https://www.youtube.com/watch?v=4WSoP6X7_Z8](https://www.youtube.com/watch?v=4WSoP6X7_Z8) #cake #dessert #recipe #tea @note:Added_to_Pocket_on_2018-06-30
-- [https://www.seriouseats.com/recipes/2014/09/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe.html](https://www.seriouseats.com/recipes/2014/09/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe.html) #dinner #recipe #veg @note:Added_to_Pocket_on_2018-06-27
+- [https://thewoksoflife.com/2016/11/chinese-tea-eggs/](https://thewoksoflife.com/2016/11/chinese-tea-eggs/) #egg #potluck @note:Added_to_Pocket_on_2018-08-23
+- [https://omnivorescookbook.com/chinese-tea-eggs/](https://omnivorescookbook.com/chinese-tea-eggs/) #egg #potluck #tea @note:Added_to_Pocket_on_2018-08-23
+- [https://cookieandkate.com/2018/masala-lentil-salad-with-cumin-roasted-carrots/](https://cookieandkate.com/2018/masala-lentil-salad-with-cumin-roasted-carrots/) #dinner #salad #veg @note:Added_to_Pocket_on_2018-08-23
+- [https://ny.eater.com/2014/4/22/6237793/the-pastry-cases-sample-christina-tosis-popcorn-cake](https://ny.eater.com/2014/4/22/6237793/the-pastry-cases-sample-christina-tosis-popcorn-cake) #cake #dessert #tosi @note:Added_to_Pocket_on_2018-08-07
+- [https://www.thekitchn.com/how-to-make-the-best-homemade-chocolate-ice-cream-244716](https://www.thekitchn.com/how-to-make-the-best-homemade-chocolate-ice-cream-244716) #dessert @note:Added_to_Pocket_on_2018-08-07
+- [https://www.seriouseats.com/2018/08/indian-street-food-snack-guide.html](https://www.seriouseats.com/2018/08/indian-street-food-snack-guide.html) #dinner #veg @note:Added_to_Pocket_on_2018-08-07
+- [https://www.theguardian.com/lifeandstyle/2018/jun/02/yotam-ottolenghi-fish-recipes](https://www.theguardian.com/lifeandstyle/2018/jun/02/yotam-ottolenghi-fish-recipes) #dinner #fish #tried-and-true @note:Added_to_Pocket_on_2018-07-09
+- [https://www.youtube.com/watch?v=4WSoP6X7_Z8](https://www.youtube.com/watch?v=4WSoP6X7_Z8) #cake #dessert #tea @note:Added_to_Pocket_on_2018-06-30
+- [https://www.seriouseats.com/recipes/2014/09/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe.html](https://www.seriouseats.com/recipes/2014/09/the-best-slow-cooked-italian-american-tomato-sauce-red-sauce-recipe.html) #dinner #veg @note:Added_to_Pocket_on_2018-06-27
 - [http://www.instructables.com/id/Brain-Food-Jello-Brain/](http://www.instructables.com/id/Brain-Food-Jello-Brain/) @note:Added_to_Pocket_on_2018-04-07
-- [http://thewoksoflife.com/2014/12/easy-fish-tofu-soup/](http://thewoksoflife.com/2014/12/easy-fish-tofu-soup/) #asian #dinner #recipe #soup #tried-and-true @note:Added_to_Pocket_on_2018-04-01
-- [https://www.101cookbooks.com/archives/sunshine-pad-thai-vegetarian-recipe.html](https://www.101cookbooks.com/archives/sunshine-pad-thai-vegetarian-recipe.html) #dinner #noodles #recipe #veg @note:Added_to_Pocket_on_2018-03-30
-- [https://smittenkitchen.com/2017/10/sausage-and-potato-roast-with-arugula/](https://smittenkitchen.com/2017/10/sausage-and-potato-roast-with-arugula/) #dinner #recipe @note:Added_to_Pocket_on_2018-03-30
-- [http://www.thirstyfortea.com/recipes/matcha-croissant/](http://www.thirstyfortea.com/recipes/matcha-croissant/) #dessert #recipe #tea @note:Added_to_Pocket_on_2018-03-17
-- [https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong](https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong) #candy #dessert #nuts #recipe @note:Added_to_Pocket_on_2018-03-07
+- [http://thewoksoflife.com/2014/12/easy-fish-tofu-soup/](http://thewoksoflife.com/2014/12/easy-fish-tofu-soup/) #asian #dinner #soup #tried-and-true @note:Added_to_Pocket_on_2018-04-01
+- [https://www.101cookbooks.com/archives/sunshine-pad-thai-vegetarian-recipe.html](https://www.101cookbooks.com/archives/sunshine-pad-thai-vegetarian-recipe.html) #dinner #noodles #veg @note:Added_to_Pocket_on_2018-03-30
+- [https://smittenkitchen.com/2017/10/sausage-and-potato-roast-with-arugula/](https://smittenkitchen.com/2017/10/sausage-and-potato-roast-with-arugula/) #dinner @note:Added_to_Pocket_on_2018-03-30
+- [http://www.thirstyfortea.com/recipes/matcha-croissant/](http://www.thirstyfortea.com/recipes/matcha-croissant/) #dessert #tea @note:Added_to_Pocket_on_2018-03-17
+- [https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong](https://www.maangchi.com/recipe/kkae-ttangkong-gangjeong) #candy #dessert #nuts @note:Added_to_Pocket_on_2018-03-07
    https://ottolenghi.co.uk/middle-eastern-millionaire-s-shortbread-shop<
-- [https://www.ottolenghi.co.uk/middle-eastern-millionaire-s-shortbread-shop](https://www.ottolenghi.co.uk/middle-eastern-millionaire-s-shortbread-shop) #dessert #recipe @note:Added_to_Pocket_on_2018-03-04
-- [Halibut Confit With Leeks, Coriander, and Lemon recipe | Epicurious.com](https://www.epicurious.com/recipes/food/views/-halibut-confit-with-leeks-coriander-and-lemon-51252690) #dinner #fish #recipe @note:Added_to_Pocket_on_2018-02-28
-- [*Arroz Caldo* (Chicken Rice Porridge) recipe | Epicurious.com](https://www.epicurious.com/recipes/food/views/arroz-caldo-filipino-chicken-rice-porridge) #dinner #recipe #tried-and-true @note:Added_to_Pocket_on_2018-02-28
-- [Pork belly banh mi, scambled tofu, sweet potato mash | Yotam Ottolenghi’s c](https://www.theguardian.com/lifeandstyle/2018/jan/27/yotam-ottolenghis-coriander-recipes) #asian #brunch #dinner #recipe #veg @note:Added_to_Pocket_on_2018-01-28
-- [Roasted Salmon with Celery and Bulgur Salad recipe | Epicurious.com](https://www.epicurious.com/recipes/food/views/roasted-salmon-with-celery-and-bulgur-salad) #dinner #fish #recipe #salad @note:Added_to_Pocket_on_2018-01-22
-- [Easiest Spring Ever: Fava Bean and Carrot Salad With Fresh Ricotta | Seriou](http://www.seriouseats.com/2016/05/easiest-spring-ever-fava-bean-carrot-ricotta-salad.html) #recipe #salad #veg @note:Added_to_Pocket_on_2018-01-21
-- [Miso White Chocolate Chip Cookies – A Cozy Kitchen](http://www.acozykitchen.com/miso-chocolate-chip-cookies/) #cookies #dessert #recipe @note:Added_to_Pocket_on_2018-01-21
-- [Lime and Cilantro: Burmese turmeric lentil and bean thread noodle soup](http://www.limeandcilantro.com/2016/02/burmese-bean-thread-noodle-soup.html) #asian #dinner #noodles #pantry #recipe #soup #veg @note:Added_to_Pocket_on_2018-01-21
-- [Baked Eggs With Creamy Greens, Mushrooms, and Cheese Recipe | Serious Eats](http://www.seriouseats.com/recipes/2017/03/baked-eggs-creamy-greens-swiss-chard-kale-spinach-mushrooms-recipe.html) #brunch #recipe #veg @note:Added_to_Pocket_on_2018-01-21
-- [Yotam Ottolenghi’s chilli butter recipes | Life and style | The Guardian](https://www.theguardian.com/lifeandstyle/2017/jun/17/chilli-butter-recipes-cilbir-sumac-chicken-baked-eggs-chard-yotam-ottolenghi) #brunch #dinner #recipe @note:Added_to_Pocket_on_2018-01-21
-- [Dumpling soup (Mandu-guk: 만두국) recipe - Maangchi.com](https://www.maangchi.com/recipe/mandu-guk) #asian #dinner #maangchi #recipe #soup @note:Added_to_Pocket_on_2018-01-21
-- [Sundubu-jjigae (순두부찌개) Spicy soft tofu stew with kimchi and pork belly reci](https://www.maangchi.com/recipe/sundubu-jjigae) #asian #dinner #maangchi #recipe #soup @note:Added_to_Pocket_on_2018-01-21
-- [Haemul-sundubu-jjigae (Spicy soft tofu stew with seafood) recipe - Maangchi](https://www.maangchi.com/recipe/soondubu-jjigae) #asian #dinner #maangchi #recipe #soup @note:Added_to_Pocket_on_2018-01-21
-- [Bibimbap (Mixed rice with vegetables) recipe - Maangchi.com](https://www.maangchi.com/recipe/bibimbap) #asian #dinner #maangchi #recipe @note:Added_to_Pocket_on_2018-01-21
-- [King-size kimchi dumplings (Kimchi-wangmandu) recipe - Maangchi.com](https://www.maangchi.com/recipe/kimchi-wangmandu) #asian #dinner #maangchi #recipe @note:Added_to_Pocket_on_2018-01-21
-- [Steamed pork buns (Jjinppang-mandu) recipe - Maangchi.com](https://www.maangchi.com/recipe/jjinppang-mandu) #asian #dinner #maangchi #recipe @note:Added_to_Pocket_on_2018-01-21
-- [Pan-fried meat and tofu patties (Wanja-jeon) recipe - Maangchi.com](https://www.maangchi.com/recipe/wanja-jeon) #asian #beef #dinner #maangchi #potluck #recipe @note:Added_to_Pocket_on_2018-01-21
-- [Hotteok filled with vegetables & noodles (Yachae-hotteok: 야채호떡) recipe - Ma](https://www.maangchi.com/recipe/yachae-hotteok) #asian #fried #maangchi #recipe #veg @note:Added_to_Pocket_on_2018-01-21
-- [Spicy, chewy, sweet & sour cold noodles (Jjolmyeon: 쫄면) recipe - Maangchi.c](https://www.maangchi.com/recipe/jjolmyeon) #asian #dinner #maangchi #noodles #recipe #veg @note:Added_to_Pocket_on_2018-01-21
-- [Fried seaweed paper coated with glutinous rice paste (Gim-bugak: 김부각) recip](https://www.maangchi.com/recipe/gim-bugak) #asian #maangchi #recipe #side #tried-and-true #veg @note:Added_to_Pocket_on_2018-01-21
-- [Twisted Korean doughnuts (Kkwabaegi) recipe - Maangchi.com](https://www.maangchi.com/recipe/kkwabaegi) #dessert #maangchi #recipe @note:Added_to_Pocket_on_2018-01-21
-- [Mung bean porridge (Nokdu-juk: 녹두죽) recipe - Maangchi.com](https://www.maangchi.com/recipe/nokdu-juk) #asian #dinner #maangchi #recipe #veg @note:Added_to_Pocket_on_2018-01-21
-- [Spinach side dish (Sigeumchi-namul) recipe - Maangchi.com](https://www.maangchi.com/recipe/sigumchi-namul) #asian #maangchi #recipe #side #veg @note:Added_to_Pocket_on_2018-01-21
-- [Dessert punch with persimmon, cinnamon, and ginger (Sujeonggwa) recipe - Ma](https://www.maangchi.com/recipe/sujeonggwa) #asian #dessert #drink #maangchi #recipe @note:Added_to_Pocket_on_2018-01-21
-- [Korean noodle soup (Guksu) recipe - Maangchi.com](https://www.maangchi.com/recipe/guksu) #asian #dinner #maangchi #recipe #soup @note:Added_to_Pocket_on_2018-01-21
-- [Soybean sprout soup with rice (Kongnamul-gukbap: 콩나물국밥) recipe - Maangchi.c](https://www.maangchi.com/recipe/kongnamul-gukbap) #asian #dinner #maangchi #recipe @note:Added_to_Pocket_on_2018-01-21
-- [Soybean sprouts (Kongnamul) recipe - Maangchi.com](https://www.maangchi.com/recipe/kongnamul) #asian #maangchi #recipe #veg @note:Added_to_Pocket_on_2018-01-21
-- [Mung Bean Pancakes (Bindaetteok) recipe - Maangchi.com](https://www.maangchi.com/recipe/bindaetteok) #asian #maangchi #recipe @note:Added_to_Pocket_on_2018-01-21
-- [Mung bean sprouts recipe - Maangchi.com](https://www.maangchi.com/recipe/sukju-namul) #asian #maangchi #recipe #veg @note:Added_to_Pocket_on_2018-01-21
-- [Roasted-Buckwheat Custards (Soba-Cha Puddings) Recipe | Serious Eats](http://www.seriouseats.com/recipes/2017/03/buckwheat-custards-pudding-soba-cha-dessert-recipe.html) #asian #dessert #recipe #tried-and-true @note:Added_to_Pocket_on_2018-01-21
-- [How to Make Creamy Japanese Roasted-Buckwheat Custards | Serious Eats](http://www.seriouseats.com/2017/03/how-to-make-japanese-buckwheat-custards-soba-cha.html) #dessert #recipe @note:Added_to_Pocket_on_2018-01-20
+- [https://www.ottolenghi.co.uk/middle-eastern-millionaire-s-shortbread-shop](https://www.ottolenghi.co.uk/middle-eastern-millionaire-s-shortbread-shop) #dessert @note:Added_to_Pocket_on_2018-03-04
+- [Halibut Confit With Leeks, Coriander, and Lemon recipe | Epicurious.com](https://www.epicurious.com/recipes/food/views/-halibut-confit-with-leeks-coriander-and-lemon-51252690) #dinner #fish @note:Added_to_Pocket_on_2018-02-28
+- [*Arroz Caldo* (Chicken Rice Porridge) recipe | Epicurious.com](https://www.epicurious.com/recipes/food/views/arroz-caldo-filipino-chicken-rice-porridge) #dinner #tried-and-true @note:Added_to_Pocket_on_2018-02-28
+- [Pork belly banh mi, scambled tofu, sweet potato mash | Yotam Ottolenghi’s c](https://www.theguardian.com/lifeandstyle/2018/jan/27/yotam-ottolenghis-coriander-recipes) #asian #brunch #dinner #veg @note:Added_to_Pocket_on_2018-01-28
+- [Roasted Salmon with Celery and Bulgur Salad recipe | Epicurious.com](https://www.epicurious.com/recipes/food/views/roasted-salmon-with-celery-and-bulgur-salad) #dinner #fish #salad @note:Added_to_Pocket_on_2018-01-22
+- [Easiest Spring Ever: Fava Bean and Carrot Salad With Fresh Ricotta | Seriou](http://www.seriouseats.com/2016/05/easiest-spring-ever-fava-bean-carrot-ricotta-salad.html) #salad #veg @note:Added_to_Pocket_on_2018-01-21
+- [Miso White Chocolate Chip Cookies – A Cozy Kitchen](http://www.acozykitchen.com/miso-chocolate-chip-cookies/) #cookies #dessert @note:Added_to_Pocket_on_2018-01-21
+- [Lime and Cilantro: Burmese turmeric lentil and bean thread noodle soup](http://www.limeandcilantro.com/2016/02/burmese-bean-thread-noodle-soup.html) #asian #dinner #noodles #pantry #soup #veg @note:Added_to_Pocket_on_2018-01-21
+- [Baked Eggs With Creamy Greens, Mushrooms, and Cheese Recipe | Serious Eats](http://www.seriouseats.com/recipes/2017/03/baked-eggs-creamy-greens-swiss-chard-kale-spinach-mushrooms-recipe.html) #brunch #veg @note:Added_to_Pocket_on_2018-01-21
+- [Yotam Ottolenghi’s chilli butter recipes | Life and style | The Guardian](https://www.theguardian.com/lifeandstyle/2017/jun/17/chilli-butter-recipes-cilbir-sumac-chicken-baked-eggs-chard-yotam-ottolenghi) #brunch #dinner @note:Added_to_Pocket_on_2018-01-21
+- [Dumpling soup (Mandu-guk: 만두국) recipe - Maangchi.com](https://www.maangchi.com/recipe/mandu-guk) #asian #dinner #maangchi #soup @note:Added_to_Pocket_on_2018-01-21
+- [Sundubu-jjigae (순두부찌개) Spicy soft tofu stew with kimchi and pork belly reci](https://www.maangchi.com/recipe/sundubu-jjigae) #asian #dinner #maangchi #soup @note:Added_to_Pocket_on_2018-01-21
+- [Haemul-sundubu-jjigae (Spicy soft tofu stew with seafood) recipe - Maangchi](https://www.maangchi.com/recipe/soondubu-jjigae) #asian #dinner #maangchi #soup @note:Added_to_Pocket_on_2018-01-21
+- [Bibimbap (Mixed rice with vegetables) recipe - Maangchi.com](https://www.maangchi.com/recipe/bibimbap) #asian #dinner #maangchi @note:Added_to_Pocket_on_2018-01-21
+- [King-size kimchi dumplings (Kimchi-wangmandu) recipe - Maangchi.com](https://www.maangchi.com/recipe/kimchi-wangmandu) #asian #dinner #maangchi @note:Added_to_Pocket_on_2018-01-21
+- [Steamed pork buns (Jjinppang-mandu) recipe - Maangchi.com](https://www.maangchi.com/recipe/jjinppang-mandu) #asian #dinner #maangchi @note:Added_to_Pocket_on_2018-01-21
+- [Pan-fried meat and tofu patties (Wanja-jeon) recipe - Maangchi.com](https://www.maangchi.com/recipe/wanja-jeon) #asian #beef #dinner #maangchi #potluck @note:Added_to_Pocket_on_2018-01-21
+- [Hotteok filled with vegetables & noodles (Yachae-hotteok: 야채호떡) recipe - Ma](https://www.maangchi.com/recipe/yachae-hotteok) #asian #fried #maangchi #veg @note:Added_to_Pocket_on_2018-01-21
+- [Spicy, chewy, sweet & sour cold noodles (Jjolmyeon: 쫄면) recipe - Maangchi.c](https://www.maangchi.com/recipe/jjolmyeon) #asian #dinner #maangchi #noodles #veg @note:Added_to_Pocket_on_2018-01-21
+- [Fried seaweed paper coated with glutinous rice paste (Gim-bugak: 김부각) recip](https://www.maangchi.com/recipe/gim-bugak) #asian #maangchi #side #tried-and-true #veg @note:Added_to_Pocket_on_2018-01-21
+- [Twisted Korean doughnuts (Kkwabaegi) recipe - Maangchi.com](https://www.maangchi.com/recipe/kkwabaegi) #dessert #maangchi @note:Added_to_Pocket_on_2018-01-21
+- [Mung bean porridge (Nokdu-juk: 녹두죽) recipe - Maangchi.com](https://www.maangchi.com/recipe/nokdu-juk) #asian #dinner #maangchi #veg @note:Added_to_Pocket_on_2018-01-21
+- [Spinach side dish (Sigeumchi-namul) recipe - Maangchi.com](https://www.maangchi.com/recipe/sigumchi-namul) #asian #maangchi #side #veg @note:Added_to_Pocket_on_2018-01-21
+- [Dessert punch with persimmon, cinnamon, and ginger (Sujeonggwa) recipe - Ma](https://www.maangchi.com/recipe/sujeonggwa) #asian #dessert #drink #maangchi @note:Added_to_Pocket_on_2018-01-21
+- [Korean noodle soup (Guksu) recipe - Maangchi.com](https://www.maangchi.com/recipe/guksu) #asian #dinner #maangchi #soup @note:Added_to_Pocket_on_2018-01-21
+- [Soybean sprout soup with rice (Kongnamul-gukbap: 콩나물국밥) recipe - Maangchi.c](https://www.maangchi.com/recipe/kongnamul-gukbap) #asian #dinner #maangchi @note:Added_to_Pocket_on_2018-01-21
+- [Soybean sprouts (Kongnamul) recipe - Maangchi.com](https://www.maangchi.com/recipe/kongnamul) #asian #maangchi #veg @note:Added_to_Pocket_on_2018-01-21
+- [Mung Bean Pancakes (Bindaetteok) recipe - Maangchi.com](https://www.maangchi.com/recipe/bindaetteok) #asian #maangchi @note:Added_to_Pocket_on_2018-01-21
+- [Mung bean sprouts recipe - Maangchi.com](https://www.maangchi.com/recipe/sukju-namul) #asian #maangchi #veg @note:Added_to_Pocket_on_2018-01-21
+- [Roasted-Buckwheat Custards (Soba-Cha Puddings) Recipe | Serious Eats](http://www.seriouseats.com/recipes/2017/03/buckwheat-custards-pudding-soba-cha-dessert-recipe.html) #asian #dessert #tried-and-true @note:Added_to_Pocket_on_2018-01-21
+- [How to Make Creamy Japanese Roasted-Buckwheat Custards | Serious Eats](http://www.seriouseats.com/2017/03/how-to-make-japanese-buckwheat-custards-soba-cha.html) #dessert @note:Added_to_Pocket_on_2018-01-20
