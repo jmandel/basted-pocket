@@ -1,0 +1,403 @@
+{
+  "id": "f4d990712d9687b9",
+  "original_url": "https://cooking.nytimes.com/recipes/1026985-lemon-poppy-seed-bars",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026985-lemon-poppy-seed-bars",
+  "fetched_title": "Lemon Poppy Seed Bars Recipe (with Video)",
+  "main_text_content": "These curd-filled treats split the difference between lemon bars and lemon poppy seed cake, with a shortbread-like crust and crumbly streusel topping studded with poppy seeds If you don’t feel like making homemade lemon curd, store-bought works perfectly, or substitute thick fruit jam or marmalade.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1014800-lemon-poppy-seed-pound-cake\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2022/06/10/dining/MC-Lemon-poppyseed-pound-cake-reshoot/MC-Lemon-poppyseed-pound-cake-reshoot-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2022/06/10/dining/MC-Lemon-poppyseed-pound-cake-reshoot/MC-Lemon-poppyseed-pound-cake-reshoot-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2022/06/10/dining/MC-Lemon-poppyseed-pound-cake-reshoot/MC-Lemon-poppyseed-pound-cake-reshoot-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2022/06/10/dining/MC-Lemon-poppyseed-pound-cake-reshoot/MC-Lemon-poppyseed-pound-cake-reshoot-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2022/06/10/dining/MC-Lemon-poppyseed-pound-cake-reshoot/MC-Lemon-poppyseed-pound-cake-reshoot-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2022/06/10/dining/MC-Lemon-poppyseed-pound-cake-reshoot/MC-Lemon-poppyseed-pound-cake-reshoot-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2022/06/10/dining/MC-Lemon-poppyseed-pound-cake-reshoot/MC-Lemon-poppyseed-pound-cake-reshoot-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2022/06/10/dining/MC-Lemon-poppyseed-pound-cake-reshoot/MC-Lemon-poppyseed-pound-cake-reshoot-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Lemon Poppy Seed Pound Cake</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/f4d990712d9687b9/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/699ca1d9-e559-5c22-bbe1-ac7698371f01",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026985-lemon-poppy-seed-bars",
+        "@type": "WebPage",
+        "name": "Lemon Poppy Seed Bars"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026985-lemon-poppy-seed-bars",
+      "name": "Lemon Poppy Seed Bars",
+      "description": "These curd-filled treats split the difference between lemon bars and lemon poppy seed cake, with a shortbread-like crust and crumbly streusel topping studded with poppy seeds. If you don’t feel like making homemade lemon curd, store-bought works perfectly, or substitute thick fruit jam or marmalade.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/c5f3e089-c18c-5677-a8be-a0b3ad2e657c#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini",
+          "dateModified": "2025-07-23T17:47:13.292Z",
+          "datePublished": "2025-07-21T21:10:40.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-21T21:10:40.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/c5f3e089-c18c-5677-a8be-a0b3ad2e657c#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini",
+          "dateModified": "2025-07-23T17:47:13.292Z",
+          "datePublished": "2025-07-21T21:10:40.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-21T21:10:40.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/c5f3e089-c18c-5677-a8be-a0b3ad2e657c#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini",
+          "dateModified": "2025-07-23T17:47:13.292Z",
+          "datePublished": "2025-07-21T21:10:40.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-21T21:10:40.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT2H15M",
+      "totalTime": "PT2H30M",
+      "recipeYield": "16 squares ",
+      "recipeCuisine": "",
+      "recipeCategory": "easy, dessert",
+      "keywords": "bar cookie, lemon zest, poppy seed, shortbread, unsalted butter",
+      "aggregateRating": null,
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 243,
+        "unsaturatedFatContent": "5 grams",
+        "carbohydrateContent": "26 grams",
+        "cholesterolContent": null,
+        "fatContent": "15 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "3 grams",
+        "saturatedFatContent": "9 grams",
+        "sodiumContent": "116 milligrams",
+        "sugarContent": "12 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 cup/228 grams unsalted butter, at room temperature, plus more for the pan",
+        "2/3 cup/130 grams granulated sugar",
+        "3/4 teaspoon fine sea salt",
+        "Finely grated zest of 2 lemons",
+        "2 teaspoons pure vanilla extract (or ¼ teaspoon almond extract)",
+        "2 1/4 cups/270 grams all-purpose flour",
+        "2 tablespoons poppy seeds",
+        "1 cup/240 grams lemon curd, homemade or store-bought"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 350 degrees. Butter an 8-inch square metal baking pan and line the bottom sides with parchment, leaving 1 inch of overhang all around. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add sugar and salt to the bowl of a stand mixer fitted with the paddle attachment. Add lemon zest and mix with the paddle attachment until the sugar is moist and fragrant, about 1 minute. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the butter and beat on medium speed until smooth, 1 to 3 minutes. Beat in the extract."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Turn off the mixer, add flour, then mix on low speed until combined, about 1 minute. Add poppy seeds and continue to mix on low until incorporated but still crumbly, about 1 minute (do not overmix the dough). "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Transfer 1 cup of the crumbled dough to a small bowl. Transfer the remaining dough to the prepared pan and flatten into an even layer using the flat bottom of a glass or your hands. Spread the curd in an even layer over the surface of the crust and sprinkle with reserved dough, crumbling into pieces as you sprinkle. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake, rotating after 20 minutes, until the crumb topping is golden brown and the curd bubbles at the edges, 40 to 48 minutes. Transfer to a wire rack to cool completely in the pan, at least 1½ hours. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Use the parchment to lift the bars out of the pan onto a cutting board. Trim parchment off the edges and cut into 16 squares. "
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/f5500386-ab84-570b-b649-1ee5f90f9e3b",
+        "@type": "VideoObject",
+        "author": {
+          "@id": "nyt://person/a89444f5-07d8-5c29-86d1-3c6c30133277",
+          "@type": "Person",
+          "name": "The New York Times Cooking",
+          "url": "https://www.nytimes.com/by/the-new-york-times-cooking"
+        },
+        "bitrate": "1439245",
+        "contentSize": "76309653",
+        "contentUrl": "https://vp.nyt.com/video/2025/07/18/144790_1_MC-Lemon-Poppyseed-Bar-Video_wg_480p.mp4",
+        "creator": {
+          "@id": "nyt://person/a89444f5-07d8-5c29-86d1-3c6c30133277",
+          "@type": "Person",
+          "name": "The New York Times Cooking"
+        },
+        "dateModified": "2025-07-23T17:47:15.447Z",
+        "datePublished": "2025-07-23T17:47:15.447Z",
+        "duration": "PT6M29S",
+        "height": "480",
+        "name": "Lemon Poppy Seed Bars",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/c5f3e089-c18c-5677-a8be-a0b3ad2e657c#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-videoSixteenByNineJumbo1600.jpg",
+            "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini",
+            "dateModified": "2025-07-23T17:47:13.292Z",
+            "datePublished": "2025-07-21T21:10:40.000Z",
+            "height": "900",
+            "uploadDate": "2025-07-21T21:10:40.000Z",
+            "url": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-videoSixteenByNineJumbo1600.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/c5f3e089-c18c-5677-a8be-a0b3ad2e657c#googleFourByThree",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-googleFourByThree.jpg",
+            "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini",
+            "dateModified": "2025-07-23T17:47:13.292Z",
+            "datePublished": "2025-07-21T21:10:40.000Z",
+            "height": "600",
+            "uploadDate": "2025-07-21T21:10:40.000Z",
+            "url": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-googleFourByThree.jpg",
+            "width": "800"
+          },
+          {
+            "@id": "nyt://image/c5f3e089-c18c-5677-a8be-a0b3ad2e657c#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-mediumSquareAt3X.jpg",
+            "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini",
+            "dateModified": "2025-07-23T17:47:13.292Z",
+            "datePublished": "2025-07-21T21:10:40.000Z",
+            "height": "1800",
+            "uploadDate": "2025-07-21T21:10:40.000Z",
+            "url": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-mediumSquareAt3X.jpg",
+            "width": "1800"
+          }
+        ],
+        "thumbnailUrl": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-videoSixteenByNineJumbo1600.jpg",
+        "transcript": "“So I’m going to use my little offset spatula and the bench press, and I’m going to show you a trick for getting it in there.” “Bench scraper?” “What did I say?” “Bench press.” “Oh, bench scraper.” [LAUGHS] [MUSIC PLAYING] “Hi, I’m Melissa Clark. I’m a food reporter for ‘The New York Times,’ and we’re here at the NYT Cooking Kitchen Studio, because I’m going to make you a recipe for lemon poppy seed bars. It takes the best of lemon bars, like a lemon curd bard, and crosses it with a lemon poppy seed poundcake, and you get this wonderful bar cookie that is chewy, it’s citrusy, it’s flecked with nutty poppy seeds, and it’s really easy to make. I love these bars for picnics. They’re like the perfect picnic snack. Another great thing about these, you can make them in advance. They keep really, really well, and they freeze well, too. Not that you’re going to have any leftover, but just in case. First thing we’re going to do is we’re going to make the dough. I have the zest of two lemons. It’s a lot of lemon zest. I mean, look at that. But that’s what gives it its intense citrusy flavor. And then this is just sugar, and just regular salt. So the first thing I’m going to do is I’m actually going to mix the lemon zest into the sugar. I’m releasing the oils, the lemon oils, that are in the zest. So if you skip this step, you’re going to be losing some of that lemon flavor. This just brings it out. You can also do this with your hands and just, like, kind of rub the zest into the sugar. And it’s aromatherapy, and it is fabulous. Although this is also aromatherapy if you just breathe deep. And you see, it just looks like sand, looks like yellow sand. And now, you want to add your butter. This is basically making a shortbread. Most lemon bars have a shortbread crust. So we’re going to beat the butter in until it’s all combined. Save these guys. Fold them over, because look at all that butter, and then pop them in the freezer, and then use these to grease your pan. No waste. And then once that looks nice and smooth, you want to just add your flour -- all-purpose flour -- and vanilla extract and poppy seeds. So I’m going to mix this until it’s a little shy of being a solid brick of dough, because I want to pull some of it out, and that’s going to be our streusel topping. So you don’t have to make a separate streusel. It’s all part of the same recipe, which is very easy and very good. And it’s delicious that way. When I was developing this recipe, I was trying to come up with different ways to put the topping on the bars. I was like, should I do a lattice? Should I make it fancy? And I was like, streusel is just easier, and it has such great texture, too, because it’s a little bit crumbly. So that’s going to be for topping. So I’m going to press the rest of this into the bottom of the pan. This is just an 8-inch pan. Parchment paper -- grease the pan, put the parchment paper on, and then this is going to help you lift it out later -- help me lift it out later. And you, when you do it at home. It’s a little bit sticky, this dough, but that is also what helps keep it tender. And then the trick is, I’m not going to try to use my fingers to press it into the pan, because it would really make a mess. So I’m going to use my little offset spatula and a bench scraper. [LAUGHS] So these bars are incredibly versatile. You can use the same dough, but instead of lemon curd in the middle, you can use jam, which is so good. Raspberry jam is delicious. You can use a caramel, a dulce de leche. Just anything sweet and sticky is going to be really good in these bars. But my favorite is a lemon curd, because the lemon curd just gives it that brightness. And this is already a rich cookie, and so this just cuts a little bit. So I’m trying to get this in an even layer. It doesn’t have to be pretty on top, but you do want it even, so that everybody gets the same amount of cookie. Otherwise, somebody’s going to get more cookie, and someone’s going to get less cookie. So be good to your people and make it nice and even. You don’t need to do this, but it makes it really nice. If you just take this, it just helps get it into the corners nicely and onto the sides nicely. I just learned this myself. This is a food stylist trick. O.K., so lemon curd. This lemon curd is a homemade recipe that I have at NYT Cooking. If you want to find it, I think it’s called something like, 'The Easiest Lemon Curd' in the world, and you do it in the microwave. It comes together in five minutes, and it is so good. But otherwise, buy lemon curd. You can buy it. You can make whatever recipe you like. So, there’s lots of ways to get the lemon curd. By the way, the reason this looks a little bit light in color for lemon curd is because part of the recipe calls for putting it in the blender, which aerates it ever so slightly. It doesn’t affect the flavor at all. It’s just a slightly fluffier texture, slightly lighter color. And that is it. So, you want to cover most of the surface area, but you still want to leave some gaps so that the lemon curd can bubble through -- and then that looks really pretty -- and gets a little brown. It’s really nice. O.K. Wash my hands. Put in the oven. Really, lick my fingers. Who am I kidding? So I’ve preheated the oven to 350, and then, this bakes for 40 to 50 minutes.” [BEEPING] “So what you’re looking for -- you know these are done -- should be golden brown. I mean, you’ll just see that the curd looks set. It looks a little bit shiny. It looks set. If you jiggle the pan, it’s not moving. And then, you just let it sit for about an hour and a half, at least. You can let it sit for a few hours. It needs to really solidify before you cut it. Otherwise, the curd is just going to run all over the place, so just let it hang out for a few. And the best part of every video is where I get to eat the thing I just made. I love lemon bars so much, and I love poppy seed, so these are just my dream cookie. Pro tip, take one with the brown bit on the edge. That little caramely bit is where the lemon curd hit the pan and got chewy and caramelized, and it is the best bite. It’s so good. The whole thing is so good. These are perfect. They’re like my perfect cookie. You can find the recipe for these and for all the other recipes that we have at NYT Cooking at NYT Cooking, or click the link below. They’re there for you. Cheers.”",
+        "uploadDate": "2025-07-23T17:47:15.447Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000010293735/lemon-poppy-seed-bars.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-07-23T00:00:00.000Z",
+      "dateModified": "2025-07-23T18:22:18.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ann N"
+          },
+          "reviewBody": "My apologies, but I am not a fan of poppy seeds.  Would like to make these delicious-sounding bars.  Could you please suggest a replacement ingredient.  Many thanks!",
+          "datePublished": "2025-07-24T10:42:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lynn"
+          },
+          "reviewBody": "What characteristics to look for in a store bought lemon curd?  I’ve had some that are almost starchy, some glisten like  home made but I don’t buy or make often enough to make an informed choice for these yummy looking bars.",
+          "datePublished": "2025-07-24T03:40:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen Tabor"
+          },
+          "reviewBody": "I haven't made this yet but I'm totally doubling the recipe when I do.",
+          "datePublished": "2025-07-24T02:42:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eileen N"
+          },
+          "reviewBody": "How do I get into my recipe box to recover a recipe I saved there?",
+          "datePublished": "2025-07-23T23:13:43.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026985-lemon-poppy-seed-bars",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "These curd-filled treats split the difference between lemon bars and lemon poppy seed cake, with a shortbread-like crust and crumbly streusel topping studded with poppy seeds. If you don’t feel like making homemade lemon curd, store-bought works perfectly, or substitute thick fruit jam or marmalade.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Lemon Poppy Seed Bars",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/c5f3e089-c18c-5677-a8be-a0b3ad2e657c#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini",
+          "dateModified": "2025-07-23T17:47:13.292Z",
+          "datePublished": "2025-07-21T21:10:40.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-21T21:10:40.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/c5f3e089-c18c-5677-a8be-a0b3ad2e657c#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini",
+          "dateModified": "2025-07-23T17:47:13.292Z",
+          "datePublished": "2025-07-21T21:10:40.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-21T21:10:40.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/c5f3e089-c18c-5677-a8be-a0b3ad2e657c#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Monica Pierini",
+          "dateModified": "2025-07-23T17:47:13.292Z",
+          "datePublished": "2025-07-21T21:10:40.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-21T21:10:40.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/30/multimedia/30FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm/23FD-APPEREX-MC-Lemon-Poppyseed-Bars-twqm-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026985-lemon-poppy-seed-bars"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-07-24T21:03:40.057Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
