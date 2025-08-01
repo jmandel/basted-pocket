@@ -1,0 +1,629 @@
+{
+  "id": "2ff59a4c084c333c",
+  "original_url": "https://cooking.nytimes.com/recipes/1027064-golden-diner-pancakes",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1027064-golden-diner-pancakes",
+  "fetched_title": "Golden Diner Pancakes Recipe",
+  "main_text_content": "This game-changing pancake recipe from Sam Yoo, the chef and an owner of Golden Diner in Manhattan’s Chinatown, combines all the nostalgia of diner pancakes with innovative techniques for a dish that makes your eyes widen at first taste Mr Yoo cooks a yeast-risen buttermilk batter in individual skillets to give them height like Japanese soufflé pancakes and a perfect roundness like those in the flapjack emoji",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1018180-perfect-buttermilk-pancakes\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"A side image of a stack of pancakes. Maple syrup is drizzled on them from overhead.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-mediumThreeByTwo210-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-videoSixteenByNine310-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-largeHorizontal375-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-mediumThreeByTwo378-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2020/03/23/dining/15PANCAKEGUIDE3-WEB/15PANCAKEGUIDE3-WEB-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" class=\"cardimage_image__EYWRG\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Perfect Buttermilk Pancakes</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Alison Roman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/07/29/multimedia/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/2ff59a4c084c333c/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/ac818d36-2f06-5200-ba2e-4930858a698d",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1027064-golden-diner-pancakes",
+        "@type": "WebPage",
+        "name": "Golden Diner Pancakes"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027064-golden-diner-pancakes",
+      "name": "Golden Diner Pancakes",
+      "description": "This game-changing pancake recipe from Sam Yoo, the chef and an owner of Golden Diner in Manhattan’s Chinatown, combines all the nostalgia of diner pancakes with innovative techniques for a dish that makes your eyes widen at first taste. Mr. Yoo cooks a yeast-risen buttermilk batter in individual skillets to give them height like Japanese soufflé pancakes and a perfect roundness like those in the flapjack emoji. As soon as he stacks them on a plate, he drenches them with buttery maple-honey syrup, then tops them with salted honey-maple butter, both inspired by Korean honey-butter chips and reminiscent of Werther’s hard candies. A berry compote completes the meal with its fresh tang.",
+      "author": {
+        "@type": "Person",
+        "name": "Genevieve Ko"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/95617976-87aa-5f55-a173-2acdfe50e76c#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/29/multimedia/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Susie Theodorou.",
+          "dateModified": "2025-07-31T00:46:25.079Z",
+          "datePublished": "2025-07-29T21:45:35.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-29T21:45:35.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/29/multimedia/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/95617976-87aa-5f55-a173-2acdfe50e76c#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/29/multimedia/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw-googleFourByThree.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Susie Theodorou.",
+          "dateModified": "2025-07-31T00:46:25.079Z",
+          "datePublished": "2025-07-29T21:45:35.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-29T21:45:35.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/29/multimedia/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/95617976-87aa-5f55-a173-2acdfe50e76c#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/29/multimedia/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Susie Theodorou.",
+          "dateModified": "2025-07-31T00:46:25.079Z",
+          "datePublished": "2025-07-29T21:45:35.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-29T21:45:35.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/29/multimedia/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT1H30M",
+      "totalTime": "PT1H45M",
+      "recipeYield": "4 to 6 large pancakes with toppings (3 to 6 servings)",
+      "recipeCuisine": "",
+      "recipeCategory": "breakfast, brunch, pancakes, main course",
+      "keywords": "active dry yeast, berry, buttermilk, honey, maple syrup",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 104
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 764,
+        "unsaturatedFatContent": "21 grams",
+        "carbohydrateContent": "89 grams",
+        "cholesterolContent": null,
+        "fatContent": "43 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "10 grams",
+        "saturatedFatContent": "21 grams",
+        "sodiumContent": "687 milligrams",
+        "sugarContent": "51 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 1/4 teaspoons/7 grams active dry yeast (one ¼-ounce packet)",
+        "2 cups/260 grams all-purpose flour, divided",
+        "1 1/4 cups/300 grams buttermilk",
+        "2 tablespoons sugar",
+        "3/4 teaspoon baking soda",
+        "1/2 teaspoon fine salt",
+        "2 large eggs",
+        "1/4 cup/60 grams canola oil or other neutral-tasting oil",
+        "1/2 cup/113 grams unsalted butter, softened",
+        "3 tablespoons honey",
+        "2 tablespoons pure maple syrup",
+        "3/4 teaspoon fine salt",
+        "1/2 cup/113 grams unsalted butter",
+        "1/3 cup/100 grams honey",
+        "1 1/2 tablespoons maple syrup",
+        "1 teaspoon soy sauce",
+        "1/2 teaspoon fine salt",
+        "14 ounces/400 grams mixed berries, such as blueberries, raspberries and stemmed strawberries, cut to the same size as the small berries",
+        "1/3 cup/67 grams sugar",
+        "1 1/2 teaspoons cornstarch",
+        "1 lemon"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Start the pancake batter: In a small bowl, whisk the yeast with 1 cup flour. In a small saucepan, heat the buttermilk with ¼ cup/60 grams water over medium-low heat, stirring often, until lukewarm (about 100 degrees), about 5 minutes. Pour the buttermilk into the flour and whisk until smooth. Cover with plastic wrap and let sit for 1 hour to create a pre-ferment. This will give the pancakes a deeper flavor and some additional rise."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, make the maple-honey butter: In a medium bowl, whisk the butter, honey, syrup and salt until smooth. Keep at room temperature if using within a few hours. Otherwise, refrigerate in an airtight container for up to 1 week. Soften the butter and whisk it again before serving."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the maple-honey syrup: Combine the butter, honey, syrup, soy sauce and salt in a small saucepan. Heat over medium-low, whisking often, until the butter melts completely. While whisking, add 1 ½ tablespoons water. Keep whisking until emulsified, then reduce the heat to the lowest setting to keep warm."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the berry compote: In a large bowl, gently mix the berries, sugar and cornstarch until the berries are evenly coated. Heat a large, deep skillet over high until very hot. A drop of water sprinkled on the pan should immediately sizzle away. Add the berry mixture and cook, stirring once in a while, until the blueberries look like they’re about to pop, about 2 minutes. Remove from the heat."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Finish the pancakes: Heat the oven to 350 degrees with a rack in the center. Set a metal rack in a sheet pan and place on the center oven rack."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "After the pre-ferment has proofed for an hour, whisk the remaining 1 cup flour with the sugar, baking soda and salt in a small bowl. In a large bowl, whisk the eggs and oil until smooth. Scrape the pre-ferment into the egg mixture, then add the dry ingredients. Gently stir with the whisk until no traces of dry ingredients remain. It’s OK if the batter is lumpy."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat one or two 7- to 8-inch nonstick skillets (5- to 6- inches across the bottom) or extremely well-seasoned cast-iron pans over medium until very hot. Nonstick works best because you won’t be greasing the pans at all. Fill each pan with batter to about ⅓-inch depth. Smooth the top to ensure the batter reaches the edges of the pan and forms a nice round. Cook until the bottom is crisp and evenly golden brown, 2 to 4 minutes, turning down the heat if the bottom browns too quickly. Flip and cook until the other side crisps and browns evenly, 1 to 3 minutes, tucking in the edges to give the pancake a nice dome."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Transfer the pancake from the skillet to the rack-lined pan in the oven for the centers to cook through, 2 to 5 minutes. To check, poke a paring knife in the middle and peek to see if any wet batter remains. Repeat with the remaining batter, reheating the pan between pancakes. You can serve the pancakes as they’re done or keep the earlier batches in the oven until all of the pancakes are ready."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To serve, center one or two hot pancakes on serving plates and evenly drench with the maple-honey syrup right away. Spoon the berry compote on top, then scoop maple-honey butter over the berries (see Tip). Zest the lemon over everything. Serve immediately."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-07-29T00:00:00.000Z",
+      "dateModified": "2025-07-31T15:27:47.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Boourns"
+          },
+          "reviewBody": "Man, I miss living in delivery range of Golden Diner. These pancakes and their breakfast burritos are incredible. And the best diner fries in all of NYC.",
+          "datePublished": "2025-08-01T01:03:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristin"
+          },
+          "reviewBody": "Does it ever tell you what temp to set the oven to? I keep reading it and can’t find the answer.",
+          "datePublished": "2025-07-31T22:46:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Linda"
+          },
+          "reviewBody": "Can you make these on a griddle like regular pancakes?",
+          "datePublished": "2025-07-31T19:39:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Charles Michener"
+          },
+          "reviewBody": "Sugar, sugar, sugar. I've got a toothache!",
+          "datePublished": "2025-07-31T18:10:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sunny"
+          },
+          "reviewBody": "Making the pancake was a long, multi-step process—and honestly, it felt like way too much effort. The result was heavier than we like, and the soy sauce-infused butter just didn’t work for us. Not sure what all the hype is about with this restaurant’s version! We’ll stick to our simple, delicious, traditional recipe.",
+          "datePublished": "2025-07-31T16:13:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen"
+          },
+          "reviewBody": "Has anyone successfully made these with GF flour? If so, please share what kind and how much",
+          "datePublished": "2025-07-31T15:49:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JoAnne"
+          },
+          "reviewBody": "I'm pretty sure the recipe is calling for liquid buttermilk, not powdered. If you put 300 grams of buttermilk powder, your pancakes will be inedible.",
+          "datePublished": "2025-07-31T19:42:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "reviewBody": "Don’t forget to add water to the buttermilk. Leaving out the water in the list of ingredients is a systemic flaw in many NYT recipes. The recipe may call for certain amounts of water to be added but it’s only found in the instructions so it’s easy to miss.",
+          "datePublished": "2025-07-31T15:51:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Angie"
+          },
+          "reviewBody": "Video of Golden Diner owner describing pancakes and showing the flip <a href=\"https://www.youtube.com/watch?v=q530IqQ89Ho\" target=\"_blank\">https://www.youtube.com/watch?v=q530IqQ89Ho</a>",
+          "datePublished": "2025-07-31T15:15:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alice"
+          },
+          "reviewBody": "There’s a video of the chef/owner making these pancakes on an another cooking channel (you can probably guess, a competitor to NYT Cooking). Watch that video if you want to know how they’re cooked at the restaurant, this is adapted for home cooking so it’s slightly different. I was able to come up with my own recipe for these pancakes before this recipe was published by watching that video (and came pretty close, having eaten these at the restaurant)",
+          "datePublished": "2025-07-31T13:27:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Genevieve Ko"
+          },
+          "reviewBody": "I didn't test this batter in my waffle maker, but I imagine it'd work. I'll try it out soon and am excited to hear from anyone who has tried it!",
+          "datePublished": "2025-07-31T16:57:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CMS"
+          },
+          "reviewBody": "Can you use this batter for waffles?",
+          "datePublished": "2025-07-31T11:47:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shoe"
+          },
+          "reviewBody": "LOL, I had the same thought, Shashi.\n\nBut the farther into the recipe I went, the more convinced I was that it just wouldn't be worth it! \n\nImagine how many iterations it would take to land on a gluten-free version that was worth all those steps just to make the original Golden Diner Pancakes!",
+          "datePublished": "2025-07-31T13:47:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shashi"
+          },
+          "reviewBody": "Hoping to hear whether someone is able to successfully make these using GF flour!",
+          "datePublished": "2025-07-31T11:48:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shoe"
+          },
+          "reviewBody": "It has it as an ingredient now. \n\n1 teaspoon",
+          "datePublished": "2025-07-31T13:49:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J. Anderson"
+          },
+          "reviewBody": "Soy sauce is listed in the maple honey butter recipe, but not listed in ingredients. What is the amount of soy sauce or is it a mistake.",
+          "datePublished": "2025-07-31T12:08:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Squirrelymac"
+          },
+          "reviewBody": "Not sure what all the confusion is re: to flip or not to flip! You absolutely need to flip these in the pan before putting the pancake into the oven to cook the middle thoroughly.",
+          "datePublished": "2025-07-31T09:41:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Manny"
+          },
+          "reviewBody": "At the restaurant the berry compote is optional and an extra charge. So the pancakes should still be awesome without it.",
+          "datePublished": "2025-07-31T07:43:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debbieann"
+          },
+          "reviewBody": "Can the recipe be doubled?",
+          "datePublished": "2025-07-31T05:40:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "R"
+          },
+          "reviewBody": "I’ve had these numerous times and they also put lemon zest on top of the pancakes. Don’t know why they didn’t include that here. It makes them taste even better. Don’t omit it!",
+          "datePublished": "2025-07-30T14:26:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "T Jones"
+          },
+          "reviewBody": "The accompanying article promotes the home-cook efficiency of making the butter, syrup, and compote while the batter ferments. Along the same lines, since the butter needs to be softened, it would make sense to change the order of steps 2-4: maple-honey syrup first,  then berry compote, ending with the maple-honey butter.",
+          "datePublished": "2025-07-30T14:38:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dominique"
+          },
+          "reviewBody": "@Lola you don’t really need to flip these bc of the oven. When they’re fully set, use a rubber spatula to flip them over and let them sit in the pan for a minute to finish. They’re fantastic!",
+          "datePublished": "2025-07-30T17:28:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cheryl"
+          },
+          "reviewBody": "@Torch since the top of the pancake would still be uncooked, wet batter, I don’t think this will work.",
+          "datePublished": "2025-07-30T16:38:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lola"
+          },
+          "reviewBody": "Any tips on how to flip it well?",
+          "datePublished": "2025-07-30T02:32:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Beth"
+          },
+          "reviewBody": "Can the preferment be made the night before and stashed in the fridge to use the next morning?",
+          "datePublished": "2025-07-30T16:13:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nicole"
+          },
+          "reviewBody": "can batter be prepared night before and refrigerated for use next  morning?",
+          "datePublished": "2025-07-30T13:53:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brooklyn Baker"
+          },
+          "reviewBody": "FYI We've had these pancakes several times in Golden Diner and they are indeed wonderful. They do not flip the pancakes. The cook the top side in a salamander. Perhaps a broiler would be an option? I realize that means you'll have to one oven (or perhaps counter oven) at 350 and the other to broil, but they are worth it!",
+          "datePublished": "2025-07-30T15:55:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Avni"
+          },
+          "reviewBody": "@Cheryl I think they’re finished in the oven so it would be fully cooked like a cake",
+          "datePublished": "2025-07-30T23:20:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Torch"
+          },
+          "reviewBody": "Put a plate over the pan, turn the pan over (holding the plate in place), then slide the pancake from the plate into the pan.",
+          "datePublished": "2025-07-30T15:31:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "atm"
+          },
+          "reviewBody": "@Dominique apologies if I’m missing something. You’ve obviously made them successfully, so I want to nail your tip, but I’m a bit confused by your comment. I assume you’re saying that at the end of step 7, when the pancakes are first cooking on the pan (pre-oven, which is step 8), you wait till they’re set and flip them with a rubber spatula and cook for another min? So that means you *do* need to flip them, no?",
+          "datePublished": "2025-07-31T06:15:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maggie"
+          },
+          "reviewBody": "I would not substitute orange juice or any other fruit juice, which would not taste anything like soy sauce. You could easily substitute tamari or amino acids.",
+          "datePublished": "2025-07-30T18:56:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "The Meshugana Gadfly"
+          },
+          "reviewBody": "According to King Arthur, they can be used interchangeably, although instant yeast takes less time to rise.  KA prefers using instant all the time.  Here's a link to a more in-depth article:\n<a href=\"https://www.kingarthurbaking.com/blog/2022/08/15/active-dry-versus-instant-yeast\" target=\"_blank\">https://www.kingarthurbaking.com/blog/2022/08/15/active-dry-versus-instant-yeast</a>",
+          "datePublished": "2025-07-30T20:22:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stripes Jaeger"
+          },
+          "reviewBody": "Should all the berries be fresh, frozen or a mix of fresh and frozen?",
+          "datePublished": "2025-07-30T14:19:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "rb damned"
+          },
+          "reviewBody": "@Mari McNeil\n\nHere it is\n\nAt home, you can brown both sides of a single pancake, then slide it onto a rack-lined pan in the oven so the center cooks through and the outsides stay crackly as you work.",
+          "datePublished": "2025-07-31T01:41:37.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1027064-golden-diner-pancakes",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Genevieve Ko"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "This game-changing pancake recipe from Sam Yoo, the chef and an owner of Golden Diner in Manhattan’s Chinatown, combines all the nostalgia of diner pancakes with innovative techniques for a dish that makes your eyes widen at first taste. Mr. Yoo cooks a yeast-risen buttermilk batter in individual skillets to give them height like Japanese soufflé pancakes and a perfect roundness like those in the flapjack emoji. As soon as he stacks them on a plate, he drenches them with buttery maple-honey syrup, then tops them with salted honey-maple butter, both inspired by Korean honey-butter chips and reminiscent of Werther’s hard candies. A berry compote completes the meal with its fresh tang.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Golden Diner Pancakes",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/95617976-87aa-5f55-a173-2acdfe50e76c#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/29/multimedia/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Susie Theodorou.",
+          "dateModified": "2025-07-31T00:46:25.079Z",
+          "datePublished": "2025-07-29T21:45:35.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-29T21:45:35.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/29/multimedia/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/95617976-87aa-5f55-a173-2acdfe50e76c#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/29/multimedia/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw-googleFourByThree.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Susie Theodorou.",
+          "dateModified": "2025-07-31T00:46:25.079Z",
+          "datePublished": "2025-07-29T21:45:35.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-29T21:45:35.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/29/multimedia/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/95617976-87aa-5f55-a173-2acdfe50e76c#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/07/29/multimedia/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Susie Theodorou.",
+          "dateModified": "2025-07-31T00:46:25.079Z",
+          "datePublished": "2025-07-29T21:45:35.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-07-29T21:45:35.000Z",
+          "url": "https://static01.nyt.com/images/2025/07/29/multimedia/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw/29FD-KOREX-GK-Golden-Diners-Pancakes--pbmw-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027064-golden-diner-pancakes"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-08-01T03:33:37.535Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
