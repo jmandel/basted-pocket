@@ -2,6 +2,7 @@
 
 ## 2025
 
+- https://cooking.nytimes.com/recipes/1027064-golden-diner-pancakes #brunch
 - https://cooking.nytimes.com/recipes/1026985-lemon-poppy-seed-bars #dessert
 - https://cooking.nytimes.com/recipes/1017699-miso-chicken #asian #dinner
 - https://cooking.nytimes.com/recipes/1026790-crispy-chicken-with-lime-butter #dinner
