@@ -2,6 +2,7 @@
 
 ## 2025
 
+- https://www.epicurious.com/recipes/food/views/warm-tofu-with-spicy-garlic-sauce-351871 #asian #dinner #veg
 - https://cooking.nytimes.com/recipes/1027064-golden-diner-pancakes #brunch
 - https://cooking.nytimes.com/recipes/1026985-lemon-poppy-seed-bars #dessert
 - https://cooking.nytimes.com/recipes/1017699-miso-chicken #asian #dinner
