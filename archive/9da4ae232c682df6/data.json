@@ -1,0 +1,292 @@
+{
+  "id": "9da4ae232c682df6",
+  "original_url": "https://share.google/qmy22czRYZ1wHwxKp",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1027275-crispy-fish-salad-with-parsley-and-ciabatta-croutons",
+  "fetched_title": "Crispy Fish Salad With Parsley and Ciabatta Croutons Recipe",
+  "main_text_content": "Inspired by the legendary Zuni Café chicken salad, this version swaps poultry for crisp-skinned white fish, pairing it with a lively mix of textures and bold, sweet-sour flavors Torn ciabatta  croutons soak up a sherry vinegar dressing, punctuated by capers, pine nuts and raisins for sharpness, crunch and sweetness Softened shallots and garlic add depth, while parsley keeps everything fresh",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1016219-moroccan-baked-fish-with-onions\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2014/04/09/dining/09KITCH_SPAN/09KITCH_SPAN-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2014/04/09/dining/09KITCH_SPAN/09KITCH_SPAN-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2014/04/09/dining/09KITCH_SPAN/09KITCH_SPAN-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2014/04/09/dining/09KITCH_SPAN/09KITCH_SPAN-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2014/04/09/dining/09KITCH_SPAN/09KITCH_SPAN-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2014/04/09/dining/09KITCH_SPAN/09KITCH_SPAN-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" sizes=\"100%\" class=\"cardimage_image__EYWRG\" loading=\"lazy\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Moroccan Baked Fish With Onions</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">David Tanis</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/08/26/multimedia/31EATrex-crispy-fish-salad-blvf/31EATrex-crispy-fish-salad-blvf-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/9da4ae232c682df6/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/a6759d79-75c5-510f-94fe-e3911986e931",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1027275-crispy-fish-salad-with-parsley-and-ciabatta-croutons",
+        "@type": "WebPage",
+        "name": "Crispy Fish Salad With Parsley and Ciabatta Croutons"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027275-crispy-fish-salad-with-parsley-and-ciabatta-croutons",
+      "name": "Crispy Fish Salad With Parsley and Ciabatta Croutons",
+      "description": "Inspired by the legendary Zuni Café chicken salad, this version swaps poultry for crisp-skinned white fish, pairing it with a lively mix of textures and bold, sweet-sour flavors. Torn ciabatta  croutons soak up a sherry vinegar dressing, punctuated by capers, pine nuts and raisins for sharpness, crunch and sweetness. Softened shallots and garlic add depth, while parsley keeps everything fresh. It’s a dish that feels both effortless and layered, a bright, satisfying lunch or a starter that’s sure to impress.",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/ba79eb48-851e-56e1-a433-77ef0c736904#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/08/26/multimedia/31EATrex-crispy-fish-salad-blvf/31EATrex-crispy-fish-salad-blvf-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Megan Hedgpeth.",
+          "dateModified": "2025-08-26T15:37:19.905Z",
+          "datePublished": "2025-08-26T15:37:19.905Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-08-26T15:37:19.905Z",
+          "url": "https://static01.nyt.com/images/2025/08/26/multimedia/31EATrex-crispy-fish-salad-blvf/31EATrex-crispy-fish-salad-blvf-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ba79eb48-851e-56e1-a433-77ef0c736904#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/08/26/multimedia/31EATrex-crispy-fish-salad-blvf/31EATrex-crispy-fish-salad-blvf-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Megan Hedgpeth.",
+          "dateModified": "2025-08-26T15:37:19.905Z",
+          "datePublished": "2025-08-26T15:37:19.905Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-08-26T15:37:19.905Z",
+          "url": "https://static01.nyt.com/images/2025/08/26/multimedia/31EATrex-crispy-fish-salad-blvf/31EATrex-crispy-fish-salad-blvf-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/ba79eb48-851e-56e1-a433-77ef0c736904#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/08/26/multimedia/31EATrex-crispy-fish-salad-blvf/31EATrex-crispy-fish-salad-blvf-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Megan Hedgpeth.",
+          "dateModified": "2025-08-26T15:37:19.905Z",
+          "datePublished": "2025-08-26T15:37:19.905Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-08-26T15:37:19.905Z",
+          "url": "https://static01.nyt.com/images/2025/08/26/multimedia/31EATrex-crispy-fish-salad-blvf/31EATrex-crispy-fish-salad-blvf-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT25M",
+      "totalTime": "PT40M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, lunch, seafood, main course",
+      "keywords": "caper, ciabatta, olive oil, parsley, salad, sea bass",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 5
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 588,
+        "unsaturatedFatContent": "30 grams",
+        "carbohydrateContent": "39 grams",
+        "cholesterolContent": null,
+        "fatContent": "38 grams",
+        "fiberContent": "5 grams",
+        "proteinContent": "27 grams",
+        "saturatedFatContent": "5 grams",
+        "sodiumContent": "710 milligrams",
+        "sugarContent": "15 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "8 tablespoons extra-virgin olive oil, divided",
+        "4 (3- to 4-ounce) skin-on sea bass, branzino or other flaky white fish fillets (12 to 16 ounces total), halved crosswise",
+        "Fine sea salt and black pepper",
+        "4 ounces ciabatta (or similar), torn into 3/4-inch pieces",
+        "3 large shallots, thinly sliced into rounds",
+        "1 1/2 tablespoons small capers, strained and patted dry",
+        "1/3 cup pine nuts",
+        "1/3 cup raisins",
+        "6 garlic cloves, thinly sliced",
+        "1/2 cup sherry vinegar",
+        "2 (packed) cups parsley leaves"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add 2 tablespoons oil to a large, nonstick skillet on medium-high heat. Season the fish on both sides with ½ teaspoon salt and place half the fish in the pan, skin side down, to fry for 4 minutes, carefully swirling the pan occasionally, until nearly cooked through. Flip the fish — you should have a golden crispy skin — and cook for another 10 seconds, then transfer to a plate. Repeat with 2 more tablespoons oil and the remaining fish. Keep the oil in the pan."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the bread and ¼ teaspoon salt and cook for 3 minutes, stirring often, until golden on the outside but still soft. Transfer the croutons to a large mixing bowl, along with half the shallots."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Wipe out the pan and reduce the heat to medium. Add the remaining 4 tablespoons oil and heat for 30 seconds, then add the capers and cook for 1 minute, until they stop spitting and the edges have started to crisp. Add the pine nuts and fry for 1 minute, stirring often, just until lightly golden. Use a slotted spoon to transfer the pine nuts and capers to the bowl with the bread mixture, leaving as much oil in the pan as possible."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the remaining shallots, plus the raisins, garlic, ⅛ teaspoon salt and a good grind of pepper to the pan. Increase the heat to medium-high and cook for 3 to 5 minutes, stirring frequently, until the shallots have softened but have not taken on color. Add the vinegar and cook for another 2 minutes, until reduced by half, then transfer everything to the bowl along with the parsley and mix to combine."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Transfer most of the bread crumb mixture to a large plate and top with the fish, then sprinkle any remaining mixture from the bowl over the top."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-08-26T00:00:00.000Z",
+      "dateModified": "2025-08-27T16:07:30.000Z",
+      "review": [],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1027275-crispy-fish-salad-with-parsley-and-ciabatta-croutons",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "Inspired by the legendary Zuni Café chicken salad, this version swaps poultry for crisp-skinned white fish, pairing it with a lively mix of textures and bold, sweet-sour flavors. Torn ciabatta  croutons soak up a sherry vinegar dressing, punctuated by capers, pine nuts and raisins for sharpness, crunch and sweetness. Softened shallots and garlic add depth, while parsley keeps everything fresh. It’s a dish that feels both effortless and layered, a bright, satisfying lunch or a starter that’s sure to impress.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": "Product",
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Crispy Fish Salad With Parsley and Ciabatta Croutons",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/ba79eb48-851e-56e1-a433-77ef0c736904#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/08/26/multimedia/31EATrex-crispy-fish-salad-blvf/31EATrex-crispy-fish-salad-blvf-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Megan Hedgpeth.",
+          "dateModified": "2025-08-26T15:37:19.905Z",
+          "datePublished": "2025-08-26T15:37:19.905Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-08-26T15:37:19.905Z",
+          "url": "https://static01.nyt.com/images/2025/08/26/multimedia/31EATrex-crispy-fish-salad-blvf/31EATrex-crispy-fish-salad-blvf-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ba79eb48-851e-56e1-a433-77ef0c736904#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/08/26/multimedia/31EATrex-crispy-fish-salad-blvf/31EATrex-crispy-fish-salad-blvf-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Megan Hedgpeth.",
+          "dateModified": "2025-08-26T15:37:19.905Z",
+          "datePublished": "2025-08-26T15:37:19.905Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-08-26T15:37:19.905Z",
+          "url": "https://static01.nyt.com/images/2025/08/26/multimedia/31EATrex-crispy-fish-salad-blvf/31EATrex-crispy-fish-salad-blvf-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/ba79eb48-851e-56e1-a433-77ef0c736904#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/08/26/multimedia/31EATrex-crispy-fish-salad-blvf/31EATrex-crispy-fish-salad-blvf-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Megan Hedgpeth.",
+          "dateModified": "2025-08-26T15:37:19.905Z",
+          "datePublished": "2025-08-26T15:37:19.905Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-08-26T15:37:19.905Z",
+          "url": "https://static01.nyt.com/images/2025/08/26/multimedia/31EATrex-crispy-fish-salad-blvf/31EATrex-crispy-fish-salad-blvf-mediumSquareAt3X.jpg",
+          "width": "1800"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027275-crispy-fish-salad-with-parsley-and-ciabatta-croutons"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-08-27T19:12:27.905Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
