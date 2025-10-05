@@ -2,6 +2,7 @@
 
 ## 2025
 
+- https://cooking.nytimes.com/recipes/1027132-carrot-orange-olive-oil-cake #cake #dessert
 - https://cooking.nytimes.com/recipes/1027352-dan-dan-noodle-salad #asian #dinner #noodles #veg
 - https://share.google/qmy22czRYZ1wHwxKp #dinner #fish #salad
 - https://www.epicurious.com/recipes/food/views/warm-tofu-with-spicy-garlic-sauce-351871 #asian #dinner #veg
