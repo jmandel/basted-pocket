@@ -1,0 +1,611 @@
+{
+  "id": "eae03d9bdc636311",
+  "original_url": "https://cooking.nytimes.com/recipes/1027132-carrot-orange-olive-oil-cake",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1027132-carrot-orange-olive-oil-cake",
+  "fetched_title": "Carrot-Orange Olive Oil Cake Recipe",
+  "main_text_content": "Carrot cake has always felt like a fall-winter dessert due to its warming spices, dried fruits, and nuts This version, inspired by Italian citrus cakes made with olive oil, feels lighter and brighter and is incredibly quick to put together because there is no grating required The carrots are tossed in a blender along with the wet ingredients, creating a smooth texture and a much lighter cake without those bits of carrot, fruit and nuts weighing it down",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1027337-sweet-potato-and-brown-butter-snacking-cake\"><figure class=\"tersecard_imageBlock__77puv\"><img class=\"ResponseImage_image__HGbHr cardimage_image__EYWRG\" alt=\"A slab of cake, topped with a pillowy frosting and pecans is photographed at an angle. Three square slices sit off to the side.\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2025/09/22/multimedia/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2025/09/22/multimedia/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/09/22/multimedia/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/09/22/multimedia/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/09/22/multimedia/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/09/22/multimedia/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/09/22/multimedia/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/09/22/multimedia/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk/22-FALLBAKING-Sweet-Potato-Snacking-Cake-fzlk-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" sizes=\"100%\" loading=\"lazy\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Sweet Potato and Brown Butter Snacking Cake</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Vaughn Vreeland</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/eae03d9bdc636311/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/91e4a1b5-6323-51fc-a9f6-a8dacfe0606a",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1027132-carrot-orange-olive-oil-cake",
+        "@type": "WebPage",
+        "name": "Carrot-Orange Olive Oil Cake"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027132-carrot-orange-olive-oil-cake",
+      "name": "Carrot-Orange Olive Oil Cake",
+      "description": "Carrot cake has always felt like a fall-winter dessert due to its warming spices, dried fruits, and nuts. This version, inspired by Italian citrus cakes made with olive oil, feels lighter and brighter and is incredibly quick to put together because there is no grating required. The carrots are tossed in a blender along with the wet ingredients, creating a smooth texture and a much lighter cake without those bits of carrot, fruit and nuts weighing it down. (Another light, fluffy carrot cake made with a blended batter, called bolo de cenoura, is also popular in Brazil.) Orange zest and juice brighten things up, and cardamom brings in that warmth you want in a carrot cake while keeping it distinct from the classic.&nbsp;",
+      "author": {
+        "@type": "Person",
+        "name": "Kiano Moju"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/f4c2eb2b-5dd2-5b3f-8570-39fc9ae44aa4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Yossy Arefi.",
+          "dateModified": "2025-09-15T20:11:01.939Z",
+          "datePublished": "2025-09-15T20:11:01.939Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-09-15T20:11:01.939Z",
+          "url": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/f4c2eb2b-5dd2-5b3f-8570-39fc9ae44aa4#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Yossy Arefi.",
+          "dateModified": "2025-09-15T20:11:01.939Z",
+          "datePublished": "2025-09-15T20:11:01.939Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-09-15T20:11:01.939Z",
+          "url": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/f4c2eb2b-5dd2-5b3f-8570-39fc9ae44aa4#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Yossy Arefi.",
+          "dateModified": "2025-09-15T20:11:01.939Z",
+          "datePublished": "2025-09-15T20:11:01.939Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-09-15T20:11:01.939Z",
+          "url": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/f4c2eb2b-5dd2-5b3f-8570-39fc9ae44aa4#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-facebookJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Yossy Arefi.",
+          "dateModified": "2025-09-15T20:11:01.939Z",
+          "datePublished": "2025-09-15T20:11:01.939Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2025-09-15T20:11:01.939Z",
+          "url": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT1H40M",
+      "totalTime": "PT1H50M",
+      "recipeYield": "One 9-inch cake (8 servings)",
+      "recipeCuisine": "",
+      "recipeCategory": "easy, dessert",
+      "keywords": "cardamom, carrot, carrot cake, egg, extra virgin olive oil, italian inspired, orange, dairy-free, vegetarian, mother’s day, thanksgiving",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 233
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 468,
+        "unsaturatedFatContent": "24 grams",
+        "carbohydrateContent": "49 grams",
+        "cholesterolContent": null,
+        "fatContent": "29 grams",
+        "fiberContent": "2 grams",
+        "proteinContent": "4 grams",
+        "saturatedFatContent": "4 grams",
+        "sodiumContent": "321 milligrams",
+        "sugarContent": "29 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "Nonstick cooking spray or butter, for greasing",
+        "1 1/3 cups/175 grams all-purpose flour ",
+        "1 tablespoon baking powder",
+        "1 teaspoon ground cardamom ",
+        "1 teaspoon kosher salt (such as Diamond Crystal)",
+        "1/4 teaspoon baking soda",
+        "5 medium carrots (about 10 ounces/300 grams), peeled and roughly chopped (about 2 cups)",
+        "1 cup/210 grams extra-virgin olive oil",
+        "1 cup/200 grams granulated sugar",
+        "2 large eggs, at room temperature",
+        "1 orange, zested and juiced (¼ cup juice)",
+        "Powdered sugar, to serve"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Arrange a rack in the center of the oven. Heat the oven to 375 degrees. Grease a 9-inch springform pan, cake pan or cast-iron skillet with nonstick spray or butter, and line the bottom and sides with parchment paper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large bowl, whisk the flour, baking powder, cardamom, salt and baking soda together. Make a well in the middle and set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a blender, combine the carrots, olive oil, granulated sugar, eggs, orange zest and orange juice; blend until smooth. Pour into the middle of the well of the dry ingredients. Starting in the center, use a whisk to slowly incorporate the flour mixture until there is no visible flour."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour the batter into the prepared pan. Lower the oven temperature to 350 degrees and immediately place the cake onto the middle rack. Bake for 35 to 45 minutes, until the center comes out clean when tested with a toothpick."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Let the cake cool on a wire rack for about 1 hour, then remove from the pan. Before serving, dust with powdered sugar."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-09-17T00:00:00.000Z",
+      "dateModified": "2025-09-17T20:21:18.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erin S"
+          },
+          "reviewBody": "made with KA 1-1 (blue), works great as a gf and dairy free dessert! Added ginger and vanilla to the wet batter. Really unique and delicious. Texture did not suffer for the gf flour.",
+          "datePublished": "2025-10-04T17:40:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Margie S"
+          },
+          "reviewBody": "We ate this with blueberries and whipped cream and some Fancy Nancy (Silverton brand) lemon gelato. I had to make it with gluten free flour but it was still pretty great, consistency-wise.  It's very carroty!",
+          "datePublished": "2025-10-04T18:26:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Glori"
+          },
+          "reviewBody": "I used Morton kosher salt and I can taste bits of salt in the cake. Did anybody else have this trouble? I’ll be using regular salt next time.",
+          "datePublished": "2025-10-04T18:04:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KF"
+          },
+          "reviewBody": "Super easy, moist and tasty.  Would never describe as oily as a couple of commenters did.\n\nAlthough it's not super sweet, might consider cutting sugar a bit and doubling or more the cardamom.  Could easily add some other spices in too.",
+          "datePublished": "2025-10-04T16:17:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "VLR"
+          },
+          "reviewBody": "So insanely moist and the carrot flavor is amazing.\nMade in a cast iron10” pan, didn’t need the parchment.  Vitamix and pre peeled baby carrots make it super quick and easy.   Possibly doesn’t need that much sugar?  10/10",
+          "datePublished": "2025-10-04T00:06:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lulu"
+          },
+          "reviewBody": "Made as directed, but curious as to the instruction “to make a well” for the wet into dry ingredients. The wet completely submerged the dry so the well wasn’t happening. However, it made no difference in the finished product.",
+          "datePublished": "2025-10-03T22:32:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TJ"
+          },
+          "reviewBody": "Solid recipe and everyone loved it! It’s tender, moist, lightly sweetened with great aromatics. So happy to have this outcome and not have to make any adjustments.",
+          "datePublished": "2025-10-03T18:18:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne"
+          },
+          "reviewBody": "Would this work as cupcakes? And if you were going to frost this, what would you use? Thanks all.",
+          "datePublished": "2025-10-03T18:06:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Arnie"
+          },
+          "reviewBody": "The thought of using one cup of oil for only 1-1/3 c flour makes me cringe.",
+          "datePublished": "2025-10-03T15:14:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "berlinbrooklyngirl"
+          },
+          "reviewBody": "I have neither a regular blender nor a food processor, only a NutriBullet - wondering if that has enough oomph to liquify carrots..?",
+          "datePublished": "2025-10-03T15:27:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Annie Slocum"
+          },
+          "reviewBody": "Stellar recipe and so easy! I love the combination of the carrots, orange and cardamom. Have made it twice this week! I added extra cardamom because I love it. I will make it often and share with friends who have always gotten the Chez Panisse Almond Cake for birthdays.",
+          "datePublished": "2025-10-02T23:16:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Annie Slocum"
+          },
+          "reviewBody": "You can definitely make it a day ahead and then serve at room temperature (or cold) with freshly dusted powdered sugar. It is so light! I think it will keep for a few days if no one has tasted it. Mine disappeared as soon as I served it!",
+          "datePublished": "2025-10-02T23:18:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "How long does it keep? Could I make it a day ahead?",
+          "datePublished": "2025-10-01T23:16:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jo Wellins"
+          },
+          "reviewBody": "Has anyone made this with 1:1 gluten free flour, and if so, how did it come out?   Any changes to make in addition?  Thank you!",
+          "datePublished": "2025-09-30T17:38:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Annie Slocum"
+          },
+          "reviewBody": "I added an extra teaspoon of cardamom because I love it-I will have to look for cardamom bitters!!",
+          "datePublished": "2025-10-02T23:19:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tauna"
+          },
+          "reviewBody": "I didn't have any ground cardamom but I did have a new bottle of Floyd's cardamom bitters and a scant 2 teaspoons came through nicely in the cake.",
+          "datePublished": "2025-09-30T16:21:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Linda Horrell"
+          },
+          "reviewBody": "It was delicious but next time I will reduce the olive oil a bit and add a bit of orange extract.",
+          "datePublished": "2025-09-30T12:39:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Clint"
+          },
+          "reviewBody": "Made her exactly as written this afternoon and she’s lovely, with a moist delicate crumb and subtle flavors of carrot, orange and cardamom. If you’re searching for a Super Bowl crowd pleaser, you haven’t found it yet, big guy. However, if you’re having your favorite elaborate gays over for a round of Hearts, a few G&Ts and a platter of cucumber sandwiches, she’ll be your perfect not-too-sweet ending. Next time I’ll serve her with a dollop of softly whipped cream, but that’s just me. PS: All this parchment paper talk … tedious.",
+          "datePublished": "2025-09-21T01:12:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "edg"
+          },
+          "reviewBody": "@Joshua No tricks needed. Cut a circle, using the bottom of your pan as a template. Then cut a strip of parchment that’s a little wider than the depth of the pan and 2 to 3 inches longer than the circumference of the pan. Rub some oil on the interior of the pan. Put the parchment circle on the oily pan bottom and run the thin strip of paper around the inside of the pan’s oily edge. The oil should make the parchment stick. Maybe there’s a better way, but this method works.",
+          "datePublished": "2025-09-19T03:32:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marina"
+          },
+          "reviewBody": "@Joshua drinking a glass of wine or two beforehand really helps",
+          "datePublished": "2025-09-18T23:51:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne G"
+          },
+          "reviewBody": "Excellent cake, it’s very moist, not too sweet, and the carrot and orange go very well together. The cardamom adds a subtle extra flavour that I really enjoyed. Rave reviews from everyone who tried it. I’d like to try substituting a portion of the all-purpose flour with almond flour next time.",
+          "datePublished": "2025-09-19T02:39:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "The trick is to cut a piece large enough to completely cover the bottom and sides of the pan with ease.  Dampen the paper and crumple it into a ball.   Then unfold it and spread it into the pan, lapping up the sides and over the rim, wrinkles and all.  It will look a mess but work like a dream.  Credit to Jul's Kitchen for teaching me this.",
+          "datePublished": "2025-09-19T13:04:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steve"
+          },
+          "reviewBody": "@edg Yes we need a video showing how this done while drinking wine….",
+          "datePublished": "2025-09-19T07:54:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jjclara"
+          },
+          "reviewBody": "@Anne G almond flour and maybe almond extract rather than orange?  Would that even be legal?  This cake sounds easy and delicious but I’m not a fan of orange…..",
+          "datePublished": "2025-09-20T14:34:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Su"
+          },
+          "reviewBody": "The initial high temp maximizes oven spring--the heat-activated effect of the baking powder, and the evaporation of water from the eggs & OJ. Lowering the temp lets the cake bake all the way through without burning the exterior or making the edges tough and dry.",
+          "datePublished": "2025-09-20T19:05:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nayana"
+          },
+          "reviewBody": "What changes would you make if you substituted almond flour for the all purpose flour?",
+          "datePublished": "2025-09-19T14:52:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "S in VA"
+          },
+          "reviewBody": "@Claire  Catagna. The recipe description has a link for another carrot cake with blended batter. It uses less oil, but more eggs and sour cream. You could try replacing some of the oil with yogurt or buttermilk. Not the same recipe, but results are satisfactory enough. Also, one can often substitute plain apple sauce for some of the oil/butter  but not sure it would work for this cake....",
+          "datePublished": "2025-09-20T13:44:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "Pina, the text on the bag says you can replace 25% of the all-purpose flour with almond flour, so that would be 1/4 cup almond flour and 3/4 cup all-purpose for every cup specified in the recipe.",
+          "datePublished": "2025-09-22T22:18:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Courtney"
+          },
+          "reviewBody": "Could one use a food processor instead of a blender?",
+          "datePublished": "2025-09-19T13:00:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ana B."
+          },
+          "reviewBody": "@Nayana per Bob’s Redmill almond flour bag, one can substitute 1/4 of almond flour per every cup of flour called for in a recipe. I do this with all the cakes I bake (typically chocolate). The cakes always come out moist and delicious.",
+          "datePublished": "2025-09-22T15:05:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "B."
+          },
+          "reviewBody": "@Clint I think I love you.",
+          "datePublished": "2025-09-29T00:59:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne G"
+          },
+          "reviewBody": "@jjclara while the orange wasn’t overpowering, if you want to avoid it entirely in this recipe you’d need to replace the orange juice with some other liquid. While orange-almond seems to be a popular combo, there are other almond-based cake recipes on this app that use other flavours you might like better or could give you inspiration for modifying this one?",
+          "datePublished": "2025-09-21T14:46:50.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1027132-carrot-orange-olive-oil-cake",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Kiano Moju"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "Carrot cake has always felt like a fall-winter dessert due to its warming spices, dried fruits, and nuts. This version, inspired by Italian citrus cakes made with olive oil, feels lighter and brighter and is incredibly quick to put together because there is no grating required. The carrots are tossed in a blender along with the wet ingredients, creating a smooth texture and a much lighter cake without those bits of carrot, fruit and nuts weighing it down. (Another light, fluffy carrot cake made with a blended batter, called bolo de cenoura, is also popular in Brazil.) Orange zest and juice brighten things up, and cardamom brings in that warmth you want in a carrot cake while keeping it distinct from the classic.&nbsp;",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Carrot-Orange Olive Oil Cake",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/f4c2eb2b-5dd2-5b3f-8570-39fc9ae44aa4#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Yossy Arefi.",
+          "dateModified": "2025-09-15T20:11:01.939Z",
+          "datePublished": "2025-09-15T20:11:01.939Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-09-15T20:11:01.939Z",
+          "url": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/f4c2eb2b-5dd2-5b3f-8570-39fc9ae44aa4#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Yossy Arefi.",
+          "dateModified": "2025-09-15T20:11:01.939Z",
+          "datePublished": "2025-09-15T20:11:01.939Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-09-15T20:11:01.939Z",
+          "url": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/f4c2eb2b-5dd2-5b3f-8570-39fc9ae44aa4#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Yossy Arefi.",
+          "dateModified": "2025-09-15T20:11:01.939Z",
+          "datePublished": "2025-09-15T20:11:01.939Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-09-15T20:11:01.939Z",
+          "url": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/f4c2eb2b-5dd2-5b3f-8570-39fc9ae44aa4#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-facebookJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Yossy Arefi.",
+          "dateModified": "2025-09-15T20:11:01.939Z",
+          "datePublished": "2025-09-15T20:11:01.939Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2025-09-15T20:11:01.939Z",
+          "url": "https://static01.nyt.com/images/2025/09/15/multimedia/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj/00FD-EASY-BAKED-GOODS-ROUNDUP-KM-Carrot-Olive-Oil-Cake-ckzj-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027132-carrot-orange-olive-oil-cake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-10-05T03:49:24.629Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
