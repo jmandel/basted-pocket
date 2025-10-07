@@ -2,6 +2,7 @@
 
 ## 2025
 
+- https://cooking.nytimes.com/recipes/1026710-herby-pearl-couscous-and-sugar-snap-pea-salad#notes_section #dinner #noodles #potluck #salad #side #summer #veg
 - https://cooking.nytimes.com/recipes/1027132-carrot-orange-olive-oil-cake #cake #dessert
 - https://cooking.nytimes.com/recipes/1027352-dan-dan-noodle-salad #asian #dinner #noodles #veg
 - https://share.google/qmy22czRYZ1wHwxKp #dinner #fish #salad
