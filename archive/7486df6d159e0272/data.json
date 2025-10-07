@@ -1,0 +1,587 @@
+{
+  "id": "7486df6d159e0272",
+  "original_url": "https://cooking.nytimes.com/recipes/1026710-herby-pearl-couscous-and-sugar-snap-pea-salad",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026710-herby-pearl-couscous-and-sugar-snap-pea-salad",
+  "fetched_title": "Herby Pearl Couscous and Sugar Snap Pea Salad Recipe",
+  "main_text_content": "The earthy and tangy flavors of tabbouleh serve as the loose inspiration for this lemony and herbaceous salad Fresh parsley and mint are bright and grassy, offering a lovely textural contrast to the silky pearl couscous; dried mint adds depth Juicy and sweet sugar snap peas supply a fresh crunch, with just a rough chop needed to release the inner peas",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025552-pearl-couscous-salad-with-shrimp-and-feta\"><figure class=\"tersecard_imageBlock__77puv\"><img class=\"ResponseImage_image__HGbHr cardimage_image__EYWRG\" alt=\"\" width=\"440\" height=\"293\" src=\"https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" srcSet=\"https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/07/09/multimedia/ya-pearl-couscous-salad-shrimp-fetarex-fvpk/ya-pearl-couscous-salad-shrimp-fetarex-fvpk-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" sizes=\"100%\" loading=\"lazy\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Pearl Couscous Salad With Shrimp and Feta</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Yossy Arefi</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/7486df6d159e0272/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/8f86c29d-24c7-5fba-ad92-8735b6de41a5",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026710-herby-pearl-couscous-and-sugar-snap-pea-salad",
+        "@type": "WebPage",
+        "name": "Herby Pearl Couscous and Sugar Snap Pea Salad"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026710-herby-pearl-couscous-and-sugar-snap-pea-salad",
+      "name": "Herby Pearl Couscous and Sugar Snap Pea Salad",
+      "description": "The earthy and tangy flavors of tabbouleh serve as the loose inspiration for this lemony and herbaceous salad. Fresh parsley and mint are bright and grassy, offering a lovely textural contrast to the silky pearl couscous; dried mint adds depth. Juicy and sweet sugar snap peas supply a fresh crunch, with just a rough chop needed to release the inner peas. Allspice brings a moment of intrigue, both warm and complex, but you could substitute with cinnamon, nutmeg, cloves or a little of each. This salad can be prepared up to several hours in advance (kept at room temperature); the flavors will meld and improve over time.",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/eeac9305-f56f-561b-ab7e-f0766f7260da#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-20T18:32:33.743Z",
+          "datePublished": "2025-05-20T16:21:25.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-20T16:21:25.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/eeac9305-f56f-561b-ab7e-f0766f7260da#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-googleFourByThree.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-20T18:32:33.743Z",
+          "datePublished": "2025-05-20T16:21:25.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-20T16:21:25.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/eeac9305-f56f-561b-ab7e-f0766f7260da#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-mediumSquareAt3X.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-20T18:32:33.743Z",
+          "datePublished": "2025-05-20T16:21:25.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-20T16:21:25.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/eeac9305-f56f-561b-ab7e-f0766f7260da#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-facebookJumbo.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-20T18:32:33.743Z",
+          "datePublished": "2025-05-20T16:21:25.000Z",
+          "height": "549",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-20T16:21:25.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "prepTime": "PT15M",
+      "cookTime": "PT15M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, lunch, quick, weeknight, main course, side dish",
+      "keywords": "couscous, fresh herb, lemon juice, lemon zest, make-ahead, mint, parsley, party, picnic, salad, stovetop, sugar snap pea, dairy-free, vegan, vegetarian, spring",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 236
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 453,
+        "unsaturatedFatContent": "15 grams",
+        "carbohydrateContent": "61 grams",
+        "cholesterolContent": null,
+        "fatContent": "19 grams",
+        "fiberContent": "7 grams",
+        "proteinContent": "11 grams",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "479 milligrams",
+        "sugarContent": "4 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 large garlic clove, grated",
+        "1/2 small red onion, finely diced",
+        "1 lemon, zested, plus 1/4 cup lemon juice (from 1 to 2 lemons) or more as needed ",
+        "Salt and black pepper",
+        "1 1/2 cups pearl couscous ",
+        "1/2 pound sugar snap peas, trimmed and roughly chopped",
+        "1/2 cup chopped mint",
+        "1/2 cup chopped parsley",
+        "1 teaspoon ground allspice ",
+        "1 teaspoon dried mint ",
+        "1/3 cup extra-virgin olive oil"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large bowl, stir together the garlic, red onion and lemon juice. Allow to sit while you prepare the remaining ingredients; this will tame the bite of the raw alliums."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bring a medium pot of salted water to the boil. Add the pearl couscous and cook according to package instructions until tender, about 8 minutes. Drain, refresh under cold water, then drain again."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To the garlic and red onion, add the pearl couscous, sugar snap peas, lemon zest, chopped mint, parsley, allspice, dried mint and olive oil. Season generously with salt and pepper and toss to combine."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Taste and season with more salt, pepper and lemon juice, as needed. Serve at room temperature."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-05-21T00:00:00.000Z",
+      "dateModified": "2025-05-21T20:44:03.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carmen Lawrence"
+          },
+          "reviewBody": "Adding feta really adds a nice touch!",
+          "datePublished": "2025-08-30T01:11:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Abigail"
+          },
+          "reviewBody": "Very yummy! I mostly made it according to the recipe, but added a bit of goat cheese, and I didn’t have all spice (but I don’t think it was missed). Served with roasted chicken.",
+          "datePublished": "2025-08-17T14:58:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jordan"
+          },
+          "reviewBody": "Does anyone have a good suggestion for a grain substitution to make this gluten free?",
+          "datePublished": "2025-08-01T12:13:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gail"
+          },
+          "reviewBody": "I doubled the recipe as written and my guests loved it. I used Israeli-style turmeric pearl couscous which is a product of Canada, so the yellow and green colors were bright and attractive. Pearl couscous is actually toasted pasta.",
+          "datePublished": "2025-07-13T09:40:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Benji"
+          },
+          "reviewBody": "Really enjoyed this. Only change I made was adding some RG Large White Limas for some protein to turn it into 'salad for dinner'.",
+          "datePublished": "2025-07-07T01:42:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shelly Jones-Wilkins"
+          },
+          "reviewBody": "Not so good. I made this as written with the exception of adding 1/2 the allspice called for. I’m glad I did, as even that amount tasted odd and detracted from what might have been a refreshing salad. Disappointing.",
+          "datePublished": "2025-07-06T14:12:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RM"
+          },
+          "reviewBody": "Really great—loved the allspice. Dried mint = peppermint tea. Worked well.",
+          "datePublished": "2025-06-26T00:29:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maeve"
+          },
+          "reviewBody": "Really tasty, the sugar snaps give a really good crunch. I didn’t have pearl couscous so used orzo which was great and I’d recommend.. I went easy on the allspice, just 1/2 tsp. On the second day, I wanted to add more oomph so added Aleppo pepper and it was even better!",
+          "datePublished": "2025-06-25T16:42:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christa"
+          },
+          "reviewBody": "Made as directed with the exception of using snow peas instead of sugar snap as that's what I had on hand. We loved it! Made it ahead of time to give the flavours time to meld. Light and fresh with a nice crunch. Will definitely make it again.",
+          "datePublished": "2025-06-23T00:33:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LLS"
+          },
+          "reviewBody": "Made this twice for potlucks and it worked like a charm! Did run out of allspice and instead cracked in some fresh black pepper and salt. The Sumac idea sounds brilliant - Zatar might also work. For the second time I added blanched fresh English peas - nice addition. \n\nSalad keeps really well in the fridge for a couple of days and makes a nice lunch the next day.",
+          "datePublished": "2025-06-23T00:32:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Allison LA"
+          },
+          "reviewBody": "Perfect!",
+          "datePublished": "2025-06-22T01:13:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan Williams"
+          },
+          "reviewBody": "Did anyone parboil the sugar snap peas? My salad was good but really crunchy.",
+          "datePublished": "2025-06-18T17:07:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JuliaH"
+          },
+          "reviewBody": "Made this for a quick side with roasted salmon. Followed it to the letter and it was great. Pies did need a fair amount of salt, but was really helped by fresh things from the garden including the snap peas and mint, some of the parsley too. And also fresh ground allspice- which was secret ingredient worthy. Might add more lemon next time but as is was yummy.",
+          "datePublished": "2025-06-18T01:20:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alexis"
+          },
+          "reviewBody": "Was nervous about the allspice (so much) and the result was nice but that could be because I overdid the lemon juice (used two lemons and didn't measure!) Shiso sounds like a fun idea- might try that next time I have some around",
+          "datePublished": "2025-06-17T01:14:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gretchen Miles"
+          },
+          "reviewBody": "Used Quinoa instead of couscous",
+          "datePublished": "2025-06-11T17:21:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kristie"
+          },
+          "reviewBody": "So good! Used sumac instead of all spice! 10/10",
+          "datePublished": "2025-05-30T15:40:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen Lee"
+          },
+          "reviewBody": "This sounds delicious! I look forward to reading comments from those who have actually made the recipe. 😊\n\nThis reminds me of a Spring pea salad from Balducci's. It had some combo of snow peas, snap peas, pea shoots, and frozen peas with lemon juice, mint, and olive oil. They might still carry this. \n\nI might add thinly sliced white salad turnips and their greens, radishes, or both. And garlic scapes when they're in season.",
+          "datePublished": "2025-05-23T20:16:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul"
+          },
+          "reviewBody": "Very tasty and fresh. Used slightly less allspice.",
+          "datePublished": "2025-05-29T17:15:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JaeG"
+          },
+          "reviewBody": "@NY drying your own mint is quite easy and practical for those occasional pinches.",
+          "datePublished": "2025-06-01T14:39:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stiv"
+          },
+          "reviewBody": "Fresh mint is literally in the recipe.  Read the list of ingredients!",
+          "datePublished": "2025-05-29T19:03:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dana"
+          },
+          "reviewBody": "@Beth I think you could try orange or tangerine as well for slightly less\nacidity.",
+          "datePublished": "2025-05-29T20:48:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sobameow"
+          },
+          "reviewBody": "reminds me of a delicious dish I recently had at Fiorella in San Francisco - very similar but used farro and topped with hazelnuts. thanks for this recipe can't wait to try it!",
+          "datePublished": "2025-05-29T17:42:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anne"
+          },
+          "reviewBody": "Thanks for the salad idea..love it but I added a handful of blanched ramps that someone gave me.  Not so sure about the Allspice though....not my fave",
+          "datePublished": "2025-05-29T18:09:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jordan"
+          },
+          "reviewBody": "This was excellent - allspice was an unexpected (but great!) touch. Ended up using red wine vinegar in place of about half the lemon juice (ran out of lemons) and worked just fine.",
+          "datePublished": "2025-05-30T17:16:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JN"
+          },
+          "reviewBody": "The allspice in this recipe was a huge miss--a warming spice does not belong here and completely overpowered all of the fresh flavors, even though I used less than what was called for in the recipe.",
+          "datePublished": "2025-05-30T03:05:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JHINBOCO"
+          },
+          "reviewBody": "@Joanne Capone, Hello. It’s sometimes easy to overlook things in cooking instructions and ingredient lists. This recipe calls for ½ cup of chopped mint and ½ cup chopped parsley. Sounds yummy! I plan on giving it a go.",
+          "datePublished": "2025-05-29T18:02:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carrie"
+          },
+          "reviewBody": "Its not my recipe but I would advise fresh mint in a salad like this.",
+          "datePublished": "2025-05-29T17:39:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Courtney"
+          },
+          "reviewBody": "I had the same thought. Opted to only use fresh mint and it was delicious.",
+          "datePublished": "2025-05-30T00:09:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NY"
+          },
+          "reviewBody": "Very refreshing and easy with herbs accessible in the garden. Forgot the allspice and have never seen dried mint, but added fresh shiso and a little fresh dill. I’m soon to be overloaded with snap peas so this is a good option when I tire of stir fry.",
+          "datePublished": "2025-05-30T07:19:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sherri"
+          },
+          "reviewBody": "Made as written other than adding defrosted frozen peas. Refreshing, crunchy, wonderful and colorful side dish to roasted salmon",
+          "datePublished": "2025-05-30T11:43:13.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026710-herby-pearl-couscous-and-sugar-snap-pea-salad",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "The earthy and tangy flavors of tabbouleh serve as the loose inspiration for this lemony and herbaceous salad. Fresh parsley and mint are bright and grassy, offering a lovely textural contrast to the silky pearl couscous; dried mint adds depth. Juicy and sweet sugar snap peas supply a fresh crunch, with just a rough chop needed to release the inner peas. Allspice brings a moment of intrigue, both warm and complex, but you could substitute with cinnamon, nutmeg, cloves or a little of each. This salad can be prepared up to several hours in advance (kept at room temperature); the flavors will meld and improve over time.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Herby Pearl Couscous and Sugar Snap Pea Salad",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/eeac9305-f56f-561b-ab7e-f0766f7260da#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-20T18:32:33.743Z",
+          "datePublished": "2025-05-20T16:21:25.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-20T16:21:25.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/eeac9305-f56f-561b-ab7e-f0766f7260da#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-googleFourByThree.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-20T18:32:33.743Z",
+          "datePublished": "2025-05-20T16:21:25.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-20T16:21:25.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/eeac9305-f56f-561b-ab7e-f0766f7260da#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-mediumSquareAt3X.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-20T18:32:33.743Z",
+          "datePublished": "2025-05-20T16:21:25.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-20T16:21:25.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/eeac9305-f56f-561b-ab7e-f0766f7260da#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-facebookJumbo.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-20T18:32:33.743Z",
+          "datePublished": "2025-05-20T16:21:25.000Z",
+          "height": "549",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-20T16:21:25.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/21/multimedia/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz/hm-herby-pearl-couscous-and-snap-pea-salad-vkhz-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026710-herby-pearl-couscous-and-sugar-snap-pea-salad"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-10-07T03:03:47.322Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
