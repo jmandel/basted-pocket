@@ -1,0 +1,550 @@
+{
+  "id": "da1c176cddcf2f5c",
+  "original_url": "https://cooking.nytimes.com/recipes/1026894-roasted-fish-and-leeks-vinaigrette",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026894-roasted-fish-and-leeks-vinaigrette",
+  "fetched_title": "Roasted Fish and Leeks Vinaigrette   Recipe",
+  "main_text_content": "This zippy sheet pan dinner takes inspiration from leeks vinaigrette, a French bistro dish in which leeks are boiled until tender and dressed with a mustard vinaigrette Here, the leeks are roasted, along with some capers, for plenty of satisfying crunch and caramelized flavor When the leeks are tender, the fish fillets are added right to the pan and roasted until tender and flaky",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025022-miso-leeks-with-white-beans\"><figure class=\"tersecard_imageBlock__77puv\"><img src=\"https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" alt=\"A shallow gray bowl holds miso leeks with a jammy egg and slice of toast.\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/03/06/multimedia/hm-miso-leeks-hkjw/hm-miso-leeks-hkjw-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" sizes=\"100%\" loading=\"lazy\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Miso Leeks With White Beans</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Hetty Lui McKinnon</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/da1c176cddcf2f5c/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/19f29afa-db13-5468-aca2-a8d1d28df905",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1026894-roasted-fish-and-leeks-vinaigrette",
+        "@type": "WebPage",
+        "name": "Roasted Fish and Leeks Vinaigrette  "
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026894-roasted-fish-and-leeks-vinaigrette",
+      "name": "Roasted Fish and Leeks Vinaigrette  ",
+      "description": "This zippy sheet pan dinner takes inspiration from leeks vinaigrette, a French bistro dish in which leeks are boiled until tender and dressed with a mustard vinaigrette. Here, the leeks are roasted, along with some capers, for plenty of satisfying crunch and caramelized flavor. When the leeks are tender, the fish fillets are added right to the pan and roasted until tender and flaky. (A flaky white fish, like cod or halibut, or even salmon would work well here.) Finally, what brings this dish together is the quick, punchy vinaigrette made with whole-grain mustard, parsley, shallots and red wine vinegar. Spooned over everything before serving, it balances the richness of the roasted leeks and fish with just the right amount of acidity and freshness.",
+      "author": {
+        "@type": "Person",
+        "name": "Lidey Heuck"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/88548f6c-0b08-5bc0-890d-522c1ea4092d#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-31T15:00:02.981Z",
+          "datePublished": "2025-05-21T21:23:03.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-21T21:23:03.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/88548f6c-0b08-5bc0-890d-522c1ea4092d#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-googleFourByThree.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-31T15:00:02.981Z",
+          "datePublished": "2025-05-21T21:23:03.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-21T21:23:03.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/88548f6c-0b08-5bc0-890d-522c1ea4092d#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-mediumSquareAt3X.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-31T15:00:02.981Z",
+          "datePublished": "2025-05-21T21:23:03.000Z",
+          "height": "1801",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-21T21:23:03.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/88548f6c-0b08-5bc0-890d-522c1ea4092d#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-facebookJumbo.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-31T15:00:02.981Z",
+          "datePublished": "2025-05-21T21:23:03.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-21T21:23:03.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT35M",
+      "totalTime": "PT45M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, quick, weeknight, seafood, main course",
+      "keywords": "caper, cod, halibut, leek, mustard, red wine vinegar, sheet-pan, white fish, dairy-free, gluten-free",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 280
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 368,
+        "unsaturatedFatContent": "18 grams",
+        "carbohydrateContent": "8 grams",
+        "cholesterolContent": null,
+        "fatContent": "23 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "33 grams",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "707 milligrams",
+        "sugarContent": "2 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 medium leeks, white and light green parts only, thinly sliced (4 to 5 cups)",
+        "2 tablespoons capers, drained",
+        "6 tablespoons extra-virgin olive oil, divided, plus more for drizzling",
+        "Kosher salt and freshly ground black pepper",
+        "4 (6-ounce) skinless, flaky white fish fillets, such as cod or halibut ",
+        "1 tablespoon minced shallot ",
+        "1 tablespoon red wine vinegar",
+        "1 tablespoon minced fresh parsley",
+        "1 teaspoon whole-grain mustard"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 400 degrees."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place the sliced leeks in a large bowl of cold water and swish them around to release any dirt. Lift the leeks from the water, transfer to a colander to drain, then pat dry with a clean kitchen or paper towel. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place the leeks on a sheet pan, along with the capers, 3 tablespoons olive oil and 1/4 teaspoon salt. Toss well and roast for 15 minutes, tossing halfway through, until the leeks are tender and beginning to crisp at the edges."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, pat the fish fillets dry, drizzle with olive oil and season with ½ teaspoon salt and ¼ teaspoon black pepper. Move some of the leeks to make room for the fish, then place the fillets on the pan, setting them evenly apart.  Roast for 10 to 12 minutes (or longer for very thick fillets), until the fish is cooked through and flakes easily with a fork. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the fish roasts, make the vinaigrette: In a small bowl, whisk together the remaining 3 tablespoons olive oil with the shallot, vinegar, parsley, mustard, ¼ teaspoon salt and a few grinds of black pepper. "
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Transfer the fish and leeks to a serving plate, then spoon the vinaigrette over the top of both and serve hot or warm."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-05-22T00:00:00.000Z",
+      "dateModified": "2025-05-22T22:53:18.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ana"
+          },
+          "reviewBody": "A little less capers and a little less shallots. Double the vinaigrette- it made it",
+          "datePublished": "2025-09-25T05:04:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Olivia"
+          },
+          "reviewBody": "I added a drizzle of honey on top of the dish as soon as it got out of the oven and I think that helped balance the flavor, then served over white rice. It came out great!",
+          "datePublished": "2025-09-23T23:58:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "T"
+          },
+          "reviewBody": "These days most leeks in grocery stores have almost no white section. It’s like farmers have given up on the traditional way of growing them. It makes it almost pointless to buy them, and they aren’t cheap.",
+          "datePublished": "2025-09-21T13:44:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Beth"
+          },
+          "reviewBody": "Made this per recipe except: 1) cut down to 1/3 (it was just me eating); 2) didn't have whole-grain mustard so used regular dijon; 3) chopped up a couple of baby gold potatoes that needed using and added with the shallots. Unfortunately, I wasn't very impressed. My piece of cod cooked up beautifully, but the leeks didn't approach crispness and the sauce was overly tart (even added a little sugar, but it didn't help). I love capers, but couldn't taste them at all! Oh well, glad others enjoyed it!",
+          "datePublished": "2025-09-15T00:38:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sandra B"
+          },
+          "reviewBody": "Excellent as is. I didn't change a thing. Next time, I'll prep the leeks earlier so they have time to dry before roasting to help them crisp. Everyone enjoyed this one.",
+          "datePublished": "2025-08-28T11:24:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "V."
+          },
+          "reviewBody": "Delicious! I made this with haddock, and took a suggestion of doubling the vinaigrette. Easy but elegant enough for a weeknight dinner party. If you buy your leeks pre-chopped, or prepare them ahead of time, the rest of the dish comes together quickly.\n\nI paired it with a lemony potato salad, but next time, I'd go with a rice, parsley and butter egg noodle, or mashed potatoes, to soak up some of the delicious leeks and sauce,",
+          "datePublished": "2025-07-08T12:52:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kawebop"
+          },
+          "reviewBody": "Delicious!  Although I added more vinegar and mustard to the dressing.  What are others using to accompany this dish?",
+          "datePublished": "2025-07-02T00:01:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ben"
+          },
+          "reviewBody": "Subtle flavors. The vinaigrette was tasty. Definitely needs a side dish. I pan roasted everything, still came out great.",
+          "datePublished": "2025-06-23T01:24:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NicholasF"
+          },
+          "reviewBody": "I thought this was delicious.  The shape of the leek-ribbons was echoed by the bits of parsley and shallot in the thick vinaigrette dressing/topping to the fish.",
+          "datePublished": "2025-06-13T23:50:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AHD"
+          },
+          "reviewBody": "Made this with trout - delicious!",
+          "datePublished": "2025-06-12T13:22:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mike"
+          },
+          "reviewBody": "Added a cut up green pepper and asparagus spears from garden to the leeks. Cut in half new potatoes, did a short boil and then dressed in olive and s&p and baked with the salmon. A blue cheese coleslaw as side. Yum",
+          "datePublished": "2025-06-09T00:36:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joyce"
+          },
+          "reviewBody": "This was delicious. I gave the dressing a bit more zip by adding harissa and preserved lemon, and served everything with roasted potatoes and a simple green salad.",
+          "datePublished": "2025-06-02T22:52:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "EatBakeLove"
+          },
+          "reviewBody": "We served this with french bread and stewed kale. It was enjoyed by everyone including our six-year old and two-year old daughters. It is bistro food, with strong salty, sour, and herbal flavors.",
+          "datePublished": "2025-06-02T01:15:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ron Borden"
+          },
+          "reviewBody": "Used an extra leek and orange roughy, and substituted diced green olives for capers because my wife doesn’t care for capers. Delicious, and will definitely make again!",
+          "datePublished": "2025-06-02T00:22:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cg"
+          },
+          "reviewBody": "Very disappointing\n\nfollowed directions exactly tonight with beautiful cod but (1) way too salty...my advice to anyone planning on making this is to reduce all salt by at least half and then adjust accordingly before serving (2) the dressing is just a standard oil/vinegar/mustard vinaigrette so don't understand why anyone would find that exceptional in any way (3) totally agree with Susan's comment re: tastelessness and not worth the effort (husband agreed and couldn't finish it)",
+          "datePublished": "2025-05-30T03:05:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meg"
+          },
+          "reviewBody": "This was SO good! So easy, elegant, so balanced, so full of so many delicious things, like capers, and mustard, and crispy leeks. I halved the recipe, except for the sauce, and if I were making the full recipe, I think I’d double the sauce. I do have a curiosity about the leeks: I feel like the two leeks you get in the bag at Trader Joe’s are medium-sized, and yet they only produced a scant 3 cups when thinly sliced. That was fine by me, as I only had a pound of cod, but it would be disappointing if I had double the fish. Oh well. I served with braised greens and new potatoes and a crisp Sauvignon Blanc and everything was delightful!",
+          "datePublished": "2025-05-28T00:36:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ann B."
+          },
+          "reviewBody": "I don’t know if it’s my oven, but my leeks never got crispy. I used halibut and it was ok, but I wouldn’t spend the time and effort to make it again. The dressing for the fish is delicious though.",
+          "datePublished": "2025-05-25T03:54:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lindsey"
+          },
+          "reviewBody": "This came out delicious! I used 3 leeks, and used about 1/4c of capers because I love them. It gave the fish a nice flavor.",
+          "datePublished": "2025-05-27T23:25:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ingrid K"
+          },
+          "reviewBody": "WOW! This is a keeper! I wanted halibut but opted for cod. Zero regrets. I did extend the cook time for the leeks which led to some crispy, some not. My brother said that he would cut the leeks thicker as his leeks were more crispy than not. Once again, I will disagree with my brother. ;)",
+          "datePublished": "2025-05-28T00:22:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cg"
+          },
+          "reviewBody": "Very disappointing\n\nfollowed directions exactly tonight with beautiful cod but (1) way too salty...my advice to anyone planning on making this is to reduce all salt by at least half and then adjust accordingly before serving (2) the dressing is just a standard oil/vinegar/mustard vinaigrette so don't understand why anyone would find that exceptional in any way (3) totally agree with Susan's comment re: tastelessness and not worth the effort (husband agreed and couldn't finish it)",
+          "datePublished": "2025-05-30T03:05:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ron Borden"
+          },
+          "reviewBody": "Used an extra leek and orange roughy, and substituted diced green olives for capers because my wife doesn’t care for capers. Delicious, and will definitely make again!",
+          "datePublished": "2025-06-02T00:22:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "Totally not worth the effort. I followed the recipe exactly, using halibut filets. The fish was tasteless, and the leeks vinaigrette didn't redeem the flavor.",
+          "datePublished": "2025-05-25T17:07:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "V."
+          },
+          "reviewBody": "Delicious! I made this with haddock, and took a suggestion of doubling the vinaigrette. Easy but elegant enough for a weeknight dinner party. If you buy your leeks pre-chopped, or prepare them ahead of time, the rest of the dish comes together quickly.\n\nI paired it with a lemony potato salad, but next time, I'd go with a rice, parsley and butter egg noodle, or mashed potatoes, to soak up some of the delicious leeks and sauce,",
+          "datePublished": "2025-07-08T12:52:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joyce"
+          },
+          "reviewBody": "This was delicious. I gave the dressing a bit more zip by adding harissa and preserved lemon, and served everything with roasted potatoes and a simple green salad.",
+          "datePublished": "2025-06-02T22:52:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mike"
+          },
+          "reviewBody": "Added a cut up green pepper and asparagus spears from garden to the leeks. Cut in half new potatoes, did a short boil and then dressed in olive and s&p and baked with the salmon. A blue cheese coleslaw as side. Yum",
+          "datePublished": "2025-06-09T00:36:57.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1026894-roasted-fish-and-leeks-vinaigrette",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Lidey Heuck"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "This zippy sheet pan dinner takes inspiration from leeks vinaigrette, a French bistro dish in which leeks are boiled until tender and dressed with a mustard vinaigrette. Here, the leeks are roasted, along with some capers, for plenty of satisfying crunch and caramelized flavor. When the leeks are tender, the fish fillets are added right to the pan and roasted until tender and flaky. (A flaky white fish, like cod or halibut, or even salmon would work well here.) Finally, what brings this dish together is the quick, punchy vinaigrette made with whole-grain mustard, parsley, shallots and red wine vinegar. Spooned over everything before serving, it balances the richness of the roasted leeks and fish with just the right amount of acidity and freshness.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Roasted Fish and Leeks Vinaigrette  ",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/88548f6c-0b08-5bc0-890d-522c1ea4092d#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-31T15:00:02.981Z",
+          "datePublished": "2025-05-21T21:23:03.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-21T21:23:03.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/88548f6c-0b08-5bc0-890d-522c1ea4092d#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-googleFourByThree.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-31T15:00:02.981Z",
+          "datePublished": "2025-05-21T21:23:03.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-21T21:23:03.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/88548f6c-0b08-5bc0-890d-522c1ea4092d#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-mediumSquareAt3X.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-31T15:00:02.981Z",
+          "datePublished": "2025-05-21T21:23:03.000Z",
+          "height": "1801",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-21T21:23:03.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/88548f6c-0b08-5bc0-890d-522c1ea4092d#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-facebookJumbo.jpg",
+          "creditText": "Joel Goldberg for The New York Times. Food Stylist: Hadas Smirnoff.",
+          "dateModified": "2025-05-31T15:00:02.981Z",
+          "datePublished": "2025-05-21T21:23:03.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2025-05-21T21:23:03.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/22/multimedia/lh-roasted-fish-and-leeks-vinaigrette-wtzb/lh-roasted-fish-and-leeks-vinaigrette-wtzb-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1026894-roasted-fish-and-leeks-vinaigrette"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-10-18T17:11:23.664Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
