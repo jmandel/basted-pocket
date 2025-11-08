@@ -2068,8 +2068,8 @@ body {
 
 .card-thumbnail {
   flex-shrink: 0;
-  width: 100px;
-  height: 75px;
+  width: 200px;
+  height: 150px;
   overflow: hidden;
   border-radius: var(--radius);
   box-shadow: var(--shadow-sm);
@@ -2276,8 +2276,8 @@ body {
   }
   
   .card-thumbnail {
-    width: 80px;
-    height: 60px;
+    width: 160px;
+    height: 120px;
   }
 }
 
@@ -2293,7 +2293,7 @@ body {
   
   .card-thumbnail {
     width: 100%;
-    height: 120px;
+    height: 240px;
     align-self: stretch;
   }
   
