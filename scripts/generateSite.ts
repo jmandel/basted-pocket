@@ -2021,9 +2021,15 @@ body {
 /* Articles Grid */
 .articles-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
   margin-bottom: 2rem;
+}
+
+@media (min-width: 1024px) {
+  .articles-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 .article-card {
@@ -2060,19 +2066,14 @@ body {
 
 .card-layout {
   display: flex;
-  align-items: flex-start;
-  gap: 0.75rem;
-  padding: 1rem;
+  flex-direction: column;
   height: 100%;
 }
 
 .card-thumbnail {
-  flex-shrink: 0;
-  width: 200px;
-  height: 150px;
+  width: 100%;
+  aspect-ratio: 4 / 3;
   overflow: hidden;
-  border-radius: var(--radius);
-  box-shadow: var(--shadow-sm);
   position: relative;
 }
 
@@ -2081,8 +2082,6 @@ body {
   height: 100%;
   object-fit: cover;
   transition: transform 0.3s ease;
-  border-radius: var(--radius);
-  border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .article-card:hover .card-thumbnail img {
@@ -2091,22 +2090,20 @@ body {
 
 .card-content {
   flex: 1;
-  padding: 0;
-  min-width: 0;
+  padding: 1rem;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  height: 100%;
+  gap: 0.75rem;
 }
 
 .card-header {
-  margin-bottom: 0.5rem;
+  flex-shrink: 0;
 }
 
 .card-content h3 {
-  margin-bottom: 0.25rem;
-  font-size: 1rem;
-  line-height: 1.3;
+  margin: 0 0 0.5rem 0;
+  font-size: 1.125rem;
+  line-height: 1.4;
   font-weight: 600;
 }
 
@@ -2122,14 +2119,14 @@ body {
 
 .summary {
   color: var(--text-secondary);
-  margin-bottom: 0.5rem;
-  font-size: 0.8rem;
-  line-height: 1.4;
+  margin: 0 0 0.5rem 0;
+  font-size: 0.875rem;
+  line-height: 1.5;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
-  flex-grow: 1;
+  flex: 1;
 }
 
 .card-meta {
@@ -2150,13 +2147,13 @@ body {
 .card-tags {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.25rem;
+  gap: 0.375rem;
   margin-top: auto;
 }
 
 .card-tags .tag {
-  font-size: 0.65rem;
-  padding: 0.2rem 0.4rem;
+  font-size: 0.75rem;
+  padding: 0.25rem 0.5rem;
   line-height: 1.2;
   background: var(--secondary-color);
   color: white;
@@ -2261,7 +2258,7 @@ body {
   }
   
   .articles-grid {
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 1rem;
   }
   
@@ -2270,14 +2267,8 @@ body {
     gap: 0.75rem;
   }
   
-  .card-layout {
+  .card-content {
     padding: 0.875rem;
-    gap: 0.625rem;
-  }
-  
-  .card-thumbnail {
-    width: 160px;
-    height: 120px;
   }
 }
 
@@ -2286,15 +2277,12 @@ body {
     padding: 0 0.75rem;
   }
   
-  .card-layout {
-    flex-direction: column;
-    gap: 0.75rem;
+  .articles-grid {
+    grid-template-columns: 1fr;
   }
   
-  .card-thumbnail {
-    width: 100%;
-    height: 240px;
-    align-self: stretch;
+  .card-content {
+    padding: 0.75rem;
   }
   
   .filter-select {
