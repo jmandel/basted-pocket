@@ -1,0 +1,310 @@
+{
+  "id": "0d2cd7a521c65592",
+  "original_url": "https://share.google/5XY1IGbrfAYErZNIe",
+  "canonical_url": "https://cooking.nytimes.com/recipes/761873282-shira-ae-smashed-tofu-salad-with-green-beans",
+  "fetched_title": "Shira-ae (Smashed Tofu Salad With Green Beans) Recipe",
+  "main_text_content": "Shira-ae is a Japanese side dish of creamy mashed tofu mixed with an umami-rich sesame sauce. The tofu shines in this dish: It’s heavily seasoned with sesame seeds, miso, soy sauce and mirin, then crushed into a creamy, chunky coating that clings to the blanched green beans.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/759520233-crispy-tofu-shawarma\"><figure class=\"tersecard_imageBlock__77puv\"><img src=\"https://static01.nyt.com/images/2025/10/10/multimedia/nv-crispy-tofu-shawarma-bgvt/nv-crispy-tofu-shawarma-bgvt-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2025/10/10/multimedia/nv-crispy-tofu-shawarma-bgvt/nv-crispy-tofu-shawarma-bgvt-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/10/10/multimedia/nv-crispy-tofu-shawarma-bgvt/nv-crispy-tofu-shawarma-bgvt-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/10/10/multimedia/nv-crispy-tofu-shawarma-bgvt/nv-crispy-tofu-shawarma-bgvt-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/10/10/multimedia/nv-crispy-tofu-shawarma-bgvt/nv-crispy-tofu-shawarma-bgvt-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/10/10/multimedia/nv-crispy-tofu-shawarma-bgvt/nv-crispy-tofu-shawarma-bgvt-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/10/10/multimedia/nv-crispy-tofu-shawarma-bgvt/nv-crispy-tofu-shawarma-bgvt-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/10/10/multimedia/nv-crispy-tofu-shawarma-bgvt/nv-crispy-tofu-shawarma-bgvt-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" sizes=\"100%\" loading=\"lazy\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Crispy Tofu Shawarma</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Nisha Vora</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-facebookJumbo.jpg",
+  "local_image_path": "archive/0d2cd7a521c65592/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@id": "urn:nyt:ScoopRecipe:a7ea8d553ba25b7f8feaac6628982211",
+      "@type": "Recipe",
+      "author": {
+        "@id": "nyt://person/4b456a99-46c9-5268-a56f-1ecf40bbc234",
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon",
+        "sameAs": "https://www.nytimes.com/by/hetty-lui-mckinnon",
+        "url": "https://cooking.nytimes.com/author/hetty-lui-mckinnon"
+      },
+      "cookTime": "PT0H10M",
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "dateModified": "2025-11-06T19:45:27.393Z",
+      "datePublished": "2025-11-06T19:44:13.437115Z",
+      "description": "Shira-ae is a Japanese side dish of creamy mashed tofu mixed with an umami-rich sesame sauce. The tofu shines in this dish: It’s heavily seasoned with sesame seeds, miso, soy sauce and mirin, then crushed into a creamy, chunky coating that clings to the blanched green beans. Traditionally, toasted sesame seeds are pounded using a Japanese-style mortar and pestle, but you can use any mortar and pestle — or even opt for sesame paste or tahini as a shortcut. The type of tofu matters: Soft (not silken) or medium-firm tofu will give you the creamiest results, but if you can only get firm or extra-firm, you can boil the tofu in water for three minutes, which softens it and delivers a bouncier texture. Make sure to drain the tofu well and pat it dry so it doesn’t make a wet mash. This dish can be prepared 24 hours ahead, stored in the fridge, and is best served cold.",
+      "image": [
+        {
+          "@id": "nyt://image/9162150e-0159-55aa-a57c-49bee248fd3a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2025-11-06T19:41:15.292Z",
+          "datePublished": "2025-11-06T19:41:15.292Z",
+          "height": "900",
+          "uploadDate": "2025-11-06T19:41:15.292Z",
+          "url": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/9162150e-0159-55aa-a57c-49bee248fd3a#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-googleFourByThree.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2025-11-06T19:41:15.292Z",
+          "datePublished": "2025-11-06T19:41:15.292Z",
+          "height": "600",
+          "uploadDate": "2025-11-06T19:41:15.292Z",
+          "url": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/9162150e-0159-55aa-a57c-49bee248fd3a#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-mediumSquareAt3X.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2025-11-06T19:41:15.292Z",
+          "datePublished": "2025-11-06T19:41:15.292Z",
+          "height": "1800",
+          "uploadDate": "2025-11-06T19:41:15.292Z",
+          "url": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/9162150e-0159-55aa-a57c-49bee248fd3a#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-facebookJumbo.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2025-11-06T19:41:15.292Z",
+          "datePublished": "2025-11-06T19:41:15.292Z",
+          "height": "549",
+          "uploadDate": "2025-11-06T19:41:15.292Z",
+          "url": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "keywords": "Green Bean, Sesame Seed, Miso, Soft Tofu, Easy, Quick",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/761873282-shira-ae-smashed-tofu-salad-with-green-beans",
+        "@type": "WebPage",
+        "name": "Shira-ae (Smashed Tofu Salad With Green Beans)"
+      },
+      "name": "Shira-ae (Smashed Tofu Salad With Green Beans)",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "214.9 kcals",
+        "carbohydrateContent": "16.5 grams",
+        "fatContent": "11 grams",
+        "fiberContent": "5.9 grams",
+        "proteinContent": "15.5 grams",
+        "saturatedFatContent": "1.8 grams",
+        "sodiumContent": "777.2 milligrams",
+        "sugarContent": "4.9 grams",
+        "unsaturatedFatContent": "4.7 grams"
+      },
+      "prepTime": "PT0H10M",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "recipeCategory": "Vegetables, Salad, Side Dish, Appetizer",
+      "recipeIngredient": [
+        "Salt ",
+        "1 pound green beans, trimmed and cut into 1-inch pieces ",
+        "¼ cup toasted white sesame seeds (or sesame paste or tahini) ",
+        "2 tablespoons white (shiro) miso  ",
+        "2 tablespoons soy sauce (or shoyu) ",
+        "2 tablespoons mirin  ",
+        "1 (14- to 16-ounce) block soft or medium-firm tofu, drained and patted dry  ",
+        "Toasted white sesame seeds, for topping "
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Bring a pot of salted water to the boil. Add the green beans and blanch until just tender and bright green, 3 to 4 minutes. Drain, refresh under cold water and drain again. When cool, pat the beans dry.",
+          "url": "https://cooking.nytimes.com/recipes/761873282-shira-ae-smashed-tofu-salad-with-green-beans#recipe-step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If using sesame seeds, place them in a mortar or spice grinder and grind until powdery. (If you are using sesame paste, you can skip this step.)",
+          "url": "https://cooking.nytimes.com/recipes/761873282-shira-ae-smashed-tofu-salad-with-green-beans#recipe-step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Place the ground sesame seeds into a large bowl and add the miso, soy sauce and mirin, and stir, mashing the miso to combine with the rest of the ingredients. Break up the tofu and add to the sesame mixture, and mash until the tofu is creamy.",
+          "url": "https://cooking.nytimes.com/recipes/761873282-shira-ae-smashed-tofu-salad-with-green-beans#recipe-step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the beans to the tofu and toss to coat. Top with sesame seeds.",
+          "url": "https://cooking.nytimes.com/recipes/761873282-shira-ae-smashed-tofu-salad-with-green-beans#recipe-step-4"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Eat immediately or chill for 30 minutes, stirring before serving.",
+          "url": "https://cooking.nytimes.com/recipes/761873282-shira-ae-smashed-tofu-salad-with-green-beans#recipe-step-5"
+        }
+      ],
+      "recipeYield": "4 servings",
+      "suitableForDiet": "VeganDiet",
+      "totalTime": "PT0H20M",
+      "url": "https://cooking.nytimes.com/recipes/761873282-shira-ae-smashed-tofu-salad-with-green-beans"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/761873282-shira-ae-smashed-tofu-salad-with-green-beans",
+      "@type": "WebPage",
+      "author": {
+        "@id": "nyt://person/4b456a99-46c9-5268-a56f-1ecf40bbc234",
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon",
+        "sameAs": "https://www.nytimes.com/by/hetty-lui-mckinnon",
+        "url": "https://cooking.nytimes.com/author/hetty-lui-mckinnon"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "dateModified": "2025-11-06T19:45:27.393Z",
+      "datePublished": "2025-11-06T19:44:13.437115Z",
+      "description": "Shira-ae is a Japanese side dish of creamy mashed tofu mixed with an umami-rich sesame sauce. The tofu shines in this dish: It’s heavily seasoned with sesame seeds, miso, soy sauce and mirin, then crushed into a creamy, chunky coating that clings to the blanched green beans. Traditionally, toasted sesame seeds are pounded using a Japanese-style mortar and pestle, but you can use any mortar and pestle — or even opt for sesame paste or tahini as a shortcut. The type of tofu matters: Soft (not silken) or medium-firm tofu will give you the creamiest results, but if you can only get firm or extra-firm, you can boil the tofu in water for three minutes, which softens it and delivers a bouncier texture. Make sure to drain the tofu well and pat it dry so it doesn’t make a wet mash. This dish can be prepared 24 hours ahead, stored in the fridge, and is best served cold.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "image": [
+        {
+          "@id": "nyt://image/9162150e-0159-55aa-a57c-49bee248fd3a#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2025-11-06T19:41:15.292Z",
+          "datePublished": "2025-11-06T19:41:15.292Z",
+          "height": "900",
+          "uploadDate": "2025-11-06T19:41:15.292Z",
+          "url": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/9162150e-0159-55aa-a57c-49bee248fd3a#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-googleFourByThree.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2025-11-06T19:41:15.292Z",
+          "datePublished": "2025-11-06T19:41:15.292Z",
+          "height": "600",
+          "uploadDate": "2025-11-06T19:41:15.292Z",
+          "url": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/9162150e-0159-55aa-a57c-49bee248fd3a#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-mediumSquareAt3X.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2025-11-06T19:41:15.292Z",
+          "datePublished": "2025-11-06T19:41:15.292Z",
+          "height": "1800",
+          "uploadDate": "2025-11-06T19:41:15.292Z",
+          "url": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/9162150e-0159-55aa-a57c-49bee248fd3a#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-facebookJumbo.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2025-11-06T19:41:15.292Z",
+          "datePublished": "2025-11-06T19:41:15.292Z",
+          "height": "549",
+          "uploadDate": "2025-11-06T19:41:15.292Z",
+          "url": "https://static01.nyt.com/images/2025/11/06/multimedia/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj/06FD-HM-Shira-ae-Smashed-Tofu-Salad-With-Green-Beans-tvcj-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Shira-ae (Smashed Tofu Salad With Green Beans)",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/761873282-shira-ae-smashed-tofu-salad-with-green-beans"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-11-10T05:31:13.803Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
