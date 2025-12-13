@@ -1,0 +1,563 @@
+{
+  "id": "5b63ead5db32005b",
+  "original_url": "https://cooking.nytimes.com/recipes/1019502-baked-cod-with-crunchy-miso-butter-bread-crumbs",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1019502-baked-cod-with-crunchy-miso-butter-bread-crumbs",
+  "fetched_title": "Baked Cod With Crunchy Miso-Butter Bread Crumbs Recipe",
+  "main_text_content": "Shiro miso, also known as white miso, is a fermented mash of soybeans and rice with an incredibly rich, sweet flavor that packs a punch It pairs particularly well with ginger and garlic, and is combined here with those aromatics, butter and panko bread crumbs for a crisp coating As it bakes, the miso crust caramelizes and forms an addictive flavor that elevates the mild cod.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/6450-black-cod-broiled-with-miso\"><figure class=\"tersecard_imageBlock__77puv\"><img src=\"https://static01.nyt.com/images/2017/04/25/dining/25COOKING-FISHWITHSAUCE2/25COOKING-FISHWITHSAUCE2-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2017/04/25/dining/25COOKING-FISHWITHSAUCE2/25COOKING-FISHWITHSAUCE2-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2017/04/25/dining/25COOKING-FISHWITHSAUCE2/25COOKING-FISHWITHSAUCE2-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2017/04/25/dining/25COOKING-FISHWITHSAUCE2/25COOKING-FISHWITHSAUCE2-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2017/04/25/dining/25COOKING-FISHWITHSAUCE2/25COOKING-FISHWITHSAUCE2-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2017/04/25/dining/25COOKING-FISHWITHSAUCE2/25COOKING-FISHWITHSAUCE2-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2017/04/25/dining/25COOKING-FISHWITHSAUCE2/25COOKING-FISHWITHSAUCE2-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2017/04/25/dining/25COOKING-FISHWITHSAUCE2/25COOKING-FISHWITHSAUCE2-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" sizes=\"100%\" loading=\"lazy\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Black Cod Broiled With Miso</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Mark Bittman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2018/08/21/dining/chun-crunchy-cod-horizontal/merlin_142425678_bfaa36cd-ddb4-41cd-891e-6a9ea459e2d9-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/5b63ead5db32005b/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/7b9e5b6e-62c3-5143-81df-59bc2a24f0dc",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1019502-baked-cod-with-crunchy-miso-butter-bread-crumbs",
+        "@type": "WebPage",
+        "name": "Baked Cod With Crunchy Miso-Butter Bread Crumbs"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019502-baked-cod-with-crunchy-miso-butter-bread-crumbs",
+      "name": "Baked Cod With Crunchy Miso-Butter Bread Crumbs",
+      "description": "Shiro miso, also known as white miso, is a fermented mash of soybeans and rice with an incredibly rich, sweet flavor that packs a punch. It pairs particularly well with ginger and garlic, and is combined here with those aromatics, butter and panko bread crumbs for a crisp coating. As it bakes, the miso crust caramelizes and forms an addictive flavor that elevates the mild cod.",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/7b4adf85-6ac6-50c2-ac67-e252acf38552#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Kay Chun’s baked cod with crunchy miso-butter breadcrumbs.",
+          "contentUrl": "https://static01.nyt.com/images/2018/08/21/dining/chun-crunchy-cod-horizontal/merlin_142425678_bfaa36cd-ddb4-41cd-891e-6a9ea459e2d9-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times",
+          "dateModified": "2022-10-31T17:48:09.171Z",
+          "datePublished": "2018-08-21T19:21:30.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2018-08-21T19:21:30.000Z",
+          "url": "https://static01.nyt.com/images/2018/08/21/dining/chun-crunchy-cod-horizontal/merlin_142425678_bfaa36cd-ddb4-41cd-891e-6a9ea459e2d9-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/7b4adf85-6ac6-50c2-ac67-e252acf38552#threeByTwoLargeAt2X",
+          "@type": "ImageObject",
+          "caption": "Kay Chun’s baked cod with crunchy miso-butter breadcrumbs.",
+          "contentUrl": "https://static01.nyt.com/images/2018/08/21/dining/chun-crunchy-cod-horizontal/merlin_142425678_bfaa36cd-ddb4-41cd-891e-6a9ea459e2d9-threeByTwoLargeAt2X.jpg",
+          "creditText": "Linda Xiao for The New York Times",
+          "dateModified": "2022-10-31T17:48:09.171Z",
+          "datePublished": "2018-08-21T19:21:30.000Z",
+          "height": "2000",
+          "representativeOfPage": true,
+          "uploadDate": "2018-08-21T19:21:30.000Z",
+          "url": "https://static01.nyt.com/images/2018/08/21/dining/chun-crunchy-cod-horizontal/merlin_142425678_bfaa36cd-ddb4-41cd-891e-6a9ea459e2d9-threeByTwoLargeAt2X.jpg",
+          "width": "3000"
+        },
+        {
+          "@id": "nyt://image/7b4adf85-6ac6-50c2-ac67-e252acf38552#facebookJumbo",
+          "@type": "ImageObject",
+          "caption": "Kay Chun’s baked cod with crunchy miso-butter breadcrumbs.",
+          "contentUrl": "https://static01.nyt.com/images/2018/08/21/dining/chun-crunchy-cod-horizontal/merlin_142425678_bfaa36cd-ddb4-41cd-891e-6a9ea459e2d9-facebookJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times",
+          "dateModified": "2022-10-31T17:48:09.171Z",
+          "datePublished": "2018-08-21T19:21:30.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2018-08-21T19:21:30.000Z",
+          "url": "https://static01.nyt.com/images/2018/08/21/dining/chun-crunchy-cod-horizontal/merlin_142425678_bfaa36cd-ddb4-41cd-891e-6a9ea459e2d9-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, lunch, weeknight, seafood, main course",
+      "keywords": "broccoli, kid-friendly, partial-access-ic, salmon",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 3367
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 658,
+        "unsaturatedFatContent": "17 grams",
+        "carbohydrateContent": "71 grams",
+        "cholesterolContent": null,
+        "fatContent": "24 grams",
+        "fiberContent": "6 grams",
+        "proteinContent": "41 grams",
+        "saturatedFatContent": "5 grams",
+        "sodiumContent": "928 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 1/2 cups short-grain brown rice",
+        "2 tablespoons unsalted butter, at room temperature",
+        "2 teaspoons peeled, grated ginger",
+        "1/4 teaspoon grated garlic",
+        "7 teaspoons white (sweet or shiro) miso",
+        "1/4 cup canola oil",
+        "1/2 cup panko bread crumbs",
+        "4 (6-ounce) skinless cod fillets",
+        "Kosher salt and black pepper",
+        "1 pound broccoli, tough stem removed, cut into thin 2-inch florets",
+        "1 tablespoon lemon juice"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 375 degrees. In a medium saucepan, combine rice and 2 1/4 cups water and bring to a boil. Cover and simmer gently over low heat until all of the liquid is absorbed, about 20 minutes. Turn off the heat and let stand (covered) for 10 minutes. Fluff with a fork."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a small bowl, using a spoon, mash together butter, ginger, garlic, 3 teaspoons of the miso and 1 tablespoon of the oil. Mix well, then fold in bread crumbs."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Arrange cod on a large rimmed baking sheet lined with parchment or foil. Rub with 1 tablespoon of the oil and lightly season with salt and pepper. Using the back of a spoon or a butter knife, spread 1 teaspoon of miso over each fillet. Divide the miso-butter-bread crumb mixture equally and sprinkle in an even layer on top of each fillet, pressing gently but do not pack. Roast until top is golden and fish is cooked through to an internal temperature of 145 degrees, about 12 to 14 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large nonstick skillet, heat the remaining 2 tablespoons oil. Add broccoli, season with salt and pepper and cook over moderately high heat, stirring, until crisp-tender and charred, about 5 minutes. Stir in lemon juice. Serve cod with charred broccoli and brown rice."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Monica Welch"
+          },
+          "reviewBody": "This was excellent! Very crunchy topping with lots of umami, which is needed with cod. Plus the brown basmati rice and broccoli were perfect to round the meal out. Steamed the broccoli for the same amount of time as the cod. Baked at 400* for about 10 minutes.",
+          "datePublished": "2025-12-13T03:21:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David"
+          },
+          "reviewBody": "it's a good quick dinner, but nothing special about it.",
+          "datePublished": "2025-12-13T04:16:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robin C."
+          },
+          "reviewBody": "Great meal! I ended up making the broccoli and brown rice my own way, but the fish was perfect. I recommend sprinkling a little bit more of the Panko breadcrumbs on top of the miso/butter mixture, for a little extra crunch. We even broiled the top of the fish for about 60 seconds after it was done cooking Even with different thicknesses of cod, it worked out perfectly at 16 minutes, using a meat thermometer to 145 to 149 temp. I also recommend increasing the ginger and garlic, it’s such a lovely flavor. It needed a little more oomph!",
+          "datePublished": "2025-12-12T04:39:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Matt M."
+          },
+          "reviewBody": "We really enjoyed this recipe.  The fish was very good and the breadcrumb crust really delivers flavor.  A few comments mention skipping the breadcrumbs, which would also be good, but you would need to marinate with the miso, ginger and garlic to really flavor the fish before cooking.  I probably added a bit more ginger and garlic than the recipe called for and thought that brought some additional flavor to the mix.",
+          "datePublished": "2025-12-11T23:28:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LC"
+          },
+          "reviewBody": "This was awful. Waaaaay too salty. How does this have 5 out of 5 stars with 3300 votes??",
+          "datePublished": "2025-12-12T00:38:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nina"
+          },
+          "reviewBody": "I went through every comment and saw rave reviews, with a handful of comments saying it was bland. I should have paid attention to those. NYT recipes almost always live up to the reviews. Not this one. First of all, plain rice with no seasoning at all? I used coconut rice and salted it. Broccoli roasted with salt and pepper? I added some of the miso bread crumbs. I also upped the garlic and ginger quantities. And put in the whole amount of suggested miso. It was STILL so bland! Not a fan.",
+          "datePublished": "2025-12-11T14:56:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "looking always for the “best bite”"
+          },
+          "reviewBody": "My miso bread crumbs were not all that crunchy, but the brown rice, broccoli, fish and then flavors of miso, garlic, ginger were amazing!",
+          "datePublished": "2025-12-10T00:34:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elyse"
+          },
+          "reviewBody": "Sorry to say we did not love this.  375 for fourteen minutes was not enough for a three quarter pound cod loin. Boosted oven to 450 for 5-ish more minutes.  It was tasty, but we prefer butter, crumbs and lemon.  Always love to try new recipes.   (Especially when I have all the ingredients. ) \nSometimes they are wonderful and sometimes they validate your tried and true recipe.",
+          "datePublished": "2025-12-10T00:23:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hayley"
+          },
+          "reviewBody": "Made it with salmon as that was my pick from the fish market and it was delicious. Paired it with Julia Moskin's Charred Carrots with Orange and Balsamic. Easy and delicious weeknight dinner",
+          "datePublished": "2025-12-09T23:48:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Patricia"
+          },
+          "reviewBody": "Absolutely loved this! Made it exactly as written. I’ve never been a big fan of brown rice but it blended so beautifully with the miso and delicate crunch of the panko topped cod.  Even the lightly pan sautéed broccoli with a squeeze of lemon juice made all the flavors pop. Thanks for another delicious miso recipe!",
+          "datePublished": "2025-12-09T05:59:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DB"
+          },
+          "reviewBody": "This was fabulous and a huge hit! I will absolutely make this again. Also, the internal temperature method of determining if the fish is done was spot on, much more accurate than the time estimate. I'm sure it has to do with the relatively thick layer of miso/panko/butter on the top. Plus with that, you really don't want to use the fork/flakiness method.\n\nDelicious!",
+          "datePublished": "2025-12-09T04:58:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "IK"
+          },
+          "reviewBody": "This was very tasty and quite easy. However note the short grain brown rice takes at least twice as long as this recipe states.",
+          "datePublished": "2025-12-09T01:07:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JB"
+          },
+          "reviewBody": "Thought this was delicious. Put it on a big salmon filet. Cut down on the amount of miso smeared on the fish beneath the crumb mixture. Too much miso gets cloying! Also used plenty of S&P - Trader Joe's miso is not very salty.",
+          "datePublished": "2025-12-08T00:24:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robert H"
+          },
+          "reviewBody": "Overall OK…. I would halve he Miso and double the ginger",
+          "datePublished": "2025-12-06T01:03:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "e"
+          },
+          "reviewBody": "This was good. I had omitted the miso that goes directly on the fish but I would use that next time. Fish had a nice crunch with the panko.",
+          "datePublished": "2025-12-05T15:42:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RR"
+          },
+          "reviewBody": "Keep fresh ginger in the freezer; surprisingly easy to both peel and grate (Microplane best) without the stringiness. Plus, you'll always have a supply :)",
+          "datePublished": "2018-10-12T17:10:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paula Kuester"
+          },
+          "reviewBody": "Used less miso on second attempt, 2 teaspoons miso in crumb mixture and didn't coat the fillets at all. Also added 1 teaspoon of brown sugar for a bit of sweetness. Much better.",
+          "datePublished": "2019-04-14T12:03:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cristin"
+          },
+          "reviewBody": "This is a pro tip from Karen-I mixed all of the miso with the garlic, ginger, butter, (and a few hot pepper flakes), then coated the fish with oil, s&p and the marinade.   Prior to baking, I coated the filets in the panko.   The fish was very flavorful and the panko crust crispy.  Served with green beans in oyster sauce and red pepper flakes.   Delicious!",
+          "datePublished": "2019-05-18T17:15:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SUE"
+          },
+          "reviewBody": "Just FYI the app:  MyFitnessPal.com lets you import the whole recipe and will break it down by fat, calories, etc. You can then delete or substitute all you want to see how you can make it healthier!",
+          "datePublished": "2019-05-08T15:59:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martha"
+          },
+          "reviewBody": "this is just as good without the breadcrumbs (better in my opinion).  Make a paste of the miso, butter, ginger and garlic and spread on top of the fish with your hands or the back of a spoon. Leave to marinade for an hour or so if you have time, or not.  Cook uncovered in the oven at 350 then blast under the grill to crunch up the miso paste.",
+          "datePublished": "2018-10-28T13:10:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joe H"
+          },
+          "reviewBody": "The fish was good, but too salty. The miso paste has a lot of sodium, so using it in the topping AND spreading the remaining paste on the fish itself is overkill. I will cut back on the miso considerably next time I try this. Served the fish over egg noodles (my husband hates rice), with a side iceberg wedge salad. Overall nice meal.",
+          "datePublished": "2019-03-30T18:19:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peggy"
+          },
+          "reviewBody": "Yes, there are different kinds of white miso just as there are different brands/makers of miso and all have different amounts of sodium. Check labels to find low sodium varieties or use smaller amounts in your recipes.",
+          "datePublished": "2019-05-03T13:39:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KatieM"
+          },
+          "reviewBody": "So yummy! I skipped adding the extra layer of miso and I didn’t find it too salty at all. So good. I also just roasted the broccoli on another sheet pan alongside the fish.",
+          "datePublished": "2019-05-07T00:38:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Su"
+          },
+          "reviewBody": "Joe, did you use shiro miso? Shiro (though admittedly not everything labeled as \"white miso\" in the US) is less salty and sweeter than red or barley miso, and while I wouldn't want 1.5 tbsp of the latter topping my fish, an equal amount of the former is rich and umami without being overkill.",
+          "datePublished": "2019-05-08T18:07:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martie"
+          },
+          "reviewBody": "My fishmonger has recently been carrying Hake, an inexpensive fish which I find to have a far superior texture and flavor to cod. This recipe, which is ridiculously easy and flavorful, elevates the hake to glorious levels. I did add a couple minutes to cooking time, however, as I had quite a thick piece of fish. Truly exceptional!",
+          "datePublished": "2018-10-06T16:06:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Canadian Gary"
+          },
+          "reviewBody": "I skipped the broccoli and wild rice and just made the fish. Simple, straightforward, tasty. The combination of flavours is simple, but it works. It's been added to our permanent fish recipe rotation. ",
+          "datePublished": "2018-09-03T15:04:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jean louis LONNE"
+          },
+          "reviewBody": "The 'tough stem' can be cut in small pieces, zapped short time in micro wave, then added with the florets.  Why waste?",
+          "datePublished": "2018-10-14T17:14:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gary"
+          },
+          "reviewBody": "Very good!  Other than cook time for brown rice (45 minutes, rather than 20), this recipe is quite easy and straightforward. \n\nHaving introduced miso paste into my kitchen 4 short weeks ago, and now an enthusiastic 'convert' to this delicious ingredient, I've been looking for more ways to use it.  This is now part of my flavor-building tool kit.",
+          "datePublished": "2018-09-03T04:28:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Judy"
+          },
+          "reviewBody": "I cannot eat miso.  Is there anything anyone would recommend as a good substitute?\n\nThanks",
+          "datePublished": "2019-05-08T20:34:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Yvette"
+          },
+          "reviewBody": "I second, \"Truly easy and addicting.\"  The rice and charred broccoli complement perfectly.",
+          "datePublished": "2018-09-02T17:53:21.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1019502-baked-cod-with-crunchy-miso-butter-bread-crumbs",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Kay Chun"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2018,
+      "description": "Shiro miso, also known as white miso, is a fermented mash of soybeans and rice with an incredibly rich, sweet flavor that packs a punch. It pairs particularly well with ginger and garlic, and is combined here with those aromatics, butter and panko bread crumbs for a crisp coating. As it bakes, the miso crust caramelizes and forms an addictive flavor that elevates the mild cod.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Baked Cod With Crunchy Miso-Butter Bread Crumbs",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/7b4adf85-6ac6-50c2-ac67-e252acf38552#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Kay Chun’s baked cod with crunchy miso-butter breadcrumbs.",
+          "contentUrl": "https://static01.nyt.com/images/2018/08/21/dining/chun-crunchy-cod-horizontal/merlin_142425678_bfaa36cd-ddb4-41cd-891e-6a9ea459e2d9-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times",
+          "dateModified": "2022-10-31T17:48:09.171Z",
+          "datePublished": "2018-08-21T19:21:30.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2018-08-21T19:21:30.000Z",
+          "url": "https://static01.nyt.com/images/2018/08/21/dining/chun-crunchy-cod-horizontal/merlin_142425678_bfaa36cd-ddb4-41cd-891e-6a9ea459e2d9-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/7b4adf85-6ac6-50c2-ac67-e252acf38552#threeByTwoLargeAt2X",
+          "@type": "ImageObject",
+          "caption": "Kay Chun’s baked cod with crunchy miso-butter breadcrumbs.",
+          "contentUrl": "https://static01.nyt.com/images/2018/08/21/dining/chun-crunchy-cod-horizontal/merlin_142425678_bfaa36cd-ddb4-41cd-891e-6a9ea459e2d9-threeByTwoLargeAt2X.jpg",
+          "creditText": "Linda Xiao for The New York Times",
+          "dateModified": "2022-10-31T17:48:09.171Z",
+          "datePublished": "2018-08-21T19:21:30.000Z",
+          "height": "2000",
+          "representativeOfPage": true,
+          "uploadDate": "2018-08-21T19:21:30.000Z",
+          "url": "https://static01.nyt.com/images/2018/08/21/dining/chun-crunchy-cod-horizontal/merlin_142425678_bfaa36cd-ddb4-41cd-891e-6a9ea459e2d9-threeByTwoLargeAt2X.jpg",
+          "width": "3000"
+        },
+        {
+          "@id": "nyt://image/7b4adf85-6ac6-50c2-ac67-e252acf38552#facebookJumbo",
+          "@type": "ImageObject",
+          "caption": "Kay Chun’s baked cod with crunchy miso-butter breadcrumbs.",
+          "contentUrl": "https://static01.nyt.com/images/2018/08/21/dining/chun-crunchy-cod-horizontal/merlin_142425678_bfaa36cd-ddb4-41cd-891e-6a9ea459e2d9-facebookJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times",
+          "dateModified": "2022-10-31T17:48:09.171Z",
+          "datePublished": "2018-08-21T19:21:30.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2018-08-21T19:21:30.000Z",
+          "url": "https://static01.nyt.com/images/2018/08/21/dining/chun-crunchy-cod-horizontal/merlin_142425678_bfaa36cd-ddb4-41cd-891e-6a9ea459e2d9-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1019502-baked-cod-with-crunchy-miso-butter-bread-crumbs"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-12-13T21:26:15.080Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
