@@ -1,0 +1,644 @@
+{
+  "id": "564c2ab96bf0f5cb",
+  "original_url": "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake",
+  "canonical_url": "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake",
+  "fetched_title": "Earl Grey Cardamom Crumb Cake Recipe",
+  "main_text_content": "Clusters of cardamom-spiced brown sugar streusel crown this moist and fragrant Earl Grey cake that’s just sweet enough for breakfast, brunch or a mid-afternoon treat. The tea pairs surprisingly well with the spice, as each accentuates the other&#x27;s citrusy brightness and delicate floral notes.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/765560374-chewy-chai-gingerbread\"><figure class=\"tersecard_imageBlock__77puv\"><img src=\"https://static01.nyt.com/images/2025/01/11/multimedia/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2025/01/11/multimedia/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/01/11/multimedia/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/01/11/multimedia/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/01/11/multimedia/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/01/11/multimedia/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/01/11/multimedia/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/01/11/multimedia/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc/11FD-COOKING101-COOKIESREX-GINGERBREAD-mphc-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" sizes=\"100%\" loading=\"lazy\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Chewy Chai Gingerbread</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Genevieve Ko</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-facebookJumbo.jpg",
+  "local_image_path": "archive/564c2ab96bf0f5cb/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@id": "urn:nyt:ScoopRecipe:7561fdb5b22852c38fbca5e6f69bc83d",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 38,
+        "ratingValue": 4
+      },
+      "author": {
+        "@id": "nyt://person/dcddf189-5b96-5a02-9d90-456908a41f3d",
+        "@type": "Person",
+        "name": "Sheela Prakash",
+        "url": "https://www.nytimes.com/by/sheela-prakash"
+      },
+      "cookTime": "PT1H10M",
+      "cookingMethod": "Bake",
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "dateModified": "2025-12-11T23:00:54.896Z",
+      "datePublished": "2025-12-05T22:53:38.02869Z",
+      "description": "Clusters of cardamom-spiced brown sugar streusel crown this moist and fragrant Earl Grey cake that’s just sweet enough for breakfast, brunch or a mid-afternoon treat. The tea pairs surprisingly well with the spice, as each accentuates the other's citrusy brightness and delicate floral notes. Cardamom’s sweet, peppery flavor lends extra warmth to every bite. Adding sour cream or yogurt to the batter plus opting for olive oil rather than butter not only ensures that the cake is ultratender, but allows it to stay that way for days so that it can be baked ahead of time without compromise.",
+      "image": [
+        {
+          "@id": "nyt://image/d9e9951a-27b3-55c8-a8ba-4f138ee1cdd1#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2025-12-02T16:45:54.978Z",
+          "datePublished": "2025-12-02T16:45:54.978Z",
+          "height": "900",
+          "uploadDate": "2025-12-02T16:45:54.978Z",
+          "url": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/d9e9951a-27b3-55c8-a8ba-4f138ee1cdd1#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2025-12-02T16:45:54.978Z",
+          "datePublished": "2025-12-02T16:45:54.978Z",
+          "height": "600",
+          "uploadDate": "2025-12-02T16:45:54.978Z",
+          "url": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/d9e9951a-27b3-55c8-a8ba-4f138ee1cdd1#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2025-12-02T16:45:54.978Z",
+          "datePublished": "2025-12-02T16:45:54.978Z",
+          "height": "1800",
+          "uploadDate": "2025-12-02T16:45:54.978Z",
+          "url": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/d9e9951a-27b3-55c8-a8ba-4f138ee1cdd1#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-facebookJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2025-12-02T16:45:54.978Z",
+          "datePublished": "2025-12-02T16:45:54.978Z",
+          "height": "550",
+          "uploadDate": "2025-12-02T16:45:54.978Z",
+          "url": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "keywords": "Cardamom, Earl Grey Tea, Sour Cream, Extra Virgin Olive Oil, Brown Sugar, Christmas, Mother’s Day, Make-Ahead, Freezer Friendly, Greek Yogurt",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake",
+        "@type": "WebPage",
+        "name": "Earl Grey Cardamom Crumb Cake"
+      },
+      "name": "Earl Grey Cardamom Crumb Cake",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "323 kcals",
+        "carbohydrateContent": "35.7 grams",
+        "cholesterolContent": "43.5 milligrams",
+        "fatContent": "17.9 grams",
+        "fiberContent": "0.7 grams",
+        "proteinContent": "5.4 grams",
+        "saturatedFatContent": "5.5 grams",
+        "sodiumContent": "212.7 milligrams",
+        "sugarContent": "16 grams",
+        "unsaturatedFatContent": "1.6 grams"
+      },
+      "prepTime": "PT0H10M",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "recipeCategory": "Snack, Brunch, Breakfast, Dessert, Cake",
+      "recipeIngredient": [
+        "1 cup/240 milliliters extra-virgin olive oil, plus more for greasing the pan ",
+        "1 ½ cups/300 grams granulated sugar ",
+        "2 tablespoons loose Earl Grey tea (from about 6 tea bags) ",
+        "2 teaspoons baking powder ",
+        "½ teaspoon baking soda ",
+        "1 teaspoon kosher salt (such as Diamond Crystal) ",
+        "2 cups/480 grams sour cream or whole-milk plain Greek yogurt ",
+        "3 large eggs ",
+        "2 teaspoons vanilla extract  ",
+        "3 cups/384 grams all-purpose flour ",
+        "1 cup/128 grams all-purpose flour ",
+        "1 cup packed/220 grams light or dark brown sugar ",
+        "1 ½ teaspoons ground cardamom ",
+        "½ teaspoon kosher salt (such as Diamond Crystal) ",
+        "½ cup/115 grams unsalted butter, melted "
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToSection",
+          "itemListElement": {
+            "@type": "HowToStep",
+            "text": "Heat oven to 350 degrees.",
+            "url": "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake#recipe-step-1"
+          }
+        },
+        {
+          "@type": "HowToSection",
+          "itemListElement": {
+            "@type": "HowToStep",
+            "text": "Lightly grease a 9-by-13-inch metal or glass baking pan with olive oil and line with parchment paper, leaving an overhang on two sides.",
+            "url": "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake#recipe-step-2"
+          },
+          "name": "Prepare the pan for the cake: "
+        },
+        {
+          "@type": "HowToSection",
+          "itemListElement": {
+            "@type": "HowToStep",
+            "text": "In a medium bowl, combine the flour, brown sugar, cardamon and salt. Add the melted butter and stir with a fork until evenly moistened and various crumb sizes form. Refrigerate while you prepare the cake batter.",
+            "url": "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake#recipe-step-3"
+          },
+          "name": "Make the streusel:"
+        },
+        {
+          "@type": "HowToSection",
+          "itemListElement": [
+            {
+              "@type": "HowToStep",
+              "text": "In a large bowl, rub the granulated sugar and tea leaves together with your fingertips until the mixture is fragrant. Add the baking powder, baking soda and salt and whisk to combine. Add the sour cream, olive oil, eggs and vanilla, and whisk until very smooth.",
+              "url": "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake#recipe-step-4"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Add the flour and stir gently until just combined (do not overmix, a few small lumps are fine).",
+              "url": "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake#recipe-step-5"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Transfer the batter to the prepared baking pan and spread in an even layer. Crumble the streusel evenly over the top.",
+              "url": "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake#recipe-step-6"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Bake until the streusel is browned and a toothpick inserted into the center of the cake comes out clean, 40 to 50 minutes.",
+              "url": "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake#recipe-step-7"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Transfer the cake in the pan to a rack to cool for at least 45 minutes, then run a knife around the edges of the cake and transfer it to a cutting board using the parchment paper overhang. Cut into squares and serve. (You can also serve the cake directly from the pan.) The cake will keep, well wrapped or in an airtight container at room temperature, for up to 4 days. Alternatively, freeze the cake for up to 3 months.",
+              "url": "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake#recipe-step-8"
+            }
+          ],
+          "name": "Prepare the cake:"
+        }
+      ],
+      "recipeYield": "16 to 24 servings",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Duniyaat"
+          },
+          "datePublished": "2025-12-16T04:48:15.000Z",
+          "reviewBody": "Any ideas from the baking community on how I could approach making an eggless version of this?"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vero"
+          },
+          "datePublished": "2025-12-16T00:14:43.000Z",
+          "reviewBody": "I added a bit of orange rind to the dough"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Austro Girl"
+          },
+          "datePublished": "2025-12-15T19:55:24.000Z",
+          "reviewBody": "Has anyone tried using a (decaf) chai or herbal chai instead of Earl Grey? (don't like bergamot!). I think it might work, but looking for reinforcement... Thanks!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melissa"
+          },
+          "datePublished": "2025-12-15T14:46:39.000Z",
+          "reviewBody": "I think your typical grocery store tea bag earl grey is not gonna cut it here. I used a really beautiful loose leaf earl grey, and ground it to a powder in a spice grinder. It was super earl grey-y and played well with the cardamom."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tracy"
+          },
+          "datePublished": "2025-12-15T09:19:41.000Z",
+          "reviewBody": "Opinion - was going to make the Chewy Chai Gingerbread cookies but then saw this cake.  What do you think about substituting the chai spice for the Earl Grey tea in the cake?  The chai spice sounds really good but would rather have cake :)"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AnnieLee"
+          },
+          "datePublished": "2025-12-15T01:53:04.000Z",
+          "reviewBody": "Seems like everyone is saying you can't taste the Earl Gray. I tasted it because I accidentally put 2 tablespoons in the streusel as well. It was delicious! Totally fixes it. The cake is light. Don't think this is one that I will make all the time, but it is good and I am saving it to make again."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa-Anna"
+          },
+          "datePublished": "2025-12-14T21:54:58.000Z",
+          "reviewBody": "These are the changes I made, and it came out wonderful!\n\nOnly 1/2 teaspoon of cardamom for the streusel. Only 5 tea bags of earl grey tea (it’s plenty earl grey). I used 1/2 cup avocado oil and 1/2 cup coconut oil instead of olive, and I used less salt for the batter based on the saltiness of the streusel. Lastly, I threw in some frozen blueberries! I will say that cardamom and early grey seem to battle it out in this recipe, but regardless, it’s very delicious and fluffy!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RT"
+          },
+          "datePublished": "2025-12-14T18:00:59.000Z",
+          "reviewBody": "Switched out half the olive oil for vegetable oil, subbed in some whole wheat flour.  Texture was great but flavor lacking.  The earl grey came through but the whole thing was kind of bland.  Would recommend slight increase in the earl grey, increase cardamom and add to cake itself (though may not need to increase if using freshly ground), and add walnuts to the crumble."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Austro Girl"
+          },
+          "datePublished": "2025-12-15T19:57:56.000Z",
+          "reviewBody": "I often make 2 smaller pans (8x8, round, 1 loaf etc) instead of the whole 9x13, when a recipe is so big. (I have yet to figure out how to halve an egg!) Just watch it carefully while baking."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Beth"
+          },
+          "datePublished": "2025-12-14T14:06:15.000Z",
+          "reviewBody": "I found the earl grey held its own.its a very interesting cake but I’d love to adapt it for a loaf pan for a 9x 9. For me 9 x 13 was too much for this cake."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "amy"
+          },
+          "datePublished": "2025-12-14T03:04:00.000Z",
+          "reviewBody": "A really delightful, light, complex cake! I added the zest of a lemon to the sugar and tea. The Earl Grey was lovely and not overwhelmed by my (run-of-the-mill, jarred) cardamom. It took about 50 minutes in a glass pan."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KAT"
+          },
+          "datePublished": "2025-12-13T23:51:22.000Z",
+          "reviewBody": "I made it sans streusel but with honey yogurt since I realised too late I didn’t have plain. Even sweetened this way the cake was barely sweet (in a lovely way), very fluffy and light, with a strong earl grey flavour. So it’s definitely there without the cardamom and having had it this way I don’t think it needs anything else. \n\nAlso a note that this was a big cake and needed something like an extra 30-40 minutes in the oven."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pam"
+          },
+          "datePublished": "2025-12-13T22:15:30.000Z",
+          "reviewBody": "Suggestions for subbing the sour cream for a non-dairy alternative?"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex"
+          },
+          "datePublished": "2025-12-12T19:15:38.000Z",
+          "reviewBody": "I found the olive oil flavor to be overwhelming to both the earl grey and the cardamom, I would opt for a neutral oil next time."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michelle"
+          },
+          "datePublished": "2025-12-12T16:07:13.000Z",
+          "reviewBody": "Any idea for how to make this dairy free?"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brian"
+          },
+          "datePublished": "2025-12-12T14:52:42.000Z",
+          "reviewBody": "@ DANA IRELAND Sounds appealing! Could you provide the recipe?"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cinja"
+          },
+          "datePublished": "2025-12-13T12:42:42.000Z",
+          "reviewBody": "@DANA IRELAND I make an Earl Grey creme brulee that’s very good too."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DANA IRELAND"
+          },
+          "datePublished": "2025-12-11T13:25:22.000Z",
+          "reviewBody": "I make an earl grey tea cookie that uses brewed tea and the dry leaves whisked with sugar in the cuisinart. Very definite tea flavor."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "collycolly"
+          },
+          "datePublished": "2025-12-09T18:45:58.000Z",
+          "reviewBody": "If the bergamot flavor of the Earl Grey fades in comparison with the cardamom, I'd opt for skipping it in the recipe altogether and serving it brewed and hot, alongside the cake."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JBaker"
+          },
+          "datePublished": "2025-12-08T18:47:16.000Z",
+          "reviewBody": "@Sonatina Good questions! I do feel the cardamon overshadows the Earl Grey. I made this recipe yesterday and used the scale function for half the recipe. It makes a nice moist cake that's not too sweet for my taste. I did use a bit less cardmom; I used a mortar and pestle to grind the seeds from about five green cardamom pods."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sonatina"
+          },
+          "datePublished": "2025-12-07T22:14:11.000Z",
+          "reviewBody": "Does the Earl Grey flavor hold its own? \nI've been experimenting with a shortbread type cookie to flavor it with Earl Grey (and other teas), but it is always barely noticeable. \n\nI've tried grinding the leaves into a powder, then \"steeping\" the tea by simmering it in butter first, but still the flavor is barely there.\n\nWouldn't adding cardamom completely obscure the Earl Gray? \nthx"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DANA IRELAND"
+          },
+          "datePublished": "2025-12-11T13:25:22.000Z",
+          "reviewBody": "I make an earl grey tea cookie that uses brewed tea and the dry leaves whisked with sugar in the cuisinart. Very definite tea flavor."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MO"
+          },
+          "datePublished": "2025-12-09T14:48:18.000Z",
+          "reviewBody": "I agree green cardamom is potent. Has anyone tried it with white cardamom seeds?  I understand it's milder and preferred in Scandinavian baking.  Also, for what it's worth, Fortnum & Mason has an Earl Grey variant called Victoria Grey.  It includes lavender and it is very floral and potent.  Maybe this tea will help stand up to the green cardamom? Or maybe it's too powerful of a one-two punch and will knock everyone out?! Anyway, I am looking forward to baking this cake this week."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Zawn"
+          },
+          "datePublished": "2025-12-10T03:37:06.000Z",
+          "reviewBody": "What about just adding bergamot to get the Earl Grey flavor? Might be strong enough then."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex"
+          },
+          "datePublished": "2025-12-12T19:15:38.000Z",
+          "reviewBody": "I found the olive oil flavor to be overwhelming to both the earl grey and the cardamom, I would opt for a neutral oil next time."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brian"
+          },
+          "datePublished": "2025-12-12T14:52:42.000Z",
+          "reviewBody": "@ DANA IRELAND Sounds appealing! Could you provide the recipe?"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alexandria"
+          },
+          "datePublished": "2025-12-12T23:48:33.000Z",
+          "reviewBody": "@Sonatina have you ever tried micro ground earl grey tea? I got it from a shop here in Canada, Genuine Tea, and love it in cakes! Strong bergamot flavour"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "amy"
+          },
+          "datePublished": "2025-12-14T03:04:00.000Z",
+          "reviewBody": "A really delightful, light, complex cake! I added the zest of a lemon to the sugar and tea. The Earl Grey was lovely and not overwhelmed by my (run-of-the-mill, jarred) cardamom. It took about 50 minutes in a glass pan."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lily"
+          },
+          "datePublished": "2025-12-15T00:36:17.000Z",
+          "reviewBody": "@MO I used a Victorian London fog tea blend (Harney and sons), which has lavender in it. It worked beautifully for this recipe, and is the main flavor. I used a little less cardamom that the recipe recommends and added a bit of vanilla bean paste to the streusel on top."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cinja"
+          },
+          "datePublished": "2025-12-13T12:42:42.000Z",
+          "reviewBody": "@DANA IRELAND I make an Earl Grey creme brulee that’s very good too."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Beth"
+          },
+          "datePublished": "2025-12-14T14:06:15.000Z",
+          "reviewBody": "I found the earl grey held its own.its a very interesting cake but I’d love to adapt it for a loaf pan for a 9x 9. For me 9 x 13 was too much for this cake."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kate"
+          },
+          "datePublished": "2025-12-16T02:00:11.000Z",
+          "reviewBody": "@JBaker I didn’t know about the scale function - thanks!"
+        }
+      ],
+      "suitableForDiet": "VegetarianDiet",
+      "totalTime": "PT1H20M",
+      "url": "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake",
+      "@type": "WebPage",
+      "author": {
+        "@id": "nyt://person/dcddf189-5b96-5a02-9d90-456908a41f3d",
+        "@type": "Person",
+        "name": "Sheela Prakash",
+        "url": "https://www.nytimes.com/by/sheela-prakash"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "dateModified": "2025-12-11T23:00:54.896Z",
+      "datePublished": "2025-12-05T22:53:38.02869Z",
+      "description": "Clusters of cardamom-spiced brown sugar streusel crown this moist and fragrant Earl Grey cake that’s just sweet enough for breakfast, brunch or a mid-afternoon treat. The tea pairs surprisingly well with the spice, as each accentuates the other's citrusy brightness and delicate floral notes. Cardamom’s sweet, peppery flavor lends extra warmth to every bite. Adding sour cream or yogurt to the batter plus opting for olive oil rather than butter not only ensures that the cake is ultratender, but allows it to stay that way for days so that it can be baked ahead of time without compromise.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "image": [
+        {
+          "@id": "nyt://image/d9e9951a-27b3-55c8-a8ba-4f138ee1cdd1#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2025-12-02T16:45:54.978Z",
+          "datePublished": "2025-12-02T16:45:54.978Z",
+          "height": "900",
+          "uploadDate": "2025-12-02T16:45:54.978Z",
+          "url": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/d9e9951a-27b3-55c8-a8ba-4f138ee1cdd1#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2025-12-02T16:45:54.978Z",
+          "datePublished": "2025-12-02T16:45:54.978Z",
+          "height": "600",
+          "uploadDate": "2025-12-02T16:45:54.978Z",
+          "url": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/d9e9951a-27b3-55c8-a8ba-4f138ee1cdd1#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2025-12-02T16:45:54.978Z",
+          "datePublished": "2025-12-02T16:45:54.978Z",
+          "height": "1800",
+          "uploadDate": "2025-12-02T16:45:54.978Z",
+          "url": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/d9e9951a-27b3-55c8-a8ba-4f138ee1cdd1#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-facebookJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2025-12-02T16:45:54.978Z",
+          "datePublished": "2025-12-02T16:45:54.978Z",
+          "height": "550",
+          "uploadDate": "2025-12-02T16:45:54.978Z",
+          "url": "https://static01.nyt.com/images/2025/12/05/multimedia/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt/SP:-Earl-Grey-Cardamom-Crumb-Cake-fwmt-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Earl Grey Cardamom Crumb Cake",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-12-17T03:16:11.046Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
