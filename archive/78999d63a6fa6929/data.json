@@ -1,0 +1,621 @@
+{
+  "id": "78999d63a6fa6929",
+  "original_url": "https://cooking.nytimes.com/recipes/1027592-sesame-scallion-buns",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1027592-sesame-scallion-buns",
+  "fetched_title": "Sesame Scallion Buns Recipe",
+  "main_text_content": "Crackly fried Chinese scallion pancakes take the form of baked buns here, crisp on the sesame-speckled outside and tender within Sizzling scallions in hot oil captures the aroma of the pancakes and brings out scallions’ savory side while preserving their bright green hue To mimic the pancakes’ scaffolding, the blend is spiraled into a simple yeast dough, subtly sweet and a little buttery",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/9726-fast-scallion-pancakes\"><figure class=\"tersecard_imageBlock__77puv\"><img src=\"https://static01.nyt.com/images/2017/01/17/dining/17COOKING-SCALLION-PANCAKES2/17COOKING-SCALLION-PANCAKES2-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2017/01/17/dining/17COOKING-SCALLION-PANCAKES2/17COOKING-SCALLION-PANCAKES2-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2017/01/17/dining/17COOKING-SCALLION-PANCAKES2/17COOKING-SCALLION-PANCAKES2-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2017/01/17/dining/17COOKING-SCALLION-PANCAKES2/17COOKING-SCALLION-PANCAKES2-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2017/01/17/dining/17COOKING-SCALLION-PANCAKES2/17COOKING-SCALLION-PANCAKES2-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2017/01/17/dining/17COOKING-SCALLION-PANCAKES2/17COOKING-SCALLION-PANCAKES2-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2017/01/17/dining/17COOKING-SCALLION-PANCAKES2/17COOKING-SCALLION-PANCAKES2-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2017/01/17/dining/17COOKING-SCALLION-PANCAKES2/17COOKING-SCALLION-PANCAKES2-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" sizes=\"100%\" loading=\"lazy\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Fast Scallion Pancakes</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Mark Bittman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/78999d63a6fa6929/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/2d0cc013-f816-5747-8b32-3d8402bbc188",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1027592-sesame-scallion-buns",
+        "@type": "WebPage",
+        "name": "Sesame Scallion Buns"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027592-sesame-scallion-buns",
+      "name": "Sesame Scallion Buns",
+      "description": "Crackly fried Chinese scallion pancakes take the form of baked buns here, crisp on the sesame-speckled outside and tender within. Sizzling scallions in hot oil captures the aroma of the pancakes and brings out scallions’ savory side while preserving their bright green hue. To mimic the pancakes’ scaffolding, the blend is spiraled into a simple yeast dough, subtly sweet and a little buttery. Be sure to bake them right before serving so you can pull apart the hot, soft layers and inhale the fragrant steam before taking a bite.",
+      "author": {
+        "@type": "Person",
+        "name": "Genevieve Ko"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/3235bf9b-674a-5010-99d9-fb3d2474f5e1#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2025-12-18T21:39:46.468Z",
+          "datePublished": "2025-12-18T21:39:46.468Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-12-18T21:39:46.468Z",
+          "url": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3235bf9b-674a-5010-99d9-fb3d2474f5e1#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2025-12-18T21:39:46.468Z",
+          "datePublished": "2025-12-18T21:39:46.468Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-12-18T21:39:46.468Z",
+          "url": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/3235bf9b-674a-5010-99d9-fb3d2474f5e1#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2025-12-18T21:39:46.468Z",
+          "datePublished": "2025-12-18T21:39:46.468Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-12-18T21:39:46.468Z",
+          "url": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/3235bf9b-674a-5010-99d9-fb3d2474f5e1#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-facebookJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2025-12-18T21:39:46.468Z",
+          "datePublished": "2025-12-18T21:39:46.468Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2025-12-18T21:39:46.468Z",
+          "url": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "prepTime": "PT5M",
+      "cookTime": "PT2H30M",
+      "totalTime": "PT2H30M",
+      "recipeYield": "12 buns",
+      "recipeCuisine": "",
+      "recipeCategory": "breakfast, brunch",
+      "keywords": "active dry yeast, egg, milk, plan ahead, roll and bun, scallion, sesame seed, christmas, new year’s day",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 129
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 198,
+        "unsaturatedFatContent": "6 grams",
+        "carbohydrateContent": "25 grams",
+        "cholesterolContent": null,
+        "fatContent": "9 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "4 grams",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "168 milligrams",
+        "sugarContent": "4 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1/2 cup/130 grams whole milk",
+        "3 tablespoons sugar",
+        "1 (1/4-ounce) packet active dry yeast (7 grams; 2 1/4 teaspoons)",
+        "2 1/3 cups/303 grams all-purpose flour, plus more for rolling",
+        "1 teaspoon fine salt",
+        "3 tablespoons cold unsalted butter, cut into cubes, plus more for the bowl",
+        "1 large egg",
+        "White sesame seeds, for sprinkling",
+        "1/4 cup/60 grams grapeseed or canola oil",
+        "2 bunches scallions, trimmed, thick ones halved lengthwise, very thinly sliced",
+        "1 teaspoon fine salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the buns: Heat the milk until lukewarm to the touch (over low heat in a saucepan or for 30 seconds in the microwave). Stir in the sugar to dissolve, then stir in the yeast. Let stand until foamy, about 5 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, mix the flour and salt in the bowl of a stand mixer. Add butter and beat on low with the paddle until crumbs form. Make a well in the center and add the foamy milk and the egg. Beat with the paddle on low until a shaggy dough forms. Switch to the dough hook and knead on low speed until the dough is smooth and elastic, 10 to 15 minutes, scraping the bowl and hook occasionally. The dough will be a bit sticky."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Butter a large bowl and scrape the dough into it. Cover with a clean kitchen towel and let rise in a warm place until doubled, about 1 1/2 hours."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, prepare the scallions: Heat the oil in a small saucepan over medium-high until shimmering and almost smoking, about 5 minutes. Remove from heat, then add the scallions and salt carefully (they’ll splatter). Stir well. Let stand while the dough rises."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Roll the dough: Gently press down on the dough in the bowl to deflate it. Turn it out onto a lightly floured surface. Using a lightly floured rolling pin, roll it into a rectangle 20 inches wide and 12 inches long, with the wide side facing you. It will be a scant 1/4 inch thick. Use a spoon to scoop the scallions onto the dough, reserving any excess oil. Spread the scallions to the bottom and side edges and leave an inch rim at the top. Line a rimmed baking sheet with parchment paper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Shape the dough: Starting from the edge closest to you, roll the dough up in a loose spiral. Pinch the long seam to seal. Using a serrated knife, cut the roll with a sawing motion into 12 even pieces. Place them cut side up on the prepared sheet, spacing evenly apart."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Using your fingertips, gently pull the dough layers apart a bit and if the end is coming unraveled, tuck it under the spiral. Sprinkle the rolls generously with sesame seeds. Cover loosely with the clean kitchen towel and let stand in a warm place for 20 minutes or cover the pan with greased plastic wrap and refrigerate overnight."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 375 degrees while the spirals proof. (If the buns have been refrigerated overnight, let them sit at room temperature until they’re room temperature and puffed.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake until golden brown, about 20 minutes. Immediately after they come out of the oven, brush them with the reserved scallion oil. Serve hot or warm."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-12-18T00:00:00.000Z",
+      "dateModified": "2025-12-22T07:21:10.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Manda"
+          },
+          "reviewBody": "These tasted amazing, especially if you like savoury salty flavors! The scallions were delicious and definitely worth the prep work. I used safflower oil instead of grape because I had it and it also has a high smoke point. I would add a bit more oil to the pan next time as I didn’t have much left for brushing the buns. Very straightforward and simple buns to make. Ate two of them right out of the oven!",
+          "datePublished": "2025-12-28T18:25:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "H"
+          },
+          "reviewBody": "These are wonderful, the bun is so light and fluffy, very tender (even after rolling it to 1/4 inch thickness).  The dough was very soft and sticky.  I did let the buns proof longer after forming, about 45 minutes.  I used 2% milk because I had it on hand, didn't seem to detract from the softness of the dough.  I think I will use some sesame oil in the oil next time, just to give it a more Asian taste profile.",
+          "datePublished": "2025-12-28T16:09:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "GTS"
+          },
+          "reviewBody": "@Thoughtful Reader I have not made these yet, but the conversion from active dry yeast to instant yeast would yield about 4 g instant yeast.\n@Corine As formulated this dough is about 60% hydration - to me, that is a very stiff dough. I would be increasing the milk to 150 - 160 g to increase the hydration to a bit north of 65%.",
+          "datePublished": "2025-12-28T16:16:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "C Erb"
+          },
+          "reviewBody": "We tried. Way too difficult.",
+          "datePublished": "2025-12-28T04:15:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DeeM"
+          },
+          "reviewBody": "Thanks. This recipe is delicious and versatile.  The rolls would work well at brunch, lunch, or a party buffet, and they are much easier to make than scallion pancakes.",
+          "datePublished": "2025-12-28T02:45:18.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie"
+          },
+          "reviewBody": "I loved these! I definitely needed a savory bake after all the sugar of the season, and these hit the spot. I thought two bunches of scallions were going to be too much, but it was barely enough! Next time I might add a bit of sesame oil to the scallions. The one thing I need to do better next time is drain the scallions sufficiently to have that oil to brush on the top of the rolls. These are def going onto my make again list!",
+          "datePublished": "2025-12-27T23:21:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "darjmom"
+          },
+          "reviewBody": "These were a big hit in my house. The dough was easy to work into the desired shape. Someone had used one of my scallion bunches so I supplemented one with some fresh dill that I needed to use up. Light, fluffy and delicious. Definitely a recipe I’ll make again.",
+          "datePublished": "2025-12-27T23:06:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Milan"
+          },
+          "reviewBody": "My local bakery here in Orlando, FL, Chiffon Culture has something similar if not the same. I’m grateful knowing I have this recipe if I’m ever craving them. Thank you Genevieve!",
+          "datePublished": "2025-12-27T22:18:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy Berger"
+          },
+          "reviewBody": "Use 25% less instant yeast than active dry. Instant can go right in with the flour. Or use the same amount as active dry and expect a quicker rise.",
+          "datePublished": "2025-12-27T22:32:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "Can this be made without a standing/dough mixer?  I only have a traditional electric hand-mixer (i.e., for making cake or brownie batter, etc.)....",
+          "datePublished": "2025-12-27T17:46:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Wendy Clapp"
+          },
+          "reviewBody": "These remind me of flower rolls, but baked instead of steamed.",
+          "datePublished": "2025-12-27T18:15:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "trapeze coder"
+          },
+          "reviewBody": "these are delicious, even though I didn't read the recipe thoroughly and didn't reserve the oil to brush on top.",
+          "datePublished": "2025-12-27T17:07:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Myra"
+          },
+          "reviewBody": "So nice to see a savory recipe like this with no cheese! Severe dairy allergies mean I'm always making substitutions (I'll need to use soy milk) or, if cheese is the star, just skipping it. Its nice to see an option.",
+          "datePublished": "2025-12-27T16:09:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Solomon"
+          },
+          "reviewBody": "@thoughtful reader I just tried with instant yeast (twice!) and totally didn’t work. Not sure why…",
+          "datePublished": "2025-12-27T22:46:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "thoughtful reader"
+          },
+          "reviewBody": "I'm wondering why this recipe was formulated with active dry yeast, and if instant yeast can be substituted.",
+          "datePublished": "2025-12-27T15:45:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dana"
+          },
+          "reviewBody": "Can I use puff pastry instead of the dough made from scratch?",
+          "datePublished": "2025-12-27T15:12:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Genevieve"
+          },
+          "reviewBody": "@LittleBird you can try puff pastry, but store-bought pizza dough or another store-bought bread dough (like crescent rolls) probably would work better. I haven’t tried it but I’m excited to hear how it goes!",
+          "datePublished": "2025-12-19T10:46:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vicki"
+          },
+          "reviewBody": "True especially if one is including slicing 2 bunches of scallions into tiny pieces.  But could someone please share the quality of this recipe instead of just complaining about the instructions?  Five comments, I still have no idea if this tastes good!",
+          "datePublished": "2025-12-22T01:16:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janet CO"
+          },
+          "reviewBody": "What instructions are needed to mix the dough by hand?  Just follow the mixing instructions and do everything manually.  I make all types of dough, including bread and pastry, by hand.  Use a big bowl, a bowl scraper and a bench knife.",
+          "datePublished": "2025-12-20T00:03:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kelly"
+          },
+          "reviewBody": "@Corine This sounds like a little bit too much flour may have been added. Adding 1/4 cup of water to this recipe would have yielded a dough at nearly 80% hydration which is on the higher end. An 80% hydration dough (depending of the success of gluten development) would look anything from a soft, silky, stretchy dough to a gloppy mess.\n\nThe recipe as written, would yield a dough just under 60% hydration which is typical of sweet roll doughs. 60% hydration is the sweet spot for a manageable and versatile dough. Not sticky after mixing and will take a good shaping when properly relaxed.\n\nI’m a full-time baker and would highly recommend using a scale to measure out ingredients. Baking is much more of an exact science than most expect, Happy Baking!",
+          "datePublished": "2025-12-23T15:18:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "D"
+          },
+          "reviewBody": "This recipe sounds interesting, but I would appreciate a more realistic estimate of prep time in the recipe.  There is no way this recipe can be prepped in 5 minutes!  (Just do the math with the recommended time for each of the prep steps, not including rising.)",
+          "datePublished": "2025-12-20T05:37:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Love it!"
+          },
+          "reviewBody": "Made it last night, was perfect with the viral dumpling lasagna. And made an extra batch of dough to make my kids Nutella rolls for breakfast this morning. Perfection!",
+          "datePublished": "2025-12-21T13:51:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Allison"
+          },
+          "reviewBody": "This is based on the traditional Chinese scallion pancake recipe, as stated in the introduction. That is why there isn't any cheese.",
+          "datePublished": "2025-12-23T11:36:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Genevieve Ko"
+          },
+          "reviewBody": "You definitely can make this dough by hand as well: In step 2, mix the flour and salt in a bowl. Add butter and pinch into the flour until crumbs form. Make a well in the center and add the foamy milk and the egg. Beat with a wooden spoon until a shaggy dough forms. Keep beating with the spoon or kneading with your hand until the dough is smooth and elastic, 15 to 25 minutes. The dough will be quite sticky in the beginning and still a bit sticky by the end.",
+          "datePublished": "2025-12-22T06:56:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meghan"
+          },
+          "reviewBody": "@Genevieve I used crescent roll dough from the pop-can and they turned out excellent! I have a newborn baby at home and this approach made it so fast and easy, yet still special!",
+          "datePublished": "2025-12-27T03:09:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Claire"
+          },
+          "reviewBody": "@Rachael I’ve made 2 batches and froze them after I cut them.  I baked up the first batch yesterday morning after thawing/proofing and they are absolutely delicious. I thought the dough was very easy to work with and I used no extra flour when I rolled them out between 2 sheets of parchment paper.",
+          "datePublished": "2025-12-24T20:31:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LittleBird"
+          },
+          "reviewBody": "I'm so rushed right now and these look delicious .  Can I just start with puff pastry as the dough and continue the recipe?",
+          "datePublished": "2025-12-18T23:58:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andrea"
+          },
+          "reviewBody": "I reread the recipe to find measurement for cheese & was surprised not see any. Has anyone tried adding grated Gruyère or Fontina, which I think would be lovely…",
+          "datePublished": "2025-12-20T17:11:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anna"
+          },
+          "reviewBody": "These are FABULOUS! I’m a very nervous baker and was hesitant to deal with a yeast dough, but this dough was a dream to work with! The timing of this recipe was spot on. I was over an hour late to a party because I messed up the rising time; all was forgiven because these buns were a huge hit! I think these would be extra good topped with or dipped in chili oil. 10/10!",
+          "datePublished": "2025-12-25T02:33:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Blue"
+          },
+          "reviewBody": "These were quite tasty. The dough is easy to work with and baked up beautifully soft. I needed more oil than called for and still didn't have any left to brush on top. I added gochugaru flakes to the scallions (about 10, 2 small bunches) and put sesame seeds inside. I used non-dairy milk and I baked them like cinnamon rolls pressed together in a pan and liked the softness from less exposed edges. Although the dough rose on proofing, the final product did not rise much, and the buns were small.",
+          "datePublished": "2025-12-24T14:19:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ann ONeill"
+          },
+          "reviewBody": "@LittleBird - I was thinking the same thing. Pizza dough can be tough, especially from a grocery store and crescent rolls have a strange aftertaste.",
+          "datePublished": "2025-12-20T07:09:38.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1027592-sesame-scallion-buns",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Genevieve Ko"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "Crackly fried Chinese scallion pancakes take the form of baked buns here, crisp on the sesame-speckled outside and tender within. Sizzling scallions in hot oil captures the aroma of the pancakes and brings out scallions’ savory side while preserving their bright green hue. To mimic the pancakes’ scaffolding, the blend is spiraled into a simple yeast dough, subtly sweet and a little buttery. Be sure to bake them right before serving so you can pull apart the hot, soft layers and inhale the fragrant steam before taking a bite.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Sesame Scallion Buns",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/3235bf9b-674a-5010-99d9-fb3d2474f5e1#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2025-12-18T21:39:46.468Z",
+          "datePublished": "2025-12-18T21:39:46.468Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-12-18T21:39:46.468Z",
+          "url": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3235bf9b-674a-5010-99d9-fb3d2474f5e1#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2025-12-18T21:39:46.468Z",
+          "datePublished": "2025-12-18T21:39:46.468Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-12-18T21:39:46.468Z",
+          "url": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/3235bf9b-674a-5010-99d9-fb3d2474f5e1#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2025-12-18T21:39:46.468Z",
+          "datePublished": "2025-12-18T21:39:46.468Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-12-18T21:39:46.468Z",
+          "url": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/3235bf9b-674a-5010-99d9-fb3d2474f5e1#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-facebookJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2025-12-18T21:39:46.468Z",
+          "datePublished": "2025-12-18T21:39:46.468Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2025-12-18T21:39:46.468Z",
+          "url": "https://static01.nyt.com/images/2025/12/18/multimedia/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw/18FD-KO-XMAS-BRUNCHREX2-GK-Sesame-Scallion-Rolls-hkcw-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027592-sesame-scallion-buns"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2025-12-28T22:04:12.330Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
