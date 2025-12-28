@@ -2,6 +2,7 @@
 
 ## 2025
 
+- https://cooking.nytimes.com/recipes/1027592-sesame-scallion-buns #bread #veg
 - https://cooking.nytimes.com/recipes/764970233-earl-grey-cardamom-crumb-cake #dessert #cake
 - https://cooking.nytimes.com/recipes/1019502-baked-cod-with-crunchy-miso-butter-bread-crumbs #asian #dinner #fish
 - https://share.google/5XY1IGbrfAYErZNIe #asian #dinner #side #summer #veg
