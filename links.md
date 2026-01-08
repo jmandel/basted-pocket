@@ -1,5 +1,9 @@
 # Basted Pocket Links
 
+
+## 2026
+
+- https://www.kingarthurbaking.com/recipes/broye-du-poitou-french-shortbread-cookie-cake-recipe #cake #cookies #dessert
 ## 2025
 
 - https://cooking.nytimes.com/recipes/1027592-sesame-scallion-buns #bread #veg
