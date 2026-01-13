@@ -3,7 +3,10 @@
 
 ## 2026
 
+- https://www.theguardian.com/food/article/2024/may/18/yotam-ottolenghi-lebanese-recipes-lamb-pies-shish-barak-yoghurty-flatbreads-manakish #dinner
+- https://ottolenghi.co.uk/pages/recipes/lamb-siniyah #dinner
 - https://www.kingarthurbaking.com/recipes/broye-du-poitou-french-shortbread-cookie-cake-recipe #cake #cookies #dessert
+
 ## 2025
 
 - https://cooking.nytimes.com/recipes/1027592-sesame-scallion-buns #bread #veg
