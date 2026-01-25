@@ -3,6 +3,7 @@
 
 ## 2026
 
+- https://cooking.nytimes.com/recipes/767820396-salmon-with-mustard-piccata-sauce #dinner #fish #gf
 - https://cooking.nytimes.com/recipes/1023253-egg-in-a-hole-with-asparagus #bread #brunch #egg #veg
 - https://cooking.nytimes.com/recipes/768413295-chickpeas-al-limone-with-burrata #dinner #potluck #side #veg
 - https://cooking.nytimes.com/recipes/1015232-green-goddess-roasted-chicken #dinner #gf
