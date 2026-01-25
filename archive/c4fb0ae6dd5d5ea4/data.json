@@ -1,0 +1,616 @@
+{
+  "id": "c4fb0ae6dd5d5ea4",
+  "original_url": "https://cooking.nytimes.com/recipes/1015232-green-goddess-roasted-chicken",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1015232-green-goddess-roasted-chicken",
+  "fetched_title": "Green Goddess Roasted Chicken Recipe",
+  "main_text_content": "Green Goddess dressing — a creamy, piquant blend of herbs, garlic and anchovies — is good to eat on salad And it’s wonderful as a dipping sauce for vegetables But its best use may be as a marinade for roast chicken",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1024528-green-goddess-chicken-salad-sandwiches\"><figure class=\"tersecard_imageBlock__77puv\"><img src=\"https://static01.nyt.com/images/2024/01/17/multimedia/LH-green-goddess-chicken-salad-kbzc/LH-green-goddess-chicken-salad-kbzc-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2024/01/17/multimedia/LH-green-goddess-chicken-salad-kbzc/LH-green-goddess-chicken-salad-kbzc-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/01/17/multimedia/LH-green-goddess-chicken-salad-kbzc/LH-green-goddess-chicken-salad-kbzc-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/01/17/multimedia/LH-green-goddess-chicken-salad-kbzc/LH-green-goddess-chicken-salad-kbzc-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/01/17/multimedia/LH-green-goddess-chicken-salad-kbzc/LH-green-goddess-chicken-salad-kbzc-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/01/17/multimedia/LH-green-goddess-chicken-salad-kbzc/LH-green-goddess-chicken-salad-kbzc-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/01/17/multimedia/LH-green-goddess-chicken-salad-kbzc/LH-green-goddess-chicken-salad-kbzc-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/01/17/multimedia/LH-green-goddess-chicken-salad-kbzc/LH-green-goddess-chicken-salad-kbzc-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" sizes=\"100%\" loading=\"lazy\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Green Goddess Chicken Salad Sandwiches</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Lidey Heuck</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-threeByTwoMediumAt2X-v2.jpg",
+  "local_image_path": "archive/c4fb0ae6dd5d5ea4/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/21e542e9-d0df-5173-9139-38a4cc9677cd",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1015232-green-goddess-roasted-chicken",
+        "@type": "WebPage",
+        "name": "Green Goddess Roasted Chicken"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1015232-green-goddess-roasted-chicken",
+      "name": "Green Goddess Roasted Chicken",
+      "description": "Green Goddess dressing — a creamy, piquant blend of herbs, garlic and anchovies — is good to eat on salad. And it’s wonderful as a dipping sauce for vegetables. But its best use may be as a marinade for roast chicken. The mild chicken absorbs all the zippy flavors of the dressing, to emerge from the oven fragrant and golden, flecked with green. To intensify the herbal flavor, some of the green goddess mixture is set aside to use as a sauce. You could even pour a little on a salad or some vegetables on the side, and enjoy the best of all the Green Goddess variations in one savory bite.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/2b220d45-e207-52e7-ae0b-80f77cf62fea#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-11-25T22:01:22.446Z",
+          "datePublished": "2024-11-25T21:46:48.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-25T21:46:48.000Z",
+          "url": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/2b220d45-e207-52e7-ae0b-80f77cf62fea#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-googleFourByThree-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-11-25T22:01:22.446Z",
+          "datePublished": "2024-11-25T21:46:48.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-25T21:46:48.000Z",
+          "url": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/2b220d45-e207-52e7-ae0b-80f77cf62fea#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-mediumSquareAt3X-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-11-25T22:01:22.446Z",
+          "datePublished": "2024-11-25T21:46:48.000Z",
+          "height": "1801",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-25T21:46:48.000Z",
+          "url": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/2b220d45-e207-52e7-ae0b-80f77cf62fea#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-facebookJumbo-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-11-25T22:01:22.446Z",
+          "datePublished": "2024-11-25T21:46:48.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-25T21:46:48.000Z",
+          "url": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-facebookJumbo-v2.jpg",
+          "width": "1050"
+        }
+      ],
+      "totalTime": "PT1H15M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, roasts, main course",
+      "keywords": "basil, chicken, roast chicken",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 4419
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 864,
+        "unsaturatedFatContent": "38 grams",
+        "carbohydrateContent": "8 grams",
+        "cholesterolContent": null,
+        "fatContent": "61 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "69 grams",
+        "saturatedFatContent": "18 grams",
+        "sodiumContent": "1302 milligrams",
+        "sugarContent": "5 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 1/2 cups buttermilk or plain yogurt",
+        "1 cup packed basil leaves",
+        "1/4 cup packed chives",
+        "2 garlic cloves, peeled",
+        "2 anchovy fillets (optional)",
+        "1 scallion, white and green parts",
+        "Finely grated zest and juice of 1 lime",
+        "2 teaspoons coarse kosher salt",
+        "1 teaspoon black pepper",
+        "1 (4- to 5-pound) chicken, halved through the breast and back bones, patted dry with paper towels",
+        "1 to 2 tablespoons extra-virgin olive oil, for drizzling"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a blender, purée buttermilk, basil, chives, garlic, anchovies (if using), scallion, lime zest and juice, salt and pepper until smooth."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Put chicken halves in a bowl or large heavy-duty resealable plastic bag and cover with three-quarters of the Green Goddess marinade. (Save the rest to serve as a sauce.) Refrigerate for at least 6 hours or up to overnight."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 500 degrees. Remove chicken from the marinade, shaking off as much liquid as possible, and lay the halves on a rimmed baking sheet. (Discard the used marinade.) Pat chicken tops dry with paper towels and drizzle with oil. Roast until cooked through, about 30 to 45 minutes. Let rest for 10 minutes before serving, with some of the reserved sauce if you like."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2013-10-16T00:00:00.000Z",
+      "dateModified": "2024-11-25T21:47:13.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cher"
+          },
+          "reviewBody": "Can you/ Have you make this with another herb? Cilantro and Parsley much easier to find locally for me",
+          "datePublished": "2026-01-25T00:29:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kidrid"
+          },
+          "reviewBody": "I think this just begs for the Samin Nosrat buttermilk treatment but using the recipe presented here. 24 hour brine is fine. I think 500° is nuts. Her recipe calls for 15 minutes at 425° and then lowering that to 400. Use a thermometer inserted into the center of the breast. I cut the chicken in half completely and remove the backbone. I cut through the breast bone which ends up leaving 1/2 without any breast bone and the other half with the intact breast bone before cooking. This doesn’t compromise the cooking time for either half.",
+          "datePublished": "2026-01-24T20:30:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kidrid"
+          },
+          "reviewBody": "@Pam Get good poultry shears, and you will not have a problem either spatchcocking or completely separating the chicken into two halves. Save the wing tips and backbone for stock. Be careful of the little rib pieces that might break off.",
+          "datePublished": "2026-01-24T20:32:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pam"
+          },
+          "reviewBody": "To the person who used thighs (I REALLY don't want to try to cut a chicken in half!) Bone in with skin on?",
+          "datePublished": "2026-01-24T17:17:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris"
+          },
+          "reviewBody": "Why discard the marinade? What a waste. Boil it and let it thicken as a dipping sauce.",
+          "datePublished": "2026-01-24T18:09:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Oregon native"
+          },
+          "reviewBody": "Last spring, I spotted Melissa Clark and her family ahead of me on a long down escalator in the Louvre. Although I was  few steps behind them, the red hair was just so distinctive. A few years earlier, I had seen Madonna exiting the Ritz in Paris, but seeing Melissa Clark in the Louvre was so much more exciting for this 71-year-old NYT Cooking fan girl. Much to the embarrassment of the teenager traveling with me, and I suspect the teenager traveling with Melissa, I called out “Are you Melissa Clark?”  When she answered affirmatively with a smile, I called out “Green Goddess Chicken!” That said it all. A most perfect recipe from the goddess of NYT Cooking. BTW, I have also adjusted the oven temp to 450 degrees. If you haven’t tried this recipe, what are you waiting for? Melissa, I will be in Paris in October. Hope to see you again. Musee d’Orsay perhaps?",
+          "datePublished": "2026-01-24T17:05:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ann"
+          },
+          "reviewBody": "Can you make this with rotisserie chicken that you have taken off the carcass?",
+          "datePublished": "2026-01-24T18:25:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa Dreyer"
+          },
+          "reviewBody": "@Bill Are you looking at a different recipe?  The ingredients are clearly included. You are making it from scratch for use as a marinade and reserving a portion for a dipping sauce or salad dressing. Give it a try, it is delicious.",
+          "datePublished": "2026-01-25T11:32:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill"
+          },
+          "reviewBody": "Green Goddess marinade is...NOT...on the list of ingredients...!",
+          "datePublished": "2026-01-24T17:34:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "elana"
+          },
+          "reviewBody": "Anyone try this on fish?",
+          "datePublished": "2026-01-24T18:38:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Roberta"
+          },
+          "reviewBody": "500*F! Ay. Dios mio. That seems really hot. I don't want my smoke detectors to go off. Has anyone done this?",
+          "datePublished": "2026-01-24T17:58:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PCVG in ABQ"
+          },
+          "reviewBody": "This chicken was absolutely delicious !  Next time I make it, I want to make double the marinade and freeze half. Is that a good idea? Does it freeze well?",
+          "datePublished": "2026-01-24T17:36:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Florabell"
+          },
+          "reviewBody": "the recipe calls for some to be reserved for dipping layer.  do not use the chicken marinade@Brent",
+          "datePublished": "2026-01-24T17:49:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Colly M"
+          },
+          "reviewBody": "@Brent You should definitely not eat marinade that has had raw chicken in it - ever. In this recipe, you can enjoy the reserved marinade.",
+          "datePublished": "2026-01-24T18:32:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa Dreyer"
+          },
+          "reviewBody": "@Brent The instructions clearly state to reserve some of the freshly made marinade for a dipping sauce or salad dressing. You are not using the portion that has had raw chicken in it.",
+          "datePublished": "2026-01-25T11:35:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brent"
+          },
+          "reviewBody": "You might check to see if eating marinade from raw chicken is safe. I would boil it before consuming.",
+          "datePublished": "2026-01-24T16:22:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alan"
+          },
+          "reviewBody": "This ought to work really well on a rotisserie!",
+          "datePublished": "2026-01-24T16:24:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CW"
+          },
+          "reviewBody": "Made with Parts - 2 bone in breast, 2 whole legs and then added 2 thighs to have leftovers.  Great Recipe.",
+          "datePublished": "2026-01-12T23:51:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Caitlin"
+          },
+          "reviewBody": "So... silly question... can I do think with turkey breasts for thanksgiving? How long should I cook?",
+          "datePublished": "2025-11-20T16:38:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "reviewBody": "I make this with thighs and roast them for about 25 mins at 500.  It makes the house smell so good.  The longer I marinate the chicken, the more succulent it is.  I try to buy the best buttermilk I can; it seems to make a difference.  This has been a winner in my house and for guests.  The hardest thing to remember when I want to make it is that needs time to marinate.",
+          "datePublished": "2017-10-30T12:59:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David Morton"
+          },
+          "reviewBody": "500ºF? That was way too hot for my oven. The chicken was pretty well cooked at 20 minutes ... 148ºF internal temperature at the breast. I finished it at 350º for seven minutes and the chicken was perfectly cooked. The Green Goddess dressing was superb! A definite keeper ... but keep an eye on the temperature!",
+          "datePublished": "2017-10-30T13:04:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Betsy R"
+          },
+          "reviewBody": "What makes this recipe great is not the chicken right out of the oven. That is very good, but the next day, use the out-of-this-world Green Goddess dressing instead of mayo for a great chicken sandwich! Squishy white bread sops up the dressing best. Layer the dressing on both sides of the bread with sliced white meat in between. Super!",
+          "datePublished": "2017-10-30T12:40:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lynda Chitwood"
+          },
+          "reviewBody": "I have prepared this twice and both times it was fantastic.  The first was with boneless skinless breasts, but it didn't marinade as long.  A few days ago, I marinated chunks of boneless skinless breasts for a full day and grilled them on skewers.... So yummy and succulent!!<br/>I prefer greek yogurt for this and it makes the marinade super thick and tangy.<br/>Going to become one of my go-to chicken dishes!",
+          "datePublished": "2017-10-30T15:12:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DFM"
+          },
+          "reviewBody": "Absolute MUST to line the baking pan with foil<br/>This is a mess<br/>I don't understand why Melissa omits this important point.<br/>Taste very good",
+          "datePublished": "2017-10-24T18:21:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jill"
+          },
+          "reviewBody": "I used boneless, skinless chicken breasts which I had pounded to make them a consistent thickness.  After marinating the chicken, I baked it uncovered at 375º for 45  minutes.  It was the hit of my party--flavorful and succulent.",
+          "datePublished": "2017-10-30T14:46:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Minou"
+          },
+          "reviewBody": "Use chicken thighs and cook for 25 minutes.<br/>Line pan with foil.",
+          "datePublished": "2017-10-24T19:26:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christina"
+          },
+          "reviewBody": "This was a nice change in our roast chicken preparation. The chicken came out with great crispy skin and was extremely juicy and tender. Two things to note: I don't have a blender so I made the sauce in a food processor and it came out find. The taste seemed a bit sour at first but mellowed out nicely in the fridge. Second thing is that you may need to lower the temperature to 400 as to not over char the chicken.",
+          "datePublished": "2017-10-30T14:13:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LH"
+          },
+          "reviewBody": "My entire family found this delightful. <br/><br/> Notes: <br/><br/> Clean your oven the day before you make this if you plan to follow the recipe exactly, with blast furnace temperature. Otherwise the fire department may show up at your house. <br/><br/> Note that the dressing, while delicious, is quite thin, especially if you use all buttermilk.  Replace some of the buttermilk with a dollop of mayo if you like a less runny dressing.  I doubled the dressing amount to enjoy it on salads the following days.",
+          "datePublished": "2017-10-24T20:00:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peter C"
+          },
+          "reviewBody": "I made this the other day exactly minus the anchovies. I'll add that next time since it needed a little salt. I cooked this at 400 degrees for 40 minutes and then did 500 for about 8 minutes. I also marinaded for a full 24 hours. My pan was a little scorched but the bird was succulent and so moist. Delicious. Also, use a good blender for the dressing otherwise you'll get basil leaves that aren't fully processed. I'm sure this contributed to the scorching in my case. Otherwise, fantastic recipe.",
+          "datePublished": "2017-10-30T14:47:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dorian"
+          },
+          "reviewBody": "I think this was a good easy recipe and I ended up with very pretty chicken. (4.8 lb chicken cooked at 450 in convection oven for 40 minutes. DEFINITELY use foil.)<br/>I agree with one of the other reviewers that the sauce is too salty - not for a marinade, but it's a bit much as a dressing. I would suggest making the GG with 1 tsp, reserving some in advance, then adding the rest of the salt before marinating the chicken.",
+          "datePublished": "2017-10-24T21:32:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Annie Nord"
+          },
+          "reviewBody": "I thought it was too salty, and I usually find things not salty enough. The next time I made it I used one tsp.",
+          "datePublished": "2017-10-30T13:21:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maria"
+          },
+          "reviewBody": "I have contacted the Cooking site twice over the course of this fall/winter 2015to request confirming the nutritional analysis ... to date no reply.  Either the site is flooded with requests for clarification/info, or my request was tossed.  The site is not living up to its claim to answer all requests. 1192 calories per serving? What gives?",
+          "datePublished": "2017-10-30T15:56:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janine Gross"
+          },
+          "reviewBody": "Fantastic flavor and color!  Roasted at 450 for the first 35 minutes then at 500 for an additional 8 - 10 minutes.  Watch carefully at the end so skin doesn't burn.  Lining pan with foil is a must.  Will use leftover dressing on salad and roasted potatoes.  Thank you, Melissa!",
+          "datePublished": "2017-10-24T19:29:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathryn"
+          },
+          "reviewBody": "My go-to roast chicken recipe from now on, when I'm not using my puny old city oven. Amazing flavor and it came out perfectly using a 4 lb chicken. My city oven set off the fire alarm and filled the house with smoke (you need a REALLY clean oven to avoid the smoke). I made this also in a newer, cleaner oven and there was no smoke at all at 500 degrees. I substitute with whatever greens I have on hand, parsley last time tasted great.",
+          "datePublished": "2017-10-30T15:56:33.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2013
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1015232-green-goddess-roasted-chicken",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2013,
+      "description": "Green Goddess dressing — a creamy, piquant blend of herbs, garlic and anchovies — is good to eat on salad. And it’s wonderful as a dipping sauce for vegetables. But its best use may be as a marinade for roast chicken. The mild chicken absorbs all the zippy flavors of the dressing, to emerge from the oven fragrant and golden, flecked with green. To intensify the herbal flavor, some of the green goddess mixture is set aside to use as a sauce. You could even pour a little on a salad or some vegetables on the side, and enjoy the best of all the Green Goddess variations in one savory bite.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Green Goddess Roasted Chicken",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/2b220d45-e207-52e7-ae0b-80f77cf62fea#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-11-25T22:01:22.446Z",
+          "datePublished": "2024-11-25T21:46:48.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-25T21:46:48.000Z",
+          "url": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/2b220d45-e207-52e7-ae0b-80f77cf62fea#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-googleFourByThree-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-11-25T22:01:22.446Z",
+          "datePublished": "2024-11-25T21:46:48.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-25T21:46:48.000Z",
+          "url": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/2b220d45-e207-52e7-ae0b-80f77cf62fea#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-mediumSquareAt3X-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-11-25T22:01:22.446Z",
+          "datePublished": "2024-11-25T21:46:48.000Z",
+          "height": "1801",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-25T21:46:48.000Z",
+          "url": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/2b220d45-e207-52e7-ae0b-80f77cf62fea#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-facebookJumbo-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Spencer Richards.",
+          "dateModified": "2024-11-25T22:01:22.446Z",
+          "datePublished": "2024-11-25T21:46:48.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2024-11-25T21:46:48.000Z",
+          "url": "https://static01.nyt.com/images/2024/11/25/multimedia/green-goddess-roast-chicken-ckqj/green-goddess-roast-chicken-ckqj-facebookJumbo-v2.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1015232-green-goddess-roasted-chicken"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-01-25T18:34:46.308Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
