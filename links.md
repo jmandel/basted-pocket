@@ -3,6 +3,7 @@
 
 ## 2026
 
+- https://cooking.nytimes.com/recipes/768413295-chickpeas-al-limone-with-burrata #dinner #potluck #side #veg
 - https://cooking.nytimes.com/recipes/1015232-green-goddess-roasted-chicken #dinner #gf
 - https://www.theguardian.com/food/article/2024/may/18/yotam-ottolenghi-lebanese-recipes-lamb-pies-shish-barak-yoghurty-flatbreads-manakish #dinner
 - https://ottolenghi.co.uk/pages/recipes/lamb-siniyah #dinner
