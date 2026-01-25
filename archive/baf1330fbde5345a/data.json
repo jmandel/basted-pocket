@@ -1,0 +1,363 @@
+{
+  "id": "baf1330fbde5345a",
+  "original_url": "https://cooking.nytimes.com/recipes/767820396-salmon-with-mustard-piccata-sauce",
+  "canonical_url": "https://cooking.nytimes.com/recipes/767820396-salmon-with-mustard-piccata-sauce",
+  "fetched_title": "Salmon With Mustard Piccata Sauce Recipe",
+  "main_text_content": "Cabbage and salmon are a wonderful pairing, united here by a zippy buttery piccata sauce. This cabbage is roughly chopped, seasoned simply with salt and pepper, and lightly caramelized in a skillet, allowing its natural sweetness to shine through.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1027227-mustardy-sheet-pan-salmon-with-greens\"><figure class=\"tersecard_imageBlock__77puv\"><img src=\"https://static01.nyt.com/images/2025/08/14/multimedia/sew-baked-salmon-and-spinach-bhlp/sew-baked-salmon-and-spinach-bhlp-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2025/08/14/multimedia/sew-baked-salmon-and-spinach-bhlp/sew-baked-salmon-and-spinach-bhlp-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/08/14/multimedia/sew-baked-salmon-and-spinach-bhlp/sew-baked-salmon-and-spinach-bhlp-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/08/14/multimedia/sew-baked-salmon-and-spinach-bhlp/sew-baked-salmon-and-spinach-bhlp-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/08/14/multimedia/sew-baked-salmon-and-spinach-bhlp/sew-baked-salmon-and-spinach-bhlp-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/08/14/multimedia/sew-baked-salmon-and-spinach-bhlp/sew-baked-salmon-and-spinach-bhlp-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/08/14/multimedia/sew-baked-salmon-and-spinach-bhlp/sew-baked-salmon-and-spinach-bhlp-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/08/14/multimedia/sew-baked-salmon-and-spinach-bhlp/sew-baked-salmon-and-spinach-bhlp-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" sizes=\"100%\" loading=\"lazy\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Mustardy Sheet-Pan Salmon With Greens </p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Sohla El-Waylly</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-facebookJumbo.jpg",
+  "local_image_path": "archive/baf1330fbde5345a/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@id": "urn:nyt:ScoopRecipe:f63ed0626b2e596ab32e80805af66e78",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 16,
+        "ratingValue": 5
+      },
+      "author": {
+        "@id": "nyt://person/cef42833-80ea-5bc1-a490-4cd46eda642c",
+        "@type": "Person",
+        "name": "Kay Chun",
+        "sameAs": "https://www.nytimes.com/by/kay-chun",
+        "url": "https://cooking.nytimes.com/author/kay-chun"
+      },
+      "cookTime": "PT0H20M",
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2026,
+      "dateModified": "2026-01-15T17:56:00.73Z",
+      "datePublished": "2026-01-15T17:53:54.326872Z",
+      "description": "Cabbage and salmon are a wonderful pairing, united here by a zippy buttery piccata sauce. This cabbage is roughly chopped, seasoned simply with salt and pepper, and lightly caramelized in a skillet, allowing its natural sweetness to shine through. Salmon is steamed right on top of the cabbage until tender and flaky for an effortless and elegant one-skillet meal. Spiked with English mustard for extra heat (Dijon is a good alternative), the bright and tangy sauce complements both the fish and cabbage and emboldens the entire dish.",
+      "image": [
+        {
+          "@id": "nyt://image/b20f38e0-a993-5670-83fc-cd956f05c19d#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-01-15T17:32:16.991Z",
+          "datePublished": "2026-01-15T17:32:16.991Z",
+          "height": "900",
+          "uploadDate": "2026-01-15T17:32:16.991Z",
+          "url": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/b20f38e0-a993-5670-83fc-cd956f05c19d#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-googleFourByThree.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-01-15T17:32:16.991Z",
+          "datePublished": "2026-01-15T17:32:16.991Z",
+          "height": "600",
+          "uploadDate": "2026-01-15T17:32:16.991Z",
+          "url": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/b20f38e0-a993-5670-83fc-cd956f05c19d#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-mediumSquareAt3X.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-01-15T17:32:16.991Z",
+          "datePublished": "2026-01-15T17:32:16.991Z",
+          "height": "1800",
+          "uploadDate": "2026-01-15T17:32:16.991Z",
+          "url": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/b20f38e0-a993-5670-83fc-cd956f05c19d#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-facebookJumbo.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-01-15T17:32:16.991Z",
+          "datePublished": "2026-01-15T17:32:16.991Z",
+          "height": "550",
+          "uploadDate": "2026-01-15T17:32:16.991Z",
+          "url": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "keywords": "Napa Cabbage, Salmon Fillet, Mustard, Caper, Quick, Skillet, One Pot, Weeknight, Easy, Stovetop",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/767820396-salmon-with-mustard-piccata-sauce",
+        "@type": "WebPage",
+        "name": "Salmon With Mustard Piccata Sauce"
+      },
+      "name": "Salmon With Mustard Piccata Sauce",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "531.2 kcals",
+        "carbohydrateContent": "8.7 grams",
+        "cholesterolContent": "124.1 milligrams",
+        "fatContent": "38.3 grams",
+        "fiberContent": "2.2 grams",
+        "proteinContent": "37.9 grams",
+        "saturatedFatContent": "12.9 grams",
+        "sodiumContent": "819.7 milligrams",
+        "sugarContent": "1.9 grams",
+        "unsaturatedFatContent": "7.6 grams"
+      },
+      "prepTime": "PT0H10M",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "recipeCategory": "Seafood, Lunch, Dinner, Main Course",
+      "recipeIngredient": [
+        "4 tablespoons unsalted butter, divided ",
+        "1 garlic clove, minced ",
+        "1 ¼ pounds napa cabbage, coarsely chopped into 1 ½- to 2-inch pieces (about 8 cups)  ",
+        "Salt and pepper ",
+        "1 ½ pounds skinless center-cut salmon fillet, cut into 1- to 1 ½-inch pieces ",
+        "1 tablespoon extra-virgin olive oil ",
+        "2 tablespoons hot English mustard (or Dijon, to taste) ",
+        "2 tablespoons capers ",
+        "1 tablespoon lemon juice ",
+        "1 tablespoon chopped chives, plus more for garnish (optional) ",
+        "Orzo or basmati rice, for serving "
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a 12-inch nonstick skillet with a lid, melt 2 tablespoons of the butter over medium. Add garlic and stir until fragrant, 30 seconds. Add cabbage, season with salt and pepper, and stir to coat. Spread cabbage in an even layer and increase heat to medium-high. Cook, undisturbed, until golden in spots underneath, 3 minutes. Give the mixture a stir, then cook again, undisturbed, for 2 minutes longer.",
+          "url": "https://cooking.nytimes.com/recipes/767820396-salmon-with-mustard-piccata-sauce#recipe-step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Season salmon pieces with salt and pepper, drizzle with oil and toss to evenly coat. Arrange fish on top of cabbage in a single layer, cover and reduce heat to low. Cook just until cabbage is golden and tender and fish is cooked to medium, 5 to 7 minutes. Divide cabbage and salmon among 4 plates.",
+          "url": "https://cooking.nytimes.com/recipes/767820396-salmon-with-mustard-piccata-sauce#recipe-step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add ½ cup of water to the skillet and bring to a simmer over medium, stirring to lift up any browned bits on the bottom of the pan. Cook until liquid is slightly reduced, about 2 minutes. Add mustard, capers, lemon juice and the remaining 2 tablespoons butter and whisk until smooth and slightly thickened, 1 to 2 minutes longer. Stir in chives.",
+          "url": "https://cooking.nytimes.com/recipes/767820396-salmon-with-mustard-piccata-sauce#recipe-step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Spoon mustard piccata sauce over the salmon and cabbage and top with more chives, if desired. Serve with orzo or rice on the side.",
+          "url": "https://cooking.nytimes.com/recipes/767820396-salmon-with-mustard-piccata-sauce#recipe-step-4"
+        },
+        {
+          "@type": "HowToSection"
+        }
+      ],
+      "recipeYield": "4 servings",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vivek"
+          },
+          "datePublished": "2026-01-21T18:22:34.000Z",
+          "reviewBody": "Substitute olive oil in step 1 for the cabbage cooking. Keep the butter for the sauce step (step 3)"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DCNative"
+          },
+          "datePublished": "2026-01-21T12:04:35.000Z",
+          "reviewBody": "Any way to make this with less butter?  This is a Tablespoon per person."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Catherine"
+          },
+          "datePublished": "2026-01-20T15:57:00.000Z",
+          "reviewBody": "Very tasty! Made as written, except I only used 2 salmon fillets (as I was cooking for two people). There was more sauce than needed for 2 fillets, but the amount of cabbage was just right. If making for 4 people, I’d double the cabbage and add maybe just 1 more tablespoon of butter."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Catherine"
+          },
+          "datePublished": "2026-01-20T15:57:00.000Z",
+          "reviewBody": "Very tasty! Made as written, except I only used 2 salmon fillets (as I was cooking for two people). There was more sauce than needed for 2 fillets, but the amount of cabbage was just right. If making for 4 people, I’d double the cabbage and add maybe just 1 more tablespoon of butter."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vivek"
+          },
+          "datePublished": "2026-01-21T18:22:34.000Z",
+          "reviewBody": "Substitute olive oil in step 1 for the cabbage cooking. Keep the butter for the sauce step (step 3)"
+        }
+      ],
+      "totalTime": "PT0H30M",
+      "url": "https://cooking.nytimes.com/recipes/767820396-salmon-with-mustard-piccata-sauce"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/767820396-salmon-with-mustard-piccata-sauce",
+      "@type": "WebPage",
+      "author": {
+        "@id": "nyt://person/cef42833-80ea-5bc1-a490-4cd46eda642c",
+        "@type": "Person",
+        "name": "Kay Chun",
+        "sameAs": "https://www.nytimes.com/by/kay-chun",
+        "url": "https://cooking.nytimes.com/author/kay-chun"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2026,
+      "dateModified": "2026-01-15T17:56:00.73Z",
+      "datePublished": "2026-01-15T17:53:54.326872Z",
+      "description": "Cabbage and salmon are a wonderful pairing, united here by a zippy buttery piccata sauce. This cabbage is roughly chopped, seasoned simply with salt and pepper, and lightly caramelized in a skillet, allowing its natural sweetness to shine through. Salmon is steamed right on top of the cabbage until tender and flaky for an effortless and elegant one-skillet meal. Spiked with English mustard for extra heat (Dijon is a good alternative), the bright and tangy sauce complements both the fish and cabbage and emboldens the entire dish.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "image": [
+        {
+          "@id": "nyt://image/b20f38e0-a993-5670-83fc-cd956f05c19d#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-01-15T17:32:16.991Z",
+          "datePublished": "2026-01-15T17:32:16.991Z",
+          "height": "900",
+          "uploadDate": "2026-01-15T17:32:16.991Z",
+          "url": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/b20f38e0-a993-5670-83fc-cd956f05c19d#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-googleFourByThree.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-01-15T17:32:16.991Z",
+          "datePublished": "2026-01-15T17:32:16.991Z",
+          "height": "600",
+          "uploadDate": "2026-01-15T17:32:16.991Z",
+          "url": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/b20f38e0-a993-5670-83fc-cd956f05c19d#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-mediumSquareAt3X.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-01-15T17:32:16.991Z",
+          "datePublished": "2026-01-15T17:32:16.991Z",
+          "height": "1800",
+          "uploadDate": "2026-01-15T17:32:16.991Z",
+          "url": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/b20f38e0-a993-5670-83fc-cd956f05c19d#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-facebookJumbo.jpg",
+          "creditText": "Kerri Brewer for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-01-15T17:32:16.991Z",
+          "datePublished": "2026-01-15T17:32:16.991Z",
+          "height": "550",
+          "uploadDate": "2026-01-15T17:32:16.991Z",
+          "url": "https://static01.nyt.com/images/2026/01/16/multimedia/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt/KC-Salmon-With-Mustard-Piccata-Sauce-lzjt-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Salmon With Mustard Piccata Sauce",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/767820396-salmon-with-mustard-piccata-sauce"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-01-25T23:35:16.091Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
