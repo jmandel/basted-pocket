@@ -1,0 +1,415 @@
+{
+  "id": "93646ef9fc6ea1e3",
+  "original_url": "https://cooking.nytimes.com/recipes/768413295-chickpeas-al-limone-with-burrata",
+  "canonical_url": "https://cooking.nytimes.com/recipes/768413295-chickpeas-al-limone-with-burrata",
+  "fetched_title": "Chickpeas al Limone With Burrata Recipe",
+  "main_text_content": "Inspired by the jaunty pasta dish, spaghetti al limone, here’s a new way to make a memorable meal from humble cans of chickpeas; just add lemon, olive oil and Parmesan. The chickpeas are braised in their own sweet and nutty brine, also known as aquafaba, which becomes thick and silky as it cooks down.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/767626083-balilah-warm-chickpeas-with-lemon-and-olive-oil\"><figure class=\"tersecard_imageBlock__77puv\"><img src=\"https://static01.nyt.com/images/2026/01/06/multimedia/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2026/01/06/multimedia/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2026/01/06/multimedia/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2026/01/06/multimedia/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2026/01/06/multimedia/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2026/01/06/multimedia/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2026/01/06/multimedia/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2026/01/06/multimedia/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk/NM-Balilah-Warm-Chickpeas-With-Lemon-and-Garlic--qzbk-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" sizes=\"100%\" loading=\"lazy\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Balilah (Warm Chickpeas With Lemon and Olive Oil)</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Noor Murad</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-facebookJumbo.jpg",
+  "local_image_path": "archive/93646ef9fc6ea1e3/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@id": "urn:nyt:ScoopRecipe:cf2db963b21f5da79be656fd0ad2a4c8",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 54,
+        "ratingValue": 5
+      },
+      "author": {
+        "@id": "nyt://person/4b456a99-46c9-5268-a56f-1ecf40bbc234",
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon",
+        "sameAs": "https://www.nytimes.com/by/hetty-lui-mckinnon",
+        "url": "https://cooking.nytimes.com/author/hetty-lui-mckinnon"
+      },
+      "cookTime": "PT0H15M",
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2026,
+      "dateModified": "2026-01-20T20:39:53.843Z",
+      "datePublished": "2026-01-14T17:59:09.757267Z",
+      "description": "Inspired by the jaunty pasta dish, spaghetti al limone, here’s a new way to make a memorable meal from humble cans of chickpeas; just add lemon, olive oil and Parmesan. The chickpeas are braised in their own sweet and nutty brine, also known as aquafaba, which becomes thick and silky as it cooks down. Much like starchy pasta cooking water, the aquafaba helps the lemon juice and oil emulsify into a silky sauce. Burrata adds another touch of richness and creaminess to this already elegant dish, but you could easily swap a jammy egg in its stead. Eat these beans with bread, to mop up the lemony sauce.",
+      "image": [
+        {
+          "@id": "nyt://image/a1b62ba3-9c1a-58f9-ad88-132b0f4f6bfc#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2026-01-12T19:02:18.143Z",
+          "datePublished": "2026-01-12T19:02:18.143Z",
+          "height": "900",
+          "uploadDate": "2026-01-12T19:02:18.143Z",
+          "url": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a1b62ba3-9c1a-58f9-ad88-132b0f4f6bfc#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-googleFourByThree.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2026-01-12T19:02:18.143Z",
+          "datePublished": "2026-01-12T19:02:18.143Z",
+          "height": "600",
+          "uploadDate": "2026-01-12T19:02:18.143Z",
+          "url": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/a1b62ba3-9c1a-58f9-ad88-132b0f4f6bfc#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-mediumSquareAt3X.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2026-01-12T19:02:18.143Z",
+          "datePublished": "2026-01-12T19:02:18.143Z",
+          "height": "1800",
+          "uploadDate": "2026-01-12T19:02:18.143Z",
+          "url": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/a1b62ba3-9c1a-58f9-ad88-132b0f4f6bfc#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-facebookJumbo.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2026-01-12T19:02:18.143Z",
+          "datePublished": "2026-01-12T19:02:18.143Z",
+          "height": "550",
+          "uploadDate": "2026-01-12T19:02:18.143Z",
+          "url": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "keywords": "Chickpea, Lemon Juice, Lemon Zest, Burrata, Parmesan, Easy, Quick, Weeknight, Lemon (flav), Stovetop",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/768413295-chickpeas-al-limone-with-burrata",
+        "@type": "WebPage",
+        "name": "Chickpeas al Limone With Burrata"
+      },
+      "name": "Chickpeas al Limone With Burrata",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "958.5 kcals",
+        "carbohydrateContent": "84.8 grams",
+        "cholesterolContent": "70.1 milligrams",
+        "fatContent": "48 grams",
+        "fiberContent": "21.3 grams",
+        "proteinContent": "50.3 grams",
+        "saturatedFatContent": "16.5 grams",
+        "sodiumContent": "1590.3 milligrams",
+        "sugarContent": "14 grams",
+        "unsaturatedFatContent": "5.7 grams"
+      },
+      "prepTime": "PT0H10M",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "recipeCategory": "Stew, Appetizer, Small Plate, Main Course, Beans, Lunch, Dinner",
+      "recipeCuisine": "Italian Inspired",
+      "recipeIngredient": [
+        "5 tablespoons extra-virgin olive oil, divided, plus more for drizzling  ",
+        "2 garlic cloves, finely chopped ",
+        "3 (15-ounce) cans chickpeas, undrained ",
+        "1 tablespoon lemon zest (from 1 large or 2 small lemons) ",
+        "¼ cup lemon juice (from 1 large or 2 small lemons) ",
+        "1 cup finely grated Parmesan, plus more for topping ",
+        "Salt and pepper ",
+        "8 ounces burrata, drained ",
+        "Handful basil leaves ",
+        "Sourdough or baguette, for serving "
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat a deep, medium skillet or pot over medium-high. When hot, drizzle with 1 tablespoon of olive oil; add the garlic and cook until fragrant, 15 to 30 seconds. Stir in the chickpeas and their brine, then bring to the boil. Let the brine bubble rapidly until it has reduced and thickened, 8 to 10 minutes. Reduce heat to low, add the lemon zest and stir for 1 minute.",
+          "url": "https://cooking.nytimes.com/recipes/768413295-chickpeas-al-limone-with-burrata#recipe-step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, to a large bowl, add the lemon juice, Parmesan and the remaining ¼ cup of olive oil.",
+          "url": "https://cooking.nytimes.com/recipes/768413295-chickpeas-al-limone-with-burrata#recipe-step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the chickpeas and the reduced brine to the Parmesan-lemon mixture and stir continuously until the cheese has melted and the sauce is thick but still loose. Taste and season with salt and pepper.",
+          "url": "https://cooking.nytimes.com/recipes/768413295-chickpeas-al-limone-with-burrata#recipe-step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, divide among bowls and drizzle with more olive oil. Tear the burrata over the top and sprinkle with the basil leaves and more Parmesan. Serve with bread.",
+          "url": "https://cooking.nytimes.com/recipes/768413295-chickpeas-al-limone-with-burrata#recipe-step-4"
+        }
+      ],
+      "recipeYield": "4 servings",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Marianne"
+          },
+          "datePublished": "2026-01-25T04:19:30.000Z",
+          "reviewBody": "This is now a part of my life!  I never would have thought to use the aquafaba and lemon together.  I mashed some of the peas for a creamy, dreamy texture, and now I have a new addition to my comfort food repertoire.  Thank you!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mt"
+          },
+          "datePublished": "2026-01-24T18:07:08.000Z",
+          "reviewBody": "Easy and delicious! We didn’t have burrata and it was still great."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LN"
+          },
+          "datePublished": "2026-01-21T23:10:20.000Z",
+          "reviewBody": "Wonderful recipe!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alara"
+          },
+          "datePublished": "2026-01-21T15:30:33.000Z",
+          "reviewBody": "Made this two nights in a row, so easy and delicious. Was a bit scared of the n'ow add the remaining ¼ cup of olive oil' part as the pan already had enough oil so just eye balled 1-2 table spoons. Didn't measure parmesan either just went according to taste and it was absolutely delicious. Had ours with salmon but you do need something to mop it up with, enjoy!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dr. Eggplant"
+          },
+          "datePublished": "2026-01-20T23:46:00.000Z",
+          "reviewBody": "I wouldn’t usually use the aquafaba from a tin of chickpeas, but came home frazzled from a tough day and needed something quick and comforting.   This really fit the bill, uses pantry staples and comes together very quickly.  I didn’t have buratta and didn’t miss it but found the basil essential.If you don’t add any extra salt, I think the sodium isn’t a whole lot different than many other recipes. I skipped using a bowl, just adding the Parmesan, lemon and olive oil to the pot. Will make again!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ilona"
+          },
+          "datePublished": "2026-01-20T04:46:50.000Z",
+          "reviewBody": "Heavenly. I didn't have burrata so used fresh mozzarella and that worked just fine."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jacqueline"
+          },
+          "datePublished": "2026-01-16T19:09:46.000Z",
+          "reviewBody": "Lovely flavours!  I mashed half of the chickpeas because I like the texture mix but otherwise made it exactly as written."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dr. Eggplant"
+          },
+          "datePublished": "2026-01-20T23:46:00.000Z",
+          "reviewBody": "I wouldn’t usually use the aquafaba from a tin of chickpeas, but came home frazzled from a tough day and needed something quick and comforting.   This really fit the bill, uses pantry staples and comes together very quickly.  I didn’t have buratta and didn’t miss it but found the basil essential.If you don’t add any extra salt, I think the sodium isn’t a whole lot different than many other recipes. I skipped using a bowl, just adding the Parmesan, lemon and olive oil to the pot. Will make again!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jacqueline"
+          },
+          "datePublished": "2026-01-16T19:09:46.000Z",
+          "reviewBody": "Lovely flavours!  I mashed half of the chickpeas because I like the texture mix but otherwise made it exactly as written."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ilona"
+          },
+          "datePublished": "2026-01-20T04:46:50.000Z",
+          "reviewBody": "Heavenly. I didn't have burrata so used fresh mozzarella and that worked just fine."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alara"
+          },
+          "datePublished": "2026-01-21T15:30:33.000Z",
+          "reviewBody": "Made this two nights in a row, so easy and delicious. Was a bit scared of the n'ow add the remaining ¼ cup of olive oil' part as the pan already had enough oil so just eye balled 1-2 table spoons. Didn't measure parmesan either just went according to taste and it was absolutely delicious. Had ours with salmon but you do need something to mop it up with, enjoy!"
+        }
+      ],
+      "suitableForDiet": "VegetarianDiet",
+      "totalTime": "PT0H25M",
+      "url": "https://cooking.nytimes.com/recipes/768413295-chickpeas-al-limone-with-burrata"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/768413295-chickpeas-al-limone-with-burrata",
+      "@type": "WebPage",
+      "author": {
+        "@id": "nyt://person/4b456a99-46c9-5268-a56f-1ecf40bbc234",
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon",
+        "sameAs": "https://www.nytimes.com/by/hetty-lui-mckinnon",
+        "url": "https://cooking.nytimes.com/author/hetty-lui-mckinnon"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2026,
+      "dateModified": "2026-01-20T20:39:53.843Z",
+      "datePublished": "2026-01-14T17:59:09.757267Z",
+      "description": "Inspired by the jaunty pasta dish, spaghetti al limone, here’s a new way to make a memorable meal from humble cans of chickpeas; just add lemon, olive oil and Parmesan. The chickpeas are braised in their own sweet and nutty brine, also known as aquafaba, which becomes thick and silky as it cooks down. Much like starchy pasta cooking water, the aquafaba helps the lemon juice and oil emulsify into a silky sauce. Burrata adds another touch of richness and creaminess to this already elegant dish, but you could easily swap a jammy egg in its stead. Eat these beans with bread, to mop up the lemony sauce.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "image": [
+        {
+          "@id": "nyt://image/a1b62ba3-9c1a-58f9-ad88-132b0f4f6bfc#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2026-01-12T19:02:18.143Z",
+          "datePublished": "2026-01-12T19:02:18.143Z",
+          "height": "900",
+          "uploadDate": "2026-01-12T19:02:18.143Z",
+          "url": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a1b62ba3-9c1a-58f9-ad88-132b0f4f6bfc#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-googleFourByThree.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2026-01-12T19:02:18.143Z",
+          "datePublished": "2026-01-12T19:02:18.143Z",
+          "height": "600",
+          "uploadDate": "2026-01-12T19:02:18.143Z",
+          "url": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/a1b62ba3-9c1a-58f9-ad88-132b0f4f6bfc#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-mediumSquareAt3X.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2026-01-12T19:02:18.143Z",
+          "datePublished": "2026-01-12T19:02:18.143Z",
+          "height": "1800",
+          "uploadDate": "2026-01-12T19:02:18.143Z",
+          "url": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/a1b62ba3-9c1a-58f9-ad88-132b0f4f6bfc#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-facebookJumbo.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Brett Regot.",
+          "dateModified": "2026-01-12T19:02:18.143Z",
+          "datePublished": "2026-01-12T19:02:18.143Z",
+          "height": "550",
+          "uploadDate": "2026-01-12T19:02:18.143Z",
+          "url": "https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Chickpeas al Limone With Burrata",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/768413295-chickpeas-al-limone-with-burrata"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-01-25T18:36:58.412Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
