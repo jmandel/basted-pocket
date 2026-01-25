@@ -1,0 +1,603 @@
+{
+  "id": "989ea42eb590a78b",
+  "original_url": "https://cooking.nytimes.com/recipes/1023253-egg-in-a-hole-with-asparagus",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1023253-egg-in-a-hole-with-asparagus",
+  "fetched_title": "Egg-in-a-Hole With Asparagus Recipe",
+  "main_text_content": "What would you get if you crossed savory Parmesan French toast with egg-in-a-hole and served it beneath a pile of roasted asparagus An easy, vegetable-focused brunch or light dinner that you can make on a single sheet pan The key here is to use wide slices of bread large enough to hold two eggs each: Choose slices from the middle of the loaf",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1017302-roasted-asparagus-frittata\"><figure class=\"tersecard_imageBlock__77puv\"><img src=\"https://static01.nyt.com/images/2021/04/13/dining/JPSPRING4/JPSPRING4-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2021/04/13/dining/JPSPRING4/JPSPRING4-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2021/04/13/dining/JPSPRING4/JPSPRING4-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2021/04/13/dining/JPSPRING4/JPSPRING4-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2021/04/13/dining/JPSPRING4/JPSPRING4-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2021/04/13/dining/JPSPRING4/JPSPRING4-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" sizes=\"100%\" loading=\"lazy\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Roasted Asparagus Frittata</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Mark Bittman</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/merlin_207907752_e2bd6a86-652c-4a2b-8eed-cef42d84b905-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/989ea42eb590a78b/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/9180a02e-cad0-57df-a110-be9cd9cbc892",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1023253-egg-in-a-hole-with-asparagus",
+        "@type": "WebPage",
+        "name": "Egg-in-a-Hole With Asparagus"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023253-egg-in-a-hole-with-asparagus",
+      "name": "Egg-in-a-Hole With Asparagus",
+      "description": "What would you get if you crossed savory Parmesan French toast with egg-in-a-hole and served it beneath a pile of roasted asparagus? An easy, vegetable-focused brunch or light dinner that you can make on a single sheet pan. The key here is to use wide slices of bread large enough to hold two eggs each: Choose slices from the middle of the loaf. (If your bread slices are smaller, just use one egg in each.) Feel free to substitute other quick-roasting vegetables for the asparagus. Broccoli florets, halved cherry tomatoes or brussels sprouts, or sliced mushrooms will all work equally well. And if you want to double the recipe, use two sheet pans, arranging the bread on one and the asparagus on the other.",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/b20a5879-b6da-5a50-96a9-57420c2f1e98#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/merlin_207907752_e2bd6a86-652c-4a2b-8eed-cef42d84b905-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2022-06-03T16:18:56.162Z",
+          "datePublished": "2022-06-03T16:18:56.162Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-06-03T16:18:56.162Z",
+          "url": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/merlin_207907752_e2bd6a86-652c-4a2b-8eed-cef42d84b905-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/b20a5879-b6da-5a50-96a9-57420c2f1e98#threeByTwoLargeAt2X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/merlin_207907752_e2bd6a86-652c-4a2b-8eed-cef42d84b905-threeByTwoLargeAt2X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2022-06-03T16:18:56.162Z",
+          "datePublished": "2022-06-03T16:18:56.162Z",
+          "height": "4259",
+          "representativeOfPage": true,
+          "uploadDate": "2022-06-03T16:18:56.162Z",
+          "url": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/merlin_207907752_e2bd6a86-652c-4a2b-8eed-cef42d84b905-threeByTwoLargeAt2X.jpg",
+          "width": "6388"
+        },
+        {
+          "@id": "nyt://image/b20a5879-b6da-5a50-96a9-57420c2f1e98#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/03apperex-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2022-06-03T16:18:56.162Z",
+          "datePublished": "2022-06-03T16:18:56.162Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-06-03T16:18:56.162Z",
+          "url": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/03apperex-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/b20a5879-b6da-5a50-96a9-57420c2f1e98#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/merlin_207907752_e2bd6a86-652c-4a2b-8eed-cef42d84b905-facebookJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2022-06-03T16:18:56.162Z",
+          "datePublished": "2022-06-03T16:18:56.162Z",
+          "height": "549",
+          "representativeOfPage": true,
+          "uploadDate": "2022-06-03T16:18:56.162Z",
+          "url": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/merlin_207907752_e2bd6a86-652c-4a2b-8eed-cef42d84b905-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "totalTime": "PT30M",
+      "recipeYield": "2 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "breakfast, brunch, vegetables, main course",
+      "keywords": "asparagus, egg, parmesan, spring",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 429
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 591,
+        "unsaturatedFatContent": "20 grams",
+        "carbohydrateContent": "25 grams",
+        "cholesterolContent": null,
+        "fatContent": "40 grams",
+        "fiberContent": "5 grams",
+        "proteinContent": "33 grams",
+        "saturatedFatContent": "17 grams",
+        "sodiumContent": "892 milligrams",
+        "sugarContent": "7 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2 tablespoons unsalted butter, melted and cooled",
+        "5 large eggs",
+        "1/3 cup whole milk",
+        "1/4 cup plus 2 tablespoons grated Parmesan",
+        "Salt and freshly ground black pepper",
+        "2 wide slices sturdy country white bread, such as sourdough or peasant bread (preferably from the middle of the loaf)",
+        "8 ounces asparagus, trimmed",
+        "3 scallions, thinly sliced",
+        "3 fresh thyme sprigs",
+        "1 tablespoon extra-virgin olive oil"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat oven to 425 degrees. Grease a rimmed sheet pan with 1 tablespoon melted butter."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large, shallow dish, whisk together 1 egg, milk, 1/4 cup Parmesan, a large pinch of salt and pepper, and the remaining tablespoon melted butter. Add bread and let soak for about 2 minutes per side. The bread should be soft and soaked through, but not falling apart."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Arrange soaked bread on one side of the prepared sheet pan. Pour any remaining soaking mixture from bowl onto the bread slices. Using a cookie cutter or a knife, carefully cut 2 (2 1/2-inch) holes in each slice of soaked bread, making 4 holes in total. Place the cut-out rounds alongside the bread slices on the pan."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "On the other side of the sheet pan, add the asparagus, half of the scallions (save the rest for garnish), thyme and a large pinch of salt and pepper. Drizzle asparagus with olive oil, tossing well, and spread into an even single layer."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake until bread is golden on top, 10 minutes. If the asparagus is tender and browned after 10 minutes, use tongs to transfer the stalks to a plate and tent with foil to keep warm. Thick asparagus may need more time, in which case leave it in the pan for the next step."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Using a spatula, flip the bread slices and cut-outs. Crack the remaining 4 eggs into the holes (the eggs may overflow a bit, and that is OK). Season eggs lightly with salt and pepper. Sprinkle remaining 2 tablespoons Parmesan on top of eggs and bread."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Return pan to the oven and bake until eggs are barely set, about 5 to 7 minutes. The yolks and even some of the whites should jiggle slightly. (Note that the eggs will continue to cook on the sheet pan once out of the oven, so if you like runny yolks, err on the side of early removal.) However, if the egg whites are still translucent, bake for another minute or two."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To serve, place egg toasts on plates, top each toast with half the asparagus (discarding the thyme sprigs) and garnish with reserved scallions."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2022-06-03T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christie Todd"
+          },
+          "reviewBody": "@LaJo exactly what i was thinking! I have some from Whole Foods that needs using as well speak!",
+          "datePublished": "2026-01-24T17:35:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shereen"
+          },
+          "reviewBody": "Used shelf stable sourdough from Costco so I could cut the slices thicker. Forgot to bake first and flip before adding the egg. Benefit of that error - baked for 20 minutes and egg was not runny, perfect for the fussy teen. Negative - some of the bread (made plain without egg in the middle) was stuck on the parchment paper at the 10 min point when flipped.",
+          "datePublished": "2026-01-23T00:24:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maria"
+          },
+          "reviewBody": "Spread the rounds with cream cheese or the like and top with berries or marmelade to contrast the savory eggs and asparagus",
+          "datePublished": "2026-01-22T21:46:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Thomas"
+          },
+          "reviewBody": "This was great! The butter on the baking sheet (which was admittedly covered in foil) was not sufficient in standing up to the batter but did slightly better with the eggs. I substituted ramps for the scallions as it's that time of year and I already had them. We really enjoyed it!",
+          "datePublished": "2025-04-25T00:47:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rika"
+          },
+          "reviewBody": "This version sounds delicious. We called grilled bread with an egg fried in the cut out hole “doggy-in-the-window.” Asparagus season is upon us. Looking forward to a lovely brunch.",
+          "datePublished": "2025-04-11T20:49:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "leeb"
+          },
+          "reviewBody": "This was SO amazing with hollandaise sauce drizzled all over it!",
+          "datePublished": "2025-03-15T17:13:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LaJo"
+          },
+          "reviewBody": "I used a crusty rosemary bread for this - perfect!",
+          "datePublished": "2024-06-03T02:18:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mart"
+          },
+          "reviewBody": "Loved this recipe for a brunch! Made it as described on rice with soft poached egg.",
+          "datePublished": "2024-05-14T21:54:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Veronica"
+          },
+          "reviewBody": "Or you can make softboiled eggs and save yourself the hassel. Very cold eggs, a boiling pot of water and 7:30-8:00 mins will give you a nice runny center with a firm egg white. And they peel super easy",
+          "datePublished": "2024-04-14T00:53:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Louise Purfield-Coak"
+          },
+          "reviewBody": "I used Dave's Killer Bread. It is a multi grain and multi seed bread. It only had room for one hole. Otherwise I stuck to the recipe. I used the upper middle rack in my oven, and it got slightly scorched at the edges. I also timed the later step with egg at six minutes. The eggs were way overcooked. The yolks was hard even though I immediately removed each piece of bread from the sheet pan. Next time I will set my oven for a slightly lower temp. and take it out at 3 minutes. The flavor was good.",
+          "datePublished": "2024-03-29T03:24:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MGRemus"
+          },
+          "reviewBody": "We call them \"bull's eyes\" and would never use an oven.  A frying pan works great with asparagus cooked on the side.  On the other hand, why the asparagus?",
+          "datePublished": "2023-06-13T03:19:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "I make, love Asparagus on Toast - Toast (yummy egg challah from LA Bakery), Roasted Asparagus (just olive oil), Pierre Franey's Asparagus w/Sieved Egg recipe (the sieved egg part), delicious!",
+          "datePublished": "2023-06-12T01:03:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chef Pierre"
+          },
+          "reviewBody": "Or simply butter the bread slices, cut out the hole, place them & some butter in a skillet, break eggs into the holes, flip when brown - is delicious w/o all the extra effort...",
+          "datePublished": "2023-06-12T07:12:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NJ baker"
+          },
+          "reviewBody": "Brunch for one: While reading this recipe I had some roasted asparagus to use up and two pieces of country white bread. And was hungry. Funny how that happens.\n\nSprinkled thyme on the asparagus and reheated it in toaster oven on foil it had been wrapped in while making the rest in an 8-inch cast-iron frying pan using a little butter and a little olive oil. Could have fit 2 eggs in each slice of bread, but used one each, cutting the holes with a small juice glass. Tight fit, but it worked. Nice!",
+          "datePublished": "2023-06-10T20:03:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JeanieDiva"
+          },
+          "reviewBody": "There's a wonderful scene near the end of the movie \"Moonstruck\" when Olympia Dukakis and Cher are having breakfast and they make a version of this recipe. I remember seeing it and thinking \"Gee, other people do this, too!\" (: )",
+          "datePublished": "2023-01-08T08:18:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "mjan"
+          },
+          "reviewBody": "Cover a sheet pan or cookie sheet with parchment paper, and then \"grease\" it with olive oil or butter.  Makes clean up a breeze and gets the same results.",
+          "datePublished": "2022-06-04T12:31:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Todd"
+          },
+          "reviewBody": "I've been making a version of this for years. I suggest using a well-seasoned cast iron pan. Add a generous amount of olive oil to the hot pan, place hole-y bread, crack in egg, grate fresh parm over, flip when melted, parm the other side. remove when eggs are fully set. You will have a wonderful, slightly browned, parm crust and velvety eggs.",
+          "datePublished": "2022-06-08T13:26:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lbswink"
+          },
+          "reviewBody": "I think I would par boil the asparagus.  I never seem to have much luck with simply putting them in the oven.  They are a bit crunchier than I like--but that's just me...",
+          "datePublished": "2022-06-04T01:21:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary from Terry, MS"
+          },
+          "reviewBody": "I don't like crunchy asparagus, either.   My trick is to place the asparagus on top of a piece of aluminum foil, positioned so that I can fold a couple of inches of foil over the asparagus tips to prevent them from charring while the uncovered stalks continue to cook till tender.",
+          "datePublished": "2022-06-04T11:55:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jonathan Frishtick"
+          },
+          "reviewBody": "At Camp Wel-Met, we called it Rocky Mountain Toast. Best made in a big frying pan over a bed of coals after sleeping out under the stars, in a lean-to we made.",
+          "datePublished": "2022-06-08T11:08:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joe"
+          },
+          "reviewBody": "I've made Nigella's toast a few times on the stove top using a non-stick pan, and it worked fine. Firing up the oven for just toast and eggs seems like using a fire hose to wash a dish. I'm sure this would work fine on the stove top and use a lot less energy.",
+          "datePublished": "2022-06-06T04:42:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "April in MT"
+          },
+          "reviewBody": "Terrific recipe, loved it for the oven vs stovetop. I used parchment on baking sheet and skipped the butter.  Might add some next time for flavor.  Used leftover kalamata bread.  Essentially no clean up. Will be a go to recipe for hosting many for brunch.",
+          "datePublished": "2022-06-05T16:44:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brandi"
+          },
+          "reviewBody": "I abhor runny eggs. I don’t begrudge anyone else their preference, but the thought of putting uncooked egg in my mouth makes me gag. They don’t have to be cremated, just cooked through. Any suggestions on timing for getting the eggs completely cooked? I’d really like to try this & I know hubs would dig it.",
+          "datePublished": "2022-06-08T19:04:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chef Annie"
+          },
+          "reviewBody": "I use the very skinny stalks of fresh springtime asparagus -- with the tough bottoms trimmed off and drizzled with olive oil, salt, pepper, garlic etc. It cooks very quickly in the oven and is my favorite seasonal vegetable. I've never liked the big fat stalks. Too stringy.",
+          "datePublished": "2022-06-09T22:56:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Andie"
+          },
+          "reviewBody": "We called ‘em Wyatt eggs, ‘cause that’s the name of the woman who taught my mom to make them. Cut the center out of the bread with a juice glass. Butter both sides of bread and “hole”, place all in hot skillet, put egg in cutout, and fry, flipping once. If the yolk breaks, so much the better, but if it doesn’t, lots of good dipping!",
+          "datePublished": "2022-06-04T23:36:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dee"
+          },
+          "reviewBody": "I look forward to trying this new spin on a family favourite - we call them “toad in the hole” in this part of Canada. I will likely use a smaller piece of the loaf and have a single egg per slice because I like to flip the egg. To cut the hole I use any glass or cup that fits the day’s bread shape - its bread you don’t need a fancy cutter!",
+          "datePublished": "2022-06-10T14:42:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melissa"
+          },
+          "reviewBody": "As a resident of Gulf Coast Texas, it is incomprehensible to me to turn my oven on to 425 as the temperature outside approaches 100.  I'm guessing this yummy recipe could easily be adapted to the stove-top.  I've been eating sauteed aparagus with fried eggs all this spring, so why not add savory french toast to that same big skillet?",
+          "datePublished": "2022-06-08T04:57:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Potstirrer"
+          },
+          "reviewBody": "Insanely delicious, perfect late night spring pantry meal (we returned home from a graduation at 9 and were starving!) I draped some prosciutto over the asparagus when I flipped everything because I had it on hand, and it made a nice crisp and salty addition. My only notes for next time are more parm in the batter and perhaps mustard? (Not sure about that but I am mustard partisan. Perhaps a plain green salad with a mustard vinaigrette on the side would do the trick.)",
+          "datePublished": "2022-06-09T17:55:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John Golden"
+          },
+          "reviewBody": "A lot of work and an OK DISH for a light supper. Great concept, which I found ho-hum. I used the best ingredients: farm eggs, just picked local asparagus and bread from a great bread bakery. I’m not sure what I’ve had done instead except not to make it again.",
+          "datePublished": "2022-06-08T10:08:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Louise Purfield-Coak"
+          },
+          "reviewBody": "I used Dave's Killer Bread. It is a multi grain and multi seed bread. It only had room for one hole. Otherwise I stuck to the recipe. I used the upper middle rack in my oven, and it got slightly scorched at the edges. I also timed the later step with egg at six minutes. The eggs were way overcooked. The yolks was hard even though I immediately removed each piece of bread from the sheet pan. Next time I will set my oven for a slightly lower temp. and take it out at 3 minutes. The flavor was good.",
+          "datePublished": "2024-03-29T03:24:45.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1023253-egg-in-a-hole-with-asparagus",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Melissa Clark"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2022,
+      "description": "What would you get if you crossed savory Parmesan French toast with egg-in-a-hole and served it beneath a pile of roasted asparagus? An easy, vegetable-focused brunch or light dinner that you can make on a single sheet pan. The key here is to use wide slices of bread large enough to hold two eggs each: Choose slices from the middle of the loaf. (If your bread slices are smaller, just use one egg in each.) Feel free to substitute other quick-roasting vegetables for the asparagus. Broccoli florets, halved cherry tomatoes or brussels sprouts, or sliced mushrooms will all work equally well. And if you want to double the recipe, use two sheet pans, arranging the bread on one and the asparagus on the other.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Egg-in-a-Hole With Asparagus",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/b20a5879-b6da-5a50-96a9-57420c2f1e98#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/merlin_207907752_e2bd6a86-652c-4a2b-8eed-cef42d84b905-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2022-06-03T16:18:56.162Z",
+          "datePublished": "2022-06-03T16:18:56.162Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2022-06-03T16:18:56.162Z",
+          "url": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/merlin_207907752_e2bd6a86-652c-4a2b-8eed-cef42d84b905-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/b20a5879-b6da-5a50-96a9-57420c2f1e98#threeByTwoLargeAt2X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/merlin_207907752_e2bd6a86-652c-4a2b-8eed-cef42d84b905-threeByTwoLargeAt2X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2022-06-03T16:18:56.162Z",
+          "datePublished": "2022-06-03T16:18:56.162Z",
+          "height": "4259",
+          "representativeOfPage": true,
+          "uploadDate": "2022-06-03T16:18:56.162Z",
+          "url": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/merlin_207907752_e2bd6a86-652c-4a2b-8eed-cef42d84b905-threeByTwoLargeAt2X.jpg",
+          "width": "6388"
+        },
+        {
+          "@id": "nyt://image/b20a5879-b6da-5a50-96a9-57420c2f1e98#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/03apperex-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2022-06-03T16:18:56.162Z",
+          "datePublished": "2022-06-03T16:18:56.162Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2022-06-03T16:18:56.162Z",
+          "url": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/03apperex-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/b20a5879-b6da-5a50-96a9-57420c2f1e98#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/merlin_207907752_e2bd6a86-652c-4a2b-8eed-cef42d84b905-facebookJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Monica Pierini.",
+          "dateModified": "2022-06-03T16:18:56.162Z",
+          "datePublished": "2022-06-03T16:18:56.162Z",
+          "height": "549",
+          "representativeOfPage": true,
+          "uploadDate": "2022-06-03T16:18:56.162Z",
+          "url": "https://static01.nyt.com/images/2022/06/08/dining/03apperex/merlin_207907752_e2bd6a86-652c-4a2b-8eed-cef42d84b905-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023253-egg-in-a-hole-with-asparagus"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-01-25T18:43:24.231Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
