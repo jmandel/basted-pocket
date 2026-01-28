@@ -1,0 +1,621 @@
+{
+  "id": "38b7a72f9a554139",
+  "original_url": "https://cooking.nytimes.com/recipes/1027650-chicken-vegetable-and-barley-soup",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1027650-chicken-vegetable-and-barley-soup",
+  "fetched_title": "Chicken, Vegetable and Barley Soup Recipe",
+  "main_text_content": "Homestyle Chinese soups, particularly Cantonese ones, distill the essence of bony meat and vegetables into subtle broths This take does the same, but instead of simmering a huge pot for hours, it uses proportionally less water and cooks in under an hour for a satisfying meal This method ensures that the broth is deeply flavorful, the meat still juicy and the vegetables and barley tender with an ideal bite",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026507-ginger-chicken-and-rice-soup-with-zucchini\"><figure class=\"tersecard_imageBlock__77puv\"><img src=\"https://static01.nyt.com/images/2025/06/03/multimedia/YA-Ginger-Chicken-Soup-With-Rice-zkvb/YA-Ginger-Chicken-Soup-With-Rice-zkvb-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2025/06/03/multimedia/YA-Ginger-Chicken-Soup-With-Rice-zkvb/YA-Ginger-Chicken-Soup-With-Rice-zkvb-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/06/03/multimedia/YA-Ginger-Chicken-Soup-With-Rice-zkvb/YA-Ginger-Chicken-Soup-With-Rice-zkvb-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/06/03/multimedia/YA-Ginger-Chicken-Soup-With-Rice-zkvb/YA-Ginger-Chicken-Soup-With-Rice-zkvb-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/06/03/multimedia/YA-Ginger-Chicken-Soup-With-Rice-zkvb/YA-Ginger-Chicken-Soup-With-Rice-zkvb-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/06/03/multimedia/YA-Ginger-Chicken-Soup-With-Rice-zkvb/YA-Ginger-Chicken-Soup-With-Rice-zkvb-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/06/03/multimedia/YA-Ginger-Chicken-Soup-With-Rice-zkvb/YA-Ginger-Chicken-Soup-With-Rice-zkvb-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/06/03/multimedia/YA-Ginger-Chicken-Soup-With-Rice-zkvb/YA-Ginger-Chicken-Soup-With-Rice-zkvb-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" sizes=\"100%\" loading=\"lazy\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Ginger Chicken and Rice Soup With Zucchini</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Yossy Arefi</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/38b7a72f9a554139/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/ce8dfc3c-d912-5cd1-ae36-b7e758b2ba71",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1027650-chicken-vegetable-and-barley-soup",
+        "@type": "WebPage",
+        "name": "Chicken, Vegetable and Barley Soup"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027650-chicken-vegetable-and-barley-soup",
+      "name": "Chicken, Vegetable and Barley Soup",
+      "description": "Homestyle Chinese soups, particularly Cantonese ones, distill the essence of bony meat and vegetables into subtle broths. This take does the same, but instead of simmering a huge pot for hours, it uses proportionally less water and cooks in under an hour for a satisfying meal. This method ensures that the broth is deeply flavorful, the meat still juicy and the vegetables and barley tender with an ideal bite. You can swap in other root vegetables for the carrots and other varieties of cabbage for the napa, but aim for options that end up naturally sweet when cooked. The resulting soup is warming with ginger and ideal for recovering from a cold, but if you prefer a punchier flavor, dress it up with bold condiments.",
+      "author": {
+        "@type": "Person",
+        "name": "Genevieve Ko"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/cf7743dd-e906-5dca-9915-b1dec1137813#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Genevieve Ko’s chicken, vegetable and barley soup looks to drumsticks to give its broth body.",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2026-01-28T04:42:13.773Z",
+          "datePublished": "2026-01-23T17:24:41.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2026-01-23T17:24:41.000Z",
+          "url": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/cf7743dd-e906-5dca-9915-b1dec1137813#googleFourByThree",
+          "@type": "ImageObject",
+          "caption": "Genevieve Ko’s chicken, vegetable and barley soup looks to drumsticks to give its broth body.",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2026-01-28T04:42:13.773Z",
+          "datePublished": "2026-01-23T17:24:41.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2026-01-23T17:24:41.000Z",
+          "url": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/cf7743dd-e906-5dca-9915-b1dec1137813#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "caption": "Genevieve Ko’s chicken, vegetable and barley soup looks to drumsticks to give its broth body.",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2026-01-28T04:42:13.773Z",
+          "datePublished": "2026-01-23T17:24:41.000Z",
+          "height": "1744",
+          "representativeOfPage": true,
+          "uploadDate": "2026-01-23T17:24:41.000Z",
+          "url": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-mediumSquareAt3X.jpg",
+          "width": "1744"
+        },
+        {
+          "@id": "nyt://image/cf7743dd-e906-5dca-9915-b1dec1137813#facebookJumbo",
+          "@type": "ImageObject",
+          "caption": "Genevieve Ko’s chicken, vegetable and barley soup looks to drumsticks to give its broth body.",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-facebookJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2026-01-28T04:42:13.773Z",
+          "datePublished": "2026-01-23T17:24:41.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2026-01-23T17:24:41.000Z",
+          "url": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "prepTime": "PT5M",
+      "cookTime": "PT40M",
+      "totalTime": "PT45M",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, one pot, main course",
+      "keywords": "chicken drumstick, chicken soup, freezer friendly, fresh ginger, great leftovers, make-ahead, napa cabbage, pearl barley, stovetop, dairy-free, winter",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 55
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 324,
+        "unsaturatedFatContent": "8 grams",
+        "carbohydrateContent": "26 grams",
+        "cholesterolContent": null,
+        "fatContent": "12 grams",
+        "fiberContent": "5 grams",
+        "proteinContent": "27 grams",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "499 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 (3- to 6-inch) piece fresh ginger, scrubbed or peeled",
+        "1 small yellow onion",
+        "2 carrots",
+        "4 chicken drumsticks (1 1/2 pounds; see Tips)",
+        "Salt and freshly ground black pepper",
+        "1/2 small napa cabbage",
+        "1/2 cup pearled barley (see Tips)",
+        "Lemon wedges, for serving",
+        "Soy sauce, sesame oil, chile oil, chile crisp, scallion sauce or other condiments (optional), for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bring 8 cups of water to a boil in a large saucepan. While the water comes to a boil, cut the ginger into 1/2-inch slices and gently smash. Cut the onion into a 1/2-inch dice. Peel the carrots and cut a 1/2-inch chunk at an angle. Roll the carrot a quarter turn and cut another chunk; repeat."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the ginger, then the chicken, to the boiling water and cook for 5 minutes over high, skimming and discarding any foam that rises to the surface. While the chicken boils, cut the cabbage in thirds lengthwise, then crosswise into 1-inch-thick ribbons."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the onion, carrots and a few pinches of salt to the saucepan. When the water returns to a boil, adjust the heat to maintain a steady simmer and cook until the carrot is bright orange and the onion is partly translucent, about 10 minutes. Skim the foam occasionally and discard."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Stir in the cabbage and barley, adjust the heat to maintain a steady simmer and cook until the barley and vegetables are tender, 10 to 15 minutes more. Skim and discard foam."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Transfer the drumsticks to a shallow dish (keep simmering the soup). Use tongs or 2 forks to remove and discard the chicken skin, then pull off the meat in large chunks. Return the meat to the soup. (If you’re not serving all the soup right away, return the bones too to keep enriching the broth and discard before serving.) The soup can be stored in an airtight container and refrigerated for up to 4 days or frozen for up to 1 month. The barley will swell and soften over time."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Season the soup to taste with salt and pepper. (It can take a lot of salt.) Divide the soup among bowls, discarding the ginger, and squeeze lemon juice on top right before serving. If desired, season with other condiments."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2026-01-23T00:00:00.000Z",
+      "dateModified": "2026-01-26T22:04:25.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cordelia"
+          },
+          "reviewBody": "Does anyone have suggestions for removing all the chicken bones after you have wanted their collagen and flavor to infuse a soup? Should they be kept in some kind of bouquet de Garni bag? It seems like my husband is always pulling a few small bones out of a soup I make with a full carcass",
+          "datePublished": "2026-01-28T15:40:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "S"
+          },
+          "reviewBody": "@Ron A. I thought it was a Japanese cut. I've never seen it from the Chinese (takeaway and internet recipes). But definitely from the Japanese's curry recipe. It's so it cooks more evenly or soaks up flavour better. It has a specific name that Google reminds me is called rangiri",
+          "datePublished": "2026-01-28T15:42:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chef Kevin"
+          },
+          "reviewBody": "Great healthy and clean recipe.  Saute onion and carrot to sweeten them up - this is classic French prep for soup veg.  Use 100% chicken broth (homemade best!).  Cook barley separately to your taste and add when serving.",
+          "datePublished": "2026-01-28T13:10:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ron A."
+          },
+          "reviewBody": "\"Roll the carrot a quarter turn and cut another chunk; repeat.\"\n\nThis is a classic Chinese cutting method called \"roll-cutting.\"",
+          "datePublished": "2026-01-28T12:21:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DK"
+          },
+          "reviewBody": "Homemade chicken soup, my beloved nemesis. So delicious and so very time-consuming. And sadly I do not find the cooking process soothing at all. But our family loves it, especially our son with autism who likes very few foods, so I make large batches and freeze individual containers for him. This recipe looks wonderful but personally I would add celery because I love it and chicken flavor Better than Bouillon to enhance the flavor. If that is blasphemy, I apologize. I will be trying the recipe soon.",
+          "datePublished": "2026-01-28T01:55:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "reviewBody": "I used 4 chicken thighs, farro, and regular green cabbage because that's what I had. Excellent  soup. I did add some chicken base to up the flavor.",
+          "datePublished": "2026-01-28T00:37:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Heather"
+          },
+          "reviewBody": "It's your soup! Do what you'd like.",
+          "datePublished": "2026-01-28T15:46:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NaR"
+          },
+          "reviewBody": "Can I use rice or quinoa instead of barley?",
+          "datePublished": "2026-01-28T00:29:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dorsey Fiske"
+          },
+          "reviewBody": "Can’t you use chicken breasts? I don’t like dark meat as well as light.",
+          "datePublished": "2026-01-27T18:05:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pat Philipps"
+          },
+          "reviewBody": "Yummo.  However, I did the following:  sautéed carrots and onion and leeks first, then followed the recipe with chicken broth, not water.  I agree with other comments that the pearl barley wasn’t completely cooked, but I ate it anyway.  It’ll be great tomorrow.",
+          "datePublished": "2026-01-27T02:46:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "beejos"
+          },
+          "reviewBody": "Made according to recipe (except used thighs on hand and a couple of feet) and was delicious flavorful light broth. Husband getting over flu and swears it helped:) Soothing and comforting.",
+          "datePublished": "2026-01-26T22:57:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PKD"
+          },
+          "reviewBody": "This is very good. The broth is subtle, and that could be the problem. It’s like a minimalist dish in an unstable and scary world that demands bold flavor to calm us down.\nTue condiments listed at the end became my seasoning, especially the soy sauce and toasted sesame oil.\nOverall, I loved the meditative vibe in the making and the comfort of having a pot of chicken soup bubbling on the stove. I used bone-in skin-on chicken thighs and was glad because it provided more meat for the dish.\nNext time I’ll increase the ginger and possibly use 4 cups of water and 4 cups of chicken bone broth.\nOverall a delicious chicken soup and a fun variation of a cold-cure soup in this behemoth winter.",
+          "datePublished": "2026-01-26T20:53:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Yos"
+          },
+          "reviewBody": "could i use sorghum i/o pearl barley to make gf? or would you suggest boring rice? maybe le puy or beluga lentils?",
+          "datePublished": "2026-01-26T21:14:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Seth B."
+          },
+          "reviewBody": "Keep the bones in the soup, thigh or drumsticks, as some of us love to chew them after a long boil to get to the delicious marrow.",
+          "datePublished": "2026-01-26T19:47:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FakeTVLawyer"
+          },
+          "reviewBody": "Just to clarify, the drumsticks are raw?",
+          "datePublished": "2026-01-26T19:01:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PKD"
+          },
+          "reviewBody": "@Peter  Use pearled barley. Like the tip says, it has the outer husk removed so it cooks faster.",
+          "datePublished": "2026-01-26T16:48:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peter"
+          },
+          "reviewBody": "In what alternative universe does barley cook in 10-15 minutes?",
+          "datePublished": "2026-01-26T13:26:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bill"
+          },
+          "reviewBody": "Terminology question:  When Ms. Ko calls for \"4 chicken drumsticks\" is she referring to what might otherwise be referred to as \"whole legs\", which include both leg and thigh?  Four drumsticks sounds like an awful small amount of chicken to make a rich broth with 8 cups of water.",
+          "datePublished": "2026-01-25T04:18:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eileen"
+          },
+          "reviewBody": "In the midst of a winter storm in the mid-Atlantic today and so the only chicken left on the grocer's shelf yesterday was a pack of 5 drumsticks. Followed the recipe exactly because I wanted something different from my usual chicken soup (carrots, celery, bay leaf, etc). It was amazing with a splash of soy sauce and a squeeze of lemon. The skin on a drumstick is thin and added just the right amount of fat; the bones are dense which made for a welcome creamy gelatinous texture. Thanks for sharing",
+          "datePublished": "2026-01-25T19:25:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael McLean"
+          },
+          "reviewBody": "thighs would be a much better choice than drumsticks",
+          "datePublished": "2026-01-24T17:58:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Prakash Nadkarni"
+          },
+          "reviewBody": "The recipe is delicious, but maybe a bit precious. Unless you run a restaurant or need to impress guests, there's no need to discard the still-flavorful/healthful ginger and the protein-rich skin and foam. (If you added chicken feet or wings as suggested, you'd end up discarding much of the protein.)\nRE: chicken feet: As cooked for dim sum, these need pressure (or extended slow) cooking to break down the tendon collagen into unctuous gelatin: 30 mins regular wouldn't suffice. Ditto for backs.",
+          "datePublished": "2026-01-24T16:36:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "VickyLV"
+          },
+          "reviewBody": "My husband is recovering from a bad cold, so I was excited to try this recipe. I made it exactly as written, except I had to substitute green cabbage, and I added an extra carrot. It's a delicious soup that can serve as a base for many different flavor combos depending on the condiments you choose. I used a few dashes of TJ's chili crip seasoning. It's A nice warming soup for a cold evening as well as a simple and meditative recipe to cook.",
+          "datePublished": "2026-01-25T03:03:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maura McGrath maryellin"
+          },
+          "reviewBody": "@Bill drumsticks is drumsticks. \nLeg or leg quarters are drumsticks plus thighs.\nThighs is thighs",
+          "datePublished": "2026-01-26T20:45:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Needs more veg"
+          },
+          "reviewBody": "Coupled the carrot still not enough.\nPretty bland, and don't discard the ginger. \nMaybe add celery, although not very Asian.",
+          "datePublished": "2026-01-24T19:53:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Denis"
+          },
+          "reviewBody": "I made this by accident the other day using whatever I had which included Napa cabbage and the rest. If you haven’t tried Napa cabbage in soup you are in for a treat. My big difference was adding white beans, also an eye opener.",
+          "datePublished": "2026-01-25T12:57:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nils Wetterlind"
+          },
+          "reviewBody": "You cannot make a chicken soup in half an hour. It’s simply not possible; it takes 6 hours for the nutrients and collagen to be extracted from the chicken bones, and the drum sticks, btw, has no collagen at all.\nWhat you’re making here is slightly flavored water.",
+          "datePublished": "2026-01-26T12:15:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martha"
+          },
+          "reviewBody": "This reminds me of my grandmother's chicken soup. She cooked the Acini di Pepe on the side to avoid a mushy starch in the delicious leftover soup.",
+          "datePublished": "2026-01-24T15:56:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "John"
+          },
+          "reviewBody": "Four stars? Unless you douse this recipe with salt, it won't taste like much of anything. Four drumsticks and a few veggies do not a gallon of chicken broth make. One would need at least a couple of rotisserie chicken carcasses to have much effect on that much water.",
+          "datePublished": "2026-01-25T15:02:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MariaB"
+          },
+          "reviewBody": "@Nils Wetterlind\n\nAgreed.  Doesn't anyone believe in slow-cooking bones and/or a carcass down anymore and freezing the resulting broth to be used in future soups, stews, and anything that would benefit from it?",
+          "datePublished": "2026-01-28T10:43:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PKD"
+          },
+          "reviewBody": "This is very good. The broth is subtle, and that could be the problem. It’s like a minimalist dish in an unstable and scary world that demands bold flavor to calm us down.\nTue condiments listed at the end became my seasoning, especially the soy sauce and toasted sesame oil.\nOverall, I loved the meditative vibe in the making and the comfort of having a pot of chicken soup bubbling on the stove. I used bone-in skin-on chicken thighs and was glad because it provided more meat for the dish.\nNext time I’ll increase the ginger and possibly use 4 cups of water and 4 cups of chicken bone broth.\nOverall a delicious chicken soup and a fun variation of a cold-cure soup in this behemoth winter.",
+          "datePublished": "2026-01-26T20:53:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Peter"
+          },
+          "reviewBody": "In what alternative universe does barley cook in 10-15 minutes?",
+          "datePublished": "2026-01-26T13:26:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pat Philipps"
+          },
+          "reviewBody": "Yummo.  However, I did the following:  sautéed carrots and onion and leeks first, then followed the recipe with chicken broth, not water.  I agree with other comments that the pearl barley wasn’t completely cooked, but I ate it anyway.  It’ll be great tomorrow.",
+          "datePublished": "2026-01-27T02:46:04.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2026
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1027650-chicken-vegetable-and-barley-soup",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Genevieve Ko"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2026,
+      "description": "Homestyle Chinese soups, particularly Cantonese ones, distill the essence of bony meat and vegetables into subtle broths. This take does the same, but instead of simmering a huge pot for hours, it uses proportionally less water and cooks in under an hour for a satisfying meal. This method ensures that the broth is deeply flavorful, the meat still juicy and the vegetables and barley tender with an ideal bite. You can swap in other root vegetables for the carrots and other varieties of cabbage for the napa, but aim for options that end up naturally sweet when cooked. The resulting soup is warming with ginger and ideal for recovering from a cold, but if you prefer a punchier flavor, dress it up with bold condiments.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Chicken, Vegetable and Barley Soup",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/cf7743dd-e906-5dca-9915-b1dec1137813#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "caption": "Genevieve Ko’s chicken, vegetable and barley soup looks to drumsticks to give its broth body.",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2026-01-28T04:42:13.773Z",
+          "datePublished": "2026-01-23T17:24:41.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2026-01-23T17:24:41.000Z",
+          "url": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/cf7743dd-e906-5dca-9915-b1dec1137813#googleFourByThree",
+          "@type": "ImageObject",
+          "caption": "Genevieve Ko’s chicken, vegetable and barley soup looks to drumsticks to give its broth body.",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2026-01-28T04:42:13.773Z",
+          "datePublished": "2026-01-23T17:24:41.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2026-01-23T17:24:41.000Z",
+          "url": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/cf7743dd-e906-5dca-9915-b1dec1137813#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "caption": "Genevieve Ko’s chicken, vegetable and barley soup looks to drumsticks to give its broth body.",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2026-01-28T04:42:13.773Z",
+          "datePublished": "2026-01-23T17:24:41.000Z",
+          "height": "1744",
+          "representativeOfPage": true,
+          "uploadDate": "2026-01-23T17:24:41.000Z",
+          "url": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-mediumSquareAt3X.jpg",
+          "width": "1744"
+        },
+        {
+          "@id": "nyt://image/cf7743dd-e906-5dca-9915-b1dec1137813#facebookJumbo",
+          "@type": "ImageObject",
+          "caption": "Genevieve Ko’s chicken, vegetable and barley soup looks to drumsticks to give its broth body.",
+          "contentUrl": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-facebookJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Rebecca Jurkevich.",
+          "dateModified": "2026-01-28T04:42:13.773Z",
+          "datePublished": "2026-01-23T17:24:41.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2026-01-23T17:24:41.000Z",
+          "url": "https://static01.nyt.com/images/2026/01/28/multimedia/28FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz/23FD-KO-topart-chickenvegetablebarleysoup-bowl-pqhz-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027650-chicken-vegetable-and-barley-soup"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-01-28T16:53:21.837Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
