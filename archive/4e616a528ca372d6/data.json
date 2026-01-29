@@ -1,0 +1,680 @@
+{
+  "id": "4e616a528ca372d6",
+  "original_url": "https://cooking.nytimes.com/recipes/1020829-sheet-pan-gochujang-chicken-and-roasted-vegetables",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1020829-sheet-pan-gochujang-chicken-and-roasted-vegetables",
+  "fetched_title": "Sheet-Pan Gochujang Chicken and Roasted Vegetables Recipe (with Video)",
+  "main_text_content": "Gochujang, a Korean fermented chile paste, enlivens a straightforward dinner of roast chicken and vegetables with a salty, spicy and umami-rich layer of flavor Freshly grated ginger, sliced scallions and quick-pickled radishes elevate the flavor even further This recipe calls for a wintry mix of squash and turnips, but equal amounts of root vegetables like carrots, potatoes and beets, or lighter vegetables like cauliflower, brussels sprouts or broccoli will work well too. ",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026204-roasted-gochujang-cabbage\"><figure class=\"tersecard_imageBlock__77puv\"><img src=\"https://static01.nyt.com/images/2024/11/01/multimedia/AS-gochujang-cabbagerex-qbzc/AS-gochujang-cabbagerex-qbzc-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale\" alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2024/11/01/multimedia/AS-gochujang-cabbagerex-qbzc/AS-gochujang-cabbagerex-qbzc-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/11/01/multimedia/AS-gochujang-cabbagerex-qbzc/AS-gochujang-cabbagerex-qbzc-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/11/01/multimedia/AS-gochujang-cabbagerex-qbzc/AS-gochujang-cabbagerex-qbzc-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/11/01/multimedia/AS-gochujang-cabbagerex-qbzc/AS-gochujang-cabbagerex-qbzc-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/11/01/multimedia/AS-gochujang-cabbagerex-qbzc/AS-gochujang-cabbagerex-qbzc-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/11/01/multimedia/AS-gochujang-cabbagerex-qbzc/AS-gochujang-cabbagerex-qbzc-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/11/01/multimedia/AS-gochujang-cabbagerex-qbzc/AS-gochujang-cabbagerex-qbzc-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" sizes=\"100%\" loading=\"lazy\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Roasted Gochujang Cabbage</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Ali Slagle</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-threeByTwoMediumAt2X-v2.jpg",
+  "local_image_path": "archive/4e616a528ca372d6/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/3b44adf2-70b9-52b5-a1a5-854cd54faccb",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1020829-sheet-pan-gochujang-chicken-and-roasted-vegetables",
+        "@type": "WebPage",
+        "name": "Sheet-Pan Gochujang Chicken and Roasted Vegetables"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020829-sheet-pan-gochujang-chicken-and-roasted-vegetables",
+      "name": "Sheet-Pan Gochujang Chicken and Roasted Vegetables",
+      "description": "Gochujang, a Korean fermented chile paste, enlivens a straightforward dinner of roast chicken and vegetables with a salty, spicy and umami-rich layer of flavor. Freshly grated ginger, sliced scallions and quick-pickled radishes elevate the flavor even further. This recipe calls for a wintry mix of squash and turnips, but equal amounts of root vegetables like carrots, potatoes and beets, or lighter vegetables like cauliflower, brussels sprouts or broccoli will work well too. ",
+      "author": {
+        "@type": "Person",
+        "name": "Yewande Komolafe"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/312ca0a8-1060-5dda-a169-334b83a5f70f#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+          "dateModified": "2025-04-25T18:16:16.076Z",
+          "datePublished": "2021-02-21T20:36:09.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-21T20:36:09.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/312ca0a8-1060-5dda-a169-334b83a5f70f#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-googleFourByThree-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+          "dateModified": "2025-04-25T18:16:16.076Z",
+          "datePublished": "2021-02-21T20:36:09.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-21T20:36:09.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/312ca0a8-1060-5dda-a169-334b83a5f70f#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-mediumSquareAt3X-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+          "dateModified": "2025-04-25T18:16:16.076Z",
+          "datePublished": "2021-02-21T20:36:09.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-21T20:36:09.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/312ca0a8-1060-5dda-a169-334b83a5f70f#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-facebookJumbo-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+          "dateModified": "2025-04-25T18:16:16.076Z",
+          "datePublished": "2021-02-21T20:36:09.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-21T20:36:09.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-facebookJumbo-v2.jpg",
+          "width": "1050"
+        }
+      ],
+      "totalTime": "PT45M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, easy, weeknight, main course",
+      "keywords": "butternut squash, chicken breast, chicken drumstick, chicken thigh, fresh ginger, gochujang, roast chicken, sheet-pan, squash, turnip",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 10534
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 1059,
+        "unsaturatedFatContent": "50 grams",
+        "carbohydrateContent": "73 grams",
+        "cholesterolContent": null,
+        "fatContent": "65 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "50 grams",
+        "saturatedFatContent": "11 grams",
+        "sodiumContent": "1242 milligrams",
+        "sugarContent": "5 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 tablespoons gochujang",
+        "2 tablespoons soy sauce",
+        "1 (1-inch) piece fresh ginger, peeled and grated (about 1 tablespoon)",
+        "3 tablespoons neutral oil, like grapeseed or canola, plus more for drizzling",
+        "2 pounds squash, such as butternut, acorn or delicata, unpeeled, seeded and cut into 2-inch pieces (about 5 loose cups)",
+        "1 pound turnips, trimmed and cut into 2-inch pieces (about 3 1/2 loose cups)",
+        "10 scallions, ends trimmed, green and white parts separated, but not chopped",
+        "Kosher salt",
+        "2 1/2 to 3 pounds bone-in, skin-on chicken thighs, drumsticks or breasts, patted dry",
+        "1 bunch radishes (about 10 ounces), trimmed",
+        "2 tablespoons rice vinegar",
+        "1 tablespoon sesame oil (optional)",
+        "Steamed rice (optional)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 425 degrees. Combine the gochujang, soy sauce, ginger and 3 tablespoons oil in a medium bowl or resealable bag. Add the squash, turnips and scallion whites, toss to coat with glaze, or seal bag and shake to coat. Lightly season with salt and transfer to a rimmed baking sheet."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Season the chicken with salt and toss to coat in whatever is left of the glaze in the bowl or bag. Arrange the chicken pieces skin-side up between the vegetables on the sheet."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Roast until vegetables are tender, chicken is cooked through and the skin crispy and browned in spots, about 40 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the chicken cooks, thinly slice the scallion greens. Using a sharp knife or a mandoline, cut the radishes into thin rounds. In a small bowl, toss the sliced scallion greens and radishes with the rice vinegar and sesame oil, if using. Season to taste with salt and set aside to lightly pickle."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Top the roast chicken and vegetables with the quick-pickled scallion-radish mix and transfer to serving plates. Serve with steamed rice, if desired."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/311b185a-5340-5300-8512-6e7559193473",
+        "@type": "VideoObject",
+        "author": {
+          "@id": "nyt://person/a89444f5-07d8-5c29-86d1-3c6c30133277",
+          "@type": "Person",
+          "name": "The New York Times Cooking",
+          "url": "https://www.nytimes.com/by/the-new-york-times-cooking"
+        },
+        "bitrate": "1418942",
+        "contentSize": "26214706",
+        "contentUrl": "https://vp.nyt.com/video/2025/03/12/135709_1_HP-Sheet-Pan-Gochujang-Chicken-CV_wg_480p.mp4",
+        "creator": {
+          "@id": "nyt://person/a89444f5-07d8-5c29-86d1-3c6c30133277",
+          "@type": "Person",
+          "name": "The New York Times Cooking"
+        },
+        "dateModified": "2025-03-12T20:05:44.426Z",
+        "datePublished": "2025-03-12T20:05:44.426Z",
+        "description": "Gochujang, a Korean fermented chile paste, enlivens a straightforward dinner of roast chicken and vegetables with a salty, spicy and umami-rich layer of flavor. Freshly grated ginger, sliced scallions and quick-pickled radishes elevate the flavor even further. This recipe calls for a wintry mix of squash and turnips, but equal amounts of root vegetables like carrots, potatoes and beets, or lighter vegetables like cauliflower, brussels sprouts or broccoli will work well too.",
+        "duration": "PT2M15S",
+        "height": "480",
+        "name": "Sheet-Pan Gochujang Chicken and Roasted Vegetables",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/312ca0a8-1060-5dda-a169-334b83a5f70f#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-videoSixteenByNineJumbo1600-v2.jpg",
+            "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+            "dateModified": "2025-04-25T18:16:16.076Z",
+            "datePublished": "2021-02-21T20:36:09.000Z",
+            "height": "900",
+            "uploadDate": "2021-02-21T20:36:09.000Z",
+            "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-videoSixteenByNineJumbo1600-v2.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/312ca0a8-1060-5dda-a169-334b83a5f70f#googleFourByThree",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-googleFourByThree-v2.jpg",
+            "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+            "dateModified": "2025-04-25T18:16:16.076Z",
+            "datePublished": "2021-02-21T20:36:09.000Z",
+            "height": "600",
+            "uploadDate": "2021-02-21T20:36:09.000Z",
+            "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-googleFourByThree-v2.jpg",
+            "width": "800"
+          },
+          {
+            "@id": "nyt://image/312ca0a8-1060-5dda-a169-334b83a5f70f#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-mediumSquareAt3X-v2.jpg",
+            "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+            "dateModified": "2025-04-25T18:16:16.076Z",
+            "datePublished": "2021-02-21T20:36:09.000Z",
+            "height": "1800",
+            "uploadDate": "2021-02-21T20:36:09.000Z",
+            "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-mediumSquareAt3X-v2.jpg",
+            "width": "1800"
+          },
+          {
+            "@id": "nyt://image/312ca0a8-1060-5dda-a169-334b83a5f70f#facebookJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-facebookJumbo-v2.jpg",
+            "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+            "dateModified": "2025-04-25T18:16:16.076Z",
+            "datePublished": "2021-02-21T20:36:09.000Z",
+            "height": "550",
+            "uploadDate": "2021-02-21T20:36:09.000Z",
+            "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-facebookJumbo-v2.jpg",
+            "width": "1050"
+          }
+        ],
+        "thumbnailUrl": [
+          "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-videoSixteenByNineJumbo1600-v2.jpg",
+          "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-googleFourByThree-v2.jpg",
+          "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-mediumSquareAt3X-v2.jpg",
+          "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-facebookJumbo-v2.jpg"
+        ],
+        "uploadDate": "2025-03-12T20:05:44.426Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000010048630/sheet-pan-gochujang-chicken-and-roasted-vegetables.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2020-01-24T00:00:00.000Z",
+      "dateModified": "2025-03-12T21:22:03.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Finn"
+          },
+          "reviewBody": "I actually just read this writer’s story of how her cooking has transformed after losing her limbs.  I had previously saved this recipe based on my farm box preview.   This is easy and delicious.  My spouse suggested marinating the chicken in the gouchujang glaze- I’d be willing to put the time in to do that.   The root veg played so well with the gouchujang- the sweetness and spice is well balanced.  It might be my new favorite sheet pan.  I would happily sub in tofu for the chicken.  \n\nMy one tweak would be to use a mandolin for paper thin radish slices.  I used a watermelon radish (thank you, farm box), which is good but I think the thinner slices would really make the simple salad shine.  \n\nThis one will be a regular winter dinner.  (Especially now that I’ve found a year round CSA and I suspect I’m in for a lot of root veg, squash, and potatoes!)",
+          "datePublished": "2026-01-28T00:16:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dave B"
+          },
+          "reviewBody": "OK, this is really terrific. I had only carrots, potatoes and sweet potatoes on hand, so I used those instead, and it was still perfection. I doubled the herb sauce too, and added a cup of chopped parsley to the radishes and chopped scallions, to up the zesty herb factor, and I think it's an important improvement. Boneless chicken thighs work better, along with adding dollops of mayonnaise to the chicken sauce (and mixing), so it clings better. Best sheet pan recipe ever.",
+          "datePublished": "2026-01-27T23:37:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily"
+          },
+          "reviewBody": "Ok, I’m saving this for late summer. It will use a lot of my CSA bounty. Radishes, squash, scallions.",
+          "datePublished": "2026-01-27T21:30:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vince D"
+          },
+          "reviewBody": "Why am I reading comments about peeling the squash and the injuries suffered while do so, when the recipe says to use unpeeled squash?",
+          "datePublished": "2026-01-26T19:15:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "D"
+          },
+          "reviewBody": "It would be so helpful to be able to search the comments for specific words to focus on a certain  strategy  or  substitution another person has used - Can NYT add this feature? Thank you,",
+          "datePublished": "2026-01-25T21:00:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KM"
+          },
+          "reviewBody": "Does anyone on this site EVER make the recipe exactly as written?",
+          "datePublished": "2026-01-25T19:10:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Squash alternatives?"
+          },
+          "reviewBody": "I don’t like squash- what could I use instead?",
+          "datePublished": "2026-01-25T18:19:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DanoKid"
+          },
+          "reviewBody": "It’s insulting to your readers to call this a 45 minute recipe. The roasting time alone is 40 minutes, and you wasted five minutes of my life reading this recipe only to discover most of the way through that this is actually an hour plus recipe that I never would have bothered looking at if you’d been even marginally honest.",
+          "datePublished": "2026-01-24T02:34:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LJClaire"
+          },
+          "reviewBody": "Delicious saucy recipe. Recommend the other tips about doubling the marinade/sauce. I also opted for boneless skinless chicken thighs so only cooked for 20 mins.\n\nWill be doing this in the future with whatever meat or tofu or veggies we have on hand! \n\nNo need for rice IMO if you have squash and potatoes :)",
+          "datePublished": "2026-01-21T05:28:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Christian"
+          },
+          "reviewBody": "Not a bad recipe, but didn't fall in love.  Doubled sauce and added lemon and honey and fresh garlic.  Cooked chicken in the sauce (marinated for 1 hour prior), cooked vegetables separately without sauce, served over brown rice and spooned sauce over all three elements.",
+          "datePublished": "2026-01-15T04:13:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "J"
+          },
+          "reviewBody": "This was great! i ended up using purple sweet potato and turnip for my veggies, and added some kimchi to my plate when serving. Next time, im gojng to add some honey to the marinade as I think that will give it the extra layer of flavor i was craving. \n\nI followed the advice of some folks and made more marinade and also amped up the gochujang.",
+          "datePublished": "2026-01-13T15:20:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ann"
+          },
+          "reviewBody": "I agree with others to make extra sauce. Otherwise it will be a little too dry on a bed of rice— even so, it was still very flavorful. I marinated the meat and veggies separately each wi sauce about 1.5 hrs. Different brands of the Gochujang sauce could result in very different dishes. I used Mother-in-Laws Gochujang Fermented Chile Sauce wi garlic brand. It was not overly hot/spicy and had a nice sweet/savory balance. Definitely research the sauce brand.",
+          "datePublished": "2026-01-13T06:54:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Cindy Thomas"
+          },
+          "reviewBody": "So full of flavor!  I recommend doubling the marinade and using half to marinate the chicken.  Also, this recipe offers a lot of flexibility:  you can use boneless chicken breasts if you like, trade out the vegetables to your liking, add chili sauce, etc.  This is a keeper.",
+          "datePublished": "2026-01-12T19:06:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pam D"
+          },
+          "reviewBody": "c omments were helpful. made twice the amount of marinade, used boneless chicken thighs, and marinated dth em for 1/2 hour before throwing veggies in. Note that the boneless chicken cooked in 20-30 minutes. Also, nuked delicata squash before cutting up, and left rind on.",
+          "datePublished": "2026-01-11T16:18:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lynne"
+          },
+          "reviewBody": "We made this following the recipe, except using 20 oz pre-cubed butternut squash from the grocery (in much smaller cubes than called for) and cauliflower. However, we cooked it on convection at 400 on one baking sheet.  It only took 20’ for done chicken and veggies. The crowded sheet allowed the veggies to cook while only browning on top. We loved the zing from the pickled topping. Would make again, allowing extra marinade for the chicken as suggested by others.",
+          "datePublished": "2026-01-08T23:23:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bryan"
+          },
+          "reviewBody": "If I could tell my younger self to go ahead and peel the squash then I would have said \"Bryan, peel that squash.\"",
+          "datePublished": "2020-02-02T03:54:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chaos"
+          },
+          "reviewBody": "This was excellent although I recommend NOT peeling the squash if, like me, you are using acorn and can’t follow common knife safety rules. Worth the 2 stitches. (Yes we ate dinner before going to the ER.)",
+          "datePublished": "2020-02-12T20:01:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shivam S"
+          },
+          "reviewBody": "So delicious!  A few tips to consider:\n\n1) double the marinade,\n\n2) marinate your chicken FIRST for at least an hour in a ziploc bag before cooking on a sheet pan SEPARATELY from your veggies, \n\n3) skip the chicken and make it vegetarian - dry and cube tofu into bite-sized pieces, roast with a dash of salt/pepper/garlic/olive oil @400 degrees until firm (20-30 min), toss with roasted veggies and drizzle tofu/veggie combo with marinade,\n\n4) serve w/brown rice & add coconut oil (instead of butter)",
+          "datePublished": "2020-05-12T15:15:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Matt"
+          },
+          "reviewBody": "Trying not to hyperbolize, but this may be the single most delicious recipe from this site I've ever cooked, at least the best of the sheet pans. I had the benefit of having relatively fresh ingredients all on hand.\n\n• DEFINITELY leave the skin on if using an acorn squash. I was skeptical, but it's fabulous!\n\n• IMHO boneless/skinless thighs work better. They stay intact but the little bits meld into the veggies beautifully.\n\n• Pour out the pan juice into a gravy boat to serve over rice! YUM!",
+          "datePublished": "2020-05-15T17:39:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julia Childless"
+          },
+          "reviewBody": "Peeling squash is easy; prick with a fork and nuke for a minute or so.  Moisture builds up under the peel and it comes right off.  Easier for butternut than acorn with all those ridges, but possible.",
+          "datePublished": "2020-06-07T17:15:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "stacey"
+          },
+          "reviewBody": "This is a delicious recipe. Some notes:\n1) Line your baking sheets with foil. The baked on sauce is a bear to remove.\n2) I used 2 baking sheets. It would have been very crowded otherwise\n3) I followed other commenters' advice and made extra sauce, and was glad I did\n4) I also followed the advice to marinate the chicken for a bit beforehand (about an hour.) I patted the skin dry before cooking and it crisped nicely.",
+          "datePublished": "2021-02-15T12:10:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Colleen"
+          },
+          "reviewBody": "Delicious! Based on another note, I cut my squash down to 1/2 inch cubes, which cooked a bit too fast- I think 1” cubes would be perfect. I have no idea how this is supposed to fit on a single sheet pan though- with 3 lb of chicken thighs plus the veggies, my two pans were completely full.",
+          "datePublished": "2020-01-31T02:03:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pam"
+          },
+          "reviewBody": "This was excellent, but a few tips and modifications will make it even better. First, use two sheet pans and line them with foil for vastly easier cleanup and more even browning. Second, double the amount of marinade. Third, peel the butternut squash. Fourth, substitute Yukon Gold potatoes for the turnips. Finally, instead of tossing the veggies in the marinade first, put the chicken pieces in and let them sit for a while to soak up more flavor, and then toss the veggies in.",
+          "datePublished": "2020-05-01T13:30:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Allie"
+          },
+          "reviewBody": "Delicious.  I agree with Bryan, peel the squash.  This was a hit with my family and perfect for a winter's evening.  A couple of days after making this I made burritos with the leftover chicken.  I warmed black beans with fresh grated ginger and gochujang.  I wrapped them and the warmed chicken with leftover radishes, cucumbers, cilantro, basil, and avocado. This would be good with the leftover rice included too. Yum!  Dinner in 15 minutes.",
+          "datePublished": "2020-02-14T18:28:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Abby"
+          },
+          "reviewBody": "Made this with cubed extra firm tofu instead of chicken and it turned out phenomenally! Butternut squash needed 10 more min but wow this was so tasty!",
+          "datePublished": "2020-02-07T02:25:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie"
+          },
+          "reviewBody": "This was amazing.  I doubled the marinade and generally amped up the gochujang.  Used parsnips instead of turnips (it was what I had on hand), boneless skinless thighs, and cucumbers with the scallions instead of radishes.  Everyone ate every bit of this!",
+          "datePublished": "2020-02-11T00:49:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aaron"
+          },
+          "reviewBody": "That sheet pan is way too crowded to achieve the kind of browning shown in the picture.",
+          "datePublished": "2020-02-03T07:50:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Roberta Merkle"
+          },
+          "reviewBody": "Delicata squash does NOT need to be peeled!",
+          "datePublished": "2020-02-10T19:16:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "marnie"
+          },
+          "reviewBody": "Didn’t peel the squash and added wedges of red onion. (Kind of like the famous ottolenghi squash recipe.). Will add garlic to the sauce next time.",
+          "datePublished": "2020-02-07T03:20:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jane"
+          },
+          "reviewBody": "Very good.  I made with broccoli.  Strongly suggest putting the chicken in the marinade rather than the veggies.  The broccoli grabbed it all and left none for the chicken and was too spicy. The scallion-radish mix was great too",
+          "datePublished": "2020-02-03T17:15:32.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1020829-sheet-pan-gochujang-chicken-and-roasted-vegetables",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yewande Komolafe"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2020,
+      "description": "Gochujang, a Korean fermented chile paste, enlivens a straightforward dinner of roast chicken and vegetables with a salty, spicy and umami-rich layer of flavor. Freshly grated ginger, sliced scallions and quick-pickled radishes elevate the flavor even further. This recipe calls for a wintry mix of squash and turnips, but equal amounts of root vegetables like carrots, potatoes and beets, or lighter vegetables like cauliflower, brussels sprouts or broccoli will work well too. ",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Sheet-Pan Gochujang Chicken and Roasted Vegetables",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/312ca0a8-1060-5dda-a169-334b83a5f70f#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-videoSixteenByNineJumbo1600-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+          "dateModified": "2025-04-25T18:16:16.076Z",
+          "datePublished": "2021-02-21T20:36:09.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-21T20:36:09.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-videoSixteenByNineJumbo1600-v2.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/312ca0a8-1060-5dda-a169-334b83a5f70f#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-googleFourByThree-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+          "dateModified": "2025-04-25T18:16:16.076Z",
+          "datePublished": "2021-02-21T20:36:09.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-21T20:36:09.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/312ca0a8-1060-5dda-a169-334b83a5f70f#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-mediumSquareAt3X-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+          "dateModified": "2025-04-25T18:16:16.076Z",
+          "datePublished": "2021-02-21T20:36:09.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-21T20:36:09.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/312ca0a8-1060-5dda-a169-334b83a5f70f#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-facebookJumbo-v2.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Chris Lanier. Prop Stylist: Carla Gonzalez-Hart.",
+          "dateModified": "2025-04-25T18:16:16.076Z",
+          "datePublished": "2021-02-21T20:36:09.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2021-02-21T20:36:09.000Z",
+          "url": "https://static01.nyt.com/images/2021/02/28/multimedia/28sheetpan-chicken-gojuchang/28sheetpan-chicken-gojuchang-facebookJumbo-v2.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1020829-sheet-pan-gochujang-chicken-and-roasted-vegetables"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-01-29T01:23:05.844Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
