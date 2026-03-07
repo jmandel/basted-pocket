@@ -1,0 +1,551 @@
+{
+  "id": "6d0677aac71c154f",
+  "original_url": "https://cooking.nytimes.com/recipes/1027515-delicata-squash-pie",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1027515-delicata-squash-pie",
+  "fetched_title": "Delicata Squash Pie Recipe",
+  "main_text_content": "There’s so much delicata squash available in the fall Long and variegated, it has a surprisingly delicate skin that also makes it great for a pie because you don’t have to peel it For a more beautifully topped pie, with small shingled rings, seek out a skinnier squash.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1027598-delicata-squash-tart-with-hot-honey-and-pistachios\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"An overhead image of a squash tart on puff pastry and showered with pistachios.\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2025/12/22/multimedia/22FD-APPE-NYE-squashpuffedpastrytart-zjmk/22FD-APPE-NYE-squashpuffedpastrytart-zjmk-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/12/22/multimedia/22FD-APPE-NYE-squashpuffedpastrytart-zjmk/22FD-APPE-NYE-squashpuffedpastrytart-zjmk-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/12/22/multimedia/22FD-APPE-NYE-squashpuffedpastrytart-zjmk/22FD-APPE-NYE-squashpuffedpastrytart-zjmk-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/12/22/multimedia/22FD-APPE-NYE-squashpuffedpastrytart-zjmk/22FD-APPE-NYE-squashpuffedpastrytart-zjmk-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/12/22/multimedia/22FD-APPE-NYE-squashpuffedpastrytart-zjmk/22FD-APPE-NYE-squashpuffedpastrytart-zjmk-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/12/22/multimedia/22FD-APPE-NYE-squashpuffedpastrytart-zjmk/22FD-APPE-NYE-squashpuffedpastrytart-zjmk-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/12/22/multimedia/22FD-APPE-NYE-squashpuffedpastrytart-zjmk/22FD-APPE-NYE-squashpuffedpastrytart-zjmk-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Delicata Squash Tart With Hot Honey and Pistachios</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/6d0677aac71c154f/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/86ac79af-288e-538a-a457-56441fbcc17b",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1027515-delicata-squash-pie",
+        "@type": "WebPage",
+        "name": "Delicata Squash Pie"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027515-delicata-squash-pie",
+      "name": "Delicata Squash Pie",
+      "description": "There’s so much delicata squash available in the fall. Long and variegated, it has a surprisingly delicate skin that also makes it great for a pie because you don’t have to peel it. For a more beautifully topped pie, with small shingled rings, seek out a skinnier squash.",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Li"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/32bba8fb-d1d8-5de3-b2c6-1260b551e5b3#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-19T21:51:24.005Z",
+          "datePublished": "2025-11-18T21:30:45.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:30:45.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/32bba8fb-d1d8-5de3-b2c6-1260b551e5b3#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-googleFourByThree.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-19T21:51:24.005Z",
+          "datePublished": "2025-11-18T21:30:45.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:30:45.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/32bba8fb-d1d8-5de3-b2c6-1260b551e5b3#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-mediumSquareAt3X.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-19T21:51:24.005Z",
+          "datePublished": "2025-11-18T21:30:45.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:30:45.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/32bba8fb-d1d8-5de3-b2c6-1260b551e5b3#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-facebookJumbo.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-19T21:51:24.005Z",
+          "datePublished": "2025-11-18T21:30:45.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:30:45.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT1H45M",
+      "totalTime": "PT2H",
+      "recipeYield": "8 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "project, dessert",
+      "keywords": "clove, food processor, graham cracker, ground cinnamon, heavy cream, make-ahead, nutmeg, pie, plan-ahead, squash, sugar, fall, thanksgiving, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 58
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 482,
+        "unsaturatedFatContent": "10 grams",
+        "carbohydrateContent": "61 grams",
+        "cholesterolContent": null,
+        "fatContent": "27 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "5 grams",
+        "saturatedFatContent": "15 grams",
+        "sodiumContent": "465 milligrams",
+        "sugarContent": "36 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "8 ounces graham crackers (about 2 sleeves)",
+        "2 tablespoons sugar",
+        "1/2 teaspoon kosher salt (such as Diamond Crystal)",
+        "1/2 cup/113 grams unsalted butter, melted and cooled slightly",
+        "1 medium (8-inch-long) delicata squash (about 1 pound) ",
+        "3/4 cup/150 grams sugar",
+        "1 1/2 teaspoons ground cinnamon",
+        "1/4 teaspoon ground nutmeg",
+        "1/8 teaspoon ground cloves",
+        "2 teaspoons vanilla extract",
+        "1 teaspoon kosher salt (such as Diamond Crystal)",
+        "1 cup/240 grams heavy cream",
+        "2 large eggs",
+        "1 small delicata squash (8 ounces)",
+        "1/4 cup/50 grams sugar"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the crust: Heat oven to 350 degrees. Add the graham crackers, sugar and salt to the bowl of a food processor and pulse to form medium to fine crumbs, about 20 long pulses. (You should have about 2 cups.) Add the melted butter and pulse to combine. Tip the graham cracker mixture into a 9-inch pie plate and use a measuring cup to press firmly from the center to the edge to form an even crust. Transfer to the oven and bake until the crust sets, about 15 minutes. Remove and cool."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the filling: Increase the oven temperature to 375 degrees. Trim off the ends of the squash and discard. Quarter and core the squash. Fill a large saucepan with 2 inches of water and place a steamer basket inside. Bring to a boil over high heat and add the squash quarters. Lower the heat to medium, cover with a fitted lid and steam the squash until tender, about 15 minutes. Transfer the steamed squash to the bowl of a food processor and let it cool slightly, about 10 minutes. Blend until completely smooth. (You should have about 1 cup.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the sugar, cinnamon, nutmeg, cloves, vanilla and salt to the food processor, and blend until smooth. Add the cream and eggs, and blend again until smooth and combined. Place the cooled pie crust on a baking sheet and scrape the squash mixture into the crust. Bake until the edges of the custard are set and the center is slightly wobbly when you shake the pan, about 1 hour, rotating halfway through. Remove the pie from the oven and allow it to cool at room temperature."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the topping: With a sharp and heavy knife, cut about 25 thin rings (less than 1/4-inch thick) from one end of the squash. Scraping away any seeds and stringiness with a spoon, then set the rings aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Combine the sugar and 1 cup water in a medium saucepan and stir to dissolve the sugar. Add the squash slices and turn the heat on to medium. The water should cover the squash, so add more water if needed. Bring the mixture to a simmer and cook the squash slices until they are tender but not falling apart, 4 to 6 minutes. You should be able to easily poke a toothpick into the flesh. Gently remove the cooked squash onto a plate to drain and cool. Shingle the squash slices on the cooled pie and serve."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-11-18T00:00:00.000Z",
+      "dateModified": "2025-11-21T23:59:06.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ferguson"
+          },
+          "reviewBody": "I used two small delicata weighing more than a pound in total and ended up with a cup of puree. I was dubious about not peeling but using the food processor made for a smooth filling. I liked the squash circles on top. This recipe is a keeper.",
+          "datePublished": "2025-12-08T01:39:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jh"
+          },
+          "reviewBody": "The recipe doesn’t specify, but it made sense to me to peel the squash after steaming, and I ended up with way too much filling for a 9-inch round. The directions for candying the squash rings also seemed off—I needed almost two cups of water and one cup of sugar to fully cover them with enough liquid to simmer. Even after 4–6 minutes, the rings were still al dente, so I put them in the oven for some caramelization. They didn’t look as pretty as the picture, but I think the flavor was better.\n\nThe flavors in this recipe are great, but some of the instructions feel incomplete or unclear.",
+          "datePublished": "2025-12-03T18:58:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carol"
+          },
+          "reviewBody": "I made for thanksgiving because I had a lot of delicate squash from the garden.   It was really good but I think I will try a little bit less sugar next time.   The squash was sweet and it made the pie just a little too sweet for me.  I also think the squash rings not worth the trouble and won’t do them again.   It is so much easier than fresh pumpkin or butternut.  I did not peel but the texture was perfect.  It is now one of my holiday pies.",
+          "datePublished": "2025-11-29T20:31:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lindsay"
+          },
+          "reviewBody": "The pie filling was delicious, better than the standard pumpkin pie made with canned pumpkin. I used Kinnikinnick brand graham crackers to make the crust gluten free and they worked perfectly. I did not care for the taste and texture of the candied squash rings on top - if/when I make this pie again I may do decorative whipped cream or chopped hazelnuts.",
+          "datePublished": "2025-11-29T19:09:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CJ"
+          },
+          "reviewBody": "I already had a squash dish on the table, so I did this with sweet potatoes (microwaved, weighed out 1 lb of flesh) instead.  Really perfect.  I'm having it for breakfast right now.",
+          "datePublished": "2025-11-28T15:13:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jonathan Chute"
+          },
+          "reviewBody": "This is completely delicious, many people were happy at the table tonight.  I used the ginger crust others suggested.  I did not peel the delicata squash, it puréed smoothly. For the topping, after steaming the rounds I sprinkled them with turbinado sugar and broiled them for about 5 minutes to caramelize and make them pretty, that worked nicely.  But I think I’ll leave the topping out next time, it was a bit of a barrier to get through to enjoy the pie.",
+          "datePublished": "2025-11-28T06:55:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sara"
+          },
+          "reviewBody": "Um, this pie is amazing. I roasted the squash instead of steaming, and left off the skins, but did everything else as written. So. delicious. Not too sweet. Next time i would probably change the sugar:water ratio on the rings (which are unnecessary, but cute), to get a more crispy candied effect. Really great Thanksgiving pie.",
+          "datePublished": "2025-11-28T02:25:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joanna"
+          },
+          "reviewBody": "This pie was tasty, but I feel the delicata slices on type are kind of a gimmick... I thought they might be more like... candied? But they actually just tasted like squash... like you'd have on your dinner plate. Which is delicious on the dinner plate but... not really on top of pie?",
+          "datePublished": "2025-11-28T02:38:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amazing!"
+          },
+          "reviewBody": "This was A M A Z I N G. This is pumpkin pie’s sophisticated older sister and the graham cracker crust really makes it shine. My only note would be definitely make 1.5x the amount of crust - the crust shrinks when it cooks and mine ended up like more of a tart and didn’t extend fully up the wall of the pie pan. Our dinner guests gave this a resounding 11/10!",
+          "datePublished": "2025-11-28T03:55:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lizzie"
+          },
+          "reviewBody": "I’ve never really cared for pumpkin pie, but I am obsessed with this recipe!! I made it with the ginger snap crust like a commenter suggested. So much more flavor and character than your average pumpkin pie. Highly recommend!!",
+          "datePublished": "2025-11-28T01:09:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Deb"
+          },
+          "reviewBody": "I made this with the cookie crust.  Any words of advice to keep the crust from sticking to side of pie dish?  I did use a scalloped edge pie pan….. would it make a difference?  Otherwise it was super!",
+          "datePublished": "2025-11-28T00:48:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "leah"
+          },
+          "reviewBody": "Mdae this with kabocha squash. Too bad I can’t add a picture. I tiled the candied squash atop the pie. I’m sure it will be a hit at tomorrow’s festivities.",
+          "datePublished": "2025-11-26T22:34:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gillum the Stoor"
+          },
+          "reviewBody": "@Kellie\nYes, I'm hoping to figure out if I can make it today to serve tomorrow. \n\nWould I need to keep it in the refrigerator?",
+          "datePublished": "2025-11-26T20:02:52.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lizzie"
+          },
+          "reviewBody": "Oops! I forgot that a crust will shrink when you pre bake it. (I made a ginger snap crust.) Remember to mold yours 1/4” wider than you want the finished product to be.",
+          "datePublished": "2025-11-24T19:25:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "janis"
+          },
+          "reviewBody": "@TWD steaming the squash will bring out its sweetness while roasting will bring out its fiber. I would steam for this recipe.",
+          "datePublished": "2025-11-24T17:01:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robyn"
+          },
+          "reviewBody": "@TWD definitely roasting for more flavor. Good suggestion!",
+          "datePublished": "2025-12-05T04:25:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TWD"
+          },
+          "reviewBody": "I’m thinking I’ll roast the squash instead of steaming it. Wouldn’t that impart a richer flavor?",
+          "datePublished": "2025-11-22T13:18:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SR"
+          },
+          "reviewBody": "Try this with thin ginger snaps instead of graham crackers. The ginger notes are wonderful with the autumn flavours in the filling.",
+          "datePublished": "2025-11-19T20:22:41.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue"
+          },
+          "reviewBody": "I haven’t made this, but I did use a Biscoff cookie crust for pumpkin pie once and it was hailed as genius.  You wouldn’t need the added sugar in the crust.",
+          "datePublished": "2025-11-19T14:08:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jess"
+          },
+          "reviewBody": "Although the recipe says that you don’t have to peel the squash, I still probably would scrape the steamed squash off the skins (it will come off easily) unless you are highly confident in your food processor.",
+          "datePublished": "2025-11-19T15:12:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Annie"
+          },
+          "reviewBody": "@Sue biscoff and pumpkin are an excellent combo! Did that once and now everyone insists all pumpkin pies have the cookie crust.",
+          "datePublished": "2025-11-19T22:45:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lucy G"
+          },
+          "reviewBody": "Really good! I recommend peeling off the skin of the squash right after you cook it. Also would add more graham cracker for the crust.",
+          "datePublished": "2025-11-20T12:33:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TWD"
+          },
+          "reviewBody": "I’m thinking I’ll roast the squash instead of steaming it. Wouldn’t that impart a richer flavor?",
+          "datePublished": "2025-11-22T13:18:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alice"
+          },
+          "reviewBody": "Just tasted it - still warm. Very good flavor. I added spices to the crust - a turmeric. Cinnamon, ginger, black pepper blend that I keep premixed. Reduced the sugar a little. I baked it for about 45 minutes and it was done. My husband had to leave the kitchen to stop eating it.",
+          "datePublished": "2025-11-22T02:47:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "janis"
+          },
+          "reviewBody": "@TWD steaming the squash will bring out its sweetness while roasting will bring out its fiber. I would steam for this recipe.",
+          "datePublished": "2025-11-24T17:01:23.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1027515-delicata-squash-pie",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Li"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "There’s so much delicata squash available in the fall. Long and variegated, it has a surprisingly delicate skin that also makes it great for a pie because you don’t have to peel it. For a more beautifully topped pie, with small shingled rings, seek out a skinnier squash.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Delicata Squash Pie",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/32bba8fb-d1d8-5de3-b2c6-1260b551e5b3#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-19T21:51:24.005Z",
+          "datePublished": "2025-11-18T21:30:45.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:30:45.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/32bba8fb-d1d8-5de3-b2c6-1260b551e5b3#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-googleFourByThree.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-19T21:51:24.005Z",
+          "datePublished": "2025-11-18T21:30:45.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:30:45.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/32bba8fb-d1d8-5de3-b2c6-1260b551e5b3#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-mediumSquareAt3X.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-19T21:51:24.005Z",
+          "datePublished": "2025-11-18T21:30:45.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:30:45.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/32bba8fb-d1d8-5de3-b2c6-1260b551e5b3#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-facebookJumbo.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-19T21:51:24.005Z",
+          "datePublished": "2025-11-18T21:30:45.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:30:45.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf/18FD-PIES-TGREX4-SL-Delicata-Squash-Pie-qcpf-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027515-delicata-squash-pie"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-03-07T17:57:32.214Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
