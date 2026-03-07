@@ -1,0 +1,686 @@
+{
+  "id": "bca1c1639b589751",
+  "original_url": "https://cooking.nytimes.com/recipes/1023820-black-sesame-shortbread",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1023820-black-sesame-shortbread",
+  "fetched_title": "Black Sesame Shortbread Recipe (with Video)",
+  "main_text_content": "Snappy and crumbly, these not-too-sweet cookies are the sort of treats that make you take a deep breath and slow down Immediately loveable and layered with complex nutty, toasty and savory notes from black sesame, they’re great with tea The slice-and-bake dough comes together entirely in a food processor (only one bowl to wash!) and can be refrigerated as a wrapped log for a few days before baking.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026739-sesame-coconut-shortbreads\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2025/05/15/multimedia/15FD-TANISREX-DT-Coconut-cookies-tvgw/14FD-TANISREX-DT-Coconut-cookies-tvgw-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/05/15/multimedia/15FD-TANISREX-DT-Coconut-cookies-tvgw/14FD-TANISREX-DT-Coconut-cookies-tvgw-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/05/15/multimedia/15FD-TANISREX-DT-Coconut-cookies-tvgw/14FD-TANISREX-DT-Coconut-cookies-tvgw-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/05/15/multimedia/15FD-TANISREX-DT-Coconut-cookies-tvgw/14FD-TANISREX-DT-Coconut-cookies-tvgw-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/05/15/multimedia/15FD-TANISREX-DT-Coconut-cookies-tvgw/14FD-TANISREX-DT-Coconut-cookies-tvgw-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/05/15/multimedia/15FD-TANISREX-DT-Coconut-cookies-tvgw/14FD-TANISREX-DT-Coconut-cookies-tvgw-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/05/15/multimedia/15FD-TANISREX-DT-Coconut-cookies-tvgw/14FD-TANISREX-DT-Coconut-cookies-tvgw-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Sesame-Coconut Shortbreads</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">David Tanis</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/bca1c1639b589751/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/4dce040d-2a93-5a67-928e-32b535f63318",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1023820-black-sesame-shortbread",
+        "@type": "WebPage",
+        "name": "Black Sesame Shortbread"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023820-black-sesame-shortbread",
+      "name": "Black Sesame Shortbread",
+      "description": "Snappy and crumbly, these not-too-sweet cookies are the sort of treats that make you take a deep breath and slow down. Immediately loveable and layered with complex nutty, toasty and savory notes from black sesame, they’re great with tea. The slice-and-bake dough comes together entirely in a food processor (only one bowl to wash!) and can be refrigerated as a wrapped log for a few days before baking.",
+      "author": {
+        "@type": "Person",
+        "name": "Genevieve Ko"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/a07dd3f9-83d1-5f5f-962e-24782a614b9b#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Sue Li. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2023-01-13T16:50:25.853Z",
+          "datePublished": "2023-01-13T16:28:03.000Z",
+          "height": "900",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-13T16:28:03.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a07dd3f9-83d1-5f5f-962e-24782a614b9b#threeByTwoLargeAt2X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-threeByTwoLargeAt2X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Sue Li. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2023-01-13T16:50:25.853Z",
+          "datePublished": "2023-01-13T16:28:03.000Z",
+          "height": "2000",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-13T16:28:03.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-threeByTwoLargeAt2X.jpg",
+          "width": "3000"
+        },
+        {
+          "@id": "nyt://image/a07dd3f9-83d1-5f5f-962e-24782a614b9b#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Sue Li. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2023-01-13T16:50:25.853Z",
+          "datePublished": "2023-01-13T16:28:03.000Z",
+          "height": "1800",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-13T16:28:03.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/a07dd3f9-83d1-5f5f-962e-24782a614b9b#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-facebookJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Sue Li. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2023-01-13T16:50:25.853Z",
+          "datePublished": "2023-01-13T16:28:03.000Z",
+          "height": "550",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-13T16:28:03.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "totalTime": "PT45M",
+      "recipeYield": "About 24 cookies",
+      "recipeCuisine": "chinese",
+      "recipeCategory": "dessert",
+      "keywords": "food processor, lunar new year, sesame seed, shortbread",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 738
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 96,
+        "unsaturatedFatContent": "3 grams",
+        "carbohydrateContent": "9 grams",
+        "cholesterolContent": null,
+        "fatContent": "6 grams",
+        "fiberContent": "1 gram",
+        "proteinContent": "1 gram",
+        "saturatedFatContent": "3 grams",
+        "sodiumContent": "43 milligrams",
+        "sugarContent": "3 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3/4 cup/100 grams roasted black sesame seeds (see Tip)",
+        "1/3 cup/80 grams granulated sugar",
+        "3/4 teaspoon fine sea or table salt",
+        "1 cup/132 grams all-purpose flour",
+        "1/2 cup/114 grams cold unsalted butter, cut into small cubes",
+        "1 teaspoon pure vanilla extract",
+        "2 tablespoons white sesame seeds, for sprinkling"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a food processor, process the black sesame seeds, sugar and salt until the mixture forms a mass around the blade, about 3 minutes. The fat from the seeds should release, and the blend should go from the texture of wet sand to on the verge of becoming pasty. Scrape the bowl and add the flour. Pulse until the flour is evenly incorporated with the seeds into a sandy mixture."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the butter and vanilla, and pulse until the mixture forms a mass around the blade. Transfer to a sheet of plastic wrap and firmly squeeze, and roll into a 2-inch-diameter log. Wrap tightly and refrigerate until firm, at least 1 1/2 hours or up to 3 days."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When ready to bake, heat the oven to 350 degrees with racks in the top and bottom thirds of the oven. Line 2 baking sheets with parchment paper."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Cut the chilled log into 1/3-inch-thick slices and place on the prepared sheets, spacing 1/2 inch apart. If any bits of dough crumble off while slicing, pat them back into the rounds. Sprinkle the tops with the white sesame seeds."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bake, switching the positions of the sheets halfway through, until the edges are brown and the tops golden brown, 18 to 20 minutes. Cool completely on the sheets on wire racks. The shortbread will keep in an airtight container for up to 5 days."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/1007896f-cf4e-5dc7-abda-5cc07905afeb",
+        "@type": "VideoObject",
+        "author": {
+          "@id": "nyt://person/a89444f5-07d8-5c29-86d1-3c6c30133277",
+          "@type": "Person",
+          "name": "The New York Times Cooking",
+          "url": "https://www.nytimes.com/by/the-new-york-times-cooking"
+        },
+        "bitrate": "1458242",
+        "contentSize": "152089688",
+        "contentUrl": "https://vp.nyt.com/video/2025/02/04/133696_1_Black-Sesame-Shortbread-YT-Video_wg_480p.mp4",
+        "creator": {
+          "@id": "nyt://person/a89444f5-07d8-5c29-86d1-3c6c30133277",
+          "@type": "Person",
+          "name": "The New York Times Cooking"
+        },
+        "dateModified": "2025-02-13T17:50:01.721Z",
+        "datePublished": "2025-02-13T17:50:01.721Z",
+        "duration": "PT12M46S",
+        "height": "480",
+        "name": "Black Sesame Shortbread",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/a07dd3f9-83d1-5f5f-962e-24782a614b9b#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-videoSixteenByNineJumbo1600.jpg",
+            "creditText": "Linda Xiao for The New York Times. Food Stylist: Sue Li. Prop Stylist: Megan Hedgpeth.",
+            "dateModified": "2023-01-13T16:50:25.853Z",
+            "datePublished": "2023-01-13T16:28:03.000Z",
+            "height": "900",
+            "inLanguage": "en",
+            "uploadDate": "2023-01-13T16:28:03.000Z",
+            "url": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-videoSixteenByNineJumbo1600.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/a07dd3f9-83d1-5f5f-962e-24782a614b9b#threeByTwoLargeAt2X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-threeByTwoLargeAt2X.jpg",
+            "creditText": "Linda Xiao for The New York Times. Food Stylist: Sue Li. Prop Stylist: Megan Hedgpeth.",
+            "dateModified": "2023-01-13T16:50:25.853Z",
+            "datePublished": "2023-01-13T16:28:03.000Z",
+            "height": "2000",
+            "inLanguage": "en",
+            "uploadDate": "2023-01-13T16:28:03.000Z",
+            "url": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-threeByTwoLargeAt2X.jpg",
+            "width": "3000"
+          },
+          {
+            "@id": "nyt://image/a07dd3f9-83d1-5f5f-962e-24782a614b9b#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-mediumSquareAt3X.jpg",
+            "creditText": "Linda Xiao for The New York Times. Food Stylist: Sue Li. Prop Stylist: Megan Hedgpeth.",
+            "dateModified": "2023-01-13T16:50:25.853Z",
+            "datePublished": "2023-01-13T16:28:03.000Z",
+            "height": "1800",
+            "inLanguage": "en",
+            "uploadDate": "2023-01-13T16:28:03.000Z",
+            "url": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-mediumSquareAt3X.jpg",
+            "width": "1800"
+          },
+          {
+            "@id": "nyt://image/a07dd3f9-83d1-5f5f-962e-24782a614b9b#facebookJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-facebookJumbo.jpg",
+            "creditText": "Linda Xiao for The New York Times. Food Stylist: Sue Li. Prop Stylist: Megan Hedgpeth.",
+            "dateModified": "2023-01-13T16:50:25.853Z",
+            "datePublished": "2023-01-13T16:28:03.000Z",
+            "height": "550",
+            "inLanguage": "en",
+            "uploadDate": "2023-01-13T16:28:03.000Z",
+            "url": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-facebookJumbo.jpg",
+            "width": "1050"
+          }
+        ],
+        "thumbnailUrl": [
+          "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-videoSixteenByNineJumbo1600.jpg",
+          "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-threeByTwoLargeAt2X.jpg",
+          "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-mediumSquareAt3X.jpg",
+          "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-facebookJumbo.jpg"
+        ],
+        "transcript": "“Mmm.” “Mmm.” “Delicious.” “It is really good, but it’s really sticky right now.” “I like it.” “It’s for sure they’re totally stuck all over my teeth.” “I love it. You look great. Let me see your teeth. Oh, you do have some.” “I know, yeah.” “It’s O.K. We’re embracing it today.” [UPBEAT MUSIC] “Hi, I’m Genevieve Ko, and I’m here today with Sue Li. And we are here to celebrate Chinese New Year, which some people call Lunar New Year. And we’re doing it by making black sesame treats. So, Sue, what was Chinese New Year like for you growing up? How did you celebrate?” “My most familiar memory of Chinese New Year is getting the red envelope.” “Of course, yeah. What was in those red envelopes?” “Money.” “Yeah.” “Cash.” “Just cold hard cash.” “It has to be crispy new bills.” “Yeah, yeah.” “And families gathering and talking, a lot of talking. And pumpkin seeds.” “Yeah, yeah. Yeah, what are some of the sweets that you remember eating for Chinese New Year?” “There’s the traditional stuff, which is like the types of bean cakes. They’re pressed into molds.” “I remember we used to have this tray. It was this round tray. There were like eight different compartments.” “Yes.” “And each of them was filled with a different sweet.” “And it’s always eight, because eight is our lucky number.” “Yeah. So, Sue, what are you making?” “I’m making black sesame candy. During the Chinese New Year, we eat that a lot.” “That’s awesome. I love those candies. And I grew up with so many different black sesame treats, too. But I’m doing a modern take by using black sesame and shortbread cookies.” [UPBEAT MUSIC] “So we’re going to start by making this black sesame shortbread. But we’re doing this as a log cookie. I think I pushed the limits of how much butter and fat from the seeds are in there to give it that extra crispness. But they’re not too sweet, because I never like any of my cookies to be too sweet.” “No, and also a very good Asian dessert is not too sweet.” “Yeah. So, obviously, we’re going to start with the black sesame. I actually like to buy the ones that are already roasted. First we’re going to grind it with — I’m going to open that — the sugar and the salt, because they’re sort of abrasive, so they help break them up. Just like that.” “Great.” “O.K. All right. So now we can go ahead and pause it. We can see now it’s ground. It’s getting ground. But I actually want to take it further. Like black sesame seeds, it’s like 50 percent oil in there. And I actually want it to all be released.” “You know so much. I love that.” “I don’t just know it.” “You live It.” “I research. I research. I study it. I’m a nerd.” “I love it.” [JAZZY MUSIC] “Oh, so you see, now I think we can stop. There you go. So you see how we’ve gone just past wet sand to the point where they’re forming these teeny, tiny little clumps? All the fat has been released from the sesame seeds, and so they’re starting to actually stick back together. Oh, it smells so good, right?” “It smells so good. It’s just like, ahh.” “I know. We’re going to throw in the flour now.” [BLENDER MIXING] “That’s great, yeah. So now we’re just trying to create a really even mixture. All right. Very helpful, they’ve already cut our butter for us. I am going to break these up a little bit. So I actually am adding both the butter and the vanilla here to actually help the dough bind together. All right, there we go. We’re taking it to big clumps.” “Very long pulses.” “Yeah.” [BLENDER MIXING] “Thank you. Oops. All right. You don’t want it to already be so firm and stuck together, because then it won’t be as crisp and crumbly. But then you don’t want it to be so crumbly that it doesn’t hold. This dough tastes better if it goes longer—” “Ah, yeah.” “— in the oven.” “Yeah, like crispier.” “It gets a little crispier. So you can just do this in plastic wrap, but I like to start with parchment, as well, just to help the shape hold a little more. But I’m also trying to avoid that wrinkle.” “I know.” “Oh, my god. I’m so type A.” “I have issues, too, with log cookies.” “It is that desire for perfection.” “Perfection.” “All right. So we’re going to pop this in the fridge. In my most ideal world, you chill it overnight. I think it really gives the dough more flavor.” “Yes.” “And the flour hydrates more fully. But you really just need to chill until it’s firm. So even an hour in a really cold fridge, it’ll be ready. All right. So we’re going to unwrap our dough. I can feel it’s firm. And I found that if the dough is way too firm when you’re cutting it, you do want to let it sit a little. Otherwise, it’s just going to all crumble and fall apart.” [JAZZY MUSIC] “I also to rotate the dough a little while I’m slicing. One of the things for Chinese New Year is having a lot of very round things, because it’s supposed to symbolize togetherness. And then I’ll put the little guy in the middle. You can actually just bake them straight like this. But I actually like to decorate the tops with some white sesame seeds. And this actually helps. if you do have any cracks in your dough, you can cover them up this way, as well.” “My tray is like the child made it.” “No.” “You know? It’s O.K. I’m embracing it. O.K. I’m done.” “I’m done, too. Perfect timing.” “Looking great.” “All right, let’s get them in the oven. All right, so our two trays of cookies are in the oven at 350. And they actually bake for a pretty long time, like 18 to 20 minutes, because you want them crunchy all the way through. But we’re going to switch the positions of the trays at 10 minutes so that they bake totally evenly.” “Great.” “Nice and dry and crumbly. I actually wanted to keep it on these hot trays so that it keeps actually getting even crisper and browner.” [JAZZY MUSIC] “So my black sesame candy is very simple. I wanted to ask you, how do you say it in Cantonese?” “Hak zi maa. I don’t. Actually, he would know better than I do.” “Hak zi maa.” “Hak zi maa what? What’s the candy called. Tong? So, zi maa tong.” “Zhi ma tang.” “Sue is from Taiwan and speaks Mandarin.” “Yes.” “My family is from Hong Kong. I speak Cantonese.” “Right.” “So we keep saying things that sound somewhat similar.” “But they’re but different.” “They’re spoken differently, but they’re written the same.” “Correct. Yes. Thank you.” [LAUGHS] “O.K., so first I purchased untoasted sesame seeds. We’re going to toast that first.” “Awesome.” “So 1 and 1/2 cups. And then you just spread it out onto a sheet tray. Something I want to talk about before we toast it. Black sesames, obviously, you can’t really tell when they’re toasted, right? Because they’re black. When you feel untoasted — feel it — it’s a little heavier. Once you toast it, it’ll feel a little hollow. So we’re going to toast it at 350 degrees for 5 to 7 minutes. While we’re toasting the sesame seeds, I just want to prep the parchment where the sugared sesame will ultimately land. What I’m going to do is I’m going to spray with — ooh! That’s very powerful.” “That’s a really intense spray.” “It’s really powerful.” “That’s why I’m going to stand back.” “Yeah.” “Well, we’re just going to do this. I don’t want to get on my clothes.” “This is crazy.” “I know.” “So the candy, the ultimate candy, will land on the oiled side. And then we’re going to flip and put the other oiled side on top. It’s so sticky and hot. I don’t want you guys to hurt your hands. You don’t have to let it cool completely. You can just go ahead and transfer it into a bowl. I’m going to season it first with salt. And then next is 3/4 cup of sugar, white granulated sugar. A 1/4 cup of water, 2 tablespoons of light corn syrup. I’m only taking it to 250. It’s happening. Things are happening.” “Things are happening.” “O.K., now we’re at 250. I’m turning the heat off. And very quickly I’m just going to add my sesame mixture in. And I’m going to work it very quickly.” “Looks so good.” “All I’m going to do is dump it in here. You see it’s already getting hard. All we do is this. We flip it over. I pat it with my hand. And I take a rolling pin, about a quarter of an inch thick, and I roll it. At first, I thought about making it into a perfect rectangle. So then people can have perfect rectangular shapes. And I was like, you know, it’s just not fair.” “That’s too stressful.” “It’s too stressful, yeah, And it’s too hot, right? How thick are we now? No, we’re about right. Cool enough where you’re not too afraid of touching it. Yeah, it’s O.K. Let me see. Yeah, let it cool just a little bit, and then you can cut. And then we’ll flip it?” “Yeah, it’s ready. It’s O.K. that it’s a little sticky. It’ll cool off. And then once it cools, it’ll get crunchy.” “Is that too big?” “Now it’s too big. Make it smaller. I think make it any size you want, O.K.? I gave you a rubric in the recipe. I know you gave me — you told me rectangles, and then I made squares.” “Yeah, it’s O.K. It’ll be delicious.” [JAZZY MUSIC] “All right, so we’re ready to taste everything. But we’re actually going to start with what I think of as the most emblematic Chinese New Year sweet, which is oranges and tangerines and mandarin oranges. Because in Cantonese at least, the term for this is gam, which is a homonym for gold. And so when you eat these, it represents wealth in the new year. And also, they’re just delicious because they’re in season.” “They’re so sweet. I remember as a kid we would always be gifted a kumquat tree. Did you ever get those?” “Oh my goodness. That’s such a lovely gift.” “Yeah, you would bring to someone’s home a kumquat tree, or you would have one. Because the way you say kumquat in Chinese is jin ju. It means golden orange. This is still my favorite. It doesn’t matter, anytime, anywhere.” “With a cup of tea.” “Yes.” “And I remember sitting with my grandma.” “And just like, eating oranges.” “Yeah, for sure. So I’m super excited to try these black sesame candies. Because yeah, I grew up with eating these, but I actually never had a homemade one. I love breaking it off. Mmm, it’s so nutty and it’s so tasty.” “I like the addition of salt because I think it helps balance out the sweet.” “No, this is so tasty. I actually love the way it looks, too. You can see the white on the inside of the sesame.” “And tea to go with it. It’s a little sweet.” “But it’s definitely not too sweet. I love that about these, too. It’s candy and it has the perfect saltiness.” “I mean, you’re not supposed to eat the whole plate. You know, you eat, like, one. Next, let’s try your cookies. I’m really excited. This tastes fancy. I feel like I just went into a bakery, like a fancy patisserie, and they were like, we’re going to try an Asian flavor.” [LAUGHS] “This is really good.” “It’s all the richness from the butter and the black sesame.” “Yeah.” “And there’s a lot of salt.” “Yes.” “You can taste that, too. There’s a lot of salt in here, too.” “I love fancy things.” “Sesame is such an important ingredient in Chinese cuisine, and it has been for thousands of years.” “The Chinese sesame paste is very different from tahini, for example, right?” “Yeah.” “It’s toastier.” “And same thing with sesame oil. It’s a huge part of our food, too. So that’s pressed from sesame, but pressed from toasted sesame. So you have this really —” “Nutty.” “— nutty taste. I think one of the things I love the most about both of these is that they can function the same way as the oranges, in which they make great gifts. We can absolutely package these up because so much of Chinese New Year is about —” “Giving.” “— giving. It’s not quite a red envelope. It doesn’t beat the cash.” “If you visit me, bring me a red envelope. O.K.?” “Yeah. We really hope that these two sweets will really give all of you really Happy New Year.” [SPEAKING CANTONESE] - [SPEAKING MANDARIN] [JAZZY MUSIC]",
+        "uploadDate": "2025-02-13T17:50:01.721Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000009970097/black-sesame-shortbread.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-01-18T00:00:00.000Z",
+      "dateModified": "2025-02-13T21:35:05.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diane"
+          },
+          "reviewBody": "I wish I’d listened to others and reduced the salt. I might try to put some raw sugar with the sesame seeds on top to balance it out.",
+          "datePublished": "2026-03-06T06:09:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laurie_N"
+          },
+          "reviewBody": "I have made these four times. It is critically important to cook them longer than a typical shortbread as GK recommends for the wonderful texture and development of full sesame flavor. I give them the full 20 minutes.  We cover the whole cookie surface with sesame seeds for better appearance and more crunch. \nWhy do these cookies taste better the second day? It is a mystery to me, but they definitely do!",
+          "datePublished": "2026-02-25T16:45:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "HeidiO"
+          },
+          "reviewBody": "I really liked these. Not too sweet. Err on the side of under baking",
+          "datePublished": "2026-02-23T19:39:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amelia"
+          },
+          "reviewBody": "Can you use black sesame paste?",
+          "datePublished": "2026-02-15T21:27:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary Ha"
+          },
+          "reviewBody": "I do not have a food processor.  Will the recipe work if i use a stand mixer?",
+          "datePublished": "2026-02-15T17:41:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathy"
+          },
+          "reviewBody": "These are delicious. When I make them again I plan to use less black sesame seeds — maybe cut down to 1/2 cup? I also plan on using the cylindrical container trick next time to improve the shape.",
+          "datePublished": "2026-01-18T21:17:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura"
+          },
+          "reviewBody": "My dough came out so so soft— too soft to make a roll.  What did I do wrong??",
+          "datePublished": "2025-12-16T05:54:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elle"
+          },
+          "reviewBody": "I didn’t have quite enough sesame seeds, so I supplemented with poppy seeds. Came out beautifully.",
+          "datePublished": "2025-11-24T16:53:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Katie K."
+          },
+          "reviewBody": "Rather than sprinkling the white sesame seeds on top, I found it easier to have a small dish of sesame seeds and press the cookie into the seeds. to achieve the design in the photo, just scoot the seeds into a straight line and aim the cookie half and half.",
+          "datePublished": "2025-06-17T03:38:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Aenneken"
+          },
+          "reviewBody": "So good!!! I used packaged ground black sesame seeds and it worked very well. Don't get me wrong, I love the flavor of black sesame seeds, however, I would not call this shortbread because the black sesame overpowers the butter flavor (I know this cookie IS shortbread). \nI also wasn't able to achieve a round cookie. But either way, I love love love these!!",
+          "datePublished": "2025-02-15T14:46:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Iris Brito Stevens"
+          },
+          "reviewBody": "Yes you can use a blender instead of a food processor!  I used a Vitamix. I paused and scraped down the sides to ensure even grinding. I blended in shorter bursts to avoid taxing the motor. The texture turned out very smooth, it looked “sandy” and very moist with the oils. After grinding the seeds, I tossed everything in a stainless mixing bowl and used a hand mixer to break down and mix in the butter. I did the flour part in the blender. They look beautiful! They are absolutely divine!",
+          "datePublished": "2025-02-13T06:06:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hannah"
+          },
+          "reviewBody": "Way too much salt in this recipe- I wish I’d used half as much.",
+          "datePublished": "2025-02-11T14:01:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "DeeBee"
+          },
+          "reviewBody": "I used about 6Tbsp of black sesame seed paste (black tahini) and added an exta 3 Tbsp of flour because such a fine paste is more oily. The dough was very soft, but they baked up fine. Delicious.",
+          "datePublished": "2025-02-06T01:39:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RunBakeEat"
+          },
+          "reviewBody": "Lovely light and tasty. Perfect with tea.",
+          "datePublished": "2025-02-03T18:39:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rammoore"
+          },
+          "reviewBody": "These were so delicate and delicious. I may have over processed the black sesames in the food processor because I had no issues with crumbling. My biggest issue was the log! I didn’t have a paper towel cardboard core or a pringles so they were kind of flat on one side … but not too bad and that’s the side I dipped in white sesames so it would look like a design element😊. I had a pack of black sesames sitting in my freezer and this was the first time I ever used them. Will absolutely make these again.",
+          "datePublished": "2025-02-02T22:59:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Angie"
+          },
+          "reviewBody": "I just recently discovered a trick to make sure your chilled dough remains \"round\" (see link below)  Use a tube from a paper towel.  It is unfortunate that recipes do not include this easy and helpful hint.\nHow to Bake Perfectly Round Cookies - Kitchen Conundrums with Thomas Joseph\n<a href=\"https://youtu.be/L2cXkLdJaG8\" target=\"_blank\">https://youtu.be/L2cXkLdJaG8</a>",
+          "datePublished": "2023-01-20T16:48:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam"
+          },
+          "reviewBody": "Watch the NYTcooking YouTube channel for a walk through of the recipe.  Not sure why video is not in this story. <a href=\"https://youtu.be/LPnNW4_50VU\" target=\"_blank\">https://youtu.be/LPnNW4_50VU</a>. I followed the recipe exactly -- measuring ingredients by weight and cookies came out exactly as pictured.  For those complaining that the dough fell apart -- make sure in the first step that you process the seeds and sugar/salt until you get nice clumps.  You want the oil from the seeds to come out and bind everything together.",
+          "datePublished": "2023-02-14T00:51:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tina Celona"
+          },
+          "reviewBody": "A tasty and delicate-textured cookie...thanks Genevieve. When baking these in Denver (altitude 5280 ft) you need to reduce the baking time to about 17 minutes and add about 4 teaspoons of a liquid (I added an extra half tsp of vanilla extract and a Tbsp of water) to avoid excessive crumbliness. It's difficult to tell when the edges and top are browned because of the black coloring from the sesame seeds, and in my opinion that is too long (one tray came out overdone and slightly bitter-tasting).",
+          "datePublished": "2023-01-19T15:32:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Prema"
+          },
+          "reviewBody": "Is there any way to make this recipe without a food processor?  Tips are appreciated!",
+          "datePublished": "2023-01-18T22:32:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "KB"
+          },
+          "reviewBody": "Coming back to report that crumbling these over good vanilla gelato creates an extremely sophisticated version of cookies & cream ice cream. Highly recommend.",
+          "datePublished": "2023-01-26T02:49:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pat"
+          },
+          "reviewBody": "Can I use black tahini instead?  My sesame seeds have been around for awhile and I can't tell if they are rancid.",
+          "datePublished": "2023-01-14T14:00:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maggies"
+          },
+          "reviewBody": "in my experience, tahini doesn’t have the same nutty taste that toasted sesames seeds do. I expect the cookie would not be as good.\nThat said, it should be easy to tell if your sesames seeds are rancid.  Just eat a few - if that taste “off” or just don’t taste good, then you know.",
+          "datePublished": "2023-01-18T14:54:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JBA"
+          },
+          "reviewBody": "Yes - i used black sesame power and they came out great.",
+          "datePublished": "2023-01-20T01:50:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Claire"
+          },
+          "reviewBody": "I used brown rice flour and the cookies came out great.",
+          "datePublished": "2023-01-21T15:23:34.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bianca"
+          },
+          "reviewBody": "Used what I had - white sesame seeds, oven toasted - went scant (120 g) on KA flour as just noted below, added a teaspoon of toasted sesame oil as dough seemed to need it. Since I was changing it up anyway I skipped refrigeration. Rolled into small balls, dipped in seeds and pressed into discs on parchment. Only baked 15 minutes, more would have burned them, and let them set a bit on parchment as the first one I prematurely lifted off crumbled. So of course I ate it - delicious.",
+          "datePublished": "2023-01-21T20:22:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jason"
+          },
+          "reviewBody": "I'm not sure how pastry chefs do it but I put the cookie dough into a cylindrical container, like those tubes that pringles chips get sold in. I leave the container upright for a couple hours then take the dough out and continue to let the cylinder rest upright - by that point its stiff enough to not fall over. You can leave it in for longer but sometimes it gets hard to remove. (especially if it was a tight fit going in)",
+          "datePublished": "2023-01-16T19:30:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Allison"
+          },
+          "reviewBody": "These cookies are tender and delicious! With the sesame seeds, they are also very impressive looking. I found that they were not crumbly, but quite soft and fatty. This may be because I followed KAF's recommendation and used 120g of flour instead of the recipe recommended 132g. They still turned out great, but if using KAF I recommend strictly following the recipe for weights.",
+          "datePublished": "2023-01-21T18:06:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mark Lynn"
+          },
+          "reviewBody": "I made them into sandwich cookies and filled them with whipped goat cheese, honey, and a pinch of five spice powder.",
+          "datePublished": "2025-01-25T21:38:53.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melissa W"
+          },
+          "reviewBody": "Followed recipe exactly except used Bob's 1-1 gluten free flour to make them gluten free. I brought them to my bookclub where no one else is gf and they all raved about how good they were.",
+          "datePublished": "2024-07-29T01:58:56.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "hz"
+          },
+          "reviewBody": "Followed recipe and they came out perfect. Used silicon brush to lightly coat top of each cookie half with egg white, before covering that half w/ white seeds. I put the white seeds in a small bowl and used a dipping action to coat. For a perfect seed edge, it helped to lightly push them against a thin knife blade, tho on baking the cookies spread a bit, slightly disrupting the look of the seeds; maybe fridge first? Nicesesame flavor; dramatic look; more delicate texture than usual shortbread.",
+          "datePublished": "2024-02-12T14:15:42.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1023820-black-sesame-shortbread",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Genevieve Ko"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "Snappy and crumbly, these not-too-sweet cookies are the sort of treats that make you take a deep breath and slow down. Immediately loveable and layered with complex nutty, toasty and savory notes from black sesame, they’re great with tea. The slice-and-bake dough comes together entirely in a food processor (only one bowl to wash!) and can be refrigerated as a wrapped log for a few days before baking.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Black Sesame Shortbread",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/a07dd3f9-83d1-5f5f-962e-24782a614b9b#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Sue Li. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2023-01-13T16:50:25.853Z",
+          "datePublished": "2023-01-13T16:28:03.000Z",
+          "height": "900",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-13T16:28:03.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/a07dd3f9-83d1-5f5f-962e-24782a614b9b#threeByTwoLargeAt2X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-threeByTwoLargeAt2X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Sue Li. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2023-01-13T16:50:25.853Z",
+          "datePublished": "2023-01-13T16:28:03.000Z",
+          "height": "2000",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-13T16:28:03.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-threeByTwoLargeAt2X.jpg",
+          "width": "3000"
+        },
+        {
+          "@id": "nyt://image/a07dd3f9-83d1-5f5f-962e-24782a614b9b#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Sue Li. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2023-01-13T16:50:25.853Z",
+          "datePublished": "2023-01-13T16:28:03.000Z",
+          "height": "1800",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-13T16:28:03.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/a07dd3f9-83d1-5f5f-962e-24782a614b9b#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-facebookJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food Stylist: Sue Li. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2023-01-13T16:50:25.853Z",
+          "datePublished": "2023-01-13T16:28:03.000Z",
+          "height": "550",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-13T16:28:03.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/18/multimedia/13korex1-shortbreads-fkjc/12korex1-shortbreads-fkjc-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023820-black-sesame-shortbread"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-03-07T19:34:45.279Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
