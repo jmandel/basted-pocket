@@ -3,6 +3,7 @@
 
 ## 2026
 
+- https://cooking.nytimes.com/recipes/1027378-apple-and-cream-pie #dessert
 - https://cooking.nytimes.com/recipes/1027515-delicata-squash-pie #dessert #potluck
 - https://cooking.nytimes.com/recipes/1020829-sheet-pan-gochujang-chicken-and-roasted-vegetables #asian #dinner
 - https://cooking.nytimes.com/recipes/1027650-chicken-vegetable-and-barley-soup #dinner #soup
