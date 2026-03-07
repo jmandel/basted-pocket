@@ -1,0 +1,702 @@
+{
+  "id": "d876c68dc956cc22",
+  "original_url": "https://cooking.nytimes.com/recipes/1027378-apple-and-cream-pie",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1027378-apple-and-cream-pie",
+  "fetched_title": "Apple and Cream Pie Recipe (with Video)",
+  "main_text_content": "An apple pie is evergreen, but it’s best in the fall, when apples are in season Here, sweet Honeycrisps are cooked down in butter, tossed with rich heavy cream and nestled in a crust that requires no crimping Instead, the dough for the top crust is cut into squares (or any shape of your choosing), then shingled on top of the filling",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/449-honey-apple-pie-with-thyme\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2014/05/28/dining/Apple-Pie/Apple-Pie-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2014/05/28/dining/Apple-Pie/Apple-Pie-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2014/05/28/dining/Apple-Pie/Apple-Pie-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2014/05/28/dining/Apple-Pie/Apple-Pie-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2014/05/28/dining/Apple-Pie/Apple-Pie-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Honey Apple Pie With Thyme</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Melissa Clark</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/d876c68dc956cc22/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/b7ff7d38-816b-5a52-ac7c-6a2e853a1699",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1027378-apple-and-cream-pie",
+        "@type": "WebPage",
+        "name": "Apple and Cream Pie"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027378-apple-and-cream-pie",
+      "name": "Apple and Cream Pie",
+      "description": "An apple pie is evergreen, but it’s best in the fall, when apples are in season. Here, sweet Honeycrisps are cooked down in butter, tossed with rich heavy cream and nestled in a crust that requires no crimping. Instead, the dough for the top crust is cut into squares (or any shape of your choosing), then shingled on top of the filling. As it bakes, the edges will drape naturally. You do want to pay special attention to the filling: Mix the cooked apples with the remaining ingredients right before assembling, since adding them too early will break down the apples too quickly.",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Li"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/4db5ed0a-2beb-52a3-b3e7-a0a407487b79#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-20T21:21:57.169Z",
+          "datePublished": "2025-11-18T21:33:22.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:33:22.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/4db5ed0a-2beb-52a3-b3e7-a0a407487b79#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-googleFourByThree.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-20T21:21:57.169Z",
+          "datePublished": "2025-11-18T21:33:22.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:33:22.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/4db5ed0a-2beb-52a3-b3e7-a0a407487b79#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-mediumSquareAt3X.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-20T21:21:57.169Z",
+          "datePublished": "2025-11-18T21:33:22.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:33:22.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/4db5ed0a-2beb-52a3-b3e7-a0a407487b79#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-facebookJumbo.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-20T21:21:57.169Z",
+          "datePublished": "2025-11-18T21:33:22.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:33:22.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "prepTime": "PT20M",
+      "cookTime": "PT2H",
+      "totalTime": "PT2H20M",
+      "recipeYield": "8 servings",
+      "recipeCuisine": "american",
+      "recipeCategory": "dessert",
+      "keywords": "all-purpose flour, apple, apple pie, food processor, ground cinnamon, heavy cream, make-ahead, nutmeg, plan-ahead, fall, thanksgiving, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 405
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 813,
+        "unsaturatedFatContent": "14 grams",
+        "carbohydrateContent": "107 grams",
+        "cholesterolContent": null,
+        "fatContent": "42 grams",
+        "fiberContent": "7 grams",
+        "proteinContent": "7 grams",
+        "saturatedFatContent": "26 grams",
+        "sodiumContent": "497 milligrams",
+        "sugarContent": "61 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "3 cups/384 grams all-purpose flour, plus more for rolling out the dough",
+        "1 1/4 cups/283 grams cold unsalted butter, cut into ½-inch cubes",
+        "2 tablespoons granulated sugar",
+        "1 teaspoon kosher salt (such as Diamond Crystal)",
+        "6 tablespoons ice water",
+        "4 tablespoons/56 grams unsalted butter",
+        "4 pounds Honeycrisp apples (about 8 large), peeled, cored and cut into ¼- to ½-inch-thick slices",
+        "1 teaspoon kosher salt (such as Diamond Crystal) ",
+        "3/4 cup/150 grams granulated sugar",
+        "1/2 cup/100 grams light brown sugar",
+        "1 tablespoon cornstarch",
+        "1 teaspoon ground cinnamon",
+        "1/4 teaspoon ground nutmeg",
+        "1/2 cup/123 grams heavy cream",
+        "1 large egg",
+        "1 tablespoon heavy cream",
+        "2 tablespoons granulated sugar"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the dough: Combine the flour, butter, sugar and salt in the bowl of a food processor and pulse until pea-size clumps form. Add the water and pulse a few times to help the dough come together. It should start to form clumps. (Alternatively, prepare dough without a food processor: Combine the flour, butter, sugar and salt in a large mixing bowl and toss to coat the butter with flour. With your hands, pinch the butter into the dough to form pea-size pieces in the flour mixture. Drizzle in ice water and, with your hands or a wooden spoon, mix to combine.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide the dough evenly between two pieces of plastic wrap. Wrap tightly, flatten into disks and refrigerate the dough for at least 4 hours or preferably overnight."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the filling: Melt the butter in a large saucepan over medium heat. Once the butter is foamy, add the apple slices and salt, and cook, stirring occasionally, until the apples are softened and lightly translucent on the edges, 10 to 12 minutes. Scrape the apples into a large mixing bowl and cool at room temperature, about 30 minutes. (You can prepare the apples ahead of time and chill them in the refrigerator until you’re ready to bake the pie. They’ll hold for up to 48 hours.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the apple slices are cooling, take the pie dough from the refrigerator and let sit at room temperature for 10 to 15 minutes to soften slightly. Roll one disk of dough on a lightly floured surface into a 12-inch circle, then transfer to a 9-inch pie plate. Gently press to adhere and tuck in any excess dough that overhangs the edges."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Stir the sugars, cornstarch, cinnamon, nutmeg and heavy cream into the cooled pie filling and scrape into the prepared crust. Place into the fridge while you work on the top crust."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Roll the other disk of dough into a 12-inch square, then use a knife or pizza cutter to cut the dough into 16 (3-inch) squares. Don’t worry if the squares are not precise. Shingle the squares, slightly overlapping, onto the apples to cover. There’s no need to crimp the crust or press the squares to seal. Place the pie in the refrigerator and chill for about 30 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the pie chills, arrange a rack in the middle of the oven, and heat the oven to 375 degrees. Line a baking sheet with foil and place in the oven while it heats."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the egg wash: Whisk together the egg and heavy cream, and brush the top of the pie all over with the egg wash. Sprinkle the sugar in an even layer. Place the pie on top of the hot baking sheet and bake until it is deeply golden brown on top, rotating halfway through, 80 to 90 minutes. Remove the pie from the oven and cool at least 1 hour before serving."
+        }
+      ],
+      "video": {
+        "@id": "nyt://video/2c064404-139a-5505-bb30-07a19fddd237",
+        "@type": "VideoObject",
+        "author": {
+          "@id": "nyt://person/7533b102-c408-5b91-97d9-6a744eeaa410",
+          "@type": "Person",
+          "name": "Matthew Young",
+          "url": "https://www.nytimes.com/by/matthew-young"
+        },
+        "bitrate": "1456900",
+        "contentSize": "187109213",
+        "contentUrl": "https://vp.nyt.com/video/2025/11/05/153966_1_Apple-Pie-YT-VID_wg_480p.mp4",
+        "creator": {
+          "@id": "nyt://person/7533b102-c408-5b91-97d9-6a744eeaa410",
+          "@type": "Person",
+          "name": "Matthew Young",
+          "url": "https://www.nytimes.com/by/matthew-young"
+        },
+        "dateModified": "2025-11-18T23:00:16.089Z",
+        "datePublished": "2025-11-18T23:00:16.089Z",
+        "duration": "PT15M43S",
+        "height": "480",
+        "name": "Apple and Cream Pie",
+        "publisher": {
+          "@id": "https://www.nytimes.com/#publisher",
+          "@type": "NewsMediaOrganization",
+          "name": "The New York Times"
+        },
+        "thumbnail": [
+          {
+            "@id": "nyt://image/4db5ed0a-2beb-52a3-b3e7-a0a407487b79#videoSixteenByNineJumbo1600",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-videoSixteenByNineJumbo1600.jpg",
+            "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+            "dateModified": "2025-11-20T21:21:57.169Z",
+            "datePublished": "2025-11-18T21:33:22.000Z",
+            "height": "900",
+            "uploadDate": "2025-11-18T21:33:22.000Z",
+            "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-videoSixteenByNineJumbo1600.jpg",
+            "width": "1600"
+          },
+          {
+            "@id": "nyt://image/4db5ed0a-2beb-52a3-b3e7-a0a407487b79#googleFourByThree",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-googleFourByThree.jpg",
+            "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+            "dateModified": "2025-11-20T21:21:57.169Z",
+            "datePublished": "2025-11-18T21:33:22.000Z",
+            "height": "600",
+            "uploadDate": "2025-11-18T21:33:22.000Z",
+            "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-googleFourByThree.jpg",
+            "width": "800"
+          },
+          {
+            "@id": "nyt://image/4db5ed0a-2beb-52a3-b3e7-a0a407487b79#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-mediumSquareAt3X.jpg",
+            "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+            "dateModified": "2025-11-20T21:21:57.169Z",
+            "datePublished": "2025-11-18T21:33:22.000Z",
+            "height": "1800",
+            "uploadDate": "2025-11-18T21:33:22.000Z",
+            "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-mediumSquareAt3X.jpg",
+            "width": "1800"
+          },
+          {
+            "@id": "nyt://image/4db5ed0a-2beb-52a3-b3e7-a0a407487b79#facebookJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-facebookJumbo.jpg",
+            "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+            "dateModified": "2025-11-20T21:21:57.169Z",
+            "datePublished": "2025-11-18T21:33:22.000Z",
+            "height": "550",
+            "uploadDate": "2025-11-18T21:33:22.000Z",
+            "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-facebookJumbo.jpg",
+            "width": "1050"
+          }
+        ],
+        "thumbnailUrl": [
+          "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-videoSixteenByNineJumbo1600.jpg",
+          "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-googleFourByThree.jpg",
+          "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-mediumSquareAt3X.jpg",
+          "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-facebookJumbo.jpg"
+        ],
+        "transcript": "“There’s no crimps. Isn’t it a revelation? We don’t have to crimp a pie. And it’s O.K. for the edges to be imperfect. I love it.” [MUSIC PLAYING] “Hi, I’m Sue Li. I’m here to show you how to make my apple and cream pie today, inside ‘The New York Times’ cooking studio kitchen. It is one of the six pie recipes that I made for Thanksgiving this year. I love the way this pie looks and tastes. I’m so excited to show you how to make it from beginning to end, and show you some tips and tricks about how to make a really good and easy pie dough. I think the reason this pie is just really delicious and fun is because there’s cream added to it. It’s just like a really silky texture with the apples, and it’s not too sweet and not too tart. The showstopper is actually how I want you to decorate the top of the pie. I’m really proud of this recipe. It’s really one of my most favorite pies I’ve ever made. I’m going to show you how to make this pie dough by hand. Here we have flour, butter, cold. You see, the bowl has frosted up. 2 tablespoons of sugar, some salt. First, you just toss the butter and coat the butter cubes. And then you just smush it and pinch. And you sort of just do this motion. You flake it, and it’s nice and thin like that. I think there’s so much fear around making pie dough. And I had a lot of fear for a long time. It was drilled into my head like, oh, the butter needs to be ice cold and you need to work super fast. And then the dough, you can’t put too much water in. It’s always like, you can’t do this, you can’t do that. And then finally, after many, many years of making pie dough and realizing the results were always pretty much the same, yes, those rules are great. They’re there. But it’s fine. You can sort of not be so afraid of it. If you want to use a food processor and it’s much faster, you can just pulse it until it’s pea sized clumps. You’ll know when you’re done when most of the butter pieces have been mushed. It’s still kind of clumpy, a little bit like wet sand. I wouldn’t say wet sand, actually, a little bit more like moist sand. Now you want to drizzle in 6 tablespoons of ice water. So the ice water will now bind everything together. I purposely made this dough a little bit wetter than other pie dough recipes that are out there. People told me about how it has to be really dry and crumbly so that you get the best flake. It’s not weighed down by moisture. I was like, oh, it’s fine. You can add a little more water to make it easier. Every time I made a pie dough recipe that wasn’t mine, if things would just be falling apart and then I felt like I was doing everything wrong -- no one likes the feeling of failure, right? You’re not going to fail with this one. I’m going to divide the dough in half and wrap it in plastic wrap. It’s O.K if it’s not perfectly divided. Don’t worry. It may seem like the dough is really dry, but it’s fine. When you’re making, you can tell it’s actually not. Like, look at it. If you squeeze it together, it’s totally fine. You can just use the plastic wrap to help you pull it all together. I kind of like, loosely wrap the dough, because I’m going to take the rolling pin, I’m just helping it come together in the plastic wrap. You see some flakes of butter, but not too much because you do want the butter to be more incorporated. You want it to be more evenly distributed, so it helps make the flakes. So now let’s chill this dough at least four hours, but preferably overnight. So you can really do this the night before you want to make the pie, or you can keep it in the freezer and bring it out and let it thaw in the fridge before you want to make it. O.K., let’s talk apples. So I chose a Honeycrisp because I think it is a very delicious baked apple, and it has a nice balance of sweet and tart, where you don’t need to add a ton of sugar to make it sweet. And it also still has a little nice brightness to it. I chose to not use Granny Smith because I think it’s too tart, and it’s not my favorite apple to bake with. I’m sorry. And there are certain apples that are just a little too mealy for baking, so you don’t want to do that, like a Red Delicious. Slices don’t have to be precise, but I think it’s great if you just cut it into 1/4 inch slices. At home, I would go ahead and peel all the apples and then slice it all at once, finish one task at a time for efficiency. But here, I can be a little messier. We’re now going to cook the apples. Get a large skillet or a saucepan. Set it over medium heat. 4 tablespoons of butter in the pan. You want to melt it and have it be foamy. You can have it be browned, but browning is not really the flavor profile that I’m going for. So now it’s foamy. Add all the apples and toss. You’re going to do this for about 10 to 15 minutes. The slices will start to wilt and then break down a little bit. Basically, you want the slices to be slightly translucent. It’s fine that the juices are evaporating, because you don’t want the mixture to be too wet. So you see, the apple slices are kind of getting soft on the edges. That’s what you want. There’s some moisture, but not a lot, because it has evaporated. Now, as the apples are cooling, it’ll start to have a little bit more moisture come out. You do just want to drain off a lot of excess moisture and be left with maybe like about 2 tablespoons of this apple juice. There’s some liquid, and there will be a little more, but not too much after the apple is cool. You want to cool this to about room temperature, 30 to 45 minutes. So I have a small apartment, and my kitchen doesn’t have a lot of counter space, so I had to cool everything in the bathroom. I’m telling you, it was chaos. But to my husband, I’m like, you can’t go to the bathroom right now. The pies are in there. That’s disgusting. It’s what happens in my home. Because I added a little more moisture to this dough, it’ll feel a little tackier. It might be a little harder to lift, so the parchment will help you lift it. You have a generous dust. It’s fine. Don’t be afraid. You want to roll from the center out. You want to roll the dough to a round that’s about 12 to 13 inches.” [MUSIC PLAYING] “That’s about right, 12 inches. You can use the parchment. Yeah.” “You have flour on your face.” “Hmm?” “You have flour on your face.” “Oh. It’s O.K. Is it really bad?” “Yes.” “Oh, thank you so much. Drape the dough into the pie dish. Like, you don’t need to be precious about it. If there’s a little split, you can just patch it together. There might be some overhang, and I just use my hands, and I just pull it off. It’s fine. And what I’ll do with the extra dough is I will add it to the top crust. But say like this happened, I just did that. Oops. It’s fine. Just patch it. I do pull off some extra dough, but I also tucked some in, in parts. You don’t have to, if you didn’t want to. You can pull off all the excess and just add it to the top crust. And you don’t have to crimp the pie. All I do is push it down and sort of let it adhere to the dish. Let this chill in the fridge while I roll out the top crust. Now that the bottom of the pie is chilling, we’re going to roll the top layer. Sprinkle some flour on top. Now you want to roll this to about 12 to 13 inches. And this is just some of the extra dough that came off the bottom piece of the pie. I’m just going to add it.” [MUSIC PLAYING] “O.K., this is actually the fun part of the recipe. I don’t know why I’m getting nervous. I’m like, I’m doing math right now. You don’t have to use a ruler. I’m using a ruler, O.K.? Roughly 3-inch squares. You want to end up with about 16 squares. But if you wanted to use a cookie cutter and cut star shapes, do it. If you want to cut triangles, you want to cut rough shapes. Here, all I’m going to do is cut squares. There is one rule, though, I want you to follow. Once you’ve rolled out your pie dough, if you mess it up, embrace it. Don’t ball it back up and knead it again, because then it will become just a big fatty thing of dough and not flaky. See, this isn’t perfect, but we’re going to embrace imperfection today. It’s very hard for me. O.K.? I’m going to put this in the fridge and let it chill. And then we’re going to finish making the pie filling and put it in the pie. Let’s start assembling the pie. The apple slices have cooled, and you see it’s not a lot of moisture. This is what you want. The bottom of the pie dough has chilled. And now we’re going to add the seasoning. So it’s white sugar, brown sugar, cornstarch to help the liquids bind and make sure that the filling stays nicely intact once they’ve baked, and cinnamon and nutmeg. First, I’m just going to toss the dry ingredients together with the apples. So there’s a reason why I didn’t ask you to add the sugars before the apples have cooked, or before you’re ready to assemble the pie. Sugar is basically more moisture, and once it dissolves, it becomes a liquid and it will continue to macerate the apple slices. You don’t want the apples to leach out any more liquid. You want the liquid to be in the apples and be cooked, all cooked together. And also, you don’t want a sloppy mess. So now a cup of cream. And it may look like, oh my gosh, how are you going to fill it? Don’t worry. You’re going to put it all in there, and it can be domed. Now, we’re just going to scoop it all in. And it seems like it may not be able to accommodate the whole thing. It totally can, because what will happen is the apples will cook down and deflate, so the liquid will cook out as the apples cook. It kind of looks like a milkshake. Now we’re going to shingle the pie. I’m really bad at crimping pies. I get nervous every time I do it. And I thought, well, why not just put the pie dough directly on top and just have fun with it? What I’m going to do is have the pointy pieces out, and it’s going to be beautiful, because the ends of the dough are going to just drape over the pie and create a nice, like, seal on top. I’m keeping like the nice straight edges out. While I’m shingling, I can cover up imperfect edges. Well, O.K., this one’s exposed, but it’s fine. O.K., we’ll just do it like this. I mean, we’re all just faking it. We’re all like, trying to do our best. I love it.” [MUSIC PLAYING] “One large egg, a tablespoon of cream, and I just use the brush to bring it all together. I like the cream in the egg wash, because it kind of adds another layer of richness to the top of the dough. And you’ll see it. It makes like a nice crackly top. I also add sugar to the top, which also helps with making the crackly top. Mix it well. Let’s brush our pie. Normally, when you make a double crusted pie, you cut a vent, right, to let the steam come out and evaporate. But because all we did was shingle the dough, there’s no actual hard seal of the top. You don’t need to add an extra vent. Be very generous with the egg wash. It’s going to give it a really nice shine on top. And then we’re going to just sprinkle about 2 tablespoons on top. And you see it’s sticking nicely to the egg wash. When you turn the oven on to preheat it, what I would like you to do is go ahead and wrap a baking sheet in foil and put it in the oven and heat it as the oven is heating up. You want to have a hot surface on the bottom to help cook the dough under the apples. A lot of times when you get an apple pie or a fruit pie, the bottom of the dough feels a little gummy. It’s because it’s not fully cooked all the way through. There’s nothing really on the bottom that’s helping it cook. So the preheated tray in the oven helps to cook the bottom of the pie. Hey. O.K., so -- come, come. It’s been 45 minutes and I rotated the pie. Some of the crust fell off and drooped onto the tray. A little imperfection is all O.K. The reason this happened is because I was impatient about putting the pie in the oven before I let it chill some more. To prevent that from happening, you really should just let the pie chill out in the fridge after you assemble it. This is the finished apple pie that I made this morning in my apartment. The pie that we made earlier is still cooking in the oven. It’ll be like another two hours before we can cut into it. So we’re just going to eat this pie that I already made. The edges of the dough falling over the sides, I think it’s a really nice drape, and it’s so fun. And there isn’t that fear of whether or not you crimp the pie perfectly. You can’t eat it now. It’s too hot, so you want to let it cool about an hour before you slice into it and it’ll be warm on the inside. It’s sort of like cooking a piece of steak. You want the juices to distribute evenly. I’ve sliced a couple slices of pie. If I turn it around this way, you can see that the pie is quite nice. It held together. The crust is really flaky. The bottom is really crispy. The sugar has formed like a nice crunchy top. The longer the pie sits, the more stable it will be when you slice it. I love the way this pie tastes. It’s not too sweet, which is my version of a perfect dessert. There’s a little nuttiness from the cinnamon and nutmeg, and the cream really melds all the flavors together. I think it’s a great pie. I really hope everyone makes it. I’m really proud of this recipe. You can find the recipe for this apple pie and other Thanksgiving pie recipes at New York Times Cooking. Get in there. Now you know how I feel.” “It’s a good food.” “Thank you.” “I really like the crust.” “Yeah, I think so, too.”",
+        "uploadDate": "2025-11-18T23:00:16.089Z",
+        "url": "https://www.nytimes.com/video/embedded/dining/100000010506584/apple-and-cream-pie.html",
+        "width": "854"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-11-18T00:00:00.000Z",
+      "dateModified": "2025-11-19T15:52:52.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca"
+          },
+          "reviewBody": "Made this without adding any sugar to the filling. came out great.",
+          "datePublished": "2026-03-02T05:22:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Angela W."
+          },
+          "reviewBody": "This pie was amazing and a big hit. Semi proficient baker here and was attracted to the elegance of the tiled crust. Big note, do not neglect the step of foiling the baking tray, a pie with uncrimped edges will potentially weep colossally but only a downside if you don’t prepare. Will make again, for sure.",
+          "datePublished": "2026-01-11T00:13:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate"
+          },
+          "reviewBody": "I’ve never attempted a homemade pie before, but I was inspired to try this one after hearing Sue Li talk about it on NPR. Wow - what a success! Total win! I watched the video, followed the instructions closely, and it turned out AMAZING. I will be making this every holiday from now on. If, like me, you’re turned off by all the “rules” and fuss around homemade pie crust, just follow Sue’s instructions and don’t stress - it will turn out and it will be delicious!",
+          "datePublished": "2026-01-06T16:20:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bianca Russo"
+          },
+          "reviewBody": "By far the best apple pie recipe I have made. First time was perfect. Instructions and video were so helpful. Not overly sweet, apples were firm but thoroughly cooked and not mushy. No soggy crust, which was crisp and flaky. Loved the ease of the top crust, which I made with Christmas cookie cutters. I will never use another recipe.",
+          "datePublished": "2025-12-27T03:44:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chef Pizza"
+          },
+          "reviewBody": "I used a different crust recipe but gave this filling recipe a go. It turned out totally soupy, even though I *twice* reduced the juices the apples released  (once after cooking, again after adding the sugar but before adding the cream). I'm not sure what went wrong; I did not really deviate from the recipe. The flavor was good, but next time I will use a different French apple pie recipe.",
+          "datePublished": "2025-12-26T19:30:33.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ann Powers"
+          },
+          "reviewBody": "Followed the recipe. Loved the filling but my crust was a disaster. I’m usually okay with crusts but this one called for less water than i usually use …   I decided to try it anyway. Well. A crumbled mess. Not enough water. Maybe didn’t refrigerate long enough. Will try again.",
+          "datePublished": "2025-12-24T14:57:31.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ChicagoE"
+          },
+          "reviewBody": "I made this and it was delicious, but it was the messiest mess in the oven ever. There was so much apple liquid! As I feared, it all spilled out all over the place, and I had to serve the dish on aluminum foil. Part of the problem was that I followed the suggested weight of the apples, which was far more than 8. I also don't see how not sealing the crust wouldn't always result in such leakage.",
+          "datePublished": "2025-12-23T21:03:02.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Harriett"
+          },
+          "reviewBody": "I made this and it is delicious. However, the juice of the apples ran all over the foil and around the pie pan making the pan very sticky on the bottom all around the sides ans burnt on the foil, so it is important to seal the edges and wrap the foil arround the sides of the sheet pan. It took me a long time to make this pie because I tried to do it one evening after already having made the crust the night before! I do recommend making the apples and crust the day before you want to serve!",
+          "datePublished": "2025-12-17T13:31:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "I’ve been making apple pies for a long time — and this is hands-down the best recipe for both crust and filling I’ve ever made. The large quantity of the apples and the small amount of cornstarch resulted in a compact and flavorful filling that stayed put and was easy to cut and eat. All the chilling was also essential to a nice flaky easy-to handle crust. Instead of cutting squares, I used a 3” biscuit cutter and made a spiral of rounds - pretty and such a great way to vent the pie with no excess dough for crimping. So good",
+          "datePublished": "2025-12-13T17:49:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca"
+          },
+          "reviewBody": "This is the best pie I've ever made--or eaten. Bravo, Sui Li!",
+          "datePublished": "2025-12-12T02:03:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pam Hake"
+          },
+          "reviewBody": "Maybe I’m losing my mind, but did anyone make this in a 9 inch pie pan as specified in the recipe?  It was a disaster for me on Thanksgiving day.  I had misgivings but triple checked the instructions.  I went ahead with the 9” pan and had to transfer everything, crust and filling, into a 10” pan.  It still oozed and bubbled over a lot.  I also found it to be too sweet.  Very disappointed in the NYT.",
+          "datePublished": "2025-11-30T12:47:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LoPillai"
+          },
+          "reviewBody": "Made this for thanksgiving and it turned out beautifully. I had to remake the pie dough and ended up using both the dough I didn’t love and the one that was slightly better and as promised both were forgiving. The amount of apple filling seemed huge for my pie pan so i baked it in a cast iron pan which was slightly larger and deeper and needed more dough. (I added the slices when cooking the apples instead of later and I added more cinnamon and a bit of cardamom. My apples were more brown in color than in the video but delicious). The cast iron made the crust even flakier/crunchier and the pie looked pretty in it. I forgot the cornstarch and I added 1 cup of cream as suggested in the video (not the recipe). I was worried the apples would leach and the crust would be soggy so I baked on a preheated pan in hopes that would help. There was no soggy bottom! This may also be because most of the moisture is cooked off and apple’s natural pectins. (The cast iron and baking on a preheated pan may have also helped). The pie was a hit. Highly recommend!",
+          "datePublished": "2025-12-03T13:55:15.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maureen"
+          },
+          "reviewBody": "Best apple pie I’ve ever made, and I’ve made a lot. Flaky, crispy bottom crust, thanks to the preheated sheet pan and apples that are juicy but not mushy or soggy, thanks to the sauté. Gorgeous crust design and easier than crumping. Make this pie!",
+          "datePublished": "2025-12-03T11:21:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jonathan"
+          },
+          "reviewBody": "Toot toot, I’m a classically trained chef and have been in foodservice since the mid 80’s.  Enough about myself and my potential of making thousands of pies during my career. \nThis pie, this friggin pie, is so incredible.  We made it for thanksgiving, followed filling ingredients as I have my own crust procedure and have made it twice since - IT’S ONLY TUESDAY!!!  First time followed it to a T, honey crisp and all, it was amazing.  Second time for family supper on Sunday I used cosmic crisp apples and didn’t have time for crust so tossed it into a baking dish and topped with crumb. Almost like it better as a crisp.  Tonight, sugar bee apples, same crisp topping but had a little extra cream so it went in.  At first I didn’t think this recipe could be improved but viola. The cream/sugar combo coupled with the apples juices and cornstarch turns into the most amazing caramel. I just can’t stop eating it.  We typically have crumb topping premade in the freezer so start to finish it took about 30 minutes, not having a crust allows you to not cool the filling greatly reducing time overall.  We’ll be offering this pie, its source and its praises to our customers in the very near future.",
+          "datePublished": "2025-12-03T02:35:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julee Jackson"
+          },
+          "reviewBody": "Made as instructed with exception of pie crust.  I used a recipe from my French pastry chef grandmother who learned it in Paris, with shortening instead of butter, very flaky.  Next one, i would drain off most of cooking liquid from apples before adding cream.  Way too much liquid spilled out while baking.  Also, really watch cooking time for apples, mine were a little overcooked, not mushy but a little too done when pie finished.   I also reduced sugar by about 1/3.",
+          "datePublished": "2025-12-02T20:11:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Degustateer"
+          },
+          "reviewBody": "Pre-cooking the apples along with the rest of the filling ingredients provides major benefits to your pie baking. Your filling will develop a much deeper and delicious flavor, not end up being watery and set up properly - thus creating the perfect slice. Pre-cooking the filling prevents a soggy bottom crust as well. Choose apples that are meant for baking and resist becoming mushy. Use a mix of tart apples - Granny Smith and sweeter apples like Pink Lady, Braeburn or Cortland for pie perfection!",
+          "datePublished": "2025-11-19T15:51:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Grace"
+          },
+          "reviewBody": "I have been making French Apple Pie for years. The apples are covered and cooked with sugar, about 10 minutes. Then cooked, uncovered, until the liquid from the apples have evaporated. The apples are cooled and fill the pie crust, then covered with a top crust. I bake it for 20 minutes at 425 and then for another 20 minutes at 325. I have not had problems with mush. Just be gentle with the apples while cooking.",
+          "datePublished": "2025-11-19T15:29:32.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meier"
+          },
+          "reviewBody": "@Baked in Seattle I tried the technique in hand pies and it turned out great with small cubes. I think the key is lightly cooking until they lose a bit of water, but not so much that they break down. If you add cream to raw apples, the addition of the juices from the apples might make it wet. Plus pre-cooking in the butter adds some depth (I added spices into this phase with heat to wake them up.) That said, I used granny smith because they hold their shape, I didn’t try honey crisp yet.",
+          "datePublished": "2025-11-19T15:11:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nell"
+          },
+          "reviewBody": "Asked via Instagram! Sue said to use the written recipe measurement—so, 1/2 cup.",
+          "datePublished": "2025-11-20T18:50:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Baked in Seattle"
+          },
+          "reviewBody": "I am concerned that pre-cooking the apples then baking them for another 80-90 minutes will result in mush. Has anyone had success with this technique in this or other recipes?",
+          "datePublished": "2025-11-19T14:29:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "MF"
+          },
+          "reviewBody": "@Stephen Christian\n\nHas anyone answered this question yet about the discrepancy between the amount of cream in the video versus the written recipe?  That seems a material difference.",
+          "datePublished": "2025-11-20T00:51:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Raila"
+          },
+          "reviewBody": "I made this yesterday. Followed all instructions - including the 24 hour refrigeration of dough. I believe I should have added at least one more tbs of water, as my dough wasn’t nearly as moist as Sue’s. It was hard to roll out and I wondered if it would be any good…DELICIOUS! Even better today. Apples weren’t at ALL mushy. I used 1/2 cup of cream. Will definitely make again. Also, my first time ever making a pie.",
+          "datePublished": "2025-11-22T20:19:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Allyson Smith"
+          },
+          "reviewBody": "@Stephen Christian: I’m surprised no one has answered, but if you think about it, 1/2 cup is certainly safe if we must guess. After all, the rest is just apple pie ingredients, albeit with a little pre-cooking (I doubt more than 1/2 cup of liquid is lost in the process of precooking.) 1 cup might be enough extra liquid to be a mess. I wouldn’t make that gamble unless I did a trial run prior to Thanksgiving. Hopefully someone at NYT Cooking will weigh in and save us all from guessing.",
+          "datePublished": "2025-11-20T04:41:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stephen Christian"
+          },
+          "reviewBody": "In the video she added one cup of cream to the apples, but in the recipe it says 1/2 cup. Which is correct?",
+          "datePublished": "2025-11-19T23:41:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PK"
+          },
+          "reviewBody": "I always precook my apples, and the secret is to cook them just until they release their juices. The flavor is deeper and there is far less shrinkage, so you don't have that big air gap under the top crust. I like honeycrisp apples because they hold up pretty well and don't turn to mush, but mixing in another type like Granny Smith will also ensure some texture. I do question the baking time for this recipe and, depending on the oven, an hour to 70 minutes is enough.",
+          "datePublished": "2025-11-19T18:52:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mellen"
+          },
+          "reviewBody": "Can I make this the night before? Also with the cream in the filling does the finished pie need to be stored in the fridge?",
+          "datePublished": "2025-11-21T02:01:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sharon"
+          },
+          "reviewBody": "Ben, please note Step 3; the apples are precooked for 10-12 minutes.",
+          "datePublished": "2025-11-19T18:23:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nell"
+          },
+          "reviewBody": "For anyone else who noticed the measurement discrepancy between the video and the written recipe...Sue chimed in and said to \"please follow the written recipe.\" \n\ni.e. 1/2 cup of cream is correct. (Ignore the amount in video.)",
+          "datePublished": "2025-11-20T18:51:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Baked in Seattle"
+          },
+          "reviewBody": "@Degustateer the recipe calls for honeycrisp. I haven't used them for baking, but I think of them as a sweeter \"eating\" apple. Using a mix of varieties has always given me the best results. Unfortunately, while I live in a major apple-producing state, interesting heirloom varieties are hard to find.",
+          "datePublished": "2025-11-19T23:07:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nikki"
+          },
+          "reviewBody": "Perhaps it’s your choice of apples?  Select apples that hold their shape. Combine them up. Honey Crisp and Granny Smith are my go to options. Also consider the thickness of the apple slices",
+          "datePublished": "2025-11-20T01:27:13.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1027378-apple-and-cream-pie",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Li"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "An apple pie is evergreen, but it’s best in the fall, when apples are in season. Here, sweet Honeycrisps are cooked down in butter, tossed with rich heavy cream and nestled in a crust that requires no crimping. Instead, the dough for the top crust is cut into squares (or any shape of your choosing), then shingled on top of the filling. As it bakes, the edges will drape naturally. You do want to pay special attention to the filling: Mix the cooked apples with the remaining ingredients right before assembling, since adding them too early will break down the apples too quickly.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Apple and Cream Pie",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/4db5ed0a-2beb-52a3-b3e7-a0a407487b79#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-20T21:21:57.169Z",
+          "datePublished": "2025-11-18T21:33:22.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:33:22.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/4db5ed0a-2beb-52a3-b3e7-a0a407487b79#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-googleFourByThree.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-20T21:21:57.169Z",
+          "datePublished": "2025-11-18T21:33:22.000Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:33:22.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/4db5ed0a-2beb-52a3-b3e7-a0a407487b79#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-mediumSquareAt3X.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-20T21:21:57.169Z",
+          "datePublished": "2025-11-18T21:33:22.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:33:22.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/4db5ed0a-2beb-52a3-b3e7-a0a407487b79#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-facebookJumbo.jpg",
+          "creditText": "Johnny Miller for The New York Times. Food Stylist: Sue Li. Prop Stylist: Sarah Smart.",
+          "dateModified": "2025-11-20T21:21:57.169Z",
+          "datePublished": "2025-11-18T21:33:22.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2025-11-18T21:33:22.000Z",
+          "url": "https://static01.nyt.com/images/2025/11/18/multimedia/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp/18FD-PIES-TGREX1-SL-Apple-Cream-Pie-mbhp-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027378-apple-and-cream-pie"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-03-07T18:38:41.233Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
