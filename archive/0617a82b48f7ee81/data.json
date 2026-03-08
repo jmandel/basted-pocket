@@ -1,0 +1,554 @@
+{
+  "id": "0617a82b48f7ee81",
+  "original_url": "https://cooking.nytimes.com/recipes/1025420-vegetable-dumplings",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025420-vegetable-dumplings",
+  "fetched_title": "Vegetable Dumplings Recipe",
+  "main_text_content": "Inspired by childhood memories of the original Din Tai Fung in Taipei in the 1980s, this is a vegetable dumpling that just happens to be vegan Their filling — distinctive yet smooth — is most likely made with Chinese mustard greens and pork fat, plus other ethereal seasonings that are trade secrets, and tucked into translucent skins that are admirably thin This version of that dumpling uses firm tofu to bind a combination of broccoli rabe and mustard greens, balancing bitter and mild, and mung bean noodles to help absorb any excess liquid",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1027692-thai-basil-chicken-dumplings-with-rice-paper-wrappers\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2026/02/16/multimedia/16FD-DUMPLING-WEEKREX-GK-Thai-Basil-Chicken-Dumplings-With-Rice-zhwt/16FD-DUMPLING-WEEKREX-GK-Thai-Basil-Chicken-Dumplings-With-Rice-zhwt-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2026/02/16/multimedia/16FD-DUMPLING-WEEKREX-GK-Thai-Basil-Chicken-Dumplings-With-Rice-zhwt/16FD-DUMPLING-WEEKREX-GK-Thai-Basil-Chicken-Dumplings-With-Rice-zhwt-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2026/02/16/multimedia/16FD-DUMPLING-WEEKREX-GK-Thai-Basil-Chicken-Dumplings-With-Rice-zhwt/16FD-DUMPLING-WEEKREX-GK-Thai-Basil-Chicken-Dumplings-With-Rice-zhwt-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2026/02/16/multimedia/16FD-DUMPLING-WEEKREX-GK-Thai-Basil-Chicken-Dumplings-With-Rice-zhwt/16FD-DUMPLING-WEEKREX-GK-Thai-Basil-Chicken-Dumplings-With-Rice-zhwt-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2026/02/16/multimedia/16FD-DUMPLING-WEEKREX-GK-Thai-Basil-Chicken-Dumplings-With-Rice-zhwt/16FD-DUMPLING-WEEKREX-GK-Thai-Basil-Chicken-Dumplings-With-Rice-zhwt-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2026/02/16/multimedia/16FD-DUMPLING-WEEKREX-GK-Thai-Basil-Chicken-Dumplings-With-Rice-zhwt/16FD-DUMPLING-WEEKREX-GK-Thai-Basil-Chicken-Dumplings-With-Rice-zhwt-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2026/02/16/multimedia/16FD-DUMPLING-WEEKREX-GK-Thai-Basil-Chicken-Dumplings-With-Rice-zhwt/16FD-DUMPLING-WEEKREX-GK-Thai-Basil-Chicken-Dumplings-With-Rice-zhwt-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Thai Basil Chicken Dumplings With Rice Paper Wrappers</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Genevieve Ko</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/0617a82b48f7ee81/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/6fd01deb-ca54-5dd0-add3-30b407a0f70c",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1025420-vegetable-dumplings",
+        "@type": "WebPage",
+        "name": "Vegetable Dumplings"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025420-vegetable-dumplings",
+      "name": "Vegetable Dumplings",
+      "description": "Inspired by childhood memories of the original Din Tai Fung in Taipei in the 1980s, this is a vegetable dumpling that just happens to be vegan. Their filling — distinctive yet smooth — is most likely made with Chinese mustard greens and pork fat, plus other ethereal seasonings that are trade secrets, and tucked into translucent skins that are admirably thin. This version of that dumpling uses firm tofu to bind a combination of broccoli rabe and mustard greens, balancing bitter and mild, and mung bean noodles to help absorb any excess liquid. Making dumplings from scratch is a project, but they freeze well; an arsenal of frozen dumplings means you can have steamed or fried dumplings on a weeknight with little effort. If you go to Din Tai Fung in Taipei, you might observe your neighbors enjoying these with a glug of clear, light-brown rice vinegar and just a few drops of light soy sauce. Don’t rush to dress these: First, savor a few bites of your dumplings unadorned, then create your own ideal blend of vinegar and soy.",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Li"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/3001e0da-d59a-55d9-a8f7-0223b2145182#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-09-20T18:07:23.249Z",
+          "datePublished": "2024-09-20T18:07:23.249Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-20T18:07:23.249Z",
+          "url": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3001e0da-d59a-55d9-a8f7-0223b2145182#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-09-20T18:07:23.249Z",
+          "datePublished": "2024-09-20T18:07:23.249Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-20T18:07:23.249Z",
+          "url": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/3001e0da-d59a-55d9-a8f7-0223b2145182#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-09-20T18:07:23.249Z",
+          "datePublished": "2024-09-20T18:07:23.249Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-20T18:07:23.249Z",
+          "url": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/3001e0da-d59a-55d9-a8f7-0223b2145182#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-facebookJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-09-20T18:07:23.249Z",
+          "datePublished": "2024-09-20T18:07:23.249Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-20T18:07:23.249Z",
+          "url": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "prepTime": "PT2H",
+      "cookTime": "PT15M",
+      "totalTime": "PT2H15M",
+      "recipeYield": "72 dumplings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, dumplings, project, appetizer, main course",
+      "keywords": "all-purpose flour, broccoli rabe, firm tofu, food processor, freezer friendly, mustard greens, sesame oil, small plate, taiwanese, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 28
+      },
+      "recipeIngredient": [
+        "Special equipment: a wooden dowel (8 to 9 inches long) for rolling dumpling skin",
+        "4 1/2 cups/580 grams all-purpose flour, plus more for rolling",
+        "1 1/4 cups cold water",
+        "1 (2-ounce) ball/bundle of dried mung bean noodles",
+        "1 bunch broccoli rabe (about 10 ounces), ends trimmed",
+        "1 bunch mustard greens (about 12 ounces), ends trimmed (or 9 ounces Chinese mustard greens)",
+        "1 (14-ounce) package firm tofu",
+        "2 tablespoons sesame oil",
+        "2 tablespoons soy sauce",
+        "2 teaspoons sugar",
+        "2 teaspoons salt",
+        "1/2 teaspoon ground white pepper",
+        "Vegetable oil (if frying the dumplings)",
+        "Rice vinegar",
+        "Light soy sauce",
+        "Chile oil, if you must"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Prepare the dumpling wrappers (see Tip to use store-bought wrappers): Add flour and water to the bowl of a stand mixer fitted with the dough hook. Mix on medium-low speed until the dough starts to come together. (The dough will look raggedy at this stage, but don’t worry, it will come together.) With your hands, gather the dough and the loose bits and knead together in the bowl until the dough comes together and is pliable. (The dough does not have to be kneaded into a smooth ball, as it will be perfected as you work it after it has rested.) Transfer it to a bowl, cover with plastic wrap and refrigerate for at least 4 hours or overnight, if you have the foresight to prepare this ahead. (The longer it rests, the easier the dough is to work with, as it becomes more pliable with time.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the dough rests, prepare the filling: Soak the dried mung bean noodles in a large bowl of cold tap water. Set aside while you prepare the filling."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Bring a large pot of water to a boil. Add the broccoli rabe and blanch for 1 minute. The water temperature will drop when you add the broccoli rabe. Do not wait for it to come back to a boil, just let the broccoli rabe sit in the pot for 1 whole minute and then, with tongs or a spider, transfer to a colander fitted in a large metal bowl. Repeat with the mustard greens."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Rinse the blanched greens under cold running water to cool; drain. Take a few long strands of greens at a time and, with your hands, squeeze the greens very dry. Coarsely chop the dried greens and transfer them to a food processor. Pulse the greens a few times until they are chopped into pea-size pieces."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pat the tofu dry and squeeze it over the sink or colander to release as much liquid as possible. Add to the greens in the food processor, along with the sesame oil, soy sauce, sugar, salt and white pepper. Using long pulses, blend the mixture until it resembles a spinach dip, with the tofu mostly pulverized but the greens in small pieces. Transfer the mixture to a large mixing bowl."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Drain and cut the soaked mung bean noodles into 1/4- to 1/2-inch pieces and add them to tofu-greens mixture; fold with a spatula until combined. You should have about 4 1/2 cups of filling (72 tablespoons)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When the dough has rested for at least 4 hours, lightly dust a clean surface with flour, pat the dough into a rough rectangle and cut into 6 equal pieces. Roll each piece into a snake that’s roughly 12 inches long and then cut into 1-inch lengths. Dust the dough pieces with a generous amount of flour and toss to coat. Repeat with the remaining dough. You should yield 72 pieces of dough."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To roll the skin, work with one piece at a time by pressing the dough down onto the work surface using the palm of your hand. Press each piece into a small, 1- to 2-inch circle. Using the wooden dowel, start at the edge of the dough and roll to the center and back out. Rotate the dough and repeat all around the circle until the dough is about 3 1/2 to 4 inches in diameter. (If your dough is sticking too much, it may need more flour. Dust the cut pieces in the bowl with more flour and toss again to coat.) Set aside your dumpling wrapper on a floured plate and repeat with a few more pieces, then proceed to make some dumplings. (You can set aside half the dough in the fridge while you fold your dumplings, if desired, as it’s slightly easier to work with when chilled.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To fold the dumplings: Take a dumpling wrapper and spoon about 1 tablespoon of filling in the center, fold the dumpling in half (you should have about 1/4-inch of space surrounding the filling at the edge of the wrapper). Using your fingertips, make pleats to seal the filling inside the dough. There are no right or wrong ways to pleat a dumpling. An easy way to start is first fold it in half around the filling, creating a half moon shape. Then, press the edges together at the top-center of the seam to seal. Now start to make small folds on either side of the center point until the entire seam is pleated. Place each formed dumpling on a flour-dusted plate or tray and repeat with remaining skins and filling, draping them with a sheet of plastic wrap to prevent them from drying out. (To freeze the dumplings, lay them in a single layer on a large plate or small tray, cover with plastic wrap and freeze for about 1 hour. When they’ve started to firm up, you can transfer them to a zip-top freezer bag and freeze until you’re ready to cook them, or up to 3 months.)"
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To boil the dumplings, bring a large pot of water to a boil over high. Add the dumplings in batches and boil until the dough is slightly translucent around the edges, about 5 minutes, stirring occasionally so that the dumplings do not stick to the bottom of the pot. Remove the dumplings with a spider and serve immediately."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "To fry the dumplings, heat 2 tablespoons vegetable oil in a large skillet with a fitted lid over medium-high. Place the dumplings, spaced about 1/2-inch apart, in the pan and cover with a lid. Immediately lower the heat to medium-low and cook the dumplings until the bottoms are golden brown, about 5 minutes. Add 1/4 cup water to the pan and close the lid again. Steam-fry the dumplings until they are cooked through, another 2 to 3 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Serve immediately, with rice vinegar and soy sauce for dipping. (A ratio of 3 parts rice vinegar to 1 part soy sauce is recommended. Add chile oil, if desired, but do try the dumplings with just the vinegar and soy sauce first to taste the filling.)"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2024-09-20T00:00:00.000Z",
+      "dateModified": "2024-09-20T18:17:16.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "swom"
+          },
+          "reviewBody": "These are great.  It's an A+ idea to use the rapini & mustard greens!  After the first batch I made some changes I think really improve them- used seasoned pressed tofu (doufu gan/豆腐干; adds flavor but no water), 4oz garlic chives instead of glass noodles, and 1Tb ginger.  Unless you're boiling them don't bother making skins, otherwise use your pasta roller (for the KitchenAid use settings 8-4-2-1) and dust them on one side with flour.  Last, don't boil them too hard, they'll break up.",
+          "datePublished": "2026-02-23T19:41:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debby"
+          },
+          "reviewBody": "Is there a video for another dumpling recipe that would help with these? I want to make them but feel intimidated.",
+          "datePublished": "2026-02-16T13:04:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dr. Mere"
+          },
+          "reviewBody": "Great recipe. The dumpling wrappers are easy to work with, I didn't have any that split open during steaming and pan fry-ing. \nI did add about 2tsp of fresh grated ginger to the filling, and some lightly sautéed scallions. I thought they gave it just the right aromatic lift. \nWord to the wise: cut the mung bean noodles into the smallest sections you can, which prevents stray bits of noodle from jutting out when you are trying to crimp the edges.",
+          "datePublished": "2025-02-03T01:15:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diana"
+          },
+          "reviewBody": "Although I love the spicier dumplings, I also appreciate veggie ones that just contain veggies on occasion.   I really liked these, the only things I added were thinly sliced scallions, and minced garlic to taste.\nI would definitely make again!",
+          "datePublished": "2025-02-02T21:38:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Franny"
+          },
+          "reviewBody": "Can the dumpling dough be fed through a pasta machine and then cut into 3\"- 4\" circles? If so, how thick should the dough sheet be?",
+          "datePublished": "2025-01-26T21:14:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Terri B."
+          },
+          "reviewBody": "@jean-Pierre Ciudad\n\nI agree-bland!  Really needed to chili oil-but still disappointing for all the work",
+          "datePublished": "2025-01-29T18:45:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "jean-Pierre Ciudad"
+          },
+          "reviewBody": "It was a lot of work, and the result was bland. \nI did replace the mustard greens with green kale, could that be the reason?",
+          "datePublished": "2025-01-26T05:22:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CC"
+          },
+          "reviewBody": "I especially appreciate the lack of garlic here, as we have to avoid it due to GERD.",
+          "datePublished": "2025-01-25T17:54:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "suzy-q"
+          },
+          "reviewBody": "these look very complicated to make.  surely there must be some pre-made dumpling dough circles that you can buy in an asian market.\nbetter yet, the thai vegetable gyoza from trader joe are vegan and really delicious.",
+          "datePublished": "2025-01-25T21:11:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JuniorC"
+          },
+          "reviewBody": "@brigitte Yes, it mentions in the tip at the end that store-bought wrappers may be slightly smaller, so you should use less filling.",
+          "datePublished": "2026-02-15T23:08:37.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "brigitte"
+          },
+          "reviewBody": "Anyone know if you can use ready made wonton skins instead of making the dough?",
+          "datePublished": "2025-01-25T23:31:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Debbie"
+          },
+          "reviewBody": "I live at least an hour from any store that might sell mung bean noodles. Any alternative suggestions so I can make these this weekend?",
+          "datePublished": "2025-01-25T13:24:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Judy"
+          },
+          "reviewBody": "I have had good luck weighing small balls of dough and running them through my pasta maker. Resting the dough is essential",
+          "datePublished": "2025-01-25T14:49:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mark Matassa"
+          },
+          "reviewBody": "Is there nutritional information for this recipe?",
+          "datePublished": "2025-01-25T14:08:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Miranda"
+          },
+          "reviewBody": "Any way of making these dumpling skins gluten free? Would one of the several gf \"1 for 1\" blends work? Has anyone tried, and found a good option?",
+          "datePublished": "2024-10-10T02:03:07.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joey"
+          },
+          "reviewBody": "A video of this would be super helpful.",
+          "datePublished": "2024-09-27T23:01:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kc"
+          },
+          "reviewBody": "Thank you for this. Some steps in here really help fill in long-standing gaps in my skills: resting the dough for 4 hrs, for one. Gotta try them this wknd!",
+          "datePublished": "2024-09-24T03:14:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joey"
+          },
+          "reviewBody": "A video of this would be super helpful.",
+          "datePublished": "2024-09-27T23:01:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dr. Mere"
+          },
+          "reviewBody": "Great recipe. The dumpling wrappers are easy to work with, I didn't have any that split open during steaming and pan fry-ing. \nI did add about 2tsp of fresh grated ginger to the filling, and some lightly sautéed scallions. I thought they gave it just the right aromatic lift. \nWord to the wise: cut the mung bean noodles into the smallest sections you can, which prevents stray bits of noodle from jutting out when you are trying to crimp the edges.",
+          "datePublished": "2025-02-03T01:15:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kc"
+          },
+          "reviewBody": "Thank you for this. Some steps in here really help fill in long-standing gaps in my skills: resting the dough for 4 hrs, for one. Gotta try them this wknd!",
+          "datePublished": "2024-09-24T03:14:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diana"
+          },
+          "reviewBody": "Although I love the spicier dumplings, I also appreciate veggie ones that just contain veggies on occasion.   I really liked these, the only things I added were thinly sliced scallions, and minced garlic to taste.\nI would definitely make again!",
+          "datePublished": "2025-02-02T21:38:59.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Judy"
+          },
+          "reviewBody": "I have had good luck weighing small balls of dough and running them through my pasta maker. Resting the dough is essential",
+          "datePublished": "2025-01-25T14:49:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JuniorC"
+          },
+          "reviewBody": "@brigitte Yes, it mentions in the tip at the end that store-bought wrappers may be slightly smaller, so you should use less filling.",
+          "datePublished": "2026-02-15T23:08:37.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1025420-vegetable-dumplings",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Sue Li"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "description": "Inspired by childhood memories of the original Din Tai Fung in Taipei in the 1980s, this is a vegetable dumpling that just happens to be vegan. Their filling — distinctive yet smooth — is most likely made with Chinese mustard greens and pork fat, plus other ethereal seasonings that are trade secrets, and tucked into translucent skins that are admirably thin. This version of that dumpling uses firm tofu to bind a combination of broccoli rabe and mustard greens, balancing bitter and mild, and mung bean noodles to help absorb any excess liquid. Making dumplings from scratch is a project, but they freeze well; an arsenal of frozen dumplings means you can have steamed or fried dumplings on a weeknight with little effort. If you go to Din Tai Fung in Taipei, you might observe your neighbors enjoying these with a glug of clear, light-brown rice vinegar and just a few drops of light soy sauce. Don’t rush to dress these: First, savor a few bites of your dumplings unadorned, then create your own ideal blend of vinegar and soy.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Vegetable Dumplings",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/3001e0da-d59a-55d9-a8f7-0223b2145182#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-09-20T18:07:23.249Z",
+          "datePublished": "2024-09-20T18:07:23.249Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-20T18:07:23.249Z",
+          "url": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/3001e0da-d59a-55d9-a8f7-0223b2145182#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-09-20T18:07:23.249Z",
+          "datePublished": "2024-09-20T18:07:23.249Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-20T18:07:23.249Z",
+          "url": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/3001e0da-d59a-55d9-a8f7-0223b2145182#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-09-20T18:07:23.249Z",
+          "datePublished": "2024-09-20T18:07:23.249Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-20T18:07:23.249Z",
+          "url": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/3001e0da-d59a-55d9-a8f7-0223b2145182#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-facebookJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-09-20T18:07:23.249Z",
+          "datePublished": "2024-09-20T18:07:23.249Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2024-09-20T18:07:23.249Z",
+          "url": "https://static01.nyt.com/images/2024/09/20/multimedia/sl-vegetable-dumplings-kmth/sl-vegetable-dumplings-kmth-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1025420-vegetable-dumplings"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-03-08T01:35:26.013Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
