@@ -1,0 +1,322 @@
+{
+  "id": "3949701477537856",
+  "original_url": "https://cooking.nytimes.com/recipes/1027750-smoky-tomato-pasta-with-shrimp-and-almonds",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1027750-smoky-tomato-pasta-with-shrimp-and-almonds",
+  "fetched_title": "Smoky Tomato Pasta With Shrimp and Almonds Recipe",
+  "main_text_content": "This quick, one-pot pasta delivers comfort with a twist It starts with shrimp and flaked almonds fried in olive oil, infusing the base with their rich, savory flavor The shrimp are then tossed with garlic, coriander, smoked paprika and lime to create a zesty, crunchy topping",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1027696-silken-tofu-miso-dressing\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2026/02/26/multimedia/26FD-KOREX-GK-Silken-Tofu-Dressing-whqf/26FD-KOREX-GK-Silken-Tofu-Dressing-whqf-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2026/02/26/multimedia/26FD-KOREX-GK-Silken-Tofu-Dressing-whqf/26FD-KOREX-GK-Silken-Tofu-Dressing-whqf-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2026/02/26/multimedia/26FD-KOREX-GK-Silken-Tofu-Dressing-whqf/26FD-KOREX-GK-Silken-Tofu-Dressing-whqf-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2026/02/26/multimedia/26FD-KOREX-GK-Silken-Tofu-Dressing-whqf/26FD-KOREX-GK-Silken-Tofu-Dressing-whqf-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2026/02/26/multimedia/26FD-KOREX-GK-Silken-Tofu-Dressing-whqf/26FD-KOREX-GK-Silken-Tofu-Dressing-whqf-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2026/02/26/multimedia/26FD-KOREX-GK-Silken-Tofu-Dressing-whqf/26FD-KOREX-GK-Silken-Tofu-Dressing-whqf-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2026/02/26/multimedia/26FD-KOREX-GK-Silken-Tofu-Dressing-whqf/26FD-KOREX-GK-Silken-Tofu-Dressing-whqf-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Silken Tofu-Miso Dressing</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Genevieve Ko</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/3949701477537856/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/2d238692-5ff8-54d7-a309-8fbecff33248",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1027750-smoky-tomato-pasta-with-shrimp-and-almonds",
+        "@type": "WebPage",
+        "name": "Smoky Tomato Pasta With Shrimp and Almonds"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027750-smoky-tomato-pasta-with-shrimp-and-almonds",
+      "name": "Smoky Tomato Pasta With Shrimp and Almonds",
+      "description": "This quick, one-pot pasta delivers comfort with a twist. It starts with shrimp and flaked almonds fried in olive oil, infusing the base with their rich, savory flavor. The shrimp are then tossed with garlic, coriander, smoked paprika and lime to create a zesty, crunchy topping. The oil left behind is used to build a tomato sauce that’s more soupy than thick, and it’s simmered with onion and fennel seed then blended until smooth. Angel hair pasta is cooked directly in the sauce, soaking up all that layered flavor. This recipe yields a dish that feels familiar — pasta with tomato sauce — but lands somewhere brighter, bolder and a little unexpected.",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/443e4ab7-3911-503c-bd67-6c075f0a2516#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-03-13T15:35:12.258Z",
+          "datePublished": "2026-03-09T16:43:44.000Z",
+          "height": "900",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2026-03-09T16:43:44.000Z",
+          "url": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/443e4ab7-3911-503c-bd67-6c075f0a2516#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-03-13T15:35:12.258Z",
+          "datePublished": "2026-03-09T16:43:44.000Z",
+          "height": "600",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2026-03-09T16:43:44.000Z",
+          "url": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/443e4ab7-3911-503c-bd67-6c075f0a2516#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-03-13T15:35:12.258Z",
+          "datePublished": "2026-03-09T16:43:44.000Z",
+          "height": "1800",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2026-03-09T16:43:44.000Z",
+          "url": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/443e4ab7-3911-503c-bd67-6c075f0a2516#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-facebookJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-03-13T15:35:12.258Z",
+          "datePublished": "2026-03-09T16:43:44.000Z",
+          "height": "550",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2026-03-09T16:43:44.000Z",
+          "url": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "prepTime": "PT20M",
+      "cookTime": "PT40M",
+      "totalTime": "PT1H",
+      "recipeYield": "4 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, pastas, seafood, main course",
+      "keywords": "almond, crushed canned tomato, fennel seed, pasta, shrimp",
+      "aggregateRating": null,
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 884,
+        "unsaturatedFatContent": "37 grams",
+        "carbohydrateContent": "86 grams",
+        "cholesterolContent": null,
+        "fatContent": "46 grams",
+        "fiberContent": "8 grams",
+        "proteinContent": "36 grams",
+        "saturatedFatContent": "6 grams",
+        "sodiumContent": "1196 milligrams",
+        "sugarContent": "12 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "2/3 cup extra-virgin olive oil",
+        "Heaping ½ cup sliced almonds",
+        "12 ounces large shrimp, peeled, deveined and cut into 3/4-inch pieces",
+        "1 garlic clove, finely grated",
+        "½ cup finely chopped cilantro leaves",
+        "½ teaspoon sweet (or hot) smoked paprika",
+        "1 lime (1 teaspoon finely grated zest plus 1 tablespoon juice)",
+        "Fine sea salt and black pepper",
+        "2 medium onions, halved and thinly sliced",
+        "2 teaspoons fennel seeds, lightly crushed",
+        "1 (14-ounce) can crushed tomatoes",
+        "2 cups chicken or vegetable stock ",
+        "12 ounces angel hair pasta (or similar)"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the oil to a medium saucepan over high heat. Once hot, add the almonds and fry for about 30 seconds, just until starting to turn light brown, then add the shrimp and cook for another 2 minutes, stirring occasionally, until the almonds are lightly golden and the shrimp is cooked through. Remove the pan from the heat and use a slotted spoon to transfer the shrimp and almonds to a bowl. Add 3 tablespoons of the oil from the saucepan to the shrimp mixture, along with the garlic, cilantro, paprika, lime zest and juice, and 1/2 teaspoon salt. Set aside."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Return the saucepan to medium-high heat and add the onion, fennel seeds, 2 teaspoons salt, 2 tablespoons of water and a good grind of pepper. Cook for 8 minutes, stirring often, until the onions have softened and are starting to turn golden. Add the tomatoes and cook for 10 to 12 minutes more, stirring often, until the sauce has turned a deep red and the oil has started to split. Add half the chicken stock, then tilt the pan slightly and blend until smooth using a immersion blender (or transfer to a standing blender)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the remaining chicken stock plus 2 ½ cups of water and bring to a boil. Add the pasta, stirring once the pasta has started to soften, then shimmy the uncooked noodles into the sauce and cook, stirring occasionally, until al dente, about 6 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide the pasta among 4 bowls. Spoon over the sauce, then top with the shrimp mixture and serve."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2026-03-13T00:00:00.000Z",
+      "dateModified": "2026-03-13T16:06:27.000Z",
+      "review": [],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2026
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1027750-smoky-tomato-pasta-with-shrimp-and-almonds",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2026,
+      "description": "This quick, one-pot pasta delivers comfort with a twist. It starts with shrimp and flaked almonds fried in olive oil, infusing the base with their rich, savory flavor. The shrimp are then tossed with garlic, coriander, smoked paprika and lime to create a zesty, crunchy topping. The oil left behind is used to build a tomato sauce that’s more soupy than thick, and it’s simmered with onion and fennel seed then blended until smooth. Angel hair pasta is cooked directly in the sauce, soaking up all that layered flavor. This recipe yields a dish that feels familiar — pasta with tomato sauce — but lands somewhere brighter, bolder and a little unexpected.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Smoky Tomato Pasta With Shrimp and Almonds",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/443e4ab7-3911-503c-bd67-6c075f0a2516#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-03-13T15:35:12.258Z",
+          "datePublished": "2026-03-09T16:43:44.000Z",
+          "height": "900",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2026-03-09T16:43:44.000Z",
+          "url": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/443e4ab7-3911-503c-bd67-6c075f0a2516#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-03-13T15:35:12.258Z",
+          "datePublished": "2026-03-09T16:43:44.000Z",
+          "height": "600",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2026-03-09T16:43:44.000Z",
+          "url": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/443e4ab7-3911-503c-bd67-6c075f0a2516#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-03-13T15:35:12.258Z",
+          "datePublished": "2026-03-09T16:43:44.000Z",
+          "height": "1800",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2026-03-09T16:43:44.000Z",
+          "url": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/443e4ab7-3911-503c-bd67-6c075f0a2516#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-facebookJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-03-13T15:35:12.258Z",
+          "datePublished": "2026-03-09T16:43:44.000Z",
+          "height": "550",
+          "inLanguage": "en",
+          "representativeOfPage": true,
+          "uploadDate": "2026-03-09T16:43:44.000Z",
+          "url": "https://static01.nyt.com/images/2026/03/13/multimedia/13FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc/11FD-OTTOLENGHIREX-YO-Prawn-Tomato-Angel-Hair-Pasta-jlvc-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027750-smoky-tomato-pasta-with-shrimp-and-almonds"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-03-13T19:33:40.132Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
