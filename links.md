@@ -3,6 +3,7 @@
 
 ## 2026
 
+- https://cooking.nytimes.com/recipes/1027750-smoky-tomato-pasta-with-shrimp-and-almonds #dinner
 - https://cooking.nytimes.com/recipes/1025420-vegetable-dumplings #asian #dinner #veg
 - https://cooking.nytimes.com/recipes/1023820-black-sesame-shortbread #cookies #dessert
 - https://cooking.nytimes.com/recipes/1027378-apple-and-cream-pie #dessert
