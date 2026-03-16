@@ -3,6 +3,7 @@
 
 ## 2026
 
+- https://cooking.nytimes.com/recipes/1023784-lamb-meatball-and-semolina-dumpling-soup-with-collard-greens #dinner #soup
 - https://cooking.nytimes.com/recipes/1027750-smoky-tomato-pasta-with-shrimp-and-almonds #dinner
 - https://cooking.nytimes.com/recipes/1025420-vegetable-dumplings #asian #dinner #veg
 - https://cooking.nytimes.com/recipes/1023820-black-sesame-shortbread #cookies #dessert
