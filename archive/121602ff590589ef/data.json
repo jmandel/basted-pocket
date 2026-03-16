@@ -1,0 +1,599 @@
+{
+  "id": "121602ff590589ef",
+  "original_url": "https://cooking.nytimes.com/recipes/1023784-lamb-meatball-and-semolina-dumpling-soup-with-collard-greens",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1023784-lamb-meatball-and-semolina-dumpling-soup-with-collard-greens",
+  "fetched_title": "Lamb Meatball and Semolina Dumpling Soup With Collard Greens Recipe",
+  "main_text_content": "This hearty soup is a meal in a bowl It is very much inspired by Iraqi kubba hamuth “Hamuth” means sour in Arabic, which refers to the soup’s sour tomato and lemon broth",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1016255-lamb-meatballs-with-spiced-tomato-sauce\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2024/02/20/multimedia/SS-Lamb-Meatballs-bzml/SS-Lamb-Meatballs-bzml-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/02/20/multimedia/SS-Lamb-Meatballs-bzml/SS-Lamb-Meatballs-bzml-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/02/20/multimedia/SS-Lamb-Meatballs-bzml/SS-Lamb-Meatballs-bzml-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/02/20/multimedia/SS-Lamb-Meatballs-bzml/SS-Lamb-Meatballs-bzml-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/02/20/multimedia/SS-Lamb-Meatballs-bzml/SS-Lamb-Meatballs-bzml-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/02/20/multimedia/SS-Lamb-Meatballs-bzml/SS-Lamb-Meatballs-bzml-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/02/20/multimedia/SS-Lamb-Meatballs-bzml/SS-Lamb-Meatballs-bzml-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Lamb Meatballs With Spiced Tomato Sauce</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Sam Sifton</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/121602ff590589ef/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/b55e48cd-ec62-5b41-976d-c7c60894e83c",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1023784-lamb-meatball-and-semolina-dumpling-soup-with-collard-greens",
+        "@type": "WebPage",
+        "name": "Lamb Meatball and Semolina Dumpling Soup With Collard Greens"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023784-lamb-meatball-and-semolina-dumpling-soup-with-collard-greens",
+      "name": "Lamb Meatball and Semolina Dumpling Soup With Collard Greens",
+      "description": "This hearty soup is a meal in a bowl. It is very much inspired by Iraqi kubba hamuth. “Hamuth” means sour in Arabic, which refers to the soup’s sour tomato and lemon broth. Traditionally, the soup contains lamb-stuffed semolina dumplings called “kubba.” The divergence here is that they exist as two separate components — meatballs and semolina dumplings — and add a wonderful textural contrast. If you can’t find collard greens, feel free to swap these out for an equal amount of Tuscan kale.",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/0fd49ed4-e42c-59ad-b9fb-45a065306f6f#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.",
+          "dateModified": "2023-01-17T17:38:59.618Z",
+          "datePublished": "2023-01-17T17:38:19.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-17T17:38:19.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/0fd49ed4-e42c-59ad-b9fb-45a065306f6f#threeByTwoLargeAt2X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-threeByTwoLargeAt2X.jpg",
+          "creditText": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.",
+          "dateModified": "2023-01-17T17:38:59.618Z",
+          "datePublished": "2023-01-17T17:38:19.000Z",
+          "height": "3000",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-17T17:38:19.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-threeByTwoLargeAt2X.jpg",
+          "width": "4500"
+        },
+        {
+          "@id": "nyt://image/0fd49ed4-e42c-59ad-b9fb-45a065306f6f#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-mediumSquareAt3X.jpg",
+          "creditText": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.",
+          "dateModified": "2023-01-17T17:38:59.618Z",
+          "datePublished": "2023-01-17T17:38:19.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-17T17:38:19.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/0fd49ed4-e42c-59ad-b9fb-45a065306f6f#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-facebookJumbo.jpg",
+          "creditText": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.",
+          "dateModified": "2023-01-17T17:38:59.618Z",
+          "datePublished": "2023-01-17T17:38:19.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-17T17:38:19.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "totalTime": "PT50M",
+      "recipeYield": "4 to 6 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "dinner, lunch, dumplings, meatballs, main course",
+      "keywords": "bread crumb, buttermilk, cilantro, collard greens, ground lamb, semolina flour, soup, tomato paste",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 300
+      },
+      "recipeIngredient": [
+        "10 ounces ground lamb",
+        "1/3 cup/30 grams fresh bread crumbs (see Tip)",
+        "1/4 cup coarsely grated onion",
+        "Scant 1/4 cup finely chopped fresh parsley",
+        "1 1/2 teaspoons ground allspice",
+        "1 teaspoon ground cumin",
+        "3/4 teaspoon fine sea salt",
+        "1 tablespoon olive oil, plus more for greasing your hands",
+        "1 small onion, peeled and roughly chopped",
+        "5 garlic cloves, peeled and roughly chopped",
+        "2 jalapeños, halved, seeded and roughly chopped",
+        "1/4 cup olive oil",
+        "6 tablespoons/90 grams tomato paste",
+        "1/2 cup finely chopped fresh cilantro, plus more for garnish",
+        "1 1/2 teaspoons ground cumin",
+        "1 1/2 teaspoons ground coriander",
+        "1/2 teaspoon ground turmeric",
+        "1 small (10-ounce) bunch collard greens, stems removed, leaves finely shredded",
+        "1 tablespoon fine semolina",
+        "3/4 teaspoon granulated sugar",
+        "1 quart store-bought or homemade chicken stock",
+        "Fine sea salt and black pepper",
+        "1/4 cup fresh lemon juice",
+        "1/4 cup buttermilk, plus ¼ cup for serving",
+        "3 tablespoons unsalted butter, melted",
+        "1 large egg",
+        "1/2 teaspoon baking powder",
+        "Fine sea salt and black pepper",
+        "1/2 cup/50 grams fresh bread crumbs (see Tip)",
+        "1/2 cup fine semolina"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the meatballs: Add all the ingredients minus the oil to a medium bowl and use your hands to knead the mixture thoroughly. Use lightly oiled hands to roll into 18 small balls and place on a plate."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the 1 tablespoon of oil in a large nonstick pan over medium-high. Once very hot, add the meatballs and cook for 3 to 4 minutes, turning as necessary, until nicely browned but not cooked through. Transfer the meatballs and any juices collected to a large, shallow bowl and set aside until needed."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the broth: Add the onion, garlic and jalapeños to a food processor and blitz into a rough paste. Add the oil to a deep, medium lidded saucepan and place it over medium-high heat. Once hot, add the onion mixture and cook for 6 minutes, stirring occasionally, until softened and browned. Add the tomato paste, cilantro, cumin, coriander and turmeric and cook for 1 1/2 to 2 minutes, stirring often, until deeply red. Add the collard greens in big handfuls, stirring with each addition, until slightly wilted. Stir in the semolina and sugar, then the stock, 1 cup water, 1 1/2 teaspoons salt and a good grind of pepper; bring to a boil over high. Turn the heat down to medium and leave to simmer for 15 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "While the broth simmers, make the dumplings: In a large bowl, whisk the buttermilk, butter, egg, baking powder, ½ teaspoon salt and a good grind of pepper just until combined. Add the bread crumbs and semolina and mix until just combined; don’t overwork it. Set aside for 5 minutes to firm up slightly, then use your hands to shape the mixture into 18 small balls. Make sure they’re nice and compact as you shape them."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Turn the heat on the broth down to medium-low and stir in the meatballs. Next, gently lower in the dumplings one by one, without stirring. Cover the pot and leave to cook for 10 minutes, until the dumplings have puffed up and are cooked through. Remove the lid and gently stir in the lemon juice."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide the soup among 4 bowls then drizzle with the extra buttermilk, sprinkle with additional cilantro and serve warm."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2023-01-22T00:00:00.000Z",
+      "dateModified": "2023-01-31T17:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "T Bone"
+          },
+          "reviewBody": "Great recipe! Tasted pretty close to some dishes I’ve had at Mediterranean restaurants. I altered the recipe a bit. I omitted the dumplings and thickened the sauce and served it over couscous with a bit of tzatziki on top. It was delicious! I also substituted the semolina for flour and it was fine. Next time I’d maybe add some diced tomatoes and make a bit more sauce. It’s also important to put a lid over the meatballs when cooked in the sauce. Mine originally came out pretty rare. I’ll definitely be making this again.",
+          "datePublished": "2026-01-31T19:36:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ritu @omshalomkitchen"
+          },
+          "reviewBody": "I recently returned from Tel Aviv, where I had a version of this dish at an Iraqi and Persian owned restaurant and was blown away. I wanted to make it myself, but the idea of stuffed dumplings felt overwhelming. This recipe made it doable and the results were fantastic. I replaced the lemon with 1 tspn of citric acid (authentic recipe calls for this), used Swiss chard halved the breadcrumbs and added one egg to the meatballs (so they wouldn't fall apart), and added leeks and carrots. Amazing!",
+          "datePublished": "2026-01-15T17:18:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Erin"
+          },
+          "reviewBody": "Only 1/2 tsp allspice, and replaced greens with parsley (what we had in the fridge). Cooked meatballs in air fryer until toasted / browned. Phenomenal recipe - family loved it!",
+          "datePublished": "2026-01-01T15:22:00.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Max"
+          },
+          "reviewBody": "This recipe is delicious except my dumplings turned out really dense and did not grow in size at all. I followed the recipe exactly except I used panko bread crumbs. Any ideas what I did wrong?",
+          "datePublished": "2025-12-01T03:15:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jane"
+          },
+          "reviewBody": "I really wanted to like this recipe!  But for me it's just so so.  I had semolina in the pantry and subbed a beautiful bunch of kale for the greens.  I am unable to eat garlic and subbed shallots.  Otherwise followed the recipe and used good quality bread for fresh crumbs.  For me this recipe requires numerous steps and extra dirty dishes and is not worth the extra trouble when there are so many wonderful soup/stew. recipes that provide more flavor and fewer dirty dishes. I am an organized cook and I don't see how one could make this dish in the 50 minutes indicated in the recipe.  \"Meh.\"",
+          "datePublished": "2025-06-29T14:02:14.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Matthew"
+          },
+          "reviewBody": "As always with Ottolenghi recipes, the amount of time and ingredients are always greater than expected… with results that are always greater than anticipated. Incredible layered flavor and the semolina dumpling texture was a surprise delight.  That said, I would 100% make the meatballs the day in advance.",
+          "datePublished": "2025-06-08T00:36:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "cmgc"
+          },
+          "reviewBody": "these are restaurant-quality delicious! Absolutely wonderful. Took me a full 2 hours to make and it was worth the time and effort. sooooo good",
+          "datePublished": "2025-01-22T02:49:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Julie  Evans"
+          },
+          "reviewBody": "This is recipe to make on a winter weekend or holiday when you are not rushed. It takes time and care, but the flavors and textures are so worth the effort.  Share with friends and family!!",
+          "datePublished": "2025-01-11T18:51:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mary in Chicago"
+          },
+          "reviewBody": "Here's what Jacque Pepin does with Jalepeños - and it makes a lot of sense. He cuts it open, takes a piece that has the seeds in it, touches the piece and seeds to the tip of his tongue and says in his charming accent \"Oooh that's a hot one!\" Seriously, Jalepeños vary greatly in their heat, so I always follow Jacques advice and taste the pepper before deciding exactly how I want to use it, depending. Salute to Jacque! I still watch his shows in re-runs! Great fun. Like this recipe a lot.",
+          "datePublished": "2024-11-16T23:00:19.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Loved It!"
+          },
+          "reviewBody": "Absolutely delicious! Made nearly exactly as instructed, except subbed in 2 thai chilis instead of jalapeños and used only 1/2 the recommended lemon juice at the end. Didn't weigh my collards as we had a beautiful bunch for our CSA and I wanted to use it all up, but extra greens never hurt!",
+          "datePublished": "2024-09-23T11:58:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Vduncan"
+          },
+          "reviewBody": "Worth the extra effort ! Something different.",
+          "datePublished": "2024-09-18T23:02:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "GreenLight"
+          },
+          "reviewBody": "Sharing my tips for streamlining as this has become a family favorite and a soup I absolutely crave, and we do get it on the table in under an hour  1) prep all the vegetables in two bowls first (meatball and soup base) saving only collards to prep while cooking — saves time and stress as the recipe moves faster than you think and there are lots of overlapping ingredients, 2) brown the meatballs in the soup pot then let the soup base deglaze, 3) skip the dumplings, serve w crusty bread.",
+          "datePublished": "2024-05-07T16:45:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "M"
+          },
+          "reviewBody": "Love this! I made this last year and again yesterday. It's wonderful but time-consuming (unless you enlist a second pair of hands). Making the meatballs a day or two ahead helps.",
+          "datePublished": "2024-02-18T19:33:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam"
+          },
+          "reviewBody": "I faked buttermilk with a mix of Greek yogurt thinned with half and half. Yum.\n\nI had leftovers - had to add water but the dumplings held up great. A little less delicate on day two but they absorbed more flavor! \n\nYes, this involves too many dishes and is a little bit of work. But would be fun and not too bad at all with two people - one on dumplings, one on meatballs. I was able to do alone more or less in the specified time, but I was working nonstop.",
+          "datePublished": "2024-02-07T17:21:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sam"
+          },
+          "reviewBody": "This takes a lot of pots, pans, prep and clean-up. It's delicious but perhaps best for a night that you have about 2 hours to dedicate.",
+          "datePublished": "2024-01-14T13:43:03.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate"
+          },
+          "reviewBody": "Cream of Wheat isn't semolina.  Semolina's made from durum wheat, a particularly hard type of wheat.  Cream of Wheat is made from other wheats.  You can buy semolina ground to different consistencies, but this recipe seems to want a fine grind, like you would use to make semolina pasta.  It's often available in grocery stores from a number of companies, such as Bob's Red Mill, or you can buy it online.  I get mine from Janie's Mill when I order other flours.",
+          "datePublished": "2023-01-18T14:32:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eileen"
+          },
+          "reviewBody": "If you have access to an Asian market, semolina is called sooji or rava.",
+          "datePublished": "2023-01-19T02:20:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BDW"
+          },
+          "reviewBody": "This was fantastic, made exactly as written. Complex, comfort-food, delicious. Definitely 5-star, definitely going on the rotation here.\n\nOnly nitpick I have is that step 3 should have been broken into multiple steps. I found myself almost missing bits as I moved through it and having to go back and carefully read sentence-by-sentence. Had it been written as 3-4 distinct steps it would have been easier to follow.",
+          "datePublished": "2023-01-19T13:49:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ASO"
+          },
+          "reviewBody": "Substituted cooked mayocoba beans (Rancho Gordo- like cannellini) for the semolina dumpling part.  That cut off 30 minutes of time, making it a super quick and delicious meal.",
+          "datePublished": "2023-01-22T21:13:04.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura"
+          },
+          "reviewBody": "This is an amazing recipe — we devoured it. Some suggestions — leave the seeds in the jalapeños, the heat goes well with the heavy lemon addition at the end. Add a splash of fish sauce into the broth with the tomato paste step. Make the dumpling dough before you do anything else. Leave it covered in the refrigerator while you prepare the soup to the step where the dumplings go in. The dumplings are delicate and I think giving them time to set up helps them stick together.",
+          "datePublished": "2023-11-22T21:20:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Steve"
+          },
+          "reviewBody": "One does not need to pick the cilantro leaves off the stems.  The stems are flavorful.  Just chop the leaves on the stems.",
+          "datePublished": "2023-02-01T04:07:27.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "julesmarge"
+          },
+          "reviewBody": "My partner and I loved this recipe. Perhaps a bit laborious for a busy weeknight but perfect when you have some time to spend in the kitchen. It’s a really simple recipe just with a few parts. I subbed 12 oz of Impossible beef for the ground lamb and it worked out really well. The spices were wonderful in the meatballs. Loved the sour broth. Loved the rich, soft dumplings. No notes! Can’t wait to make it again.",
+          "datePublished": "2023-02-06T05:29:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "GreenLight"
+          },
+          "reviewBody": "I messed up the dumplings. Used a cookie scoop and I don’t know if it was just because they were too big (I only got around 9) or if they weren’t compacted enough, or possibly it’s because I used multigrain bread, but they mostly fell apart even with extra simmer time. Still incredibly delicious. Whole fam loved it, even the collard averse teen. Will def make again.",
+          "datePublished": "2023-01-23T02:07:01.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jean"
+          },
+          "reviewBody": "Me too!  Dumplings fell apart!  Any idea why?",
+          "datePublished": "2023-01-24T19:17:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lee Ann"
+          },
+          "reviewBody": "Such bright flavor, and the dumplings and lamb are delicious. I did this over 2 days, mixing meat mixture and jalapeño mixture us prep evening before, then broth and rest of steps the next day. A lot of ingredients but worth it.",
+          "datePublished": "2023-02-21T19:52:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara"
+          },
+          "reviewBody": "Substituted Chard for Collards but Collards would have stood up to the textures and flavors better. Otherwise, I made the soup exactly as written and it was excellent - a serious soup for a cold winter night.",
+          "datePublished": "2023-01-20T07:29:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca H"
+          },
+          "reviewBody": "This is a spectacular recipe. Does not disappoint- followed it exactly and really tastes like the middle east.",
+          "datePublished": "2023-01-22T18:24:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Janette"
+          },
+          "reviewBody": "Made this recipe as written and it was supremely wonderful. Recommend that cooks invest a little time up front prepping (ie measuring spices, slicing collard greens etc) so they won’t be frantically consulting the recipe.",
+          "datePublished": "2023-01-29T06:49:55.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Seth"
+          },
+          "reviewBody": "Thanks! I was looking for a cook who used Impossible. It's brilliant in albondigas, so I was pretty sure it'd work well here.",
+          "datePublished": "2023-02-07T22:45:50.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Barbara"
+          },
+          "reviewBody": "Recipe is delicious but is too time consuming with prep, all those steps, & dirties way too many dishes & pots.  Forget using crustless white bread (any bread is fine), use frozen chopped kale, and I'm going to make as a stew with ground lamb in broth (no lamb balls) but will make those yummy light semolina dumplings.  One pot and all the flavor.",
+          "datePublished": "2023-04-21T21:11:41.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1023784-lamb-meatball-and-semolina-dumpling-soup-with-collard-greens",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "description": "This hearty soup is a meal in a bowl. It is very much inspired by Iraqi kubba hamuth. “Hamuth” means sour in Arabic, which refers to the soup’s sour tomato and lemon broth. Traditionally, the soup contains lamb-stuffed semolina dumplings called “kubba.” The divergence here is that they exist as two separate components — meatballs and semolina dumplings — and add a wonderful textural contrast. If you can’t find collard greens, feel free to swap these out for an equal amount of Tuscan kale.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Lamb Meatball and Semolina Dumpling Soup With Collard Greens",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/0fd49ed4-e42c-59ad-b9fb-45a065306f6f#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.",
+          "dateModified": "2023-01-17T17:38:59.618Z",
+          "datePublished": "2023-01-17T17:38:19.000Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-17T17:38:19.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/0fd49ed4-e42c-59ad-b9fb-45a065306f6f#threeByTwoLargeAt2X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-threeByTwoLargeAt2X.jpg",
+          "creditText": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.",
+          "dateModified": "2023-01-17T17:38:59.618Z",
+          "datePublished": "2023-01-17T17:38:19.000Z",
+          "height": "3000",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-17T17:38:19.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-threeByTwoLargeAt2X.jpg",
+          "width": "4500"
+        },
+        {
+          "@id": "nyt://image/0fd49ed4-e42c-59ad-b9fb-45a065306f6f#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-mediumSquareAt3X.jpg",
+          "creditText": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.",
+          "dateModified": "2023-01-17T17:38:59.618Z",
+          "datePublished": "2023-01-17T17:38:19.000Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-17T17:38:19.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/0fd49ed4-e42c-59ad-b9fb-45a065306f6f#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-facebookJumbo.jpg",
+          "creditText": "Chris Simpson for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Sophia Pappas.",
+          "dateModified": "2023-01-17T17:38:59.618Z",
+          "datePublished": "2023-01-17T17:38:19.000Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2023-01-17T17:38:19.000Z",
+          "url": "https://static01.nyt.com/images/2023/01/22/multimedia/22EAT-lamb-meatball-soup-tpfh/22EAT-lamb-meatball-soup-tpfh-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1023784-lamb-meatball-and-semolina-dumpling-soup-with-collard-greens"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-03-16T15:48:17.792Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
