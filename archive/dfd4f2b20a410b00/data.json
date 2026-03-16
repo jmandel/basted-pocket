@@ -1,0 +1,617 @@
+{
+  "id": "dfd4f2b20a410b00",
+  "original_url": "https://cooking.nytimes.com/recipes/1022804-devils-food-cake-with-hazelnut-praline",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1022804-devils-food-cake-with-hazelnut-praline",
+  "fetched_title": "Devil’s Food Cake With Hazelnut Praline Recipe",
+  "main_text_content": "The best thing about chocolate cake is that it doesn’t really need a specific season or, arguably, a specific reason to be made The malted cream and hazelnut praline make this cake what you could call “pure joy” in dessert form You’ll make more smooth praline than you need; keep any extra in a jar in the fridge to spread onto toast, or to mix with cocoa powder for a Nutella-esque experience",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1025466-easy-chocolate-cake\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2024/06/20/multimedia/ya-easy-chocolate-layer-cake-gjcp/ya-easy-chocolate-layer-cake-gjcp-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2024/06/20/multimedia/ya-easy-chocolate-layer-cake-gjcp/ya-easy-chocolate-layer-cake-gjcp-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2024/06/20/multimedia/ya-easy-chocolate-layer-cake-gjcp/ya-easy-chocolate-layer-cake-gjcp-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2024/06/20/multimedia/ya-easy-chocolate-layer-cake-gjcp/ya-easy-chocolate-layer-cake-gjcp-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2024/06/20/multimedia/ya-easy-chocolate-layer-cake-gjcp/ya-easy-chocolate-layer-cake-gjcp-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2024/06/20/multimedia/ya-easy-chocolate-layer-cake-gjcp/ya-easy-chocolate-layer-cake-gjcp-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2024/06/20/multimedia/ya-easy-chocolate-layer-cake-gjcp/ya-easy-chocolate-layer-cake-gjcp-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Easy Chocolate Cake</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Yossy Arefi</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/merlin_198057777_396b3769-07ea-45ba-b3e2-87607f8f4441-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/dfd4f2b20a410b00/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/2125fdb9-e344-5c88-a0f0-20f5b22d8aac",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1022804-devils-food-cake-with-hazelnut-praline",
+        "@type": "WebPage",
+        "name": "Devil’s Food Cake With Hazelnut Praline"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022804-devils-food-cake-with-hazelnut-praline",
+      "name": "Devil’s Food Cake With Hazelnut Praline",
+      "description": "The best thing about chocolate cake is that it doesn’t really need a specific season or, arguably, a specific reason to be made. The malted cream and hazelnut praline make this cake what you could call “pure joy” in dessert form. You’ll make more smooth praline than you need; keep any extra in a jar in the fridge to spread onto toast, or to mix with cocoa powder for a Nutella-esque experience. You surely won’t regret it.",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/4dc179b2-0631-5aae-aa4d-0c1386efeb75#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/merlin_198057777_396b3769-07ea-45ba-b3e2-87607f8f4441-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-12-10T17:29:22.508Z",
+          "datePublished": "2021-12-10T17:29:22.508Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-12-10T17:29:22.508Z",
+          "url": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/merlin_198057777_396b3769-07ea-45ba-b3e2-87607f8f4441-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/4dc179b2-0631-5aae-aa4d-0c1386efeb75#threeByTwoLargeAt2X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/merlin_198057777_396b3769-07ea-45ba-b3e2-87607f8f4441-threeByTwoLargeAt2X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-12-10T17:29:22.508Z",
+          "datePublished": "2021-12-10T17:29:22.508Z",
+          "height": "3000",
+          "representativeOfPage": true,
+          "uploadDate": "2021-12-10T17:29:22.508Z",
+          "url": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/merlin_198057777_396b3769-07ea-45ba-b3e2-87607f8f4441-threeByTwoLargeAt2X.jpg",
+          "width": "4500"
+        },
+        {
+          "@id": "nyt://image/4dc179b2-0631-5aae-aa4d-0c1386efeb75#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/merlin_198057777_396b3769-07ea-45ba-b3e2-87607f8f4441-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-12-10T17:29:22.508Z",
+          "datePublished": "2021-12-10T17:29:22.508Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-12-10T17:29:22.508Z",
+          "url": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/merlin_198057777_396b3769-07ea-45ba-b3e2-87607f8f4441-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/4dc179b2-0631-5aae-aa4d-0c1386efeb75#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/10Ottorex-facebookJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-12-10T17:29:22.508Z",
+          "datePublished": "2021-12-10T17:29:22.508Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2021-12-10T17:29:22.508Z",
+          "url": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/10Ottorex-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "totalTime": "PT1H30M",
+      "recipeYield": "8 servings",
+      "recipeCuisine": "",
+      "recipeCategory": "",
+      "keywords": "chocolate cake, dutch-processed cocoa powder, hazelnut, kefir, layer cake",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 4,
+        "ratingCount": 686
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 1011,
+        "unsaturatedFatContent": "37 grams",
+        "carbohydrateContent": "119 grams",
+        "cholesterolContent": null,
+        "fatContent": "59 grams",
+        "fiberContent": "6 grams",
+        "proteinContent": "13 grams",
+        "saturatedFatContent": "19 grams",
+        "sodiumContent": "697 milligrams",
+        "sugarContent": "91 grams",
+        "transFatContent": "1 gram"
+      },
+      "recipeIngredient": [
+        "5 1/3 ounces/150 grams sunflower oil (by weight not by volume), plus more for greasing the pan",
+        "3/4 cup/75 grams unsweetened Dutch-processed cocoa powder",
+        "1 1/2 cups/192 grams all-purpose flour (plain flour)",
+        "1 teaspoon baking powder",
+        "1 teaspoon baking soda (bicarbonate of soda)",
+        "1 teaspoon salt",
+        "1 cup/200 grams superfine sugar (caster sugar) or granulated sugar",
+        "1/2 lightly packed cup/100 grams dark brown sugar",
+        "2 large eggs",
+        "1/2 cup plus 1 tablespoon/150 grams plain kefir (or buttermilk)",
+        "3/4 cup plus 3 tablespoons/220 grams very hot coffee, plus 1 tablespoon/14 grams at room temperature, for brushing",
+        "1 1/2 cups/200 grams blanched hazelnuts",
+        "3/4 cup plus 2 tablespoons/180 grams superfine sugar (caster sugar) or granulated sugar",
+        "1/4 teaspoon salt",
+        "1 1/4 cups/300 grams cold heavy cream (double cream)",
+        "1/3 cup plus 1 tablespoon/95 grams mascarpone",
+        "2 tablespoons malted milk powder, such as Horlick’s",
+        "1/4 cup plus 2 teaspoons/30 grams confectioners’ sugar (icing sugar)",
+        "Tiny pinch of salt"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Heat the oven to 200 degrees Celsius (nonfan)/375 degrees Fahrenheit. Line the bottom of 2 (20-centimeter/8-inch) cake pans (tins) with a removable base with parchment paper and grease the sides. Alternatively, grease the bottoms and sides of 2 (20-centimeter/8-inch) regular cake pans, line with parchment, and grease the parchment."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large bowl, whisk together cocoa, flour, baking powder, baking soda, salt and sugars. In a separate bowl, add the oil, eggs and kefir, and whisk just to combine. Add to the dry mixture and use a spatula to gently fold through. Add the 3/4 cup plus 3 tablespoons/220 grams hot coffee and mix gently to combine. It’ll look very runny at first, but will soon come together into a glossy, pourable batter."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Divide the batter evenly between the two cake pans, about 21 ounces/600 grams per pan. Bake for 30 minutes or until a skewer inserted into the middle comes out clean. Set aside to cool for about 30 minutes, then slide a butter knife along the sides to help release the cake. Brush the tops lightly with the remaining 1 tablespoon/14 grams extra coffee (discard any extra)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Invert one cake onto a board, remove the parchment, then invert it again onto a cake stand or the platter you intend to serve it on (domed side up now). Invert the other cake onto a board (don’t remove the paper). Invert it again, onto a plate, so that it’s paper side down. (This will help prevent it from sticking.) Set both cakes aside to cool completely."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the praline: With the oven still at 200 degrees Celsius/375 degrees Fahrenheit, spread the hazelnuts onto a parchment-lined medium baking sheet (tray) and bake for 12 to 15 minutes, or until deeply golden, shaking the pan halfway through baking. Set aside, keeping the tray and parchment paper. You’ll use them again later."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Place a large saucepan over a medium-high heat and, once quite hot, sprinkle in a third of the caster sugar to cover the base. It should immediately start to melt at the sides but not brown too quickly. Swirl the sugar in the pan a little, then add another third of the sugar, allowing it to melt a little before adding the remaining third. Turn the heat down to medium and cook until the sugar is an amber caramel, stirring with a spatula just a couple times (but not much more). Add the hazelnuts and 1/4 teaspoon salt, stirring to coat, then quickly transfer the mixture to your parchment-lined tray and leave to cool completely."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Once cool, roughly break apart the praline and add it to a food processor. Pulse a few times until you have very coarse crumbs, then measure out about 1/2 cup/75 grams of the mixture and transfer to a bowl. Blitz the remaining mixture in the food processor for about 5 minutes or until it turns into the consistency of a smooth nut butter, stopping to scrape the inside of the bowl as necessary. Transfer this to a separate bowl."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the mascarpone cream: Add all the ingredients to a stand mixer and beat on medium-high speed for 1 1/2 to 2 minutes, or until you have medium peaks. Refrigerate if not assembling right away (you want it nice and cold)."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "When ready to assemble, top the cake on your cake stand with half the cream mixture. Spoon over about 2 tablespoons of the smooth praline and gently swirl it through the cream with your spatula. Top with another 2 tablespoons of the praline, this time without swirling. Sprinkle with half the praline crumble. Carefully invert the other cake on top now, removing the paper. Top with the remaining cream and repeat the same process with the smooth praline and praline crumble. Serve right away, or refrigerate overnight to firm up the cream before serving. (The cake will keep refrigerated for up to 3 days.)"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2021-12-15T00:00:00.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "E Scott"
+          },
+          "reviewBody": "This took significantly longer than the time allotted, but I did it methodically, and it turned out as probably the best cake I’ve made in my life. Laissez Le Bon temps rouler!",
+          "datePublished": "2025-12-27T20:51:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Monica"
+          },
+          "reviewBody": "A bit of a chore to make, but in the end worth it and I'll definitely make again.\n-the praline cools immediately, so you need to work very quickly. \n-The hazelnuts probably need less than 10 minutes toasting.\n- I used regular (full fat) milk powder and added some vanilla to the filling and it was great. I wonder if you need the milk powder at all, maybe for structure?\n-Why go through the trouble of making the praline butter and not use it all! I spread it as a first layer, then topped with cream",
+          "datePublished": "2025-12-08T01:56:05.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SD"
+          },
+          "reviewBody": "The nut butter praline situation was DELISH. The addition of horlicks, genius!",
+          "datePublished": "2025-10-13T09:02:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Holly"
+          },
+          "reviewBody": "Absolutely a delicious dessert! Making for a second time tonight. Simple to make cake ( wrapped overnight in refrigerator) and praline the day before serving,  preparing whipped cream and mascarpone topping is quick and assembly is easy on the day of as it needs to chill in refrigerator for a few hours before serving.",
+          "datePublished": "2025-05-23T17:50:45.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hedda"
+          },
+          "reviewBody": "I have made this four times, as written, always using weight measurements. It is gorgeous and delicious, and it’s a bit unique in my opinion when it comes to the contrast of sweet and salty, soft and crunchy. Take your time with each step and take extra care when you are pulsing the hazelnut brittle- it can go very quickly to dust and you want to have some good sizeable crunchy bits for the top. (I’ve been known to make an extra quarter batch just to get the right texture. Too much in this case is not a bad thing.)",
+          "datePublished": "2025-04-27T19:49:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elise"
+          },
+          "reviewBody": "The cream is delicious. Definitely double it so you can coat the whole cake. I found the instructions for making the caramel a bit unclear and wound up burning it twice. If you’re not used to making caramel and working with sugar like that, I’d suggest watching a video on making a caramel praline first.",
+          "datePublished": "2025-03-02T15:59:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Molly"
+          },
+          "reviewBody": "This is the most incredible cake. It’s a bit insane but everyone was In Love.",
+          "datePublished": "2025-02-20T16:14:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kaytoo"
+          },
+          "reviewBody": "I made this exactly as written using the weight measurements, turned out as described and absolutely delicious. Perfectly moist and the coffee a great subtle twist. Served with a scoop of quality vanilla ice-cream a perfect partner to the mascarpone filling.",
+          "datePublished": "2024-05-27T02:49:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Dori"
+          },
+          "reviewBody": "I’ve made this cake twice and both times, one of my guests said “this is the best cake I have ever had”. First time I made exactly as written (spectacular), second time I used almonds instead of hazelnuts, used more brittle bits and made less nut butter, used a full 8oz tub of mascarpone in the filling, and added some rum instead of malt powder (also spectacular modified). Will make it again for sure!",
+          "datePublished": "2024-01-29T01:14:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michèle"
+          },
+          "reviewBody": "Excellent cake.  Tastes even better when allowed to sit in fridge for a day after assembly.",
+          "datePublished": "2024-01-01T21:07:42.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sarah"
+          },
+          "reviewBody": "I’ve made this three years in a row but as a Yule log - delicious and beautiful and really delicious! This is the best/easiest chocolate cake roll recipe I’ve found (I’ve tried a different one each year): <a href=\"https://www.sugarsaltmagic.com/chocolate-roll-cake\" target=\"_blank\">https://www.sugarsaltmagic.com/chocolate-roll-cake</a>/",
+          "datePublished": "2023-12-25T19:18:10.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Roberta"
+          },
+          "reviewBody": "delicious!",
+          "datePublished": "2023-11-19T16:38:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kinr"
+          },
+          "reviewBody": "I made a single-layer cake in a larger tart pan without any adjustments not related to my oven and it turned out wonderfully. Only change I recommend is to multiply the praliné by 20x so you can put it on everything.",
+          "datePublished": "2023-11-11T15:22:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "kw"
+          },
+          "reviewBody": "first time - used TJ’s dry toasted unsalted sliced almonds",
+          "datePublished": "2023-07-29T15:38:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura"
+          },
+          "reviewBody": "Can I substitute ovaltine for regular malted milk powder? I live in the back of beyond and all I can find is chocolate ovaltine. I can order it from king Arthur but they ship by donkey and by the time it gets here, I will have forgotten why I wanted it.",
+          "datePublished": "2023-04-03T19:47:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen Tabor"
+          },
+          "reviewBody": "For everyone who doesn't keep kefir around and who doesn't want to buy buttermilk for ONE TBSP, do keep powdered buttermilk on hand. It lasts a very long time on the shelf. Or, I suppose you could use a TBSP of Greek yogurt.\n\nRecipes that require a tiny amount of something I rarely use frustrate me a lot. So I have a packet of powdered buttermilk in my baking cabinet.",
+          "datePublished": "2021-12-13T03:06:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "molly"
+          },
+          "reviewBody": "King Arthur has a fantastic pancake recipe that uses malted milk powder.  Stella Parks also wrote a great article at Serious Eats about some great uses for it in desserts, including a tasty chocolate chip cookie recipe.  A bottle of the Carnation brand is about $4 at my local grocery store - I find it near the ovaltine/hot cocoas.",
+          "datePublished": "2021-12-10T20:20:26.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Liz"
+          },
+          "reviewBody": "The recipe calls for 1/2 plus 1 TB, not just one TB.  Buttermilk keeps quite a long time in the refrigerator and is used in many recipes for cake, waffles, pancakes.",
+          "datePublished": "2021-12-14T02:26:17.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "stuart"
+          },
+          "reviewBody": "I freeze leftover buttermilk in ice cube trays and then store in zip lock bags so I always have on hand.  (hint - measure water in the tray before to freezing the buttermilk so you know what each cube is before you freeze.)",
+          "datePublished": "2021-12-15T18:47:13.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "john procyk"
+          },
+          "reviewBody": "I have never had malted milk powder and don't know what it tastes like, and I don't know what it would taste like with mascarpone.  When a recipe like this happens, I either omit it entirely or find the missing ingredient - in this case vanilla.  If I don't know what I'm missing, I'm not going to miss it.  But I do know that vanilla brightens mascarpone and crushed amaretti cookies take it over the top.",
+          "datePublished": "2021-12-10T19:07:57.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BSL"
+          },
+          "reviewBody": "Could leftovers be frozen? Or will we be forced against our will to scarf the whole thing down in 3 days?",
+          "datePublished": "2021-12-11T19:25:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Golem18"
+          },
+          "reviewBody": "I think malted milk powder fell out of favor since it's high in calories.  It has numerous health qualities however and imparts a richness to whatever dish it's in.  I recall malted milks (\"chocolate malts\") when I was young and miss them.  A local restaurant in Washington, DC on Capitol Hill offers them with a shot of bourbon.  And, as one commenter noted, it's a fantastic addition to pancakes.",
+          "datePublished": "2021-12-13T02:46:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Joanne"
+          },
+          "reviewBody": "When I was growing up in NYC, a \"malted\" was short for a \"malted milkshake\" - that is, a milkshake (milk plus ice cream plus flavored syrup, mixed till thick and frothy) with malted milk powder added.  The malt powder adds a distinctive flavor that I love.  When I moved to New England in the 70s most ice cream shops didn't have malteds and I was bereft.  But now they often do and I'm content again.",
+          "datePublished": "2021-12-14T06:35:38.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Catherine DiNardo"
+          },
+          "reviewBody": "Buy it on Amazon. It has lots of uses.",
+          "datePublished": "2021-12-10T19:07:20.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jeff K"
+          },
+          "reviewBody": "Mix it into milk. Make a milkshake. Sprinkle it on ice cream. Make soft pretzels. It has many uses.",
+          "datePublished": "2021-12-10T19:28:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martha"
+          },
+          "reviewBody": "Malted milk powder is also the “secret” ingredient in English muffins. Just a couple of teaspoons will take you back to when an English muffin was delicious and didn’t crumble in your hand. You’ll have to fork split it yourself as we did back in the day. If Thomas’s has been disappointing you, make your own. It’s not difficult and so superior.",
+          "datePublished": "2021-12-12T12:07:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "abcna"
+          },
+          "reviewBody": "Sunflower oil is virtually tasteless. You can sub another unflavored oil.",
+          "datePublished": "2021-12-12T17:57:16.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Beda"
+          },
+          "reviewBody": "Ellen Tabor the recipe calls for 1/2 cup PLUS one tablespoon of buttermilk, not just one tablespoon.",
+          "datePublished": "2021-12-13T04:57:25.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Martha"
+          },
+          "reviewBody": "Just a couple of notes. Mascarpone is a wonderful stabilizer for whipped cream. If you have Barbara Kafka’s Microwave book, her recipe for microwaving caramel is terrific. Almost foolproof and stressless.",
+          "datePublished": "2021-12-12T12:13:35.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ellen Cowley"
+          },
+          "reviewBody": "For the malted milk powder skeptics; have you never had malted milk balls? We have a local chocolatier who makes double dipped dark chocolate malted milk balls, truly died and gone to heaven stuff",
+          "datePublished": "2021-12-13T22:53:47.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1022804-devils-food-cake-with-hazelnut-praline",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Yotam Ottolenghi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "description": "The best thing about chocolate cake is that it doesn’t really need a specific season or, arguably, a specific reason to be made. The malted cream and hazelnut praline make this cake what you could call “pure joy” in dessert form. You’ll make more smooth praline than you need; keep any extra in a jar in the fridge to spread onto toast, or to mix with cocoa powder for a Nutella-esque experience. You surely won’t regret it.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Devil’s Food Cake With Hazelnut Praline",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/4dc179b2-0631-5aae-aa4d-0c1386efeb75#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/merlin_198057777_396b3769-07ea-45ba-b3e2-87607f8f4441-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-12-10T17:29:22.508Z",
+          "datePublished": "2021-12-10T17:29:22.508Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2021-12-10T17:29:22.508Z",
+          "url": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/merlin_198057777_396b3769-07ea-45ba-b3e2-87607f8f4441-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/4dc179b2-0631-5aae-aa4d-0c1386efeb75#threeByTwoLargeAt2X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/merlin_198057777_396b3769-07ea-45ba-b3e2-87607f8f4441-threeByTwoLargeAt2X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-12-10T17:29:22.508Z",
+          "datePublished": "2021-12-10T17:29:22.508Z",
+          "height": "3000",
+          "representativeOfPage": true,
+          "uploadDate": "2021-12-10T17:29:22.508Z",
+          "url": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/merlin_198057777_396b3769-07ea-45ba-b3e2-87607f8f4441-threeByTwoLargeAt2X.jpg",
+          "width": "4500"
+        },
+        {
+          "@id": "nyt://image/4dc179b2-0631-5aae-aa4d-0c1386efeb75#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/merlin_198057777_396b3769-07ea-45ba-b3e2-87607f8f4441-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-12-10T17:29:22.508Z",
+          "datePublished": "2021-12-10T17:29:22.508Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2021-12-10T17:29:22.508Z",
+          "url": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/merlin_198057777_396b3769-07ea-45ba-b3e2-87607f8f4441-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/4dc179b2-0631-5aae-aa4d-0c1386efeb75#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/10Ottorex-facebookJumbo.jpg",
+          "creditText": "Christopher Simpson for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2021-12-10T17:29:22.508Z",
+          "datePublished": "2021-12-10T17:29:22.508Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2021-12-10T17:29:22.508Z",
+          "url": "https://static01.nyt.com/images/2021/12/15/dining/10Ottorex/10Ottorex-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1022804-devils-food-cake-with-hazelnut-praline"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-03-16T16:07:56.025Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
