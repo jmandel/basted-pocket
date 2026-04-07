@@ -1,0 +1,55 @@
+{
+  "id": "1d597191703c4b55",
+  "original_url": "https://joyva.com/blogs/recipes/chocolate-tahini-snacking-cake",
+  "canonical_url": "https://joyva.com/blogs/recipes/chocolate-tahini-snacking-cake",
+  "fetched_title": "Chocolate Tahini Snacking Cake - Joyva",
+  "main_text_content": "Pre-heat the oven to 350 degrees. Grease and flour a 9 x 2 round baking pan and line the bottom with parchment paper. Whisk the flour, cocoa powder, salt, sugar, and baking soda in a bowl. Add the vanilla, vinegar, tahini, and water and whisk again till smooth. Pour the batter into your prepared pan and bake for 35 – 4",
+  "main_html_content": "<div class=\"dropdown_column\" > <div class=\"mega-menu__richtext\">",
+  "author": "Joyva",
+  "key_image_url": "https://joyva.com/cdn/shop/articles/tahini_chocolate_cake_2_600x.png?v=1719951447",
+  "local_image_path": "archive/1d597191703c4b55/image.png",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name": "Joyva",
+      "logo": "https://joyva.com/cdn/shop/files/Joyva_R_SPOT_2C_LG_1000x.png?v=1691438135",
+      "sameAs": [
+        "",
+        "https://www.facebook.com/joyva1907/",
+        "https://www.pinterest.com/joyva1907/",
+        "https://www.instagram.com/joyva1907/",
+        "",
+        "https://www.tiktok.com/@joyvaofficial?lang=en",
+        "",
+        ""
+      ],
+      "url": "https://joyva.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://joyva.com",
+            "name": "Home"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "/blogs/recipes",
+            "name": "Recipes"
+          }
+        }
+      ]
+    }
+  ],
+  "scraping_timestamp": "2026-04-07T02:07:58.786Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
