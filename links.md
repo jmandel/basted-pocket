@@ -3,6 +3,10 @@
 
 ## 2026
 
+- https://joyva.com/blogs/recipes/chocolate-tahini-snacking-cake #cake #dessert
+- https://joyva.com/blogs/recipes/chocolate-tahini-popsicles #dessert
+- https://joyva.com/blogs/recipes/halvah-rice-krispies-treats #dessert
+- https://joyva.com/blogs/recipes/coffee-cake-with-tahini-swirl-and-halvah-crumble #cake #dessert
 - https://www.kingarthurbaking.com/recipes/karpatka-polish-mountain-cake-recipe #cake #dessert
 - https://cooking.nytimes.com/recipes/1022804-devils-food-cake-with-hazelnut-praline #cake #dessert #nuts
 - https://cooking.nytimes.com/recipes/1023784-lamb-meatball-and-semolina-dumpling-soup-with-collard-greens #dinner #soup
