@@ -3,6 +3,7 @@
 
 ## 2026
 
+- https://www.kingarthurbaking.com/recipes/black-sesame-halva-coffeecake-recipe #cake #dessert
 - https://joyva.com/blogs/recipes/chocolate-tahini-snacking-cake #cake #dessert
 - https://joyva.com/blogs/recipes/chocolate-tahini-popsicles #dessert
 - https://joyva.com/blogs/recipes/halvah-rice-krispies-treats #dessert
