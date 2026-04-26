@@ -3,6 +3,7 @@
 
 ## 2026
 
+- https://cooking.nytimes.com/recipes/776979647-laksa-noodle-salad #asian #dinner #gf #noodles
 - https://www.kingarthurbaking.com/recipes/black-sesame-halva-coffeecake-recipe #cake #dessert
 - https://joyva.com/blogs/recipes/chocolate-tahini-snacking-cake #cake #dessert
 - https://joyva.com/blogs/recipes/chocolate-tahini-popsicles #dessert
