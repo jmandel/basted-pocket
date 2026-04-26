@@ -1,0 +1,270 @@
+{
+  "id": "2f4a6e49e588626f",
+  "original_url": "https://cooking.nytimes.com/recipes/776979647-laksa-noodle-salad",
+  "canonical_url": "https://cooking.nytimes.com/recipes/776979647-laksa-noodle-salad",
+  "fetched_title": "Laksa Noodle Salad Recipe",
+  "main_text_content": "This recipe takes a peak comfort dish—laksa noodle soup from Malaysia, Singapore and Indonesia—and transforms it into a satiating salad you’ll crave. Every bite of this spicy and fragrant salad brims with exciting textures, thanks to smooth noodles, pillowy tofu, crisp cauliflower and crunchy bean sprouts.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/761873411-laab-noodle-salad\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2025/11/03/multimedia/KC-Laab-Noodle-Salad-gkmb/KC-Laab-Noodle-Salad-gkmb-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/11/03/multimedia/KC-Laab-Noodle-Salad-gkmb/KC-Laab-Noodle-Salad-gkmb-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/11/03/multimedia/KC-Laab-Noodle-Salad-gkmb/KC-Laab-Noodle-Salad-gkmb-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/11/03/multimedia/KC-Laab-Noodle-Salad-gkmb/KC-Laab-Noodle-Salad-gkmb-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/11/03/multimedia/KC-Laab-Noodle-Salad-gkmb/KC-Laab-Noodle-Salad-gkmb-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/11/03/multimedia/KC-Laab-Noodle-Salad-gkmb/KC-Laab-Noodle-Salad-gkmb-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/11/03/multimedia/KC-Laab-Noodle-Salad-gkmb/KC-Laab-Noodle-Salad-gkmb-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Laab Noodle Salad</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Kay Chun</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2026/04/24/multimedia/HM-Laksa-Noodle-Salad-qblc/HM-Laksa-Noodle-Salad-qblc-facebookJumbo.jpg",
+  "local_image_path": "archive/2f4a6e49e588626f/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@id": "urn:nyt:ScoopRecipe:c31cf9f17eaa5b8591e87a89bf771502",
+      "@type": "Recipe",
+      "author": {
+        "@id": "nyt://person/4b456a99-46c9-5268-a56f-1ecf40bbc234",
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon",
+        "sameAs": "https://www.nytimes.com/by/hetty-lui-mckinnon",
+        "url": "https://cooking.nytimes.com/author/hetty-lui-mckinnon"
+      },
+      "cookTime": "PT0H20M",
+      "cookingMethod": "Pan-Fry",
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2026,
+      "dateModified": "2026-04-24T17:30:00Z",
+      "datePublished": "2026-04-24T17:30:00.436773Z",
+      "description": "This recipe takes a peak comfort dish—laksa noodle soup from Malaysia, Singapore and Indonesia—and transforms it into a satiating salad you’ll crave. Every bite of this spicy and fragrant salad brims with exciting textures, thanks to smooth noodles, pillowy tofu, crisp cauliflower and crunchy bean sprouts. The star of this recipe is the ultrasimple dressing that only needs two ingredients to assert big, bold flavors: Packed with complex concentrated aromatics, red curry paste is combined with sweet and nutty coconut milk for a powerhouse dressing. Curry pastes vary greatly in saltiness and spice from brand to brand, so taste it and add more or less as needed. This is an adaptable salad that is suitable for eating all year round, as the vegetables are flexible: The broccoli can be swapped with green beans, snow or sugar snap peas, bok choy or other available options. For an even heartier salad, consider serving with a halved boiled egg.",
+      "image": [
+        {
+          "@id": "nyt://image/b17d608d-af49-5193-9731-ce57b2a4ae5c#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/04/24/multimedia/HM-Laksa-Noodle-Salad-qblc/HM-Laksa-Noodle-Salad-qblc-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2026-04-23T21:42:33.684Z",
+          "datePublished": "2026-04-23T21:42:33.684Z",
+          "height": "900",
+          "uploadDate": "2026-04-23T21:42:33.684Z",
+          "url": "https://static01.nyt.com/images/2026/04/24/multimedia/HM-Laksa-Noodle-Salad-qblc/HM-Laksa-Noodle-Salad-qblc-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/b17d608d-af49-5193-9731-ce57b2a4ae5c#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/04/24/multimedia/HM-Laksa-Noodle-Salad-qblc/HM-Laksa-Noodle-Salad-qblc-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2026-04-23T21:42:33.684Z",
+          "datePublished": "2026-04-23T21:42:33.684Z",
+          "height": "600",
+          "uploadDate": "2026-04-23T21:42:33.684Z",
+          "url": "https://static01.nyt.com/images/2026/04/24/multimedia/HM-Laksa-Noodle-Salad-qblc/HM-Laksa-Noodle-Salad-qblc-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/b17d608d-af49-5193-9731-ce57b2a4ae5c#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/04/24/multimedia/HM-Laksa-Noodle-Salad-qblc/HM-Laksa-Noodle-Salad-qblc-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2026-04-23T21:42:33.684Z",
+          "datePublished": "2026-04-23T21:42:33.684Z",
+          "height": "1800",
+          "uploadDate": "2026-04-23T21:42:33.684Z",
+          "url": "https://static01.nyt.com/images/2026/04/24/multimedia/HM-Laksa-Noodle-Salad-qblc/HM-Laksa-Noodle-Salad-qblc-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/b17d608d-af49-5193-9731-ce57b2a4ae5c#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/04/24/multimedia/HM-Laksa-Noodle-Salad-qblc/HM-Laksa-Noodle-Salad-qblc-facebookJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2026-04-23T21:42:33.684Z",
+          "datePublished": "2026-04-23T21:42:33.684Z",
+          "height": "550",
+          "uploadDate": "2026-04-23T21:42:33.684Z",
+          "url": "https://static01.nyt.com/images/2026/04/24/multimedia/HM-Laksa-Noodle-Salad-qblc/HM-Laksa-Noodle-Salad-qblc-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "keywords": "Broccoli, Rice Noodle, Extra-Firm Tofu, Red Curry Paste, Coconut Milk, Bean, Cilantro, Skillet, Easy, Quick, Weeknight",
+      "mainEntityOfPage": {
+        "@id": "//cooking.nytimes.com/recipes/776979647-laksa-noodle-salad",
+        "@type": "WebPage",
+        "name": "Laksa Noodle Salad"
+      },
+      "name": "Laksa Noodle Salad",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "526.7 kcals",
+        "carbohydrateContent": "75.1 grams",
+        "cholesterolContent": "0.7 milligrams",
+        "fatContent": "18.6 grams",
+        "fiberContent": "7 grams",
+        "proteinContent": "19.5 grams",
+        "saturatedFatContent": "7.4 grams",
+        "sodiumContent": "912.6 milligrams",
+        "sugarContent": "4.9 grams",
+        "unsaturatedFatContent": "2.9 grams"
+      },
+      "prepTime": "PT0H10M",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "recipeCategory": "Salad, Noodles, Lunch, Dinner, Main Course",
+      "recipeCuisine": "Malaysian Inspired, Singaporean Inspired, Indonesian Inspired",
+      "recipeIngredient": [
+        "Sea salt and black pepper ",
+        "1 large head broccoli (1 pound), cut into small florets, thick stems peeled and sliced into discs ",
+        "10 ounces rice noodles (pho style) or rice vermicelli ",
+        "1 (14- to 16-ounce) block extra-firm tofu, drained, patted dry and sliced into ½-inch slices  ",
+        "2 tablespoons extra-virgin olive oil, divided, plus more as needed ",
+        "2 tablespoons red curry paste, or more to taste ",
+        "½ cup coconut milk, stirred well ",
+        "2 cups/5 ounces bean sprouts ",
+        "Handful fresh cilantro, stems and leaves chopped ",
+        "Handful store-bought crispy fried shallots or onions, for serving ",
+        "1 lime, quartered, for serving  "
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Bring a big pot of salted water to the boil. Add the broccoli and cook until bright green and crisp-tender, 2 to 3 minutes. Using a spider ladle or slotted spoon, remove the broccoli and transfer to a colander to drain. Refresh under cold water and drain again.",
+          "url": "https://cooking.nytimes.com/recipes/776979647-laksa-noodle-salad#recipe-step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To the same pot of boiling water, add the rice noodles, stir gently (this helps to prevent sticking) and cook according to package instructions until tender but still firm. Drain, refresh under cold water and drain again.",
+          "url": "https://cooking.nytimes.com/recipes/776979647-laksa-noodle-salad#recipe-step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, heat a medium skillet over medium-high until hot. (For nonstick, this takes 1 to 2 minutes, and 2 to 3 minutes for cast-iron or stainless steel.) Season the tofu with salt and pepper. When the skillet is hot, drizzle with 1 tablespoon of olive oil, add the tofu, and cook until golden, 3 to 4 minutes. Flip the tofu over and cook until golden, another 3 to 4 minutes (feel free to add more oil). Transfer to a cutting board and when cool enough to handle, slice into bite-size strips or triangles.",
+          "url": "https://cooking.nytimes.com/recipes/776979647-laksa-noodle-salad#recipe-step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl that’s big enough to hold the entire salad, make the dressing by whisking together the red curry paste and coconut milk until combined. Taste and if needed, season with salt and pepper.",
+          "url": "https://cooking.nytimes.com/recipes/776979647-laksa-noodle-salad#recipe-step-4"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To the dressing, add the noodles, broccoli, tofu, bean sprouts and cilantro; drizzle with 1 to 2 tablespoons of olive oil and toss well until well coated. Taste and season with salt and black pepper.",
+          "url": "https://cooking.nytimes.com/recipes/776979647-laksa-noodle-salad#recipe-step-5"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, top with crispy fried shallots, with a lime wedge on the side.",
+          "url": "https://cooking.nytimes.com/recipes/776979647-laksa-noodle-salad#recipe-step-6"
+        }
+      ],
+      "recipeYield": "4 servings",
+      "totalTime": "PT0H30M",
+      "url": "//cooking.nytimes.com/recipes/776979647-laksa-noodle-salad"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "//cooking.nytimes.com/recipes/776979647-laksa-noodle-salad",
+      "@type": "WebPage",
+      "author": {
+        "@id": "nyt://person/4b456a99-46c9-5268-a56f-1ecf40bbc234",
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon",
+        "sameAs": "https://www.nytimes.com/by/hetty-lui-mckinnon",
+        "url": "https://cooking.nytimes.com/author/hetty-lui-mckinnon"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2026,
+      "dateModified": "2026-04-24T17:30:00Z",
+      "datePublished": "2026-04-24T17:30:00.436773Z",
+      "description": "This recipe takes a peak comfort dish—laksa noodle soup from Malaysia, Singapore and Indonesia—and transforms it into a satiating salad you’ll crave. Every bite of this spicy and fragrant salad brims with exciting textures, thanks to smooth noodles, pillowy tofu, crisp cauliflower and crunchy bean sprouts. The star of this recipe is the ultrasimple dressing that only needs two ingredients to assert big, bold flavors: Packed with complex concentrated aromatics, red curry paste is combined with sweet and nutty coconut milk for a powerhouse dressing. Curry pastes vary greatly in saltiness and spice from brand to brand, so taste it and add more or less as needed. This is an adaptable salad that is suitable for eating all year round, as the vegetables are flexible: The broccoli can be swapped with green beans, snow or sugar snap peas, bok choy or other available options. For an even heartier salad, consider serving with a halved boiled egg.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Laksa Noodle Salad",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "//cooking.nytimes.com/recipes/776979647-laksa-noodle-salad"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-04-26T14:10:22.294Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
