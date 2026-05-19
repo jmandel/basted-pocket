@@ -1,0 +1,604 @@
+{
+  "id": "f683e5e9da02435d",
+  "original_url": "https://cooking.nytimes.com/recipes/1027269-i-cant-believe-its-not-chicken-super-savory-grated-tofu",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1027269-i-cant-believe-its-not-chicken-super-savory-grated-tofu",
+  "fetched_title": "I Can’t Believe It’s Not Chicken (Super-Savory Grated Tofu) Recipe",
+  "main_text_content": "Grating super-firm tofu is one of the best party tricks in the kitchen It makes tofu not only quicker to prepare (no pressing required!) but also deceptively meaty In this recipe from my book “Big Vegan Flavor” (Avery Books, 2024), the grated tofu is pan-fried until golden, then coated in an extremely good, flavor-rich sauce featuring some of my favorite pan-Asian condiments: fruity yet smoky gochugaru, nutty toasted sesame oil, plus umami-rich Chinese black vinegar and soy sauce",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1026706-lemon-miso-tofu-with-broccoli\"><figure class=\"tersecard_imageBlock__77puv\"><img alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2025/06/06/multimedia/hm-lemon-miso-tofu-mqjh/hm-lemon-miso-tofu-mqjh-blogSmallInline.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 151w, https://static01.nyt.com/images/2025/06/06/multimedia/hm-lemon-miso-tofu-mqjh/hm-lemon-miso-tofu-mqjh-mediumThreeByTwo210.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 210w, https://static01.nyt.com/images/2025/06/06/multimedia/hm-lemon-miso-tofu-mqjh/hm-lemon-miso-tofu-mqjh-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/06/06/multimedia/hm-lemon-miso-tofu-mqjh/hm-lemon-miso-tofu-mqjh-videoSixteenByNine310.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 310w, https://static01.nyt.com/images/2025/06/06/multimedia/hm-lemon-miso-tofu-mqjh/hm-lemon-miso-tofu-mqjh-largeHorizontal375.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 375w, https://static01.nyt.com/images/2025/06/06/multimedia/hm-lemon-miso-tofu-mqjh/hm-lemon-miso-tofu-mqjh-mediumThreeByTwo378.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 378w, https://static01.nyt.com/images/2025/06/06/multimedia/hm-lemon-miso-tofu-mqjh/hm-lemon-miso-tofu-mqjh-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"100%\"/></figure><section class=\"tersecard_textBlock__pnozx\"><p class=\"pantry--ui-strong tersecard_title__mQwtQ\">Lemon-Miso Tofu With Broccoli</p><p class=\"pantry--ui-sm tersecard_byline__WxWZ0\">Hetty Lui McKinnon</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-threeByTwoMediumAt2X.jpg",
+  "local_image_path": "archive/f683e5e9da02435d/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "http://schema.org",
+      "@id": "nyt://recipe/57c6e77f-6b3a-54cd-9678-f4e92eed6e77",
+      "@type": "Recipe",
+      "mainEntityOfPage": {
+        "@id": "https://cooking.nytimes.com/recipes/1027269-i-cant-believe-its-not-chicken-super-savory-grated-tofu",
+        "@type": "WebPage",
+        "name": "I Can’t Believe It’s Not Chicken (Super-Savory Grated Tofu)"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027269-i-cant-believe-its-not-chicken-super-savory-grated-tofu",
+      "name": "I Can’t Believe It’s Not Chicken (Super-Savory Grated Tofu)",
+      "description": "Grating super-firm tofu is one of the best party tricks in the kitchen. It makes tofu not only quicker to prepare (no pressing required!) but also deceptively meaty. In this recipe from my book “Big Vegan Flavor” (Avery Books, 2024), the grated tofu is pan-fried until golden, then coated in an extremely good, flavor-rich sauce featuring some of my favorite pan-Asian condiments: fruity yet smoky gochugaru, nutty toasted sesame oil, plus umami-rich Chinese black vinegar and soy sauce. The result is delightfully crispy, chewy and super-savory tofu that is shockingly meaty. It’s been described as “spicy ground chicken,” “larb-esque,” and “I can’t believe it’s not chicken.” It’s delicious for dinner, but also tastes great at breakfast. Serve with stir-fried or steamed green beans or broccoli for a quick yet delicious meal. To make ahead, you can grate the tofu and prep the aromatics the night before. (Watch Nisha make this recipe on YouTube.)",
+      "author": {
+        "@type": "Person",
+        "name": "Nisha Vora"
+      },
+      "image": [
+        {
+          "@id": "nyt://image/ac77dd9c-ea52-5a1d-9cd1-f1f1649831ad#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-08-18T21:09:10.641Z",
+          "datePublished": "2025-08-18T21:09:10.641Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-08-18T21:09:10.641Z",
+          "url": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ac77dd9c-ea52-5a1d-9cd1-f1f1649831ad#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-googleFourByThree.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-08-18T21:09:10.641Z",
+          "datePublished": "2025-08-18T21:09:10.641Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-08-18T21:09:10.641Z",
+          "url": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/ac77dd9c-ea52-5a1d-9cd1-f1f1649831ad#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-mediumSquareAt3X.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-08-18T21:09:10.641Z",
+          "datePublished": "2025-08-18T21:09:10.641Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-08-18T21:09:10.641Z",
+          "url": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/ac77dd9c-ea52-5a1d-9cd1-f1f1649831ad#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-facebookJumbo.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-08-18T21:09:10.641Z",
+          "datePublished": "2025-08-18T21:09:10.641Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2025-08-18T21:09:10.641Z",
+          "url": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "prepTime": "PT10M",
+      "cookTime": "PT20M",
+      "totalTime": "PT30M",
+      "recipeYield": "4 servings ",
+      "recipeCuisine": "",
+      "recipeCategory": "breakfast, brunch, dinner, easy, lunch, quick, weeknight, beans, main course",
+      "keywords": "creator, gochugaru, great leftovers, sesame oil, soy sauce, stovetop, tamari, tofu, dairy-free, vegan, vegetarian",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "ratingCount": 3836
+      },
+      "nutrition": {
+        "@context": "http://schema.org",
+        "@type": "NutritionInformation",
+        "calories": 390,
+        "unsaturatedFatContent": "12 grams",
+        "carbohydrateContent": "52 grams",
+        "cholesterolContent": null,
+        "fatContent": "15 grams",
+        "fiberContent": "4 grams",
+        "proteinContent": "14 grams",
+        "saturatedFatContent": "2 grams",
+        "sodiumContent": "729 milligrams",
+        "sugarContent": "2 grams",
+        "transFatContent": "0 grams"
+      },
+      "recipeIngredient": [
+        "1 to 1 1/2 cups/190 to 285 grams uncooked white or brown rice (or 3 to 4 1/2 cups/425 to 650 grams cooked white or brown rice)",
+        "1 (10- to 12-ounce/280- to 340-gram) package super-firm tofu (see Tip)",
+        "1 1/2 tablespoons neutral-flavored oil of choice",
+        "4 scallions, sliced at an angle (reserve dark green tops for garnish)",
+        "1 to 2 Thai chiles (or 1 small serrano pepper), thinly sliced (optional, for spicy!)",
+        "3 garlic cloves, thinly sliced",
+        "1 tablespoon roasted black or white sesame seeds",
+        "3 tablespoons/52 grams tamari or soy sauce",
+        "1 tablespoon Chinese black vinegar (see Tip for a gluten-free substitute)",
+        "1 teaspoon organic cane sugar, pure maple syrup or agave nectar",
+        "1 tablespoon gochugaru (Korean chile flakes); see Tip",
+        "1 tablespoon toasted sesame oil",
+        "1 handful cilantro leaves and tender stems, roughly chopped"
+      ],
+      "recipeInstructions": [
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Start by cooking the rice using your preferred method, or get out your leftover cooked rice."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Make the tofu: Wrap the tofu in a thin dish towel and gently squeeze with your palms to remove some water but don’t squish it. Using the large holes of a box grater, grate the tofu. If small pieces break off, slice them very thinly."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "In a large nonstick skillet, heat the oil over medium-high heat. After a minute or two, add the scallions, chiles (if using) and garlic. Cook, stirring frequently, until the garlic is slightly golden and the scallions are softened, about 2 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Add the grated tofu to the pan and toss to coat it in the oil. Cook undisturbed for 2 minutes, then stir. Cook, stirring every 2 minutes, until the tofu is golden brown in some spots, a total of 10 to 14 minutes."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Meanwhile, make the sauce: In a small bowl, whisk together the tamari, vinegar, sugar, gochugaru and sesame oil until well combined."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Pour the sauce into the pan — it will bubble rapidly — and stir with a silicone spatula to evenly coat the tofu. Cook for 1 minute. Remove from the heat and sprinkle with the sesame seeds."
+        },
+        {
+          "@context": "http://schema.org",
+          "@type": "HowToStep",
+          "text": "Serve over cooked rice and top with the reserved scallion tops and cilantro. Store leftovers in an airtight container in the fridge for 4 to 5 days."
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "datePublished": "2025-08-21T00:00:00.000Z",
+      "dateModified": "2025-08-25T13:46:38.000Z",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suzanne"
+          },
+          "reviewBody": "This is really delicious with rice. I have never gotten it to brown but it does not matter.",
+          "datePublished": "2026-05-18T21:58:46.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Art D."
+          },
+          "reviewBody": "It's good, and it had never occurred to me to grate tofu, but there is absolutely no way I'd mistake this for chicken.",
+          "datePublished": "2026-05-13T23:23:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Morgan P"
+          },
+          "reviewBody": "One of my favorite tofu recipes! Simple, and produces a great texture. After making this a few times, I now wait to add the aromatics until the last 3-5 minutes of cooking (after the tofu is nicely browned). I find they burn otherwise. Also like to add green beans or asparagus chopped small, right after the aromatics and before the sauce, for some extra veg.",
+          "datePublished": "2026-05-07T02:58:48.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gabby Teixeira"
+          },
+          "reviewBody": "No scallions found so I subbed with the white part of a leek and used apple cider vinegar instead of the listed vinegar and added chili oil. Nevertheless, fabulous!",
+          "datePublished": "2026-05-06T22:16:44.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jessica"
+          },
+          "reviewBody": "Delicious! We made it the first time with regular red pepper flakes and paprika, but the second time we were able to locate gochugaru and it put it over the top flavor-wise.  I do recommend increasing the oil to 2-3T and also let it cook a bit longer than the recipe says— it took me more like 16-18 minutes to get a really good char.",
+          "datePublished": "2026-05-04T04:02:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Blue Lamb"
+          },
+          "reviewBody": "Garlic chili crisp tasty topping.",
+          "datePublished": "2026-05-03T22:44:24.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Terri"
+          },
+          "reviewBody": "This was very very tasty. We used 1/4 of a Serrano pepper and the spice was perfect for us. It would obliterate the taste buds with 2 Thai chili's but we are not terribly spice tolerant. The cucumbers side dish add on (on the YouTube video) was an amazing accompaniment to the dish. 5 stars. This is going in the meal rotation.",
+          "datePublished": "2026-05-03T00:51:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "pahp"
+          },
+          "reviewBody": "Just made this last night (and am eating the leftovers now for lunch).  I used gochujang instead of gochugaru (and only half the amount- and it was still quite spicy). For one 200gm block of tofu I made double the sauce, and glad I did since it would have been overly dry otherwise. I served with basmati rice and a simple salad of cucumber, radishes and rice vinegar, which I thought went really well with tofu and gave a nice cool and crunchy contrast to the spice. I will definitely make again.",
+          "datePublished": "2026-05-02T10:40:23.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tina"
+          },
+          "reviewBody": "Thankfully, this does not taste like chicken, and it is very delicious.",
+          "datePublished": "2026-05-02T02:23:22.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nina"
+          },
+          "reviewBody": "This is a great technique. My nonstick pan is a bit smaller and I wanted to cook the full pckg of tofu, so I did two batches and that worked well - I was able to get nice browning in less than 10 minutes for each one. I learned not to let the scallions and garlic brown, since that led to burning. Next time, I'll try using black bean sauce. Yum!",
+          "datePublished": "2026-05-01T22:14:58.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LJHS51"
+          },
+          "reviewBody": "Looks delicious but I have very few of these ingredients in my pantry.",
+          "datePublished": "2026-05-01T08:26:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "ColoradoMtGoat"
+          },
+          "reviewBody": "OMG… Fabulous even for non-tofu people! This will win them over. It’s in regular rotation and we put in on quinoa which adds even more texture.",
+          "datePublished": "2026-04-30T22:19:49.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Praveen"
+          },
+          "reviewBody": "Made this for Dinner. Never realized Vegan could taste this good:)",
+          "datePublished": "2026-04-29T17:29:54.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "reviewBody": "I'm off sugar -- will it still be good without it?",
+          "datePublished": "2026-04-28T23:24:43.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy"
+          },
+          "reviewBody": "This recipe will absorb all manner of veggies. I added sliced celery and some fresh kale I wanted to use up. topped with sautéed zucchini, as someone here suggested for moisture.",
+          "datePublished": "2026-04-25T23:01:30.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nathan"
+          },
+          "reviewBody": "I have made this many times from Nisha's cookbook. My wife and I are omnivores, as is our son (our daughter is vegetarian) but we try to eat eat meat infrequently, and this is a very good one for the whole family. The Chinese black vinegar was new to us but it has now become a treasured ingredient and works really nicely in this recipe. We have made the tofu as instructed with rice, but also with noodles stir fried with baby bok choy. If you eat eggs, it is delicious with a fried egg.",
+          "datePublished": "2025-08-21T21:16:21.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jami"
+          },
+          "reviewBody": "@Scout277 100# The crispy tofu tacos are literally one of the best things I’ve ever eaten.  I love that recipe so much!  I can’t wait to try this!",
+          "datePublished": "2025-08-23T01:18:40.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Scout277"
+          },
+          "reviewBody": "I'm sold on the grating tofu method.  Great for tofu scrambles and the Crispy Tofu Tacos recipe on NYT Cooking is fabulous.",
+          "datePublished": "2025-08-22T09:50:29.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Elizabeth"
+          },
+          "reviewBody": "@Scout277 Do you think using the shredding disk of a food processor might\twork for the tofu? (I don’t own a box grater.)",
+          "datePublished": "2025-08-23T20:44:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SM"
+          },
+          "reviewBody": "@Kay Leigh “Most Chinese black vinegar is fermented with grains. Substitute 2 parts rice vinegar to 1 part aged balsamic vinegar.”",
+          "datePublished": "2025-08-23T16:32:39.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lori L"
+          },
+          "reviewBody": "Gochugaru is more like a (relatively mild) red pepper flake seasoning, while gochujang is a spicy-sweet paste, but that would also be tasty!",
+          "datePublished": "2025-08-23T19:41:11.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Chris"
+          },
+          "reviewBody": "Excellent recipe.  Trader Joe's has a super-firm (almost over-firm) high protein tofu that works really well for this treatment, and is accessible everywhere.",
+          "datePublished": "2025-08-24T22:19:47.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "The guy who cooks Tia's food"
+          },
+          "reviewBody": "@Jami if you like that you should try the NYT chickpea picadillo, which features grated extra firm tofu but works great with super firm.",
+          "datePublished": "2025-08-23T20:43:12.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jenn"
+          },
+          "reviewBody": "love big vegan flavor and this is my fav recipe in it. I've made it at least once a week since the book came out. and I'm not even vegan!",
+          "datePublished": "2025-08-22T17:07:28.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "CP"
+          },
+          "reviewBody": "@Anne Marie Try allowing your pan to heat up before you add any oil and let that oil heat up a bit before you add anything else. Sounds like the pores of your pan closed over the tofu causing it to stick. Heating up the pan will allow the pores to close before you add whenever you’re putting in, theoretically preventing this issue.",
+          "datePublished": "2025-08-25T16:58:36.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jami"
+          },
+          "reviewBody": "@Jessica L. I did the same.  I mean, gochujang is so good on everything it would make a tire taste amazing, so I figured it couldn’t mess it up too bad. It turned out so good my husband and I killed the whole recipe between the two of us.  This recipe will go into rotation.",
+          "datePublished": "2025-08-24T18:40:51.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Suzla77"
+          },
+          "reviewBody": "@debzita a Chinese chef taught me to freeze tofu after squeezing out the water. In the end it crumbles like chopped beef and crisps up fine. Very handy piece of advice for cooking tofu.",
+          "datePublished": "2025-09-09T15:28:09.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jessica L"
+          },
+          "reviewBody": "I made this tonight and it was really good!  Very flavorful!  I didn’t have gochugaru so I used gochujang paste from Trader Joe’s. I have no idea if they have a similar flavors but it worked for this recipe",
+          "datePublished": "2025-08-23T03:57:06.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sidrah"
+          },
+          "reviewBody": "I actually prefer to hand crumble my tofu for these recipes because it leaves them a little more craggy to catch sauce. it is a little more working time consuming, but at least you don't have to wash anything other than your hands @Elizabeth",
+          "datePublished": "2025-08-25T17:17:08.000Z"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LK in Seattle"
+          },
+          "reviewBody": "@Jessica L, I didn’t even realize the recipe called for gochgaro instead of gochjang until now. I used gochujang and the result was amazing.",
+          "datePublished": "2025-08-28T02:55:31.000Z"
+        }
+      ],
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/recipes/1027269-i-cant-believe-its-not-chicken-super-savory-grated-tofu",
+      "@type": "WebPage",
+      "author": {
+        "@type": "Person",
+        "name": "Nisha Vora"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "description": "Grating super-firm tofu is one of the best party tricks in the kitchen. It makes tofu not only quicker to prepare (no pressing required!) but also deceptively meaty. In this recipe from my book “Big Vegan Flavor” (Avery Books, 2024), the grated tofu is pan-fried until golden, then coated in an extremely good, flavor-rich sauce featuring some of my favorite pan-Asian condiments: fruity yet smoky gochugaru, nutty toasted sesame oil, plus umami-rich Chinese black vinegar and soy sauce. The result is delightfully crispy, chewy and super-savory tofu that is shockingly meaty. It’s been described as “spicy ground chicken,” “larb-esque,” and “I can’t believe it’s not chicken.” It’s delicious for dinner, but also tastes great at breakfast. Serve with stir-fried or steamed green beans or broccoli for a quick yet delicious meal. To make ahead, you can grate the tofu and prep the aromatics the night before. (Watch Nisha make this recipe on YouTube.)",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "I Can’t Believe It’s Not Chicken (Super-Savory Grated Tofu)",
+      "primaryImageOfPage": [
+        {
+          "@id": "nyt://image/ac77dd9c-ea52-5a1d-9cd1-f1f1649831ad#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-08-18T21:09:10.641Z",
+          "datePublished": "2025-08-18T21:09:10.641Z",
+          "height": "900",
+          "representativeOfPage": true,
+          "uploadDate": "2025-08-18T21:09:10.641Z",
+          "url": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/ac77dd9c-ea52-5a1d-9cd1-f1f1649831ad#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-googleFourByThree.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-08-18T21:09:10.641Z",
+          "datePublished": "2025-08-18T21:09:10.641Z",
+          "height": "600",
+          "representativeOfPage": true,
+          "uploadDate": "2025-08-18T21:09:10.641Z",
+          "url": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/ac77dd9c-ea52-5a1d-9cd1-f1f1649831ad#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-mediumSquareAt3X.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-08-18T21:09:10.641Z",
+          "datePublished": "2025-08-18T21:09:10.641Z",
+          "height": "1800",
+          "representativeOfPage": true,
+          "uploadDate": "2025-08-18T21:09:10.641Z",
+          "url": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/ac77dd9c-ea52-5a1d-9cd1-f1f1649831ad#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-facebookJumbo.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-08-18T21:09:10.641Z",
+          "datePublished": "2025-08-18T21:09:10.641Z",
+          "height": "550",
+          "representativeOfPage": true,
+          "uploadDate": "2025-08-18T21:09:10.641Z",
+          "url": "https://static01.nyt.com/images/2025/08/21/multimedia/nv-i-cant-believe-its-not-chicken-pkzw/nv-i-cant-believe-its-not-chicken-pkzw-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "https://cooking.nytimes.com/recipes/1027269-i-cant-believe-its-not-chicken-super-savory-grated-tofu"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-05-19T03:13:03.588Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
