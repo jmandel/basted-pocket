@@ -3,7 +3,7 @@
 
 ## 2026
 
-- https://cooking.nytimes.com/recipes/1027269-i-cant-believe-its-not-chicken-super-savory-grated-tofu #asian #dinner #gf #tried-and-true #veg
+- https://cooking.nytimes.com/recipes/1027269-i-cant-believe-its-not-chicken-super-savory-grated-tofu #asian #dinner #tried-and-true #veg
 - https://cooking.nytimes.com/recipes/776979647-laksa-noodle-salad #asian #dinner #gf #noodles
 - https://www.kingarthurbaking.com/recipes/black-sesame-halva-coffeecake-recipe #cake #dessert
 - https://joyva.com/blogs/recipes/chocolate-tahini-snacking-cake #cake #dessert
@@ -138,7 +138,7 @@
 - [Broccoli Rabe, Shakshuka Style Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1018252-broccoli-rabe-shakshuka-style) #brunch #dinner #egg @note:Added_to_Pocket_on_2024-04-18
 - [Green Shakshuka With Avocado and Lime Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1019468-green-shakshuka-with-avocado-and-lime) #brunch #dinner #egg #veg @note:Added_to_Pocket_on_2024-04-18
 - [Lemony Pearl Barley Soup Recipe - NYT Cooking](https://cooking.nytimes.com/recipes/1025017-lemony-pearl-barley-soup) #dinner #soup #veg @note:Added_to_Pocket_on_2024-02-29
-- [Log Into Facebook](https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesan) @note:Added_to_Pocket_on_2024-01-28
+- [Braised White Beans and Greens With Parmesan](https://cooking.nytimes.com/recipes/1021902-braised-white-beans-and-greens-with-parmesan) #dinner #veg @note:Added_to_Pocket_on_2024-01-28
 
 ## 2023
 
