@@ -1,0 +1,617 @@
+{
+  "id": "1d327e5a3624479d",
+  "original_url": "https://cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta",
+  "fetched_title": "Roasted White Bean and Tomato Pasta Recipe",
+  "main_text_content": "With a flavor profile inspired by pasta e fagioli, this weeknight pasta recipe coaxes rich flavor out of simple ingredients while enlisting the oven to create a luscious sauce from roasted tomatoes and white beans. Essentially, the dish requires just three steps: Boil pasta, roast your sauce ingredients, then stir together until the pasta is glossy.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/12965-spaghetti-carbonara\"><figure class=\"atoms_imageBlock__P0ym6 atoms_roundedImageBlock__FSnaH\"><img alt=\"A bowl of spaghetti carbonara on a white plate sits on a grey-and-white marble countertop.\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2021/02/14/dining/carbonara-horizontal/carbonara-horizontal-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"208px\"/><svg width=\"16\" height=\"16\" viewBox=\"0 0 18 18\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"atoms_medium__DbISU\"><path fill-rule=\"evenodd\" clip-rule=\"evenodd\" d=\"M9 2.954C5.56 2.954 2.806 5.68 2.806 9c0 3.32 2.753 6.046 6.192 6.046 3.44 0 6.193-2.726 6.193-6.046 0-3.32-2.753-6.046-6.193-6.046ZM.806 9C.807 4.537 4.494.954 8.999.954c4.505 0 8.193 3.583 8.193 8.046 0 4.463-3.688 8.046-8.193 8.046C4.494 17.046.807 13.463.807 9Z\" fill=\"currentColor\"></path><path d=\"m12.154 9-4.697 3.156V5.77L12.154 9Z\" fill=\"currentColor\"></path></svg></figure><section class=\"atoms_textBlock__QKkI_\"><h3 class=\"pantry--ui-strong atoms_cardTitle__aAeYE\">Spaghetti Carbonara</h3><p class=\"pantry--ui-sm recipecard_byline__tf4y0\">Ian Fisher</p><div class=\"recipecard_recipeCardRating__0mxMA\"><span class=\"recipecard_ratingCaption__CDw5D\">17561 ratings with an average rating of 5 out of 5 stars</span><span class=\"recipecard_stars__4hc6Q\"><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg></span><p class=\"pantry--ui-sm recipecard_ratingLabel__CqO_g\">17,561</p></div><p class=\"pantry--ui-sm recipecard_cookTime__jBWS9\">30 minutes</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2023/03/22/multimedia/aw-roasted-white-bean-and-tomato-pasta-wjzp/aw-roasted-white-bean-and-tomato-pasta-wjzp-facebookJumbo.jpg",
+  "local_image_path": "archive/1d327e5a3624479d/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@id": "urn:nyt:ScoopRecipe:eeb90396061e5d098d09f622541e41cf",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 4664,
+        "ratingValue": 5
+      },
+      "author": {
+        "@id": "nyt://person/83f84ca6-ddf8-575b-8fb3-36652c638f74",
+        "@type": "Person",
+        "image": [
+          {
+            "@id": "nyt://image/2a02a140-0ad2-54d8-b9d9-c5bdfc5d613d#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/10/06/reader-center/author-alexa-weibel/author-alexa-weibel-superJumbo.png",
+            "dateModified": "2022-10-06T16:51:05.107Z",
+            "datePublished": "2022-10-06T16:51:05.107Z",
+            "height": "1000",
+            "uploadDate": "2022-10-06T16:51:05.107Z",
+            "url": "https://static01.nyt.com/images/2022/10/06/reader-center/author-alexa-weibel/author-alexa-weibel-superJumbo.png",
+            "width": "1000"
+          },
+          {
+            "@id": "nyt://image/2a02a140-0ad2-54d8-b9d9-c5bdfc5d613d#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/10/06/reader-center/author-alexa-weibel/author-alexa-weibel-mediumSquareAt3X.png",
+            "dateModified": "2022-10-06T16:51:05.107Z",
+            "datePublished": "2022-10-06T16:51:05.107Z",
+            "height": "1000",
+            "uploadDate": "2022-10-06T16:51:05.107Z",
+            "url": "https://static01.nyt.com/images/2022/10/06/reader-center/author-alexa-weibel/author-alexa-weibel-mediumSquareAt3X.png",
+            "width": "1000"
+          }
+        ],
+        "name": "Alexa Weibel",
+        "sameAs": "https://www.nytimes.com/by/alexa-weibel",
+        "url": "https://cooking.nytimes.com/author/alexa-weibel"
+      },
+      "cookingMethod": "Roast",
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "dateModified": "2023-03-21T00:00:00Z",
+      "datePublished": "2023-03-21T00:00:00Z",
+      "description": "With a flavor profile inspired by pasta e fagioli, this weeknight pasta recipe coaxes rich flavor out of simple ingredients while enlisting the oven to create a luscious sauce from roasted tomatoes and white beans. Essentially, the dish requires just three steps: Boil pasta, roast your sauce ingredients, then stir together until the pasta is glossy. When roasted in the oven, the beans become crispy, like croutons, and break down in a way that helps thicken the sauce. Though a flurry of freshly grated cheese would be welcome on top, this otherwise-vegan dish doesn’t need it: The roasted tomato sauce is rich and luscious, fortified by starchy pasta water, roasted beans and a good glug of extra-virgin olive oil.",
+      "image": [
+        {
+          "@id": "nyt://image/8afb7598-3328-5de7-a490-3e25931c02ff#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/22/multimedia/aw-roasted-white-bean-and-tomato-pasta-wjzp/aw-roasted-white-bean-and-tomato-pasta-wjzp-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-03-23T15:23:09.253Z",
+          "datePublished": "2023-03-20T17:31:45.000Z",
+          "height": "900",
+          "uploadDate": "2023-03-20T17:31:45.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/22/multimedia/aw-roasted-white-bean-and-tomato-pasta-wjzp/aw-roasted-white-bean-and-tomato-pasta-wjzp-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/8afb7598-3328-5de7-a490-3e25931c02ff#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/22/multimedia/aw-roasted-white-bean-and-tomato-pasta-wjzp/aw-roasted-white-bean-and-tomato-pasta-wjzp-superJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-03-23T15:23:09.253Z",
+          "datePublished": "2023-03-20T17:31:45.000Z",
+          "height": "1365",
+          "uploadDate": "2023-03-20T17:31:45.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/22/multimedia/aw-roasted-white-bean-and-tomato-pasta-wjzp/aw-roasted-white-bean-and-tomato-pasta-wjzp-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/8afb7598-3328-5de7-a490-3e25931c02ff#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/22/multimedia/aw-roasted-white-bean-and-tomato-pasta-wjzp/aw-roasted-white-bean-and-tomato-pasta-wjzp-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-03-23T15:23:09.253Z",
+          "datePublished": "2023-03-20T17:31:45.000Z",
+          "height": "1800",
+          "uploadDate": "2023-03-20T17:31:45.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/22/multimedia/aw-roasted-white-bean-and-tomato-pasta-wjzp/aw-roasted-white-bean-and-tomato-pasta-wjzp-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/8afb7598-3328-5de7-a490-3e25931c02ff#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2023/03/22/multimedia/aw-roasted-white-bean-and-tomato-pasta-wjzp/aw-roasted-white-bean-and-tomato-pasta-wjzp-facebookJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2023-03-23T15:23:09.253Z",
+          "datePublished": "2023-03-20T17:31:45.000Z",
+          "height": "550",
+          "uploadDate": "2023-03-20T17:31:45.000Z",
+          "url": "https://static01.nyt.com/images/2023/03/22/multimedia/aw-roasted-white-bean-and-tomato-pasta-wjzp/aw-roasted-white-bean-and-tomato-pasta-wjzp-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "keywords": "Budget, Cherry Tomato, Easy, Orecchiette, Quick, Weeknight, White Bean",
+      "mainEntityOfPage": {
+        "@id": "//cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta",
+        "@type": "WebPage",
+        "name": "Roasted White Bean and Tomato Pasta"
+      },
+      "name": "Roasted White Bean and Tomato Pasta",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "678",
+        "carbohydrateContent": "79.5 grams",
+        "cholesterolContent": "0.6 milligrams",
+        "fatContent": "33.3 grams",
+        "fiberContent": "7.7 grams",
+        "proteinContent": "16.8 grams",
+        "saturatedFatContent": "4.8 grams",
+        "sodiumContent": "643.9 milligrams",
+        "sugarContent": "6.3 grams",
+        "unsaturatedFatContent": "3.9 grams"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "recipeCategory": "Dinner, Main Course, Pastas",
+      "recipeIngredient": [
+        "Salt and black pepper",
+        "¾ cup plus 2 tablespoons extra-virgin olive oil",
+        "1 large shallot, finely minced",
+        "2 tablespoons tomato paste",
+        "5 garlic cloves, thinly sliced",
+        "½ teaspoon finely chopped fresh rosemary (or ¼ teaspoon dried)",
+        "½ teaspoon red-pepper flakes",
+        "½ teaspoon granulated sugar",
+        "16 ounces cherry tomatoes, halved",
+        "1 (15-ounce) can small white beans (preferably navy or cannellini beans), rinsed (or 1 ⅓ cups cooked white beans)",
+        "1 pound orecchiette (or other shaped pasta that will cup or grasp the sauce)",
+        "Freshly grated Parmesan or pecorino (optional), for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat the oven to 375 degrees. Bring a large pot of salted water to a boil over high.",
+          "url": "https://cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta#recipe-step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a small bowl, stir together ¼ cup olive oil with the shallot, tomato paste, garlic, rosemary, red-pepper flakes and sugar. On a large baking sheet, toss the tomatoes with the dressing; season generously with salt and pepper, then spread in an even layer.",
+          "url": "https://cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta#recipe-step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "On a second baking sheet, toss the beans with 2 tablespoons olive oil; season generously with salt and pepper.",
+          "url": "https://cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta#recipe-step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Roast the tomatoes and beans, stirring halfway through, until tomatoes slump and beans crisp, about 25 minutes.",
+          "url": "https://cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta#recipe-step-4"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "While the tomatoes and beans roast, cook the pasta until al dente. Reserve 1 cup pasta cooking water then drain pasta.",
+          "url": "https://cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta#recipe-step-5"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the beans and tomatoes to the pot. Add ¼ cup pasta cooking water to the sheet pan from the tomatoes and use a flexible spatula to scrape the browned bits from the bottom of the sheet pan; transfer to the pot, then repeat with another ¼ cup pasta cooking water. (One thing they’ll teach you in French culinary school: Never, ever discard the sucs, those browned bits at the bottom of the pan that carry deep flavor.)",
+          "url": "https://cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta#recipe-step-6"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the pasta and the remaining ½ cup olive oil to the pot; stir vigorously until saucy. Season generously with salt and pepper, then add extra pasta water as needed to moisten until glossy. Divide among wide, shallow bowls and top with grated cheese, if desired.",
+          "url": "https://cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta#recipe-step-7"
+        }
+      ],
+      "recipeYield": "4 to 6 servings",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Stephanie"
+          },
+          "datePublished": "2026-08-13T11:31:37Z",
+          "reviewBody": "Fabulous weeknight dinner. Next time though I’d double the tomatoes and use two not one can beans to give a bit more balance to the carbs. Delicious."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "hchowe"
+          },
+          "datePublished": "2026-08-08T00:55:05Z",
+          "reviewBody": "Tossed the dressed tomatoes and beans with farro and it was delicious! Topped with plenty of shaved Parmesan."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tara"
+          },
+          "datePublished": "2026-08-07T08:15:33Z",
+          "reviewBody": "Wasn’t expecting this to be that good and it was such as easy way to use all the cherry tomatoes in my garden. Restaurant quality dish."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nikki"
+          },
+          "datePublished": "2026-08-06T19:45:49Z",
+          "reviewBody": "Was SO DELICIOUS. mostly as written. Used one baking sheet tomToes at one end beans at the other - worked fine. Also substituted kashmiri chili for red pepper;gives it such an added layer if red pepper flavor with some heat. Yum. Will use more tomatoes next time because were too too good."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "sam"
+          },
+          "datePublished": "2026-08-06T13:14:11Z",
+          "reviewBody": "A super recipe as written. The beans added a fabulous smooth texture to the tomatoes but left a bit of the roasted crispy texture of the beans as well.  Thanks again for a terrific recipe."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Monica"
+          },
+          "datePublished": "2026-08-05T11:29:03Z",
+          "reviewBody": "I made this dish, but I ended up taking out about a third of the pasta as there wasn't enough sauce for my taste.  I will make it again, but use only 8 oz of pasta."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "BLove"
+          },
+          "datePublished": "2026-08-04T01:47:50Z",
+          "reviewBody": "Really loved this and will make it again.  I almost made it per recipe, but did not have a shallot so used onion and I wanted more beans once I realized how much pasta a pound makes, so I quickly roasted up another can and tossed them in.  I might add some pancetta next time and I think I would roast it with the beans."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Emily"
+          },
+          "datePublished": "2026-07-22T03:32:50Z",
+          "reviewBody": "Only used the first portion of olive oil and a small shallot plus some extra garlic. Omitted the sugar. Forgot to cut the cherry tomatoes in half but that didn’t matter, they smashed up really well. Took advantage of some other posters tips and roasted the toms in a Dutch oven. Easy and delicious will make again."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Mike"
+          },
+          "datePublished": "2026-07-21T21:36:41Z",
+          "reviewBody": "Made this and forgot to add the last 1/2 of olive oil. Didn’t miss it."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "gMorey"
+          },
+          "datePublished": "2026-06-23T03:48:43Z",
+          "reviewBody": "made this with chickpeas instead of canelinni beans, didn’t add sugar,  baked the beans and tomatoes on one tray, and used a little bit of purple onion instead of shallot! turned out wonderful!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NW"
+          },
+          "datePublished": "2026-07-09T17:51:20Z",
+          "reviewBody": "@Sissy Ashby. Of course…or undrained. There’s a lot of pasta to soak it up."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sissy Ashby"
+          },
+          "datePublished": "2026-06-15T16:51:35Z",
+          "reviewBody": "Would good canned tomatoes, well drained, work?"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Regina"
+          },
+          "datePublished": "2026-06-13T02:13:43Z",
+          "reviewBody": "I hesitated cooking this for years because I thought it was dumb to make pasta dish using a sheet pan. I made it and it was delicious. But I put parchment paper so there was no deglazing. Forgot the rosemary. Oops. It was still good. I will make this again and try the tomatoes in an ovenproof skillet. That way deglazing will not be awkward. Also, not even sure if the beans need to be roasted. I think this recipe is flexible. No need to overthink it. Relax with it."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "NW"
+          },
+          "datePublished": "2026-07-09T17:51:20Z",
+          "reviewBody": "@Don Old Wine Guy. Beans also add protein."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Don Old Wine Guy"
+          },
+          "datePublished": "2026-06-07T15:04:33Z",
+          "reviewBody": "No flavor for me. Beans added nothing but a poor texture."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Clay"
+          },
+          "datePublished": "2026-05-14T02:55:15Z",
+          "reviewBody": "Made this a lot. Double the beans, 1.5 the tomatoes, and double the red pepper flakes. Perfect!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "C"
+          },
+          "datePublished": "2026-04-28T03:06:24Z",
+          "reviewBody": "Followed the recipe as-is, except used less pasta in order to have more sauce per bite. Absolutely DELICIOUS! And a really easy weeknight pasta. Will be on repeat in our house!\nAlso, the little bit of added sugar in the recipe is definitely helpful when making this with out-of-season tomatoes."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca"
+          },
+          "datePublished": "2023-04-05T01:41:35Z",
+          "reviewBody": "This is a delicious recipe (I cooked it as written) hidden under bad planning. No reason it needed to arrive on the table lukewarm with a murder scene of dirty dishes in the kitchen. Bake the beans on a sheet pan as written - a quarter size is perfect. Bake tomato mixture in a large oven-proof skillet. Transfer skillet to cook top, add beans, then just scoop the pasta directly into the skillet with water clinging, adding more pasta water if necessary. 100% of sucs preserved with way less mess."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brian"
+          },
+          "datePublished": "2023-03-25T13:08:49Z",
+          "reviewBody": "Thanks! A lovely dish, pasta e fagioli always a winner - the roasting is a nice touch.  But one suggestion, please, made with respect. I have lived in Italy, am married to an Italian, and have never understood why Americans add sugar to a tomato sauce - the acidity of the fruit is quickly cooked away.  Don't believe me - check out Antonio Carluccio, etc.   It's a terrible habit, sadly passed on by cookbook writers."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rebecca"
+          },
+          "datePublished": "2023-03-22T18:24:07Z",
+          "reviewBody": "The recipe calls for two sheet pans because the beans won’t crisp if they’re crowded on one sheet pan with too much other stuff, especially if the tomatoes burst while roasting and the juices run."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laura"
+          },
+          "datePublished": "2023-03-25T03:00:43Z",
+          "reviewBody": "I put tomatoes and beans on separate sides of the same dish and it worked perfectly. This is an exceptional recipe. Add an anchovy to the tomato paste blend before tossing the cherry tomatoes in there and you will think you’ve died and gone to heaven."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "datePublished": "2023-03-22T18:24:07Z",
+          "reviewBody": "Has anyone tried this with less than 3/4 cup of olive oil?  That sounds like a lot for 4 servings."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jats"
+          },
+          "datePublished": "2023-03-26T14:59:45Z",
+          "reviewBody": "I think sometimes it's done to compensate for the relatively poor quality tomatoes available from most American supermarkets, where most people in the US buy their tomatoes."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shelley"
+          },
+          "datePublished": "2023-03-25T03:00:44Z",
+          "reviewBody": "I really liked this. I suspect anyone saying they didn’t find it had enough flavour is either used to a lot of seasoning and/or didn’t season it enough. PS, I halved the oil and it was still great. Love the crunchy beans and the hint of heat."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa piel"
+          },
+          "datePublished": "2023-03-22T15:41:43Z",
+          "reviewBody": "Two baking sheets is one too many. Why not put the tomatoes on one half and the beans on the other half?"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shannon"
+          },
+          "datePublished": "2023-03-23T03:48:15Z",
+          "reviewBody": "I used 2 glass baking dishes for the beans and the tomatoes. Beans crisped and  tomatoes cooked up nicely as well.  \nI use a Stainless Steel Steamer that I place in my Dutch oven to cook the pasta. This help’s strain the pasta, leaving plenty of pasta water. \nUsed an immersion blender to cream part of the tomato/bean mix in the Dutch oven and added the pasta water as needed."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nina"
+          },
+          "datePublished": "2023-09-03T18:22:43Z",
+          "reviewBody": "I followed the advice of another comment and cooked the tomatoes in a oven proof skillet and lifted the (wet) pasta straight out of its cooking pot to mix in the skillet. This saved the additional awkward step of pouring pasta water over a sheet pan and tipping it back in with pasta and tomatoes. \nOtherwise I made this as read - delicious,"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jon"
+          },
+          "datePublished": "2023-03-25T13:08:49Z",
+          "reviewBody": "This was very easy and absolutely delicious.  I'm in the two sheet pan camp.  My beans came out nice and crispy.  I think putting the beans and the tomatoes on the same sheet would have made the beans soggy from the tomato juice.  Also, the beans need the space to crisp up.  The slight heat was just perfect.  Only edit I'll make next time is to augment with more tomatoes.  They're delicious but I wanted more in the sauce."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Michael"
+          },
+          "datePublished": "2023-03-24T05:47:32Z",
+          "reviewBody": "Made just as written--delicious!  I especially like the complex textures that come from roasting the shallot, garlic and tomatoes...a little crunch, a little creamy, a little glossy.  Probably didn't use all of the oil, but close."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AM"
+          },
+          "datePublished": "2023-03-24T12:02:02Z",
+          "reviewBody": "Maybe the beans wouldn't have enough space between them to get crispy?"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AM"
+          },
+          "datePublished": "2023-03-24T05:47:29Z",
+          "reviewBody": "This came out delicious. I didn't have rosemary, so I used an Italian herb blend, but otherwise followed the recipe as written. I wouldn't describe the beans as \"crispy,\" but I might have pulled them out a little too soon because they had gotten so brown. However, I enjoyed the chang's they developed from roasting, and the sauce is incredibly good: creamy, with a little bit of heat. This is definitely going into the rotation."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Paul Banas"
+          },
+          "datePublished": "2023-09-05T13:56:54Z",
+          "reviewBody": "I’d agree with others on three things:\n1. Skip sugar\n2. Use less pasta so you have more sauce\n3. Don’t follow recipe if beans and tomatoes not brown and crispy. Leave them in a bit longer than 25 minutes."
+        }
+      ],
+      "suitableForDiet": "VeganDiet",
+      "totalTime": "PT30M",
+      "url": "//cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "//cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta",
+      "@type": "WebPage",
+      "author": {
+        "@id": "nyt://person/83f84ca6-ddf8-575b-8fb3-36652c638f74",
+        "@type": "Person",
+        "image": [
+          {
+            "@id": "nyt://image/2a02a140-0ad2-54d8-b9d9-c5bdfc5d613d#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/10/06/reader-center/author-alexa-weibel/author-alexa-weibel-superJumbo.png",
+            "dateModified": "2022-10-06T16:51:05.107Z",
+            "datePublished": "2022-10-06T16:51:05.107Z",
+            "height": "1000",
+            "uploadDate": "2022-10-06T16:51:05.107Z",
+            "url": "https://static01.nyt.com/images/2022/10/06/reader-center/author-alexa-weibel/author-alexa-weibel-superJumbo.png",
+            "width": "1000"
+          },
+          {
+            "@id": "nyt://image/2a02a140-0ad2-54d8-b9d9-c5bdfc5d613d#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/10/06/reader-center/author-alexa-weibel/author-alexa-weibel-mediumSquareAt3X.png",
+            "dateModified": "2022-10-06T16:51:05.107Z",
+            "datePublished": "2022-10-06T16:51:05.107Z",
+            "height": "1000",
+            "uploadDate": "2022-10-06T16:51:05.107Z",
+            "url": "https://static01.nyt.com/images/2022/10/06/reader-center/author-alexa-weibel/author-alexa-weibel-mediumSquareAt3X.png",
+            "width": "1000"
+          }
+        ],
+        "name": "Alexa Weibel",
+        "sameAs": "https://www.nytimes.com/by/alexa-weibel",
+        "url": "https://cooking.nytimes.com/author/alexa-weibel"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2023,
+      "dateModified": "2023-03-21T00:00:00Z",
+      "datePublished": "2023-03-21T00:00:00Z",
+      "description": "With a flavor profile inspired by pasta e fagioli, this weeknight pasta recipe coaxes rich flavor out of simple ingredients while enlisting the oven to create a luscious sauce from roasted tomatoes and white beans. Essentially, the dish requires just three steps: Boil pasta, roast your sauce ingredients, then stir together until the pasta is glossy. When roasted in the oven, the beans become crispy, like croutons, and break down in a way that helps thicken the sauce. Though a flurry of freshly grated cheese would be welcome on top, this otherwise-vegan dish doesn’t need it: The roasted tomato sauce is rich and luscious, fortified by starchy pasta water, roasted beans and a good glug of extra-virgin olive oil.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Roasted White Bean and Tomato Pasta",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "//cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-08-17T18:46:31.638Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
