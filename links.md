@@ -3,6 +3,8 @@
 
 ## 2026
 
+- https://cooking.nytimes.com/recipes/1026711-noodle-okonomiyaki-cabbage-and-egg-pancakes #asian #dinner #noodles #veg
+- https://cooking.nytimes.com/recipes/1025675-pesto-beans #dinner #veg
 - https://cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta #dinner #noodles #veg
 - https://cooking.nytimes.com/recipes/1027269-i-cant-believe-its-not-chicken-super-savory-grated-tofu #asian #dinner #tried-and-true #veg
 - https://cooking.nytimes.com/recipes/776979647-laksa-noodle-salad #asian #dinner #gf #noodles
