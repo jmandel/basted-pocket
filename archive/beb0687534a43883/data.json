@@ -1,0 +1,548 @@
+{
+  "id": "beb0687534a43883",
+  "original_url": "https://cooking.nytimes.com/recipes/1026711-noodle-okonomiyaki-cabbage-and-egg-pancakes",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026711-noodle-okonomiyaki-cabbage-and-egg-pancakes",
+  "fetched_title": "Noodle Okonomiyaki (Cabbage and Egg Pancakes) Recipe",
+  "main_text_content": "These hearty, vegetarian main-meal pancakes have it all: noodles, eggs and big umami flavors. Loosely inspired by Hiroshima-style okonomiyaki, this weeknight-friendly recipe is a shortcut version, with cabbage and instant noodles tossed with seasoned eggs to make a thick, satisfying pancake.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/768413295-chickpeas-al-limone-with-burrata\"><figure class=\"atoms_imageBlock__P0ym6 atoms_roundedImageBlock__FSnaH\"><img alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2026/01/14/multimedia/hlm-chickpeas-al-limone-with-burrata-hwjt/hlm-chickpeas-al-limone-with-burrata-hwjt-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"208px\"/></figure><section class=\"atoms_textBlock__QKkI_\"><h3 class=\"pantry--ui-strong atoms_cardTitle__aAeYE\">Chickpeas al Limone With Burrata</h3><p class=\"pantry--ui-sm recipecard_byline__tf4y0\">Hetty Lui McKinnon</p><div class=\"recipecard_recipeCardRating__0mxMA\"><span class=\"recipecard_ratingCaption__CDw5D\">3211 ratings with an average rating of 5 out of 5 stars</span><span class=\"recipecard_stars__4hc6Q\"><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg></span><p class=\"pantry--ui-sm recipecard_ratingLabel__CqO_g\">3,211</p></div><p class=\"pantry--ui-sm recipecard_cookTime__jBWS9\">25 minutes</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/05/15/multimedia/hm-cabbage-and-noodle-pancakes-zvtm/hm-cabbage-and-noodle-pancakes-zvtm-facebookJumbo.jpg",
+  "local_image_path": "archive/beb0687534a43883/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@id": "urn:nyt:ScoopRecipe:e714ee15d8e5550e82a442ac0a0d8850",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 1464,
+        "ratingValue": 5
+      },
+      "author": {
+        "@id": "nyt://person/4b456a99-46c9-5268-a56f-1ecf40bbc234",
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon",
+        "sameAs": "https://www.nytimes.com/by/hetty-lui-mckinnon",
+        "url": "https://cooking.nytimes.com/author/hetty-lui-mckinnon"
+      },
+      "cookTime": "PT40M",
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "dateModified": "2025-05-16T00:00:00Z",
+      "datePublished": "2025-05-16T00:00:00Z",
+      "description": "These hearty, vegetarian main-meal pancakes have it all: noodles, eggs and big umami flavors. Loosely inspired by Hiroshima-style okonomiyaki, this weeknight-friendly recipe is a shortcut version, with cabbage and instant noodles tossed with seasoned eggs to make a thick, satisfying pancake. It provides a good chance to use up that leftover wedge of cabbage in your fridge, as a little cabbage goes a long way here. There’s room to experiment with other vegetables, too, such as carrots, bean sprouts, potato or broccoli. The egg seasonings — soy sauce, scallions and sesame oil — are also flexible: Try adding a dab of miso paste, a drizzle of chile crisp, Maggi seasoning or a spice paste like gochujang. For a gluten-free alternative, opt for glass noodles. This recipe shows that the best weeknight recipes are the ones that work with what’s available in your pantry.",
+      "image": [
+        {
+          "@id": "nyt://image/84681032-a5e2-5f85-aa2e-869a7bbed866#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/15/multimedia/hm-cabbage-and-noodle-pancakes-zvtm/hm-cabbage-and-noodle-pancakes-zvtm-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-12-11T17:40:06.061Z",
+          "datePublished": "2025-05-15T15:23:32.000Z",
+          "height": "900",
+          "uploadDate": "2025-05-15T15:23:32.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/15/multimedia/hm-cabbage-and-noodle-pancakes-zvtm/hm-cabbage-and-noodle-pancakes-zvtm-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/84681032-a5e2-5f85-aa2e-869a7bbed866#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/15/multimedia/hm-cabbage-and-noodle-pancakes-zvtm/hm-cabbage-and-noodle-pancakes-zvtm-googleFourByThree.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-12-11T17:40:06.061Z",
+          "datePublished": "2025-05-15T15:23:32.000Z",
+          "height": "600",
+          "uploadDate": "2025-05-15T15:23:32.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/15/multimedia/hm-cabbage-and-noodle-pancakes-zvtm/hm-cabbage-and-noodle-pancakes-zvtm-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/84681032-a5e2-5f85-aa2e-869a7bbed866#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/15/multimedia/hm-cabbage-and-noodle-pancakes-zvtm/hm-cabbage-and-noodle-pancakes-zvtm-mediumSquareAt3X.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-12-11T17:40:06.061Z",
+          "datePublished": "2025-05-15T15:23:32.000Z",
+          "height": "1800",
+          "uploadDate": "2025-05-15T15:23:32.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/15/multimedia/hm-cabbage-and-noodle-pancakes-zvtm/hm-cabbage-and-noodle-pancakes-zvtm-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/84681032-a5e2-5f85-aa2e-869a7bbed866#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/05/15/multimedia/hm-cabbage-and-noodle-pancakes-zvtm/hm-cabbage-and-noodle-pancakes-zvtm-facebookJumbo.jpg",
+          "creditText": "Julia Gartland for The New York Times. Food Stylist: Samantha Seneviratne.",
+          "dateModified": "2025-12-11T17:40:06.061Z",
+          "datePublished": "2025-05-15T15:23:32.000Z",
+          "height": "550",
+          "uploadDate": "2025-05-15T15:23:32.000Z",
+          "url": "https://static01.nyt.com/images/2025/05/15/multimedia/hm-cabbage-and-noodle-pancakes-zvtm/hm-cabbage-and-noodle-pancakes-zvtm-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "keywords": "Budget, Cabbage, Easy, Egg, Make-Ahead, Quick, Ramen Noodle, Stovetop, Weeknight",
+      "mainEntityOfPage": {
+        "@id": "//cooking.nytimes.com/recipes/1026711-noodle-okonomiyaki-cabbage-and-egg-pancakes",
+        "@type": "WebPage",
+        "name": "Noodle Okonomiyaki (Cabbage and Egg Pancakes)"
+      },
+      "name": "Noodle Okonomiyaki (Cabbage and Egg Pancakes)",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "494.75",
+        "carbohydrateContent": "53.3 grams",
+        "cholesterolContent": "409.4 milligrams",
+        "fatContent": "21.8 grams",
+        "fiberContent": "10.3 grams",
+        "proteinContent": "25.7 grams",
+        "saturatedFatContent": "5.2 grams",
+        "sodiumContent": "958.4 milligrams",
+        "sugarContent": "5.1 grams",
+        "transFatContent": "0.1 grams",
+        "unsaturatedFatContent": "7.5 grams"
+      },
+      "prepTime": "PT10M",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "recipeCategory": "Dinner, Lunch, Main Course, Noodles, Snack, Vegetable Pancake",
+      "recipeIngredient": [
+        "2 (3-ounce) instant-ramen noodle packages (seasoning packets discarded)",
+        "Boiled water",
+        "8 large eggs",
+        "4 teaspoons soy sauce or tamari",
+        "4 teaspoons toasted sesame oil",
+        "4 scallions, thinly sliced",
+        "Salt and pepper (preferably white pepper)",
+        "½ medium green, red or savoy cabbage (1 ¼ to 1 ½ pounds), halved, core removed and thinly sliced crosswise",
+        "Vegetable or sunflower oil",
+        "Sriracha, for serving",
+        "Mayonnaise (preferably Kewpie brand), for serving",
+        "White sesame seeds, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Place the instant noodles into a large, heatproof bowl, top with about 6 cups just-boiled water, and soak for 7 to 8 minutes.",
+          "url": "https://cooking.nytimes.com/recipes/1026711-noodle-okonomiyaki-cabbage-and-egg-pancakes#recipe-step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, place the eggs into a large bowl and whisk to combine. Add the soy sauce, sesame oil and ¾ of the scallions (keep some for garnish); season with about 1 teaspoon each of salt and pepper and whisk to combine.",
+          "url": "https://cooking.nytimes.com/recipes/1026711-noodle-okonomiyaki-cabbage-and-egg-pancakes#recipe-step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Drain the noodles and loosen them up with tongs or your hands. Add the cabbage and the noodles to the eggs and toss well to make sure everything is coated.",
+          "url": "https://cooking.nytimes.com/recipes/1026711-noodle-okonomiyaki-cabbage-and-egg-pancakes#recipe-step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat a small 6-inch or 8-inch nonstick skillet on medium-high. When hot, drizzle with vegetable oil and add ¼ of the cabbage and noodle mixture. Use a spatula (a flexible fish spatula works well here) to tuck in the sides around the skillet. Reduce heat to medium and cover (if you don’t have a lid, use a large skillet or sheet pan) and leave to cook for 3 to 4 minutes, until the bottom is golden. Uncover and top the skillet with a plate that is slightly bigger than the skillet, then confidently flip the pancake so that the cooked side is facing up. Slide the pancake back into the skillet to cook the other side. Leave to cook on medium, uncovered, for another 3 to 4 minutes.",
+          "url": "https://cooking.nytimes.com/recipes/1026711-noodle-okonomiyaki-cabbage-and-egg-pancakes#recipe-step-4"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Transfer the pancake to a plate and continue cooking the other three pancakes, wiping the pan clean and adding another drizzle of vegetable oil between batches.",
+          "url": "https://cooking.nytimes.com/recipes/1026711-noodle-okonomiyaki-cabbage-and-egg-pancakes#recipe-step-5"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To serve, drizzle each pancake with Sriracha and mayonnaise, and scatter over the sesame seeds and remaining scallions. (Pancakes can be cooked ahead and stored in the fridge for up to 24 hours in an airtight container. Reheat in the skillet or microwave.)",
+          "url": "https://cooking.nytimes.com/recipes/1026711-noodle-okonomiyaki-cabbage-and-egg-pancakes#recipe-step-6"
+        }
+      ],
+      "recipeYield": "4 servings",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JulieG"
+          },
+          "datePublished": "2026-08-23T19:53:30Z",
+          "reviewBody": "One of my favorite things to do of a Sunday is to come to any NYT recipe comment section, grab some popcorn and sit back. 😂💜"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "VeganSuze"
+          },
+          "datePublished": "2026-08-22T02:44:15Z",
+          "reviewBody": "This was so delicious. We made it with Just Egg (plant-based egg) and it came out fabulous. I flipped it on the pan’s lid and slipped right back into the pan, shockingly without a problem…or burn! This will be added to our regular rotation, for sure."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anna"
+          },
+          "datePublished": "2026-08-21T16:22:08Z",
+          "reviewBody": "These were even better than I was expecting! The recipe halves nicely. I do not have a pan as small as the one called for, so I fried them in my large cast iron skillet. I was able to flip them no problem without using a plate. From half a recipe I made four, 3/8\" thick by about 7\" diameter. I love Korean pajeon made with zucchini and this recipe satisfies that craving for me. Great for the colder months when cabbage is abundant and zucchini is out of season."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Annie B."
+          },
+          "datePublished": "2026-08-21T01:20:12Z",
+          "reviewBody": "My two picky kids age 5 and 9 loved this! They scarfed down the pizza-shaped slices with ranch dressing, called it \"pancakes for dinner,\" and had no idea they were eating cabbage. I'm making this on repeat now—thank you! My husband and I both loved it too, with the slightly more sophisticated sauces from the recipe."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "C - Berkeley"
+          },
+          "datePublished": "2026-08-20T22:31:10Z",
+          "reviewBody": "My japanese friend who first showed me this recipe did not use noodles at all, and used any veg she had in her fridge to compliment the cabbage. I liked it with the noodles too.\nJust make smaller pancakes. What is the fuss about?!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kate"
+          },
+          "datePublished": "2026-08-18T00:11:54Z",
+          "reviewBody": "Made tonight pretty much according to recipe. I did halve the recipe as just 2 of us. I didn't have scallions so sauteed some shallots and garlic. As suggested by others I sauteed the cabbage first and then added with noodles to eggs. I made a mix of mayo (not kewpie) and sriracha to drizzle over the pancake. It was all delicious. This will be in regular rotation."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kim W"
+          },
+          "datePublished": "2026-08-07T16:41:11Z",
+          "reviewBody": "Cut the recipe in 4 and it's perfect for a fast breakfast, using the microwave to heat the noodles/water and cutting the pancake into quarters in the pan to flip. Leave off the extra salt but add onion powder. The Kewpie makes a huge difference, balances everything."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Diane E"
+          },
+          "datePublished": "2026-08-06T17:03:27Z",
+          "reviewBody": "So delicious and perfect when you have a hunk of lonely cabbage in your fridge. As many have suggested, I add grated carrot and sauté the veggies while the noodles plump. I've made it divvied up in small pans or in a large pan. Smaller pans make it easier to flip. We use spicy Kewpie for the garnish -- it's pretty."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Meshelle"
+          },
+          "datePublished": "2026-07-28T15:13:06Z",
+          "reviewBody": "This was okay and I'm glad I made half a recipe. I followed the recipe as written and if there is a next time I'll add more stuff to the mix. Soaking noodles is quicker than cooking potatoes for a frittata which is my go-to way to use up a bunch of eggs. Even with half a recipe there are too many leftovers and I'll be eating this for 3 more days."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tarah"
+          },
+          "datePublished": "2026-06-09T04:54:52Z",
+          "reviewBody": "For anyone wondering if this can be made vegan - yes! I substituted just egg and it worked great. The carton says 3T per egg, I’d go 1/4 cup next time. I used protein ramen and the high end of the veggies by weight. Served with sriracha vegenaise and homemade chili crisp."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "bsj40052"
+          },
+          "datePublished": "2026-06-07T01:47:27Z",
+          "reviewBody": "Surprisingly tasty and popular at our house. Very easy to flip, Def recommend the use of sauces.  Will be on our rotation when we need to make a pantry meal."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lulu"
+          },
+          "datePublished": "2026-05-30T18:41:39Z",
+          "reviewBody": "I was skeptical at first and it took a few pancakes before I had my sautéing and flipping down. Finally, creamy and flavorful. Sauces are a must. No Sriracha so mixed barbecue sauce with tahini."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue M"
+          },
+          "datePublished": "2026-05-22T22:43:41Z",
+          "reviewBody": "I've made these recipe as written with the exception of using brown rice ramen noodles and love it!  It is quick and easy to put this dish together.  I can imagine all sorts of additions I can make to the basic recipe.  I find that it is comfort food for me."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennifer"
+          },
+          "datePublished": "2026-05-06T20:57:05Z",
+          "reviewBody": "Love the ramen rather than flour which I've traditionally used."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Maggie"
+          },
+          "datePublished": "2026-05-05T23:45:42Z",
+          "reviewBody": "Love this recipe. Excellent for using up sad veggies in your fridge. \n\nHighly recommend swapping vermicelli for ramen noodles and topping with sriracha, furikake, and kewpie. The vermicelli gives it a crab cake-like texture that you just don’t get with the ramen noodles. \n\nAlso, no need to flip onto a plate, just flip like you’re frying eggs!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Al"
+          },
+          "datePublished": "2025-05-23T15:24:34Z",
+          "reviewBody": "Why does everyone who publishes an okonomiyaki recipe want us to flip the gummy barely cooked top side onto a plate? Simply slide the browned, first-cooked side out of the pan onto the inverted lid (let it dry for 20 seconds first), then invert the pan onto the lid & pancake, then flip the whole thing back over!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Canuck Cook"
+          },
+          "datePublished": "2025-05-19T07:47:07Z",
+          "reviewBody": "This was tasty, filling, inexpensive, and quick.  We added shredded carrot and onion, and sautéed all of the veggies to soften and brown them before adding them to the noodles.  We cooked a half recipe as 1 pancake in a 10\" fry pan."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Wynne"
+          },
+          "datePublished": "2025-05-24T21:05:53Z",
+          "reviewBody": "For those who are a bit timid about flipping from a heavy pan (I am one), there is a workaround. Simply slide the pancake from the pan onto a plate, then place another plate on top of the pancake, and flip it. Then slide the pancake back into the pan."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "zoz"
+          },
+          "datePublished": "2025-05-24T21:05:54Z",
+          "reviewBody": "I’ve been making Classic Okonomiyaki since the recipe appeared here and completely love it. I even bought an extra wide (6.5 by 7 inch) spatula to flip the pancake (OK, not a new dishwasher like another commenter). I suggest making a quick okonomi sauce using 4 parts ketchup, 3 parts Worcestershire, 2 parts oyster sauce and 1 part sugar or rice wine vinegar and refrigerating for about 1hour (also keeps well refrigerated). Use this sauce alongside Kewpie mayo and Everything Bagel seasoning as toppings. So good!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anon O. Miss"
+          },
+          "datePublished": "2025-06-01T16:51:14Z",
+          "reviewBody": "@VHinPDX\nHints from Heloise! Yes. She has never left me. I have several hints I’ve shared with Heloise over the years, in an alternate universe where there’s no internet. My most recent is how to toast nuts without burning them. Heat oven, put in nuts. Turn oven off. An hour later when I get back to the kitchen they’re ready and not burnt because I spaced out and went upstairs to put away the laundry and, well you know…"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Laurie"
+          },
+          "datePublished": "2025-05-23T13:21:40Z",
+          "reviewBody": "This was very tasty, it reminded me very much of Egg Foo Young. Because I'm a lazy cook, I used a bagged coleslaw mix and sauteed it with onion before adding it to the egg/noodle mixture. I also broke the ramen before softening. I think this would also be excellent with Indian seasonings and made smaller to eat with your fingers, perhaps with a yoghurt dip on the side."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Pesha"
+          },
+          "datePublished": "2025-05-24T21:05:54Z",
+          "reviewBody": "Forget the flipping.  Use a broiler safe pan and when the first side is done slide the pan into the broiler - same way as you cook a frittata."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Abby"
+          },
+          "datePublished": "2025-05-23T13:21:39Z",
+          "reviewBody": "One of the criteria for my new dinner plates was that they had to be big enough to fit over my 10” nonstick skillet so I could flip Spanish tortilla (silicone oven gloves make it feel super safe). Once unpacked, I found out that they were too big for the dishwasher. Fortunately, the dishwasher was on its last legs, so we eventually got a new and roomier dishwasher and could stop handwashing them. I’m happy to have a second recipe that justifies all of that!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennifer"
+          },
+          "datePublished": "2025-05-26T01:00:53Z",
+          "reviewBody": "@Wynne thank you for this! It worked perf"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Millette"
+          },
+          "datePublished": "2025-06-06T23:55:08Z",
+          "reviewBody": "@zoz. Thank you so  much for the sauce recipe."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Actually Chinese"
+          },
+          "datePublished": "2025-05-26T04:05:38Z",
+          "reviewBody": "@Tim\nI love okonomiyaki so much my partner bought me a pair of Japanese okonomiyaki spatulas. They’re extra wide and work great"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "HM in Chicago"
+          },
+          "datePublished": "2025-05-23T13:21:40Z",
+          "reviewBody": "Sprinkling on top just before serving a little bonito flake adds another dimension of umami."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Russ Wilcox"
+          },
+          "datePublished": "2025-06-01T20:54:48Z",
+          "reviewBody": "@Jeff R we just returned last month from Hiroshima and experienced the dish the same way. It is a much prettier presentation which is so important to the Japanese! This recipe is more akin to Korean Seafood Pancakes. On a side note: Highly recommend seeing Hiroshima which is a beautiful city embracing hope for children and world peace!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kenzis"
+          },
+          "datePublished": "2025-05-22T02:26:46Z",
+          "reviewBody": "Really easy and tasty! We added some shrimp to the okonomiyaki before the flip, and they cooked through without any issue :) Never tried these with noodles rather than a flour-based batter, but I really like it!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Gretchen"
+          },
+          "datePublished": "2025-05-24T15:26:26Z",
+          "reviewBody": "I was skeptical about this recipe. It could be great or really gross. I'm so glad I tried it because it was great and a hit with my partner. I did half the recipe in a 10 inch pan and sauteed the cabbage first as suggested in comments. The pancake flipped easily and looked beautiful. For fun, next time I'll add my own flare to the ingredients- perhaps some crab."
+        }
+      ],
+      "suitableForDiet": "VegetarianDiet",
+      "totalTime": "PT50M",
+      "url": "//cooking.nytimes.com/recipes/1026711-noodle-okonomiyaki-cabbage-and-egg-pancakes"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "//cooking.nytimes.com/recipes/1026711-noodle-okonomiyaki-cabbage-and-egg-pancakes",
+      "@type": "WebPage",
+      "author": {
+        "@id": "nyt://person/4b456a99-46c9-5268-a56f-1ecf40bbc234",
+        "@type": "Person",
+        "name": "Hetty Lui McKinnon",
+        "sameAs": "https://www.nytimes.com/by/hetty-lui-mckinnon",
+        "url": "https://cooking.nytimes.com/author/hetty-lui-mckinnon"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "dateModified": "2025-05-16T00:00:00Z",
+      "datePublished": "2025-05-16T00:00:00Z",
+      "description": "These hearty, vegetarian main-meal pancakes have it all: noodles, eggs and big umami flavors. Loosely inspired by Hiroshima-style okonomiyaki, this weeknight-friendly recipe is a shortcut version, with cabbage and instant noodles tossed with seasoned eggs to make a thick, satisfying pancake. It provides a good chance to use up that leftover wedge of cabbage in your fridge, as a little cabbage goes a long way here. There’s room to experiment with other vegetables, too, such as carrots, bean sprouts, potato or broccoli. The egg seasonings — soy sauce, scallions and sesame oil — are also flexible: Try adding a dab of miso paste, a drizzle of chile crisp, Maggi seasoning or a spice paste like gochujang. For a gluten-free alternative, opt for glass noodles. This recipe shows that the best weeknight recipes are the ones that work with what’s available in your pantry.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Noodle Okonomiyaki (Cabbage and Egg Pancakes)",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "//cooking.nytimes.com/recipes/1026711-noodle-okonomiyaki-cabbage-and-egg-pancakes"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-08-24T20:22:26.057Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}

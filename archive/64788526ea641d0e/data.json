@@ -1,0 +1,536 @@
+{
+  "id": "64788526ea641d0e",
+  "original_url": "https://cooking.nytimes.com/recipes/1025675-pesto-beans",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1025675-pesto-beans",
+  "fetched_title": "Pesto Beans Recipe",
+  "main_text_content": "Part quick and rustic bean stew and part deconstructed pesto, this pesto-inspired one-pan meal requires no blender and minimal slicing. It all starts out by sizzling nuts with a little turmeric in olive oil until golden.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1023260-crispy-gnocchi-with-tomato-and-red-onion\"><figure class=\"atoms_imageBlock__P0ym6 atoms_roundedImageBlock__FSnaH\"><img alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2022/06/07/dining/hm-tomato-gnocchi/merlin_204847857_105fb099-f53c-4988-a9c3-352df2bf7415-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2022/06/07/dining/hm-tomato-gnocchi/merlin_204847857_105fb099-f53c-4988-a9c3-352df2bf7415-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"208px\"/></figure><section class=\"atoms_textBlock__QKkI_\"><h3 class=\"pantry--ui-strong atoms_cardTitle__aAeYE\">Crispy Gnocchi With Tomato and Red Onion</h3><p class=\"pantry--ui-sm recipecard_byline__tf4y0\">Hetty Lui McKinnon</p><div class=\"recipecard_recipeCardRating__0mxMA\"><span class=\"recipecard_ratingCaption__CDw5D\">7203 ratings with an average rating of 5 out of 5 stars</span><span class=\"recipecard_stars__4hc6Q\"><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg></span><p class=\"pantry--ui-sm recipecard_ratingLabel__CqO_g\">7,203</p></div><p class=\"pantry--ui-sm recipecard_cookTime__jBWS9\">20 minutes</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2024/07/19/multimedia/CR-Pesto-Beansrex-clqb/CR-Pesto-Beansrex-clqb-facebookJumbo.jpg",
+  "local_image_path": "archive/64788526ea641d0e/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@id": "urn:nyt:ScoopRecipe:39efe16ddcdb51f3ab192a15f0f73655",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 5207,
+        "ratingValue": 5
+      },
+      "author": {
+        "@id": "nyt://person/de9e0154-8f05-513f-8ce8-28b22d9ec20c",
+        "@type": "Person",
+        "name": "Christian Reynoso",
+        "sameAs": "https://www.nytimes.com/by/christian-reynoso",
+        "url": "https://cooking.nytimes.com/author/christian-reynoso"
+      },
+      "cookTime": "PT25M",
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "dateModified": "2024-07-19T00:00:00Z",
+      "datePublished": "2024-07-19T00:00:00Z",
+      "description": "Part quick and rustic bean stew and part deconstructed pesto, this pesto-inspired one-pan meal requires no blender and minimal slicing. It all starts out by sizzling nuts with a little turmeric in olive oil until golden. The Parmesan cheese makes a creamy base for softened shallots and tender beans; then freshly torn basil leaves and lemon juice are stirred in at the end so they stay vibrant and fresh. Top with the beautifully toasted nuts, golden olive oil and a bit more Parmesan. Serve with crusty bread or garlic bread on the side.",
+      "image": [
+        {
+          "@id": "nyt://image/39331602-f369-584c-a570-662cffb5a5d8#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/19/multimedia/CR-Pesto-Beansrex-clqb/CR-Pesto-Beansrex-clqb-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-07-18T16:46:28.802Z",
+          "datePublished": "2024-07-18T16:46:28.802Z",
+          "height": "900",
+          "uploadDate": "2024-07-18T16:46:28.802Z",
+          "url": "https://static01.nyt.com/images/2024/07/19/multimedia/CR-Pesto-Beansrex-clqb/CR-Pesto-Beansrex-clqb-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/39331602-f369-584c-a570-662cffb5a5d8#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/19/multimedia/CR-Pesto-Beansrex-clqb/CR-Pesto-Beansrex-clqb-googleFourByThree.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-07-18T16:46:28.802Z",
+          "datePublished": "2024-07-18T16:46:28.802Z",
+          "height": "600",
+          "uploadDate": "2024-07-18T16:46:28.802Z",
+          "url": "https://static01.nyt.com/images/2024/07/19/multimedia/CR-Pesto-Beansrex-clqb/CR-Pesto-Beansrex-clqb-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/39331602-f369-584c-a570-662cffb5a5d8#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/19/multimedia/CR-Pesto-Beansrex-clqb/CR-Pesto-Beansrex-clqb-mediumSquareAt3X.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-07-18T16:46:28.802Z",
+          "datePublished": "2024-07-18T16:46:28.802Z",
+          "height": "1800",
+          "uploadDate": "2024-07-18T16:46:28.802Z",
+          "url": "https://static01.nyt.com/images/2024/07/19/multimedia/CR-Pesto-Beansrex-clqb/CR-Pesto-Beansrex-clqb-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/39331602-f369-584c-a570-662cffb5a5d8#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2024/07/19/multimedia/CR-Pesto-Beansrex-clqb/CR-Pesto-Beansrex-clqb-facebookJumbo.jpg",
+          "creditText": "David Malosh for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2024-07-18T16:46:28.802Z",
+          "datePublished": "2024-07-18T16:46:28.802Z",
+          "height": "550",
+          "uploadDate": "2024-07-18T16:46:28.802Z",
+          "url": "https://static01.nyt.com/images/2024/07/19/multimedia/CR-Pesto-Beansrex-clqb/CR-Pesto-Beansrex-clqb-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "keywords": "Almond, Basil, Easy, Ground Turmeric, One Pot, Parmesan, Pine Nut, Quick, Stovetop, Weeknight, White Bean",
+      "mainEntityOfPage": {
+        "@id": "//cooking.nytimes.com/recipes/1025675-pesto-beans",
+        "@type": "WebPage",
+        "name": "Pesto Beans"
+      },
+      "name": "Pesto Beans",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "760.5",
+        "carbohydrateContent": "72.1 grams",
+        "cholesterolContent": "21.1 milligrams",
+        "fatContent": "41.5 grams",
+        "fiberContent": "15.3 grams",
+        "proteinContent": "32.2 grams",
+        "saturatedFatContent": "8.7 grams",
+        "sodiumContent": "1181.8 milligrams",
+        "sugarContent": "10.4 grams",
+        "unsaturatedFatContent": "6.4 grams"
+      },
+      "prepTime": "PT10M",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "recipeCategory": "Beans, Dinner, Lunch, Main Course",
+      "recipeIngredient": [
+        "8 tablespoons olive oil",
+        "¼ cup pine nuts or sliced almonds",
+        "½ teaspoon ground turmeric",
+        "Salt and pepper",
+        "3 large shallots, sliced thinly (about 2 cups)",
+        "5 garlic cloves, sliced thinly",
+        "2 (15.5-ounce) cans cannellini beans or other creamy white beans, drained",
+        "1 cup vegetable or chicken stock",
+        "1 cup finely grated Parmesan (about 4 ounces), plus more for serving",
+        "1 ½ cups tightly packed basil leaves, preferably Genovese",
+        "1 lemon, cut into wedges, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat 6 tablespoons of the olive oil over medium-low in a 12-inch skillet or small Dutch oven. Add the pine nuts and, when the oil starts sizzling, stir occasionally until golden brown, about 5 minutes; turn off heat. Stir in the turmeric and season lightly with salt and pepper. Transfer to a small serving bowl.",
+          "url": "https://cooking.nytimes.com/recipes/1025675-pesto-beans#recipe-step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Heat the remaining 2 tablespoons of olive oil over medium-high in the same skillet. When warm, add the shallots and a pinch of salt. Cook, stirring until just softened, about 3 minutes. Stir in the garlic, and when sizzling (about 1 minute), stir in the beans and stock. Bring to a simmer then turn heat down to low.",
+          "url": "https://cooking.nytimes.com/recipes/1025675-pesto-beans#recipe-step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a few additions, sprinkle in the cheese, stirring vigorously to combine. When the cheese has melted into the broth and the mixture looks creamy, season to taste with salt and then turn off the heat. While the beans are still hot, tear the basil leaves (or roughly chop, if you prefer) and stir into the beans.",
+          "url": "https://cooking.nytimes.com/recipes/1025675-pesto-beans#recipe-step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve hot, in bowls or on plates, drizzled with the sizzled nut oil, a squeeze of lemon juice and more black pepper and grated Parmesan, if desired.",
+          "url": "https://cooking.nytimes.com/recipes/1025675-pesto-beans#recipe-step-4"
+        }
+      ],
+      "recipeYield": "4 servings",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tessa"
+          },
+          "datePublished": "2026-08-20T16:25:46Z",
+          "reviewBody": "Not bad! Agree that 1/3 c of oil is a lot to toast the pine nuts in. But the flavors work well together and I have basil aplenty right now. Also always looking for ways to use beans rather than pasta. I cooked a pound of marucanos rather than opening cans of beans."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kelly W"
+          },
+          "datePublished": "2026-08-10T07:22:27Z",
+          "reviewBody": "- Browned pine nuts in 2 tbs OO. Was enough. Removed, and tossed w/ the tumeric in sm. bowl. \n- I kept the nut oil in the pan, added shallots and garlic to it. \n- Instead of stock —- I used leftover burrata water!!!! Yes you heard me :) \n- Added 1/4 already made basil/pine nut pesto at the end. \n- Bc I hate when my meals are one color — I threw in a cup of frozen peas at the end.  Nice little pop of color and fun in your mouth.  \n- With Crusty bread. Amazing.  \n- I might do less garlic cloves next tim. And my pesto also have garlic in it that I didn’t account for."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "katy"
+          },
+          "datePublished": "2026-07-29T00:07:49Z",
+          "reviewBody": "Be sure to transfer the oil with the nuts- it’s not clear that’s the intent in the recipe.\n\nReally great flavors, next time I will deglaze the shallots in white wine and finish with lemon zest.  Perhaps add some pancetta."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Hillary"
+          },
+          "datePublished": "2026-07-22T00:31:25Z",
+          "reviewBody": "I only had one can of beans so I added some rigatoni to make up for it! The pasta water was a great addition and helped cut down on the oil. I also skipped the pine nuts; didn’t have any. Didn’t miss it!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Momo"
+          },
+          "datePublished": "2026-07-18T23:47:49Z",
+          "reviewBody": "Delicious, and the pine nut/turmeric oil is soooooooo good!  Quick and easy but delivers great flavors!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Crusty Man"
+          },
+          "datePublished": "2026-07-18T17:15:18Z",
+          "reviewBody": "Serve with crusty bread. I don’t have crusty bread. Because I didn’t see that in the ingredient list. So I didn’t buy crusty bread."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brendan"
+          },
+          "datePublished": "2026-07-18T17:14:54Z",
+          "reviewBody": "How long to simmer the beans before adding cheese."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Markbannister"
+          },
+          "datePublished": "2026-07-18T14:39:21Z",
+          "reviewBody": "I enjoyed this but did as someone else suggested.  I mad a pesto, but added about twice as many toasted pine nuts as typical  and some lemon juice.  I added about two tablespoons of pesto to the beans, after taking the beans off heat."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jen B"
+          },
+          "datePublished": "2026-07-17T02:25:02Z",
+          "reviewBody": "This was really delicious. You can definitely cut the amount of oil used for the pine nuts if you want. I added a little arugula at the end but otherwise made as directed, it was rich and yummy."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kit"
+          },
+          "datePublished": "2026-07-16T20:16:48Z",
+          "reviewBody": "Loved this! I replaced the parm with 4 tbsps of nutritional yeast to make a dairy free version and it was fabulous."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SIa K."
+          },
+          "datePublished": "2026-07-16T20:15:35Z",
+          "reviewBody": "Loved this! The turmeric pine nut oil is genius!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Robin Fisher"
+          },
+          "datePublished": "2026-07-16T14:24:42Z",
+          "reviewBody": "This is one of my favorite dishes. It has become my number one comfort dishes. Quick hack:  use TraderJoes pesto instead of making your own. But don’t forget the turmeric."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Josh"
+          },
+          "datePublished": "2026-07-16T02:41:12Z",
+          "reviewBody": "This was delicious! I actually had some premade pesto to use up and topped this with some of it."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "lauren"
+          },
+          "datePublished": "2026-07-15T04:48:19Z",
+          "reviewBody": "I love this dish! No need for all that oil. I used cashews since that’s what I had and they worked beautifully. Flavors are so great. Nice and hearty meal that comes together quickly and easily. Will move this into the regular rotation. Serve with a slice of rustic bread to sop up the broth - highly recommended."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Tom"
+          },
+          "datePublished": "2026-07-12T03:44:06Z",
+          "reviewBody": "This recipe was a fabulous vegan meal. I used Vio life parm (no dairy) would make this again in a heartbeat!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Audrey MN"
+          },
+          "datePublished": "2024-07-28T17:54:05Z",
+          "reviewBody": "This is absolutely delicious! I made a vegan version by leaving out the parm and I didn’t even miss it. I roasted a pint of grape tomatoes in the oven and then stirred them in at the end. It added a little more acidity and color. I highly recommend this recipe!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "It was fine"
+          },
+          "datePublished": "2024-07-22T16:04:08Z",
+          "reviewBody": "I didn't love this recipe as much as I thought I would. My biggest complaint and tip for anyone would be to use less oil. 6 tablespoons of oil was a lot for the pine nuts and tumeric sauce, I'd rather use half and dilute it with stock."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jim Ball"
+          },
+          "datePublished": "2024-07-21T07:28:47Z",
+          "reviewBody": "Even better if you make 1/2 cup or so of pesto and stir it in with everything else."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bob Hoover"
+          },
+          "datePublished": "2024-07-24T20:24:34Z",
+          "reviewBody": "I couldn't make it to Genoa so had to use basil from my garden."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Lolly"
+          },
+          "datePublished": "2024-07-31T15:34:34Z",
+          "reviewBody": "for commenters confused about the directions in step 3, \"in a few additions\" refers to adding and incorporating the cheese in small amounts so it doesn't clump. If the cheese is added to quickly it will not melt into the dish."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Zach Walker"
+          },
+          "datePublished": "2024-07-25T18:30:11Z",
+          "reviewBody": "- I subbed parmesan for a blend of walnuts, nutritional yeast, and miso. Worked beautifully.\n- Significantly less olive oil is required if just to toast pine nuts and sauté shallots\n- Can't go wrong with more basil, just be sure to julienne it into thin strips to avoid big chunks of leaf\n- Throwing in a bit of leftover pesto worked well (you could also blend the roasted pine nuts, oil, basil, and parm that's already called for)\n- Don't let the beans simmer too long, they get soft!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Donna."
+          },
+          "datePublished": "2024-07-21T13:58:30Z",
+          "reviewBody": "This was surprisingly delicious and memorable. Something magical about the lemon, olive oil and texture of the beans. Will make during the winter for a comfort food dinner. Thanks for a great recipe"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "datePublished": "2024-07-23T01:54:11Z",
+          "reviewBody": "This makes a delicious meal.  I didn’t want to make a salad to go with it, so I riced and roasted 1/2 head of cauliflower and added it to the beans along with the basil.  I’ll make it again."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jocelyn"
+          },
+          "datePublished": "2024-07-24T12:40:33Z",
+          "reviewBody": "I liked this, but felt like the turmeric flavor overpowered the traditional pesto flavors. I'll make it with half the turmeric next time"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jen K"
+          },
+          "datePublished": "2024-07-21T07:28:47Z",
+          "reviewBody": "Made it exactly as written, served with garlic bread, and it was divine! I could eat this every week."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "JHolcomb"
+          },
+          "datePublished": "2024-08-12T19:00:33Z",
+          "reviewBody": "Dried beans should at least be suggested as an alternative to canned. They are always preferable."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Penny Hayes"
+          },
+          "datePublished": "2024-07-23T20:02:45Z",
+          "reviewBody": "Used curry as a substitute for turmeric. Easy to make and delicious"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "FrenchTurk"
+          },
+          "datePublished": "2024-09-30T00:44:20Z",
+          "reviewBody": "It's become nearly impossible in the U.S. to find pine nuts from Italy any more. Pine nuts sold in U.S. grocery stores and even speciality-food shops are overwhelmingly imported from China. The Chinese nuts are different from the Italian ones, and they carry a risk of causing someone to experience a \"metallic taste\" in their mouth for weeks. For that reason we have switched entirely to using almonds, pecans, or walnuts in our homemade pesto. I wish Italian pine nuts would return to U.S. markets!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Melissa"
+          },
+          "datePublished": "2024-10-14T01:20:19Z",
+          "reviewBody": "@It was fine I think the oil that the pine nuts are cooked in is supposed to be removed from pan, along with pine nuts, and only added back as a topping with the pine nuts, per the instructions as the end."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Carla in California"
+          },
+          "datePublished": "2024-07-27T11:12:01Z",
+          "reviewBody": "This was good and easy. I used walnuts."
+        }
+      ],
+      "suitableForDiet": "VegetarianDiet",
+      "totalTime": "PT35M",
+      "url": "//cooking.nytimes.com/recipes/1025675-pesto-beans"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "//cooking.nytimes.com/recipes/1025675-pesto-beans",
+      "@type": "WebPage",
+      "author": {
+        "@id": "nyt://person/de9e0154-8f05-513f-8ce8-28b22d9ec20c",
+        "@type": "Person",
+        "name": "Christian Reynoso",
+        "sameAs": "https://www.nytimes.com/by/christian-reynoso",
+        "url": "https://cooking.nytimes.com/author/christian-reynoso"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2024,
+      "dateModified": "2024-07-19T00:00:00Z",
+      "datePublished": "2024-07-19T00:00:00Z",
+      "description": "Part quick and rustic bean stew and part deconstructed pesto, this pesto-inspired one-pan meal requires no blender and minimal slicing. It all starts out by sizzling nuts with a little turmeric in olive oil until golden. The Parmesan cheese makes a creamy base for softened shallots and tender beans; then freshly torn basil leaves and lemon juice are stirred in at the end so they stay vibrant and fresh. Top with the beautifully toasted nuts, golden olive oil and a bit more Parmesan. Serve with crusty bread or garlic bread on the side.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Pesto Beans",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "//cooking.nytimes.com/recipes/1025675-pesto-beans"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-08-24T20:22:27.235Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
