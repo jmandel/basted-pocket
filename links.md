@@ -8,7 +8,7 @@
 - https://cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta #dinner #noodles #veg
 - https://cooking.nytimes.com/recipes/1027269-i-cant-believe-its-not-chicken-super-savory-grated-tofu #asian #dinner #tried-and-true #veg
 - https://cooking.nytimes.com/recipes/776979647-laksa-noodle-salad #asian #dinner #gf #noodles
-- https://www.kingarthurbaking.com/recipes/black-sesame-halva-coffeecake-recipe #cake #dessert
+- https://www.kingarthurbaking.com/recipes/black-sesame-halva-coffeecake-recipe #cake #dessert #nuts
 - https://joyva.com/blogs/recipes/chocolate-tahini-snacking-cake #cake #dessert
 - https://joyva.com/blogs/recipes/chocolate-tahini-popsicles #dessert
 - https://joyva.com/blogs/recipes/halvah-rice-krispies-treats #dessert
@@ -231,7 +231,7 @@
 ## 2021
 
 - [Eggs, tomatoes, feta and fruit: Yotam Ottolenghi’s brunch recipes | Food | ](https://www.theguardian.com/food/2021/oct/02/eggs-rougaille-leek-cheese-pita-pepper-dip-grilled-pineapple-maple-lime-dressing-yotam-ottolenghi-brunch-recipes) #brunch #egg @note:Added_to_Pocket_on_2021-12-13
-- [https://cooking.nytimes.com/recipes/1022691-savory-mixed-nut-shortbread](https://cooking.nytimes.com/recipes/1022691-savory-mixed-nut-shortbread) #cookies #dessert @note:Added_to_Pocket_on_2021-12-13
+- [https://cooking.nytimes.com/recipes/1022691-savory-mixed-nut-shortbread](https://cooking.nytimes.com/recipes/1022691-savory-mixed-nut-shortbread) #cookies #dessert #nuts @note:Added_to_Pocket_on_2021-12-13
 - [https://cooking.nytimes.com/recipes/1021487-mapo-tofu-spaghetti](https://cooking.nytimes.com/recipes/1021487-mapo-tofu-spaghetti) #asian #dinner #noodles @note:Added_to_Pocket_on_2021-12-05
 - [https://cooking.nytimes.com/recipes/11948-gruyere-puff](https://cooking.nytimes.com/recipes/11948-gruyere-puff) #side #veg @note:Added_to_Pocket_on_2021-12-05
 - [https://cooking.nytimes.com/recipes/1020666-japanese-cheesecake](https://cooking.nytimes.com/recipes/1020666-japanese-cheesecake) #asian #cake #dessert @note:Added_to_Pocket_on_2021-12-05
@@ -278,7 +278,7 @@
 ## 2019
 
 - [https://www.thekitchn.com/recipe-quicker-spicy-rice-cakes-253300](https://www.thekitchn.com/recipe-quicker-spicy-rice-cakes-253300) #asian #dinner @note:Added_to_Pocket_on_2019-10-08
-- [https://www.bonappetit.com/recipe/nutty-grain-and-oat-bars](https://www.bonappetit.com/recipe/nutty-grain-and-oat-bars) @note:Added_to_Pocket_on_2019-09-23
+- [https://www.bonappetit.com/recipe/nutty-grain-and-oat-bars](https://www.bonappetit.com/recipe/nutty-grain-and-oat-bars) #nuts @note:Added_to_Pocket_on_2019-09-23
 - [https://www.theguardian.com/food/2019/jul/27/yotam-ottolenghi-miso-recipes-gochujang-eggs-leeks-sticky-bananas](https://www.theguardian.com/food/2019/jul/27/yotam-ottolenghi-miso-recipes-gochujang-eggs-leeks-sticky-bananas) #brunch #dinner #egg @note:Added_to_Pocket_on_2019-09-22
 - [https://food52.com/recipes/63237-koupa-pie](https://food52.com/recipes/63237-koupa-pie) #dinner #potluck #tried-and-true @note:Added_to_Pocket_on_2019-09-14
 - [https://cooking.nytimes.com/recipes/1019384-coconut-poached-fish-with-bok-choy](https://cooking.nytimes.com/recipes/1019384-coconut-poached-fish-with-bok-choy) #asian #dinner #fish #tried-and-true @note:Added_to_Pocket_on_2019-07-21
