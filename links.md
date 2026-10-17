@@ -3,6 +3,7 @@
 
 ## 2026
 
+- https://cooking.nytimes.com/recipes/791401712-farro-stew-chicken-meatballs-peas?art=100000011200973 #dinner #soup
 - https://cooking.nytimes.com/recipes/1026711-noodle-okonomiyaki-cabbage-and-egg-pancakes #asian #dinner #noodles #veg
 - https://cooking.nytimes.com/recipes/1025675-pesto-beans #dinner #veg
 - https://cooking.nytimes.com/recipes/1024062-roasted-white-bean-and-tomato-pasta #dinner #noodles #veg
