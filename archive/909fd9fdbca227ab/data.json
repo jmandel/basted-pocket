@@ -1,0 +1,334 @@
+{
+  "id": "909fd9fdbca227ab",
+  "original_url": "https://cooking.nytimes.com/recipes/791401712-farro-stew-chicken-meatballs-peas?art=100000011200973",
+  "canonical_url": "https://cooking.nytimes.com/recipes/791401712-farro-stew-chicken-meatballs-peas?art=100000011200973",
+  "fetched_title": "Farro Stew With Chicken Meatballs and Peas Recipe",
+  "main_text_content": "This hearty one-pot stew pairs earthy farro with tender chicken meatballs and sweet peas. The simple yet flavorful oregano and red pepper-spiked meatballs come together quickly while the farro gets a head start simmering in the broth.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/791898655-crispy-pork-tenders-with-horseradish-sauce\"><figure class=\"atoms_imageBlock__P0ym6 atoms_roundedImageBlock__FSnaH\"><img alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2026/10/13/multimedia/KC-Crispy-Pork-Tenders-With-Horseradish-Sauce-vthf/KC-Crispy-Pork-Tenders-With-Horseradish-Sauce-vthf-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2026/10/13/multimedia/KC-Crispy-Pork-Tenders-With-Horseradish-Sauce-vthf/KC-Crispy-Pork-Tenders-With-Horseradish-Sauce-vthf-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"208px\"/></figure><section class=\"atoms_textBlock__QKkI_\"><h3 class=\"pantry--ui-strong atoms_cardTitle__aAeYE\">Crispy Pork Tenders with Horseradish Sauce</h3><p class=\"pantry--ui-sm recipecard_byline__tf4y0\">Kay Chun</p><p class=\"pantry--ui-sm recipecard_cookTime__jBWS9\">45 minutes</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2026/10/07/multimedia/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp-facebookJumbo.jpg",
+  "local_image_path": "archive/909fd9fdbca227ab/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@id": "urn:nyt:ScoopRecipe:f04e1c6cb8215b3481f50f4644649324",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 20,
+        "ratingValue": 5
+      },
+      "author": {
+        "@id": "nyt://person/cef42833-80ea-5bc1-a490-4cd46eda642c",
+        "@type": "Person",
+        "name": "Kay Chun",
+        "sameAs": "https://www.nytimes.com/by/kay-chun",
+        "url": "https://cooking.nytimes.com/author/kay-chun"
+      },
+      "cookTime": "PT0H30M",
+      "cookingMethod": "Simmer",
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2026,
+      "dateModified": "2026-10-15T20:10:23.117Z",
+      "datePublished": "2026-10-07T19:42:13.334618Z",
+      "description": "This hearty one-pot stew pairs earthy farro with tender chicken meatballs and sweet peas. The simple yet flavorful oregano and red pepper-spiked meatballs come together quickly while the farro gets a head start simmering in the broth. The meatballs are added towards the end of cooking and gently poach until juicy. They can be formed a few hours ahead and kept refrigerated.",
+      "image": [
+        {
+          "@id": "nyt://image/27b2f040-f7b8-5b12-956d-f3ec4cdb4946#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/10/07/multimedia/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-10-05T20:13:26.923Z",
+          "datePublished": "2026-10-05T20:13:26.923Z",
+          "height": "900",
+          "uploadDate": "2026-10-05T20:13:26.923Z",
+          "url": "https://static01.nyt.com/images/2026/10/07/multimedia/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/27b2f040-f7b8-5b12-956d-f3ec4cdb4946#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/10/07/multimedia/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp-googleFourByThree.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-10-05T20:13:26.923Z",
+          "datePublished": "2026-10-05T20:13:26.923Z",
+          "height": "600",
+          "uploadDate": "2026-10-05T20:13:26.923Z",
+          "url": "https://static01.nyt.com/images/2026/10/07/multimedia/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/27b2f040-f7b8-5b12-956d-f3ec4cdb4946#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/10/07/multimedia/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp-mediumSquareAt3X.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-10-05T20:13:26.923Z",
+          "datePublished": "2026-10-05T20:13:26.923Z",
+          "height": "1800",
+          "uploadDate": "2026-10-05T20:13:26.923Z",
+          "url": "https://static01.nyt.com/images/2026/10/07/multimedia/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/27b2f040-f7b8-5b12-956d-f3ec4cdb4946#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/10/07/multimedia/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp-facebookJumbo.jpg",
+          "creditText": "Armando Rafael for The New York Times. Food Stylist: Cyd Raftus McDowell.",
+          "dateModified": "2026-10-05T20:13:26.923Z",
+          "datePublished": "2026-10-05T20:13:26.923Z",
+          "height": "550",
+          "uploadDate": "2026-10-05T20:13:26.923Z",
+          "url": "https://static01.nyt.com/images/2026/10/07/multimedia/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp/KC-Farro-and-Pea-Stew-with-Chicken-Meatballs-hzkp-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "keywords": "Farro, Ground Chicken, Frozen Pea, Parmesan, Panko, Dutch Oven, Stovetop, One Pot, Easy, Weeknight, Quick",
+      "mainEntityOfPage": {
+        "@id": "//cooking.nytimes.com/recipes/791401712-farro-stew-chicken-meatballs-peas",
+        "@type": "WebPage",
+        "name": "Farro Stew With Chicken Meatballs and Peas"
+      },
+      "name": "Farro Stew With Chicken Meatballs and Peas",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "607.5",
+        "carbohydrateContent": "48 grams",
+        "cholesterolContent": "144.1 milligrams",
+        "fatContent": "24.6 grams",
+        "fiberContent": "6.7 grams",
+        "proteinContent": "50.4 grams",
+        "saturatedFatContent": "8.7 grams",
+        "sodiumContent": "1178.5 milligrams",
+        "sugarContent": "9.8 grams",
+        "transFatContent": "0.3 grams",
+        "unsaturatedFatContent": "2.5 grams"
+      },
+      "prepTime": "PT0H15M",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "recipeCategory": "Stew, Meatballs, Dinner, Main Course",
+      "recipeIngredient": [
+        "2 tablespoons extra-virgin olive oil, plus more for serving (optional)",
+        "½ cup finely chopped carrot (from 1 medium carrot)",
+        "Salt and black pepper",
+        "5 garlic cloves, minced, divided",
+        "2 tablespoons tomato paste",
+        "¾ cup farro",
+        "4 cups low-sodium chicken broth",
+        "1 large egg",
+        "½ cup plain panko bread crumbs",
+        "¾ cup freshly grated Parmesan, divided, plus more for serving",
+        "¼ cup chopped parsley, divided",
+        "1 teaspoon dried oregano",
+        "½ teaspoon red pepper flakes",
+        "1 pound ground chicken, preferably dark meat",
+        "1 cup frozen peas"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "In a large Dutch oven, heat 2 tablespoons oil over medium. Add carrot, season with salt and pepper and cook, stirring occasionally, until softened, 3 minutes. Add about a third of the minced garlic and stir until fragrant, 30 seconds. Add tomato paste and cook, stirring, 1 minute. Add farro and broth, season with salt and pepper and bring to a boil over medium-high heat. Cover, reduce heat to medium-low and simmer for 15 minutes.",
+          "url": "https://cooking.nytimes.com/recipes/791401712-farro-stew-chicken-meatballs-peas#recipe-step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, in a medium bowl, combine egg, panko, ¼ cup of the Parmesan, 2 tablespoons of the parsley, oregano, red pepper flakes and the remaining garlic and mix well. Add chicken, ½ teaspoon salt and ½ teaspoon pepper and mix just until well incorporated. Form into 12 equal meatballs.",
+          "url": "https://cooking.nytimes.com/recipes/791401712-farro-stew-chicken-meatballs-peas#recipe-step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add meatballs to the pot with the farro mixture (they will not be completely submerged) and bring broth to a simmer over medium-high heat. Cover, reduce heat to medium-low and cook for 5 minutes. Uncover and cook, stirring occasionally, until meatballs are cooked through and farro is tender but toothsome, adding peas halfway through, about 5 minutes longer. Turn off heat and stir in the remaining ½ cup Parmesan and 2 tablespoons parsley.",
+          "url": "https://cooking.nytimes.com/recipes/791401712-farro-stew-chicken-meatballs-peas#recipe-step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Divide stew among bowls. Drizzle with olive oil, if using, and top with more Parmesan and black pepper. Serve warm.",
+          "url": "https://cooking.nytimes.com/recipes/791401712-farro-stew-chicken-meatballs-peas#recipe-step-4"
+        }
+      ],
+      "recipeYield": "4 servings",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David"
+          },
+          "datePublished": "2026-10-13T09:42:14Z",
+          "reviewBody": "Very good stew for the cool fall nights! I substituted dark turkey as I couldn't find dark chicken meat. \n\nI seared the meat balls first for added flavor then sautéed the carrots and garlic in the leftover fat. I doubled/tripled the garlic (as one does) and parmesan cheese. Came out very garlickly and delicious.\n\nWould definitely make again!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Miles"
+          },
+          "datePublished": "2026-10-12T22:35:37Z",
+          "reviewBody": "Made as written and absolutely delicious. Into the weeknight rotation it goes!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TNC"
+          },
+          "datePublished": "2026-10-12T16:19:27Z",
+          "reviewBody": "I’ve been making this for years… I use trader joes precooked chicken meatballs and 10 min farro if I’m in a hurry on a weeknight!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex"
+          },
+          "datePublished": "2026-10-10T16:07:54Z",
+          "reviewBody": "Made this last night and it was delicious - swapped the farro out for pearl barley (much easier to get hold of in the UK - hadn't even heard of farro before!) and used turkey mince instead, otherwise followed as written. Feels like you could mess about it with a fair bit too, will definitely make again soon."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex"
+          },
+          "datePublished": "2026-10-10T16:07:54Z",
+          "reviewBody": "Made this last night and it was delicious - swapped the farro out for pearl barley (much easier to get hold of in the UK - hadn't even heard of farro before!) and used turkey mince instead, otherwise followed as written. Feels like you could mess about it with a fair bit too, will definitely make again soon."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "TNC"
+          },
+          "datePublished": "2026-10-12T16:19:27Z",
+          "reviewBody": "I’ve been making this for years… I use trader joes precooked chicken meatballs and 10 min farro if I’m in a hurry on a weeknight!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "David"
+          },
+          "datePublished": "2026-10-13T09:42:14Z",
+          "reviewBody": "Very good stew for the cool fall nights! I substituted dark turkey as I couldn't find dark chicken meat. \n\nI seared the meat balls first for added flavor then sautéed the carrots and garlic in the leftover fat. I doubled/tripled the garlic (as one does) and parmesan cheese. Came out very garlickly and delicious.\n\nWould definitely make again!"
+        }
+      ],
+      "totalTime": "PT0H45M",
+      "url": "//cooking.nytimes.com/recipes/791401712-farro-stew-chicken-meatballs-peas"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "//cooking.nytimes.com/recipes/791401712-farro-stew-chicken-meatballs-peas",
+      "@type": "WebPage",
+      "author": {
+        "@id": "nyt://person/cef42833-80ea-5bc1-a490-4cd46eda642c",
+        "@type": "Person",
+        "name": "Kay Chun",
+        "sameAs": "https://www.nytimes.com/by/kay-chun",
+        "url": "https://cooking.nytimes.com/author/kay-chun"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2026,
+      "dateModified": "2026-10-15T20:10:23.117Z",
+      "datePublished": "2026-10-07T19:42:13.334618Z",
+      "description": "This hearty one-pot stew pairs earthy farro with tender chicken meatballs and sweet peas. The simple yet flavorful oregano and red pepper-spiked meatballs come together quickly while the farro gets a head start simmering in the broth. The meatballs are added towards the end of cooking and gently poach until juicy. They can be formed a few hours ahead and kept refrigerated.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Farro Stew With Chicken Meatballs and Peas",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "//cooking.nytimes.com/recipes/791401712-farro-stew-chicken-meatballs-peas"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-10-17T01:19:00.366Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
