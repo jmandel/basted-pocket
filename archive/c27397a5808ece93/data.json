@@ -1,0 +1,581 @@
+{
+  "id": "c27397a5808ece93",
+  "original_url": "https://cooking.nytimes.com/recipes/1026665-spiced-pea-stew-with-yogurt?art=100000011200973",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1026665-spiced-pea-stew-with-yogurt?art=100000011200973",
+  "fetched_title": "Spiced Pea Stew With Yogurt Recipe",
+  "main_text_content": "Inspired by a warmly spiced Persian stew traditionally made with peas and tomatoes, this version allows the sweetness of the peas and the warmth of onions, ginger, cumin and turmeric to lead. It tops the pea stew with a fresh pea topping made from a portion of the just-cooked peas, plus crushed sesame seeds and chopped cilantro, all of which add vibrant color and texture when sprinkled over the stew just before serving.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/778774372-fish-and-lentils-with-sauce-rof\"><figure class=\"atoms_imageBlock__P0ym6 atoms_roundedImageBlock__FSnaH\"><img alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2026/05/14/multimedia/YK-Fish-and-Lentils-With-Sauce-Rof-fczk/YK-Fish-and-Lentils-With-Sauce-Rof-fczk-mediumThreeByTwo252.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2026/05/14/multimedia/YK-Fish-and-Lentils-With-Sauce-Rof-fczk/YK-Fish-and-Lentils-With-Sauce-Rof-fczk-mediumThreeByTwo440.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"208px\"/></figure><section class=\"atoms_textBlock__QKkI_\"><h3 class=\"pantry--ui-strong atoms_cardTitle__aAeYE\">Fish and Lentils With Sauce Rof</h3><p class=\"pantry--ui-sm recipecard_byline__tf4y0\">Yewande Komolafe</p><div class=\"recipecard_recipeCardRating__0mxMA\"><span class=\"recipecard_ratingCaption__CDw5D\">548 ratings with an average rating of 5 out of 5 stars</span><span class=\"recipecard_stars__4hc6Q\"><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg></span><p class=\"pantry--ui-sm recipecard_ratingLabel__CqO_g\">548</p></div><p class=\"pantry--ui-sm recipecard_cookTime__jBWS9\">45 minutes</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/03/11/multimedia/16EATrex-pea-stew-qcbp/16EATrex-pea-stew-qcbp-facebookJumbo.jpg",
+  "local_image_path": "archive/c27397a5808ece93/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@id": "urn:nyt:ScoopRecipe:455e0411fb3f5ca4801cc4a42ec64253",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 1342,
+        "ratingValue": 5
+      },
+      "author": {
+        "@id": "nyt://person/c749625d-3f47-5c2f-aa78-3d7c87c9c8d1",
+        "@type": "Person",
+        "description": "Yotam Ottolenghi is a writer and the chef-owner of the Ottolenghi restaurants, Nopi and Rovi, in London. He is an Eat columnist for The New York Times Magazine and writes a weekly column for The Guardian’s Feast Magazine.",
+        "image": {
+          "@id": "nyt://image/ed26cd61-297e-5801-b01a-501fab9775f0#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/05/23/reader-center/author-yotam-ottolenghi/author-yotam-ottolenghi-superJumbo.png",
+          "dateModified": "2019-05-23T18:25:18.834Z",
+          "datePublished": "2019-05-23T18:25:18.834Z",
+          "height": "1000",
+          "uploadDate": "2019-05-23T18:25:18.834Z",
+          "url": "https://static01.nyt.com/images/2019/05/23/reader-center/author-yotam-ottolenghi/author-yotam-ottolenghi-superJumbo.png",
+          "width": "1000"
+        },
+        "name": "Yotam Ottolenghi",
+        "sameAs": [
+          "https://www.nytimes.com/by/yotam-ottolenghi",
+          "https://x.com/ottolenghi",
+          "https://www.facebook.com/OttolenghiUK"
+        ],
+        "url": "https://cooking.nytimes.com/author/yotam-ottolenghi"
+      },
+      "cookTime": "PT55M",
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "dateModified": "2026-09-21T13:47:54.196Z",
+      "datePublished": "2025-03-11T00:00:00Z",
+      "description": "Inspired by a warmly spiced Persian stew traditionally made with peas and tomatoes, this version allows the sweetness of the peas and the warmth of onions, ginger, cumin and turmeric to lead. It tops the pea stew with a fresh pea topping made from a portion of the just-cooked peas, plus crushed sesame seeds and chopped cilantro, all of which add vibrant color and texture when sprinkled over the stew just before serving. A drizzle of yogurt on top brings a cooling contrast. Serve the stew alongside steamed rice, pita or other fresh warmed flatbreads. Watch Yotam Ottolenghi make this dish in this video.",
+      "image": [
+        {
+          "@id": "nyt://image/01f7c891-c03a-510e-88f5-18d4200b4075#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/11/multimedia/16EATrex-pea-stew-qcbp/16EATrex-pea-stew-qcbp-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Heather Greene.",
+          "dateModified": "2025-03-13T19:20:42.293Z",
+          "datePublished": "2025-03-11T15:45:15.000Z",
+          "height": "900",
+          "uploadDate": "2025-03-11T15:45:15.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/11/multimedia/16EATrex-pea-stew-qcbp/16EATrex-pea-stew-qcbp-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/01f7c891-c03a-510e-88f5-18d4200b4075#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/11/multimedia/16EATrex-pea-stew-qcbp/16EATrex-pea-stew-qcbp-googleFourByThree.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Heather Greene.",
+          "dateModified": "2025-03-13T19:20:42.293Z",
+          "datePublished": "2025-03-11T15:45:15.000Z",
+          "height": "600",
+          "uploadDate": "2025-03-11T15:45:15.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/11/multimedia/16EATrex-pea-stew-qcbp/16EATrex-pea-stew-qcbp-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/01f7c891-c03a-510e-88f5-18d4200b4075#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/11/multimedia/16EATrex-pea-stew-qcbp/16EATrex-pea-stew-qcbp-mediumSquareAt3X.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Heather Greene.",
+          "dateModified": "2025-03-13T19:20:42.293Z",
+          "datePublished": "2025-03-11T15:45:15.000Z",
+          "height": "1800",
+          "uploadDate": "2025-03-11T15:45:15.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/11/multimedia/16EATrex-pea-stew-qcbp/16EATrex-pea-stew-qcbp-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/01f7c891-c03a-510e-88f5-18d4200b4075#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/03/11/multimedia/16EATrex-pea-stew-qcbp/16EATrex-pea-stew-qcbp-facebookJumbo.jpg",
+          "creditText": "Linda Xiao for The New York Times. Food stylist: Maggie Ruggiero. Prop stylist: Heather Greene.",
+          "dateModified": "2025-03-13T19:20:42.293Z",
+          "datePublished": "2025-03-11T15:45:15.000Z",
+          "height": "550",
+          "uploadDate": "2025-03-11T15:45:15.000Z",
+          "url": "https://static01.nyt.com/images/2025/03/11/multimedia/16EATrex-pea-stew-qcbp/16EATrex-pea-stew-qcbp-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "keywords": "Cumin Seed, Easy, Fresh Ginger, Frozen Pea, Great Leftovers, One Pot, Spring, Stovetop, Weeknight, Yogurt",
+      "mainEntityOfPage": {
+        "@id": "//cooking.nytimes.com/recipes/1026665-spiced-pea-stew-with-yogurt",
+        "@type": "WebPage",
+        "name": "Spiced Pea Stew With Yogurt"
+      },
+      "name": "Spiced Pea Stew With Yogurt",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "494",
+        "carbohydrateContent": "60.7 grams",
+        "cholesterolContent": "2.7 milligrams",
+        "fatContent": "22.4 grams",
+        "fiberContent": "16.8 grams",
+        "proteinContent": "17.2 grams",
+        "saturatedFatContent": "3.5 grams",
+        "sodiumContent": "1526.9 milligrams",
+        "sugarContent": "16.7 grams",
+        "unsaturatedFatContent": "3.5 grams"
+      },
+      "prepTime": "PT15M",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "recipeCategory": "Appetizer, Dinner, Lunch, Main Course, Stew, Vegetables",
+      "recipeIngredient": [
+        "⅓ cup extra-virgin olive oil, plus extra to serve",
+        "1 large yellow onion, finely chopped",
+        "Fine sea salt and black pepper",
+        "1 lemon",
+        "5 garlic cloves, lightly crushed with the flat side of a knife then peeled",
+        "1 tablespoon finely chopped fresh ginger",
+        "2 teaspoons cumin seeds",
+        "½ teaspoon ground turmeric",
+        "2 (1-pound) packages frozen sweet peas",
+        "1 large russet potato (or similar), peeled and cut into ½-inch pieces",
+        "4 cups store-bought or homemade vegetable stock",
+        "2 tablespoons toasted sesame seeds (black or white)",
+        "2 tablespoons finely chopped cilantro",
+        "⅓ cup whole-milk yogurt"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Add the oil, onion and 2½ teaspoons salt to a large saucepan and cook over medium heat for 10 minutes, stirring occasionally, until soft and translucent.",
+          "url": "https://cooking.nytimes.com/recipes/1026665-spiced-pea-stew-with-yogurt#recipe-step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "While the onion cooks, prepare the lemon: Using a peeler, peel 4 strips of zest then finely chop them. Squeeze out 1 tablespoon of juice then set aside.",
+          "url": "https://cooking.nytimes.com/recipes/1026665-spiced-pea-stew-with-yogurt#recipe-step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the garlic, ginger, cumin, turmeric, lemon zest and ¼ teaspoon freshly ground black pepper, and cook for 5 minutes, stirring occasionally, until fragrant. Add the peas and cook for 10 minutes, stirring often, until the peas are well cooked but still bright.",
+          "url": "https://cooking.nytimes.com/recipes/1026665-spiced-pea-stew-with-yogurt#recipe-step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Remove ½ cup of the pea mixture and set aside in a bowl, then add the potato and stock to the pan. Increase the heat to high and bring to the boil, then cook for 20 minutes more, stirring occasionally, until the sauce has thickened. Use the back of a spoon to lightly crush a few pieces of potato to further thicken the sauce. Remove from the heat and stir through the lemon juice.",
+          "url": "https://cooking.nytimes.com/recipes/1026665-spiced-pea-stew-with-yogurt#recipe-step-4"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Meanwhile, lightly crush the sesame seeds using a mortar and pestle, then add the reserved peas and lightly crush them, too; stir through the cilantro.",
+          "url": "https://cooking.nytimes.com/recipes/1026665-spiced-pea-stew-with-yogurt#recipe-step-5"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Serve the pea stew straight from the pan or transfer to a serving bowl. Spoon over the yogurt and lightly swirl it into the peas. Scatter the sesame pea mixture over the top and drizzle with some extra olive oil.",
+          "url": "https://cooking.nytimes.com/recipes/1026665-spiced-pea-stew-with-yogurt#recipe-step-6"
+        }
+      ],
+      "recipeYield": "4 servings",
+      "review": [
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jessie"
+          },
+          "datePublished": "2026-10-16T20:38:55Z",
+          "reviewBody": "This is the second NYT recipe I’ve made this week, and it delivered just as much! As a novice-ish cook, this was a bit more elaborate for me, but it was worth every chop, measurement, and dished and pot washed. I stayed true to the recipe, except on two occasions - 1) I added mushrooms (forgive me but I was with someone for 15 years who hated mushrooms - I add them to everything now lol) and 2) a red Thai chili pepper - this girl enjoys spicy! Also after reading a ridiculous amount of reviews, I used two potatoes and am glad I did - I liked the extra thickness. I feel like an accomplished cook today because this recipe was so delicious and “fancy.” A great fall/winter recipe for sure!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "HH9"
+          },
+          "datePublished": "2026-10-16T09:52:21Z",
+          "reviewBody": "Made as-written but subbed parsley for the cilantro. Very good--it will go on rotation. Recommend adding the recipe spices (a little turmeric, cumin, olive oil, honey, lemon, salt, and pepper) to the yogurt."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Brianna"
+          },
+          "datePublished": "2026-10-15T02:06:32Z",
+          "reviewBody": "Delicious! I did burrata instead of yogurt and it was  a warm comforting tasty meal"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Anna"
+          },
+          "datePublished": "2026-10-14T23:35:37Z",
+          "reviewBody": "I love this pea stew so much with my whole heart <3"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kathy N"
+          },
+          "datePublished": "2026-10-13T23:11:08Z",
+          "reviewBody": "Absolutely delicious! I kept it simple and just zested the lemon and also used a bit less oil. Love the pops of cumin seeds. A perfect lunch on a cool autumn day. This will be on repeat."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Amy"
+          },
+          "datePublished": "2026-10-13T16:56:43Z",
+          "reviewBody": "This is an awesome soup! It's a great for weekday lunches. I reduced the olive oil significantly to keep it healthier. I basically used enough to sautee the onion and a little bit more when the garlic/ginger/etc went in. I really don't think it needs more."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Nate M."
+          },
+          "datePublished": "2026-10-12T18:51:34Z",
+          "reviewBody": "Saved to my 5-star favs list! So good!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "dimmerswitch"
+          },
+          "datePublished": "2026-10-10T21:44:19Z",
+          "reviewBody": "See the link in the recipe's preamble to an insta video of Yotam making this dish and note he puts the 4 strips of lemon peel into the pot whole and doesn't mince them per the recipe write up here.  Being a lazy cook the first time I made this, I followed the video for that step.  The outcome was delicious so the second time, also delicious, I made it that way too.  Simple + delicious + healthy = 5 stars.  Except for reducing salt by \"a bit\" in step 1, made it as written...and video'd."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Eat it all"
+          },
+          "datePublished": "2026-10-09T09:05:08Z",
+          "reviewBody": "Doubled the aromatics"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "R"
+          },
+          "datePublished": "2026-10-08T22:56:50Z",
+          "reviewBody": "This was just amazing! Followed the recipe but had the cook the stew mixture a bit longer - maybe hadn’t had the heat up high enough. Served with raita, crispy brown rice and flat bread. It isa recipe worthy of recommending to friends!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Ilovecardigans"
+          },
+          "datePublished": "2026-10-06T23:04:39Z",
+          "reviewBody": "This was outstanding.ole other commenters, it tasted more Indian than Persian but no matter, it was easy, healthy, filling, and everyone loved it. Definitely serve with yogurt on top. I made Persian crunchy rice to go along. Definitely adding to my “make again” pile."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Shannon"
+          },
+          "datePublished": "2026-10-06T19:47:45Z",
+          "reviewBody": "I love peas. And potatoes. Any curry flavours, so this dish is a hit with me. It's warm and soft with a bit of crunch too from the lightly cooked pea topping. I don't find you need the yogurt. I used veggie stock as well. This dish made me very happy."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "RunBakeEat"
+          },
+          "datePublished": "2026-10-06T18:40:07Z",
+          "reviewBody": "Indeed comforting and delicious, even more so days later. \n\nJapanese potatoes paired well with the peas and creamed nicely into the reheated stew."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "SC"
+          },
+          "datePublished": "2026-10-05T23:11:33Z",
+          "reviewBody": "For my tastes, this was a little underspiced and flat. I ended up increasing the spices in the direction of aloo matar per another commenter."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Kat"
+          },
+          "datePublished": "2026-10-05T18:21:14Z",
+          "reviewBody": "Yum, this is delicious. I have IBS so I avoid garlic and I halved the amount of onion. I used ground cardamom instead of cumin seeds (couldn't find them in the store), also skipped the sesame seeds (couldn't find them either). I would definitely make it again! I'll add more potatoes next time to make it a bit heartier. I portioned it out and froze it, and it's just as good when reheated."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Rohini Agaskar"
+          },
+          "datePublished": "2025-03-13T13:07:59Z",
+          "reviewBody": "This is an East-meets-West variation of the humble \"aloo-matar\" or potato-peas curry that every Indian kitchen on every continent has on its everyday home-cooking rotation. Every family has its own tasty version. It can be as fussy or unfussy as time permits. We do not use chicken stock - this is a vegetarian curry for us.  Yogurt is served on the side or in a raita.\nThe comfortable cook will find that this recipe is very forgiving - no precise measuring necessary. It will always taste good!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "GardenRose"
+          },
+          "datePublished": "2025-03-12T21:43:53Z",
+          "reviewBody": "If you have a Trader Joe’s they have ginger frozen in little ice cube trays. It’s great to keep in the freezer."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Roslyn"
+          },
+          "datePublished": "2025-03-21T11:14:31Z",
+          "reviewBody": "This recipe is excellent. It's a keeper exactly as written. But I wish NYT recipes were a little more realistic about prep time. I can't get onions, potatoes, ginger, lemon zest, and cilantro finely chopped, plus sesame seeds roasted and dry ingredients measured, in 15 minutes. And not having a large (or even medium-sized) kitchen, I'm constantly having to clear and clean during prep."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "LT"
+          },
+          "datePublished": "2025-03-14T18:55:05Z",
+          "reviewBody": "As to why Ottolenghi omitted the tomatoes, he gives his reason: “this version allows the sweetness of the peas and the warmth of onions, ginger, cumin and turmeric to lead.”"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "PJ"
+          },
+          "datePublished": "2025-03-15T16:32:19Z",
+          "reviewBody": "As a potato lover, wish I’d used more potatoes! It felt like a lot of peas, and it was—not a bad thing, but I bet more potato would have helped it thicken and helped balance all the peas."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AD"
+          },
+          "datePublished": "2025-03-21T11:10:20Z",
+          "reviewBody": "Well nothing is wrong with aloo matar but Ottolenghi said this dish was \"Inspired by a warmly spiced Persian stew\" in the description of it"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "B"
+          },
+          "datePublished": "2025-03-12T13:07:29Z",
+          "reviewBody": "This sounds wonderful!  I love all kinds of peas and have everything but the yogurt and ginger. \n\nIt reminds me that I should make mushy peas before it gets too hot - I consider them a cold-weather dish, though I’m now rethinking that…"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Karen"
+          },
+          "datePublished": "2025-03-12T21:18:53Z",
+          "reviewBody": "I couldn’t face the prospect of overcooked peas(commissary canned peas anyone?) so I used the flavor profile with split pea soup which is “supposed to taste like that”, topped with frozen pea and yogurt garnish and it was yum!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Jennifer Christian"
+          },
+          "datePublished": "2025-03-12T21:43:44Z",
+          "reviewBody": "Any idea why Ottolenghi omitted the tomatoes ( which are in the Persian dish that inspired his version!  Among other things,seems like the red bit would brighten up the appearance."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Bruce Alter"
+          },
+          "datePublished": "2025-03-13T20:16:55Z",
+          "reviewBody": "Two and a half teaspoons of salt seems an awful lot."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "AD"
+          },
+          "datePublished": "2025-03-16T21:23:51Z",
+          "reviewBody": "I'm pretty sure Ottolenghi made it after asheh goje faringi, a persian stew that is very popular (As a persian myself I like regular ash better but oh well) I do agree this recipe is much like aloo-matar and wonders why he omitted the tomatoes because then it is essentially aloo matar"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Saffron"
+          },
+          "datePublished": "2025-03-19T00:25:37Z",
+          "reviewBody": "I’m a tinkerer. I always read the notes and modify based upon my knowledge having cooked professionally. I used less water, added 1/2 a cauliflower instead of more potatoes. Cooked for one, so I made my topping with cilantro, lemon zest as well as peas and sesame seeds. I used 1# fresh peas. I ❤️ the results. I salt per serving. So good!  Combination of hearty and fresh is perfect!"
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Luna"
+          },
+          "datePublished": "2025-03-12T18:10:08Z",
+          "reviewBody": "Looks like you need the zest and juice from half a lemon. Leave the other half unpeeled."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Alex"
+          },
+          "datePublished": "2025-03-14T03:46:28Z",
+          "reviewBody": "This was delicious! The only adjustment I made was reducing the amount of salt. Will definitely make it again."
+        },
+        {
+          "@type": "Review",
+          "author": {
+            "@type": "Person",
+            "name": "Sue"
+          },
+          "datePublished": "2025-03-16T02:54:45Z",
+          "reviewBody": "Agree about using more potatoes next time. I’d also use slightly less broth—it was good, but more soup than stew. I used ground cumin and ginger because I had them. Would use more than 1 T of each next time. Overall, though, we liked it a lot and will definitely add it to the rotation!"
+        }
+      ],
+      "suitableForDiet": "VegetarianDiet",
+      "totalTime": "PT1H10M",
+      "url": "//cooking.nytimes.com/recipes/1026665-spiced-pea-stew-with-yogurt"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "//cooking.nytimes.com/recipes/1026665-spiced-pea-stew-with-yogurt",
+      "@type": "WebPage",
+      "author": {
+        "@id": "nyt://person/c749625d-3f47-5c2f-aa78-3d7c87c9c8d1",
+        "@type": "Person",
+        "description": "Yotam Ottolenghi is a writer and the chef-owner of the Ottolenghi restaurants, Nopi and Rovi, in London. He is an Eat columnist for The New York Times Magazine and writes a weekly column for The Guardian’s Feast Magazine.",
+        "image": {
+          "@id": "nyt://image/ed26cd61-297e-5801-b01a-501fab9775f0#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2019/05/23/reader-center/author-yotam-ottolenghi/author-yotam-ottolenghi-superJumbo.png",
+          "dateModified": "2019-05-23T18:25:18.834Z",
+          "datePublished": "2019-05-23T18:25:18.834Z",
+          "height": "1000",
+          "uploadDate": "2019-05-23T18:25:18.834Z",
+          "url": "https://static01.nyt.com/images/2019/05/23/reader-center/author-yotam-ottolenghi/author-yotam-ottolenghi-superJumbo.png",
+          "width": "1000"
+        },
+        "name": "Yotam Ottolenghi",
+        "sameAs": [
+          "https://www.nytimes.com/by/yotam-ottolenghi",
+          "https://x.com/ottolenghi",
+          "https://www.facebook.com/OttolenghiUK"
+        ],
+        "url": "https://cooking.nytimes.com/author/yotam-ottolenghi"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "dateModified": "2026-09-21T13:47:54.196Z",
+      "datePublished": "2025-03-11T00:00:00Z",
+      "description": "Inspired by a warmly spiced Persian stew traditionally made with peas and tomatoes, this version allows the sweetness of the peas and the warmth of onions, ginger, cumin and turmeric to lead. It tops the pea stew with a fresh pea topping made from a portion of the just-cooked peas, plus crushed sesame seeds and chopped cilantro, all of which add vibrant color and texture when sprinkled over the stew just before serving. A drizzle of yogurt on top brings a cooling contrast. Serve the stew alongside steamed rice, pita or other fresh warmed flatbreads. Watch Yotam Ottolenghi make this dish in this video.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Spiced Pea Stew With Yogurt",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "//cooking.nytimes.com/recipes/1026665-spiced-pea-stew-with-yogurt"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-10-17T01:24:10.774Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
