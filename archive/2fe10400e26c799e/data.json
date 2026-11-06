@@ -1,0 +1,609 @@
+{
+  "id": "2fe10400e26c799e",
+  "original_url": "https://cooking.nytimes.com/recipes/761076274-pumpkin-marble-loaf?art=100000010461859",
+  "canonical_url": "https://cooking.nytimes.com/recipes/761076274-pumpkin-marble-loaf?art=100000010461859",
+  "fetched_title": "Pumpkin Marble Loaf Recipe",
+  "main_text_content": "One batter yields two distinct flavors in this autumnal twist on the marble cake. A combination of butter and sour cream in the base pumpkin batter results in a soft, plush crumb that stays moist for days.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/762879401-maple-harissa-chicken-with-butternut-squash\"><figure class=\"atoms_imageBlock__P0ym6 atoms_roundedImageBlock__FSnaH\"><img alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2025/11/13/multimedia/NB-Maple-Harissa-Chicken-With-Sweet-Potatoes-and-Edamame-tlzq/NB-Maple-Harissa-Chicken-With-Sweet-Potatoes-and-Edamame-tlzq-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2025/11/13/multimedia/NB-Maple-Harissa-Chicken-With-Sweet-Potatoes-and-Edamame-tlzq/NB-Maple-Harissa-Chicken-With-Sweet-Potatoes-and-Edamame-tlzq-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"208px\"/></figure><section class=\"atoms_textBlock__QKkI_\"><h3 class=\"pantry--ui-strong atoms_cardTitle__aAeYE\">Maple Harissa Chicken With Butternut Squash</h3><p class=\"pantry--ui-sm recipecard_byline__tf4y0\">Nargisse Benkabbou</p><div class=\"recipecard_recipeCardRating__0mxMA\"><span class=\"recipecard_ratingCaption__CDw5D\">843 ratings with an average rating of 5 out of 5 stars</span><span class=\"recipecard_stars__4hc6Q\"><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg></span><p class=\"pantry--ui-sm recipecard_ratingLabel__CqO_g\">843</p></div><p class=\"pantry--ui-sm recipecard_cookTime__jBWS9\">1 hour</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-facebookJumbo.jpg",
+  "local_image_path": "archive/2fe10400e26c799e/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@id": "urn:nyt:ScoopRecipe:16677162489d59599a75ec545aeff288",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 714,
+        "ratingValue": 5
+      },
+      "author": {
+        "@id": "nyt://person/bb201e4e-21c8-5608-bfc0-9d187bac1b96",
+        "@type": "Person",
+        "name": "Kayla Hoang",
+        "url": "https://www.nytimes.com/by/kayla-hoang"
+      },
+      "comment": [
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Susan H"
+          },
+          "datePublished": "2026-11-05T01:49:52Z",
+          "text": "This worked perfectly with my gluten free flour!"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Christine"
+          },
+          "datePublished": "2026-11-04T22:55:17Z",
+          "text": "I added instant coffee to my cocoa mix. The cinnamon is just a hint which is \nperfect."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Ronnie"
+          },
+          "datePublished": "2026-11-03T23:11:07Z",
+          "text": "Just made this and it looks interesting with all its swirls but the loaf did not rise very much, just about 2 1/2\" at the highest middle point.  Wondering how this compares with the results of others?"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Jerry mandell - NYC"
+          },
+          "datePublished": "2026-11-01T19:54:02Z",
+          "text": "Excellent as written-even better with 1/4 tsp nutmeg and 1/4 tsp ground ginger , as well as handful golden raisins added to pumpkin part of batter and handful dark chocolate chips added to chocolate part -also topped with 1 Tb sugar mixed with 1Tb cocoa powder ; was a wonderful Halloween cake!"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "SE"
+          },
+          "datePublished": "2026-11-01T13:49:15Z",
+          "text": "My loaf came out with very little rise. I had cut the sugar to 1/3 cup and the butter to 1/4 cup. Could that be the reason? I don't bake much at all and would appreciate your advice."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Me"
+          },
+          "datePublished": "2026-10-31T11:51:17Z",
+          "text": "Is 3 tbs water enough for the 3 tbs cocoa powder?  I didn’t really have a slurry at all?"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "abbotdot"
+          },
+          "datePublished": "2026-10-31T00:52:27Z",
+          "text": "I put a seed and nut crumble on top of the loaf.  It was very good."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Anonymous"
+          },
+          "datePublished": "2026-10-30T20:32:49Z",
+          "text": "Followed the recipe, used espresso powder with the chocolate batter. Was OK but a bit bland and not as moist as I’d hoped."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Jaime"
+          },
+          "datePublished": "2026-10-30T06:02:10Z",
+          "text": "Easily the best pumpkin recipe I've made. Made as written with the suggestions of coffee instead of water and adding a touch of cardamom. Also needed a slightly longer bake time."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Deborah"
+          },
+          "datePublished": "2026-10-29T20:51:52Z",
+          "text": "After recovering from covid but not feeling100%, I thought this would be the perfect fall comfort bread.  I decided to double the recipe.  I didn't have sour cream so I used half Greek yogurt and ricotta cheese (because there wasn't enough yogurt).  I used half the sugar on purpose.   It wasn't until I was putting the last dollops of the chocolate mixture in the pans that I realized I hadn't doubled the flour.  Such is life.  The end result tastes like a soft bread pudding.  Very buttery."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Nancy"
+          },
+          "datePublished": "2026-10-28T13:17:56Z",
+          "text": "This is a keeper! Made it as written, using coffee for the slurry instead of water. Wonderful for breakfast, with tea, or with a scoop of ice cream for dessert. Making it again to take to someone who just had surgery. Perfect Fall loaf. Oh, and definitely use the chopstick to swirl."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Deborah"
+          },
+          "datePublished": "2026-10-27T03:59:14Z",
+          "text": "Very good. I had one of those days where everything went flying: eggs on the floor, batter on my nice pants, batter on the counter, exploding butter, but in the end it came out very well.\n\nRead the recipe all the way through before you make it. Some things seem out of order but they are actually where they belong. I used Greek Yogurt instead of sour cream. I might try the espresso powder next time. Definitely a keeper."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Heidi"
+          },
+          "datePublished": "2026-10-25T03:03:39Z",
+          "text": "Made it exactly as the recipe recommended. It was perfect. I did use fresh pumpkin and not canned. I always feel that keeps any pumpkin recipe lighter."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Letícia"
+          },
+          "datePublished": "2026-10-23T21:08:57Z",
+          "text": "This cake is being voraciously eaten by my kids! Today I baked it for the third time this week! I’ve used quark and skyr as substitutes for sour cream."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Western Winnie"
+          },
+          "datePublished": "2026-10-21T16:10:45Z",
+          "text": "A flexible stunner! \nI had just made a pumpkin bake, but had two bananas and some cocojuene coconut yogurt to use up…made no other structural changes (left out the spices but added a smattering of chocolate chips on top) and it came out so beautifully my 7-year old co-baker suggested we open a bakery. I think this could be successfully veganized for those so inclined."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "TAG18"
+          },
+          "datePublished": "2025-10-29T01:15:00Z",
+          "text": "Wow!!  Just made this and I feel like I may need to pick up smoking again…very good!!!  I cut the sugar to 3/4 C and subbed Greek yogurt for the sour cream.  PERFECTION"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "JZ Northeast Woods"
+          },
+          "datePublished": "2025-10-26T20:07:59Z",
+          "text": "There weren't any comments when I'd first saved this recipe and given those below I probably wouldn't have bothered. But I made it today and it's a keeper. Added the espresso powder to the cocoa mixture and next time I will add more cinnamon in Step 5. I was pleasantly surprised that the loaf turned out so nicely, given than I went crazy and used gluten-free flour!\n\nDefinitely don't attempt swirling with a toothpick, just read Step 6 and use a chopstick. Works perfectly."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Edith"
+          },
+          "datePublished": "2025-10-31T15:21:35Z",
+          "text": "Suggested ways to enhance the flavors:\n1. Brown the butter\n2. Add more warm spices, like nutmeg, cardamom or ginger.\n3. Add more cinnamon. \n4. Use greek yogurt instead of sour cream."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "HeatherRae"
+          },
+          "datePublished": "2025-11-01T20:27:33Z",
+          "text": "This is a fantastic loaf. I used brewed coffee instead of the water for the chocolate slurry, and I added 1/4 tsp each of cardamom and nutmeg to the pumpkin batter. This is a more sophisticated and less sweet loaf than many recipes, resulting in a more “adult” taste but my children also loved it and said they can’t wait for me to make it again. This can easily be made with Greek yogurt instead of the sour cream if that’s what you have on hand. This will be a regular in my rotation, for sure."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "jb"
+          },
+          "datePublished": "2025-10-27T17:07:04Z",
+          "text": "Which GF flour did you use?"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Jo"
+          },
+          "datePublished": "2025-10-28T17:29:44Z",
+          "text": "I made 12 muffin with this recipe - baked it at 350 degrees for ~20 min. I added Nutella as icing to some of the muffins."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Leah"
+          },
+          "datePublished": "2025-10-27T14:27:45Z",
+          "text": "My family loved this and even asked for it for Thanksgiving in lieu of Pumpkin Pie (shocker!). I used a wooden skewer instead of a toothpick and it made a beautiful swirl. Also, served it with pumpkin ice cream which was a total winner."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Kalli"
+          },
+          "datePublished": "2025-10-26T16:13:00Z",
+          "text": "I did not find the batter to be too thick. Checkerboarded spoonfuls of batter in the loaf pan, then swirled with a thin wooden skewer.\nDo use the espresso powder. \nNot an intense pumpkin flavor/aftertaste, which I personally prefer."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "JZ Northeast Woods"
+          },
+          "datePublished": "2025-10-31T20:38:24Z",
+          "text": "@jb I used King Arthur GF Measure for Measure flour."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Mary Anne"
+          },
+          "datePublished": "2025-11-13T04:07:09Z",
+          "text": "I made this mostly as is, with a couple of substitutions based on a bunch of helpful comments:\n\nGreek yogurt instead of sour cream\nUpped the pumpkin to a full cup\nUpped the cinnamon to a full teaspoon\nUsed brewed coffee instead of hot water for the chocolate slurry, and made that at the being, so it had plenty of time to get chocolatey.\n\nAltogether, it was delicious. Next time, I may add some nutmeg. I don’t feel like it’s needed, but it could be fun."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Julie S"
+          },
+          "datePublished": "2025-10-28T03:39:19Z",
+          "text": "I followed the recipe as written. I too added the espresso to the chocolate mixture. I used a metal skewer to swirl. I’m sure a chopstick would work too. The cake is absolutely delicious! It was moist and such a nice combination of flavors. Definitely will make this again."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Sandra"
+          },
+          "datePublished": "2025-10-30T19:52:33Z",
+          "text": "I threw in just under 80 grams of ricotta bc I had a little in the fridge I didn’t want to go to waste. This cake is awesome. Not too sweet. Just enough chocolate. I may try all ricotta next time!"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Cinja"
+          },
+          "datePublished": "2025-10-25T19:10:24Z",
+          "text": "@LAH Agreed. Hard to really swirl the two because the batter was thick. In the oven now so we’ll see."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Maggie"
+          },
+          "datePublished": "2025-11-01T17:07:06Z",
+          "text": "@JZ Northeast Woods did you let the batter sit before putting in the pan to help with the gritty factor with GF?"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Andy"
+          },
+          "datePublished": "2025-11-01T22:08:10Z",
+          "text": "I really like the texture of this cake. Not too sweet, but the pumpkin flavor takes a back seat to the chocolate. I think you could easily bump up the cinnamon and add other fall spices. Chopped pecans would be a nice addition. \n\nI used full fat Greek yogurt but otherwise stuck to the recipe. Easily doubled for 2 loaves, which uses almost a whole can of pumpkin puree. Be sure to test. Mine took more than an hour."
+        }
+      ],
+      "commentCount": 128,
+      "cookTime": "PT1H15M",
+      "cookingMethod": "Bake, Baking",
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "dateModified": "2025-10-29T22:29:32.435Z",
+      "datePublished": "2025-10-21T20:16:38.836404Z",
+      "description": "One batter yields two distinct flavors in this autumnal twist on the marble cake. A combination of butter and sour cream in the base pumpkin batter results in a soft, plush crumb that stays moist for days. So as not to overwhelm the cinnamon-laced pumpkin cake, just a third of the batter is used for the chocolate cake. Flavored with Dutch-process cocoa bloomed in warm water, the chocolate is rich and undeniable, yet smooth and earthy, complementing the sweetness of the pumpkin. Baking intensifies the visual contrast between the chocolate and pumpkin swirls in the loaf, while its flavors meld into a subtly sweet, warmly spiced cake.",
+      "image": [
+        {
+          "@id": "nyt://image/dacb9dff-d5de-574a-bed6-3eb1b8bc658d#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-10-22T14:22:44.612Z",
+          "datePublished": "2025-10-21T19:52:46.000Z",
+          "height": "900",
+          "uploadDate": "2025-10-21T19:52:46.000Z",
+          "url": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/dacb9dff-d5de-574a-bed6-3eb1b8bc658d#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-googleFourByThree-v2.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-10-22T14:22:44.612Z",
+          "datePublished": "2025-10-21T19:52:46.000Z",
+          "height": "600",
+          "uploadDate": "2025-10-21T19:52:46.000Z",
+          "url": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/dacb9dff-d5de-574a-bed6-3eb1b8bc658d#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-mediumSquareAt3X-v2.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-10-22T14:22:44.612Z",
+          "datePublished": "2025-10-21T19:52:46.000Z",
+          "height": "1800",
+          "uploadDate": "2025-10-21T19:52:46.000Z",
+          "url": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/dacb9dff-d5de-574a-bed6-3eb1b8bc658d#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-facebookJumbo.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-10-22T14:22:44.612Z",
+          "datePublished": "2025-10-21T19:52:46.000Z",
+          "height": "550",
+          "uploadDate": "2025-10-21T19:52:46.000Z",
+          "url": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "keywords": "Pumpkin Purée, Sour Cream, Dutch-Processed Cocoa Powder, Fall, Easy, Make-Ahead, Halloween",
+      "mainEntityOfPage": {
+        "@id": "//cooking.nytimes.com/recipes/761076274-pumpkin-marble-loaf",
+        "@type": "WebPage",
+        "name": "Pumpkin Marble Loaf"
+      },
+      "name": "Pumpkin Marble Loaf",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "300.7",
+        "carbohydrateContent": "42.9 grams",
+        "cholesterolContent": "52.2 milligrams",
+        "fatContent": "13.2 grams",
+        "fiberContent": "1.9 grams",
+        "proteinContent": "4 grams",
+        "saturatedFatContent": "7.6 grams",
+        "sodiumContent": "218.2 milligrams",
+        "sugarContent": "23.2 grams",
+        "transFatContent": "0.1 grams",
+        "unsaturatedFatContent": "0.7 grams"
+      },
+      "prepTime": "PT0H15M",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "recipeCategory": "Loaf Cake, Snack, Dessert",
+      "recipeIngredient": [
+        "½ cup/112 grams unsalted butter, melted, plus more for greasing the pan",
+        "1 cup/218 grams granulated sugar",
+        "1 ¼ teaspoons baking powder",
+        "½ teaspoon baking soda",
+        "½ teaspoon kosher salt (such as Diamond Crystal)",
+        "¾ cup/188 grams canned pumpkin purée",
+        "⅔ cup/162 grams sour cream",
+        "1 large egg",
+        "2 ½ teaspoons pure vanilla extract",
+        "1 ¾ cups/228 grams all-purpose flour",
+        "3 tablespoons Dutch-process cocoa powder",
+        "3 tablespoons warm water",
+        "¾ teaspoon ground cinnamon"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Heat the oven to 350 degrees. Lightly grease a 9-by-5-inch loaf pan with some melted butter and line with parchment paper, leaving an overhang on the longer sides to create a sling. Lightly butter the parchment paper.",
+          "url": "https://cooking.nytimes.com/recipes/761076274-pumpkin-marble-loaf#recipe-step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large bowl, whisk together the granulated sugar, baking powder, baking soda and salt. Add the pumpkin purée, sour cream, egg and vanilla and whisk until combined. Add the melted butter and whisk until smooth.",
+          "url": "https://cooking.nytimes.com/recipes/761076274-pumpkin-marble-loaf#recipe-step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Using a flexible spatula, mix in the flour until just combined and no dry bits remain.",
+          "url": "https://cooking.nytimes.com/recipes/761076274-pumpkin-marble-loaf#recipe-step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a separate medium bowl, whisk together Dutch-process cocoa powder and the warm water until the cocoa has dissolved. Add 1¼ cups/330 grams of the batter to the cocoa mixture and whisk until just combined.",
+          "url": "https://cooking.nytimes.com/recipes/761076274-pumpkin-marble-loaf#recipe-step-4"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "To the large bowl with the remaining pumpkin batter, add the cinnamon and mix until just incorporated.",
+          "url": "https://cooking.nytimes.com/recipes/761076274-pumpkin-marble-loaf#recipe-step-5"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Use 2 spoons to drop alternating scoops of batter into the prepared loaf pan. Drag a skewer, toothpick or thin chopstick through the batters to swirl, taking care to not swirl too much so the batters stay distinct.",
+          "url": "https://cooking.nytimes.com/recipes/761076274-pumpkin-marble-loaf#recipe-step-6"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Bake until a toothpick inserted into the center comes out clean, 50 to 60 minutes.",
+          "url": "https://cooking.nytimes.com/recipes/761076274-pumpkin-marble-loaf#recipe-step-7"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Cool the cake in its pan set over a wire rack. When ready to serve, lift the cake by the overhanging parchment paper and transfer to a serving platter or cutting board. The cooled loaf can be stored tightly wrapped in plastic wrap or in an airtight container at room temperature for up to 4 days.",
+          "url": "https://cooking.nytimes.com/recipes/761076274-pumpkin-marble-loaf#recipe-step-8"
+        }
+      ],
+      "recipeYield": "8 to 10 servings",
+      "suitableForDiet": "VegetarianDiet",
+      "totalTime": "PT1H30M",
+      "url": "//cooking.nytimes.com/recipes/761076274-pumpkin-marble-loaf"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "//cooking.nytimes.com/recipes/761076274-pumpkin-marble-loaf",
+      "@type": "WebPage",
+      "author": {
+        "@id": "nyt://person/bb201e4e-21c8-5608-bfc0-9d187bac1b96",
+        "@type": "Person",
+        "name": "Kayla Hoang",
+        "url": "https://www.nytimes.com/by/kayla-hoang"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2025,
+      "dateModified": "2025-10-29T22:29:32.435Z",
+      "datePublished": "2025-10-21T20:16:38.836404Z",
+      "description": "One batter yields two distinct flavors in this autumnal twist on the marble cake. A combination of butter and sour cream in the base pumpkin batter results in a soft, plush crumb that stays moist for days. So as not to overwhelm the cinnamon-laced pumpkin cake, just a third of the batter is used for the chocolate cake. Flavored with Dutch-process cocoa bloomed in warm water, the chocolate is rich and undeniable, yet smooth and earthy, complementing the sweetness of the pumpkin. Baking intensifies the visual contrast between the chocolate and pumpkin swirls in the loaf, while its flavors meld into a subtly sweet, warmly spiced cake.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "image": [
+        {
+          "@id": "nyt://image/dacb9dff-d5de-574a-bed6-3eb1b8bc658d#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-10-22T14:22:44.612Z",
+          "datePublished": "2025-10-21T19:52:46.000Z",
+          "height": "900",
+          "uploadDate": "2025-10-21T19:52:46.000Z",
+          "url": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/dacb9dff-d5de-574a-bed6-3eb1b8bc658d#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-googleFourByThree-v2.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-10-22T14:22:44.612Z",
+          "datePublished": "2025-10-21T19:52:46.000Z",
+          "height": "600",
+          "uploadDate": "2025-10-21T19:52:46.000Z",
+          "url": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-googleFourByThree-v2.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/dacb9dff-d5de-574a-bed6-3eb1b8bc658d#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-mediumSquareAt3X-v2.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-10-22T14:22:44.612Z",
+          "datePublished": "2025-10-21T19:52:46.000Z",
+          "height": "1800",
+          "uploadDate": "2025-10-21T19:52:46.000Z",
+          "url": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-mediumSquareAt3X-v2.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/dacb9dff-d5de-574a-bed6-3eb1b8bc658d#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-facebookJumbo.jpg",
+          "creditText": "Rachel Vanni for The New York Times. Food Stylist: Simon Andrews.",
+          "dateModified": "2025-10-22T14:22:44.612Z",
+          "datePublished": "2025-10-21T19:52:46.000Z",
+          "height": "550",
+          "uploadDate": "2025-10-21T19:52:46.000Z",
+          "url": "https://static01.nyt.com/images/2025/10/24/multimedia/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb/24FD-EASY-PUMPKIN-DESSERTS-topart-pumpkinmarbleloaf-cqkb-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Pumpkin Marble Loaf",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "//cooking.nytimes.com/recipes/761076274-pumpkin-marble-loaf"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-11-06T19:07:38.725Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
