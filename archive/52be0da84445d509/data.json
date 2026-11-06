@@ -1,0 +1,604 @@
+{
+  "id": "52be0da84445d509",
+  "original_url": "https://cooking.nytimes.com/recipes/1021760-coconut-chicken-curry",
+  "canonical_url": "https://cooking.nytimes.com/recipes/1021760-coconut-chicken-curry",
+  "fetched_title": "Coconut Chicken Curry Recipe",
+  "main_text_content": "Curry powder is stirred into this braise only during the last minute of cooking, delivering a bright hit of spice on top of the paprika and turmeric mellowed into the slow-simmered chicken. This dish from “Burma Superstar” by Desmond Tan and Kate Leahy (Ten Speed Press, 2017), needs time on the stove but not much attention, and gets even better after resting in the fridge, making it an ideal weeknight meal that can last days.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/1021943-lemony-chicken-feta-meatball-soup-with-spinach\"><figure class=\"atoms_imageBlock__P0ym6 atoms_roundedImageBlock__FSnaH\"><img alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2021/02/23/dining/yf-meatball-soup-copy/yf-meatball-soup-copy-mediumThreeByTwo252-v4.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2021/02/23/dining/yf-meatball-soup-copy/yf-meatball-soup-copy-mediumThreeByTwo440-v4.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"208px\"/></figure><section class=\"atoms_textBlock__QKkI_\"><h3 class=\"pantry--ui-strong atoms_cardTitle__aAeYE\">Lemony Chicken-Feta Meatball Soup With Spinach</h3><p class=\"pantry--ui-sm recipecard_byline__tf4y0\">Yasmin Fahr</p><div class=\"recipecard_recipeCardRating__0mxMA\"><span class=\"recipecard_ratingCaption__CDw5D\">8255 ratings with an average rating of 5 out of 5 stars</span><span class=\"recipecard_stars__4hc6Q\"><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg><svg width=\"30\" height=\"30\" viewBox=\"0 0 15 15\" fill=\"none\" xmlns=\"http://www.w3.org/2000/svg\" class=\"recipecard_star__ChYwL\"><path d=\"M7.5.297 9.184 5.48h5.449l-4.408 3.203 1.683 5.182L7.5 10.662l-4.408 3.203 1.683-5.182L.367 5.48h5.45L7.5.297Z\" fill=\"currentColor\" stroke=\"currentColor\" stroke-width=\"0.5\" stroke-linejoin=\"round\"></path></svg></span><p class=\"pantry--ui-sm recipecard_ratingLabel__CqO_g\">8,255</p></div><p class=\"pantry--ui-sm recipecard_cookTime__jBWS9\">30 minutes</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2021/01/06/dining/04Cookbooksrex2-curry/merlin_181749069_bac75581-7b0e-4426-8d8b-1803663440fd-facebookJumbo.jpg",
+  "local_image_path": "archive/52be0da84445d509/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@id": "urn:nyt:ScoopRecipe:a861fde983ab53dc9ab1b0ea88b4749d",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 11442,
+        "ratingValue": 5
+      },
+      "author": {
+        "@id": "nyt://person/2afa7764-1743-5faf-91d4-55b7c529c6e1",
+        "@type": "Person",
+        "description": "Genevieve Ko is a senior editor and columnist for the Food section and NYT Cooking, for which she also develops recipes.",
+        "image": [
+          {
+            "@id": "nyt://image/131b744a-aa64-582f-a4d0-14cb0560d2e7#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/04/06/reader-center/author-genevieve-ko/author-genevieve-ko-superJumbo-v2.png",
+            "dateModified": "2023-01-27T19:39:25.904Z",
+            "datePublished": "2022-04-06T20:10:59.000Z",
+            "height": "1000",
+            "uploadDate": "2022-04-06T20:10:59.000Z",
+            "url": "https://static01.nyt.com/images/2022/04/06/reader-center/author-genevieve-ko/author-genevieve-ko-superJumbo-v2.png",
+            "width": "1000"
+          },
+          {
+            "@id": "nyt://image/131b744a-aa64-582f-a4d0-14cb0560d2e7#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/04/06/reader-center/author-genevieve-ko/author-genevieve-ko-mediumSquareAt3X-v2.png",
+            "dateModified": "2023-01-27T19:39:25.904Z",
+            "datePublished": "2022-04-06T20:10:59.000Z",
+            "height": "1000",
+            "uploadDate": "2022-04-06T20:10:59.000Z",
+            "url": "https://static01.nyt.com/images/2022/04/06/reader-center/author-genevieve-ko/author-genevieve-ko-mediumSquareAt3X-v2.png",
+            "width": "1000"
+          }
+        ],
+        "name": "Genevieve Ko",
+        "sameAs": "https://www.nytimes.com/by/genevieve-ko",
+        "url": "https://cooking.nytimes.com/author/genevieve-ko"
+      },
+      "comment": [
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Marcel Maldonado"
+          },
+          "datePublished": "2026-11-06T07:13:00Z",
+          "text": "Made this for dinner tonight mostly as is, maybe a little extra salt. \nReally, really delicious \nOh, I also used regular curry but will try with Madras curry next.\n\nI can only imagine how much more depth this would get with a ln overnight marinate and a couple days in the frig.\nDefinitely a must try."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Dave"
+          },
+          "datePublished": "2026-11-06T01:57:08Z",
+          "text": "I made this to the recipe, marinated the chicken overnight and let it rest for 20 minutes before serving. I thought the sauce had great depth and complexity, a pleasant \"bite\" and sweetness."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Mapleavenuecrowd."
+          },
+          "datePublished": "2026-11-05T13:38:38Z",
+          "text": "Don’t judge me. I only had sweetened coconut milk but I took a deep breath and dove in. Whoops 1 Tbs turmeric went into the marinade instead of 1/4 tps. Keep going. Smells great. Added broccoli florets when the curry went in just because. My fussy daughter said “this is the best thing I ever ate”.  Go figure."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Erin"
+          },
+          "datePublished": "2026-11-05T07:30:25Z",
+          "text": "I wish I had read the comments before cooking! DO NOT add 1 1/2 cups of water. I hesitated to add that much water but when I saw the recipe was from an articled titled something like - “Promise to follow the recipe exactly,” I felt like I had to follow the recipe exactly. Nope. \n\nI felt like there was also way too much oil. Maybe half the amount. \n\nI used a generous amount of Thai Kitchen green curry paste and it was delicious - stuck with rye turmeric, paprika, and salt for the chicken, just changed up the curry seasoning. \n\nWithout the lime juice at the end, this curry definitely is lacking. I’m a cilantro fan, so don’t forget that, either! \n\nWe served our curry over sweet potato glass noodles, but I think this curry over rice might be a better fit. Enjoy it! Just definitely do not follow the recipe."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Ella"
+          },
+          "datePublished": "2026-11-05T03:45:35Z",
+          "text": "omg my mom made this for us two days ago l, crazy I get this notif now but OH MY GOD IT WAS SO GOOD I begged for it to be put in the usual rotation. AMAZING."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "KAR"
+          },
+          "datePublished": "2026-11-05T01:49:54Z",
+          "text": "Added stock instead of water, always extra spices, and rice noodles cooked directly in the liquid.  Family raved!"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "REM"
+          },
+          "datePublished": "2026-11-06T01:57:13Z",
+          "text": "@Lynda— Sorry that happened to you. I’ve had it happen to me too. Curdling is due to one of three reasons. Thermal shock, rapid boiling or acidic ingredients. Given the recipe, I would guess it was either thermal shock or rapid boiling. So reduce the heat and let the pan cool down a bit before adding the coconut milk, maybe even take it off the heat if you have an electric stove. Then, once you’ve stirred in the coconut milk, slowly bring it up to a simmer and make sure it doesn’t reach a fast boil before reducing the heat to maintain the simmer. Hope that helps."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Lynda"
+          },
+          "datePublished": "2026-11-05T01:49:46Z",
+          "text": "Hi, the chicken coconut  dish was delicious, but why when I added the coconut milk did it curdle?\nNot a nice looking presentation.  The milk wasn’t past due either.\nDid I do something wrong?"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Steve"
+          },
+          "datePublished": "2026-11-04T20:31:44Z",
+          "text": "Totally agree that 1.5 cups of water makes this too thin.  The dominant flavor was onion and the coconut did not come through.  I love the idea of adding ginger and maybe some other vegetables such as potato, okra and fresh chilis, and of generally spicing it up a bit. Maybe use leeks or shallots in place of some of the onion?"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Lisa"
+          },
+          "datePublished": "2026-11-04T11:01:18Z",
+          "text": "So good. At the end, I just stirred in the cilantro and lime."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "MM"
+          },
+          "datePublished": "2026-11-04T02:52:46Z",
+          "text": "I was underwhelmed by this chicken. It was fine but boring. Definitely only add 1/2 cup water. Trimming and cutting the chicken was too much work for the result."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Animal Farm"
+          },
+          "datePublished": "2026-11-03T23:57:48Z",
+          "text": "@Really disappointed I just cooked this as well. No amount of doctoring it up with added curry, garam masala or lemon grass could rescue it. The cup and a half of water was a huge mistake. I siphoned some of the broth off to make rice. I won't make this again."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Susan"
+          },
+          "datePublished": "2026-11-03T23:27:53Z",
+          "text": "Smells great but is sooooo watery.  It really doesn’t need 1 1/2 cups of water which isn’t even listed in the ingredients!  We used chicken stock instead but it really was overkill.  Did something get lost in translation??  If I make it again, I’m not included any water as the coconut milk is more than sufficient.."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Really disappointed"
+          },
+          "datePublished": "2026-11-03T22:14:04Z",
+          "text": "With all the amazing reviews I was excited to make this. But I cooked the recipe as written and it turned out bland and very liquidy. It also took a long time (chopping all the chicken thighs) and the fat from the coconut milk separated and curdled a little so it also wasn’t visually appealing either. Not worth the effort, won’t make it again."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "K. Meadows"
+          },
+          "datePublished": "2026-11-03T22:14:03Z",
+          "text": "Made as written, used about 1/4 cup less water. It was delicious!"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "jjd"
+          },
+          "datePublished": "2026-11-03T20:36:09Z",
+          "text": "Getting ready to prepare this.  Somewhat confused.  The directions call for 1 1/2 cups water to be added, but this is not included in list of ingredients."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Angela"
+          },
+          "datePublished": "2021-01-05T04:11:01Z",
+          "text": "A list of ingredients is good, but I also wish recipes were written like this:\n\nTrim 2 ½  pounds  chicken thighs of excess fat and cut into 1/2- to 1-inch pieces; transfer to a bowl. Add 1 tablespoon ground paprika, ½  teaspoon turmeric and 2  teaspoons kosher salt, and use your hands to mix well. ...\nIn a large pot, heat ⅓  cup canola oil over medium-high. Stir in 2  yellow onions, finely diced ... add 4  garlic cloves, minced, and continue to cook ... add 1 (13-ounce) can unsweetened coconut"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "WK"
+          },
+          "datePublished": "2021-01-16T19:49:50Z",
+          "text": "A Cantonese take on Thai. Very good, very bland. So I doubled & pounded the garlic, grated a 1 1/2\" piece of ginger, used 3 tbsp fish sauce, used 2 tbsp of Thai red curry paste (not the cayenne) & 1 full tsp turmeric, added the zest of 1 lime, & sauteed in coconut oil. Also used good chicken stock instead of water, reducing the amount to 1 cup. Served with chopped cilantro & lime wedges. Delicious, though NOT as written."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Elle"
+          },
+          "datePublished": "2021-01-06T17:55:42Z",
+          "text": "I also wish that recipe writers were more specific about onions. Yellow onions range widely in size, so cups or ounces or grams would be much appreciated in the interest of following the recipe precisely! Geez!"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Pete"
+          },
+          "datePublished": "2025-10-03T00:25:46Z",
+          "text": "@Angela YES!!!!!!!!!! I’ve only even seen one cookbook do this and it’s so helpful so you don’t have to constantly jump between the list and the instructions."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Mary"
+          },
+          "datePublished": "2021-01-08T02:01:47Z",
+          "text": "I chose this recipe based on Genevieve Ko's \"stick to the recipe\" recommendation, and because I had eaten at Burma Superstar several years ago and loved it. In searching for parathas to make along side it, I found the ORIGINAL Superstar recipe which included a tablespoon of grated ginger, which I added along with the garlic. The outcome was delicious, but just curious about her \"follow the recipe\" advice which was NOT done in this case."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "KS"
+          },
+          "datePublished": "2021-01-05T16:13:16Z",
+          "text": "A friend shared this dish while visiting last year, and it's incredible!  So flavorful and tender.  Try to stay patient at the end - those recommended 20 minutes for the flavors to meld are key, as are the lime and cilantro for serving. Homemade naan does not go amiss, either.  This is a winter household staple for us...best host thank-you gift ever!"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Paula"
+          },
+          "datePublished": "2021-01-09T01:49:49Z",
+          "text": "This is so good! we loved it! The natural sweetness of the coconut milk balances the cayenne and curry perfectly. Note: I added only 1/2 cup of water in step 3, not 1 1/2, as there was already a great deal of liquid. Even with this subtraction and after simmering for 3/4 hour there was still a LOT of coconut broth - not a problem as it's delicious and great over the leftover rice, but I'm glad I didn't add the full amount of water listed."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Mark"
+          },
+          "datePublished": "2025-06-05T17:20:27Z",
+          "text": "@WK So add ginger, fish sauce/oyster sauce and red Thai curry and turn it back into a Thai dish. Got it."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Suzy"
+          },
+          "datePublished": "2025-10-10T21:10:45Z",
+          "text": "@Pete I recently downloaded the ReciMe app and as you work through the recipe, you can tap the ingredient and a pop up window tells you the amount. I squealed with delight when I realized!!!"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Mayi"
+          },
+          "datePublished": "2025-01-02T01:04:35Z",
+          "text": "@WK Thank you. Did this and it turned out very well."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Beth"
+          },
+          "datePublished": "2021-02-25T21:02:10Z",
+          "text": "We make this since we tried it almost every week - it's that much of a favorite.  We use the Madras Curry, the full fat coconut milk and the full amount of cayenne although the first time I made it my husband's stomach was wobbly so I left it out and we STILL Loved it and love it even more now.  One of our favorite recipes on the site, and how big the onions are couldn't be less meaningful - I also use as much chicken as I have - sometimes more sometimes less - it doesn't really matter."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Mercedes"
+          },
+          "datePublished": "2025-10-21T21:52:12Z",
+          "text": "@Elle I think the point is that it doesn’t matter. You’re not baking, so precision isn’t necessary. Use whatever onion size feels right :)"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "ariel"
+          },
+          "datePublished": "2024-11-20T16:12:54Z",
+          "text": "@Mary thanks for this, I added a tablespoon of grated ginger on your recommendation along with the coconut milk and it was great."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Sally"
+          },
+          "datePublished": "2021-01-05T16:39:28Z",
+          "text": "I think steamed broccoli would compliment these flavors, or really any bright green veg: peas, green beans, asparagus. A substantial green salad (cabbage, romaine, chopped carrots, green onions, celery, kohlrabi, etc.) is always a good flavor and texture contrast for a braised meat dish."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "emcat"
+          },
+          "datePublished": "2021-01-06T21:00:30Z",
+          "text": "I echo Elle's wish for weight measurements and type of onion specificity. Additionally, if we want to follow this recipe to the letter, it would be helpful to specify the type of paprika. I currently have 5 different paprikas in my cabinet ranging from sharp, to half sharp, to sweet, to smoky, and beyond."
+        }
+      ],
+      "commentCount": 1258,
+      "cookingMethod": "Simmer",
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "dateModified": "2026-09-24T22:55:58.338Z",
+      "datePublished": "2021-01-06T00:00:00Z",
+      "description": "Curry powder is stirred into this braise only during the last minute of cooking, delivering a bright hit of spice on top of the paprika and turmeric mellowed into the slow-simmered chicken. This dish from “Burma Superstar” by Desmond Tan and Kate Leahy (Ten Speed Press, 2017), needs time on the stove but not much attention, and gets even better after resting in the fridge, making it an ideal weeknight meal that can last days. There’s plenty of coconut milk broth to spoon over rice or noodles. At his restaurant, Burma Superstar in Oakland, Calif., Mr. Tan also serves this with platha, a buttery, flaky Burmese flatbread, for dipping. Genevieve Ko",
+      "image": [
+        {
+          "@id": "nyt://image/679ed65b-3662-5156-a1b8-956c964316bd#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/01/06/dining/04Cookbooksrex2-curry/merlin_181749069_bac75581-7b0e-4426-8d8b-1803663440fd-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Julia Gartland for The New York Times (Photography and Styling)",
+          "dateModified": "2021-01-04T20:23:38.954Z",
+          "datePublished": "2021-01-04T20:23:38.954Z",
+          "height": "900",
+          "uploadDate": "2021-01-04T20:23:38.954Z",
+          "url": "https://static01.nyt.com/images/2021/01/06/dining/04Cookbooksrex2-curry/merlin_181749069_bac75581-7b0e-4426-8d8b-1803663440fd-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/679ed65b-3662-5156-a1b8-956c964316bd#superJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/01/06/dining/04Cookbooksrex2-curry/merlin_181749069_bac75581-7b0e-4426-8d8b-1803663440fd-superJumbo.jpg",
+          "creditText": "Julia Gartland for The New York Times (Photography and Styling)",
+          "dateModified": "2021-01-04T20:23:38.954Z",
+          "datePublished": "2021-01-04T20:23:38.954Z",
+          "height": "1365",
+          "uploadDate": "2021-01-04T20:23:38.954Z",
+          "url": "https://static01.nyt.com/images/2021/01/06/dining/04Cookbooksrex2-curry/merlin_181749069_bac75581-7b0e-4426-8d8b-1803663440fd-superJumbo.jpg",
+          "width": "2048"
+        },
+        {
+          "@id": "nyt://image/679ed65b-3662-5156-a1b8-956c964316bd#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/01/06/dining/04Cookbooksrex2-curry/merlin_181749069_bac75581-7b0e-4426-8d8b-1803663440fd-mediumSquareAt3X.jpg",
+          "creditText": "Julia Gartland for The New York Times (Photography and Styling)",
+          "dateModified": "2021-01-04T20:23:38.954Z",
+          "datePublished": "2021-01-04T20:23:38.954Z",
+          "height": "1800",
+          "uploadDate": "2021-01-04T20:23:38.954Z",
+          "url": "https://static01.nyt.com/images/2021/01/06/dining/04Cookbooksrex2-curry/merlin_181749069_bac75581-7b0e-4426-8d8b-1803663440fd-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/679ed65b-3662-5156-a1b8-956c964316bd#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2021/01/06/dining/04Cookbooksrex2-curry/merlin_181749069_bac75581-7b0e-4426-8d8b-1803663440fd-facebookJumbo.jpg",
+          "creditText": "Julia Gartland for The New York Times (Photography and Styling)",
+          "dateModified": "2021-01-04T20:23:38.954Z",
+          "datePublished": "2021-01-04T20:23:38.954Z",
+          "height": "550",
+          "uploadDate": "2021-01-04T20:23:38.954Z",
+          "url": "https://static01.nyt.com/images/2021/01/06/dining/04Cookbooksrex2-curry/merlin_181749069_bac75581-7b0e-4426-8d8b-1803663440fd-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "keywords": "Chicken Thigh, Coconut Milk, Curry Powder, Fish Sauce, Great Leftovers, Paprika, Weeknight",
+      "mainEntityOfPage": {
+        "@id": "//cooking.nytimes.com/recipes/1021760-coconut-chicken-curry",
+        "@type": "WebPage",
+        "name": "Coconut Chicken Curry"
+      },
+      "name": "Coconut Chicken Curry",
+      "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "797.25",
+        "carbohydrateContent": "27.4 grams",
+        "cholesterolContent": "266.5 milligrams",
+        "fatContent": "50.1 grams",
+        "fiberContent": "3 grams",
+        "proteinContent": "61 grams",
+        "saturatedFatContent": "22 grams",
+        "sodiumContent": "1264.7 milligrams",
+        "sugarContent": "3.7 grams",
+        "transFatContent": "0.1 grams",
+        "unsaturatedFatContent": "8.2 grams"
+      },
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "recipeCategory": "Curry, Dinner, Main Course",
+      "recipeCuisine": "Asian",
+      "recipeIngredient": [
+        "2 ½ pounds boneless, skinless chicken thighs",
+        "1 tablespoon ground paprika",
+        "½ teaspoon ground turmeric",
+        "2 teaspoons kosher salt, plus more as needed",
+        "⅓ cup canola oil",
+        "2 yellow onions, finely diced",
+        "4 garlic cloves, minced",
+        "1 (13-ounce) can unsweetened coconut milk",
+        "1 ½ tablespoons fish sauce, plus more as needed",
+        "1 teaspoon Madras curry powder",
+        "½ teaspoon ground cayenne",
+        "Cooked rice or noodles, for serving",
+        "1 cup cilantro sprigs, for serving",
+        "1 lime or lemon, cut into wedges, for serving"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToStep",
+          "text": "Trim the chicken thighs of excess fat and cut into ½- to 1-inch pieces; transfer to a bowl. Add the paprika, turmeric and salt, and use your hands to mix well. Let the chicken marinate at room temperature while you prepare the other ingredients, or cover and refrigerate overnight.",
+          "url": "https://cooking.nytimes.com/recipes/1021760-coconut-chicken-curry#recipe-step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "In a large pot, heat the oil over medium-high. Stir in the onions, lower the heat to medium-low and cook gently, stirring often to prevent scorching, until tender and translucent, 8 to 10 minutes. Add the garlic and continue to cook, stirring often, until most of the water from the onions has been cooked out and a glossy layer of oil has risen to the surface, about 5 minutes more.",
+          "url": "https://cooking.nytimes.com/recipes/1021760-coconut-chicken-curry#recipe-step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Add the marinated chicken and stir to release the spices into the onion. Pour in the coconut milk and bring to a near boil. Let the coconut milk simmer briskly for about 4 minutes to thicken a bit. Lower the heat to medium-low and add the fish sauce. Stir in 1 ½ cups water and bring to a near boil. The broth will thin out as the chicken starts to release its juices.",
+          "url": "https://cooking.nytimes.com/recipes/1021760-coconut-chicken-curry#recipe-step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "Lower to a gentle simmer and cook, stirring occasionally, until the chicken is tender, 30 to 45 minutes. Droplets of paprika-red oil will rise to the surface. Stir in the curry powder and cayenne, simmer briefly and remove from the heat.",
+          "url": "https://cooking.nytimes.com/recipes/1021760-coconut-chicken-curry#recipe-step-4"
+        },
+        {
+          "@type": "HowToStep",
+          "text": "If time permits, let the curry sit for at least 20 minutes before serving. This allows the chicken to soak in more flavors as the curry cools. Bring to a simmer again right before serving and taste, adding more salt or fish sauce if desired. Serve over rice or noodles, with bowls of cilantro and lime wedges.",
+          "url": "https://cooking.nytimes.com/recipes/1021760-coconut-chicken-curry#recipe-step-5"
+        }
+      ],
+      "recipeYield": "4 servings",
+      "totalTime": "PT1H",
+      "url": "//cooking.nytimes.com/recipes/1021760-coconut-chicken-curry"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "//cooking.nytimes.com/recipes/1021760-coconut-chicken-curry",
+      "@type": "WebPage",
+      "author": {
+        "@id": "nyt://person/2afa7764-1743-5faf-91d4-55b7c529c6e1",
+        "@type": "Person",
+        "description": "Genevieve Ko is a senior editor and columnist for the Food section and NYT Cooking, for which she also develops recipes.",
+        "image": [
+          {
+            "@id": "nyt://image/131b744a-aa64-582f-a4d0-14cb0560d2e7#superJumbo",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/04/06/reader-center/author-genevieve-ko/author-genevieve-ko-superJumbo-v2.png",
+            "dateModified": "2023-01-27T19:39:25.904Z",
+            "datePublished": "2022-04-06T20:10:59.000Z",
+            "height": "1000",
+            "uploadDate": "2022-04-06T20:10:59.000Z",
+            "url": "https://static01.nyt.com/images/2022/04/06/reader-center/author-genevieve-ko/author-genevieve-ko-superJumbo-v2.png",
+            "width": "1000"
+          },
+          {
+            "@id": "nyt://image/131b744a-aa64-582f-a4d0-14cb0560d2e7#mediumSquareAt3X",
+            "@type": "ImageObject",
+            "contentUrl": "https://static01.nyt.com/images/2022/04/06/reader-center/author-genevieve-ko/author-genevieve-ko-mediumSquareAt3X-v2.png",
+            "dateModified": "2023-01-27T19:39:25.904Z",
+            "datePublished": "2022-04-06T20:10:59.000Z",
+            "height": "1000",
+            "uploadDate": "2022-04-06T20:10:59.000Z",
+            "url": "https://static01.nyt.com/images/2022/04/06/reader-center/author-genevieve-ko/author-genevieve-ko-mediumSquareAt3X-v2.png",
+            "width": "1000"
+          }
+        ],
+        "name": "Genevieve Ko",
+        "sameAs": "https://www.nytimes.com/by/genevieve-ko",
+        "url": "https://cooking.nytimes.com/author/genevieve-ko"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2021,
+      "dateModified": "2026-09-24T22:55:58.338Z",
+      "datePublished": "2021-01-06T00:00:00Z",
+      "description": "Curry powder is stirred into this braise only during the last minute of cooking, delivering a bright hit of spice on top of the paprika and turmeric mellowed into the slow-simmered chicken. This dish from “Burma Superstar” by Desmond Tan and Kate Leahy (Ten Speed Press, 2017), needs time on the stove but not much attention, and gets even better after resting in the fridge, making it an ideal weeknight meal that can last days. There’s plenty of coconut milk broth to spoon over rice or noodles. At his restaurant, Burma Superstar in Oakland, Calif., Mr. Tan also serves this with platha, a buttery, flaky Burmese flatbread, for dipping. Genevieve Ko",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Coconut Chicken Curry",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "//cooking.nytimes.com/recipes/1021760-coconut-chicken-curry"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-11-06T19:07:01.374Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
