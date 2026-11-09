@@ -1,0 +1,514 @@
+{
+  "id": "24e556f34395d9ce",
+  "original_url": "https://cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake",
+  "canonical_url": "https://cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake",
+  "fetched_title": "Chocolate Tahini Mousse Cake Recipe",
+  "main_text_content": "This elegant dessert consists of a tender, black chocolate cake topped with a maple-tahini mousse and then enveloped in a glossy ganache. While it’s impressive enough for special occasions, this cake is surprisingly simple in its preparation.",
+  "main_html_content": "<a class=\"link_link__7WCQy link_default__lKxiG\" href=\"/recipes/793031226-Nargesi-Esfenaj-Spinach-and-Eggs-With-Turmeric\"><figure class=\"atoms_imageBlock__P0ym6 atoms_roundedImageBlock__FSnaH\"><img alt=\"\" decoding=\"async\" class=\"ResponsiveImage_image__zGSfP cardimage_image__EYWRG\" width=\"440\" height=\"293\" srcSet=\"https://static01.nyt.com/images/2026/06/19/multimedia/AW-Nargesi-Esfenaj-wqct/AW-Nargesi-Esfenaj-wqct-mediumThreeByTwo252-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 252w, https://static01.nyt.com/images/2026/06/19/multimedia/AW-Nargesi-Esfenaj-wqct/AW-Nargesi-Esfenaj-wqct-mediumThreeByTwo440-v2.jpg?format=pjpg&amp;quality=75&amp;auto=webp&amp;disable=upscale 440w\" loading=\"lazy\" sizes=\"208px\"/></figure><section class=\"atoms_textBlock__QKkI_\"><h3 class=\"pantry--ui-strong atoms_cardTitle__aAeYE\">Nargesi Esfenaj (Spinach and Eggs With Turmeric)</h3><p class=\"pantry--ui-sm recipecard_byline__tf4y0\">Alexa Weibel, Nasim Alikhani</p><p class=\"pantry--ui-sm recipecard_cookTime__jBWS9\">40 minutes</p></section></a>",
+  "key_image_url": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg-facebookJumbo.jpg",
+  "local_image_path": "archive/24e556f34395d9ce/image.jpg",
+  "json_ld_objects": [
+    {
+      "@context": "https://schema.org",
+      "@id": "urn:nyt:ScoopRecipe:5bf766f63f175a5699ba51b1fdffdc87",
+      "@type": "Recipe",
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 9,
+        "ratingValue": 5
+      },
+      "author": {
+        "@id": "nyt://person/4da88e18-5784-5ba4-9f2f-b017ae33d3b6",
+        "@type": "Person",
+        "name": "Jerrelle Guy",
+        "sameAs": "https://www.nytimes.com/by/jerrelle-guy",
+        "url": "https://cooking.nytimes.com/author/jerrelle-guy"
+      },
+      "comment": [
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "SMcG"
+          },
+          "datePublished": "2026-11-09T04:17:32Z",
+          "text": "I made this with a few alterations. Used cacao powder, cut back the maple syrup by 1/3 because I like my sweets less sweet. The biggest change: no ganache, because I was afraid of things going awry! I'm sure it would have looked snazzier, but I served it out of the springform pan and it was the delicious centerpiece of the post-election party."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "BJBears"
+          },
+          "datePublished": "2026-11-07T22:25:04Z",
+          "text": "How about making it with peanut butter instead of the tahini? Or hazelnut or pistachio butter? Both are easy enough to make yourself if you have a food processor or a decent blender."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Ashley"
+          },
+          "datePublished": "2026-11-06T01:57:13Z",
+          "text": "My family doesn’t like tahini—can I make it without the tahini?"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Clayton Rawson"
+          },
+          "datePublished": "2026-11-05T07:30:29Z",
+          "text": "How about the recipe for the Orange Torte from The Blue Mill on Commerce Street ?"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Leo"
+          },
+          "datePublished": "2026-11-04T22:55:16Z",
+          "text": "This is an awesome recipe! I love the flavors. I made in a 9 inch square pan and cut into squares. Also poured ganache over dessert the night before after briefly chilling. Both worked beautifully. I skipped the orange blossom as well, texture of mousse was perfect."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Leo"
+          },
+          "datePublished": "2026-11-04T20:31:50Z",
+          "text": "I made this yesterday and it came out perfect. I used a 9 inch square pan. Briefly chilled the mousse and topped with the ganache last night. Then cut into bars with a warmed knife this morning. Delicious!!"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "David S."
+          },
+          "datePublished": "2026-11-04T18:18:04Z",
+          "text": "Kathleen, there is very good gf all-purpose flour now. That's what I plan on using when I make this!"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "FlyVapenPikk"
+          },
+          "datePublished": "2026-11-04T18:18:03Z",
+          "text": "Definitely trying this one. If it were a car, it'd definitely be a Bentley; just has this high class and defined contrast look to it."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Cathleen"
+          },
+          "datePublished": "2026-11-03T22:13:55Z",
+          "text": "Where can I find the 'Customize this recipe' feature?"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "aline libassi"
+          },
+          "datePublished": "2026-11-03T19:43:17Z",
+          "text": "Can I refrigerate the cake with the ganache topping the day before Thanksgiving?"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Tanya"
+          },
+          "datePublished": "2026-11-03T19:43:18Z",
+          "text": "Try the new ‘Customize this Recipe’ feature. I love it!"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "lara"
+          },
+          "datePublished": "2026-11-06T16:10:12Z",
+          "text": "@? yes great question! I'd like to try making this, but the idea of pouring the ganache over makes me a bit nervous"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "lara"
+          },
+          "datePublished": "2026-11-06T16:10:25Z",
+          "text": "@? great question. I reread the recipe and I think it does answer your question it says to refrigerate the cake with the mousse at least six hours or overnight before you do the ganache so that's basically the same thing as freezing"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "?"
+          },
+          "datePublished": "2026-11-03T17:09:24Z",
+          "text": "Would it be easier to freeze the moussed cake before adding the ganache? It seems like it would be really hard to get an even icing over soft mousse. Or would freezing mess up the mousse?"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Bee"
+          },
+          "datePublished": "2026-11-04T04:58:55Z",
+          "text": "@Kathleen I’ve found that if the flour is a cup or leas, cake recipes will work with Bobs red mill 1-1."
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Joanna"
+          },
+          "datePublished": "2026-11-05T13:38:38Z",
+          "text": "@Kathleen I regularly sub GF flour. I find it’s best to sub based on weight rather than cup measurements. And NYT recipes allow you to do this easily. Toggle to “metric” and you get weight in grams"
+        },
+        {
+          "@type": "Comment",
+          "author": {
+            "@type": "Person",
+            "name": "Kathleen"
+          },
+          "datePublished": "2026-11-03T17:09:20Z",
+          "text": "This looks superb! I wonder if the chocolate cake could be made with gluten free flour?"
+        }
+      ],
+      "commentCount": 17,
+      "cookTime": "PT8H40M",
+      "cookingMethod": "Bake, Baking",
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2026,
+      "dateModified": "2026-11-02T21:08:00.167Z",
+      "datePublished": "2026-10-30T15:27:40.764354Z",
+      "description": "This elegant dessert consists of a tender, black chocolate cake topped with a maple-tahini mousse and then enveloped in a glossy ganache. While it’s impressive enough for special occasions, this cake is surprisingly simple in its preparation. The complexity comes in the taste, with the subtle toastiness of sesame oil and the delicate fragrance of orange blossom water as background flavors that highlight the nutty tahini. The mousse topping is light and not too sweet, using mascarpone cheese instead of gelatin to stabilize the whipped cream and relying only on the natural sweetness of maple syrup. The warm depth of brown sugar and the distinct flavor of black cocoa, an ultra-alkalized version of Dutch-processed cocoa, gives the cake a nostalgic Oreo-cookie profile, and the salt accentuates the dark chocolate, bringing everything into balance.",
+      "image": [
+        {
+          "@id": "nyt://image/b9703887-966d-5d0e-8185-8f8da0fcbb0d#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Kaitlin Wayne. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2026-10-29T02:48:09.665Z",
+          "datePublished": "2026-10-29T02:48:09.665Z",
+          "height": "900",
+          "uploadDate": "2026-10-29T02:48:09.665Z",
+          "url": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/b9703887-966d-5d0e-8185-8f8da0fcbb0d#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Kaitlin Wayne. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2026-10-29T02:48:09.665Z",
+          "datePublished": "2026-10-29T02:48:09.665Z",
+          "height": "600",
+          "uploadDate": "2026-10-29T02:48:09.665Z",
+          "url": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/b9703887-966d-5d0e-8185-8f8da0fcbb0d#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Kaitlin Wayne. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2026-10-29T02:48:09.665Z",
+          "datePublished": "2026-10-29T02:48:09.665Z",
+          "height": "1800",
+          "uploadDate": "2026-10-29T02:48:09.665Z",
+          "url": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/b9703887-966d-5d0e-8185-8f8da0fcbb0d#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg-facebookJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Kaitlin Wayne. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2026-10-29T02:48:09.665Z",
+          "datePublished": "2026-10-29T02:48:09.665Z",
+          "height": "549",
+          "uploadDate": "2026-10-29T02:48:09.665Z",
+          "url": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-1-clmg-facebookJumbo.jpg",
+          "width": "1050"
+        },
+        {
+          "@id": "nyt://image/f482e118-25f8-53d3-a933-4f5e76714173#videoSixteenByNineJumbo1600",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt-videoSixteenByNineJumbo1600.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Kaitlin Wayne. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2026-10-29T03:01:44.738Z",
+          "datePublished": "2026-10-29T03:01:44.738Z",
+          "height": "900",
+          "uploadDate": "2026-10-29T03:01:44.738Z",
+          "url": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt-videoSixteenByNineJumbo1600.jpg",
+          "width": "1600"
+        },
+        {
+          "@id": "nyt://image/f482e118-25f8-53d3-a933-4f5e76714173#googleFourByThree",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt-googleFourByThree.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Kaitlin Wayne. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2026-10-29T03:01:44.738Z",
+          "datePublished": "2026-10-29T03:01:44.738Z",
+          "height": "600",
+          "uploadDate": "2026-10-29T03:01:44.738Z",
+          "url": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt-googleFourByThree.jpg",
+          "width": "800"
+        },
+        {
+          "@id": "nyt://image/f482e118-25f8-53d3-a933-4f5e76714173#mediumSquareAt3X",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt-mediumSquareAt3X.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Kaitlin Wayne. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2026-10-29T03:01:44.738Z",
+          "datePublished": "2026-10-29T03:01:44.738Z",
+          "height": "1800",
+          "uploadDate": "2026-10-29T03:01:44.738Z",
+          "url": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt-mediumSquareAt3X.jpg",
+          "width": "1800"
+        },
+        {
+          "@id": "nyt://image/f482e118-25f8-53d3-a933-4f5e76714173#facebookJumbo",
+          "@type": "ImageObject",
+          "contentUrl": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt-facebookJumbo.jpg",
+          "creditText": "Christopher Testani for The New York Times. Food Stylist: Kaitlin Wayne. Prop Stylist: Megan Hedgpeth.",
+          "dateModified": "2026-10-29T03:01:44.738Z",
+          "datePublished": "2026-10-29T03:01:44.738Z",
+          "height": "550",
+          "uploadDate": "2026-10-29T03:01:44.738Z",
+          "url": "https://static01.nyt.com/images/2026/11/02/multimedia/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt/02FD-THANKSGIVING-DESSERTSREX1-JG-Tahini-Maple-Chocolate-Mousse-Cake-2-mgwt-facebookJumbo.jpg",
+          "width": "1050"
+        }
+      ],
+      "isAccessibleForFree": false,
+      "keywords": "Light Brown Sugar, Orange Blossom Water, Tahini, Mascarpone, Maple Syrup, Heavy Cream, Bittersweet Chocolate, Sesame Oil, Party, Make-Ahead, Project, Thanksgiving, Coffee, Cocoa Powder",
+      "mainEntityOfPage": {
+        "@id": "//cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake",
+        "@type": "WebPage",
+        "name": "Chocolate Tahini Mousse Cake"
+      },
+      "name": "Chocolate Tahini Mousse Cake",
+      "prepTime": "PT0H15M",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "recipeCategory": "Chocolate Cake, Dessert, Mousse",
+      "recipeIngredient": [
+        "1 cup/126 grams all-purpose flour",
+        "⅔ cup/135 grams packed light brown sugar",
+        "⅓ cup/35 grams black cocoa powder (see Tips)",
+        "½ teaspoon baking soda",
+        "¼ teaspoon fine salt",
+        "1 large egg",
+        "⅓ cup/70 grams neutral oil, such as vegetable, grapeseed or canola oil",
+        "¼ cup/55 grams whole milk",
+        "1 teaspoon distilled white vinegar",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon orange blossom water (see Tips)",
+        "½ cup/112 grams hot coffee",
+        "1 cup/255 grams tahini (made with sesame only; see Tips), well-stirred",
+        "½ cup/115 grams mascarpone",
+        "½ cup/160 grams maple syrup",
+        "1 teaspoon vanilla extract",
+        "1 teaspoon orange blossom water (see Tips)",
+        "1 teaspoon toasted sesame oil",
+        "¼ teaspoon fine salt",
+        "2 cups/480 grams cold heavy whipping cream",
+        "6 ounces/170 grams (about 1 cup) high-quality bittersweet (60%) chocolate chips, such as Ghirardelli",
+        "¼ teaspoon espresso powder (optional)",
+        "¾ cup/180 grams heavy whipping cream"
+      ],
+      "recipeInstructions": [
+        {
+          "@type": "HowToSection",
+          "itemListElement": [
+            {
+              "@type": "HowToStep",
+              "text": "Heat the oven to 325 degrees. Line the bottom of a 9-inch springform pan with a round of parchment paper, wrap the outside of the pan tightly with aluminum foil and set it aside.",
+              "url": "https://cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake#recipe-step-1"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Sift the flour, brown sugar, cocoa powder, baking soda and salt into a large bowl. Whisk until homogenous in color. Add the egg, oil, milk, vinegar, vanilla and orange blossom water and whisk until combined, then whisk in the hot coffee. The batter will be runny.",
+              "url": "https://cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake#recipe-step-2"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Pour the batter into the pan and bake for 30 to 35 minutes, until the surface is no longer sticky to the touch and a toothpick comes out with a few moist crumbs, being careful not to overbake. Remove and allow to cool for at least 20 minutes, then transfer the pan to the fridge to chill for at least 30 minutes.",
+              "url": "https://cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake#recipe-step-3"
+            }
+          ],
+          "name": "Prepare the cake:"
+        },
+        {
+          "@type": "HowToSection",
+          "itemListElement": [
+            {
+              "@type": "HowToStep",
+              "text": "Once the cake is chilled, prepare the tahini mousse. In a large mixing bowl, whisk together the tahini, mascarpone, maple syrup, vanilla, orange blossom water, sesame oil and salt until smooth. Set aside.",
+              "url": "https://cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake#recipe-step-4"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "In another large mixing bowl using a handheld electric beater, or in the bowl of a stand mixer fitted with the whisk attachment, beat the heavy cream on high speed until stiff, about 2 minutes. Fold about one third of the whipped cream into the tahini mixture to lighten. Then gently fold in the remaining whipped cream in 2 additions until combined, being careful not to overmix (a few small streaks are fine). Spread the tahini mousse evenly over the chilled cake, smoothing to the edges. To flatten the top, place a 9-inch round of parchment directly over the mousse and press down gently and evenly with your palm or the bottom of a flat measuring cup to level. Refrigerate with the parchment for at least 6 hours, or overnight.",
+              "url": "https://cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake#recipe-step-5"
+            }
+          ],
+          "name": "Prepare the tahini mousse:"
+        },
+        {
+          "@type": "HowToSection",
+          "itemListElement": [
+            {
+              "@type": "HowToStep",
+              "text": "When you’re ready to finish the cake, make the ganache. Into a heatproof bowl, add the chocolate chips and the espresso powder, if using. In a small saucepan, heat the heavy cream for 2 to 3 minutes, just until steaming, then pour it over the chocolate chips to melt. Stir until smooth and glossy. Allow the ganache to sit until it’s at cool room temperature, 10 to 15 minutes. It should still be pourable but not warm enough to melt the mousse.",
+              "url": "https://cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake#recipe-step-6"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "On your serving plate, overlap 3 long strips of parchment to make a triangle. This will help catch any excess ganache when icing the cake. Remove the cake from the fridge, remove the top piece of parchment and carefully run a small knife around the edges of the cake to help release it from the sides of the pan. Unlatch the side of the springform and slide a spatula between the bottom of the pan and the piece of parchment. Carefully transfer to the serving plate over the strips of parchment.",
+              "url": "https://cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake#recipe-step-7"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Give the ganache a final stir, then pour it over the center of the cake, gently spreading it to the edges with an offset spatula or the back of a spoon and allowing the excess to drip evenly down the sides. Working quickly, gently guide the ganache over any remaining uncovered areas of the cake until the cake is completely covered. Allow the ganache to settle but not fully harden before sliding the strips of parchment out from underneath and discarding.",
+              "url": "https://cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake#recipe-step-8"
+            },
+            {
+              "@type": "HowToStep",
+              "text": "Transfer the cake to the fridge to chill until the ganache is set, at least 30 minutes, before slicing. Using a sharp knife, cut into wedges, wiping the knife clean between each cut. Serve.",
+              "url": "https://cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake#recipe-step-9"
+            }
+          ],
+          "name": "Prepare the chocolate ganache:"
+        },
+        {
+          "@type": "HowToSection"
+        }
+      ],
+      "recipeYield": "8 to 12 servings",
+      "suitableForDiet": "VegetarianDiet",
+      "totalTime": "PT8H55M",
+      "url": "//cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "//cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake",
+      "@type": "WebPage",
+      "author": {
+        "@id": "nyt://person/4da88e18-5784-5ba4-9f2f-b017ae33d3b6",
+        "@type": "Person",
+        "name": "Jerrelle Guy",
+        "sameAs": "https://www.nytimes.com/by/jerrelle-guy",
+        "url": "https://cooking.nytimes.com/author/jerrelle-guy"
+      },
+      "copyrightHolder": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "copyrightYear": 2026,
+      "dateModified": "2026-11-02T21:08:00.167Z",
+      "datePublished": "2026-10-30T15:27:40.764354Z",
+      "description": "This elegant dessert consists of a tender, black chocolate cake topped with a maple-tahini mousse and then enveloped in a glossy ganache. While it’s impressive enough for special occasions, this cake is surprisingly simple in its preparation. The complexity comes in the taste, with the subtle toastiness of sesame oil and the delicate fragrance of orange blossom water as background flavors that highlight the nutty tahini. The mousse topping is light and not too sweet, using mascarpone cheese instead of gelatin to stabilize the whipped cream and relying only on the natural sweetness of maple syrup. The warm depth of brown sugar and the distinct flavor of black cocoa, an ultra-alkalized version of Dutch-processed cocoa, gives the cake a nostalgic Oreo-cookie profile, and the salt accentuates the dark chocolate, bringing everything into balance.",
+      "hasPart": {
+        "@type": "WebPageElement",
+        "cssSelector": ".recipe",
+        "isAccessibleForFree": false
+      },
+      "isAccessibleForFree": false,
+      "isPartOf": {
+        "@type": [
+          "CreativeWork",
+          "Product"
+        ],
+        "name": "NYT Cooking",
+        "productID": "cooking.nytimes.com:basic"
+      },
+      "name": "Chocolate Tahini Mousse Cake",
+      "publisher": {
+        "@id": "https://cooking.nytimes.com/#publisher",
+        "@type": "Organization",
+        "name": "NYT Cooking"
+      },
+      "url": "//cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://cooking.nytimes.com/#publisher",
+      "@type": "Organization",
+      "alternateName": [
+        "nytimes cooking",
+        "New York Times Cooking"
+      ],
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "2014-09-17",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "creditText": "NYT Cooking",
+        "height": "112",
+        "url": "https://static01.nyt.com/applications/cooking/623885b/assets/SiteLogoBlack-112x112.svg",
+        "width": "112"
+      },
+      "name": "NYT Cooking",
+      "parentOrganization": {
+        "@id": "https://www.nytimes.com/#publisher",
+        "@type": "NewsMediaOrganization",
+        "name": "The New York Times"
+      },
+      "sameAs": [
+        "https://www.facebook.com/nytcooking/",
+        "https://www.instagram.com/nytcooking/",
+        "https://www.youtube.com/c/NYTCooking",
+        "https://www.tiktok.com/@nytcooking",
+        "https://apps.apple.com/us/app/nyt-cooking/id911422904",
+        "https://play.google.com/store/apps/details?id=com.nytimes.cooking&hl=en_US&gl=US"
+      ],
+      "url": "https://cooking.nytimes.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@id": "https://www.nytimes.com/#publisher",
+      "@type": "NewsMediaOrganization",
+      "diversityPolicy": "https://www.nytco.com/company/diversity-and-inclusion/",
+      "ethicsPolicy": "https://www.nytco.com/company/standards-ethics/",
+      "foundingDate": "1851-09-18",
+      "logo": {
+        "@type": "ImageObject",
+        "contentUrl": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "creditText": "The New York Times",
+        "height": "291",
+        "url": "https://static01.nyt.com/images/icons/t_logo_291_black.png",
+        "width": "291"
+      },
+      "masthead": "https://www.nytimes.com/interactive/2023/01/28/admin/the-new-york-times-masthead.html",
+      "name": "The New York Times",
+      "sameAs": [
+        "https://www.facebook.com/nytimes/",
+        "https://twitter.com/nytimes",
+        "https://www.instagram.com/nytimes/",
+        "https://www.youtube.com/user/TheNewYorkTimes",
+        "https://www.linkedin.com/company/the-new-york-times",
+        "https://www.wikidata.org/wiki/Q9684",
+        "https://en.wikipedia.org/wiki/The_New_York_Times"
+      ],
+      "url": "https://www.nytimes.com/"
+    }
+  ],
+  "scraping_timestamp": "2026-11-09T18:44:54.092Z",
+  "scraping_status": "scraped",
+  "failure_count": 0
+}
