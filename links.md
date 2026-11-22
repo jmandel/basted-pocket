@@ -3,6 +3,7 @@
 
 ## 2026
 
+- https://www.americastestkitchen.com/recipes/17178-gateau-invisible-with-brown-sugar-cinnamon-whipped-cream #cake #dessert
 - https://cooking.nytimes.com/recipes/793370928-chocolate-tahini-mousse-cake #cake #dessert
 - https://cooking.nytimes.com/recipes/761076274-pumpkin-marble-loaf?art=100000010461859#notes_section #cake #dessert #tried-and-true
 - https://cooking.nytimes.com/recipes/1021760-coconut-chicken-curry #asian #dinner
