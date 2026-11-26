@@ -305,7 +305,7 @@
 - [https://www.olivemagazine.com/recipes/entertain/beetroot-and-goats-cheese-terrine/](https://www.olivemagazine.com/recipes/entertain/beetroot-and-goats-cheese-terrine/) #dinner #potluck #veg @note:Added_to_Pocket_on_2018-12-27
 - [https://www.olivemagazine.com/recipes/vegetarian/cauliflower-sformato-with-crispy-kale-and-caramelised-pine-nuts/](https://www.olivemagazine.com/recipes/vegetarian/cauliflower-sformato-with-crispy-kale-and-caramelised-pine-nuts/) #dinner #veg @note:Added_to_Pocket_on_2018-12-27
 - [http://angelasfoodlove.com/food-blog/2014/2/22/jamaican-jerk-chicken-with-serrano-lime-slaw-bringing-the-ca.html](http://angelasfoodlove.com/food-blog/2014/2/22/jamaican-jerk-chicken-with-serrano-lime-slaw-bringing-the-ca.html) #dinner @note:Added_to_Pocket_on_2018-11-26
-- [http://www.pbs.org/food/kitchen-vignettes/delicata-squash-and-sage-biscuits/](http://www.pbs.org/food/kitchen-vignettes/delicata-squash-and-sage-biscuits/) #potluck @note:Added_to_Pocket_on_2018-11-20
+- [https://www.pbs.org/food/recipes/delicata-squash-and-sage-biscuits](https://www.pbs.org/food/recipes/delicata-squash-and-sage-biscuits) #potluck @note:Added_to_Pocket_on_2018-11-20
 - [https://www.epicurious.com/recipes/food/views/lemon-black-pepper-cornmeal-cookies-105885](https://www.epicurious.com/recipes/food/views/lemon-black-pepper-cornmeal-cookies-105885) #cookies #dessert @note:Added_to_Pocket_on_2018-10-18
 - [https://www.maangchi.com/recipe/dak-kalguksu](https://www.maangchi.com/recipe/dak-kalguksu) #dinner #maangchi #noodles #soup #tried-and-true @note:Added_to_Pocket_on_2018-08-26
 - [https://thewoksoflife.com/2016/11/chinese-tea-eggs/](https://thewoksoflife.com/2016/11/chinese-tea-eggs/) #egg #potluck @note:Added_to_Pocket_on_2018-08-23
